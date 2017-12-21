@@ -54,6 +54,7 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 * *Sales* and *Equity* (if present) should be higher than the year before.
 * *Debt* should be less than half of the company's *assets*.
 * The stock's *price-to-earnings ratio* should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future](http://techcrunch.com/2014/07/05/the-new-fast-food/), but [too high of a P/E ratio means that the stock is overvalued.](http://www.investopedia.com/articles/00/092200.asp)
+    * [Different industries have different acceptable P/E ratios.](https://www.investopedia.com/video/play/stock-lower-pe-always-better-choice/) when comparing P/E ratios, only do so for companies in the same industry.
 * The stock's *price-to-sales ratio* should be close to 1.
 
 [You should also like what the company does](https://www.reddit.com/r/stocks/comments/5rsnr5/what_is_the_most_important_research_before_buying/dd9v416/):

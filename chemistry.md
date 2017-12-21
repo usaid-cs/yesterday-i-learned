@@ -1,3 +1,4 @@
+1. [Polyester hold onto things much stronger than cotton.](https://www.npr.org/sections/health-shots/2014/09/05/346055067/stinky-t-shirt-bacteria-love-polyester-in-a-special-way) This includes colour (pro) and body odour (con). [*Micrococcus*](https://en.wikipedia.org/wiki/Micrococcus) bacteria like polyester more, and are transmitted by washing machines.
 1. Octane rating is standardised from 0, that of [n-heptane](https://en.wikipedia.org/wiki/Heptane), to 100, that of [2,2,4-trimethylpentane](https://en.wikipedia.org/wiki/2,2,4-Trimethylpentane).
 1. The duct tape colour is a powdered aluminium pigment.
 1. Antioxidants are reducing agents. They just repair oxidation. They do not directly counter free radicals.

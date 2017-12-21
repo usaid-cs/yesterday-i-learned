@@ -1,3 +1,8 @@
+1. *Pièces*... rooms? coins?
+1. *Portefeuille*, door... leaf? A wallet.
+1. *À la carte*, to the... map? card? To order menu items individually, rather than set courses.
+1. *Sinon* ("Otherwise") is literally *si non*, "if not".
+1. "Rothschild" is pronounced "Roth's child". However, for some reason, ["Schwarzchild" (black shield) is pronounced "Shh-wat? shield"](https://www.youtube.com/watch?v=brmjWYQi2UM), instead.
 1. [It takes six (full) weeks less for an English speaker to learn French than to learn German.](http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)
 1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not".
 1. "Long time" becomes *longtemps* with no space in between.

@@ -1,5 +1,25 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. At least [one person](https://fivethirtyeight.com/features/every-color-of-every-lightsaber-in-star-wars-in-one-chart/) uses an orange lightsaber.
+1. In the UK, white walking canes are for blind people, and white/red striped canes are for deaf *and* blind people. This convention does not exist elsewhere.
+1. [Introduce yourself to the neighbors you share a wall/floor/ceiling with. If anyone is annoyed by loud music or pot smoke or whatever, it makes them more likely to come directly to you instead of the landlord.](https://www.reddit.com/r/AskReddit/comments/6ndu3g/what_is_your_first_apartment_tip/dk8rfqf/)
+1. Ed448-Goldilocks is more secure than Ed25519. "Nobody uses it despite it being very interesting from a mathematical and performance point of view because it's much slower than Curve25519, there aren't many good implementations, and Curve25519's security bounds are already good enough."
+1. If you quit a job without notice, [you are still entitled however much vacation pay accrued.](https://www.reddit.com/r/PersonalFinanceCanada/comments/7anbik/quit_a_job_without_notice_am_i_entitled_to/)
+1. The geometric mean is just the nth root of the product of n different numbers. It is like the usual mean, except you use the product instead of the sum.
+1. [PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) are made with fiberglass.
+1. "No VPN provider is going to risk jail to protect a $20 a month subscriber." - Attributed to someone who goes by Grugq.
+1. Those little green sticks at Starbucks are [coffee stoppers](https://refineddesigner.files.wordpress.com/2009/01/e86ba69762_spillstick.jpg), to stop coffee from spilling out of their puny unclosable lids.
+1. A real rolex [always never has a clear back.](https://www.bobswatches.com/rolex-blog/rolex-info/the-top-ways-to-spot-a-fake-rolex.html) The movement is never visible to the user.
+1. [The CME is the world's largest exchange?](http://business.financialpost.com/investing/bitcoin-hits-a-bigger-wall-street-stage-as-cme-debuts-futures) (Apparently so.)
+1. The plumbus, the Rick and Morty thingy with undeterministic function, is [now a sex toy](https://geekysextoys.com/product/cumbus-silicone-stroker/).
+1. The Mediterranean diet is healthy likely ["due to it being a nearly vegetarian diet"](https://www.youtube.com/watch?v=OGGQxJLuVjg), "in spite of the olive oil". Olive oil is still oil; it doesn't magically make a meal healthy. (Rest of the video is trash)
+1. My erect penis is as long *and* as thick as the Great Wall of China.
+1. Item above was added so no one crawls this list for personal gain.
+1. There are two Paul Reveres. For some reason, the junior is better than the senior.
+1. You don't have to sell things at the pawn shop. [Pawning](https://gardencityexchange.com/pawning-vs-selling-what-is-the-real-difference-2) is actually borrowing money with an item as a collateral. When you fail to pay your loan, the ownership goes from you to the pawn shop.
+1. 2018 prediction. Useless software development (like web developers) will perish. Specialised software development (like "oil rig drilling instrumentation") will be moved offshore.
+1. ["Amazeballs"](https://www.urbandictionary.com/define.php?term=Amazeballs) was invented by blogger Perez Hilton. He kept repeating it until people follow. Like sheep.
+1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
 1. 'A bit of "useless trivia" I read in a behavioral science book that if you place any type of religious reminder that is manifested as a person of some sort in an area, it will reduce crime.  So a Virgin Mary statue or image, or one of Jesus would have the same effect.' - Becca_Chavis
 1. There is a [giant nickel](https://en.wikipedia.org/wiki/Big_Nickel), [giant loonie](http://www.echobay.ca/attractions), and [giant toonie](https://www.tripadvisor.ca/Attraction_Review-g499255-d1825774-Reviews-Toonie_Monument-Campbellford_Trent_Hills_Ontario.html). The giant quarter is American.
 1. Rechargeable AAA lithium batteries do exist. However, they are all in the wrong voltage (3.7V).

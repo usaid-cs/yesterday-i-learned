@@ -1,3 +1,5 @@
+1. The [Tonometer](https://en.wikipedia.org/wiki/Ocular_tonometry) measures [tonos](https://en.wiktionary.org/wiki/tonos), or stress.
+1. Both small and large long-term consumption of ethanol is linked to a reduced risk of rheumatoid arthritis and kidney stones. The trick is to [never get over 0.09% BAC](https://en.wikipedia.org/wiki/Short-term_effects_of_alcohol_consumption#Effects_by_dosage), which is around 2.5 beers.
 1. You can make a hole on your thumb muscle if you stretch it really hard. They call it the [anatomical snuffbox](https://en.wikipedia.org/wiki/Anatomical_snuffbox).
 1. [BLOSUM62](https://en.wikipedia.org/wiki/BLOSUM) (BLOcks SUbstitution Matrix) is used to identify the similarity between two protein sequences. Since it is a substitution matrix, the two sequences should already have been aligned by the time the scoring is computed.
 1. [Alaska moose](https://en.wikipedia.org/wiki/Alaska_moose), the largest subspecies of America, require a daily intake of 9770 kilocalories (32 kg). The largest moose is the Chukotka (East Siberian) Moose.

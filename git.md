@@ -308,22 +308,39 @@ Alternatively, knowing the subcommand just gives you the hash of the previous co
 
 ### I used a GUI for git and the diffs/patches/merges/pull requests don't turn out right
 
-Be a man.
+Be a ~~man~~person. (Revised for tumblr)
 
 ### I used git in the terminal and the diffs/patches/merges/pull requests don't turn out right
 
-Reset your branch to match the one upstream:
+Rebase your local base branch (maybe `master`? maybe `develop`?) with the remote one with:
 
 ```
-git reset --soft HEAD^  # stash your last commit (or more, if you made more than one commit)
+git fetch && git rebase --no-ff
+```
+
+And then rebase your feature branch on top of that.
+
+```
+git rebase -i develop
+```
+
+*Alternatively* if you messed up your base branch too, reset it to match the one upstream:
+
+```
+# stash your last commit (or more, if you made more than one commit)
+git reset --soft HEAD^
 git stash
+# recreate your develop/master
 git fetch
 git reset --hard origin/(branch name)
 git stash apply
+git branch -f my-feature-branch
 ```
 
 ### I pushed stupid things onto the remote server
-Run a rebase on your local branch with `git rebase -i HEAD~1`, then force a push to your branch with `git push origin +(branch)`. The commit will still be accessible by commit ID.
+Run a rebase on your local branch with `git rebase -i HEAD~1`, then force push to your remote branch with `git push origin +(branch)`.
+
+(The booboo commit will still be accessible by commit ID, but at least no one can see it easily.)
 
 ### I pushed really stupid things onto the remote server
 Like secret keys and passwords? Follow [this guide][github].
