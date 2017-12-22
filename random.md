@@ -1,5 +1,6 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. People drink before dinner because everything tastes better when you're drunk.
 1. At least [one person](https://fivethirtyeight.com/features/every-color-of-every-lightsaber-in-star-wars-in-one-chart/) uses an orange lightsaber.
 1. In the UK, white walking canes are for blind people, and white/red striped canes are for deaf *and* blind people. This convention does not exist elsewhere.
 1. [Introduce yourself to the neighbors you share a wall/floor/ceiling with. If anyone is annoyed by loud music or pot smoke or whatever, it makes them more likely to come directly to you instead of the landlord.](https://www.reddit.com/r/AskReddit/comments/6ndu3g/what_is_your_first_apartment_tip/dk8rfqf/)

@@ -6,6 +6,7 @@
     * You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
     * You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`
 * `const` [does NOT](http://exploringjs.com/es6/ch_variables.html) mean immutable. If you `const` an object, it is still mutable; the const itself just cannot be reassigned.
+* If you manage to `const something = somethingThatThrowsAnError()`, then a) you get an error, b) `something` is not defined (not `undefined`), and c) you can't `const something` ever again.
 
 ## Arrays and array-like things
 * [Array comprehension](http://ariya.ofilabs.com/2013/02/es6-and-destructuring-assignment.html):
