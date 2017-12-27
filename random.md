@@ -1,5 +1,7 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. [Math](http://math-fail.com/wp-content/uploads/math-not-even-once.png) users don't feel hungry or thirsty. The lack of thirst makes their mouths dry up (even faster than if it were simply a saliva issue). Then cavities develop and the teeth fall off.
+1. [Jakarta is sinking](https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html?_r=0).
 1. People drink before dinner because everything tastes better when you're drunk.
 1. At least [one person](https://fivethirtyeight.com/features/every-color-of-every-lightsaber-in-star-wars-in-one-chart/) uses an orange lightsaber.
 1. In the UK, white walking canes are for blind people, and white/red striped canes are for deaf *and* blind people. This convention does not exist elsewhere.

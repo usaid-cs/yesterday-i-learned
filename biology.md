@@ -1,3 +1,5 @@
+1. Manatees breed once every two years, and have four rows of teeth (they don't have incisors).
+1. China, not the developed world, [appears](https://en.wikipedia.org/wiki/Tooth_decay#/media/File:Dental_caries_world_map_-_DALY_-_WHO2004.svg) to have the world's lowest [disability-adjusted life years](https://en.wikipedia.org/wiki/Disability-adjusted_life_year) from dental caries per capita.
 1. The [Tonometer](https://en.wikipedia.org/wiki/Ocular_tonometry) measures [tonos](https://en.wiktionary.org/wiki/tonos), or stress.
 1. Both small and large long-term consumption of ethanol is linked to a reduced risk of rheumatoid arthritis and kidney stones. The trick is to [never get over 0.09% BAC](https://en.wikipedia.org/wiki/Short-term_effects_of_alcohol_consumption#Effects_by_dosage), which is around 2.5 beers.
 1. You can make a hole on your thumb muscle if you stretch it really hard. They call it the [anatomical snuffbox](https://en.wikipedia.org/wiki/Anatomical_snuffbox).
@@ -265,7 +267,7 @@
 1. There is a giant salivary gland (parotid gland) right in front of your ears.
 1. [Plenty of birds have teeth.](http://webecoist.momtastic.com/2010/09/28/brush-your-beak-10-amazing-birds-with-teeth/)
 1. Down is the stuff underneath the feathers.
-1. Kangaroos cannot walk backwards.
+1. Kangaroos cannot walk backwards. They can somewhat [hop backwards](https://www.youtube.com/watch?v=CEDq0SAYW44), however.
 1. [Hysterectomy](http://www.differencebetween.net/science/health/difference-between-hysterectomy-and-hysterotomy/) is the removal of the uterus. Hysterotomy is the removal of the baby in the uterus. Even in the case of a live birth, premature labour is considered a complication in cases of hysterotomy.
 1. Imperial China [had plagues](https://zh.m.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E7%98%9F%E7%96%AB%E5%8F%B2) once every 10 years or so.
 1. The most important types of cells that do not undergo mitosis (i.e. parts of you that don't heal) are: [nerve cells, brain cells, and heart muscle cells](http://www.madsci.org/posts/archives/2006-01/1137011862.Cb.r.html). This makes strokes and spinal injuries hard to fix. This does not give people an excuse when it comes to workouts, however, because [satellite cells](https://www.unm.edu/~lkravitz/Article%20folder/musclesgrowLK.html) adjacent to muscle cells *can* undergo mitosis, and fuse with (i.e. repair) muscle tissues.

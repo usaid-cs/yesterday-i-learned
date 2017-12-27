@@ -1,3 +1,4 @@
+1. The verb for "opinion" is "opine/opining", rhymes with pint.
 1. *Pièces*... rooms? coins?
 1. *Portefeuille*, door... leaf? A wallet.
 1. *À la carte*, to the... map? card? To order menu items individually, rather than set courses.
