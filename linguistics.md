@@ -1,3 +1,8 @@
+1. [*Chop chop*](https://en.wikipedia.org/wiki/Chop_chop_%28phrase%29) came from Cantonese, but [no one could tell you what the Cantonese phrase was](http://www.phrases.org.uk/meanings/chop-chop.html). Neither the Cantonese nor Mandarin pronunciation of 快快 sound like chop chop, and no one ever says "快快".
+1. Rhapsody is actually pronounced RAP-siddy.
+1. Apparently if "Je t'aime plus" is pronounced without the S at the end, it will mean "I don't love you anymore". With the S, it means "I love you more". Also, "aimer bien" is like, but "aimer" is love.
+1. Languages typically develop the word for "red" first (because it's bright?), and then maybe yellow/green, and then blue, and then brown. Read study by Berlin and Key, 1969.
+1. *Walau* has the word root of *Wa lan eh* (我膦呃), my father's (dick).
 1. The verb for "opinion" is "opine/opining", rhymes with pint.
 1. *Pièces*... rooms? coins?
 1. *Portefeuille*, door... leaf? A wallet.

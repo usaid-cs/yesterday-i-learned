@@ -1,3 +1,10 @@
+1. The same [gene that controls dry/wet earwax](https://en.wikipedia.org/wiki/ABCC11) also controls smelly armpits. So only people with dry earwax can be potential mates.
+1. [Grapefruit, pomegranate, and other citrus fruits](https://en.wikipedia.org/wiki/CYP3A4#Inhibition_through_fruit_ingestion) can inhibit Cytochrome P450 3A4 activity, an enzyme that oxidises drugs and toxins.
+1. [Sexual reproduction started 1.2 billion years ago](https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction), in the form of single-cell eukaryotes. (eukaryotes are cells with nuclei)
+1. [Alex the parrot](https://en.wikipedia.org/wiki/Alex_%28parrot%29) is the only non-human animal to have asked a question. Apes can answer questions, but [cannot ask them](https://en.wikipedia.org/wiki/Primate_cognition#Asking_questions_and_giving_negative_answers). Alex's last words were reportedly "You be good, see you tomorrow. I love you".
+1. Sucking venom out of a wound never works. Just rinse it bro.
+1. Antihistamine medications work against jellyfish stings. But they have to be in the form of an ointment.
+1. Sprains are literally torn ligaments.
 1. Manatees breed once every two years, and have four rows of teeth (they don't have incisors).
 1. China, not the developed world, [appears](https://en.wikipedia.org/wiki/Tooth_decay#/media/File:Dental_caries_world_map_-_DALY_-_WHO2004.svg) to have the world's lowest [disability-adjusted life years](https://en.wikipedia.org/wiki/Disability-adjusted_life_year) from dental caries per capita.
 1. The [Tonometer](https://en.wikipedia.org/wiki/Ocular_tonometry) measures [tonos](https://en.wiktionary.org/wiki/tonos), or stress.

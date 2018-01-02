@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. "IPDE" (identify, predict, decide, execute)... you keep saying it like it's a word. [It just means "be careful when you drive".](https://driversed.com/resources/terms/identify_predict_decide_execute.aspx)
 1. ["If you are clinically insane, by which I mean you wake up in the morning, and you think you are an onion, this is your car."](https://www.goodreads.com/quotes/263982-if-you-are-clinically-insane-by-which-i-mean-you) - Jeremy Clarkson on the BMW X3
 1. [Cruise control reduces fuel efficiency in hilly terrains.](http://eartheasy.com/move_fuel_efficient_driving.html)
 1. Grooved brakes are a sign that they are worn, said Chris fix. Bring your OBD scanner with you [when buying a used car], he said.

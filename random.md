@@ -1,5 +1,42 @@
 ![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
 
+1. Toasts cut into long sticks are called [soldiers](https://en.m.wikipedia.org/wiki/Soldiers_%28food%29).
+1. [The 21st century began on 2001-01-01](https://en.wikipedia.org/wiki/21st_century); the 2000s began on 2000-01-01.
+1. Three-pronged electronics are better than two-pronged electronics, says [this video](https://www.youtube.com/watch?v=YP8okiLOdKk).
+1. There's a [youtube.com/tv](https://www.youtube.com/tv).
+1. Jesus drank wine, but people in The Church of Jesus Christ of Latter-day Saints must abstain. The Quran only prohibited grape-based alcohol, but [the lawmakers interpret this is a total ban on alcohol](https://en.wikipedia.org/wiki/Alcohol_intoxication#Religious_views).
+1. [Upper Canada](https://en.wikipedia.org/wiki/Upper_Canada) is actually the lower part (think GTA), and [Lower Canada](https://en.wikipedia.org/wiki/Lower_Canada) is actually the higher part (think Quebec City). They were named as such based on their position relative to the [Saint Lawrence River / Fleuve Saint-Laurent](https://en.wikipedia.org/wiki/Saint_Lawrence_River), which flows from South to North. The two territories were later abolished to form the [United Province of Canada](https://en.wikipedia.org/wiki/Province_of_Canada).
+1. Grey Goose (especially if you didn't pay for it) tastes nothing different from other vodkas, as expected.
+1. Apparently a dude called Lnafziger really doesn't like it when [his passengers clap when he lands the aircraft safely](https://aviation.stackexchange.com/a/2526), when he's just doing his job. So don't clap when your captain is Lnafziger. Otherwise, [no one in the cockpit can hear you clap](http://www.news.com.au/travel/travel-advice/flights/why-you-should-never-clap-when-a-flight-lands/news-story/2af9455ff1661c59c13deac4d1239e7f), so... no need to clap.
+1. In the first episode ever, if Rick could go to a dimension where bone-healing serum is available in every corner drug store, why didn't he also go to a dimension where megaseeds are available in every corner drug store?
+1. Korean chopsticks are made of metal just because [they have a lot of metal](https://www.reddit.com/r/WatchandLearn/comments/7n0k79/3_different_types_of_chopsticks_xpost/dry6gs6/)...? But if they have a lot of metal, why try to save metal by making metal chopsticks short and flat...?
+1. If you are neither black, white, nor hispanic, then chances are [you aren't in prison](https://www.statista.com/statistics/221003/number-of-us-state-prisoners-in-custody-by-race-or-hispanic-origin/). Percentage wise, that's 1.1% for blacks, 0.19% for whites, and 0.48% for hispanics.
+1. [Taylor Swift in Family Guy](http://www.digitalspy.com/tv/ustv/news/a813402/taylor-swift-family-guy-episode/) is voiced by [Ursula Taherian](http://www.imdb.com/name/nm2563808/).
+1. Nixon was the only US president to resign from office.
+1. Martin's speech contains the line: [I have a dream. My four little children will one day live in a nation, where they will not be judged by the color of our skin, but by the content of their character. I have a dream to be let freedom ring and wind it happen, when we allow freedom ring when we let it ring from every village and every Hamlet, from every state and every city, we will be able to speed up that day, when all of God's children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands, and sing in the words of the old Negro spiritual: *"Free at last, Free at last, Thank God almighty we are free at last."*](https://www.youtube.com/watch?v=vnVwvPpdFeY) He died the night after his Mountaintop speech (same video). Then JFK's brother Rob told the black people that he was killed, with a poem (same video).
+1. The world's worst beer by bitterness is the [Carbon Smith **FUCKS UP YOUR SHIT** IPA](https://firstwefeast.com/drink/hoppiest-beers-of-all-time/carbon-smith), at 2600 IBUs, presumably brewed to make hipsters shut the FUCK up (speculation).
+1. "No ragrets" actually came from [a movie](https://www.youtube.com/watch?v=_DnKNClu2XM), so it's not funny anymore. (We're the Millers, with wrinkly Rachel in it)
+1. Don't buy any phone with a fingerprint scanner on the front, but isn't a home button. You'll hate yourself.
+1. If the temperature gradient is large enough, power can be generated from the gradient using the [seeback effect](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect), which does not involve boiling water and turning a turbine.
+1. [TLSvx.y is actually SSLv3.x.](https://blog.cloudflare.com/why-tls-1-3-isnt-in-browsers-yet/) The POODLE attack that downgraded TLS 1.x to SSLv3 was mitigated only by disabling SSLv3, so if TLS 1.0 were to be compromised, shit would go flying.
+1. Blowing up Alderaan cured all diseases on the planet. So [the empire did nothing wrong](https://www.reddit.com/r/EmpireDidNothingWrong/).
+1. Glass is the perfect material for laptop touchpads and palm rests.
+1. When people tell you to "open up your emotions", it means "be open about your feelings as long as you don't actually have any problems".
+1. When it comes to bodybuilding, [TheJosh says that a week is actually 8 days long](https://forum.bodybuilding.com/showthread.php?t=107926751), and a week starts *and* ends on a Sunday.
+1. "The reason they call it the American Dream is because you have to be asleep to believe it.” - George Carlin
+1. "Geoffrey dollars" are Toys R Us gift cards.
+1. One example of shitty Swedish exports is Absolut vodka.
+1. Person has son in it. How aren't the feminists livid right now? It should be Perperperperperperper...
+1. HDMI cables with the HDMI logo are 10 cents cheaper to licence than if the logo were omitted.
+1. On 2012-11-07, [you won](http://www.bulletin.uwaterloo.ca/2012/nov/07we.html) what was remembered as a chocolate bar.
+1. [Dolly](https://imgur.com/ZGdQJ5K) actually refers to camera movement along the Z axis (towards/away from the cameraman). Going from side to side is called Truck left/right.
+1. The [best-selling video game](https://en.wikipedia.org/wiki/List_of_best-selling_video_games) is Tetris. Not surprising. The second best-selling video game is Minecraft. Very surprising.
+1. The queen still sends out "how's it going commonwealth" Christmas greetings every year, [now in full HD](https://www.youtube.com/watch?v=IjTBcqpl2kc). In 2017, she talked about how she was doing the same thing six decades ago. "I didn't know that anyone had invented the term *platinum* for a 70th wedding anniversary when I was born. You won't expect it to be around that long."
+1. There are at least two billionaires named Toby: [Toby](https://en.wikipedia.org/wiki/Toby_Neugebauer), [Toby](https://www.thestar.com/business/tech_news/2017/11/27/shopify-founder-tobi-lutke-is-canadas-newest-billionaire.html)
+1. 110V water kettles boil slower than 220V water kettles, [scientists say](http://www.businessinsider.com/why-americans-dont-use-electric-kettles-stove-top-2015-12).
+1. Kathleen [O'Day](https://en.wikipedia.org/wiki/Kathleen_Wynne) "0-day" Wynne was the first LGBT premier to sell off Hydro One.
+1. The skull in the Pirate Bay's logo is actually the logo from [Home Taping Is Killing Music](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music).
+1. Minute was called the "prime minute", and Second was called the "second minute". So that's where the symbols in [`0:50' 23"`](https://images-na.ssl-images-amazon.com/images/I/61YppX03DOL._SY355_.jpg) come from.
 1. [Math](http://math-fail.com/wp-content/uploads/math-not-even-once.png) users don't feel hungry or thirsty. The lack of thirst makes their mouths dry up (even faster than if it were simply a saliva issue). Then cavities develop and the teeth fall off.
 1. [Jakarta is sinking](https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html?_r=0).
 1. People drink before dinner because everything tastes better when you're drunk.
@@ -412,7 +449,7 @@
 1. The cock that made the Sriracha sauce the cock sauce was from the year the inventor was born.
 1. [Vanity stores](https://www.reddit.com/r/AskReddit/comments/72ccgh/what_hobby_screams_rich_people/dnhg50e/) are businesses that a person (in this case, a husband lets his wife) keeps, regardless of business potential, in order for that person to be called a business owner.
 1. In fantasy sports, you are the manager. You build your team. Hence the fantasy. Because you aren't a manager. You're a loser on GitHub.
-1. Amsterdam Brewing Company, which is actually in East York Ontario, is [next to a trampoline park](https://goo.gl/maps/MWyFAZaAP1p).
+1. Amsterdam Brewing Company, which is actually in East York Ontario, is [next to a trampoline park](https://goo.gl/maps/MWyFAZaAP1p). In addition to the Boneshaker IPA, they also make a [Fracture "IIPA"](https://www.ratebeer.com/beer/amsterdam-fracture-iipa/210878/) during the fall, with "15" more IBUs.
 1. Blackberry didn't buy desktops. Employees are required to take their laptops home for [business continuity](http://www.thebci.org/index.php/training-education/overview), aka keep working even if it snows and stuff.
 1. "If you're only allowed to drive one mile per hour, you're not going to drive on that road, even if it's not technically blocked," Mr. Tsui [said](https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html). "If that's the only road I can drive on, you dam well know I'm driving on that road,"  Mr. Chan said.
 1. AirBnB originally started helped people add their listings by offering professional photographers to take photos of their homes. "We suggest founders do things that don't scale ... Many startup advisors persuade startups to scale way too early, (... which takes time/effort/money... a waste if done prematurely ...). Rather, we tell startups to get their first customer by any means necessary, (... often manually ...). At this stage, founders are still trying to figure out what needs to be built and the best way to do that is talk directly to customers." - [Y Combinator](https://blog.ycombinator.com/ycs-essential-startup-advice/)
