@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Rubber tires don't insulate you from electricity as much as you think. Even in [the demonstration](https://www.youtube.com/watch?v=ve6XGKZxYxA) the vehicle is seen as the path of least resistance to the ground.
+1. The Rolls Royce Phantom looked like a phantom [in 1925](https://i.redd.it/6pia6momz4801.jpg).
 1. "IPDE" (identify, predict, decide, execute)... you keep saying it like it's a word. [It just means "be careful when you drive".](https://driversed.com/resources/terms/identify_predict_decide_execute.aspx)
 1. ["If you are clinically insane, by which I mean you wake up in the morning, and you think you are an onion, this is your car."](https://www.goodreads.com/quotes/263982-if-you-are-clinically-insane-by-which-i-mean-you) - Jeremy Clarkson on the BMW X3
 1. [Cruise control reduces fuel efficiency in hilly terrains.](http://eartheasy.com/move_fuel_efficient_driving.html)

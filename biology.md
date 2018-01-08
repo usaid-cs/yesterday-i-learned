@@ -1,3 +1,15 @@
+1. The bull shark is found almost exclusively near coasts and rivers.
+1. [Sperm whales are loud.](https://www.youtube.com/watch?v=zsDwFGz0Okg)
+1. [The Appendix can contain worms in some of the population.](https://www.express.co.uk/news/uk/685343/pinworms-schoolgirl-appendix-hygiene) Appendectomy surgeons do not clean it up for you.
+1. Excessive acidosis through a ketogenic diet [might](https://en.wikipedia.org/wiki/Ketogenic_diet#Adverse_effects) slowly weaken the bone. The free calcium can then crystalise in the kidney, where the pH is low. However, [a number of people say that it didn't happen to them](https://www.ketogenicforums.com/t/osteoporosis/15689/4).
+1. Bones are made of calcium and iron because the Earth is full of it, [say Captains Obvious](https://news.ycombinator.com/item?id=16059525).
+1. At least [one](http://www.abc.net.au/news/2016-10-24/socceroo-dies-in-hospital-after-bladder-bursts/7959642) bladder in history was blown up when oxygen was plugged into it instead of a catheter, and a lung was collapsed when a catheter was plugged into it instead of oxygen. On the same man. He's with the Lord now.
+1. The biological term for mouth-to-mouth and ass-to-mouth action is [Trophallaxis](https://en.wikipedia.org/wiki/Trophallaxis). Some insects share food that way.
+1. Bumblebees can survive the North (parts of Canada/Greenland/Russia). [Honey bees don't go there.](https://commons.wikimedia.org/wiki/File:Apis_distribution_map.svg)
+1. Parasitism comes in three main forms: ectoparasite (external parasite eats a chunk of you), endoparasite (internal parasite eats a chunk of you), and parasitoid (parasite eats you enough that you die). [Wasps](https://en.wikipedia.org/wiki/Parasitoid_wasp) have an interesting habit of crawling out of anothr animal.
+1. That nasty teenage boy moustache is called the Peach Fuzz.
+1. [Ketogenic diets slightly increase calorie expenditure.](http://alivebynature.com/do-ketogenic-diets-have-a-metabolic-advantage/) That is not to say it's better or that it's a weight-loss program; it's just what it is.
+1. The basal metabolic rate, the rate no matter what you do throughout the day, [decreases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156923/) by 30% when you age from 20 to 70, around 1% every two years, as a result of muscle loss. While the young adult is around 50% lean muscle by mass, old people are only at 25%.
 1. The same [gene that controls dry/wet earwax](https://en.wikipedia.org/wiki/ABCC11) also controls smelly armpits. So only people with dry earwax can be potential mates.
 1. [Grapefruit, pomegranate, and other citrus fruits](https://en.wikipedia.org/wiki/CYP3A4#Inhibition_through_fruit_ingestion) can inhibit Cytochrome P450 3A4 activity, an enzyme that oxidises drugs and toxins.
 1. [Sexual reproduction started 1.2 billion years ago](https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction), in the form of single-cell eukaryotes. (eukaryotes are cells with nuclei)
@@ -310,7 +322,7 @@
 1. Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accomodate the animal's larger body before it hardens again.
 1. [Beekeeper evaluates the flow hive](https://www.youtube.com/watch?v=X4v4IHGvPLA): [Cutting the hive](https://www.honeyflow.com/) in halves drains both cured honey and uncured honey (which ferments), something you don't want. It also prevents actual beekeeping like checking for parasites. The caps are kept on the combs, so bees assume there is still honey there, and when they need the honey, they will find none, then starve to death.
 1. Plants can easily [outlive animals](https://en.wikipedia.org/wiki/List_of_longest-living_organisms) by a factor of ten. The current live record is a factor of 25 (5000/186).
-1. [The passenger pidgey](https://en.wikipedia.org/wiki/Passenger_pigeon) was fought to extinction.
+1. [The passenger pidgey](https://en.wikipedia.org/wiki/Passenger_pigeon) (wild pidgey) was fought to extinction.
 1. Snails shoot [love darts](https://en.wikipedia.org/wiki/Love_dart) into each other before making sweet love. Fluid exchange does not take place through the dart.
 1. Omega-3 fatty acids can increase the risk of bleeding, enough to be medically advisable.
 1. Fish that are rich in omega-3 fatty acids got them from what they eat. Farmed fish do not have any.
@@ -318,7 +330,7 @@
 1. [Ears also "close"](http://i.word.com/idictionary/rhadamanthine) when a loud noise is heard, much like the eye closes when a bright light is seen.
 1. [Opiliones](http://en.wikipedia.org/wiki/Opiliones), also called *Harvestmen*, look like spiders, but are much more useful than spiders.
 1. [Potatoes are naturally gluten-free.](http://www.potatogoodness.com/nutrition/) Somehow, they provide a good amount of vitamin C, as well.
-1. Your child has a 0.2% of having Cerebral palsy.
+1. Your child has a [0.2%](https://en.wikipedia.org/wiki/Cerebral_palsy) chance of having Cerebral palsy.
 1. [This guy on the Internet](https://www.reddit.com/r/AskReddit/comments/4zo4vq/whats_the_next_big_thing_thats_going_to_fail_for/d6xnjxg) says that stomach acid is used only to denature proteins and kill bacteria, with no other benefits to digestion. [The wiki](https://en.wikipedia.org/wiki/Gastric_acid) says roughly the same thing, so maybe it is legit, and you do have to chew before you swallow.
 1. To make sure you don't know what you're eating, there are 144 species of anchovy (and probably counting).
 1. [Kangaroo leather has 10 times the tensile strength of cowhide and is 50% stronger than goatskin.](https://en.wikipedia.org/wiki/Kangaroo_leather)
@@ -338,7 +350,7 @@
 1. Man claims [Burbot](https://en.wikipedia.org/wiki/Burbot) the fish, common in Lake Erie, is the poor man's lobster. The Burbot can be frozen for a day and come back to life when thawed.
 1. [Cymothoa exigua, or the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. This parasite enters fish through the gills, and then attaches itself to the fish's tongue. The female attaches to the tongue and the male attaches on the gill arches beneath and behind the female. Females are 8–29 millimetres (0.3–1.1 in) long and 4–14 mm (0.16–0.55 in) in maximum width. Males are approximately 7.5–15 mm (0.3–0.6 in) long and 3–7 mm (0.12–0.28 in) wide. The parasite severs the blood vessels in the fish's tongue, causing the tongue to fall off. It then attaches itself to the stub of what was once its tongue and becomes the fish's new tongue.](https://imgur.com/gallery/3uW8U)
 1. After mating, the male Parnassines (Swallowtail butterfly) produce a glue like substance that is used to seal the female genital opening and prevent other males from mating.
-1. After the caterpillar becomes a butterfly, the toxin shift to different parts of the body. Since many birds attack the wings of the butterfly, having three times the cardiac glycosides in the wings leaves predators with a very foul taste and may prevent them from ever ingesting the body of the butterfly. **WITH THAT SAID** In order to combat predators that remove the wings only to ingest the abdomen, [monarchs](https://en.wikipedia.org/wiki/Monarch_butterfly) keep the most potent cardiac glycosides in their abdomens.
+1. After the caterpillar becomes a butterfly, the [toxin Cardenolide](https://en.wikipedia.org/wiki/Cardenolide) shifts to different parts of the body. Since many birds attack the wings of the butterfly, having three times the cardiac glycosides in the wings leaves predators with a very foul taste and may prevent them from ever ingesting the body of the butterfly. **WITH THAT SAID** In order to combat predators that remove the wings only to ingest the abdomen, [monarchs](https://en.wikipedia.org/wiki/Monarch_butterfly) keep the most potent cardiac glycosides in their abdomens.
 1. The [aye-aye](http://en.wikipedia.org/wiki/Aye-aye) is a lemur in Madagascar.
 1. [Imago](http://en.wikipedia.org/wiki/Imago): the insect after last stage of moulting, before the insect matures.
 1. Butterfly larvae in the *Papilionidae* family have antannae called [Osmeterium](http://en.wikipedia.org/wiki/Osmeterium) that produce foul-smelling terpenes.

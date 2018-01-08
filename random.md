@@ -1,5 +1,42 @@
-![Monkey Tacos (xkcd)](https://imgs.xkcd.com/comics/im_so_random.png)
+![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. One Earth's rotation is 86164s long. But our concept of a 86400-second day is still relevant because those are counted with respect to the sun. The effect of this is seeing the sun at the expected times, but everything else appears at different times of the day.
+1. "Thot" (pronounced "thaat") means "that hoe over there".
+1. Neanderthals sound like high-pitched clowns, [BBC asserts](https://youtu.be/o589CAu73UM).
+1. Pomergranates came from Iran. [Here](https://www.youtube.com/watch?v=Nj9G9C4bo_U) is a Persian opening one.
+1. Ninjas don't traditionally wear black. Ninjas wore black only in the theatres, to blend in with the black backdrop.
+1. Ticketmaster actually [owns](http://www.livenationentertainment.com/map/venues) many of the venues from which they extort money from ticket sales.
+1. The chocolate-in-a-bun thing the French do is called [pain au chocolat](https://en.wikipedia.org/wiki/Pain_au_chocolat), or, if you are an infidel, chocolatine.
+1. Users actually think that [skeleton loading screens are worse than not having one at all](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens), and loading spinners make things load faster.
+1. A "two-way" sometimes means expelling diarrhea and vomiting simultaneously.
+1. Look for regulated travel plans from tico.ca.
+1. So the bathrobe is worn either over your pyjamas (an Indian term), or over nothing, for either going from the bathroom to the bedroom, or if you want to entertain your guests without showing your pyjamas. It fell out of favour because it's bloody useless.
+1. The swivel chair was invented by Thomas Jefferson.
+1. The Spaniards have their own short-grain variety of rice, called the [bomba](https://en.wikipedia.org/wiki/Bomba_rice). They use it in [paella](https://en.wikipedia.org/wiki/Paella), "pan of [burned](https://www.reddit.com/r/food/comments/7ojhpu/homemade_spanish_paella/dsa8bon/) rice".
+1. Gamers apparently have a habit of [shaking heads](https://i.imgur.com/N8VeOk1.gifv) [to](https://fat.gfycat.com/WarmBountifulGoa.webm) [each other](https://i.imgur.com/FglOKz1.mp4).
+1. *A* [valkyrie](https://en.wikipedia.org/wiki/Valkyrie) is a female Norse myth figure that chooses who lives and who dies in a battle.
+1. [It was actually the French who got rid of Chinese characters from the Vietnamese language](https://en.wikipedia.org/wiki/Vietnamese_alphabet) in the 1920s, not the capitalist pigs from the US.
+1. First [primer](http://www.huffingtonpost.ca/entry/what-is-makeup-primer-do-you-need-it_us_5a3b390ae4b0b0e5a79f8680), then foundation, then concealer, then colour correction.
+1. Never buy an oven with a ground level oven door.
+1. [All country flags in the world have at least one of red, blue, or green.](https://i.redd.it/du6hb9aqy2801.png)
+1. [The five-step process to monetise US broadband](https://www.reddit.com/r/technology/comments/7o41rf/the_fcc_is_preparing_to_weaken_the_definition_of/ds6w3aw/): repeal net neutrality, count all data under one data cap, [remove local ISPs](https://www.reddit.com/r/videos/comments/7o30lo/anti_colorado_municipal_broadband_service/), lower data cap, and finally, offer website packages.
+1. "An adult couch is one you buy (new, instead of inheriting from someone else)"
+1. Lining your boots with tinfoil might help with the winter times.
+1. [Check off](https://idioms.thefreedictionary.com/check+off) means Check!
+1. [Meltdown](https://meltdownattack.com/meltdown.pdf) is the one from out-of-order execution allowing userspace processes to read kernel memory. [Spectre](https://spectreattack.com/spectre.pdf) is the one from predictive branching allowing strange code to access memory that is otherwise protected.
+1. "Five sigma" or "Six signa" refer to the [area under the normal distribution curve](https://blogs.scientificamerican.com/observations/five-sigmawhats-that/), when the number of sigmas, positive and negative, are taken away. Six sigma allows 3.4 defective features per million parts.
+1. [If you buy tofu in a tub or tin, you should pour out the water every day, and replace with cold water to keep the tofu fresh.](https://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Everything-You-Need-to-Know-About-Tofu!.aspx)  Tofu is spoiled if the liquid in the tub or tin is cloudy.
+1. There is a [*meta* list of falsehoods](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/). I hereby create a list of *meta meta* list of falsehoods: `1. Falsehoods are what falsehoods are.`
+1. Canadian billionaires Ron Joyce and his son Ron Jr get their wealth from [eliminating benefits from workers when minimum wages rise.](http://www.cbc.ca/beta/news/business/tim-horton-s-tims-timmies-doubledouble-minimum-wage-ontario-kathleen-wynne-labour-1.4470215) [You should be doing the same!!](https://www.youtube.com/watch?v=K_LvRPX0rGY)
+1. According to `ls -Sal`, you are best at Python, JavaScript, and, strangely enough, Java.
+1. [If you buy physical things from the Google store, they can simply not ship them.](https://www.reddit.com/r/GooglePixel/comments/7nrx07/google_permanently_banned_my_account_because/) If you decide to get a chargeback from your credit card company, they will ban your account (and therefore your life).
+1. In 2010, US lotteries had a 37% yield ($63 given out for every $100 of tickets sold).
+1. [Some sources](https://www.washingtonpost.com/lifestyle/food/goat-meat-the-final-frontier/2011/03/28/AF0p2OjC_story.html?utm_term=.375ad65667cf) report that 70% of the world's consumed red meat is goat meat, when it's actually just 6% (when was the last time *you* ate goat meat?)
+1. The Eiffel Tower [expands and contracts](https://curiosity.com/topics/the-eiffel-tower-is-taller-in-summer/) by less than 17cm per year.
+1. [Black cats](https://en.wikipedia.org/wiki/Black_cat) are considered lucky in Japan and some parts of [Brian](https://www.reddit.com/r/biomememes/comments/7ni9ft/come_on_down_to_brian_xpost_rme_irl/).
+1. The moon is narrower (3400km) than what you would consider the belt of the US (~4200km).
+1. A [Continental breakfast](http://www.wisegeek.org/what-is-a-continental-breakfast.htm#didyouknowout) is called that to distinguish from English breakfast, which is also part of the continent but you know. Continental breakfasts are lighter, have less *stuff*, and are easier for hotels to prepare.
+1. Rocco Siffredi, porn actor of 1300+ films, is married with two children.
 1. Toasts cut into long sticks are called [soldiers](https://en.m.wikipedia.org/wiki/Soldiers_%28food%29).
 1. [The 21st century began on 2001-01-01](https://en.wikipedia.org/wiki/21st_century); the 2000s began on 2000-01-01.
 1. Three-pronged electronics are better than two-pronged electronics, says [this video](https://www.youtube.com/watch?v=YP8okiLOdKk).

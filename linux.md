@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. FUSE [probably](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) stands for FilesysteminUserSpacE.
 1. Wrapping an entire shell script in `{` and `}` "ensures the entire script is downloaded". Found in the nvm installer.
 1. `Ctrl+U` in the shell deletes the entire command. `Ctrl+K` deletes anything right of the cursor.
 1. The `PermitRootLogin without-password` directive actually means "disallow logging in as root with a password", not "allow root to log in without a password".

@@ -1,5 +1,6 @@
 # Django tips
 
+* MongoDB [officially](https://code.djangoproject.com/wiki/NoSqlSupport) recommends [Djongo](https://github.com/nesdis/djongo) as the Mongo(NoSQL) adapter.
 * `Model(id)` is NOT the same as `Model.objects.get(id=id)`. You can save the object from `Model.objects.get(id=id)`, but not `Model(id)`: `ValidationError: {u'id': [u'Model with this ID already exists.']}`
 * Every `<Model>.objects` is just a [subclass of] `models.Manager()`. And you can extend `models.Manager`.*wink wink*
 * [`./manage.py runscript`](http://django-extensions.readthedocs.org/en/latest/runscript.html) is exactly what ought to be done in place of where you used to code your management commands.
@@ -259,3 +260,11 @@ No worries though, [you can still find what you want in `Foo._meta.index_togethe
 ### I want to reset all my migrations by [deleting and recreating them](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html), but `makemigrations` isn't doing anything
 
 You can't delete the `migrations/__init__.py`s in your apps. Keep those files, then run `makemigrations` again.
+
+### Not sure how to count
+
+You might have to use the related name of the actual thing you want to count, rather than the thing itself.
+
+```
+Foo.objects.annotate(d=Count('related_key')).order_by('-d').values_list('d')  # Usually the one you want
+```
