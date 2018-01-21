@@ -1,3 +1,9 @@
+1. [Dolphins use pufferfish toxin to get high](https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/), passing the fish around like a bong.
+1. Anyone who loses 3 litres of blood in front of you will probably die. [1](http://www.medicaldaily.com/breaking-point-how-much-blood-can-human-body-lose-350792) [2](https://wonderopolis.org/wonder/how-much-blood-is-in-your-body)
+1. Half of the cases of [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) have no symptoms. A/the clot then travels up to the lungs and make it [pulmonary embolism](https://en.wikipedia.org/wiki/Pulmonary_embolism).
+1. Gaten Matarazzo has [cleidocranial dysostosis](https://en.wikipedia.org/wiki/Cleidocranial_dysostosis), so he has no teeth, and an atypical facial expression. Finding people who look like him is not grounds for posting on /r/strangerthings.
+1. [Each subsequent knee replacement lasts less and less time, takes away more and more bone, and takes longer and longer to recover.](http://www.kneeguru.co.uk/KNEEtalk/index.php?topic=56402.0)
+1. Putrifying, stale soil is the main breeding ground for *E. coli*, which is how your vegetables get contaminated. To prevent it, lay down your soil early in the season.
 1. The bull shark is found almost exclusively near coasts and rivers.
 1. [Sperm whales are loud.](https://www.youtube.com/watch?v=zsDwFGz0Okg)
 1. [The Appendix can contain worms in some of the population.](https://www.express.co.uk/news/uk/685343/pinworms-schoolgirl-appendix-hygiene) Appendectomy surgeons do not clean it up for you.

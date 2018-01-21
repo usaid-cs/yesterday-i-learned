@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. On the opposite (coincidentally, the same) side of the planet, [two Internet giants do mentally special things to each other on their users' phones in other to share shopping links over a chat service](https://www.reddit.com/r/oneplus/comments/7prvrj/i_looked_into_what_actually_is_being_sent_and/dsk9ykl/)
 1. LG G3, G4, [*AND* G5](https://www.reddit.com/r/Android/comments/7mmz3s/htc_and_motorola_say_they_dont_slow_old_phones/drvh082/) bootloop.
 1. Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
 1. ShareIt, CM browser, DU battery saver, and ES file explorer are among the apps that [China uses to spy on other countries](https://www.reddit.com/r/Android/comments/7godzf/china_is_spying_through_42_apps_delete_them/dqlb3yh/).

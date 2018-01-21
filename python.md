@@ -381,6 +381,7 @@ bar
 1. You can conditionally define methods in a class by wrapping it in an if statement.
 1. Lambda bodies are executed every run, even if they are one line, like `a = lambda: datetime.now()` would always give you a new time.
 1. [That one time the creator of Rest Framework said, hey, you should make your project compatible with the Rest Framework](https://github.com/clarkduvall/serpy/issues/7)
+1. SQLAlchemy lets you [choose between different kinds of lazy loading](http://docs.sqlalchemy.org/en/latest/orm/loading_relationships.html) for foreign key relations.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

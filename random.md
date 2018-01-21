@@ -1,5 +1,27 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Steve Jobs has a daughter called Eve.
+1. Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"
+1. The [Isle of Man](https://en.m.wikipedia.org/wiki/List_of_Snaefell_Mountain_Course_fatalities) racecourse is the most fatal racecourse *in the wurld*, with multiple deaths every year except 2012.
+1. "人算不如天算" = "Man count what about sky count" 💯
+1. [胡楓](https://zh.wikipedia.org/wiki/%E8%83%A1%E6%A5%93) Bowie Wu chose that name because "楓樹一年四季都是紅色". Bad news for you buddy...
+1. You can get to Sai Kung through a Northern mountain pass from Ma On Shan.
+1. Set your clock to your destination timezone right after boarding the plane so you have plenty of time to prepare.
+1. No one messes with [old Russian women](https://en.wikipedia.org/wiki/Babushka_Lady).
+1. The pizzas displayed on shelves are often half-baked. When you order a slice, that slice goes into the oven and finish baking.
+1. [SIL](https://en.m.wikipedia.org/wiki/Safety_integrity_level) level 4 *requires* that you write yoda statements.
+1. Bump keys have every slot cut to the lowest position and the shoulder cut enough to allow it to be pushed in just a bit farther than a normal key.
+1. Germany emphasises that its flag is red, black and [gold, not yellow](https://en.wikipedia.org/wiki/Flag_of_Germany#Color), to symbolise the [Austrian empire](https://en.wikipedia.org/wiki/Austrian_Empire). The [RAL](https://en.wikipedia.org/wiki/RAL_colour_standard) (German RAL Institute) therefore named that colour "rapeseed yellow".
+1. Google's cut-off for "tomorrow" is 5am.
+1. [Uncle Sam](https://en.wikipedia.org/wiki/Uncle_Sam) was rumoured to be a meatpacker from New York.
+1. [Shotgun microphones](https://en.wikipedia.org/wiki/Microphone#Shotgun_and_parabolic_microphones) work better than parabolic microphones in capturing lower frequencies from a long distance.
+1. The phillips screwdriver is sharp, and is [unintentionally designed to cam out](https://en.wikipedia.org/wiki/Cam_out) (turn too much and pop itself out). The [pozidriv](https://en.wikipedia.org/wiki/List_of_screw_drives#Pozidriv) screwdriver is flat, and is designed to *not* cam out. Unfortunately using the wrong screwdriver for the two types of screws, even if they are both crosses, will damage them.
+1. NewsBlur is written in [Django 1.5.x](https://github.com/samuelclay/NewsBlur/blob/master/config/requirements.txt).
+1. Young hens are also called pullets.
+1. If someone gets a hold of your birth certificate, they can technically copy the information (optionally just take a picture of it) and request a legitimate birth certificate of *you, on your behalf, without your knowledge, and start using your identity to first get a photo ID, then replacement cards, statements, and then passports.* Store your birth certificate at a very, very safe place, perhaps literally in a safe.
+1. [Swiss Chalet is a Canadian chain.](https://en.wikipedia.org/wiki/List_of_Canadian_restaurant_chains) Other examples: Boston Pizza, East Side Mario's, Edo Japan, Montana's BBQ, New York Fries, Thai Express.
+1. [Boil chicken bones](https://www.livestrong.com/article/125236-glucosamine-naturally/) to get the glucosamine out of it/them.
+1. ["Petering out"](http://www.dictionary.com/browse/peter--out) means gradually stopping, such as a conversation slowing dying out.
 1. One Earth's rotation is 86164s long. But our concept of a 86400-second day is still relevant because those are counted with respect to the sun. The effect of this is seeing the sun at the expected times, but everything else appears at different times of the day.
 1. "Thot" (pronounced "thaat") means "that hoe over there".
 1. Neanderthals sound like high-pitched clowns, [BBC asserts](https://youtu.be/o589CAu73UM).

@@ -251,6 +251,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Ubuntu has/had [three](https://wiki.ubuntu.com/DevelopmentCodeNames) mythical creatures as code names: the jackalope (9.04), unicorn (14.10), and werewolf (15.10).
 1. Having trouble running a GUI as root? `xauth merge /home/darren/.Xauthority` (use that exact user name).
 1. To turn a base64 string back into the file, do `echo base64stringfoobarbaz== | base64 --decode > filename`.
+1. [`v`/`V`/`Ctrl+v`](http://vim.wikia.com/wiki/Cut/copy_and_paste_using_visual_selection) is vim's visual select. You can cut/copy/paste, but can't "type over" the selection, though.
 
 ## Tmux
 

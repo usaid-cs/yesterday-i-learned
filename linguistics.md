@@ -1,3 +1,5 @@
+1. [But](https://en.wikipedia.org/wiki/Yam_O) according to Shuowen Jiezi, Yam (陰) originally is a geographical syntax which means "North of a hill or south of a body of water"
+1. "Crochet" is apparently French.
 1. There is an age beyond which you are unable to learn speech, if you haven't already. [Genie the abused child never spoke](https://en.wikipedia.org/wiki/Genie_%28feral_child%29), even as she lives to be 60. [This window](https://en.wikipedia.org/wiki/Critical_period_hypothesis#Second-language_acquisition) also explains why it is so hard to learn a second language after a certain age, perhaps correlating to the individual's reproductive fitness.
 1. [*Chop chop*](https://en.wikipedia.org/wiki/Chop_chop_%28phrase%29) came from Cantonese, but [no one could tell you what the Cantonese phrase was](http://www.phrases.org.uk/meanings/chop-chop.html). Neither the Cantonese nor Mandarin pronunciation of 快快 sound like chop chop, and no one ever says "快快".
 1. Rhapsody is actually pronounced RAP-siddy.

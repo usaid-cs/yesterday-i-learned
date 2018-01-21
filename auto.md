@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. According to [this page](https://99percentinvisible.org/article/breakaway-hit-street-side-posts-designed-sever-strategically-impact/), some traffic poles are designed to snap off when crashed into, so fewer drivers die from "wrapped around a pole"-type accidents.
 1. Rubber tires don't insulate you from electricity as much as you think. Even in [the demonstration](https://www.youtube.com/watch?v=ve6XGKZxYxA) the vehicle is seen as the path of least resistance to the ground.
 1. The Rolls Royce Phantom looked like a phantom [in 1925](https://i.redd.it/6pia6momz4801.jpg).
 1. "IPDE" (identify, predict, decide, execute)... you keep saying it like it's a word. [It just means "be careful when you drive".](https://driversed.com/resources/terms/identify_predict_decide_execute.aspx)
