@@ -1,5 +1,36 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [Breaststroke is the least tiring of the strokes.](http://www.dailymail.co.uk/health/article-132028/Swim-away-calories.html) Use that when you are trying to stay alive. If you are swimming for exercise, then [don't stop swimming and take fewer breaks](http://www.health.com/health/article/0,,20411721,00.html).
+1. [The E in EBay is Echo.](https://en.wikipedia.org/wiki/EBay) AuctionWeb (the name then) was owned by Echo Bay Technology Group, [some dude](https://www.forbes.com/profile/pierre-omidyar/)'s consulting firm, and he couldn't register echobay.com, so he went with ebay.com instead.
+1. At least [one](https://hellopoetry.com/poem/1807954/chicken-leg-fibula-for-a-toothpick/) randomly-generated page on the Internet suggested using the chicken fibula as a toothpick.
+1. "Going to the rainbow bridge" sometimes means getting euthanised by the vet.
+1. To thread a needle, try [rubbing the thread between the palm and the eye of the needle](https://i.imgur.com/NmZYZyz.gifv). It does not work on all threads.
+1. [The heart is typically left inside Egyptian mummies](https://en.wikipedia.org/wiki/Persian_Princess), with everything else removed, including the brain.
+1. The Japanese word for [*rice ball*](https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A) doesn't have the word 飯 in it (but it is implied).
+1. The [Alolan Sandshrew/Sandslash/Sandwich](https://bulbapedia.bulbagarden.net/wiki/Sandshrew_%28Pok%C3%A9mon%29) have a unique type combination of Ice/Steel instead of the usual Ground.
+1. Police departments schedule younger police to work the night shift, when crime happens the most. Fatter staff (the ones you see photographed) work during the day.
+1. Ben Eisenkop has [his own wikipedia page](https://en.wikipedia.org/wiki/Unidan) about how he got banned from Reddit. He was around 27 years olda t the time.
+1. Humanoid robots can be called Androids. Female-like robots can be called Gynoids.
+1. The last IE6 release came out in 2008 (2008-05-05). IE6 is called *Microsoft* Internet Explorer and IE7 is called *Windows* Internet Explorer.
+1. All Islam-regulated methods of destroying copies of the Quran involves making the words illegible.
+1. Rice was Hong Kong's primary agricultural product. There were still rice farmers in Hong Kong in the 1960s and even the 1980s.
+1. In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celcius.
+1. Airlines tell you to put your seat upright during landing, possibly only so that they don't need to fix the seats for their next shift.
+1. Once lost, black luggage bags are basically lost forever. Don't use ribbons as a form of differentiation---they can jam the bag belt. Use colourful duct tape instead.
+1. In 2018, Intel unveiled their all-new Spectre and Meltdown vulnerabilities. In 2018, Intel released fixes for the vulnerabilities. In 2018, [Microsoft blocked those fixes from installing because they are so bad they soft-brick some Windows machines.](https://betanews.com/2018/01/28/microsoft-windows-intel-spectre/)
+1. If you change your phone number, ANYONE now with your old phone number will be able to read ALL your unmigrated WhatsApp messages. Source: You managed to read someone's stale messages by ordering a travel SIM.
+1. No free (Android) app corrects fisheye images because [it's hard](https://www.lonelyspeck.com/defish/).
+1. If the mouse wheel sometimes scrolls upwards when you scroll down, all you need to do is air-blast the sensor. No need to buy a new mouse for just this issue.
+1. Azerbaijan is part of the [Caucasus region](https://en.wikipedia.org/wiki/Caucasus), [somewhat related](https://en.wikipedia.org/wiki/Caucasian_race) to the Causasian race. The [Aryan type](https://en.wikipedia.org/wiki/Indo-Aryan_peoples) also has little to no relation to the [Aryan race](https://en.wikipedia.org/wiki/Aryan_race).
+1. ["You don't need to clean washrooms if you don't have any"](https://i.imgur.com/swEYtYS.jpg) - Hong Kong shopping malls, probably
+1. 2500 Wikipedia edits concerned [whether or not the "Anus" page should include a picture of it](https://informationisbeautiful.net/visualizations/wikipedia-lamest-edit-wars/).
+1. "北水" is money coming from China.
+1. [Tate's Cairn](https://en.wikipedia.org/wiki/Tate's_Cairn) has a completely unrelated name, 大老山.
+1. "You must use this precious silver" refers to silverware given by the church dude.
+1. There was once a ship registered with the number A20196Y.
+1. 九龍仔, 九龍塘, 九龍灣, and 九龍城 are all in Kowloon, but 九龍坑 is not.
+1. The first batch of volunteers from the Royal Hong Kong Regiment consisted of 99 European men.
+1. Duolingo determines your timezone using your device's local time. And you can be in two timezones at the same time.
 1. Steve Jobs has a daughter called Eve.
 1. Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"
 1. The [Isle of Man](https://en.m.wikipedia.org/wiki/List_of_Snaefell_Mountain_Course_fatalities) racecourse is the most fatal racecourse *in the wurld*, with multiple deaths every year except 2012.

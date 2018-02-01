@@ -1,5 +1,7 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+* If you really want to see Jesus weep, you can force `getElementById` to return multiple elements by [changing the element's id, and then calling `getElementById`, rince and repeat, until no elements by that id can be found](https://stackoverflow.com/a/3607436/1558430).
+* [Rollup](https://rollupjs.org/guide/en#why) the bundler uses the term *tree-shaking* to refer to including only the code that is imported by your code.
 * Whitespace in between symbols don't matter: `console   .    log    (   'lol'   )  // lol`
 * "You need to use yarn in flat mode with `yarn install --flat`"
 * The codename for ionic v1 is [`hong kong`](https://github.com/ionic-team/ionic-v1/blob/master/package.json#L5).
@@ -15,11 +17,11 @@
 * The window's `storage` event is fired on [every window using the storage except the window that modified storage][stackoverflow].
 * `in` compares by reference, apparently. `'e' in 'hello'.split('')` returns false.
 *  You also shouldn't blindly `in` everything; [`for (var i in window.external)`](http://andrew.hedges.name/experiments/in/) throws exceptions in IE.
-* NaN always compares to false. Only isNaN can compare NaN.
+* `NaN` always compares to false. Only `isNaN` can compare `NaN`.
 * Delegated selectors save memory (most of the time): `$(parentObject).on(events, selector[, data], function (event) {})`
 * Delegated events can be triggered by `.trigger("myCustomEvent", [data])`.
 * jQuery will ignore the `data` option when creating an element from string if the element already has data attribute(s).
-* `void 0 === undefined`.
+* `void 0 === undefined`. Actually, `void anything === undefined`, and `void;` alone is not valid syntax.
 * It was possible to define the global `undefined`; not possible anymore, because people were screwing around with it.
 * `$([...]).each` is faster when `for` loops when it contains elements, and slower when it contains an ordinary iterable.
 * `new Object`, or any object in general (e.g. `Date`), does not require `()` to initialise. Strict mode will throw a warning, though.
@@ -37,7 +39,7 @@ return function IndexError(msg) {
 ```
 
 * `function abc()` in IE8 or above are declared twice, due to a bug in [hoisting and initialisation][github].
-* Youtube disables autoplay on mobile devices, even when `autoplay: 1`.
+* (2012 news?) Youtube disables autoplay on mobile devices, even when `autoplay: 1`.
 * Detecting document zoom level [is a piece of ass][stackoverflow 2].
 * In an [AngularJS][angularjs] controller definition, the variable name for the scope must be `$scope`.
 * `Object.defineProperty` creates immutable object constants. [Everything except IE8][mozilla] does it correctly.

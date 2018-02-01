@@ -1,3 +1,11 @@
+1. [Everything causes memory loss, including insulin.](https://bebrainfit.com/20-medications-that-can-cause-memory-loss/) Better kill yourself now.
+1. [Lions cannot easily bite into large, round objects like hippos](https://www.youtube.com/watch?v=ymZhC4MlCmw)
+1. Queen bees have smooth stingers that can sting humans multiple times without disemboweling.
+1. The [tonsil](https://en.wikipedia.org/wiki/Tonsil) is an immune response component, fighting off infections from food. It is not useless.
+1. [Plenty of *-saurus* animals aren't dinosaurs.](https://en.wikipedia.org/wiki/Aphanosauria)
+1. The [bony-eared assfish](https://en.wikipedia.org/wiki/Acanthonus_armatus) holds the record for the smallest brain-to-body weight ratio of all vertebrates (shrews being the highest).
+1. Iron is a trace element in the sea, limiting phytoplankton growth. [Iron can be intentionally added to the sea](https://en.wikipedia.org/wiki/Iron_fertilization) to promote phytoplankton growth, which has great effects on reducing CO2 levels.
+1. [AB+ can donate plasma to the most number of other blood types.](https://www.reddit.com/r/coolguides/comments/7s8qxw/turns_out_ab_isnt_always_all_that_selfish/)
 1. [Dolphins use pufferfish toxin to get high](https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/), passing the fish around like a bong.
 1. Anyone who loses 3 litres of blood in front of you will probably die. [1](http://www.medicaldaily.com/breaking-point-how-much-blood-can-human-body-lose-350792) [2](https://wonderopolis.org/wonder/how-much-blood-is-in-your-body)
 1. Half of the cases of [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) have no symptoms. A/the clot then travels up to the lungs and make it [pulmonary embolism](https://en.wikipedia.org/wiki/Pulmonary_embolism).

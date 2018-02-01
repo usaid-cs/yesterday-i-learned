@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. There is a scam for anything that requires credit inquiry (but particularly when you try to buy a car) that the seller says your score is too low, which means you will have to borrow at a higher rate. The solution is to bring your own copy of the credit report.
+1. Operating a soft-top in freezing temperatures will weaken or even break it.
+1. (Pure speculation) Cars with longer wheelbases can handle rough roads better because "they have more time to settle", in principle actually because the platform does not change in angle as much as a car with a short wheelbase in the event of say a pothole. It is also expected that the car exerts more moment onto the suspensions, making them easier to wear out.
 1. According to [this page](https://99percentinvisible.org/article/breakaway-hit-street-side-posts-designed-sever-strategically-impact/), some traffic poles are designed to snap off when crashed into, so fewer drivers die from "wrapped around a pole"-type accidents.
 1. Rubber tires don't insulate you from electricity as much as you think. Even in [the demonstration](https://www.youtube.com/watch?v=ve6XGKZxYxA) the vehicle is seen as the path of least resistance to the ground.
 1. The Rolls Royce Phantom looked like a phantom [in 1925](https://i.redd.it/6pia6momz4801.jpg).
