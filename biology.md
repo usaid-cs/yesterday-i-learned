@@ -1,3 +1,6 @@
+1. [Biofilm](https://en.wikipedia.org/wiki/Biofilm) is specifically defined by IUPAC as "Aggregate of microorganisms in which cells that are frequently embedded within a self-produced matrix of extracellular polymeric substances (EPSs) adhere to each other and/or to a surface." Biofilms must contain cells. They are created by cells to make a favourable environment for themselves to grow in.
+1. [Gout](https://en.wikipedia.org/wiki/Gout) affects fat cats who eat lots of meat and drink lots of beer.
+1. Glucagon is a peptide (which happens to be a hormone). It raises blood glucose and fat, opposite of what insulin does.
 1. [Everything causes memory loss, including insulin.](https://bebrainfit.com/20-medications-that-can-cause-memory-loss/) Better kill yourself now.
 1. [Lions cannot easily bite into large, round objects like hippos](https://www.youtube.com/watch?v=ymZhC4MlCmw)
 1. Queen bees have smooth stingers that can sting humans multiple times without disemboweling.

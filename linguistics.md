@@ -1,9 +1,11 @@
+1. The French call tanning "Bronzing".
+1. *Prendre* is clearly "take", but *prendre le déjeuner* means "have lunch".
 1. *Trompe* ("deceive") *l'oeil* ("the eye") = optical illusion
 1. [大檸樂](http://evchk.wikia.com/wiki/%E5%A4%A7%E6%AA%B8%E6%A8%82) actually means 大撚鑊.
 1. [But](https://en.wikipedia.org/wiki/Yam_O) according to Shuowen Jiezi, Yam (陰) originally is a geographical syntax which means "North of a hill or south of a body of water"
 1. "Crochet" is apparently French.
 1. There is an age beyond which you are unable to learn speech, if you haven't already. [Genie the abused child never spoke](https://en.wikipedia.org/wiki/Genie_%28feral_child%29), even as she lives to be 60. [This window](https://en.wikipedia.org/wiki/Critical_period_hypothesis#Second-language_acquisition) also explains why it is so hard to learn a second language after a certain age, perhaps correlating to the individual's reproductive fitness.
-1. [*Chop chop*](https://en.wikipedia.org/wiki/Chop_chop_%28phrase%29) came from Cantonese, but [no one could tell you what the Cantonese phrase was](http://www.phrases.org.uk/meanings/chop-chop.html). Neither the Cantonese nor Mandarin pronunciation of 快快 sound like chop chop, and no one ever says "快快".
+1. *Chop chop* came from Cantonese 速速, but [multiple sources](http://www.phrases.org.uk/meanings/chop-chop.html), including [Wikipedia](https://en.wikipedia.org/wiki/Chop_chop_%28phrase%29), try to associate it with Cantonese or Mandarin 快快, which no one ever says.
 1. Rhapsody is actually pronounced RAP-siddy.
 1. Apparently if "Je t'aime plus" is pronounced without the S at the end, it will mean "I don't love you anymore". With the S, it means "I love you more". Also, "aimer bien" is like, but "aimer" is love.
 1. Languages typically develop the word for "red" first (because it's bright?), and then maybe yellow/green, and then blue, and then brown. Read study by Berlin and Key, 1969.
@@ -113,7 +115,7 @@
 1. Croissant is the French word for Crescent. They are rolled up triangles.
 1. Bagel is from Yiddish: בײגל‎ beygl, in turn from German beugel; pronouncing it BAG-o is incorrect.
 1. Diaspora should NOT be pronounced die-ASS-pra.
-1. [Chinese and Japanese are not as affected by dyslexia than Arabic.](https://www.reddit.com/r/explainlikeimfive/comments/5qupij/eli5_how_is_being_dyslexic_in_symbol_languages/)
+1. [Chinese and Japanese are not as affected by dyslexia as Arabic.](https://www.reddit.com/r/explainlikeimfive/comments/5qupij/eli5_how_is_being_dyslexic_in_symbol_languages/)
 1. *I* is capitalised only because [Chaucer didn't like how *i* looked when he was writing The Canterbury Tales.](http://blog.dictionary.com/whycapitali/)
 1. Like the Turkish word *yoğurt*, [Yogurt](http://writingexplained.org/yogurt-vs-yoghurt-difference) has no H. But it is also pronounced YO-sh-t.
 1. [Special subtraction cases](https://www.math.nmsu.edu/~pmorandi/math111f01/RomanNumerals.html) in the Romman numeral system occur only if a specific character is repeated four or more times, like "IIII" becomes "IV", "VIIII" becomes "IX", "LXXXX" (90) becomes "XC", and "DCCCC" (900) becomes "CM". There are no other special cases.
