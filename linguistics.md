@@ -1,3 +1,7 @@
+1. *Tonkotsu* is pork bone. *Tonkatsu* is pork cutlet (schnitzel).
+1. I fail to see why *cul de sac* can't be "ass of balls".
+1. "Modem" came from MOdulator-DEModulator. "Codec" came from COder-DECoder.
+1. There is a [buddhist](https://baike.baidu.com/item/%E6%88%91%E4%B8%8D%E5%85%A5%E5%9C%B0%E7%8B%B1) saying "I don't go to hell, who goes to hell"
 1. The French call tanning "Bronzing".
 1. *Prendre* is clearly "take", but *prendre le déjeuner* means "have lunch".
 1. *Trompe* ("deceive") *l'oeil* ("the eye") = optical illusion

@@ -1,5 +1,40 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. 乾貝 has its own loanword [conpoy](https://en.wikipedia.org/wiki/Conpoy) rather than just "dried scallop".
+1. "Master a skill in your 20s", [paraphrasing](http://www.reddit.com/r/AskReddit/comments/6pfemo/-/dkpp1xx) /r/SleepyConscience.
+1. "Running the gauntlet" involves a guilty person walking in between two rows of soldiers, who attack him as he crosses.
+1. ["Ass Pounder 4000"](https://www.youtube.com/watch?v=MEuMmaUi50I) came from It's Always Sunny In Philadelphia.
+1. Elon Musk did not waste time on anything that is impossible: ["The first step is to establish that something is possible; then probability will occur."](https://www.inc.com/peter-economy/11-elon-musk-quotes-that-will-push-you-to-achieve-impossible.html)
+1. JIRA's ["Impediment" flag](https://confluence.atlassian.com/jirasoftwareserver071/flagging-an-issue-800706915.html), or just "Flag", was a [leftover](https://community.atlassian.com/t5/Questions/JIRA-s-quot-Impediment-quot-Flag-vs-a-Custom-quot-Impeded-quot/qaq-p/29095) part from GreenHopper.
+1. Kids at the age of two are called [terrible twos](https://www.parents.com/toddlers-preschoolers/development/behavioral/tackle-terrible-twos/) for the tantrums they tend to release at around that age, when they start to learn the ability to be frustrated with something they cannot do.
+1. "Fun fact, the pharaoh who ended the great age of pyramids by not working his people to death was thought of as a weak ruler because he didn't work people to death." - /r/LilSebastianRIPhomie
+1. Since UK forces do not enlist women, the first woman to lead the Queen's Guard [was a Canadian](http://www.macleans.ca/news/canada/why-a-canadian-soldier-led-the-queens-guard/). The Queen's Guard is a real regiment of soldiers with [dope ass-guns and hat straps that go over their chins instead of under](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.funkidslive.com%2Fwp-content%2Fuploads%2F2015%2F08%2FQueensGuard.jpg&f=1).
+1. Finland is responsible for the [World_Sauna_Championships](https://en.wikipedia.org/wiki/World_Sauna_Championships#2010_incident), which caused one death at 110°C, [Mobile Phone Throwing World Championships](https://en.wikipedia.org/wiki/Mobile_phone_throwing), sponsored by Nokia obviously, and the [Wife Carrying World Championship](https://www.youtube.com/watch?v=974HCI4UV4A), which... seems normal in comparison.
+1. Rubbing alcohol might make some post-it notes sticky again.
+1. "I think I'm starting to understand the older people on my life. ... Imagine a tool you've used for 30 years, it's not even an extension of your hand any longer, it's a pure extension of your will. I wouldn't want to replace it either." - /r/Steavee
+1. Kafka told his friend to have his works "to be burned unread" after he dies. His friend responded be publishing everything, citing Kafka might have had psycological issues that made him say such things.
+1. Ray Chan, one of the co-founders, refused to admit that [9gag](https://en.wikipedia.org/wiki/9GAG) comes from "爛gag".
+1. There is an encyclopedia page dedicated to [Rihanna's forehead](http://uncyclopedia.wikia.com/wiki/Rihanna%27s_Forehead).
+1. 4060 is the grocery code for broccoli.
+1. [Intel GPU firmware have been proprietary since skylake.](https://lists.freedesktop.org/archives/intel-gfx/2015-June/068167.html)
+1. The [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) actually comes in multiple discrete sections, sometimes even perpendicular to each other.
+1. [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money) is backed by nothing. Commodity Money is backed by something real, like gold and silver.
+1. Sleeping Dogs was one of the greatest games you bothered to finish. The story, the setting, the knee-breaking action, driving while hopping from car to car.
+1. [The Fanling KCR station existed in 1910, one of the three permanent stations at the time.](https://en.wikipedia.org/wiki/Kowloon-Canton_Railway_Corporation#Origins_of_the_corporation) [MTR didn't have any lines until 1979.](https://www.youtube.com/watch?v=XkD5g0TxXXg)
+1. The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter. Both settings are emulated.
+1. [State Grid Corp of China](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) is a state-owned monopoly. It is not understood why Fortune Global 500 considers it a company (it's top 2, in fact).
+1. Carlsberg is trash. Heineken is acceptable if it's on sale. Molson is not a beer.
+1. Elon Musk once said along the lines of: [if you work 100-hour weeks and others work 40-hour weeks, then your chances of (he used the word "success", but it's probably more like "getting something done") is higher, if not 2.5x higher, than your competitors.](https://www.nextbigwhat.com/elon-musk-quotes-297/) You know that's 14-hour work days, right? You know people burn out, right?
+1. Tasker has a built-in Morse Code action. It can only use the speaker(s).
+1. The most average person is [a 28-year old Han Chinese man](http://www.dailymail.co.uk/news/article-1362709/Typical-human-face-28-year-old-Chinese-man.html).
+1. For $15~100, you can buy mystery boxes on eBay, containing more than their value worth of trash.
+1. [Tesla Model 3's pricing is rubbish.](https://www.youtube.com/watch?v=9O5PhuW927w) starts at 35k, but replacing the battery with a long-range ("proper") one is another 9k, and *enabling* autopilot is another 1k, even though all the sensors are installed on every car.
+1. There is no conceptual difference between using your power line for ethernet, and using your phone line for your DSL. The signals are just overlapped with vastly different frequencies (Hz vs MHz). Also, if you live in an apartment building, congrats! Everyone shares your local network!
+1. Compact camera sales dropped [90%](https://www.youtube.com/watch?v=2FfESeH7Rro) from 2010 to 2016.
+1. Brian's Point Inflation Hypothesis states that, for any given Reddit user, no matter how useless or controversial its comments are, it is still more likely for its karma to be net positive than negative.
+1. [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) basically says that if any trend [in the stock market] becomes a target, then it is less likely to occur in the future. An example is the "if the stock market surges in January, it surges throughout the rest of the year" pattern, which will probably fail now because someone jinxed it.
+1. The first person to say ["Octothorpe taters"](https://www.google.ca/search?q=hashtag+fries&oq=hashtag+fries) was @1337 on 2018-02-02.
+1. [3.7V and 4.2V lithium ion batteries are the same thing.](https://learn.adafruit.com/li-ion-and-lipoly-batteries/voltages) They are just labelled differently.
 1. 1 Infinite Loop is [a stupid 0](https://www.google.com/maps/place/Infinite+Loop,+Cupertino,+CA+95014,+USA/@37.3320954,-122.0309105,18z/data=!4m5!3m4!1s0x808fb5b6e7b4b9fb:0x697a4332574f50d9!8m2!3d37.3320003!4d-122.0307812.)
 1. Volvo is Latin for "I roll". Its [logo](https://en.wikipedia.org/wiki/Volvo_Cars#Logo) is the symbol of iron, which is also used for Mars or the Male sex. [This means women cannot driver Volvo cars.](https://www.eatliver.com/volvo/)
 1. None of the [cheesecloth grades](https://en.wikipedia.org/wiki/Cheesecloth) have the same number of threads per unit area horizontally and vertically.
@@ -162,7 +197,7 @@
 1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. [“They're not severed, they're disarticulated,” Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
 1. The OBD II adapter passcode is 1234.
 1. [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
-1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V.
+1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V. [See also: "lithium batteries undergo unwanted chemical reactions when discharged below 3V, causing their internal resistance to be permanently and significantly raised"](https://electronics.stackexchange.com/a/219236)
 1. "It is better to wear out than rust out." - Richard Cumberland
 1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 1. `expectedFailure`s are tests that pass, whether or not it fails. But not skipped.
@@ -1050,7 +1085,7 @@
 1. 50 Cent is [African American](https://github.com/WCF/black-to-african-american). Eminem is Caucasian American.
 1. Nepotism: rich people giving jobs to each other's relatives.
 1. 3.5 ounces is around a 100g. Unfortunately, it is 3.3 yards that is roughly 1 metre, rather than 3.5.
-1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery.
+1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery. **WAIT**: what the hell is your phone doing while charging then?
 1. A 1080p PenTile display has an actual resolution of [1564 x 880](https://medium.com/@suyashsrijan/1080p-pentile-is-not-true-1080p-9951b9e5c2ee) (66% of pixels, 81% on each side). They get away with this because VESA uses "50% Michelson contrast" to define boundaries of a pixel, rather than rows and lines.
 1. Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
 1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.

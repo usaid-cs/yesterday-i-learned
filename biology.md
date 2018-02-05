@@ -1,3 +1,7 @@
+1. Mouse metabolism is [seven times faster than human metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) so whatever research we do/did about inflammation with mice as a model is [basically worthless](http://blogs.sciencemag.org/pipeline/archives/2013/02/13/mouse_models_of_inflammation_are_basically_worthless_now_we_know).
+1. Watermelons are considered berries.
+1. It was concluded that ["salp jet propulsion is a more economical process than is jet propulsion in other animals"](https://doi.org/10.1111%2Fj.1469-7998.1983.tb05071.x), i.e. salps have the form of jet propulsion with the lowest drag. Salps are jelly animals that live together in chains.
+1. There's [a BBC video](https://www.youtube.com/watch?v=W86cTIoMv2U) called "World's smallest cat" on the series about Big Cats.
 1. [Biofilm](https://en.wikipedia.org/wiki/Biofilm) is specifically defined by IUPAC as "Aggregate of microorganisms in which cells that are frequently embedded within a self-produced matrix of extracellular polymeric substances (EPSs) adhere to each other and/or to a surface." Biofilms must contain cells. They are created by cells to make a favourable environment for themselves to grow in.
 1. [Gout](https://en.wikipedia.org/wiki/Gout) affects fat cats who eat lots of meat and drink lots of beer.
 1. Glucagon is a peptide (which happens to be a hormone). It raises blood glucose and fat, opposite of what insulin does.
