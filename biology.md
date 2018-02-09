@@ -1,3 +1,6 @@
+1. To preserve muscle mass past the age of 40, simply [lift weights and eat twice as much protein](https://www.reddit.com/r/Fitness/comments/7w70c1/lift_weights_eat_more_protein_especially_if_youre/), says the dairy industry.
+1. Parrots can get ["PBFD"](https://en.wikipedia.org/wiki/Psittacine_beak_and_feather_disease), a virus that attacks the feather follicles, beaks, and claws. The infected parrots usually die.
+1. There is not sufficient data to back up whether [Zostavax](https://www.webmd.com/drugs/2/drug-144377/zostavax-pf-subcutaneous/details) prevents a second round of shingles for those who has had one already.
 1. Mouse metabolism is [seven times faster than human metabolism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) so whatever research we do/did about inflammation with mice as a model is [basically worthless](http://blogs.sciencemag.org/pipeline/archives/2013/02/13/mouse_models_of_inflammation_are_basically_worthless_now_we_know).
 1. Watermelons are considered berries.
 1. It was concluded that ["salp jet propulsion is a more economical process than is jet propulsion in other animals"](https://doi.org/10.1111%2Fj.1469-7998.1983.tb05071.x), i.e. salps have the form of jet propulsion with the lowest drag. Salps are jelly animals that live together in chains.

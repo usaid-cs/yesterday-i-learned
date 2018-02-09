@@ -1,5 +1,20 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. The classic [Big Red](http://www.wehuntedthemammoth.com/2016/07/01/chanty-binx-speaks-up-after-3-years-of-harassment-capped-by-bizarre-privacy-breach/) feminist is called Chanty Binx.
+1. [Harrison Ford just wanted to be done with the Star Wars franchise. He has always wanted the franchise to kill him off and be left alone.](http://www.reddit.com/r/funny/comments/7vys0s/-/dtwi9ro) Carrie Fisher also thought the same, but was less brutally honest than he is.
+1. [Amazon owns more weird brands than just AmazonBasics](https://qz.com/1039381/amazon-owns-a-whole-collection-of-secret-brands/)
+1. The [Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) rocket, at first launch, is already the world's highest capacity rocket [in operation], at 63.8 Mg to the low Earth orbit.
+1. [None of the Amazon tablets have GPS built-in, because...](https://www.amazon.ca/dp/B072KFMTQ3) well, it doesn't help them sell e-books.
+1. King Egbert (827-839) [was the first monarch to establish a stable and extensive rule over all of Anglo-Saxon England.](http://www.historic-uk.com/HistoryUK/KingsQueensofBritain/)
+1. Dow Jones was named after the [Dow, Jones & Company](https://en.wikipedia.org/wiki/Dow_Jones_%26_Company) founded in 1882. Unfortunately the third co-founder (Charles Bergstresser) did not have a good enough-sounding surname to be included. (Kidding aside, he was a silent partner.)
+1. Between the transition from double-spacing (monospace days) to single-spacing (modern human beings), the use of an ["en quad", a 1.5-space character](https://en.wikipedia.org/wiki/Sentence_spacing#Transition_to_single_spacing) took place at around the 1940s.
+1. [Candlestick *sharts*](https://en.wikipedia.org/wiki/Candlestick_chart) show the same things as OHLC (open-high-low-close) charts. If it's green then it went up during the day, and if it's red then it went down during the day. OHLC because ["open is on the left, close is on the right"](https://static.incrediblecharts.com/images/png_images/bar.png) requires a higher screen resolution, and you cannot see the general trend of whether a period of time is mostly green or red.
+1. [Insolvency](https://en.wikipedia.org/wiki/Insolvency) (inability to pay back) happens before you really go bankrupt. Because you can have a house and not $10 at the same time, you can be very rich and still *cash-flow insolvent*.
+1. You may find "Restaurant Brands International" listed as "QSR", "Quick service restaurants".
+1. Vikings were still a thing in the eleventh century.
+1. [10 countries](https://www.fool.com/investing/general/2014/01/04/10-countries-with-zero-income-taxes.aspx) (mostly oil countries) do not collect income taxes.
+1. Static (or compile-time) linking, at the cost of disk space, allows executables to be more portable by eliminating the need for a [dynamic linker](https://en.wikipedia.org/wiki/Dynamic_linker), which is part of the OS instead of the program.
+1. The point of a Digital Ocean "floating IP" is so the IP can instantly re-point to a different droplet. Droplets with a [floating IP](https://www.digitalocean.com/community/tutorials/how-to-use-floating-ips-on-digitalocean) assigned will simply have two IPs.
 1. 乾貝 has its own loanword [conpoy](https://en.wikipedia.org/wiki/Conpoy) rather than just "dried scallop".
 1. "Master a skill in your 20s", [paraphrasing](http://www.reddit.com/r/AskReddit/comments/6pfemo/-/dkpp1xx) /r/SleepyConscience.
 1. "Running the gauntlet" involves a guilty person walking in between two rows of soldiers, who attack him as he crosses.
@@ -18,7 +33,7 @@
 1. 4060 is the grocery code for broccoli.
 1. [Intel GPU firmware have been proprietary since skylake.](https://lists.freedesktop.org/archives/intel-gfx/2015-June/068167.html)
 1. The [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) actually comes in multiple discrete sections, sometimes even perpendicular to each other.
-1. [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money) is backed by nothing. Commodity Money is backed by something real, like gold and silver.
+1. [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money) is backed by nothing. Representative Money is backed by something real, like gold and silver. Commodity Money is literally worth its weight in gold, because it is gold. (Or silver etc)
 1. Sleeping Dogs was one of the greatest games you bothered to finish. The story, the setting, the knee-breaking action, driving while hopping from car to car.
 1. [The Fanling KCR station existed in 1910, one of the three permanent stations at the time.](https://en.wikipedia.org/wiki/Kowloon-Canton_Railway_Corporation#Origins_of_the_corporation) [MTR didn't have any lines until 1979.](https://www.youtube.com/watch?v=XkD5g0TxXXg)
 1. The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter. Both settings are emulated.
@@ -197,7 +212,7 @@
 1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. [“They're not severed, they're disarticulated,” Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
 1. The OBD II adapter passcode is 1234.
 1. [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
-1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V. [See also: "lithium batteries undergo unwanted chemical reactions when discharged below 3V, causing their internal resistance to be permanently and significantly raised"](https://electronics.stackexchange.com/a/219236)
+1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V (54%). [See also: "lithium batteries undergo unwanted chemical reactions when discharged below 3V, causing their internal resistance to be permanently and significantly raised"](https://electronics.stackexchange.com/a/219236)
 1. "It is better to wear out than rust out." - Richard Cumberland
 1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 1. `expectedFailure`s are tests that pass, whether or not it fails. But not skipped.
@@ -365,7 +380,7 @@
 1. "Of course [I'd hire a programmer who doesn't code in his spare time], same as I'd hire a carpenter that doesn't spend his evenings building houses or an accountant that doesn't do accounts for recreation." - dimnakorr
 1. American Chinese takeout boxes are [oyster pails](http://www.nytimes.com/2012/01/15/magazine/the-chinese-takeout-container-is-uniquely-american.html).
 1. OJ Simpson killed two people, then got into a high speed police chase in a white Ford Bronco. Ford stopped making the Bronco for ~20 years for unrelated reasons.
-1. Gesture typing for "github" also gives you "virgin".
+1. **Gesture typing for "github" also gives you "virgin".**
 1. Doctors need malpractice insurance.
 1. Dave the minion has two eyes. Stuart the minion has one. There are also Kevin (tall), Bob (short), Tim (???) and Jerry (bald?)
 1. In The Shining, that kid [Danny](http://www.idyllopuspress.com/meanwhile/30410/the-shining-how-the-kubrick-carpet-trick-works/) is actually called Danny in real life. His dad, Jack (a dull boy), is actually called Jack in real life. [whenever Jack is in the writing room, there's probably a bear rug](https://youtube.com/watch?v=_NxHrbfxaLI), and whenever he sees a ghost, it is usually through a mirror. [The wife](http://www.indiewire.com/2013/09/stephen-king-says-wendy-in-kubricks-the-shining-is-one-of-the-most-misogynistic-characters-ever-put-on-film-93450/) Wendy unfortunately isn't called Wendy in real life, but Stephen King said he didn't write her as that useless in his original book.

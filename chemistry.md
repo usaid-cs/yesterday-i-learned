@@ -1,3 +1,4 @@
+1. If you [do all sorts of things to wood (sodium hydroxide... sodium sulphite... crush... hot press...) to the point where it doesn't even qualify as wood anymore, it is stronger than wood](https://www.nature.com/articles/d41586-018-01600-6), says the University of Maryland.
 1. (Probably all) electron microscopes have [moledular pumps](https://en.wikipedia.org/wiki/Turbomolecular_pump) that create a vacuum.
 1. [Konjac](https://en.wikipedia.org/wiki/Konjac) 蒟蒻 geoi2 joek6 must be neutralised with calcium hydroxide and cooked before it can be eaten. [Glucomannan](https://en.wikipedia.org/wiki/Glucomannan) is usually what's eaten.
 1. The amphiphilic detergent in [Tide pods](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods) will cause any cells in contact to explode. Enough cells undergoing necrosis will kill you.

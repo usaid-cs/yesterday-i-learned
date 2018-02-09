@@ -1,3 +1,5 @@
+1. ["In the Texan dialect, ... up and down are north and south, and out and over are west and east, respectively,"](https://www.texasmonthly.com/being-texan/being-texan-prepositions/) claimed John.
+1. *Le voici* translates to "here it is" rather than "it see here".
 1. *Tonkotsu* is pork bone. *Tonkatsu* is pork cutlet (schnitzel).
 1. I fail to see why *cul de sac* can't be "ass of balls".
 1. "Modem" came from MOdulator-DEModulator. "Codec" came from COder-DECoder.
