@@ -6,14 +6,16 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Doze parameters can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130). A flowchart of doze's events can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130/post63962529#post63962529).
+1. Remember, the next time they stop updating their devices, put "🅵🆄🅲🅺🅾🅽🅴🅿🅻🆄🆂" up as your reddit flair.
+1. `adb logcat *:W` to filter at least WARN.
+1. [Lots of `build.prop` entries don't do anything.](https://forum.xda-developers.com/showthread.php?t=2544330)
 1. `dumpsys batterystats --reset  # resets battery graph`
 1. [`pm grant com.uzumapps.wakelockdetector.noroot android.permission.BATTERY_STATS`](https://forums.androidcentral.com/moto-g-2016/700464-wakelock-detector-no-root-required.html): [`cmd appops set com.android.application WAKE_LOCK ignore`](https://www.xda-developers.com/stop-wakelocks-android-without-root/)
 1. On the opposite (coincidentally, the same) side of the planet, [two Internet giants do mentally special things to each other on their users' phones in other to share shopping links over a chat service](https://www.reddit.com/r/oneplus/comments/7prvrj/i_looked_into_what_actually_is_being_sent_and/dsk9ykl/)
 1. LG G3, G4, [*AND* G5](https://www.reddit.com/r/Android/comments/7mmz3s/htc_and_motorola_say_they_dont_slow_old_phones/drvh082/) bootloop.
-1. Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
 1. ShareIt, CM browser, DU battery saver, and ES file explorer are among the apps that [China uses to spy on other countries](https://www.reddit.com/r/Android/comments/7godzf/china_is_spying_through_42_apps_delete_them/dqlb3yh/).
 1. The battery stats is reset when it reaches MAX_HISTORY_BUFFER, which is 256kB.
-1. The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
 1. If the [camera mods](https://www.celsoazevedo.com/files/android/google-camera/) don't work, you need to [enable the Camera2 API](https://forum.xda-developers.com/apps/magisk/module-camera2api-enabler-t3656651) (`persist.camera.HAL3.enabled=1`) first.
 1. Cyanogen was [Steve Kondik's nickname](https://github.com/cyanogen). He created CyanogenMod.
 1. `adb shell dumpsys batterystats --reset` resets the battery graph.
@@ -23,6 +25,32 @@
 1. The Pixel has [Snapdragon 821-AB](https://www.xda-developers.com/dissecting-speed-how-oneplus-leveraged-excellent-real-world-performance/), whereas the Oneplus 3T has Snapdragon 821-AC, with a slightly higher boost frequency.
 1. Face Unlock is less popular in countries like Saudi Arabia and UAE.
 1. Download the SDK before attempting to compile anything.
+1. Daydream is triggered only if the device is allowed to sleep from screen timeout while charging. Pressing the power button at any time will cancel the timeout.
+1. Use the ["debug GPU overdraw"](https://www.youtube.com/watch?v=I4MhEx-nck4) thing in developer options to check where your app is drawing over a pixel twice or more (which is wasteful), including re-computing the colour over transparent areas.
+1. Google Play Services keeps track of your boot count in a `shared_prefs/bootCount.xml`.
+1. The Nexus 5x has a fake bottom speaker grille.
+1. September 2017--a month which will live in infamy--both [BroadPwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) and [Blueborne](https://www.armis.com/blueBorne/) vulnerabilities were released into the wild. In the same month, Google released Android O[nion], rendering all N-based ROMs vulnerable to these attacks.
+1. CAF (Code Aurora Forums) is not the project; "Android for MSM" is the project. When dudes say they are based on CAF, they actually mean they are based on Android for MSM by CAF.
+1. In a very glitchy way, one-handed mode is shipped with Android 6.0 using the [`wm overscan`](https://forum.xda-developers.com/u/tasker-tips-tricks/guide-hold-swipe-home-button-to-enable-t3330353) command.
+1. Android devices can be rooted with the [row hammer effect](https://en.wikipedia.org/wiki/Row_hammer). "Repeatedly accessing data stored in memory chips could flip certain bits," say [Arstechnica](https://arstechnica.com/information-technology/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/).
+1. Stop (my particular android) device from charging using `echo 0 > /sys/class/power_supply/battery/charging_enabled`. (Use 1 to re-enable, or 2 to blow the phone up.)
+1. Samsung is not an Android manufacturer for Google; [Samsung is a conglomerate that wants to take Android off Google](https://www.youtube.com/watch?v=2_L9j6mDJBg). No other series of devices have both Samsung and Google Apps suites.
+1. Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
+1. If a Oneplus One boot loops because of a [corrupt `persist` partition](http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/), run `make_ext4fs /dev/block/mmcblk0p15`
+1. As of ~~Android L~~CyanogenMod 12, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
+1. However much Google results decide to decay, the way to check (your particular android) device's battery percentage is `cat /sys/class/power_supply/battery/capacity`.
+1. [The last three digits of a Google Play Services package](https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5) defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
+1. MediaTek is "not that much worse" than Qualcomm *iff* [you don't use custom ROMs](https://www.reddit.com/r/Android/comments/6p8nio/is_mediatek_really_that_worse/).
+1. Do not give internet access to Android System WebView. Granting network to this component gives all apps that use this component internet access, even if they aren't themselves whitelisted.
+1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
+1. ["You may already know that every app/process in Android is assigned an oom_adj value, which indicates the likelihood of it being killed when an out of memory (OOM) situation occurs. More higher it's value, the higher likelihood of it getting killed. Valid range is -17 to +15. (if in the -17 range means it won't get killed)."](http://forum.xda-developers.com/showthread.php?t=2751559)
+1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
+1. Mounting android's system as rw: `mount -o rw,remount,rw /system` (the second `rw` might not be required; "I always used this command because it never failed for me")
+1. Mounting android's system as ro: `mount -o ro,remount,ro /system` (I know right)
+1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
+1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.
+
+## Android Dev
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
 1. Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
 1. For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.
@@ -53,34 +81,12 @@
 1. [Loser answered the wrong base64 question](http://stackoverflow.com/a/29383697/1558430), but it works. [This should work.](http://stackoverflow.com/a/15683305/1558430)
 1. Two apps signed with the same key can [securely share code and data](https://developer.android.com/studio/publish/app-signing.html#considerations).
 1. adbd cannot run as root in production builds.
-1. Daydream is triggered only if the device is allowed to sleep from screen timeout while charging. Pressing the power button at any time will cancel the timeout.
+1. The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
+1. Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
 1. In some cases, [`onDestroy` is never called when an activity is destroyed.](https://academy.realm.io/posts/sf-fabien-davos-modern-android-ditching-activities-fragments/)
 1. Sometimes you might want to check if you can run code based on the SDK version with which your app is built (like `Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB_MR2`). Actually, I don't think you'll ever need to do that.
 1. [try-with-resources is only supported if your minSdkVersion is set to 19 or higher.](https://stackoverflow.com/a/24290875/1558430) It looks like `try (foo = new SomeResourceLikeAFile()) { foo... }`. Multiple resources can be tried by separating with a `;`.
-1. Use the ["debug GPU overdraw"](https://www.youtube.com/watch?v=I4MhEx-nck4) thing in developer options to check where your app is drawing over a pixel twice or more (which is wasteful), including re-computing the colour over transparent areas.
-1. Google Play Services keeps track of your boot count in a `shared_prefs/bootCount.xml`.
 1. `startActivity` accepts an `Intent` rather than `Activity` because reasons.
 1. If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
 1. IDs are under_scored. Variables are camelCased, As always, because reasons.
 1. It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
-1. The Nexus 5x has a fake bottom speaker grille.
-1. September 2017--a month which will live in infamy--both [BroadPwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) and [Blueborne](https://www.armis.com/blueBorne/) vulnerabilities were released into the wild. In the same month, Google released Android O[nion], rendering all N-based ROMs vulnerable to these attacks.
-1. CAF (Code Aurora Forums) is not the project; "Android for MSM" is the project. When dudes say they are based on CAF, they actually mean they are based on Android for MSM by CAF.
-1. In a very glitchy way, one-handed mode is shipped with Android 6.0 using the [`wm overscan`](https://forum.xda-developers.com/u/tasker-tips-tricks/guide-hold-swipe-home-button-to-enable-t3330353) command.
-1. Android devices can be rooted with the [row hammer effect](https://en.wikipedia.org/wiki/Row_hammer). "Repeatedly accessing data stored in memory chips could flip certain bits," say [Arstechnica](https://arstechnica.com/information-technology/2016/10/using-rowhammer-bitflips-to-root-android-phones-is-now-a-thing/).
-1. Stop (my particular android) device from charging using `echo 0 > /sys/class/power_supply/battery/charging_enabled`. (Use 1 to re-enable, or 2 to blow the phone up.)
-1. Samsung is not an Android manufacturer for Google; [Samsung is a conglomerate that wants to take Android off Google](https://www.youtube.com/watch?v=2_L9j6mDJBg). No other series of devices have both Samsung and Google Apps suites.
-1. Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
-1. If a Oneplus One boot loops because of a [corrupt `persist` partition](http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/), run `make_ext4fs /dev/block/mmcblk0p15`
-1. As of ~~Android L~~CyanogenMod 12, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
-1. However much Google results decide to decay, the way to check (your particular android) device's battery percentage is `cat /sys/class/power_supply/battery/capacity`.
-1. [The last three digits of a Google Play Services package](https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5) defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
-1. MediaTek is "not that much worse" than Qualcomm *iff* [you don't use custom ROMs](https://www.reddit.com/r/Android/comments/6p8nio/is_mediatek_really_that_worse/).
-1. Do not give internet access to Android System WebView. Granting network to this component gives all apps that use this component internet access, even if they aren't themselves whitelisted.
-1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
-1. ["You may already know that every app/process in Android is assigned an oom_adj value, which indicates the likelihood of it being killed when an out of memory (OOM) situation occurs. More higher it's value, the higher likelihood of it getting killed. Valid range is -17 to +15. (if in the -17 range means it won't get killed)."](http://forum.xda-developers.com/showthread.php?t=2751559)
-1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
-1. Mounting android's system as rw: `mount -o rw,remount,rw /system` (the second `rw` might not be required; "I always used this command because it never failed for me")
-1. Mounting android's system as ro: `mount -o ro,remount,ro /system` (I know right)
-1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
-1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.

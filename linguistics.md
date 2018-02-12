@@ -74,7 +74,7 @@
 1. Since caliphate is pronounced [kaLEEfa][wikipedia 119], it is never possible to pronounce it correctly.
 1. Jerusalem is pronounced "yuh Hoo sa LA yim".
 1. Jojoba is pronounced 'hoHOEba', because reasons.
-1. [*Monseigneur*][wikipedia 168] (my lord) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169].
+1. [*Monseigneur*][wikipedia 168] (my lord) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169]. Both mean "my lord".
 1. [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) is pronounced yuh-hez-KEL.
 1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
 1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.

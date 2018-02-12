@@ -384,6 +384,8 @@ bar
 1. SQLAlchemy lets you [choose between different kinds of lazy loading](http://docs.sqlalchemy.org/en/latest/orm/loading_relationships.html) for foreign key relations.
 1. [`__new__(cls, ...)`](https://docs.python.org/2/reference/datamodel.html#object.__new__) is a special method that takes the class as the first argument, but is not a `@staticmethod` or `@classmethod` ("special-cased so you need not declare it as such").
 1. Even in python2.7, if you prefix any class attribute with `__` (i.e. `self.__foo = 1`), [trying to read that attribute from anything except `self` will raise an `AttributeError`.](https://stackoverflow.com/a/38864561/1558430) Instead, [the interpreter does a little obfuscation](https://stackoverflow.com/a/4555970/1558430) such that the attribute is under a different key, usually (but not if subclassed) in the form of `_ClassName__foo`. Use `dir(the instance)` to view.
+1. Keras specifically implements neural networks. It does not implement other kinds of machine learning.
+1. It is completely possible for `pip` and `pip3` to install something into `.local/pip` and have absolutely no effect, other than to make it impossible to install the package as root. First `pip uninstall the-thing`, and then reinstall it with `sudo`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

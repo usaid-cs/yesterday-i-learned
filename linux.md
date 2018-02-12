@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. Simply using [`sort -`](https://stackoverflow.com/a/2434719/1558430) will allow you to paste in any number of lines to be sorted. If too lazy to paste, you can also use `xclip -o | sort -`.
 1. FUSE [probably](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) stands for FilesysteminUserSpacE.
 1. Wrapping an entire shell script in `{` and `}` "ensures the entire script is downloaded". Found in the nvm installer.
 1. `Ctrl+U` in the shell deletes the entire command. `Ctrl+K` deletes anything right of the cursor.
@@ -10,6 +11,8 @@
 1. `man 7z`: "DO NOT USE the 7-zip format for backup purpose on Linux/Unix because: 7-zip does not store the owner/group of the file."
 1. [RMS eats stuff he grew himself (on his own feet).](https://www.youtube.com/watch?v=I25UeVXrEHQ) Probably licenced under GPLv3 too.
 1. Pressing capital `H` in htop hides all user threads.
+1. Pressing capital `P` in htop sorts by CPU.
+1. Pressing capital `M` in htop sorts by memory usage.
 1. `if which git > /dev/null; then echo "lol"; fi  # checks if git exists` is [not recommended](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script); use `if command -v foo >/dev/null 2>&1; then echo "lol"; fi` instead.
 1. In `gpg` (gnupg), `usage: S` means Signing, and `usage: E` means Encryption. [`C` is CERT and `A` is AUTH.](https://unix.stackexchange.com/a/32031) [The master key can never be used for encryption.](https://wiki.debian.org/Subkeys)
 1. `dig` is "domain information groper". Tool names were more colourful back then.

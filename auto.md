@@ -1,7 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
-1. Turns out [Chevy did hire real people for their ads](https://www.reddit.com/r/IAmA/comments/5ozoy1/iama_real_people_from_one_of_the_chevy/), but they were very selective about who said what, and, in turn, what gets shown to the viewer.
-1. Engines with higher compression ratios are usually more efficient, at the cost of performance.
+1. Moisture in engine oil is nothing to worry about [*if*](http://www.offroaders.com/tech/milky-stuff-under-oil-cap.htm) the moisture is from infrequent use, says one source, or make things rust and clog up filters, says [a different source](https://www.azic.com/moisture-in-oils-the-three-headedbeast/).
 1. There is a scam for anything that requires credit inquiry (but particularly when you try to buy a car) that the seller says your score is too low, which means you will have to borrow at a higher rate. The solution is to bring your own copy of the credit report.
 1. Operating a soft-top in freezing temperatures will weaken or even break it.
 1. (Pure speculation) Cars with longer wheelbases can handle rough roads better because "they have more time to settle", in principle actually because the platform does not change in angle as much as a car with a short wheelbase in the event of say a pothole. It is also expected that the car exerts more moment onto the suspensions, making them easier to wear out.
