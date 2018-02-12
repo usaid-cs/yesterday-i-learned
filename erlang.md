@@ -23,3 +23,21 @@
 1. The `[A|B]` syntax breaks a list up to head and rest, where the head is the first element, and *the rest is the rest of the list*. Docs may call the rest, the "tail".
 1. If you accidentally type in `erb` instead of `erl`, that gives you "ruby templating".
 1. The A in `[A|B]` can also be any number of CSVs, and B can be any list, e.g. `[1, 2, 3, 4 | [5, 6 | [7, 8]]] =:= [1,2,3,4,5,6,7,8].`
+1. List comprehension is done in the form `[ X || X <- list ]`, read the same way as `[X for X in list]`. For example, `[ 2*N || N <- [1,2,3,4] ].` returns a list with everything multiplied by 2.
+1. Conditions can be attached to list comprehensions as well, e.g. `[ X || X <- list, cond ]`, read the same way as `[X for X in list if cond]`. For example, `[2*N || N <- [1,2,3,4], N < 4].` returns `[2,4,6]`.
+1. Multiple lists and conditions can be used in the same list comprehension... `[ 2*N || M <- [1,2,3,4], N <- [1,2], M < 3, N < 2].` reads `[2*n for n in [1,2] if n < 2  for m in [1,2,3,4] if m < 3]`, and would return `[2,2]`.
+1. If you need to work with bits and bytes, then read [this](http://learnyousomeerlang.com/starting-out-for-real#bit-syntax). Otherwise don't worry about it.
+1. [BEAM](http://erlang.org/faq/implementations.html) ("Bogdan/Björn's Erlang Abstract Machine") is Erlang's reference VM. Elixir uses the same VM, along with [many others](https://github.com/llaisdy/beam_languages), almost all of which are unpopular.
+1. The `erlang` module (think of it as "namespace") is automatic. `element()`, `hd()`, and `tl()` are all in the `erlang` module. You can call functions in a module with `module:function(...)`.
+1. [There is no direct way to get the type of something](https://stackoverflow.com/a/28377262/1558430).
+1. To create a module, a file called `name.erl` must have `-module(name).` at the top. The `name` inside is an atom, so it must be in lower case.
+1. To export a function in a module, write your function, say `add(A,B) -> A + B.`, then add `-export([add/2, anotherfunction/n, ...]).` to the file, where `2` is the number of arguments that the function takes.
+1. To import a function in a module, add `-import(name, [add/2, anotherfunction/n, ...]).` to the file, where `2` is the number of arguments that the function takes. You don't need to import a function to use it though, so maybe [don't do that](http://www.erlang.se/doc/programming_rules.shtml#HDR26).
+1. Everyone separates lines with `;`; this language uses `,`. Because reasons.
+1. You [**MUST**](https://www.thegeekstuff.com/2010/05/erlang-hello-world-example/) export your entry point before `erlc` can compile your program with it. Do so with `-export([main/0]).` (or something like that)
+1. You need to compile every single file with `erlc` (turning them into `.beam`s) before you can run your main program. If you don't like that, use [`erl -make`](https://stackoverflow.com/a/2549026/1558430) or [write your own makefile.](https://stackoverflow.com/a/2549228/1558430)
+
+
+---
+
+    Checkpoint: http://learnyousomeerlang.com/syntax-in-functions
