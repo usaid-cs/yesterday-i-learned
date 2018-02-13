@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. When your phone says it accepts a max of 4 fingers, [you can put multiple fingers on the sensor in a single run, fun fact...](https://www.reddit.com/r/GalaxyS7/comments/4bd8s9/more_than_four_fingerprints/d188r2j/)
 1. Doze parameters can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130). A flowchart of doze's events can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130/post63962529#post63962529).
 1. Remember, the next time they stop updating their devices, put "🅵🆄🅲🅺🅾🅽🅴🅿🅻🆄🆂" up as your reddit flair.
 1. `adb logcat *:W` to filter at least WARN.
@@ -15,7 +16,7 @@
 1. On the opposite (coincidentally, the same) side of the planet, [two Internet giants do mentally special things to each other on their users' phones in other to share shopping links over a chat service](https://www.reddit.com/r/oneplus/comments/7prvrj/i_looked_into_what_actually_is_being_sent_and/dsk9ykl/)
 1. LG G3, G4, [*AND* G5](https://www.reddit.com/r/Android/comments/7mmz3s/htc_and_motorola_say_they_dont_slow_old_phones/drvh082/) bootloop.
 1. ShareIt, CM browser, DU battery saver, and ES file explorer are among the apps that [China uses to spy on other countries](https://www.reddit.com/r/Android/comments/7godzf/china_is_spying_through_42_apps_delete_them/dqlb3yh/).
-1. The battery stats is reset when it reaches MAX_HISTORY_BUFFER, which is 256kB.
+1. The battery stats is reset when it reaches [MAX_HISTORY_BUFFER](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/com/android/internal/os/BatteryStatsImpl.java), which is 256kB.
 1. If the [camera mods](https://www.celsoazevedo.com/files/android/google-camera/) don't work, you need to [enable the Camera2 API](https://forum.xda-developers.com/apps/magisk/module-camera2api-enabler-t3656651) (`persist.camera.HAL3.enabled=1`) first.
 1. Cyanogen was [Steve Kondik's nickname](https://github.com/cyanogen). He created CyanogenMod.
 1. `adb shell dumpsys batterystats --reset` resets the battery graph.

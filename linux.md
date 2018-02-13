@@ -1,8 +1,9 @@
 ![Dilbert][imgur]
 
+1. The `ServerAdmin` directive in apache2 [doesn't work](https://stackoverflow.com/q/21798272/1558430).
+1. [`a2enssite` and `a2dissite`](https://manpages.debian.org/jessie/apache2/a2dissite.8.en.html) stand for "Apache2 enable site" and "Apache2 disable site", respectively.
 1. Simply using [`sort -`](https://stackoverflow.com/a/2434719/1558430) will allow you to paste in any number of lines to be sorted. If too lazy to paste, you can also use `xclip -o | sort -`.
 1. FUSE [probably](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) stands for FilesysteminUserSpacE.
-1. Wrapping an entire shell script in `{` and `}` "ensures the entire script is downloaded". Found in the nvm installer.
 1. `Ctrl+U` in the shell deletes the entire command. `Ctrl+K` deletes anything right of the cursor.
 1. The `PermitRootLogin without-password` directive actually means "disallow logging in as root with a password", not "allow root to log in without a password".
 1. You are supposed to throw your personal binaries in `~/.local/bin/`.
@@ -13,7 +14,6 @@
 1. Pressing capital `H` in htop hides all user threads.
 1. Pressing capital `P` in htop sorts by CPU.
 1. Pressing capital `M` in htop sorts by memory usage.
-1. `if which git > /dev/null; then echo "lol"; fi  # checks if git exists` is [not recommended](https://stackoverflow.com/questions/592620/check-if-a-program-exists-from-a-bash-script); use `if command -v foo >/dev/null 2>&1; then echo "lol"; fi` instead.
 1. In `gpg` (gnupg), `usage: S` means Signing, and `usage: E` means Encryption. [`C` is CERT and `A` is AUTH.](https://unix.stackexchange.com/a/32031) [The master key can never be used for encryption.](https://wiki.debian.org/Subkeys)
 1. `dig` is "domain information groper". Tool names were more colourful back then.
 1. The `rc` in `.foorc` meant [runcom](https://stackoverflow.com/a/11030607/1558430). It came from [CTSS](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System) (initial release 1961).
@@ -43,8 +43,7 @@
     command < input_file.txt > output_file.txt      # Instead, you live with this garbage
     cat input_file.txt | command > output_file.txt  # or win the useless cat award
     ```
-1. `cat * > new_file` overwrites contents in `new_file` with everything else in the folder. However, [``cat anything``](http://porkmail.org/era/unix/award.html#backticks) (with the backticks) is dangerous.
-1. Unrelatedly, simply `< file` shows the file in zsh (adding a useless new line every time you run it), whereas in bash it does nothing.
+1. `cat * > new_file` overwrites contents in `new_file` with everything else in the folder. However, [`cat anything`](http://porkmail.org/era/unix/award.html#backticks) (with the backticks) is dangerous.
 1. And then there's [this](http://stackoverflow.com/a/876242/1558430), for *appending* both stdout (1) and stderr (2) to the same file: `cmd >> file.txt 2> &1` (send output to file.txt, then also send errors to wherever the output is going)
 1. [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`][jovicailic]
 
@@ -57,29 +56,23 @@
 
 1. [`Xvfb`][wikipedia 2]: the screenless screen
 1. To remove a ppa, add `--remove` to the `apt-add-repository foo` command.
-1. [Shortest lower case variable in bash: `${SOMETHING,,}`][stackoverflow]
-1. [Shortest upper case variable in bash: `${SOMETHING^^}`][stackoverflow]
 1. `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`][stackoverflow 2]
 1. [(Almost) all distributions have `ssh-copy-id` preinstalled][tjll] that copies your *local* key to the remote user's list of `authorized_keys`.
 1. SSH supports [elliptic curve][tjll] key pairs as well! No particular reason to use it (other than fewer bits)
 1. Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
 1. Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, *provided that `network.proxy.socks_remote_dns` is set to `true`*.
-1. Bash: `. ` is an alias of `source `.
-1. Bash: [`case...esac`][tutorialspoint]. Gee...
-1. Unlike `if` and `case`, the terminator for the `while` statement is `done` rather than `elihw` or `od`.
 1. Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
 1. `alias ll='ls -al'` is present in *many* distros.
 1. `su` accepts arguments. And it is "switch" user, not "super" user.
 1. `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 1. `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
 1. [`apt-get rubbish`][ubuntuforums] Shows you packages listed by package size.
-1. Diffing two directories: [`diff -bur dir1 dir2][stackoverflow 3]
+1. Diffing two directories: [`diff -bur dir1 dir2`][stackoverflow 3]
 1. `F4` brings up a terminal in Dolphin.
 1. [How to install Debian on Android][dyndns] (it's not that useful, however)
 1. `ksplice` allows [kernel upgrades without rebooting][askubuntu]. Then again, why?
 1. Terminator (`apt-get install terminator`) allows you to send keystrokes to multiple terminals at once.
 1. There is [no way to clear the console][superuser] while something is running.
-1. Any connected list of quotes (`"Hello"' '"world"`) is echo-able.
 1. Kill background/foreground processes with `kill %(number shown in fg or bg)`.
 1. If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src][debian]
 1. `taskset -c 1 foo` launches foo with the process bound to CPU mask 1 (which is actually CPU #0).
@@ -110,33 +103,11 @@
 1. `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
 1. `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.
 1. [nginx](http://nginx.org/en/docs/beginners_guide.html) is not a service. Instead, it is run with `nginx -s [stop|quit|reload]`. (`quit` is graceful, `stop` is not)
-1. The "array" syntax in bash is:
-
-```
-array=(
-    thing1
-    thing2
-)
-```
-
-1. `bash` should [be the default](http://askubuntu.com/a/141932) when scripting, because `/bin/sh` is sometimes not actually `sh`.
-1. `;;` [terminates a case block](http://tldp.org/LDP/abs/html/special-chars.html)
-1. `set -e` in a script terminates the script if there's a single error in the script. Unless... the error happened in some kind of loop.
 1. [`pushd` and `popd`](http://en.wikipedia.org/wiki/Pushd_and_popd) allows storing the current directory and restoring to that directory in a stack-based fashion.
 1. Read your man pages! `cp -f` forces a copy by deleting any destination file(s) that may prevent the copy, and `cp -n` does the exact opposite -- if something already exists, don't copy it.
 1. This comparison in bash is true if the script was sourced, not run: `"$0" = "$BASH_SOURCE"` (you can then use this to detect if someone ran your script correctly)
     * `$0` remains the file name if sourced, and `$BASH_SOURCE` is (nothing if sourced, file name if not).
 1. `$?` is magic for the last program's exit code.
-1. There are [four different kinds of redirections](http://askubuntu.com/a/350216):
-    * `> file` redirects stdout to file
-    * `1> file` redirects stdout to file
-    * `2> file` redirects stderr to file
-    * `&> file` redirects stdout and stderr to file
-1. [Shortcuts for bash variable conditionals](http://docs.codehaus.org/display/ninja/Bash+Default+Values) (if `export FOO=first`)
-    * `echo "The ${FOO-second} choice"  # echo 'second' if FOO is null`
-    * `echo "The ${FOO:-second} choice"  # echo 'second' if FOO is null or empty`
-    * `echo "The ${FOO:-$BAR} choice"  # echo some other variable if FOO is null or empty`
-    * `echo "Today is ${FOO:-$(date +%A)}"  # evaluate some other expression if FOO is null or empty`
 1. Don't `gzip -r` bro, that creates a `.gz` file for every single file in that directory! Run `tar -zcvf foo.tar.gz directory_name/` instead.
 1. Some vim keys work in shell.
     * `alt+L` turns the word into lower case.
@@ -154,23 +125,14 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
 ```
 
 1. Backticking (`rm ``find . -name "*.pyc"`` `) works for rm, but do make sure find returns the correct things or you will suffer from major anal bleeding.
-1. It is impossible to write a named function with no commands in bash. The best you can do is a function containing a single `:`, which is a no-op.
-1. Running a function requires no brackets. Unlike Ruby's behaviour where brackets *can* be used to make it more explicit, adding `()` after a function re-declares it.
 1. Likewise, because having a symbol in the source executes it as a command, writing the innocent `if [$0 == $BASH_SOURCE]` executes a file called `[hello.sh`.
    * Relatedly, if statements require spaces on both sides.
       * `if [ $0 == $BASH_SOURCE ]; then  # ok`
       * `if [$0 == $BASH_SOURCE ]; then  # "missing ]"`
       * `if [$0 == $BASH_SOURCE]; then  # does stupid things`
-   * While `if [ $0 == $BASH_SOURCE ]; then` is valid syntax, [ShellCheck](http://www.shellcheck.net/) will complain about "globbing and word splitting". The practice is then `if [ "$0" == "$BASH_SOURCE" ]; then`
 1. `[ expression ]` and `[[ expression ]]` [have the same function](http://m.odul.us/blog/2015/8/12/stronger-shell), and in general, if you're writing bash scripts, you should just use the `[[ expression ]]` version; the single `[]` version is older and doesn't support as many operations.
-1. Like other good things bash offers, assignments do not allow spaces on either side of `=`: `HELLO="world"`
-  * Of course, this is bash, so if you make the mistake of assigning the value to its name with a `$` in front of it, i.e. `$HELLO="world"`, it blows up with the message "hello not found", completely unrelated to what actually happened.
-1. Having a `(  block  )` anywhere [creates a subshell](http://www.tldp.org/LDP/abs/html/subshells.html).
 1. However, `((1+2))` does math, and `$((1+1))` gets you the result of math.
 1. `[ ... ]` is an alias for `test`.
-1. `if` statements don't necessarily need `[]`. They do different things.
-  * To check if a command was truthy, simply `if something; then`.
-  * To check if a command was falsy, similarly `if ! something; then`.
 1. In a function, to scope the variable to the function use the `local` keyword.
 1. While `grep` cannot search in multi-line strings, [awk can](http://stackoverflow.com/a/3718035/1558430), using the syntax `awk '/Start pattern/,/End pattern/' filename`.
 1. Find any non-ASCII character in a file: `grep -P '[^\x00-\x7f]' file`
@@ -217,7 +179,6 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Torvalds (first in command), Morton (second in command), and Kroah-Hartman (probably also second in command) avoid travelling together.
 1. `rtcwake` lets you schedule device wakeups.
 1. bash's `<<<` is the "Here string". `cat <<< hello.txt` literally prints out the string `hello.txt`, though sometimes it is a bit mysterious, considering `cat <<< ${hello}` literally prints out nothing, since `${hello}` is evaluated to nothing, making it not as literal as the PHP equivalent of heredocs.
-1. To test if a string starts or ends with something, use `if [[ "Foo_Bar" == "Foo_"* ]]; then` or `if [[ "Foo_Bar" == *"_Bar" ]]; then`.
 1. Ubuntu's e2fsprogs package comes with [e4defrag](http://askubuntu.com/questions/221079/how-to-defrag-an-ext4-filesystem), the ext4 defragging tool. You may have an SSD so this is irrelevant.
 1. There's a `cat` [and a `tac`](https://www.sitepoint.com/15-little-known-unix-commands/) (which does it in reverse).
 1. [Alt-PrtSc-F](http://superuser.com/a/264454) will kill the most memory-intensive activity. This is helpful whenever you want to close Chrome.
@@ -237,7 +198,6 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. If you have only one brain cell left to remember how `ps` works, remember `ps -A` (all processes). Hyphen and capitalisation matter.
 1. [In Ubuntu, `/bin/sh` is typically the same as `/bin/dash`.](https://bugs.launchpad.net/ubuntu/+source/dash/+bug/61463) "Around a decade ago, Ubuntu suddenly switched /bin/sh to point to /bin/dash instead. Dash is faster than bash in terms of startup speed and they could shave enough time off startup to justify it. Dash doesn't meet full bash syntax, but does do all that sh supports. After the distribution release lots of /etc/init.d/ scripts started breaking because they relied on bashisms.  Both Canonical developers, and the community, got pretty good at cleaning bashisms out of scripts!" And this is why you should only write sh scripts when using an `/bin/sh` shebang.
 1. `PS1` is the variable used to display the prompt. `PS1='>>> '` changes the bash shell to look like a python shell.
-1. [`;;`](http://stackoverflow.com/questions/16905183/dash-double-semicolon-syntax) is not just two semicolons; it means the end of a case statement.
 1. `SysRq` stands for "system request", says [an Internet stranger](http://royal.pingdom.com/2012/06/26/sysadmin-needs-sysrq-magic/).
 1. `which (some shell function)` will give you the entire function as a string, at best. To see if a command exists, try `command -v (command)`.
 1. `dc` is an 'arbitrary precision calculator'. `bc` is a 'arbitrary precision calculator language'.
@@ -248,7 +208,6 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Adding something like `ALL: 63.143.42.245` to your `/etc/hosts.deny` prevents that IP from connecting to your server. (In this case, 63.143.42.245 is an actual offender.)
 1. If `rsync` is given [`--ignore-missing-args`](http://stackoverflow.com/a/27637277/1558430), whenever it cannot find the source, it just skips it.
 1. In other news, Arch Linux dropped i686 support in 2017-02 because [32-bit is just so unpopular](https://www.archlinux.org/news/phasing-out-i686-support/).
-1. [`set -e` is not safe mode](https://blogs.janestreet.com/when-bash-scripts-bite/). Just because you say `set -e` in your script, it doesn't mean the "subscripts" will also fail explicitly.
 1. ext2 was [a lot crappier than other solutions at the time](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html), [say Ted](http://minnie.tuhs.org/pipermail/tuhs/2017-May/009935.html). ext2 always fails a power outage. What makes it better ("worse is better"), was that e2fsck is so well-tested that file recovery is almost always automatic, whereas other filesystems are well-designed, do not run on good hardware, and then tend to fail in irrecoverable ways.
 1. *Bashism* describes [the syntaxes in bash that are not supported elsewhere](http://mywiki.wooledge.org/Bashism), not just how quirky the syntax already is in bash or any other shell.
 1. Ubuntu has/had [three](https://wiki.ubuntu.com/DevelopmentCodeNames) mythical creatures as code names: the jackalope (9.04), unicorn (14.10), and werewolf (15.10).
@@ -278,12 +237,10 @@ After press `Ctrl+B`, followed by
 [imgur]: http://i.imgur.com/CGJ67gv.gif
 [jovicailic]: http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/
 [serverfault]: http://serverfault.com/questions/312472/what-does-that-mean-packages-excluded-due-to-repository-priority-protections
-[stackoverflow]: http://stackoverflow.com/a/11392248/1558430
 [stackoverflow 2]: http://stackoverflow.com/a/821889/1558430
 [stackoverflow 3]: http://stackoverflow.com/a/2019897/1558430
 [superuser]: http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file
 [tjll]: http://blog.tjll.net/ssh-kung-fu/
-[tutorialspoint]: http://www.tutorialspoint.com/unix/case-esac-statement.htm
 [ubuntuforums]: http://ubuntuforums.org/showthread.php?t=599424
 [wikipedia]: https://en.wikipedia.org/wiki/Nohup
 [wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
