@@ -1,7 +1,11 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.
+1. [95% of suicide-by-cop victims are male.](https://en.wikipedia.org/wiki/Suicide_by_cop) Not surprising, considering the normal proportion is between [1.8x to 4x more males than female committing ordinary suicide](https://en.wikipedia.org/wiki/Gender_differences_in_suicide).
+1. Neckbeards become neckbeards because they reject their childhood idea that men are ["mindless, uncultured brutes"](https://www.reddit.com/r/justneckbeardthings/comments/7wwyw5/neckbeard_crew/du4cbk5/), so they become the intellectual kind. Well, Fedoras happen to be worn by intellectuals in traditional media. And Japanese warriors keep talking about "the strength within" so they are attracted to that too. Unfortunately /u/sothatsathingnow never got to the part where they actually grow out the neckbeards.
+1. The [Houston street of New York](https://en.wikipedia.org/wiki/Houston_Street) is pronounced HOUSE-ton, named after a man, [Billy Houstoun](https://en.wikipedia.org/wiki/William_Houstoun_%28lawyer%29).
 1. "Waterloo is innovative, creative, courageous, connected, critical thinking, collaborative, unconventional and risk-taking." [Boy did they stop saying that a long time ago.](http://www.bulletin.uwaterloo.ca/2010/may/19we.html) (2010-05-19)
-1. Those stupid calls from Estonia you have been getting are [a scam](https://www.ctvnews.ca/canada/don-t-call-back-one-ring-scam-targets-phones-across-canada-1.3801297), tricking you to call back, which costs you money: "[they] are similar to ones you would receive for calling a 1-900 number, can cost hundreds of dollars per minute."
+1. Those stupid calls from Estonia you have been getting are [a scam](https://www.ctvnews.ca/canada/don-t-call-back-one-ring-scam-targets-phones-across-canada-1.3801297), tricking you to call back, which costs you money: "[they] are simila r to ones you would receive for calling a 1-900 number, can cost hundreds of dollars per minute."
 1. The Occident may refer to the [Western world](https://en.wikipedia.org/wiki/Western_world).
 1. The one millon you need to retire is around three million when you can retire.
 1. Kumail Nanjiani was not an Uber driver like The Big Sick depicted. The partner app did not exist until 2011. He was an IT guy instead, like Silicon Valley depicted.

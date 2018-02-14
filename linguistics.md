@@ -1,3 +1,6 @@
+1. [*Mitt*](https://en.wiktionary.org/wiki/mitt) is an abbreviation of *mitten*. Both can be pluralised.
+1. [Vietnamese is said to have the highest information density of 1, the benchmark,](information density), while Japanese somehow gets the lowest information density of 0.49, at 7.84 syllables per second, despite being so close to China. [English is somewhere in between (0.91, 6.19i/s)](http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_to%20appear_Language.pdf). If you multiply the two together, you can get the best verbal language for conveying information, which is "pick anything except Japanese".
+1. "Laptops" are called [*ordinateur portables*](https://fr.wikipedia.org/wiki/Ordinateur_portable), or just *portables* in Canada.
 1. ["In the Texan dialect, ... up and down are north and south, and out and over are west and east, respectively,"](https://www.texasmonthly.com/being-texan/being-texan-prepositions/) claimed John.
 1. *Le voici* translates to "here it is" rather than "it see here".
 1. *Tonkotsu* is pork bone. *Tonkatsu* is pork cutlet (schnitzel).
