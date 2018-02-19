@@ -36,6 +36,7 @@
 1. Everyone separates lines with `;`; this language uses `,`. Because reasons.
 1. You [**MUST**](https://www.thegeekstuff.com/2010/05/erlang-hello-world-example/) export your entry point before `erlc` can compile your program with it. Do so with `-export([main/0]).` (or something like that)
 1. You need to compile every single file with `erlc` (turning them into `.beam`s) before you can run your main program. If you don't like that, use [`erl -make`](https://stackoverflow.com/a/2549026/1558430) or [write your own makefile.](https://stackoverflow.com/a/2549228/1558430)
+1. The erlang kids still contribute to the [OTP](http://learnyousomeerlang.com/what-is-otp) (open telecom platform). It implements libraries, modules, and standards that every erlang application should follow.
 
 
 ---

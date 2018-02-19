@@ -1,5 +1,15 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Silicon wafers are made by [spinning molten silicon into a long sausage](https://www.youtube.com/watch?v=AMgQ1-HdElM), and then sliced and smoothed into wafers.
+1. According to [a reliable source](https://zh.wikipedia.org/wiki/%E5%B7%AE%E4%BA%BA), a policewoman is called 差婆.
+1. JetBrains is headquartered in Prague.
+1. 99.99999% uptime lets you go down 3 seconds every year. [A grand luxury in the Erlang world!](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability#8427032)
+1. [The Colonel hated what KFC has become.](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad) The current iteration of [11 herbs and spices](https://en.wikipedia.org/wiki/KFC_Original_Recipe) is just salt.
+1. Over half of the world's curling stones are made from microgranite quarried from a tiny island called [Ailsa Craig](https://en.wikipedia.org/wiki/Ailsa_Craig#Curling_stones) in Scotland.
+1. [Either 60k USD, 75k USD, or 95k USD is the best amount of money to earn for happiness](http://www.purdue.edu/newsroom/releases/2018/Q1/money-only-buys-happiness-for-a-certain-amount.html), says Purdue. You earn only three fiddy.
+1. The [Goal Zero Yeti 3000 battery bank](http://www.goalzero.com/p/509/goal-zero-yeti-3000-lithium-portable-power-station) lets you play Pokemon Go for two weeks straight (2A * 5V * 24h/day = 240Wh/day; 3075Wh / 240Wh/day = 12.8 days)
+1. Fun fact about Queen Victoria: her first name is "Alexandrina" Victoria; she reigned until the 1900s. [One of her sons](https://en.wikipedia.org/wiki/Edward_VII) ruled after that for just 9 years, then [his son George V](https://en.wikipedia.org/wiki/George_V) was said to like collecting stamps (and be on stamps), and hate sitting for portraits. [One of his sons](https://en.wikipedia.org/wiki/George_VI) George VI married a [charming lady](https://en.wikipedia.org/wiki/Queen_Elizabeth_The_Queen_Mother), who together made [the woman](https://en.wikipedia.org/wiki/Elizabeth_II) to [rule us forever](https://en.wikipedia.org/wiki/List_of_current_state_leaders_by_date_of_assumption_of_office). God save the Queen.
+1. [Germany has the second highest gun ownership per capita](http://www.gunpolicy.org/firearms/compare/194/number_of_privately_owned_firearms/227,228,67,68,69,70,71,190,191,192,195,196,197,30,218,31,219,35) but you don't see them shooting each other all the time.
 1. [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.
 1. [95% of suicide-by-cop victims are male.](https://en.wikipedia.org/wiki/Suicide_by_cop) Not surprising, considering the normal proportion is between [1.8x to 4x more males than female committing ordinary suicide](https://en.wikipedia.org/wiki/Gender_differences_in_suicide).
 1. Neckbeards become neckbeards because they reject their childhood idea that men are ["mindless, uncultured brutes"](https://www.reddit.com/r/justneckbeardthings/comments/7wwyw5/neckbeard_crew/du4cbk5/), so they become the intellectual kind. Well, Fedoras happen to be worn by intellectuals in traditional media. And Japanese warriors keep talking about "the strength within" so they are attracted to that too. Unfortunately /u/sothatsathingnow never got to the part where they actually grow out the neckbeards.
@@ -300,7 +310,7 @@
 1. [John Montagu](https://en.wikipedia.org/wiki/John_Montagu,_4th_Earl_of_Sandwich) (1718-1792), 4th Earl of [Sandwich](https://en.wikipedia.org/wiki/Sandwich,_Kent), claimed to have invented the sandwich. So, the sandwich is a UK product. Subfunfact: sandwich means "market town on sandy soil".
 1. A man named Rem Koolhaas tried to make a [barcode](https://en.wikipedia.org/wiki/Rem_Koolhaas#European_Flag_proposal) the flag of the EU in 2002.
 1. "The fact that 90% of people use [BitCoin] for speculation rather than as currency is all the proof you need that it's a bubble"
-1. There was a boy who [masturbated 56 times straight, had his penis fall off, and died from a heart attack](https://www.huzlers.com/valentines-day-tragedy-teen-masturbated-56-times-straight-dying-heart-attack/) presumably because there's no point to continue living if your penis fell off. Another boy in Brazil died after [masturbating 42 times](http://www.atlnightspots.com/boy-dies-after-masturbating-42-times/). The lesson for you is: space it out. Don't rip your dick off.
+1. ~~There was a boy who [masturbated 56 times straight, had his penis fall off, and died from a heart attack](https://www.huzlers.com/valentines-day-tragedy-teen-masturbated-56-times-straight-dying-heart-attack/) presumably because there's no point to continue living if your penis fell off.~~Fake news. Another boy in Brazil died after [masturbating 42 times](http://www.atlnightspots.com/boy-dies-after-masturbating-42-times/). The lesson for you is: space it out. Don't rip your dick off.
 1. The [fork model](https://stackoverflow.com/questions/25834333/what-exactly-is-a-pre-fork-web-server-model) means that the master process creates separate child processes, with one thread each, to handle each web request. Pre-fork means the processes are created before requests come in. The [worker model](https://stackoverflow.com/a/13968120/1558430) creates separate child processes with multiple threads each. [The prefork model is considered more thread-safe](https://www.garron.me/en/blog/apache2-mpm-worker-prefork-php.html), at the cost of being less memory-efficient than the worker model.
 1. [Creature comforts](https://en.wiktionary.org/wiki/creature_comfort) are comforts enjoyed by creatures, i.e. primal comfort. Examples include taking long baths, napping, and death (meirl).
 1. [802.11b channels 1 and 14](https://en.wikipedia.org/wiki/IEEE_802.11b-1999) (somewhat intuitively) overlap with the least number of other channels. For [802.11g](https://en.wikipedia.org/wiki/IEEE_802.11g-2003), only channels 1 and 14 are still the best choice. This could be why routers ever-so-unhelpfully select channel 1 for everyone, congesting the channel.
@@ -429,7 +439,7 @@
 1. You don't see Wenger knives anymore because Victorinox bought it back in 2005.
 1. Angostura bitters labels are too big for the bottles because they [accidentally did it that one time](http://www.alcademics.com/2011/03/the-history-and-production-of-angostura-bitters.html), and then kept doing it.
 1. If you hit/run over someone else's dog, driving away counts as "damaging someone's property and fleeing the scene".
-1. Your normal strike length is 77cm, plus or minus less than your think.
+1. Your normal stride length is 77cm, plus or minus less than you think.
 1. Sources vary on whether decaf coffee is (still) good for you. [Good](https://www.healthline.com/nutrition/decaf-coffee-good-or-bad) [Good](https://draxe.com/decaf-coffee/) [Good](https://www.psychologytoday.com/blog/your-brain-food/201105/why-decaf-coffee-is-just-healthy) [Bad](https://www.livestrong.com/article/364276-is-decaf-coffee-bad-for-your-health/) [Bad](http://teeccino.com/building_optimal_health/39183/Decaf-Coffee-And-Health.html) [Bad](http://www.expertrain.com/blog/health/is-decaf-a-healthy-choice.htm). The correct answer is: [decaf tastes awful](https://coffeemakerjournal.blogspot.ca/2014/01/why-does-decaf-coffee-taste-bad.html), so don't drink it.
 1. *Baker*, *Boulanger*, and *Panettiere* are all the same last name for people who used to bake.
 1. [Italians didn't really speak Italian](https://history.stackexchange.com/questions/14712/in-1861-few-italians-spoke-italian) when Italy was unified in 1861. The French didn't speak much French either. More people spoke Occitan than French back then.
@@ -511,7 +521,7 @@
 1. "All rights reserved" is by default. You don't need to mention it.
 1. Normal smartphones give you a "cardboard VR vision" of 8:9 at best. Therefore, no matter how good VR goggles are, they are essentially useless at this point.
 1. [Wikipedia doesn't *need* your donations.](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed) They want your donations because their team is growing exponentially in size, for no real good reason to hire. Jimmy also wanted a private jet (possibly unrelated).
-1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C), and [should](https://www.xda-developers.com/charging-comparison-oneplus-huawei/) charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C.
+1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C) [except when charging](https://electronics.stackexchange.com/questions/263036/why-charging-li-ion-batteries-in-cold-temperatures-would-harm-them), and [should](https://www.xda-developers.com/charging-comparison-oneplus-huawei/) charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C or below 0°C.
 1. If you hire a co-op student and get "up to $3000" of your "up to 30%" back, then you would be paying such a student $2250 per month to get that amount of tax credit back.
 1. Multi-level marketing firm Herbalife has the balls to be on NYSE.
 1. A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.
@@ -556,7 +566,7 @@
 1. "Petit a petit" translates to "little by little" rather than "small by small".
 1. Single quotes don't work in `COUNTIFS` conditions. Well, in general, strings in Excel should/must be written in double quotes.
 1. The juicero "bag squeezer" is useless, but [very well made.](https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50)
-1. Wyoming is the least populous state. It's capital has around 50000 people.
+1. Wyoming is the least populous state. Its capital has around 50000 people.
 1. UV light doesn't kill anything unless the light is applied for at least 10 seconds. The light also needs to be [UV-C](https://ultraviolet.com/what-is-germicidal-ultraviolet/), the wavelengths that kill germs.
 1. If you are interested in the [baby mop](https://www.amazon.ca/BABYMOP-Great-Cleaning-Rompers-Original/dp/B00F99WO2Y), unfortunately the baby should be taken away from you.
 1. You wasted around three years of your life on [Battle City](https://en.wikipedia.org/wiki/Battle_City_%28video_game%29), some tank game.
@@ -891,7 +901,7 @@
 1. [DMZs](https://en.wikipedia.org/wiki/Demilitarized_zone) often become wildlife preserves because no one lives there.
 1. "[Need onion salt for a recipe?](https://www.thebalance.com/how-to-make-onion-salt-1387993) Ingredients: Onion powder, Salt." "[Need garlic salt for a recipe?](https://www.thebalance.com/how-to-make-garlic-salt-1387987) Ingredients: Garlic powder, Salt." "Need celery salt for a recipe? Ingredients: [Celery **seeds**](https://wholenewmom.com/recipes/homemade-celery-salt-and-how-to-use-it/), Salt."
 1. Batarang is a portmanteau of bat and boomerang, and was originally spelled baterang. Batarangs are more throwing stars than boomerangs.
-1. Companise are bailed out if they employ a large number of people, leading some people to believe that the economy would be unable to sustain such a huge jump in unemployment if the business folded.
+1. Companies are bailed out if they employ a large number of people, leading some people to believe that the economy would be unable to sustain such a huge jump in unemployment if the business folded.
 1. The sovereign state of Hong Kong coins the term [爛gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
 1. [You will have to be fairly messed up to be exempt from Singapore national service.](https://www.quora.com/How-hard-is-it-to-be-exempt-from-National-Service-in-Singapore-What-do-they-do-with-conscripts-who-have-limited-physical-abilities)
 1. Arnold actively trains to retain his accent, evident by the fact that he [can](https://youtube.com/watch?v=kayFrIR-Qfw) imitate the American accent.
@@ -953,7 +963,7 @@
 1. BLU (the phone manufacturer) stands for Bold Like Us.
 1. Any personal project is a good personal project if [it has a gif demo in the readme](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/). Apart from you and your own self esteem, no one cares about your code.
 1. Bill Burr on cows: "We have such a crazy relationship with cows. You ever think about that? You can nurse from it, you can eat it, alright? You can tip it over when it's sleeping. But if you fuck it, you're going to jail."
-1. A good thing about depdendency injection over imports is that [injected depdendencies do not need full paths declared](https://stackoverflow.com/questions/32365877/why-use-dependency-injection-when-you-can-import-a-java-class), so you can swap these dependencies with different implementations however you like.
+1. A good point depdendency injection has over imports is that [injected depdendencies do not need full paths declared](https://stackoverflow.com/questions/32365877/why-use-dependency-injection-when-you-can-import-a-java-class), so you can swap these dependencies with different implementations however you like.
 1. [Sci-Hub](http://www.sciencemag.org/news/2017/07/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst) is the world's library of pirated scientific journals. It's great.
 1. Quite a bit of rural Australia is [still farmland](http://i.imgur.com/PZSiEJU.jpg).
 1. The Titanic broke inwards (crushed at the middle), but the movie depicted it as breaking outwards (middle separated).
@@ -980,7 +990,7 @@
 1. Braille comes in two types: [uncontracted](http://www.rnib.org.uk/braille-and-other-tactile-codes-portal-braille-codes/uncontracted-grade-1-braille-explained) (1:1 with alphabets), and [contracted](http://www.rnib.org.uk/braille-and-moon-%E2%80%93-tactile-codes-braille-codes/contracted-grade-2-braille-explained) (with single-cell codes for common word patterns like 'sh' and 'the'). Virtually all printed braille is contracted.
 1. [This wiki article](https://en.wikipedia.org/wiki/Unisex_name#English) claims that Ashley, Beverly, Carol, Evelyn, Hillary, Joyce, Kelly, Lindsay, Shannon, Shirley, Tracy, and Vivian were all masculine names, before being popular among females.
 1. The fastest path to go from a high point to a low point is the [Brachistochrone curve](https://en.wikipedia.org/wiki/Brachistochrone_curve).
-1. "Klismaphilia", the love for enemas. They even have special aluminium nozzles for the job.
+1. "Klismaphilia", the love for enemas. They even have [special aluminium nozzles](https://upload.wikimedia.org/wikipedia/commons/2/2e/Aluminium_Enema_Nozzle_01.jpg) for the job.
 1. [Drowning is a way to kill Wolverine.](https://scifi.stackexchange.com/questions/14347/how-to-kill-wolverine) Healing does not work after death. This is evident in his death in Logan (oh right spoilers). He had an X for his grave, marked by his ["daughter" Laura (X-23)](https://en.wikipedia.org/wiki/X-23).
 1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs
 1. How low you must have gotten if you are best known for [being punched in the face](https://en.wikipedia.org/wiki/Bart_Sibrel).
@@ -1108,7 +1118,6 @@
 1. The basement is cooler in the summer, and colder in the winter.
 1. Canada went from [most ATMs per capita in the world](https://en.wikipedia.org/wiki/Banking_in_Canada) to [third most ATMs per capita in the world](http://data.worldbank.org/indicator/FB.ATM.TOTL.P5?year_high_desc=true). [SAD!](http://knowyourmeme.com/memes/donald-trump-s-sad-tweets)
 1. [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
-1. Apart from pain relief, anti-inflammatory drugs also delay cartilage wear and breakdown by inhibiting "interleukin-1 and tumor necrosis factor alpha" activity.
 1. Excel's SUMPRODUCT(row1, row1...) multiplies two rows together and gives you a sum. Good for weighted tallies.
 1. [This converter](http://www.kylesconverter.com/frequency/hertz-to-frames-per-second) claims that display FPS and refresh rate Hz are equivalent units (30 FPS = 30 Hz).
 1. You need your passport to renew your health card. And you need your drivers licence to renew your passport. And you need your health card to renew your passport. (just kidding)
@@ -1123,7 +1132,6 @@
 1. 3.5 ounces is around a 100g. Unfortunately, it is 3.3 yards that is roughly 1 metre, rather than 3.5.
 1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery. **WAIT**: what the hell is your phone doing while charging then?
 1. A 1080p PenTile display has an actual resolution of [1564 x 880](https://medium.com/@suyashsrijan/1080p-pentile-is-not-true-1080p-9951b9e5c2ee) (66% of pixels, 81% on each side). They get away with this because VESA uses "50% Michelson contrast" to define boundaries of a pixel, rather than rows and lines.
-1. Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
 1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.
 1. The source of the fire is usually well-burned, because there was a lot of oxygen at the time. All other places are poorly burned. This is how firemen ("[fire people](https://github.com/WCF/black-to-african-american)") deduce where a fire started.
 1. Chen can sometimes map to [程](https://en.wikipedia.org/wiki/John_S._Chen).
@@ -1144,7 +1152,6 @@
 1. [Suicide tourism](https://en.wikipedia.org/wiki/Suicide_tourism) is a thing. People travel to Zurich to legally end themselves all the time.
 1. ["Right to Hire"](http://emersongroupinc.com/employment-definitions/) in the States is hiring a temporary position that might be retained as permanent later on. This is in contrast with direct hire, which is your stereotypical full-time job.
 1. The first question from [plant phone charger](https://www.reddit.com/r/shittykickstarters/comments/4fceqw/bioo_charge_your_phone_from_a_living_plant_yet/) was along the lines of "why "
-1. In [one study](https://nccih.nih.gov/research/results/gait/qa.htm), glucosamine/chondroitin relieved pain only for the most serious cases.
 1. Sears was founded in 1886. [Sears Holdings](https://en.wikipedia.org/wiki/Sears_Holdings) is actually [Kmart](https://en.wikipedia.org/wiki/Kmart). When Kmart bought Sears in 2005, Kmart named itself Sears Holdings, then spun off the remainder into Kmart again.
 1. [But why male models](https://www.youtube.com/watch?v=WHrn_pHW2so) is a Zoolander reference.
 1. The highest reward for lowest risk investments would be buying your own government bonds directly (1~5%). The highest reward, regardless of risk, would either be stocks or real estate, depending on many variables.
@@ -1152,7 +1159,7 @@
 1. iPad and iPad Pro have different "air gap" sizes (thickness between glass and display).
 1. A tachometer measures rotations per minute. A [tacometer](http://www.urbandictionary.com/define.php?term=tacometer%20%28Tm%29) measures tacos.
 1. [Hot weather seriously degrades aircrafts' ability to take off.](http://www.bbc.com/news/world-us-canada-40339730) air is thinner when hot.
-1. Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating soft soiled shaving cream in can business.
+1. Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating, soft-soiled, "shaving-cream-in-a-can" business.
 1. [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)
 1. [Gauntlet tracks](https://en.wikipedia.org/wiki/Gauntlet_track#Canada) are used when bigger trains need to go through the same place as smaller trains (like light rail), but there is no space for two parallel tracks, so they overlap the tracks and allow only one train in at a time.
 1. [Hawaii has the highest homelessness rate in the states.](https://vid.me/6YZ5) The high cost of living makes it very easy to go bankrupt there, with nowhere to go.
@@ -1196,7 +1203,7 @@
 1. Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
 1. [Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a form of Chinese tea in which each leaf has been rolled into a small round pellet. The shinier, the fresher. "Rolling renders the leaves less susceptible to physical damage and breakage and allows them to retain more of their flavor and aroma."
 1. Magikarp can learn [tackle at level 15](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_I_learnset#By_leveling_up), and [flail at level 30](https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_III_learnset#By_leveling_up). It is not entirely useless.
-1. [*Any time you use the new keyword, you are (...) permanently (...) hard-coding your application to work with a particular class's implementation. That's huge.*](http://ardalis.com/new-is-glue) *Use (new) when you don't expect you'll need flexibility in the future.*
+1. [*Any time you use the `new` keyword, you are (...) permanently (...) hard-coding your application to work with a particular class's implementation. That's huge.*](http://ardalis.com/new-is-glue) *Use `new` when you don't expect you'll need flexibility in the future.*
 1. [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
 1. "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375
 1. [A, 2, and D](https://www.youtube.com/watch?v=gVGbDEAnDyo&app=desktop) was a numbering system used by Buzz in Home Alone.
@@ -1225,12 +1232,11 @@
 1. Samsung reports preventing OLED burn-in by ["avoid keeping a static picture on ... for more than two hours at a time"](http://www.samsung.com/ca/support/skp/faq/441670).
 1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.
 1. Midlife is when you are between the age of 40 and 55. Midwife is when you deal with someone else's pregnancy.
-1. Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
 1. [62.1 Tg of chicken eggs was produced in 2009.](https://en.wikipedia.org/wiki/Egg_as_food) That is 2.32 million tonnes of cholesterol.
 1. /r/popular [is](https://www.reddit.com/r/NoStupidQuestions/comments/5ud2pe/difference_between_rpopular_and_rall/) a cleaned up version (or censored, if you want to think of it that way) of /r/all.
 1. WOSIB stands for "Women Opposing Shitting In Bags", the same people in Women Aginst [Colectomies](https://en.wikipedia.org/wiki/Colectomy) and Proctocolectomies (WACAP).
 1. Through a cheap USB-C cable (say between a laptop and a phone), it is not that the phone will blow up because it asks for too much power; [it is that the laptop will burn out because it could not supply the requested power.](https://www.theverge.com/2016/2/4/10916264/usb-c-russian-roulette-power-cords) At least for that guy on The Verge.
-1. [Experts](https://www.slideshare.net/inapurba/quality-assurance-vs-quality-control-62273982) (i.e. people on the Internet) argue that QC is fulfilling quality requirements, whereas QA devises processes to ensure high quality. In short, QA are the managers, QC are the monkeys.
+1. [Experts](https://www.slideshare.net/inapurba/quality-assurance-vs-quality-control-62273982) (i.e. people on the Internet) argue that QC fulfils quality requirements, whereas QA devises processes to ensure high quality. In short, QA are the managers, QC are the monkeys.
 1. [Early electric cars](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle) were limited to 32km/h because, apparently, they didn't have transistors. Suspect this has to do with holding charge.
 1. Gerrit shares the same "Working ..." popover as Gmail. Odd, really, because Gerrit is made with GWT, but Gmail isn't. Gerrit is a fork of [Rietveld](https://en.wikipedia.org/wiki/Rietveld_%28software%29), named after [Gerrit Rietveld the Dutch architect](https://en.wikipedia.org/wiki/Gerrit_Rietveld), which was in turn written by [Guido](https://en.wikipedia.org/wiki/Guido_van_Rossum), to manage his subversion repositories.
 1. [Five whys](http://www.startuplessonslearned.com/2008/11/five-whys.html), a systematic way to find the root cause of a problem, can potentially blame the wrong thing. For example, if you incorrectly assert that "the code was written  because Bob did it", rather than "the code was written because management wants it", the chain of explanations can be entirely different.
@@ -1258,7 +1264,7 @@
 1. Only 806 people from the Waterloo region fought in world war 2. Only 4 fought in the Korean war.
 1. The perimeter institute is from the last century.
 1. Anabaptism is adult baptism.
-1. Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf),
+1. Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf), [recruiting](https://www.linkedin.com/)
 1. *Stickler* means perfectionist, with a negative connotation.
 1. Mothers don't moth. Fathers don't fath. Don't thank them for these things.
 1. The vast majority of investment "advisors" in Canada are salespeople — only advisers spelled with an "e" have a legal duty to act in a client's best interest.
@@ -1288,7 +1294,7 @@
 1. No one ever said the protagonists in Rick and Morty are the same Rick and Morty every episode, but the story so far has been consistent, even though [the default universe is no longer C-137](http://rickandmorty.wikia.com/wiki/Dimension_C-137).
 1. [Tabling](https://en.wikipedia.org/wiki/Table_%28parliamentary_procedure%29) means "place on the side of the table" aka halt consideration in the US, or "lay on the table" aka begin consideration for everywhere else in the world. (Clarke)
 1. [Ted](https://en.wikipedia.org/wiki/Ted_Cruz) is Calgarian. His names are also "Rafael Edward", Ted being short for Edward. To run for presidency, one must either be born in America, or one parent must be American.
-1. Ted can also be short for Edwin, Edmund, and Theodore.
+1. Ted can also be short for Edwin, Edmund, and Theodore. There are fewer than 1500 search results for "Edmund bear".
 1. The difference between a good day and a bad day is how much alcohol you want to consume, versus how much you need to consume. ~Rob
 1. For any pipe you intend to use for delivering waste, only use smooth pipes, not ribbed ones, for reasons that may be obvious later.
 1. Complimenting someone should not be relative. Good: "Good dog." Bad: "You are good, not like other dogs."
@@ -1473,7 +1479,6 @@
 1. GPG requires you to specify a recipient when you encrypt a file with it, naturally, because only that someone will have the private key to decrypt it. So what you end up with is a command line like `gpg --output in_file.txt.gpg --encrypt --recipient yourself_or_someone_else@example.com in_file.txt`, which you may well alias to something more elegant. You can then decrypt with `gpg in_file.txt.gpg`.
 1. 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
 1. Dry shampoo is essentially powdered starch.
-1. [A fish tank that is too clean can smell too.](http://thegoldfishtank.com/goldfish-care/tank/goldfish-tank-smells-bad/) The tank relies on some bateria to break down goodies in the water.
 1. Polo appears to be horse lacrosse. But then again, there is [polocrosse](https://en.wikipedia.org/wiki/Polocrosse), a cross (heh) between the two.
 1. Jehovah's Witnesses is a cult because they have their own [page explaining how they are not a cult](https://www.jw.org/en/jehovahs-witnesses/faq/are-jehovahs-witnesses-a-cult/). Seriously though, they [discourage tertiary education, don't celebrate birthdays, and use their own (mis)translation of the bible, and somehow don't believe Jesus rose from the dead](http://www.cultwatch.com/jw.html), according to CultWatch.
 1. McDonald's was founded by Richard and Maurice McDonald. McDonald's Corporation (franchises), on the other hand, was founded by Ray Kroc, a salesman.
@@ -1488,7 +1493,6 @@
 1. [Arnold's 6 rules of success](https://opisina.wordpress.com/2012/03/01/6-rules-of-success-arnold-schwarzenegger/) basically means "Find out who you want to be and work hard, very hard".
 1. A home appraisal is an unbiased estimate of the true (or fair market) value of what a home is worth.
 1. [Tarring and feathering](https://en.wikipedia.org/wiki/Tarring_and_feathering) was an odd thing Europeans did to torture people, literally pouring tar and feathers on the person.
-1. Food poisoning involves expelling fluids out of every orifice except for your ears. You learned this from experience.
 1. According to Dr.Proton, it is very common to for patients to outlive at least one family doctor.
 1. ["Molotov Cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail#Name) was coined by the Finns, which came from "Molotov Bread Baskets", a nickname for Soviet cluster bombs.
 1. To train vocals, talk with a pencil in your mouth for a few minutes.
@@ -1531,7 +1535,7 @@
 1. You sprained your neck once in 2009.
 1. [Slow cookers are good at nothing.](http://www.seriouseats.com/2016/10/why-pressure-cookers-are-better-than-slow-cookers.html) [Pressure cookers aren't that great, either.](https://news.ycombinator.com/item?id=13809891)
 1. Don't get used to texting your boy/girlfriend for no reason. "Texting has killed relationships because people text all day and then when they're together they have nothing to talk about. Exist as individuals, and then come together to share your experiences. You don't need to be checking in with each other throughout the day."
-1. Oatmeal is rolled oats. This is apparent because flat oats don't grow on trees.
+1. Oatmeal is rolled oats. This is apparent as flat oats don't grow on trees.
 1. Gandhi was shot and killed in 1948. He fasted a lot, often for political affairs.
 1. One technique to get people to like you is called "the glove". When in a group, for a short period of time, pay your entire attention to that person.
 1. ["Senior developers are experts in their chosen technology stacks. They are given the hard tasks (the ones nobody knows how to solve) and often get design responsibilties. They often work independently because they have a proven track record of delivering the goods. They are expected to mentor Junior and intermediate developers. Often they are amazing troubleshooters. They have run into those same problems before and have a very good idea of where to look first. Seniors often mentor outside the workplace as well. They generally have at least ten years of experience and have almost always been on at least one death march and know exactly why some things are to be avoided. They know how to deliver a working product and meet a deadline. They know what corners can be cut and what corners should never be cut. They know at least one and often several languages at the expert level. They have seen a lot of "hot new technologies" hit the workplace and disappear, so they tend to be a bit more conservative about jumping on the bandwagon for the next exciting new development tool (but not completely resistant to change - those would be the older Intermediate developers who never make the leap to Senior). They understand their job is to deliver working software that does what the users want, not to play with fun tools. They are often pickier about where they will work because they can be and because they have seen first hand how bad some places can be. They seek out the places that have the most interesting tasks to do. Often they know more about their company's products than anyone else even if they have been there only a few months. They know they need more than programming knowledge and are good at getting knowledge about the business domain they support as well. They are often aware of issues that juniors never consider and intermediates often don't think about such as regulatory and legal issues in the business domain they support. They can and will push back a requirement because they know what the problems with it will be and can explain the same to the laymen." - HLGEM](http://softwareengineering.stackexchange.com/a/14972/116811)
@@ -1572,7 +1576,6 @@
 1. Not only have we gone through the phase of youtube influencers (like that guy Pew-die-pie), we are already into "micro influencers"---people with fewer than 1000 subscribers---whose videos seem more convincing due to the smaller audience. Also lower cost.
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 1. Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
-1. Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
 1. [Albinism][wikipedia 2] affects vertebrates. That, and lobsters, which are not vertebrates.
 1. The Korean blood cake is also called *sundae*: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
 1. Because `iif` is a library function, it cannot short-circuit.
@@ -1620,10 +1623,9 @@
 1. [The Carcinogenic Prototype][hedges]: a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 1. Regex substitutions: when in doubt, try `$1` first, then `\1`.
 1. Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.
-1. Power steering noise came from low fluid levels, or, rather, [air in the pump caused by low fluid levels][youtube 2]. Checking for leaks requires a pump; if a leak exists, pressure will promptly return to normal once applied. [1][wikihow]
 1. Rommel was apparently a [micromanager][reddit 3], loved by soldiers but hated by his subordinates.
 1. The story of a 17yo man and [his encounter with a girl called Monica][reddit 4]; accept challenges from strangers
-1. Tim Hortons isn't beloved because the food and coffee is fantastic. It's mediocre at best. It's not a place we go to treat ourselves. It's a lot more like "holy shit hockey practice is early and it's minus thirty out! Better grab a Timmies to wake up and warm up!" Or maybe you've been driving a couple hours and you've already seen two deer and a moose and you know if you don't stay alert you're going to hit one and die. So you go grab a Timmies and stretch you legs. We know the coffee isn't to die for, and the donuts are just do hints but it's a comfort to us. Tim Hortons is always going to be just around the corner, it's always going to have that warm welcoming smell and you're never going to kick off a road trip with out it. And just to answer your question I live on the east coast and I've never seen a dunkin donuts or Krispy Kremes anywhere near here. They probably have them in Toronto or something.
+1. > Tim Hortons isn't beloved because the food and coffee is fantastic. It's mediocre at best. It's not a place we go to treat ourselves. It's a lot more like "holy shit hockey practice is early and it's minus thirty out! Better grab a Timmies to wake up and warm up!" Or maybe you've been driving a couple hours and you've already seen two deer and a moose and you know if you don't stay alert you're going to hit one and die. So you go grab a Timmies and stretch you legs. We know the coffee isn't to die for, and the donuts are just do hints but it's a comfort to us. Tim Hortons is always going to be just around the corner, it's always going to have that warm welcoming smell and you're never going to kick off a road trip with out it. And just to answer your question I live on the east coast and I've never seen a dunkin donuts or Krispy Kremes anywhere near here. They probably have them in Toronto or something.
 1. **Infrared thermometers** are (typically) calibrated for an emissivity of 0.95. If you use one on a material with a lower emissivity, it'll give inaccurate readings. This can be cheaply solved by sticking a piece of electrical tape on the surface, and measuring that.
 1. [Why does light travel?][reddit 5] Because **spacetime** is a two-dimensional vector of a set length; an object can travel through space and time. In photons' case, they travel entirely through space, and not at all through time (which gives the impression that nothing can ever be "faster" than light). For ordinary, massive objects, they mainly travel through time.
 1. If you can hang out with two or more friends but can never hang out with just one, it means that [you don't know how to start a conversation][reddit 6].
@@ -1756,7 +1758,7 @@
 1. With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
 1. A cousin, twice *removed* means something like a grandaunt. Each `removed` means one generation apart.
 1. [Mocks vs Stubs][stackoverflow 10]: "Stub is simple fake object. It just makes sure test runs smoothly. Mock is smarter stub. You verify Your test passes through it." In other words, mocks have expectations of what happens when it is run.
-1. [Agile is a philosphy; Scrum is an approach.][stackoverflow 11]
+1. [Agile is a philosophy; Scrum is an approach.][stackoverflow 11]
 1. Outhouses have pits underneath...
 1. People [used][royalorderofrogues] (or [*use*][wikipedia 32]...) corncob to wipe their butt cracks in outhouses.
 1. How to stop being the guy that rarely says anything: "[talk louder and don't mumble][reddit 12], it makes what you say seem more important and keeps you in the conversation more."
@@ -2206,14 +2208,11 @@
 1. [*"Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it. What does your job entail?"*][nczonline] My job might be Jesus, which is enabling people to do what they can do.
 1. [Apparently][reddit 53], as you grow/age, you are supposed to move to more stable investments.
 1. [What not to do if you use Tor][whonix]: remember to separate your tor life like your work life. Never look at the same thing with and without tor, among other things.
-1. Protein deficiency can [enlarge your stomach][wikipedia 172] (at least if you are an African child).
-1. [Parrot fish][wikipedia 173] make a [mucous cocoon][imgur 10] at night to protect against predators and/or blood parasites.
 1. Bruce Lee took the [wrong kind of painkiller][wikipedia 174], had his brain swell by 13%, and died young. His son, Brandon, also a martial arts actor, died when [an idiot][wikipedia 175] made blanks out of live rounds.
 1. 西貢 is in the east, because Hong Kong.
 1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.
 1. The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap][wikipedia 176]".
 1. Des Voeux is actually Des Vœux, because the French.
-1. Gold is not the most corrosion-resistant metal, apparently... iridium is.
 1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
 1. The tip material in modern fountain pens is still conventionally called "iridium", although there is seldom any iridium in it; other metals such as tungsten have taken its place.
 1. If priests take the [canon law][wikipedia 177] seriously (which they should, because they are priests), then they cannot reveal a confessional, even if it concerns illegal activities.
@@ -2265,7 +2264,6 @@
 1. While both [Saint Nicholas and Santa Claus][wikipedia 194] were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
 1. [Grouper][wikipedia 195] is literally 石斑.
 1. Coriander *is* [cilantro][wikipedia 196], and is a leafy herb that [Mexicans poop on][reddit 57].
-1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.
 1. Email titles should be [no more than 78 characters in length][stackoverflow 13]; line-wrapping can extend the length indefinitely. Most frameworks limit the length to 255 characters anyway.
 1. A [higher-order function][github 3] (more jargons inside link) is a function that accepts a function and returns a function. A decorator is a higher-order function.
 1. New Zealand is on its own geographical (not political) continent called [Zealandia][reddit 58].
@@ -2315,17 +2313,14 @@
 1. Mix yogurt with (cooked) oatmeal to make oatmeal taste less like gruel.
 1. One guy on the Internet claims that [women have longer teeth than men][reddit 68]. (Thread: "What are lesser known biological differences between men and women?")
 1. [Work is not life][nplusonemag].
-1. [The anus is more resistant to bacteria than the rest of the body is][reddit 69].
 1. Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard][reddit 70].
 1. An A record for ipv6 is called an [AAAA record][bluehost].
-1. Chickens *do* ["lay eggs out of their anus"](http://www.motherrisingbirth.com/2011/08/wisdom-wednesday-chicken-egg-exit.html) (cloaca), but since the cloaca turns inside out (v. pinksock) when laying eggs, the poop and egg don't come into contact.
 1. [The Ivory Coast](https://en.wikipedia.org/wiki/Ivory_Coast) is a country in west Africa.
 1. Faster RAM can be used in slower slots (provided that the type is the same).
 1. DDR4 RAM is not backwards compatible with DDR3 slots.
 1. "Baguettes" can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 1. Charisma is essentially the ability to tell good stories.
 1. "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa 
-1. [The meta-programming and object injection that makes (Ruby) easy to install 1,000 gems into your project without a single line of configuration, is exactly why it's hard to debug. It also gives you zero confidence or guarantees about what you've just added to your work and whether it all plays nice together. You may have just peed in your own kiddie pool. The magic of active record, the crazy levels of duck typing and the expressiveness of ruby, are exactly why it runs poorly even on your development box, and costs so much in server fees when you try to scale. It's why you have to build a caching strategy in as a requirement from first line of code.](https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.fodj13lg5)
 1. Quirrell stuttered because he was tormented by the back of his head.
 1. [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 1. Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
@@ -2339,18 +2334,12 @@
 1. While it is well-known that [Google A/B tests everything, including colour](http://www.telegraph.co.uk/technology/2016/05/09/google-is-testing-a-radical-change-by-turning-all-links-black/), their designers don't like it either, apparently: ""I can't operate in an environment like that. I've grown tired of debating such miniscule design decisions. There are more exciting design problems in this world to tackle."
 1. [Assassination](https://www.reddit.com/r/news/comments/4iclf5/opposition_party_leader_in_venezuela_assassinated/d2x1npm) refers specifically to the murder of a politician.
 1. Winnipeg uses Resolute's timezone, throwing off [developers who try to be too clever](https://www.reddit.com/r/Android/comments/4hohcg/nova_launcher_updated_to_43_with_n_dev_preview_2/d2rkp84): "Nova's night mode uses timezones to approximate location if it doesn't have the location permission. For some reason carriers in Mantioba CA use the timezone of America/Resolute instead of America/Winnipeg. And Resolute is really far north and doesn't have traditional sunset/sunrises which throws things off. There was some code to handle these types of locations, but it wasn't behaving as it should."
-1. The mother and baby [share stem cells](https://www.reddit.com/comments/4javmv).
 1. The [clothespin](https://en.wikipedia.org/wiki/Clothespin) was invented in Vermont.
 1. [Thailand hand-peels shrimps.](https://www.washingtonpost.com/news/wonk/wp/2015/12/15/the-shocking-truth-about-shrimp-today/)
 1. To... kill an unconscious person, [cover their nose with one of their hands' webbing, then apply pressure to it by having them lie face down](https://www.reddit.com/r/me_irl/comments/4hu8ih/me_irl/d2siwsx).
 1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.
-1. Remember [the woman who had an abortion for a beach day](https://www.reddit.com/comments/4ib8pf). "No bashing."
-1. Remember, [Americans can obtain travel visas to Mexico](https://mobile.twitter.com/MexicAnarchist/status/701195992071331841).
-1. Men having vasectomies done may be allergic to [protamine](https://en.wikipedia.org/wiki/Protamine_sulfate), the counter to blood thinner [heparin](https://en.wikipedia.org/wiki/Heparin), because protamine is synthesised from fish sperm, and [that sperm-related coincidence is significant](https://www.reddit.com/r/todayilearned/comments/4ieqnu/til_that_within_one_year_after_a_vasectomy_sixty/d2xhccn).
 1. It is very hard to [get up from lying down while holding something](https://www.youtube.com/watch?v=GdAXt7YyGe0), empirically speaking.
 1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
-1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
-1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
 1. For a single ball-picking event involving 5 balls, 3 green and 2 blue, the *probability* of picking a green ball is 3/5 = 60%; [the *odds*](http://mathforum.org/library/drmath/view/56706.html) of picking a green ball is (3:2), which is not 60%. An odds of 150% [might make sense](http://www.miniwebtool.com/ratio-to-percentage-calculator/?numerator=3&denominator=2), [depending on who you ask](https://en.wikipedia.org/wiki/Odds#Mathematical_relations).
 1. According to [random people on the Internet working on an app](https://hbr.org/2016/03/why-your-late-twenties-is-the-worst-time-of-your-life), you won't be an actual adult until you get married and have kids; and, before then, you will live the worst time of your life.
 1. In a [citation-less wiki section about REST](https://en.wikipedia.org/wiki/Representational_state_transfer#Code_on_demand_.28optional.29), the spec includes transfer of code from the server to the client, allowing the server to manipulate what the client does.
@@ -2410,9 +2399,7 @@
 1. NES games (among others) [*relied* on CRT artifacts](http://www.gamasutra.com/blogs/KylePittman/20150420/241442/CRT_Simulation_in_Super_Win_the_Game.php) to make things look good.
 1. If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.
 1. If you lock yourself out of the Jenkins machine, but can configure one of its jobs for some reason, try adding a shell script step involving `cat id_dsa.pub >> ~/.ssh/authorized_keys`.
-1. Amazon Aurora is "one-tenth the cost" of enterprise databases, not one-tenth the cost of their other offerings.
 1. [>Can't do joins, no ACID on DynamoDB](http://www.slideshare.net/saniyakhalsa/dynamo-db-pros-and-cons)
-1. `ps x` is probably the command you are looking for.
 1. Ember is more red than orange.
 1. Use a heat gun and a credit card to [scrape off glue residues](https://m.youtube.com/watch?v=7VPwJIaWBso).
 1. "[TIL that] in 1913, Hitler, Trotsky, Tito, Freud and Stalin all lived in Vienna and some were even regular patrons of the same coffeeshop"
@@ -2428,12 +2415,11 @@
 1. Teflon pans [*should*](http://www.nytimes.com/2010/12/18/your-money/18shortcuts.html?_r=0) be seasoned with oil before every use (that is, on a cold pan).
 1. It is [more than twice as likely to be ticketed for jaywalking in Montreal than in Toronto](http://www.metronews.ca/news/canada/2015/12/09/fines-for-jaywalking-vary-from-15-to-700-across-canada.html).
 1. Flashing yellow at a two-or-four-way-stop means ["disregard me, I mean nothing"](http://www.mto.gov.on.ca/english/dandv/driver/handbook/section3.2.12.shtml). On the other hand, flashing red means a mandatory stop.
-1. In Twitch Plays Pokemon Crystal, RED owns the winning team (aaabaaajss, AA-J, ...) from Twitch Plays Pokemon.
+1. In Twitch Plays Pokemon Crystal, RED owns the winning team (aaabaaajss, AA-J, ...) from the original Twitch Plays Pokemon.
 1. The bronze bull statue of Wall Street was illegally placed there.
 1. >[What's really cool about AD](https://www.reddit.com/r/AskReddit/comments/4w46le/what_is_your_favourite_latin_phrase/d647egb) is if you know history, you know that years used to be counted as how many years of a certain king's reign, so really we used that format, it's not all the foreign, it's just now the King happens to be Jesus.
 1. In VB (classic), `Empty` is `undefined`. `Nothing` is `null`. `Null` is apparently a database-compatible `NULL`.
 1. Solutions are usually water/alcohol based. Lotions are more water/alcohol than oil. Creams are 50/50 oil/water. [Ointments](https://en.wikipedia.org/wiki/Topical_medication#Ointment) are more oil than water.
-1. Use the command `grep -ri fuck .` to find out how many times you (I) had to learn something useless.
 1. [Hiragara](https://en.wikipedia.org/wiki/Hiragana) are a set of characters derived from corrupted Chinese cursive. It is used to write letters. The English equivalent would be the alphabet. [Katakana](https://en.wikipedia.org/wiki/Katakana) is used more for syllabic spelling of things, such as loan words, technical terms, and company names. The English equivalent would be the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). There is also [Kanji](https://en.wikipedia.org/wiki/Kanji), literally Han Words, with no English equivalent.
 1. "The RCMP can charge you with whatever they please. The courts are the ones that find you guilty." "You don't say anything. Your attorney will."
 1. [Orihime has said 'kurosaki-kun' around over 800 times in the anime.](https://www.reddit.com/r/bleach/comments/4xyi02/fun_facts/)
@@ -2454,7 +2440,7 @@
 1. The Big Ben is also leaning over.
 1. Uncle Ben's (not related to the point above) [90 second rice](https://www.unclebens.com/products/ready-rice/jasmine), through whatever magic, manages to be wet and edible without adding any preservatives.
 1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
-1. Referral programs work only if it makes the referrer *feel smart* about sharing a deal.
+1. Referral programs work only if it makes the referrer *feels smart* about sharing a deal.
 1. Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246). Disney people pushed them down a cliff and made them drown.
 1. "Good at cooking" and "Good at washing dishes" are apparently very good things to put on dating site profiles (if you have one). Of course, liking to cook and liking to wash dishes are another story.
 1. Iran now accounts for approximately 90% of the world production of saffron.
@@ -2463,7 +2449,6 @@
 1. Hurricanes are horizontal winds, and it is [acceptable for a plane to fly into them](https://youtube.com/watch?v=h7CQaDEKbBU).
 1. Coors won four times in [the 2016 brewing awards](http://www.canadianbrewingawards.com/winners/2016-winner-list/).
 1. Assuming the masks on a plane actually provide oxygen, [it is important to put yours on first](https://youtube.com/watch?t=1s&v=kUfF2MTnqAw) because you will likely fail putting yours on after putting it on for another person.
-1. Phytophotodermatitis: ["Citrus juices such as lime and lemon cause the skin to become hypersensitive to UV rays, leading to severe burns as a result."](https://en.wikipedia.org/wiki/Phytophotodermatitis)
 1. You are supposed to [say "thank you"](https://blog.asana.com/2016/07/workstyle-positive-feedback-at-work/) when you get a compliment at work, *and then try to ask a question to better understand why the compliment was given*.
 1. If a bridge is [wavering about because of the people on it](https://m.youtube.com/watch?v=gQK21572oSU&feature=youtu.be), then the people will try to adjust their stride to the movement, making the situation even worse.
 1. Business insider found [one thing pie charts are good at](http://www.businessinsider.com/pie-charts-are-the-worst-2013-6), surprisingly: comparing two different things with very different amounts.
@@ -2472,15 +2457,13 @@
 1. *Dixie* is/was a nickname for Southern US.
 1. System of a Down is good only because of a [StickDeath video](https://www.youtube.com/watch?v=elj2m1x-oEk).
 1. *Overfitting*: when you tune a learning algorithm so well to, say, 5 of your existing data points, that, when a 6th data point is found, the algorithm completely fails to take it into account.
-1. Russia is [#1 in heroin](https://themoscowtimes.com/articles/russia-must-step-up-and-fight-its-drug-problem-47822). It also has a million or so HIV positive people.
+1. Russia is [#1 in heroin](https://themoscowtimes.com/articles/russia-must-step-up-and-fight-its-drug-problem-47822). It also has a million or so HIV-positive people.
 1. ["False vacuum"](https://en.wikipedia.org/wiki/False_vacuum) refers to the theory that the current space is just a local minimum of energy, rather than the global minimum of energy, and that a random event might instantly turn the universe into one with a lower energy, destroying the current one.
 1. [BBQ brush bristles](http://www.cbc.ca/news/health/barbecue-brushes-dangers-swallow-throat-wire-bristle-dempsey-1.3741578) are regularly swallowed, killing people when vital organs are punctured.
 1. Marissa Mayer avoids burnout by preventing herself from being cynical, discouraged, in addition to finding her "rhythm", whatever it is for each person. If you work better at night, allow yourself to work at night.
 1. [Do planks.](https://www.reddit.com/r/Posture/comments/51l6l7/i_probably_have_the_worst_anterior_pelvic_tilt_on/) (it is best not to view this link in public.)
 1. [The Republic of Macedonia](https://en.wikipedia.org/wiki/Republic_of_Macedonia) is still a country!
-1. Making jokes about the paralysed population is acceptable, [as long as reddit likes it](https://www.reddit.com/r/videos/comments/51nf4q/channel_4_just_played_this_ad_in_a_break_during/). People are strange.
 1. [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
-1. This guy on reddit [said](https://www.reddit.com/r/Justrolledintotheshop/comments/51ld5r/you_mean_i_have_to_change_fluids_and_filters/d7cu0gf) that it is worth the money to upgrade the engine air filter to a higher grade one that blocks finer dust, despite google showing nothing about it.
 1. The Chinese consumed 69 times more pork than Canadians in 2015. That is roughly twice as much per capita.
 1. [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100kT of it every year.
 1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
@@ -2498,15 +2481,13 @@
 1. Nigeria is HUGE in GDP in relation to its African continent-mates, being 1.5x that of Egypt. There is no reason not to visit it.
 1. [Stroke is the third leading cause of death for women](http://www.stroke.org/understand-stroke/impact-stroke/women-and-stroke) compared to fifth for men. For this reason, apparently because women live longer, that they will have more strokes.
 1. "Smoker" also refers to the ovens that smoke meats.
-1. "Oktoberfest", in English, means "get piss-drunk".
-1. Communist [Lenin towels](https://www.reddit.com/r/Frugal/comments/56r81k/linen_towels_or_how_i_save_half_off_my_laundry/) are more space-efficient than cotton towels. They also last much longer, and absorb much more water.
+1. Communist [Lenin towels](https://www.reddit.com/r/Frugal/comments/56r81k/linen_towels_or_how_i_save_half_off_my_laundry/) are more space-efficient than cotton towels. Linen towels also last much longer, and absorb much more water.
 1. Prostitution is illegal because their sex is paid for, and escorts are legal because [only their companionship is paid for](http://www.differencebetween.net/language/words-language/difference-between-escort-and-prostitute/), even though it's pretty obvious that they are just friendly prostitutes, says a site on the Internet.
 1. The "n" in 7-eleven's logo is the only letter not capitalized.
 1. Any Ontarian debt, excluding federal ones, not paid in two years is [automatically forgiven](http://credit-collections.ca/statute-of-limitations-on-canada-debts/), as long as you don't admit to or pay any of it.
 1. [The expiry date on every packet of crisps made in the UK is on a Saturday.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmvfa)
 1. [Donald Duck's middle name is Fauntleroy.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmk14)
 1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The “Apology Act“, passed in 2009, is a direct result of Canada's overuse of the word “sorry”.* Of course, this also means you cannot take someone else's apology as an admission of guilt.
-1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
 1. Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 1. In the event of a financial crisis, there is in fact [a GDP map](https://upload.wikimedia.org/wikipedia/commons/c/c5/GDP_Real_Growth.svg) during the last crisis (2007-2009), indicating places you *should* flee to ahead of time.
 1. Fun fact: Excel (XLS) worksheet names have a maximum length of 31 characters.
@@ -2523,7 +2504,7 @@
 1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.
 1. [A blunderbuss (something like a shotgun) in handgun form was called a dragon.](https://en.wikipedia.org/wiki/Blunderbuss)
 1. ["Don't you worry about blank. Let me worry about blank."](https://www.youtube.com/watch?v=BAeTf8px0mE) is the thing you should say *repeatedly* at work to make everyone like you. "Blank" verbatim.
-1. George Orwell wrote in The Road To Wigan Pier, “When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'.”
+1. George Orwell wrote in The Road To Wigan Pier, *“When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'.”*
 1. "[The 4G specification requires a minimum speed so LTE was launched to avoid exactly this minimum.](https://news.ycombinator.com/item?id=12746312) It seems that the companies did it right by launching LTE instead of 4G as they could have lost their 4G status, while now they could drop as low as 3G speeds and still be called LTE (which is ironic on itself)."
 1. Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
 1. The "ring with the fist underneath your pelvis" thing teenages do is called the "ball gazer".
@@ -2675,7 +2656,7 @@
 1. [Cops are the fattest.](http://time.com/3637967/police-officers-fattest-profession-study/) Probably from all the donuts.
 1. The EU does not have umbrella financial assistance programs. If someone goes unemployed in Alabama, there is a federal fund for that. If someone goes unemployed in Greece, Greece is responsible for it. This makes the EU weaker than the US.
 1. When you run out of money in your margin account, the broker will call you. [Margin call](http://www.investopedia.com/terms/m/margincall.asp) is literal in that sense.
-1. The [young Anakin actor](https://en.wikipedia.org/wiki/Jake_Lloyd) got schizophrenia and got arrested driving without a licence.
+1. The [young Anakin actor](https://en.wikipedia.org/wiki/Jake_Lloyd) Jake Lloyd got schizophrenia and got arrested driving without a licence.
 1. At some arbitrary point, large enough ["scissors"](https://en.wikipedia.org/wiki/Scissors) become ["shears."](https://en.wikipedia.org/wiki/Shears#Cutting_devices)
 1. [Maryland has a law for catching undersized crabs.](http://www.baltimoresun.com/news/maryland/bs-md-undersized-crabs-20160713-story.html)
 1. "Triangular sails allow ships to sail into the wind as well as with it." - How It's Made episode about sails
@@ -2728,7 +2709,6 @@
 1. Good grilled cheese involve sppreading butter on the pan sides of the bread.
 1. Intel processors stopped having pins. [Now the pins are on the motherboard.](http://i.imgur.com/aJn81KL.jpg)
 1. Marshawn Lynch was known for [Beast Mode](https://www.youtube.com/watch?v=H2P6TwZlh6A), his ability to displace other players. [Oscar Gamble](https://en.wikipedia.org/wiki/Oscar_Gamble) was known for "They don't think it be like it is, but it do".
-1. [Snails have brain parasites. Turtles give you colds.](https://www.reddit.com/r/pics/comments/5rqbxq/this_is_a_weirdlooking_rabbit/dd9itc8/?context=10000) Maybe more.
 1. The correct trigger finger position is [the middle of the first joint](http://i.imgur.com/Zu89sza.jpg).
 1. ["(Orthopedic) hardware is often harder to take out than put in"](http://www.healio.com/orthopedics/trauma/news/online/%7B1f854283-164c-4fda-b169-d53ee35e324c%7D/nearly-68-of-patients-improve-after-hardware-removal-but-surgery-is-costly) so you really don't want to take it out unless you are a child/teenager, or do contact sports, or are allergic to it.
 1. ["Tax deductible"](https://familyshare.com/200/what-does-it-mean-to-be-tax-deductible-and-why-does-it-matter) means something reduces your taxable income, often in the form of tax credits. A non-tax deductible expense is therefore one that does not give you tax credits.
@@ -2748,7 +2728,7 @@
 1. A preferred rotation of planets came about when [all the planets going the other way got destroyed by the planets that go the other way](https://youtube.com/watch?v=MTY1Kje0yLg). Whichever direction with more planets wins.
 1. "Gravity warps spacetime", meaning [it figuratively warps the axes on which we make measurements](https://www.youtube.com/watch?v=jlTVIMOix3I). An apple thrown up falls down can be considered travelling linearly upward at a constant speed, had there not been a gravity distortion of spacetime.
 1. The baseball referee is called the umpire. The tennis referee might also be called the umpire.
-1. Someone (or some group of people) was [bored enough to look at frames where Luke Skywalker appeared slightly larger](http://biggerluke.wikidot.com/bigger-luke), and then write up an entirely hypothesis on it.
+1. Someone (or some group of people) was [bored enough to look at frames where Luke Skywalker appeared slightly larger](http://biggerluke.wikidot.com/bigger-luke), and then write up an entire hypothesis on it.
 1. Never say "yes" over the phone. Such a recording of "yes" can be used to [make purchases under your name](http://www.cbc.ca/news/canada/edmonton/can-you-hear-me-phone-scam-warning-bbb-1.3970312), with "yes" being a proof of permission.
 1. "Trade surplus" is a good thing. It means exports > imports, not "exports did not meet or exceed quota".
 1. Muzzle brakes counter recoil. They do not make things any quieter. (In fact they make rounds louder for the user)
@@ -2940,7 +2920,6 @@
 [ietf]: https://www.ietf.org/rfc/rfc2324.txt
 [ietf 2]: https://www.ietf.org/rfc/rfc2119.txt
 [imgur]: http://i.imgur.com/ulGwWxK.jpg
-[imgur 10]: http://i.imgur.com/Wfsuq4E.jpg
 [imgur 11]: http://i.imgur.com/iF89Wxe.jpg
 [imgur 12]: http://i.imgur.com/K4IoziO.gif
 [imgur 13]: http://i.imgur.com/AJoxtZi.gifv
@@ -3061,7 +3040,6 @@
 [reddit 66]: https://www.reddit.com/r/WTF/comments/4grnx9/bee_removes_nail_to_get_into_wall/d2k6swz
 [reddit 67]: https://www.reddit.com/r/WTF/comments/4gmejc/jump_starting_a_car_what_could_possibly_go_wrong/d2iujyp
 [reddit 68]: https://www.reddit.com/r/AskReddit/comments/4egt3z/what_are_lesser_known_biological_differences/d201l2o
-[reddit 69]: https://www.reddit.com/r/askscience/comments/squri/how_come_when_when_you_wipe_to_hard_after_going/
 [reddit 7]: http://www.reddit.com/r/Watches/comments/23iskt/lesson_on_mechanics_or_why_you_shouldnt/cgxekiw
 [reddit 70]: https://www.reddit.com/r/AskReddit/comments/4dx953/what_is_it_that_nobody_tells_you_about_having/d1v4msv
 [reddit 8]: http://www.reddit.com/r/pareidolia
@@ -3121,7 +3099,6 @@
 [voisen]: http://sean.voisen.org/blog/2013/10/intro-monads-maybe/
 [whonix]: https://www.whonix.org/wiki/DoNot
 [wifipineapple]: https://wifipineapple.com/
-[wikihow]: http://www.wikihow.com/Flush-Power-Steering-Fluid
 [wikimedia]: https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif
 [wikipedia]: http://en.wikipedia.org/wiki/Homarus_americanus
 [wikipedia 100]: https://en.wikipedia.org/wiki/Tap_code
@@ -3190,7 +3167,6 @@
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise
 [wikipedia 17]: https://en.wikipedia.org/wiki/Sleeper_effect
 [wikipedia 170]: https://en.wikipedia.org/wiki/Pure_function
-[wikipedia 172]: https://en.wikipedia.org/wiki/Kwashiorkor
 [wikipedia 173]: https://en.wikipedia.org/wiki/Parrotfish#Mucus
 [wikipedia 174]: https://en.wikipedia.org/wiki/Equagesic
 [wikipedia 175]: https://en.wikipedia.org/wiki/Brandon_Lee#Death
@@ -3317,7 +3293,6 @@
 [youtube 17]: http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s
 [youtube 18]: https://www.youtube.com/watch?v=WDXzVI8SmfE
 [youtube 19]: https://www.youtube.com/watch?v=WcOhd9ikNAw
-[youtube 2]: https://www.youtube.com/watch?v=ZiLKvFDTi78
 [youtube 20]: https://www.youtube.com/watch?v=fVGp_H2uCCk
 [youtube 21]: https://www.youtube.com/watch?v=vw_tClcS6To
 [youtube 22]: https://www.youtube.com/watch?v=TEkI0cH_rK4&app=desktop

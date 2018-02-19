@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+1. npm 5.2 gets [a new "npx" thing](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that is meant to execute one-off things (like `npx create-react-app blablabla`), running something with another version of node (`npx -p node@6 something`), or execute something installed in the relative path (`npx bower`, *`npx which bower`*, `npx mocha`) without needing that PATH line.
 * The TC in TC39 stands for [technical committee](https://www.ecma-international.org/memento/TCs&TGs.htm). [TC39](https://www.ecma-international.org/memento/TC39.htm) happens to be the committee that works on ECMAScript.
 * If you really want to see Jesus weep, you can force `getElementById` to return multiple elements by [changing the element's id, and then calling `getElementById`, rince and repeat, until no elements by that id can be found](https://stackoverflow.com/a/3607436/1558430).
 * [Rollup](https://rollupjs.org/guide/en#why) the bundler uses the term *tree-shaking* to refer to including only the code that is imported by your code.

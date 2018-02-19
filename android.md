@@ -6,6 +6,11 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Inputs can be emulated with [`input tap x y` and `input swipe x1 y1 x2 y2`](https://forum.xda-developers.com/u/tasker-tips-tricks/best-run-shell-commands-tasker-t3419204)
+1. Screen off gestures not working might be MinMinGuard's fault. To fix, wipe your Dalvik/ART cache, and not ironically.
+1. `pkill -l19 com.xiaomi.hm.health  # SIGSTOP that damn background process`
+1. `pkill -l18 com.xiaomi.hm.health  # SIGCONT that app so it works again`
+1. You can stop mpdecision by simply typing [`stop mpdecision`](https://stackoverflow.com/questions/20221680/android-how-to-force-cpu-core-offlineshut-down-cores).
 1. When your phone says it accepts a max of 4 fingers, [you can put multiple fingers on the sensor in a single run, fun fact...](https://www.reddit.com/r/GalaxyS7/comments/4bd8s9/more_than_four_fingerprints/d188r2j/)
 1. Doze parameters can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130). A flowchart of doze's events can be found [here](https://forum.xda-developers.com/android/apps-games/root-doze-settings-editor-android-t3235130/post63962529#post63962529).
 1. Remember, the next time they stop updating their devices, put "🅵🆄🅲🅺🅾🅽🅴🅿🅻🆄🆂" up as your reddit flair.

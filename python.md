@@ -386,6 +386,7 @@ bar
 1. Even in python2.7, if you prefix any class attribute with `__` (i.e. `self.__foo = 1`), [trying to read that attribute from anything except `self` will raise an `AttributeError`.](https://stackoverflow.com/a/38864561/1558430) Instead, [the interpreter does a little obfuscation](https://stackoverflow.com/a/4555970/1558430) such that the attribute is under a different key, usually (but not if subclassed) in the form of `_ClassName__foo`. Use `dir(the instance)` to view.
 1. Keras specifically implements neural networks. It does not implement other kinds of machine learning.
 1. It is completely possible for `pip` and `pip3` to install something into `.local/pip` and have absolutely no effect, other than to make it impossible to install the package as root. First `pip uninstall the-thing`, and then reinstall it with `sudo`.
+1. Just use [`sys.version_info >= (3, 0)`](http://sweetme.at/2013/10/21/how-to-detect-python-2-vs-3-in-your-python-script/) to check if you are running python3, but some `basestring NameError` business.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

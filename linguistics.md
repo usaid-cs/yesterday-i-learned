@@ -1,3 +1,6 @@
+1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.
+1. The correct way to write the degoratory term for Pakistanis is [巴基躝癱](https://zh.wikipedia.org/wiki/%E8%BA%9D%E7%99%B1) ("有香港人將這個俚語與巴基斯坦組合，變成「巴基躝癱」，用作取笑居港的巴基斯坦人，以至所有巴基斯坦籍人士。該俚語帶有嚴重侮辱及種族歧視的成份，情況與香港人叫印度人做「阿差」差不多")
+1. Most alphabet systems get their order from [the Phoenician alphabet](http://mentalfloss.com/article/29011/why-are-letters-abc-order), at around [1050 BC](https://en.wikipedia.org/wiki/Phoenician_alphabet).
 1. [*Mitt*](https://en.wiktionary.org/wiki/mitt) is an abbreviation of *mitten*. Both can be pluralised.
 1. [Vietnamese is said to have the highest information density of 1, the benchmark,](information density), while Japanese somehow gets the lowest information density of 0.49, at 7.84 syllables per second, despite being so close to China. [English is somewhere in between (0.91, 6.19i/s)](http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_to%20appear_Language.pdf). If you multiply the two together, you can get the best verbal language for conveying information, which is "pick anything except Japanese".
 1. "Laptops" are called [*ordinateur portables*](https://fr.wikipedia.org/wiki/Ordinateur_portable), or just *portables* in Canada.

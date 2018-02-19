@@ -31,6 +31,10 @@ If it's in a branch, consider running `git log -S "(keyword from diff)" --source
 #### I was smart enough to use `--depth=1`, but too dumb to undo it
 Well, now you need `--depth=999` (or even more).
 
+#### I want to commit with a `!` in the message. Can I do that?
+
+Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
+
 #### I committed to the wrong branch
 
 **If you haven't pushed the branch to remote yet**:

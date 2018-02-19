@@ -144,3 +144,8 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 # Redis
 
 Redis is also NoSQL. It is a KV Store, however.
+
+# SQLite3
+
+* Open database: `attach "some_file_name.db" as db;`
+* Show tables: `.tables`

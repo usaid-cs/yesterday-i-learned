@@ -1,3 +1,23 @@
+1. The mother and baby [share stem cells](https://www.reddit.com/comments/4javmv).
+1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
+1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
+1. Men having vasectomies done may be allergic to [protamine](https://en.wikipedia.org/wiki/Protamine_sulfate), the counter to blood thinner [heparin](https://en.wikipedia.org/wiki/Heparin), because protamine is synthesised from fish sperm, and [that sperm-related coincidence is significant](https://www.reddit.com/r/todayilearned/comments/4ieqnu/til_that_within_one_year_after_a_vasectomy_sixty/d2xhccn).
+1. Phytophotodermatitis: ["Citrus juices such as lime and lemon cause the skin to become hypersensitive to UV rays, leading to severe burns as a result."](https://en.wikipedia.org/wiki/Phytophotodermatitis)
+1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
+1. Protein deficiency can [enlarge your stomach](https://en.wikipedia.org/wiki/Kwashiorkor) (at least if you are an African child).
+1. [Parrot fish][wikipedia 173] make a [mucous cocoon](http://i.imgur.com/Wfsuq4E.jpg) at night to protect against predators and/or blood parasites.
+1. [The anus is more resistant to bacteria than the rest of the body is](https://www.reddit.com/r/askscience/comments/squri/how_come_when_when_you_wipe_to_hard_after_going/).
+1. Chickens *do* ["lay eggs out of their anus"](http://www.motherrisingbirth.com/2011/08/wisdom-wednesday-chicken-egg-exit.html) (cloaca), but since the cloaca turns inside out (v. pinksock) when laying eggs, the poop and egg don't come into contact.
+1. [Snails have brain parasites. Turtles give you colds.](https://www.reddit.com/r/pics/comments/5rqbxq/this_is_a_weirdlooking_rabbit/dd9itc8/?context=10000) Maybe more.
+1. [Giant, sudden headaches can occasionally be strokes.](https://www.reddit.com/r/tifu/comments/7eueeg/tifu_by_not_going_to_the_hospital_when_i_knew/)
+1. [Poor fitness is linked to white matter degeneration](http://www.utsouthwestern.edu/newsroom/articles/year-2018/fitness-dementia.html), but being fit does not necessarily reverse it, so it is important to "always be fit".
+1. Food poisoning involves expelling fluids out of every orifice except your ears. You learned this from experience.
+1. [A fish tank that is too clean can smell too.](http://thegoldfishtank.com/goldfish-care/tank/goldfish-tank-smells-bad/) The tank relies on some bacteria to break down goodies in the water.
+1. Apart from pain relief, anti-inflammatory drugs also delay cartilage wear and breakdown by inhibiting "interleukin-1 and tumor necrosis factor alpha" activity.
+1. Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
+1. In [one study](https://nccih.nih.gov/research/results/gait/qa.htm), glucosamine/chondroitin relieved pain only for the most serious cases.
+1. Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
+1. There is only one gram of protein per 100 grams of [banana](https://en.wikipedia.org/wiki/Banana#Nutrition).
 1. Ruminant animals have [ruts](https://en.wikipedia.org/wiki/Rut_%28mammalian_reproduction%29), periods with strongly elevated testosterone levels. It is unclear why elephants have [it](https://en.wikipedia.org/wiki/Musth), since female elephant's estrus cycle is not correlated to males' musths.
 1. [Blind people have major problems with their circadian rhythm](https://www.washingtonpost.com/national/health-science/blind-people-often-find-it-hard-to-align-their-sleep-wake-cycle-with-24-hour-day/2012/08/06/5578f090-bb0d-11e1-abd4-aecc81b4466d_story.html?utm_term=.144aef571a3a) ("C factor"), which move around randomly because they do not take light cues for when to sleep.
 1. [Foxes smell a lot.](https://blog.wildfloridairboats.com/we-know-what-the-fox-says-but-you-dont-know-how-bad-he-smells) And in a bad way.

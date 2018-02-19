@@ -56,6 +56,7 @@
 
 1. [`Xvfb`][wikipedia 2]: the screenless screen
 1. To remove a ppa, add `--remove` to the `apt-add-repository foo` command.
+1. `ps x` is probably the command you are looking for.
 1. `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`][stackoverflow 2]
 1. [(Almost) all distributions have `ssh-copy-id` preinstalled][tjll] that copies your *local* key to the remote user's list of `authorized_keys`.
 1. SSH supports [elliptic curve][tjll] key pairs as well! No particular reason to use it (other than fewer bits)

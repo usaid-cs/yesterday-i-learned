@@ -1,3 +1,4 @@
+1. Gold is not the most corrosion-resistant metal, apparently... iridium is.
 1. [Traffic light experiment](https://en.wikipedia.org/wiki/Chemical_traffic_light_experiment): 100 mL 1% indigo carmine indicator, 6g dextrose, water, 500 mL 0.5 M NaOH, in a 1L bottle. Shake.
 1. [Old batteries hit the voltage limit sooner](http://batteryuniversity.com/learn/article/bu_409a_why_do_old_li_ion_batteries_take_long_to_charge), which appears to limit the amount of time the battery can stay in top amperage.
 1. NyQuil [pre-mixes acetaminophen in ethanol](https://www.vicks.ca/en-ca/shop-products/nyquil/nyquil-cold-and-flu-nighttime-relief-liquid).

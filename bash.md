@@ -128,6 +128,12 @@
         # [ NUM -lt NUM ]  # Less than
         # [ NUM -gt NUM ]  # More than
         # (( NUM < NUM ))  # Maths
+
+        # You can just use the word 'test' if you
+        # hate the square bracket notation
+        if test -z $STRING; then
+            echo 'STRING is empty';
+        fi
         echo '------'
 
 #### Arrays and loops
