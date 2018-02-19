@@ -30,7 +30,6 @@
 1. "Socks are nature's bubble wrap" - 0
 1. [Borat was in Les Misérables](http://www.imdb.com/title/tt1707386/characters/nm0056187?ref_=tt_cl_t5), and [Bellatrix was his wife](http://www.imdb.com/name/nm0000307/?ref_=tt_cl_t6).
 1. Barq's also retail ["creme"](https://www.barqs.com/products/cremesoda/) and ["red creme"](https://www.barqs.com/products/redcreme/) sodas.
-1. Calling [112](https://en.wikipedia.org/wiki/112_%28emergency_telephone_number%29) in Canada automatically redirects it to 911.
 1. The classic [Big Red](http://www.wehuntedthemammoth.com/2016/07/01/chanty-binx-speaks-up-after-3-years-of-harassment-capped-by-bizarre-privacy-breach/) feminist is called Chanty Binx.
 1. [Harrison Ford just wanted to be done with the Star Wars franchise. He has always wanted the franchise to kill him off and be left alone.](http://www.reddit.com/r/funny/comments/7vys0s/-/dtwi9ro) Carrie Fisher also thought the same, but was less brutally honest than he is.
 1. [Amazon owns more weird brands than just AmazonBasics](https://qz.com/1039381/amazon-owns-a-whole-collection-of-secret-brands/)
@@ -54,7 +53,6 @@
 1. JIRA's ["Impediment" flag](https://confluence.atlassian.com/jirasoftwareserver071/flagging-an-issue-800706915.html), or just "Flag", was a [leftover](https://community.atlassian.com/t5/Questions/JIRA-s-quot-Impediment-quot-Flag-vs-a-Custom-quot-Impeded-quot/qaq-p/29095) part from GreenHopper.
 1. Kids at the age of two are called [terrible twos](https://www.parents.com/toddlers-preschoolers/development/behavioral/tackle-terrible-twos/) for the tantrums they tend to release at around that age, when they start to learn the ability to be frustrated with something they cannot do.
 1. "Fun fact, the pharaoh who ended the great age of pyramids by not working his people to death was thought of as a weak ruler because he didn't work people to death." - /r/LilSebastianRIPhomie
-1. Since UK forces do not enlist women, the first woman to lead the Queen's Guard [was a Canadian](http://www.macleans.ca/news/canada/why-a-canadian-soldier-led-the-queens-guard/). The Queen's Guard is a real regiment of soldiers with [dope ass-guns and hat straps that go over their chins instead of under](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.funkidslive.com%2Fwp-content%2Fuploads%2F2015%2F08%2FQueensGuard.jpg&f=1).
 1. Finland is responsible for the [World_Sauna_Championships](https://en.wikipedia.org/wiki/World_Sauna_Championships#2010_incident), which caused one death at 110°C, [Mobile Phone Throwing World Championships](https://en.wikipedia.org/wiki/Mobile_phone_throwing), sponsored by Nokia obviously, and the [Wife Carrying World Championship](https://www.youtube.com/watch?v=974HCI4UV4A), which... seems normal in comparison.
 1. Rubbing alcohol might make some post-it notes sticky again.
 1. "I think I'm starting to understand the older people on my life. ... Imagine a tool you've used for 30 years, it's not even an extension of your hand any longer, it's a pure extension of your will. I wouldn't want to replace it either." - /r/Steavee
@@ -137,7 +135,6 @@
 1. NewsBlur is written in [Django 1.5.x](https://github.com/samuelclay/NewsBlur/blob/master/config/requirements.txt).
 1. Young hens are also called pullets.
 1. If someone gets a hold of your birth certificate, they can technically copy the information (optionally just take a picture of it) and request a legitimate birth certificate of *you, on your behalf, without your knowledge, and start using your identity to first get a photo ID, then replacement cards, statements, and then passports.* Store your birth certificate at a very, very safe place, perhaps literally in a safe.
-1. [Swiss Chalet is a Canadian chain.](https://en.wikipedia.org/wiki/List_of_Canadian_restaurant_chains) Other examples: Boston Pizza, East Side Mario's, Edo Japan, Montana's BBQ, New York Fries, Thai Express.
 1. [Boil chicken bones](https://www.livestrong.com/article/125236-glucosamine-naturally/) to get the glucosamine out of it/them.
 1. ["Petering out"](http://www.dictionary.com/browse/peter--out) means gradually stopping, such as a conversation slowing dying out.
 1. One Earth's rotation is 86164s long. But our concept of a 86400-second day is still relevant because those are counted with respect to the sun. The effect of this is seeing the sun at the expected times, but everything else appears at different times of the day.
@@ -167,7 +164,6 @@
 1. "Five sigma" or "Six signa" refer to the [area under the normal distribution curve](https://blogs.scientificamerican.com/observations/five-sigmawhats-that/), when the number of sigmas, positive and negative, are taken away. Six sigma allows 3.4 defective features per million parts.
 1. [If you buy tofu in a tub or tin, you should pour out the water every day, and replace with cold water to keep the tofu fresh.](https://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Everything-You-Need-to-Know-About-Tofu!.aspx)  Tofu is spoiled if the liquid in the tub or tin is cloudy.
 1. There is a [*meta* list of falsehoods](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/). I hereby create a list of *meta meta* list of falsehoods: `1. Falsehoods are what falsehoods are.`
-1. Canadian billionaires Ron Joyce and his son Ron Jr get their wealth from [eliminating benefits from workers when minimum wages rise.](http://www.cbc.ca/beta/news/business/tim-horton-s-tims-timmies-doubledouble-minimum-wage-ontario-kathleen-wynne-labour-1.4470215) [You should be doing the same!!](https://www.youtube.com/watch?v=K_LvRPX0rGY)
 1. According to `ls -Sal`, you are best at Python, JavaScript, and, strangely enough, Java.
 1. [If you buy physical things from the Google store, they can simply not ship them.](https://www.reddit.com/r/GooglePixel/comments/7nrx07/google_permanently_banned_my_account_because/) If you decide to get a chargeback from your credit card company, they will ban your account (and therefore your life).
 1. In 2010, US lotteries had a 37% yield ($63 given out for every $100 of tickets sold).
@@ -182,7 +178,6 @@
 1. Three-pronged electronics are better than two-pronged electronics, says [this video](https://www.youtube.com/watch?v=YP8okiLOdKk).
 1. There's a [youtube.com/tv](https://www.youtube.com/tv).
 1. Jesus drank wine, but people in The Church of Jesus Christ of Latter-day Saints must abstain. The Quran only prohibited grape-based alcohol, but [the lawmakers interpret this is a total ban on alcohol](https://en.wikipedia.org/wiki/Alcohol_intoxication#Religious_views).
-1. [Upper Canada](https://en.wikipedia.org/wiki/Upper_Canada) is actually the lower part (think GTA), and [Lower Canada](https://en.wikipedia.org/wiki/Lower_Canada) is the higher part (think Quebec City). They were named as such based on their position relative to the [Saint Lawrence River / Fleuve Saint-Laurent](https://en.wikipedia.org/wiki/Saint_Lawrence_River), which flows from South to North. The two territories were later abolished to form the [United Province of Canada](https://en.wikipedia.org/wiki/Province_of_Canada).
 1. Grey Goose (especially if you didn't pay for it) tastes nothing different from other vodkas, as expected.
 1. Apparently a dude called Lnafziger really doesn't like it when [his passengers clap when he lands the aircraft safely](https://aviation.stackexchange.com/a/2526), when he's just doing his job. So don't clap when your captain is Lnafziger. Otherwise, [no one in the cockpit can hear you clap](http://www.news.com.au/travel/travel-advice/flights/why-you-should-never-clap-when-a-flight-lands/news-story/2af9455ff1661c59c13deac4d1239e7f), so... no need to clap.
 1. In the first episode ever, if Rick could go to a dimension where bone-healing serum is available in every corner drug store, why didn't he also go to a dimension where megaseeds are available in every corner drug store?
@@ -221,7 +216,6 @@
 1. In the UK, white walking canes are for blind people, and white/red striped canes are for deaf *and* blind people. This convention does not exist elsewhere.
 1. [Introduce yourself to the neighbors you share a wall/floor/ceiling with. If anyone is annoyed by loud music or pot smoke or whatever, it makes them more likely to come directly to you instead of the landlord.](https://www.reddit.com/r/AskReddit/comments/6ndu3g/what_is_your_first_apartment_tip/dk8rfqf/)
 1. Ed448-Goldilocks is more secure than Ed25519. "Nobody uses it despite it being very interesting from a mathematical and performance point of view because it's much slower than Curve25519, there aren't many good implementations, and Curve25519's security bounds are already good enough."
-1. If you quit a job without notice, [you are still entitled however much vacation pay accrued.](https://www.reddit.com/r/PersonalFinanceCanada/comments/7anbik/quit_a_job_without_notice_am_i_entitled_to/)
 1. The geometric mean is just the nth root of the product of n different numbers. It is like the usual mean, except you use the product instead of the sum.
 1. [PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) are made with fiberglass.
 1. "No VPN provider is going to risk jail to protect a $20 a month subscriber." - Attributed to someone who goes by Grugq.
@@ -238,7 +232,6 @@
 1. ["Amazeballs"](https://www.urbandictionary.com/define.php?term=Amazeballs) was invented by blogger Perez Hilton. He kept repeating it until people follow. Like sheep.
 1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
 1. 'A bit of "useless trivia" I read in a behavioral science book that if you place any type of religious reminder that is manifested as a person of some sort in an area, it will reduce crime.  So a Virgin Mary statue or image, or one of Jesus would have the same effect.' - Becca_Chavis
-1. There is a [giant nickel](https://en.wikipedia.org/wiki/Big_Nickel), [giant loonie](http://www.echobay.ca/attractions), and [giant toonie](https://www.tripadvisor.ca/Attraction_Review-g499255-d1825774-Reviews-Toonie_Monument-Campbellford_Trent_Hills_Ontario.html). The giant quarter is American.
 1. Rechargeable AAA lithium batteries do exist. However, they are all in the wrong voltage (3.7V).
 1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. [“They're not severed, they're disarticulated,” Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
 1. The OBD II adapter passcode is 1234.
@@ -425,7 +418,6 @@
 1. "25519" in ed25519 is 2^(255) - 19. A 256-bit elliptic curve key (which is what Curve 25519 is) is [weaker](https://wiki.openssl.org/index.php/Elliptic_Curve_Cryptography) than a 4096-bit asymmetric key, like RSA.
 1. The [capital one mastercard](https://www.capitalone.ca/credit-cards/costco/#footnote2) that "doubles as your costco membership card" is literally just that. You use it to go through the door. You still need to pay the membership fee.
 1. "In a traditional push-up the number is about 69% in the up position" "and 75% in the down position". For the half push-up it is "54% in the up position and 62% in the down position".
-1. [Lottery winnings are not taxed in canada?](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/amounts-that-taxed.html)
 1. If your daycare costs more than (or even a little less than) your hourly wage, stay home.
 1. Canes are $15 each at sobeys.
 1. *Nous baiserons vos femmes et vous serez cocus* - Le tombeau des aristocrates, 1791; "We will fuck your wives and you will become cuckolds." [*Baiser*](http://www.alternative-dictionaries.net/dictionary/French/entry/baiser) also means to kiss.
@@ -482,7 +474,6 @@
 1. The Frito Company merged with H.W. Lay & Co. in 1961. They kept making Lays chips all while being owned by PepsiCo. Fun Fact: Lays chips are PepsiCo's third largest brand, after Pepsi and Mountain Dew.
 1. Just like setting a price target for when to sell if a stock goes up, you are also supposed to set a target for when to sell if a stock goes down.
 1. You can't say [certain things](http://gawker.com/the-words-that-will-get-you-in-trouble-on-venmo-1738331672) when you transfer money with Venmo. If you say "North Korea" the money is held automatically.
-1. For some reason, ["Made in Canada" is more respected than "Made in Japan"](https://www.statista.com/chart/8654/mici-the-worlds-most-respected-made-in-labels/). Did you know that [Winnipeg makes the world's scratch cards *and* the coins we use to scratch them](http://www.readersdigest.ca/travel/canada/surprising-products-made-in-canada/view-all/)?
 1. Foam rings around the [beer] glass are a sign that the glass was cleaned properly.
 1. To ["curve someone"](https://i.redd.it/xdu6i6ypy9sz.jpg) is to reject someone.
 1. "Having your screen on 40% of the time", for three years, is roughly 10000 hours. I say roughly because of leap years, daylight savings, and that I omitted 500 hours.
@@ -543,7 +534,6 @@
 1. If you ask the Internet, ["How do I knock myself out for a long time?"](https://www.quora.com/How-can-you-knock-yourself-out-for-a-long-period-of-time?share=1), the Internet replies with "Don't."
 1. The Exeggutor has no arms. Its Alolan form has a totally unrelated fruit on its tail.
 1. It doesn't hurt to buy stocks *after* it is done dropping. Buying before it's done dropping is called "catching a falling knife".
-1. [A Macbook from your laptop's model year](https://www.kijiji.ca/b-ontario/macbook-2012/k0l9004?dc=true) holds the same value as your laptop's original price after however many years.
 1. There is only one "gimp boy" in the world: [Jason Coakley](http://www.dailymail.co.uk/news/article-3699007/).
 1. "See see no touch" unfortunately has only 1500 results on Google.
 1. [Slack](https://en.wikipedia.org/wiki/Slack_Technologies) is the fastest company to receive a billion dollar valuation. Its chat room thing uses `<div contenteditable="true">` as the message container.
@@ -626,7 +616,6 @@
 1. The cock that made the Sriracha sauce the cock sauce was from the year the inventor was born.
 1. [Vanity stores](https://www.reddit.com/r/AskReddit/comments/72ccgh/what_hobby_screams_rich_people/dnhg50e/) are businesses that a person (in this case, a husband lets his wife) keeps, regardless of business potential, in order for that person to be called a business owner.
 1. In fantasy sports, you are the manager. You build your team. Hence the fantasy. Because you aren't a manager. You're a loser on GitHub.
-1. Amsterdam Brewing Company, which is actually in East York Ontario, is [next to a trampoline park](https://goo.gl/maps/MWyFAZaAP1p). In addition to the Boneshaker IPA, they also make a [Fracture "IIPA"](https://www.ratebeer.com/beer/amsterdam-fracture-iipa/210878/) during the fall, with "15" more IBUs.
 1. Blackberry didn't buy desktops. Employees are required to take their laptops home for [business continuity](http://www.thebci.org/index.php/training-education/overview), aka keep working even if it snows and stuff.
 1. "If you're only allowed to drive one mile per hour, you're not going to drive on that road, even if it's not technically blocked," Mr. Tsui [said](https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html). "If that's the only road I can drive on, you dam well know I'm driving on that road,"  Mr. Chan said.
 1. AirBnB originally started helped people add their listings by offering professional photographers to take photos of their homes. "We suggest founders do things that don't scale ... Many startup advisors persuade startups to scale way too early, (... which takes time/effort/money... a waste if done prematurely ...). Rather, we tell startups to get their first customer by any means necessary, (... often manually ...). At this stage, founders are still trying to figure out what needs to be built and the best way to do that is talk directly to customers." - [Y Combinator](https://blog.ycombinator.com/ycs-essential-startup-advice/)
@@ -653,7 +642,6 @@
 1. Minimalists prefer calling "empty", ["spacious"](https://www.reddit.com/r/minimalism/comments/71d1dy/its_so_empty/).
 1. After getting the stomach cut open, the C-section recipient (male, female, or other combinations of kins) is encouraged to breastfeed.
 1. If you look up "most popular surgeries", then you will get the answers a) plastic, b) cataract, c) [caesarean section](https://www.youtube.com/watch?v=xyN48VnRYUY), d) joint replacement, e) circumcision, f) bone repair, g) heart surgery, h) [stent procedure](https://www.healthline.com/health/stent) aka 通波仔, i) uterus removal, j) gallbladder removal, and k) heart bypass.
-1. Building foundations must be built below the [frost line](https://en.wikipedia.org/wiki/Frost_line) "because ... frost heaving ... can damage ... their foundations." In Canada that is around 2.
 1. Coffee beans crack twice: once at 205°C (light roast), and once more at 225°C (medium-dark).
 1. Light coffee roasts might have a "toasted grain taste". [Darker roast beans have oil (a sheen) on the surface.](http://www.coffeecrossroads.com/coffee-101/coffee-roasts-from-light-to-dark)
 1. [Dogs ought not walk in front of the pack leader](https://www.cesarsway.com/dog-psychology/pack-leader/establishing-leadership-with-your-new-addition) (you).
@@ -664,7 +652,6 @@
 1. "Trey" the name just means "third born". And Chris might not have made it up that [Three can be pronounced Tray when on a playing card](https://en.wikipedia.org/wiki/Trey).
 1. 百年好合 means "good together for 100 years", not "good match that can be found once every 100 years".
 1. [Eskimo](https://en.wikipedia.org/wiki/Eskimo#Nomenclature) ("a person who laces a snowshoe") includes both Yupik (Siberia and Alaska) and Iñupiat (Alaska, Greenland, Canada). Calling an Inuit an Eskimo is like calling a tortoise a turtle; yet, people in Canada and Greenland don't like the idea of that.
-1. Fort McMurray is known for being Fort Mac, despite [Fort Macleod](https://en.wikipedia.org/wiki/Fort_Macleod) being in the same province. Fort Macleod is known for [a farm that mistreats horses](https://en.wikipedia.org/wiki/Horse_meat#Canada).
 1. "Steak tartare" originally came from "à la tartare", steak to be served with tartar sauce. "Tartar" was named after [the Tatars](https://en.wikipedia.org/wiki/Tatars), living in what's now Russia and Uzbekistan. Off to another tangent: yes, [you can totally die from eating raw beef.](https://en.wikipedia.org/wiki/Yukhoe#Japan_2011_incident)
 1. It remains unclear whether teenages [bag up shit and sniff the gas](https://en.wikipedia.org/wiki/Jenkem).
 1. Small dogs behave like they do because [they are spoiled](https://www.dogbreedinfo.com/articles/smalltoydogs.htm).
@@ -721,7 +708,6 @@
 1. People with a psychological disorder might not believe they have an illness.
 1. Sole has no texture, but at least it tastes okay (see "pollock")
 1. [Women are more likely to be caught baking.](https://flowingdata.com/2017/09/11/most-female-and-male-occupations-since-1950/) Men are more likely caught cooking.
-1. Waterloo region is one of the few regions named after a large part of town. [Other regions](http://www.swimontario.com/images/Ontario_Counties.jpg) aren't like that.
 1. "What do we eat" "Que-mangeons nous" is "What eats us?"?
 1. The ["eat"](http://pocketcultures.com/topicsoftheworld/files/2011/09/Copia-de-acomer2-425x318.jpg) gesture and the "fuck off" gesture differ only by whether the fingers point toward the mouth.
 1. [AM is in the 0.5~1.6MHz range. FM is in the 88.1~108.1MHz range.](http://hyperphysics.phy-astr.gsu.edu/hbase/Audio/radio.html) Short wave radio is in between the two bands.
@@ -761,7 +747,6 @@
 1. [Initial coin offerings](http://www.investopedia.com/terms/i/initial-coin-offering-ico.asp) involve making up a new cryptocurrency, selling some of them for Bitcoin or real money, and then never delivering on anything.
 1. Egg-laying chickens are usually killed by the 130th week, when they are done producing around 200g of cholesterol.
 1. [Telugu](https://en.wikipedia.org/wiki/Telugu_language) (probably sounds like "Telegoo") is the third most-spoken language in India, behind Hindi and English, which have official status. Telugu is spoken in what is considered [South Central](https://en.wikipedia.org/wiki/Dravidian_languages), whereas Tamil is the actual South, where the [Tamil boyes](https://en.wikipedia.org/wiki/Three_Crowned_Kings) lived.
-1. [American mozzarella cheese can be sold in Canada duty-free, as long as it is a part of pizza kits.](http://www.betterfarming.com/online-news/pizza-cheese-eludes-canadian-tariff-11157)
 1. [The World Meteorological Organization comes up with hurricane names that loop every six years.](http://geology.com/hurricanes/hurricane-names.shtml) Names are alphabetical, alternate from male to female, and start with a different sex every year. Some names are banned due to the devastation they have previously caused: Ivan, Katrina, Matthew, Sandy, ...
 1. "Roast chicken breast with lemons," said Claybar. "It will make chicken breast juicier."
 1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.
@@ -846,7 +831,6 @@
 1. [Infanticide became a capital offense in Roman law in 374 AD](https://en.wikipedia.org/wiki/Infanticide), before which the babies were left in clay pots to die, which "took the responsibility away from the parents because the child would die of natural causes (...)"
 1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
 1. [High car manufacturing volume accelerates the depreciation of used vehicles.](https://www.bloomberg.com/news/articles/2017-08-21/your-car-is-now-worth-less-than-you-think) Avis lost 92% of the profits failing to sell off used fleet cars. Recession decelerates the depreciation (or even raises the value) of used vehicles, because people keep their old vehicles, knowing they cannot afford new ones. But if all things are considered, why don't you think about the electric car / ridesharing revolutions more?
-1. Until 2017, [since the 1970s,] [Nunavut has been the only jurisdiction in Canada where you can't nip down to the nearest outlet and pick up a six-pack](http://thechronicleherald.ca/canada/1495883-nunavut-hopes-first-legal-beer-and-wine-store-might-curb-boozing) for the game or a bottle of wine for dinner. All liquor must be ordered from a government warehouse.
 1. Grocers are people who own/operate the grocery, not the people who buy groceries.
 1. Women don't get beer belly as often as men because women don't drink enough to have society tell them they shouldn't be drinking "while pregnant", [draws illustrator](http://nifymag.com/illustrator-shows-the-hidden-side-of-women-that-society-doesnt-want-to-see/).
 1. [Amazon Glacier](https://en.wikipedia.org/wiki/Amazon_Glacier) ("ZDNet says, that according to private e-mail") runs on low RPM hard drives with custom logic boards "where only a percentage of a rack's drives can be spun at full speed at any one time." This makes storage fairly cheap compared to other forms of online storage. Downloading the data has a "retrieval cost", which means they are probably throwing full hard drives into a cabinet eventually.
@@ -891,11 +875,9 @@
 1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).
 1. B&H are the initials of the original owners, Blimie and Herman. ["Barnes and Hobo"](https://www.barnesandnoble.com/) is some other company, which, [*of course*](https://www.google.com/search?q="Barnes+and+Hobo"), is not a clever and original phrase.
 1. A "misdemeanor" is a small wrongdoing that is still worth punishing.
-1. [7% of Canadians go to a McDonalds everyday](http://www.ctvnews.ca/business/mcdonald-s-canada-selling-67-cent-hamburgers-to-mark-50th-birthday-1.3545030).
 1. [Actuaries use numbers rather than guessing to evaluate the likelihood of future events, design creative ways to reduce the likelihood of undesirable events and decrease the impact of undesirable events that do occur.](http://www.academicinvest.com/science-careers/mathematics-careers/how-to-become-an-actuary) "[Hedging](http://www.investopedia.com/terms/h/hedge.asp)" refers to risk reduction. Actuaries can reduce the risk of a portfolio either by manipulating its asset class, or buying "insurance" type actions that prevent too much of a loss in the event of a downturn.
 1. ["The Muslim slave trade was much larger, lasted much longer, and was more brutal than the transatlantic slave trade and yet few people have heard about it."](https://www.youtube.com/watch?v=WolQ0bRevEU)
 1. Uber drivers don't give a flying floop where you sit, as long as you aren't right behind them for a one-passenger booking.
-1. ["I'm in Ontario and everyone I know who died in winter wasn't buried until the spring."](https://www.reddit.com/r/WTF/comments/6t4pwt/corpse_foot_from_neighboring_grave_falls_out_to/dli9orb/) - /u/Keets
 1. The [Chaoui people](https://en.wikipedia.org/wiki/Chaoui_people) of Algeria like to play a flute-like instrument called the [Gasba](https://en.wikipedia.org/wiki/Gasba_music) (gasba literally means "reed" in the [Berber language](https://en.wikipedia.org/wiki/Berber_languages).)
 1. "/r/theydidthemath" "/r/theydidthemonstermath" is not an original joke. ["They did the mash, they did the monster mash"](https://www.youtube.com/watch?v=-z5rIaxycMQ) is actually a song by Bobby Pickett.
 1. [DMZs](https://en.wikipedia.org/wiki/Demilitarized_zone) often become wildlife preserves because no one lives there.
@@ -920,12 +902,10 @@
 1. [It is possible to download files straight from Kodi.](http://www.kodisimplified.com/how-do-i/enable-downloading-option-in-exodus/)
 1. ["Salt was found to improve the perception of product thickness, enhance sweetness, mask metallic or chemical off-notes, and round out overall flavor while improving flavor intensity."](https://www.ncbi.nlm.nih.gov/books/NBK50958/) In other words, salt makes things taste better by manipulating how receptors sense other tastes. See same paper: if you have a low sodium diet, you can substitute some NaCl with a smaller amount of MSG for roughly the same taste.
 1. Almost into 2020, desktop computers still don't come with webcams.
-1. The "Civic Holiday" is not officially known as that in Ontario. Toronto names it Simcoe Day. Ottawa names it Colonel Day. Every city calls it a different, funny name. It is not a statutory holiday.
 1. The [Rothschild family](https://en.wikipedia.org/wiki/Rothschild_family) is primarily Jewish. They earn [a billion a year](http://www.investopedia.com/updates/history-rothschild-family/), give or take a billion.
 1. ["Maybe your preference for women with vaginas over women with penises is, to some degree, influenced by our cissexist society."](https://twitter.com/rileyjaydennis/status/884991412202229760?lang=en) - Riley, some kind of ["gay, trans, nonbinary, queer woman."](http://www.rileyjaydennis.com/about.html) "nonbinary ... woman".
 1. [You are going to die in the Netherlands.](https://www.youtube.com/watch?v=XpQMgbDJPok)
 1. [People rate condoms on the Internet.](http://www.trojanbrands.com/en-CA/condoms/TROJAN-Her-Pleasure-Sensations-Lubricated-Condoms)
-1. According to Expedia, [Northwest territories](https://www.expedia.ca/travelblog/wp-content/uploads/2017/03/DESIGN-Literal-map-of-Canada.png) meant "North-Western territory".
 1. Treadmills were a prison torture device, which also treaded grains (one of it uses). Prisoners did so for six hours a day, which led to malnutrition and death. Modern gyms typically allow you to stop jogging before the six hour mark. (ted.com)
 1. [In 2009, a man in Mozambique fucked a coconut.](https://www.reddit.com/r/tifu/comments/6rr6ay/tifu_by_cumming_into_a_coconut/) To see more fun facts about Mozambique, search for that word in this file.
 1. People prefer letters that are in their names. "The [Letter Preference Task](https://en.wikipedia.org/wiki/Name-letter_effect) is the second-most popular method to measure implicit self-esteem, surpassed only by the Implicit Association Test."
@@ -941,7 +921,6 @@
 1. Zeta is the sixth Greek alphabet, but [has a value of 7](https://en.wikipedia.org/wiki/Greek_numerals), because man, [screw you](https://en.wikipedia.org/wiki/Stigma_%28letter%29). Classically "Zedta", it is now "Zita" in modern Greek.
 1. "You know you are doing your job when at least three people are angry at you at once" - A clay bar
 1. In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").
-1. [Dick Street](https://www.google.ca/maps/place/Dick+St,+Waterloo,+ON/@43.4564732,-80.5352238,17.75z/data=!4m5!3m4!1s0x882bf4187cbdc25d:0x86ff890d28423903!8m2!3d43.4563352!4d-80.5356282) in Waterloo is very short (~200m).
 1. Mailchimp offers a 10% discount if 2FA is enabled.
 1. A ["down round"](https://unsupervisedmethods.com/the-uber-of-startup-lingo-a-translation-of-47-startup-one-liners-c5f21e255e74) is when a company raises money at a lower valuation than a previous round. And apparently a "flight risk" is employee(s) who may leave soon.
 1. Bangalore is officially known as Bengaluru.
@@ -1014,7 +993,6 @@
 1. AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
 1. Demetria "Demi" Lovato has that real last name.
 1. [Amputees are never handcuffed to a vehicle door](https://www.quora.com/How-are-amputees-handcuffed), because of liability issues should the vehicle be set on fire. Other wastes of time include trying to handcuff double amputees, or pregnant women that get arrested for some reason.
-1. Fun fact: if you have a car without a trunk, like a hatchback or a trunk, then [you can store your gun next to your seat, unlocked, underneath a blanket, pretty much indefinitely](http://firearmslaw.ca/gun-law-resources/firearms-storage-transportation/), as long as it is unloaded... legally speaking, anyway. Don't be surprised if a judge screws you over by saying [a car that isn't moving is considered storage](http://www.gunownersofcanada.ca/showthread.php?10081-Truck-or-Car-Gun), though.
 1. The original version of the Pokérap had mewtwo, but not mew.
 1. Ellen DeGeneres voiced Dory the blue tang. Blue tangs can live for 20 years.
 1. WiFi "Guest mode" mainly disables LAN access, not Internet access. Think your printers and network shares.
@@ -1024,7 +1002,6 @@
 1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
 1. Side menus in every offical Google app [are all different widths](http://imgur.com/a/v2d6v).
 1. [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. *"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry.[24] He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."*
-1. Manitoba was Tinytoba [when it joined the confederation in 1870](https://upload.wikimedia.org/wikipedia/commons/6/6b/Canada_provinces_evolution_frame.png).
 1. [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
 1. There is [no reference](https://en.wikipedia.org/wiki/Wizard_%28software%29) who first started calling software walkthroughs, 'wizards'.
 1. Pac Man was originally going to be called Puck Man, but was changed because Fuck Man.
@@ -1040,7 +1017,6 @@
 1. A quad HD AMOLED screen has only 20% more pixels as a 1080p LCD display, when it should have almost 80% as many.
 1. An orthotic's "break in period" is for your foot, not for the orthotic itself.
 1. [Vitas](https://en.wikipedia.org/wiki/Vitas) (Vitaliy Grachov) has a five-octave vocal range.
-1. Labatt 50 changed itself to Labatt 150 on Canada's 150th birthday.
 1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)
 1. Because owning a home requires taking care of it, percentage home ownership in a neighbourhood directly impacts how nice a neighbourhood is, and, to a certain extent, negatively impacts the crime rate in the same neighbourhood. This implies rentals are often in high-crime areas.
 1. Clear red signs of a house that cannot be bought: 1) bad location 2) smells (nearby landfill, mold, or ventilation issues) 3) uneven flooring 4) no natural lighting 5) oddly-shaped rooms 6) parking spaces that you can't get into.
@@ -1083,7 +1059,6 @@
 1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).
 1. The Bic pen was made (not invented) by a Mr.Bich. He changed the pen's name from Bich to Bic after he learned about how the English would pronounce it.
 1. [Anna Gunn](https://en.wikipedia.org/wiki/Anna_Gunn), the Skyler White actress, really lives in New Mexico. Her commute must have been excellent.
-1. [Paris, Ontario](https://en.wikipedia.org/wiki/Paris,_Ontario) was named after the [plaster](https://en.wikipedia.org/wiki/Plaster#Gypsum_plaster) famous in Paris, rather than Paris itself. "Plaster of Paris" was made with gypsum found in [Montmartre](https://en.wikipedia.org/wiki/Montmartre), a hill in Paris.
 1. A teenth is 1/16.
 1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.
 1. [The Donald posts on the_donald](https://www.reddit.com/user/the-realDonaldTrump).
@@ -1103,20 +1078,16 @@
 1. If you use ["wide gamut"](https://en.wikipedia.org/wiki/Wide-gamut_RGB_color_space) displays, what you show on it should use 16-bit colours, or you will see some polarising effect on the image.
 1. Crockford's JSON/JSLint licence had a clause in there, saying ["The Software should be used for Good, not Evil."](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions) So then IBM's lawyers had to ask for permission to use them for evil...
 1. The anti-skip feature in many CD players used significantly more power than having it off. That's why they have a switch for it.
-1. Terry Fox was born in Winnipeg in 1958. He had to stop running at Thunder Bay. Before he died, he specified no corporate sponsorship for any event in his name, "as he felt that it would detract from his goal of creating public awareness". He was right.
 1. At 300 million emails a day, Gmail might have real issues with regular hash collisions, not numerically, but by [the way entropy is gathered](https://stackoverflow.com/questions/1155008/how-unique-is-uuid).
 1. Louisiana is named after King Louis XIV, the dude who never bathed.
 1. When Thomas Jefferson was still around, USA was still divided widthwise by [The French](https://en.wikipedia.org/wiki/Louisiana_%28New_France%29) until the [Louisiana purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase) (basically the middle 1/3 of the states). The remnants of that purchase was Quebec.
 1. The [Anker 20100 mAh battery pack](https://www.amazon.com/dp/B00X5RV14Y/) is just six of [these](https://www.amazon.com/Panasonic-NCR18650B-3400mAh-Rechargeable-Battery-Green/dp/B00DHXY72O) NCR18650B cells packed together. If the $42 battery pack has six of these, and two of these cost $15, You can take one of those packs apart for cheap cells.
 1. /r/fakenews existed before it was cool. It has nothing to do with that guy who keeps making up fake news.
-1. Instead of "Please play again / réessayez SVP", the "special edition" timmy cup reads "Happy Canada 150th / Joyeux 150e du Canada."
 1. The Australians tried to fight the emus. They lost. It was called the [emu war](https://en.wikipedia.org/wiki/Emu_War).
 1. If you can't [draw a clock](https://www.littlethings.com/brain-on-fire/?utm_source=iqx6&utm_medium=Facebook), you might [have](http://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180) [issues](http://www.alzheimersreadingroom.com/2009/12/alzheimers-clock-draw-test-detect-signs.html).
 1. Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
-1. Michael J. Fox's middle name is Andrew. He changed from A to J [because his middle initial sounded too much like the Canadian "eh?"](https://en.wikipedia.org/wiki/Michael_J._Fox)
 1. At its height, Brunei, as the [Bruneian Empire](https://en.wikipedia.org/wiki/Bruneian_Empire), controlled the whole of [Borneo](https://en.wikipedia.org/wiki/Borneo), the world's third largest island that is now part of Malaysia and Indonesia.
 1. The basement is cooler in the summer, and colder in the winter.
-1. Canada went from [most ATMs per capita in the world](https://en.wikipedia.org/wiki/Banking_in_Canada) to [third most ATMs per capita in the world](http://data.worldbank.org/indicator/FB.ATM.TOTL.P5?year_high_desc=true). [SAD!](http://knowyourmeme.com/memes/donald-trump-s-sad-tweets)
 1. [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
 1. Excel's SUMPRODUCT(row1, row1...) multiplies two rows together and gives you a sum. Good for weighted tallies.
 1. [This converter](http://www.kylesconverter.com/frequency/hertz-to-frames-per-second) claims that display FPS and refresh rate Hz are equivalent units (30 FPS = 30 Hz).
@@ -1257,17 +1228,10 @@
 1. [Sloe gin](https://en.wikipedia.org/wiki/Sloe_gin) is not slow gin. Sloe gin is made by soaking sloes (a fruit like plums) in gin.
 1. A police from [where's the little girl](http://www.huffingtonpost.com/2011/11/11/save-miranda-police-video_n_1088723.html) video was once fired for being involved in inappropriate humour.
 1. [Religion websites see the most expensive phone users, and Adult and pornography websites see the least expensive phone users.](https://www.scientiamobile.com/page/smartphone-price-website-category) Conclusion: if you want a cheaper phone, you should masturbate furiously. 100% legit advice.
-1. Abraham Weber started everything [in Waterloo].
-1. [Abraham Erb](https://en.wikipedia.org/wiki/Abraham_Erb) built a mill, an act of founding Waterloo (1816).
-1. Both Breithaupt and Hespeler were big German families. David Bauer, however, was a priest from Toronto.
-1. Conestoga horses pulled Conestoga wagons, which were made with fabric (rare), and did not float. Conestoga horses are now extinct.
-1. Only 806 people from the Waterloo region fought in world war 2. Only 4 fought in the Korean war.
-1. The perimeter institute is from the last century.
 1. Anabaptism is adult baptism.
 1. Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf), [recruiting](https://www.linkedin.com/)
 1. *Stickler* means perfectionist, with a negative connotation.
 1. Mothers don't moth. Fathers don't fath. Don't thank them for these things.
-1. The vast majority of investment "advisors" in Canada are salespeople — only advisers spelled with an "e" have a legal duty to act in a client's best interest.
 1. In Punjabi, a lakh is called lakkh.
 1. [The Indian numbering system separates the first thousand with a comma, then a comma for every factor of 2.](https://en.wikipedia.org/wiki/Indian_numbering_system#Use_of_separators)
 1. The D in [D-day](https://www.army.mil/e2/rv5_downloads/d-day/the-meaning-of-dday-fact.pdf) is also Day. So D-day is Day-day. There is also [H-hour](https://en.wiktionary.org/wiki/H-hour), which is---you guessed it---Hour-hour.
@@ -1284,8 +1248,6 @@
 1. [Simple English](https://en.wikipedia.org/wiki/Simplified_Technical_English), a legit engineering term for making things unambiguous, has [its own Simple English wiki page](https://simple.wikipedia.org/wiki/Simplified_English). Who knew!
 1. The last courses in a Chinese cuisine are usually the ones they also pack up and let you bring home.
 1. [*Pablum*](https://en.wikipedia.org/wiki/Pablum) can now be used to describe something that is bland, mushy, unappetizing, or infantile. It is the exact marketing opposite of "Googling".
-1. [Five-pin bowling](https://en.wikipedia.org/wiki/Five-pin_bowling), a Canadian invention, is a bowling variant which is played only in Canada.
-1. Speaking of [Canadian inventions](https://en.wikipedia.org/wiki/The_Greatest_Canadian_Invention), wonderbra (#5) placed higher on the list than Java (#12, the language), standard time (#15), alkaline batteries (#32), and many other more things that don't make boobs look bigger.
 1. Stephanie Tarling sang the first [Pure Imagination](https://www.youtube.com/watch?v=xojCXUfzjSY&app=desktop) song for Microsoft's Surface Studio. Then she messed up and [sang again](https://www.youtube.com/watch?v=74kPEJWpCD4) for the Surface Laptop.
 1. Home alarm monitoring service (the thing that calls your house when someone breaks in) is useless. Thieves usually leave in 5-10 minutes. Phone calls start at 5 minutes.
 1. "Desks don't kill people, people kill people." You thought you were being witty and original, but there is already [one other Google result](https://www.google.ca/search?q=%22desks+don%27t+kill+people%2C+people+kill+people%22) with that exact phrase.
@@ -1350,14 +1312,11 @@
 1. Stock price doesn't mean anything (as long as you can afford at least one share). Buying 100 cheap shares worth $5 each that goes up by 1% is going to be $505. Buying 1 share of $500 that goes up by 1% is also going to be $505.
 1. The ["ECB (electronic code book) mode"](https://crypto.stackexchange.com/questions/225/should-i-use-ecb-or-cbc-encryption-mode-for-my-block-cipher) encrypts data block by block. [It is insecure.](https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/) Stop using it wherever you know it exists. CBC (cipher block chaining) mode makes you XOR the next block with the previous block's ciphertext first, making it safer.
 1. If you buy a share of every stock out there in an exchange, you effectively track an index. If you buy a share from only the non-half-arsed stocks in an exchange, you effectively beat an index. If you go on and buy a share from only the stocks that consistently stay on or above average, which isn't hard to spot to be honest (say Apple or Adobe), then you effectively beat an index. That is why index funds often outperform the indices that they track, but never by much.
-1. Cellular Internet in Canada costs more than anywhere else in the world, including Japan, Brazil, and Botswana.
-1. TMX lists itself on the TMX as "X".
 1. Colombia the country is spelled with an O. [Everything else](https://en.wikipedia.org/wiki/Columbia) is spelled Columbia with a U.
 1. Those hip, "tub-looking" bathtubs are a bitch to clean, say Redditors.
 1. [Travel bidets](https://www.amazon.ca/Brondell-GS-70-GoSpa-Travel-Bidet/dp/B008CSDKSQ) are squirt bottles, essentially.
 1. To identify which side of an LED is positive, [it is either the longer leg](https://learn.sparkfun.com/tutorials/polarity/diode-and-led-polarity), or, if it is already soldered and cut, the round side rather than the flat side.
 1. Montreal is the third largest porn-producing city in the world after Los Angeles and Amsterdam.
-1. The University of Waterloo Archery Club is "by far the most successful university archery club in Ontario" (quote from president). Other clubs tend to go broke easily.
 1. The world's largest commercial dildo is only 1/6 the size of [the world's largest non-commercial dildo](https://www.dailydot.com/unclick/worlds-largest-dildo/).
 1. The summit [Chimborazo](https://en.wikipedia.org/wiki/Chimborazo) of Ecuador is the farthest point from the centre of Earth, while Mt. Everest is the highest point from sea level.
 1. Brushing your teeth for two minutes, twice a day, is roughly a day per year.
@@ -1485,8 +1444,6 @@
 1. The term [boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code) didn't come from boiler plates (smooth pieces of metal), but from the boiling lead used to make plates to print newspapers, used multiple times after forming.
 1. The result of a [Modulo operation (%)](https://en.wikipedia.org/wiki/Modulo_operation) varies highly across languages. The sign of the result can follow the divisor (Lua, Excel, Perl, ...), dividend (bash, C#, Erlang, ...), always positive or negative (algol, dart, maple, ...), or undefined (C, C++, Forth, ...). What's more, if the numbers aren't integers, you may get different signs back, too!
 1. According to an [uncited table](https://en.wikipedia.org/wiki/Universal_Time#Adoption_in_various_countries), it took Great Britain 32 years to introduce UTC to some other country.
-1. There is an [entire list of jobs and how much Canada values you](http://www.cic.gc.ca/english/immigrate/skilled/noc.asp). Most valuable jobs are either in skill levels 0 or A. Class D workers are labourers.
-1. Canada has a rainforest in BC, the [Great Bear Rainforest](https://en.wikipedia.org/wiki/Great_Bear_Rainforest).
 1. The appearance of a barberpole (thing spins left and right, but the stripe travels up and down) is [considered an illusion](https://en.wikipedia.org/wiki/Barberpole_illusion).
 1. T-Scale (1:450) is the smallest scale for model trains.
 1. [If I am to change this image, I must first change myself.](http://thinkexist.com/quotation/sharks--reciting-i_am_a_nice_shark-not_a_mindless/340378.html)
@@ -1521,7 +1478,6 @@
 1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.
 1. [Rising rates mean lower bond prices (lower yield).](http://www.cnbc.com/2017/03/15/what-to-do-with-your-bond-portfolio-as-fed-rates-rise.html)
 1. [Every digit of pi is equally likely (at least it is, in the first 10 million digits).](http://blogs.sas.com/content/iml/2015/03/12/digits-of-pi.html)
-1. Grey House Publishing of Canada still produces a [2017 ALmanac](http://www.greyhouse.ca/almanac.htm) for $429 + tax, and expects people to buy it.
 1. "Pizza dates" are a possible alternative to coffee dates. It helps establish pizza compatibility, which is a big part of relationships.
 1. [**Breakfast is not the most important meal of the day.**](https://www.reddit.com/r/explainlikeimfive/comments/5zby7f/eli5_why_is_breakfast_the_most_important_meal_of/) Kellogg marketing invented this dangerous myth. Eating breakfast increases hunger throughout the day, increasing overall calorie intake, and builds up insulin resistance, leading to diabetes. This doesn't mean "don't eat breakfast"; it just means don't eat a big breakfast.
 1. The sound of the [Balrog in The Lord of the Rings](https://www.youtube.com/watch?v=JLclk16PtE4) (00:42) was made by [dragging a breezeblock along a wooden floor](http://www.bbc.com/future/story/20150616-the-secret-sounds-in-movies-and-tv).
@@ -1570,7 +1526,6 @@
 1. 41-year-old [tluyben2](https://nl.linkedin.com/in/tluyben) recommends all programmers hang out with non-developers *a lot*.
 1. *Practice speaking with a pen in your mouth for a few minutes every day. It forces you to really enunciate what you're saying, ...* - 213Compton
 1. If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost $1.
-1. Manitoba was a [French (Métis)](https://en.wikipedia.org/wiki/M%C3%A9tis_in_Canada) place. It was founded by [Louis Riel](https://en.wikipedia.org/wiki/Louis_Riel), who spoke French.
 1. [`/32`](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing) is one IPv4 address, `/24` is all of 1.2.3.x, `/16` all of 1.2.x.x, `/8` all of 1.x.x.x. Occasionally you get [`/20`](https://answers.yahoo.com/question/index?qid=20071115104737AAQxeRg) blocks...
 1. [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1–4). Jesus was not a Nazirite; He was a “Nazarene,” a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
 1. Not only have we gone through the phase of youtube influencers (like that guy Pew-die-pie), we are already into "micro influencers"---people with fewer than 1000 subscribers---whose videos seem more convincing due to the smaller audience. Also lower cost.
@@ -1770,7 +1725,6 @@
 1. A 'nightcap' is a drink you consume right before going to bed. It is rumoured to improve sleeping.
 1. That thing people pull you with on two wheels is called the [rickshaw][wikipedia 33].
 1. [Code coverage][wikipedia 34] means "test coverage", how much code your tests are covering. This is also the reason why all your code has 0 code coverage.
-1. [Chicken and pork in Ontario don't have added growth hormones][eatrightontario].
 1. By [dipping your nose into beer head][reddit 14], the foam disintegrates because of your nose grease.
 1. You have this sinking feeling in your stomach when you are stressed because [blood is leaving it][reddit 15].
 1. [All marriages end in death][reddit 16].
@@ -1866,7 +1820,6 @@
 1. [Earthquake lights are piezoelectric][nationalgeographic].
 1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag][google 3]
 1. Blind programmers use [extremely fast TTS][freecodecamp] to "read" code.
-1. [Kitchener][google 4] is twice as large as [Waterloo][google 5].
 1. The `<small>` HTML tag is reserved for defining “smallprint” or legal text.
 1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
 1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.][reddit 22]
@@ -2000,7 +1953,6 @@
 1. [Funeral biscuits][historiccamdencounty] were invented by cavemen to represent "incorporating their essence into one's own" without needing to consume the body of the diseased. Victorians improved the practice by not putting the biscuits directly on top of the dead.
 1. "Plinking" is shooting cans. "Pinking" is arousing a vulva.
 1. Chapter 11 backruptcy can be filed by people who have money. Case in point was Donald Trump, billionaire, who filed Chapter 11 for the fifth time.
-1. "Thunder Bay is home to ... the highest concentration of persons of Finnish origin per capita in Canada" - D. Maki (Hill)
 1. The Bible never says how many wise men there were.
 1. [Random blanks][wikipedia 102] are given to soldiers to let them feel that they were not responsible for killing a single person.
 1. A specific breed of dog, the [bloodhound][wikipedia 103], can track a human's scent across different terrains.
@@ -2065,7 +2017,6 @@
 1. [The thing you hammer to the ground to hold something down is called a stake][google 9]. It's probably where the other definitions of the word "stake" comes from.
 1. The process of cutting a ring around a tree has a name; it is called [girdling][wikipedia 113]. Girdling around the base kills the entire tree; girdling branches might make the tree bear larger fruit.
 1. All-season tires are suitable in the winter only if said winter never drops below -5 degrees celsius.
-1. Pierre Trudeau founded Petro Canada (as a government operation). Now Suncor owns it.
 1. [Bananas are berries.][wikipedia 114]
 1. Brussels sprouts [grow on stalks][wikipedia 115].
 1. Common coffee filters will filter away 100% of instant decaf coffee.
@@ -2086,7 +2037,6 @@
 1. It is [always wise to wear black][buytshirtsonline]. Black instils confidence, intelligence, and attracts (at least) the opposite sex. It is also the best colour to wear to interviews, funerals, weddings, and some sort of gaming event.
 1. ["The more development I do the more I feel like increased Lines Of Code (LOC), nearly always results in increased bugs."][mayerdan]
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
-1. Ontario only: [there is a maximum on how much your landlord can raise your rent][ontariotenants], and it is different every year. The maximum percentage increase (1.5%) has been dropping since 1977 (8%). This applies only to buildings built before 1991; Bill 96 allowed landlords of any building constructed after 1991 to increase rent as they see fit, while [Bill 124](http://www.lexology.com/library/detail.aspx?g=b6a910c1-d862-4e32-9fd2-0056f19b3e93) repeals that exact thing, capping annual increase to 2.5%.
 1. A fool-proof way to poach an egg is to [strain away all of the egg white][seriouseats], says mister López-Alt.
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
 1. [Cob][wikipedia 122] is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
@@ -2157,11 +2107,8 @@
 1. Ampersand = ["and per se, And (the now-removed alphabet)"][dictionary]
 1. [Design a thing before building it.][gsa] Also in the link: software design tips
 1. Jews call meatloaf "Klops", the German word for meatball.
-1. In Canada: ["It is legal to sell and serve dog meat, providing that it must be killed and gutted in front of federal inspectors."][wikipedia 157] "In order for a meat processor to obtain a license to slaughter dogs for food, it would have to prove that the dogs were raised explicitly for food and not to keep as pets."
 1. In USA: ["The term "dog" has been used as a synonym for sausage since 1884 and accusations that sausage makers used dog meat date to at least 1845."][wikipedia 158]
-1. One in four Canadian households / one in ten Canadians owns guns. This figure is roughly [below USA's median][about].
 1. The [Bohr Effect][wikipedia 159] explains why increasing CO2 concentration makes hemoglobin release their oxygen (affinity curve).
-1. Canadians travelling in the US [cannot be searched without a warrant][youtube 20]
 1. It is possible to fill tires with foam so they never go flat, but [the tires will be heavy and the ride will be hard][bowentire].
 1. To combat lactose intolerance, drink milk with a meal.
 1. [There are no speed cameras][wikipedia 160], only speed police.
@@ -2258,7 +2205,6 @@
 1. The X Files theme song is called "Materia Primoris".
 1. [Do not remove popcorn ceiling yourself][reddit 56].
 1. In November 1999, the corporate name of [7-Eleven] was changed from The Southland Corporation to 7-Eleven Inc.
-1. Unlike their counterparts in America, Canadian Slurpees do not contain yucca extract, which gives it the airy consistency American Slurpees are known for.
 1. Salt can thicken soap (and then thin it). "The sodium ions from the salt lower the charge density of the micelle surface. This makes them more able to pack closer together and creates a thicker solution." "We call this the Salt Curve"
 1. On South Park, they would say "you bastards" to the writers, not the character who killed Kenny.
 1. While both [Saint Nicholas and Santa Claus][wikipedia 194] were responsible for *secret* gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
@@ -2377,9 +2323,6 @@
 1. A bowl of oatmeal a day could be the secret to a longer and healthier life, say scientists.
 1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats. 
 1. [Human mothers also nest](https://en.wikipedia.org/wiki/Nesting_instinct); during the period, they clean the house a lot.
-1. "20% of the LCBO's customers bring in 80% of the revenue" - [this one guy on Reddit](http://www.reddit.com/r/canada/comments/4o9e4o/-/d4b82dm)
-1. Canada used to have "Athabasca" and "Assiniboia" [districts](https://en.wikipedia.org/wiki/Districts_of_the_Northwest_Territories). They are now various parts of the west.
-1. U Lethbridge's motto is Fiat Lux.
 1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
 1. There is a global unified postal service body called the [Universal Postal Union](https://en.wikipedia.org/wiki/Universal_Postal_Union). The Union creates a framework and standards so that ALL countries can exchange mail freely without forming individual contracts with every other country. - [source](https://www.reddit.com/r/explainlikeimfive/comments/4o4t7z/-/d49oo7a)
 1. [Oktoberfestbier](https://en.wikipedia.org/wiki/Pale_lager#Oktoberfestbier_.2F_M.C3.A4rzen) is a real trademarked term for Oktoberfest beer.
@@ -2469,8 +2412,6 @@
 1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
 1. Ride sharing services do not attract families of four (because normal sedans can comfortably fit three passengers, not four).
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
-1. Bars in Ontario may only serve beer after 11am.
-1. New Hamburg is west of Kitchener.
 1. Gummy bears, rather than gummy any other animal, were [first invented in Germany](http://www.reddit.com/r/askhistorians/comments/539r6k/_/).
 1. In social situations, [people gauge how drunk they should be based on how drunk there peers are](http://www.reddit.com/r/science/comments/5318ph/_/d7p4bba?context=1000). Therefore, all patrons should play the game were if one person is late to the table, everyone should pretend to be hammered when he/she arrives, so he/she will overdrink.
 1. Parchment is made from animal skin.
@@ -2497,7 +2438,6 @@
 1. "World Financial Group" is a pyramid scheme so large that even the exams those members take ("HLLQP") are provided by WFG. There are in fact [dozens of those exams and licenses](http://www.cbc.ca/news/business/taxes/5-things-to-check-when-hiring-a-financial-adviser-1.1166888) so you can look for those instead.
 1. *Tonne* is the metric one.
 1. [There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.](http://weirdfascinatingstuff.blogspot.ca/2010/06/weird-laws-from-canada-part-2-always.html)
-1. [Grass grows in Whitehorse Yukon.](https://www.youtube.com/watch?v=qE8ca84UUJw) [It doesn't even look different from Ontario](http://imgur.com/pwNigfK). Guy born and raised in Yukon has no difference in accent. EH?!
 1. The recipient of a cheque can sign the back of the cheque and give the cheque to someone else. "If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque."
 1. To describe a person as single in a politically correct way, use the phrase "Independently owned and operated".
 1. The man who killed Hitler died in the line of duty. The same man subsequently took his own life.
@@ -2567,7 +2507,6 @@
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. Capers are their flower buds. The smaller the size, the more desirable.
-1. "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
 1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
 1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
 1. When you *lost* control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
@@ -2647,7 +2586,6 @@
 1. [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
 1. Indexing UTF8 strings is an `O(n)` operation. Both JS and PHP chose UTF16 internally. It has disadvantages from both UTF8 & UTF32.
 1. Licencing under GPL is probably good, but [joining the GNU is probably a bad idea](https://libreboot.org/why-not-gnu/). Reasons mostly surround the loss of project decision making, as well as odd project toolchain requirements.
-1. [Ontario] [Subletters cannot rent out the place for more than its original rent.](https://www.ontario.ca/laws/statute/06r17#s134s3)
 1. The [Hammer unit](https://wiki.teamfortress.com/wiki/Hammer_unit) is Source Engine's smallest unit of distance, 1/16th of a foot (around 2cm).
 1. Archaic term [*Hondo*](http://www.urbandictionary.com/define.php?term=hondo) referred to "an old John Wayne movie".
 1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
@@ -2791,7 +2729,6 @@
 1. Curling was invented by, in someone's words, "those damned Scots".
 1. A Live Drop is when two people meet up and exchange items or information. A [Dead Drop](https://en.wikipedia.org/wiki/Dead_drop) is when the two people don't meet.
 1. One pro about keeping touch with people is that they may be useful for being references when applying for various things.
-1. Canadians have been detained before for [not giving out their phone passwords at customs](http://www.theverge.com/2015/3/6/8162337/iphone-unlock-border-agents-canada).
 1. An [Euler's disk](https://www.youtube.com/watch?v=gO8wt5xbvLk) on a concave surface can spin for a long time.
 1. [Thunderbolt 3 ports are supersets of USB C ports.](https://thunderbolttechnology.net/blog/difference-between-usb-c-and-thunderbolt-3) The reverse is not the case.
 1. 1500 requests a day is about once a minute, more or less.
@@ -2842,7 +2779,6 @@
 1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
 
 [abdulapopoola]: http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/
-[about]: http://usliberals.about.com/od/Election2012Factors/a/Gun-Owners-As-Percentage-Of-Each-States-Population.htm
 [aiga]: http://eyeondesign.aiga.org/can-a-font-make-us-believe-something-is-true/
 [aljazeera]: http://america.aljazeera.com/articles/2015/4/20/release-cards-turn-inmates-and-their-families-into-profit-stream.html
 [amputee-life]: http://www.amputee-life.org/2012/10/28/amputee-k-levels/
@@ -2880,7 +2816,6 @@
 [dot]: http://www.dot.state.mn.us/zippermerge/
 [dpreview]: http://www.dpreview.com/forums/post/50107202
 [dvwa]: http://www.dvwa.co.uk/
-[eatrightontario]: http://www.eatrightontario.ca/en/Articles/Farming-Food-production/Hormones-and-antibiotics-in-food-production.aspx
 [ehow]: http://www.ehow.com/about_6127367_do-students-shoes-off-school_.html?dmsp=manual
 [energy]: http://energy.gov/articles/top-8-things-you-didn-t-know-about-daylight-saving-time
 [everets]: http://everets.org/kevin/ten-codes.php
@@ -2902,8 +2837,6 @@
 [google 12]: https://google.com/search?q=seafood+extender
 [google 2]: https://google.com/search?q=rf+choke
 [google 3]: https://www.google.ca/search?q=british+flag+upside+down
-[google 4]: https://www.google.com/maps/place/Kitchener,+ON,+Canada/@43.4476353,-80.5329634,12z/data=!4m2!3m1!1s0x882bf48c03ee5105:0x9525f8e6df5f544b
-[google 5]: https://www.google.com/maps/place/Waterloo,+ON,+Canada/@43.4749939,-80.5371064,12z/data=!4m2!3m1!1s0x882bf1565ffe672b:0x5037b28c7231d90
 [google 6]: https://www.google.ca/m?q=aplomb&client=ms-opera-mobile&channel=new&espv=1
 [google 8]: https://www.google.ca/m?q=zoodles&client=ms-opera-mobile&channel=new&espv=1
 [google 9]: https://www.google.com/search?q=wooden+stake
@@ -2969,7 +2902,6 @@
 [omgfacts]: http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer
 [onebigfluke]: http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html
 [onlythebreast]: http://www.onlythebreast.com/
-[ontariotenants]: http://www.ontariotenants.ca/research/rent-increase.phtml
 [openmymind]: http://openmymind.net/How-Unreliable-Is-UDP/
 [owasp]: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 [physiology]: http://jap.physiology.org/content/early/2014/08/14/japplphysiol.00570.2014
@@ -3153,7 +3085,6 @@
 [wikipedia 153]: https://en.wikipedia.org/wiki/Drowning
 [wikipedia 154]: https://en.wikipedia.org/wiki/Traffic_collision
 [wikipedia 155]: https://en.wikipedia.org/wiki/Pterosaur
-[wikipedia 157]: https://en.wikipedia.org/wiki/Dog_meat#Canada
 [wikipedia 158]: https://en.wikipedia.org/wiki/Dog_meat#United_States_of_America
 [wikipedia 159]: https://en.wikipedia.org/wiki/Bohr_effect
 [wikipedia 16]: http://en.wikipedia.org/wiki/Post/Redirect/Get
@@ -3293,7 +3224,6 @@
 [youtube 17]: http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s
 [youtube 18]: https://www.youtube.com/watch?v=WDXzVI8SmfE
 [youtube 19]: https://www.youtube.com/watch?v=WcOhd9ikNAw
-[youtube 20]: https://www.youtube.com/watch?v=fVGp_H2uCCk
 [youtube 21]: https://www.youtube.com/watch?v=vw_tClcS6To
 [youtube 22]: https://www.youtube.com/watch?v=TEkI0cH_rK4&app=desktop
 [youtube 3]: http://youtube.com/watch?v=DQeyjgSUlrk
