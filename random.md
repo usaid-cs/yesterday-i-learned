@@ -1,5 +1,21 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [VGA cables have no imposed bandwidth limits](https://en.wikipedia.org/wiki/VGA_connector#Cable_quality) and can display however high resolution supported by the cable. Usually stops at 2048x1536.
+1. The motto of [麥兜](https://upload.wikimedia.org/wikipedia/commons/0/02/AoS_McDull_statue.JPG)'s primary school is 作育英才.
+1. The kettle is not black. The pot is seeing itself in the kettle's reflection, which is black.
+1. Play doh is salty.
+1. The Niagara Falls are made up of three waterfalls: the Horseshoe Falls (largest), the American Falls, and the Bridal Veil Falls (smallest).
+1. Basically [everything is sexual harrassment](https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-14) if you aren't attractive.
+1. Paris is full of round road junctions that have stuff at the middle, like the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe), Esplanade Jacques Chaban-Delmas, Fontaine de Shamaï Haber, and the Bastille. These junctions I suspect are just called *Places*.
+1. `.` in `[.]` literally matches only `.`, without needing to escape.
+1. The [Armstrong limit](https://en.wikipedia.org/wiki/Armstrong_limit) is when the air pressure is so low that water boils at body temperature, which is 6.3 kPa.
+1. The Mars equivalent of "day" is [sol](https://en.wikipedia.org/wiki/Timekeeping_on_Mars)... Mars' orbit is slightly elliptic so its seasons are different in length.
+1. "Moribund" means "approaching death".
+1. There is no difference between vegetarian chicken, vegetarian duck, and vegetarian goose.
+1. Pluto's satellite [Charon](https://en.wikipedia.org/wiki/Charon_%28moon%29) is massive enough to significantly affect pluto's center of orbit.
+1. Correlation implies causation: [drinking a coke a day for breakfast makes you Warran Buffett](https://www.cnbc.com/2017/01/30/warren-buffetts-breakfast-never-costs-more-than-317.html).
+1. Gender equality should fight for "equality of rights" ("everyone should be able to be a nurse no matter the gender"), not "quality of outcomes" ("there should be the same number of male, female, and tumblrkin nurses in each and every hospital").
+1. You can get bed bugs from movie theater seats.
 1. Silicon wafers are made by [spinning molten silicon into a long sausage](https://www.youtube.com/watch?v=AMgQ1-HdElM), and then sliced and smoothed into wafers.
 1. According to [a reliable source](https://zh.wikipedia.org/wiki/%E5%B7%AE%E4%BA%BA), a policewoman is called 差婆.
 1. JetBrains is headquartered in Prague.
@@ -1560,7 +1576,7 @@
 1. [`(jenkins_url)/safeRestart`][stackoverflow 5] restarts it.
 1. A jenkins job can be cloned or backed up [by just copying the files][jenkins-ci].
 1. A jenkins job can also be copied by right-clicking on it, you idiot.
-1. Compiling `npm` will require [this fix][stackoverflow 6]. 
+1. Compiling `npm` will require [this fix][stackoverflow 6].
 1. A `site.pp` file controls Puppet's behaviour. It's a Perl script.
 1. Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle][crackstation] -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
 1. Apparently SHA1 isn't suitable for hashing passwords anymore.
@@ -1642,7 +1658,7 @@
 1. [Mortgage][wikipedia 30] is French for "death pledge".
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
 1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
-1. Mount K2 is the second tallest mountain in the world.
+1. Mount K2 is the second tallest mountain in the world, and also the one with the second highest death rate. Everest is the tallest, but [Annapurna I](https://en.wikipedia.org/wiki/Annapurna_Massif#Annapurna_I) has the highest death rate.
 1. `pigz` is gzip, but with parallel processing (and slightly better compression).
 1. A [micromort](https://en.wikipedia.org/wiki/Micromort) is a measure of probability of death. It is (more or less) the amount associated with risk for each action a person is willing to pay to die doing that event. For example, for every 27km you walk, you get one micromort.
 1. [Bandy](https://en.wikipedia.org/wiki/Bandy) is an ice sport like hockey, except the puck is a ball. The Canadian Bandy headquarters is in Winnipeg, and it never wins Russia in their own game.
@@ -1650,7 +1666,6 @@
 1. Coworkers value three things: *C*ompetence, *C*haracter, and *C*onsistency.
 1. The *Guinea Worm* is a parasite that only infects humans. It enters through the digestive system, and reproduces by crawling out of the victim's foot. It will most likely be the first parasite to ever be eradicated.
 1. One day your mother put you down and never picked you up again.
-1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
 1. Every girl loves to eat and travel. Every girl loves family and friends and, sometimes "loves" good scotch or whiskey.
 1. [POST/Redirect/GET][wikipedia 16]: by returning a 30x response in your POST, the user will be forced to GET a different page, which means the user will not be able to POST to the same page again.
 1. Caps at the ends of bike handles are supposed to prevent them from making a human sausages when it hits any part of the body.
@@ -1776,7 +1791,7 @@
 1. Samsung comprises of 17% of its nation's GDP and they are absolute rulers. Samsung employees have to live in company built high-rise buildings within a boundary. You'd think free housing is awesome right? Wrong. Since you live in a company monitored neighbourhood and go to work pretty much next door. You have to apply for permission to leave. An employee killed herself a couple years ago because she wasn't allowed to leave and hadn't seen her parents for years.
 1. Given the high quality and low overall cost of [YKK zippers][slate], clothing companies use that brand because it is among the last things they choose to skimp out.
 1. [Chorioactis][wikipedia 52] is a genus of fungus that is bizzarely found only in Texas and Japan.
-1. The smallest muscle in your body, found in the middle ear, dampens the sound of your own voice when you speak. Recordings of your voice sound odd because the stapedius muscle isn't functioning then. (Also: bone vibrations)   
+1. The smallest muscle in your body, found in the middle ear, dampens the sound of your own voice when you speak. Recordings of your voice sound odd because the stapedius muscle isn't functioning then. (Also: bone vibrations)
 1. [RF chokes][google 2] are rings of (sometimes magnets, sometimes other metals) around a cable that dampens high frequency radiation, allowing the cable to carry actual signals with less noise.
 1. The original Jurassic park scene with the T-Rex occurred while raining because [it was much easier at the time to CG shiny objects than matte objects][reddit 19].
 1. Both God and Devil are each one letter away from their respective descriptor.
@@ -1908,7 +1923,7 @@
 1. "Sitrep" stands for "situation report".
 1. "Bespoke" means "custom made".
 1. "Inner-platform effect" refers to software becoming so flexible that its structure becomes its parent programming language/platform.
-1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time. 
+1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time.
 1. Kombucha is fermented tea. Although kombucha is claimed to have several beneficial effects on health, the claims are not supported by scientific evidence.
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Scottish bank notes are in fact promissory notes, and are worth nothing like GBP in value.
@@ -1967,7 +1982,6 @@
 1. [Crows (meaning Corvus, not just the crows with the common name “crow”) pull tails.][tumblr 2]  It's like they can't help themselves.
 1. [Not supporting unicode in your app can cost lives][ldc]
 1. "Nemo" means "nobody" in Latin.
-1. Steller's jay is Alberta's bird.
 1. s,p,d, and f stand for sharp, principal, diffuse, and fundamental.
 1. Clay bar exposes paint to the elements. It is necessary to clay bar something only if it cannot be polished.
 1. The name "Pineapple" was first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
@@ -2266,7 +2280,7 @@
 1. DDR4 RAM is not backwards compatible with DDR3 slots.
 1. "Baguettes" can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 1. Charisma is essentially the ability to tell good stories.
-1. "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa 
+1. "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa
 1. Quirrell stuttered because he was tormented by the back of his head.
 1. [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 1. Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
@@ -2283,7 +2297,6 @@
 1. The [clothespin](https://en.wikipedia.org/wiki/Clothespin) was invented in Vermont.
 1. [Thailand hand-peels shrimps.](https://www.washingtonpost.com/news/wonk/wp/2015/12/15/the-shocking-truth-about-shrimp-today/)
 1. To... kill an unconscious person, [cover their nose with one of their hands' webbing, then apply pressure to it by having them lie face down](https://www.reddit.com/r/me_irl/comments/4hu8ih/me_irl/d2siwsx).
-1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.
 1. It is very hard to [get up from lying down while holding something](https://www.youtube.com/watch?v=GdAXt7YyGe0), empirically speaking.
 1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
 1. For a single ball-picking event involving 5 balls, 3 green and 2 blue, the *probability* of picking a green ball is 3/5 = 60%; [the *odds*](http://mathforum.org/library/drmath/view/56706.html) of picking a green ball is (3:2), which is not 60%. An odds of 150% [might make sense](http://www.miniwebtool.com/ratio-to-percentage-calculator/?numerator=3&denominator=2), [depending on who you ask](https://en.wikipedia.org/wiki/Odds#Mathematical_relations).
@@ -2321,7 +2334,7 @@
 1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.wikipedia.org/wiki/Peto%27s_paradox).
 1. It takes just ~5 minutes of downtime per year to kill a [99.999%](http://uptime.is/99.999) uptime guarantee. Other common guarantees: [~52 minutes for 99.99%](http://uptime.is/99.99), [~9 hours for 99.9%](http://uptime.is/99.9), [~3 days for 99%](http://uptime.is/99).
 1. A bowl of oatmeal a day could be the secret to a longer and healthier life, say scientists.
-1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats. 
+1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats.
 1. [Human mothers also nest](https://en.wikipedia.org/wiki/Nesting_instinct); during the period, they clean the house a lot.
 1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
 1. There is a global unified postal service body called the [Universal Postal Union](https://en.wikipedia.org/wiki/Universal_Postal_Union). The Union creates a framework and standards so that ALL countries can exchange mail freely without forming individual contracts with every other country. - [source](https://www.reddit.com/r/explainlikeimfive/comments/4o4t7z/-/d49oo7a)
@@ -2508,8 +2521,6 @@
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. Capers are their flower buds. The smaller the size, the more desirable.
 1. There is an actual term for microwaved food not tasting as good: ["warmed-over flavour"](https://en.wikipedia.org/wiki/Warmed-over_flavor). It is caused by fats being broken down into less flavourful aldehydes and ketones.
-1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
-1. When you *lost* control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
 1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.
 1. Despite her being the central plot line, Dolores Abernathy did not appear once in S01E06 of Westworld.
 1. In the world of automotive repairs, "economy part" means the part is meant for cars that are to be sold shortly. "premium part" is something you would get for any other kind of car.

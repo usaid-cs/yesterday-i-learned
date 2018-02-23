@@ -1,3 +1,7 @@
+1. Alcohol consumption easily lowers [long-term ability to plan, think, and make judgments](https://en.wikipedia.org/wiki/Alcohol-related_dementia).
+1. Don't give aspirin to children, says [this page](https://www1.shoppersdrugmart.ca/en/health-and-pharmacy/conditions/reyes-syndrome/111).
+1. 冬菇 is just a high-grade form of [shiitake mushroom](https://en.wikipedia.org/wiki/Shiitake), *Lentinula edodes*.
+1. The [Bobbit worm](https://en.wikipedia.org/wiki/Eunice_aphroditois) was so named because, at the time, a [Lorena Bobbitt](https://en.wikipedia.org/wiki/John_and_Lorena_Bobbitt) cut her husband's dick off. In contrast, the bobbit worm does not cut her husband's dick off.
 1. The mother and baby [share stem cells](https://www.reddit.com/comments/4javmv).
 1. [Wild animals chew off the umbilical cord.](http://mentalfloss.com/article/64416/do-other-animals-have-belly-buttons) A question, then, is: why do mothers know to chew the cord off?
 1. [Wild animals eat the placenta](https://en.wikipedia.org/wiki/Placentophagy). So, how do herbivores digest the placenta?
@@ -413,7 +417,7 @@
 1. There are over 90 Chickpea genotypes. [The peas come in one-pea pods.](https://en.wikipedia.org/wiki/Chickpea)
 1. [Pea crabs](http://gardenandgun.com/articles/southern-secret-the-pea-crab/) used to be eaten with the mussels they grow in.
 1. The solid core in some zits can also be bacteria and white blood cells.
-1. [Starfish have no blood; filtered sea water circulates instead](http://animals.nationalgeographic.com/animals/invertebrates/starfish/). 
+1. [Starfish have no blood; filtered sea water circulates instead](http://animals.nationalgeographic.com/animals/invertebrates/starfish/).
 1. Corn occasionally get infected with a [fungus](https://en.wikipedia.org/wiki/Corn_smut) that Mexicans consider a delicacy. It's a mushroom, so it may well be.
 1. Jelly[fish] are 95~98% water, very close to being cucumbers. Jelly[fish] is because it can hold a considerable amount of water without disintegrating, which probably means it can help with weight loss.
 1. Jelly[fish] do have nerves. However, they appear in swarms simply because they grow up close to each other.

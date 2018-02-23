@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. When you *lost* control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
 1. This guy on reddit [said](https://www.reddit.com/r/Justrolledintotheshop/comments/51ld5r/you_mean_i_have_to_change_fluids_and_filters/d7cu0gf) that it is worth the money to upgrade the engine air filter to a higher grade one that blocks finer dust, despite google showing nothing about it.
 1. Power steering noise came from low fluid levels, or, rather, [air in the pump caused by low fluid levels](https://www.youtube.com/watch?v=ZiLKvFDTi78). Checking for leaks requires a pump; if a leak exists, pressure will promptly return to normal once applied. [1](http://www.wikihow.com/Flush-Power-Steering-Fluid)
 1. Winter tires [do worse than summer tires](http://www.autofocus.ca/news-events/news/winter-tires-in-summer-5-reasons-it-s-a-bad-idea) in the summer in stop tests, grip and handling tests, fuel economy, and tire wear itself. [All-season tires are just rubbish at everything.](https://www.thestar.com/autos/2015/10/31/all-weather-tires-vs-winter-tires-whats-the-difference.html)

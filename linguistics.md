@@ -1,3 +1,5 @@
+1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
+1. *Des bois* means "of the woods" instead of "of drinking".
 1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.
 1. The correct way to write the degoratory term for Pakistanis is [巴基躝癱](https://zh.wikipedia.org/wiki/%E8%BA%9D%E7%99%B1) ("有香港人將這個俚語與巴基斯坦組合，變成「巴基躝癱」，用作取笑居港的巴基斯坦人，以至所有巴基斯坦籍人士。該俚語帶有嚴重侮辱及種族歧視的成份，情況與香港人叫印度人做「阿差」差不多")
 1. Most alphabet systems get their order from [the Phoenician alphabet](http://mentalfloss.com/article/29011/why-are-letters-abc-order), at around [1050 BC](https://en.wikipedia.org/wiki/Phoenician_alphabet).
@@ -113,8 +115,8 @@
     Llan fair pwll gwyn gyll goger y chwyrn drobwll llan ty silio gogo goch
 
 1. The same country that gave us that also gave us "Marlborough" as "moll-bruh".
-1. The en in Willkommen is completely silent. 
-1. Also, Festhallen is not the festival halls. It's just Festival (or celebration). 
+1. The en in Willkommen is completely silent.
+1. Also, Festhallen is not the festival halls. It's just Festival (or celebration).
 1. *Removal* can mean moving furniture. "Removal men" are the moving men.
 1. [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism) refers to comedic switches in the first syllables of two or more words, like "belly jeans".
 1. *Buggery* means anal intercourse. "He will be *Buggered*" means that he will be sodomised.
