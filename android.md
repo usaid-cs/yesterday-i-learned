@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. [Samsung phones (article: Galaxy S8) lose 20% battery capacity when rooted](https://www.xda-developers.com/sampwnd-root-galaxy-s8-snapdragon/) because Samsung really hates you, your life choices, and making money off you.
 1. Inputs can be emulated with [`input tap x y` and `input swipe x1 y1 x2 y2`](https://forum.xda-developers.com/u/tasker-tips-tricks/best-run-shell-commands-tasker-t3419204)
 1. Screen off gestures not working might be MinMinGuard's fault. To fix, wipe your Dalvik/ART cache, and not ironically.
 1. `pkill -l19 com.xiaomi.hm.health  # SIGSTOP that damn background process`
@@ -51,8 +52,8 @@
 1. "userdebug" seen in Android's build string apparently means something. ["No root because it's a 'user' build, which is what manufacturers ship. 'userdebug' builds which contain root also contain debugging tools and other things that some users might consider to be bugs."](https://www.reddit.com/r/oneplus/comments/3sre4p/exodus_511_nightlies_vs_60_sultans_rom/cx07d0u)
 1. ["You may already know that every app/process in Android is assigned an oom_adj value, which indicates the likelihood of it being killed when an out of memory (OOM) situation occurs. More higher it's value, the higher likelihood of it getting killed. Valid range is -17 to +15. (if in the -17 range means it won't get killed)."](http://forum.xda-developers.com/showthread.php?t=2751559)
 1. [Android N will have *two* system partitions](https://en.wikipedia.org/wiki/Android_Nougat#Development_platform), one online and one offline. The online one will push updates to the offline one, and they switch once the offline one is updated.
-1. Mounting android's system as rw: `mount -o rw,remount,rw /system` (the second `rw` might not be required; "I always used this command because it never failed for me")
-1. Mounting android's system as ro: `mount -o ro,remount,ro /system` (I know right)
+1. Mounting android's system as rw: `mount -o remount,rw /system`
+1. Mounting android's system as ro: `mount -o remount,ro /system` (I know right)
 1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
 1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.
 

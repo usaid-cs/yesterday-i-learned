@@ -1,5 +1,22 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Heating honey changes the flavour. Forever.
+1. [Singapore is second in the world for losing money gambling per capita.](https://i.redd.it/iaxg9g4ryfi01.jpg)
+1. [Rochester NY *had* a subway system.](https://en.wikipedia.org/wiki/Rochester_Subway) A rare example of [decommissioning an entire subway system.](https://en.wikipedia.org/wiki/Category:Abandoned_rapid_transit_stations)
+1. Voyager I is analogue. It takes pictures like a fax machine, and sends them back like a radio.
+1. Up to the 1650s, [people already had a fairly good idea how far the sun is](https://en.wikipedia.org/wiki/Astronomical_unit#History) (2% error).
+1. A [vice](https://en.wikipedia.org/wiki/Vice) is a bad habit [or](https://en.wikipedia.org/wiki/Vise) a clamp.
+1. Buy [laptops by repairability](https://www.ifixit.com/laptop-repairability).
+1. English and Spanish pronounce *gigabyte* with hard Gs, while Italian and Portuguese have soft first G, followed by a hard second G.
+1. If a smartphone screen costs $150 on eBay, seriously check if it's cheaper to repair by the manufacturer.
+1. 666 (溜溜溜) means “smooth, oddly satisfying” among adolescent Chinese youth.
+1. The "Rocher" in [Ferrero rocher](https://en.wikipedia.org/wiki/Ferrero_Rocher) means "boulder".
+1. Don't put a swimming pool at the top of a high-rise building. Water will spill out when the building naturally sways in strong winds.
+1. [Time machines in the movie Primer are anchored around when they are started.](https://www.reddit.com/r/Primer/comments/71l5hc/onetime_use_only_a_definition_please_review/) If you start the machine at time A, you can only exit at either time A, or time B (whenever you entered it, plus however long you stay in there for, which is literally no time travelling). The *failsafe machine* has been on since the beginning, so the main characters could travel back to the beginning, and [gas/fight their former selves](https://www.reddit.com/r/Primer/comments/7uymoz/i_think_abe_might_have_accidentally_killed_himself/), to assume their previous lives.
+1. A [hydraulic ram](https://en.wikipedia.org/wiki/Hydraulic_ram) delivers water to higher ground by screwing around with [an air reservoir](https://www.youtube.com/watch?v=Zk9zs0EQIQ8) that acts on valves that close on them. For hydraulic rams to work, they must have a way to depressurise outside the air valve.
+1. [Keep Calm and Carry On](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On) posters are supposed to be reserved for serious air raids.
+1. "A sign of weakness is trembling of the upper lip, hence (one who has a [stiff upper lip](https://en.wikipedia.org/wiki/Stiff_upper_lip) displays fortitude in the face of adversity, or exercises great self-restraint in the expression of emotion.)
+1. The signature on the back of a credit card is meant to be [used by merchants](https://www.nerdwallet.com/blog/credit-cards/unsafe-sign-credit-card/) to verify your signature against the card's signature when you use *the magnetic reader*.
 1. [VGA cables have no imposed bandwidth limits](https://en.wikipedia.org/wiki/VGA_connector#Cable_quality) and can display however high resolution supported by the cable. Usually stops at 2048x1536.
 1. The motto of [麥兜](https://upload.wikimedia.org/wikipedia/commons/0/02/AoS_McDull_statue.JPG)'s primary school is 作育英才.
 1. The kettle is not black. The pot is seeing itself in the kettle's reflection, which is black.
@@ -2148,7 +2165,7 @@
 1. There exists a [GeoJSON spec][geojson], which is not quite what [GeoDjango][djangoproject] uses; use [GeoJSONLint][geojsonlint] to find out more.
 1. Snowflakes can in fact [be alike][nytimes]; the major factor is air turbulence, which can be controlled.
 1. During prohibition, ["Go ugly early"][urbandictionary 3] was a phrase used by [Harry's Chocolate Shop][harryschocolateshop], a Bar in West Lafayette, IN which called itself a chocolate shop to avoid being known as a bar. Their slogan "Go Ugly Early" was the opposite of its real meaning "come pretty late".
-1. [You can microwave quinoa like oatmeal][reddit 52]
+1. [You can microwave quinoa like oatmeal][reddit 52] but [you can't microwave rice and beat the rice cooker in both quality and time](http://www.mennonitegirlscancook.ca/2017/05/microwave-rice.html)
 1. "500cals * 7 = 3500cals = 1lb of fat" - Winona
 1. "Kraft" happens to be the German noun for "strength". That said, [Kraft Foods](https://en.wikipedia.org/wiki/Kraft_Foods_Inc) has nothing to do with it; it was just James Kraft's name. And James Kraft patented processed cheese.
 1. The bauhinia, [Bauhinia × blakeana][wikipedia 166], is sterile. Someone has been planting it everywhere.
@@ -2182,7 +2199,7 @@
 1. No useful advice ever precedes "it's that simple".
 1. Born in San Francisco, and married a white woman from California, not only was Bruce Lee bilingual, he also knew some Japanese, and had neat handwriting for all languages.
 1. Sun Yat-Sen knew English and Japanese as well. He was the number one med school student in Hong Kong. He died of liver cancer.
-1. A [milliard][wikipedia 179] is exactly one thousand times bigger than what you would expect, a million.
+1. A [milliard][wikipedia 179] is exactly one thousand times bigger than what you would expect, a million. The same country that gave us the metric system also calls a thousand *mille*, a million *million*, and a billion *milliard*.
 1. Mushrooms are 90%+ water by volume. Besides Vitamin B (and D, if grown in the sun), there is no significant value in consuming them.
 1. Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.
 1. A "noose" is the way the rope is tied when you try to hang yourself.

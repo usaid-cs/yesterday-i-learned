@@ -1,3 +1,5 @@
+1. Both the French and Dutch pronunciations for the Belgian [Waterloo](https://en.wikipedia.org/wiki/Waterloo,_Belgium) consist of an open A.
+1. *Je repars à zéro* means "I restart at zero". *Je repas à zéro* probably means "I have a meal at zero".
 1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
 1. *Des bois* means "of the woods" instead of "of drinking".
 1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.

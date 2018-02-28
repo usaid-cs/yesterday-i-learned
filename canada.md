@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. From 1944 to 2001, [Captain Morgan](https://en.wikipedia.org/wiki/Captain_Morgan) was a Canadian company. The two had no relation with each other (since he died in 1688). It then got sold to Diageo in England.
 1. [It costs money to ask Canada Post to forward your mail](https://www.canadapost.ca/web/en/products/details.page?article=forward_your_mail_wh&ecid=display|ddn|ml|225).
 1. Calling [112](https://en.wikipedia.org/wiki/112_%28emergency_telephone_number%29) in Canada automatically redirects it to 911.
 1. Since UK forces do not enlist women, the first woman to lead the Queen's Guard [was a Canadian](http://www.macleans.ca/news/canada/why-a-canadian-soldier-led-the-queens-guard/). The Queen's Guard is a real regiment of soldiers with [dope ass-guns and hat straps that go over their chins instead of under](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.funkidslive.com%2Fwp-content%2Fuploads%2F2015%2F08%2FQueensGuard.jpg&f=1).

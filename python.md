@@ -389,6 +389,12 @@ bar
 1. Just use [`sys.version_info >= (3, 0)`](http://sweetme.at/2013/10/21/how-to-detect-python-2-vs-3-in-your-python-script/) to check if you are running python3, but some `basestring NameError` business.
 1. Unlike JS, python does not have "dict unpacking", i.e. `{foo, bar} = {'foo': 1, 'bar': 2}`. You *can* write `foo, bar = {'foo': 1, 'bar': 2}`, but the result is random from an unsorted dict.
 1. [Running synchronous tasks in celery is not recommended](http://docs.celeryproject.org/en/latest/userguide/tasks.html#task-synchronous-subtasks) (i.e. `.get()` in a `@task`)
+1. Alembic uses the `env.py` that you generated with `init` to detect models. This file must import all the models that you want to manage.
+1. Django ORM is considered "active record" (i.e. each row is an object), whereas SQLAlchemy is a "data mapper" (i.e. objects and rows don't necessarily map one to one). This forces many things to be manually configured in SQLAlchemy, for better or for worse.
+1. In a declaration like [`parent = relationship("Parent", back_populates="child")`](http://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html#one-to-one), there needs to be a matching class `Parent` and an attribute called `child`. ["When the `backref` keyword is used on a single relationship, it’s exactly the same as if the above two relationships were created individually using `back_populates` on each."](http://docs.sqlalchemy.org/en/latest/orm/backref.html)
+1. Flask SQLAlchemy creates only one `db.session`  that you can commit at any time.
+1. In a SQLAlchemy column definition, [there is no difference between an `Integer` and an `Integer()` instance.](http://docs.sqlalchemy.org/en/latest/core/type_basics.html)
+1. Understand flask ["blueprints"](http://flask.pocoo.org/docs/0.12/blueprints/) as traits that are common across some of your views, like templates or url prefixes.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
