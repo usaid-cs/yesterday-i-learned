@@ -35,6 +35,14 @@ Well, now you need `--depth=999` (or even more).
 
 Use single quotes (`git commit -am 'Nailed it!'`) to leave a commit message with an exclamation mark.
 
+#### I want to commit with the diff in the message instead of the commit itself
+
+Good news! You can totally [pass anything into the git commit message](https://stackoverflow.com/a/9733872/1558430)!
+
+[Example](https://github.com/1337/yesterday-i-learned/commit/09f02662fda68a3b79c6513069c20c53ed7e3132)
+
+So you can probably do a `git diff | git commit --allow-empty -F -` to commit with the message as the diff.
+
 #### I committed to the wrong branch
 
 **If you haven't pushed the branch to remote yet**:
