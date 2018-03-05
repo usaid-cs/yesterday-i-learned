@@ -1,5 +1,29 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Laminated glass is glass on both sides with plastic inside, rather than plastic on either or both sides with glass in between. So maybe it should be called [glass reenforced plastic](https://en.wikipedia.org/wiki/Fiberglass) instead? Make sure you let me know in the comment section down below! Drop a like and don't forget to subscribe!
+1. 2 out of 3 American homes have pets.
+1. "In general, if an object is immutable, it doesn't make sense to have multiple copies of it." - Raymond
+1. Loopers are called loopers because they eventually kill their older selves, closing the loop. It remains unclear why loopers need to kill their own selves rather than letting loopers kill each others' older selves, or, why they even sent loopers back in time with the silver/gold in the first place.
+1. *Mancunian* means "from Manchester".
+1. ["suh dude"](http://knowyourmeme.com/memes/suh-dude) just means "what's up dude".
+1. The Decimal data structure [appears](http://speleotrove.com/decimal/damodel.html) to be stored as `(sign)(coefficient) * 10^(exponent)`. Compared to `double`s, [Decimal trades off the maximum number size for greater accuracy](https://stackoverflow.com/questions/1165761/decimal-vs-double-which-one-should-i-use-and-when#1165788) (1e30 vs 1e300).
+1. The Donald donates [40 times less money per unit income than its country's citizens](https://www.youtube.com/watch?v=1XHEDf8hPMQ). He says he neither drinks nor uses a computer.
+1. The average American (male or otherwise) weighs almost 200lbs.
+1. [If you take pictures, you're just asking to be robbed.](https://wikihow.com/Avoid-Being-Mugged)
+1. London airports: London City (east) Heathrow (west), Gatwick (south), Stansted (northeast), Luton (northwest). You rarely get London City airport flights because its runway(s) are too narrow for wide-body planes.
+1. [Arjun MK II](https://en.wikipedia.org/wiki/Arjun_(tank)#Arjun_Mk_II), India's new tank, is the third generation tank.
+1. The [Yanomami Tribe](https://en.wikipedia.org/wiki/Yanomami) in the Amazon rainforest are sometimes said (i.e. with no citation whatsoever) to greet each other by farting.
+1. [North Korea has free education, free healthcare, and no taxes!](https://www.youtube.com/watch?v=xMGZxvKzPNo)
+1. The [Novikov self-consistency principle](https://en.wikipedia.org/wiki/Novikov_self-consistency_principle) states... that if some form of time travel causes a paradox, then it never happens.
+1. Beer brewed in accordance to the [Bavarian Purity Law](https://en.wikipedia.org/wiki/Reinheitsgebot) cannot contain wheat (wheat is to be kept cheap for bakers to make bread). So the [Hacker-Pschorr Weisse](https://www.beeradvocate.com/beer/profile/76/772/) is bullshit.
+1. Objects in Tatooine should have two shadows (from having two suns), but had just one due to director oversight.
+1. The Coastline Paradox observes that the length of a coastline increases as the resolution of your measurement increases. You get a longer coastline every time you measure with a shorter "ruler". The true length of coastlines cannot be determined because a) you are talking about measuring molecules, and b) coastlines change.
+1. The "full size SIM card" is known as 1FF, i.e. the card that your SIM card comes with.
+1. Statistically, [slightly more than one person dies everyday from a US mass shooting](https://gfycat.com/PartialThunderousHerculesbeetle) 2014 to 2018. So, assuming everyone lives to 80 years, your chances of dying from a mass shooting in the US is *only* 0.01%!
+1. There is no English Wikipedia page for "蠔豉".
+1. [Some/many bike rental companies don't penalise people for leaving their bikes at stupid places](https://www.theguardian.com/commentisfree/2018/feb/27/pavements-pedestrians-cyclists-walkers-hire-bikes). This is a big problem creating waste.
+1. [Sea level at a given location is influenced by mountains](https://www.youtube.com/watch?v=q65O3qA0-n4
+) (massive mountains have enough gravity to attract water), so the sea level there is adjusted according to the gravitational pull of the mountain, but as if the mountain were not there.
 1. Heating honey changes the flavour. Forever.
 1. [Singapore is second in the world for losing money gambling per capita.](https://i.redd.it/iaxg9g4ryfi01.jpg)
 1. [Rochester NY *had* a subway system.](https://en.wikipedia.org/wiki/Rochester_Subway) A rare example of [decommissioning an entire subway system.](https://en.wikipedia.org/wiki/Category:Abandoned_rapid_transit_stations)

@@ -65,6 +65,7 @@
 [`LIKE '%s'`](https://www.w3schools.com/sql/sql_like.asp) means "ending with s". It is not a string substitution marker. To find in any position, use `LIKE '%s%'`. To find starting with something, use `LIKE 's%'`.
 * `ORDER BY 1, 2` would order by column 1, then column 2.
 * [`-Infinity`](https://stackoverflow.com/questions/19686635/earliest-timestamp-supported-in-postgresql) is a valid timestamp.
+* You can find your config files by just running [`SHOW config_file;`](https://stackoverflow.com/a/3603162/1558430)
 
 ## Performance
 

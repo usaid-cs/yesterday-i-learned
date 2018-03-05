@@ -1,3 +1,4 @@
+1. [*I grec*](https://en.wikipedia.org/wiki/Y) means "The Greek I". Lots of languages call Y the Greek I.
 1. Both the French and Dutch pronunciations for the Belgian [Waterloo](https://en.wikipedia.org/wiki/Waterloo,_Belgium) consist of an open A.
 1. *Je repars à zéro* means "I restart at zero". *Je repas à zéro* probably means "I have a meal at zero".
 1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.

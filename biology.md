@@ -1,3 +1,5 @@
+1. Once you take [Finasteride](https://en.wikipedia.org/wiki/Finasteride) (the hair loss pill), you take it for life.
+1. Agave plants are [HUGE](https://davesgarden.com/guides/pf/showimage/69728/).
 1. [Cartilaginous fishes](https://en.wikipedia.org/wiki/Chondrichthyes) don't have bones. They produce blood cells from the spleen and the epigonal organ (something around a fish's equivalent of balls).
 1. There is a cute shark called the [lemon shark](https://en.wikipedia.org/wiki/Lemon_shark). Apart from a slight yellow tint on the skin, it looks like a shark.
 1. Alcohol consumption easily lowers [long-term ability to plan, think, and make judgments](https://en.wikipedia.org/wiki/Alcohol-related_dementia).
