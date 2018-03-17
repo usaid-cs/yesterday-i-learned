@@ -1,3 +1,13 @@
+1. > One of [these spiders](https://en.wikipedia.org/wiki/Amaurobius_ferox) [that let their kids eat them] is Stegodyphus lineatus, found in the Mediterranean and Middle East. Once a female's 80 or so eggs hatch, she stops tending her web and eating, and devotes all her time to feeding her newborns. She pukes up a fluid made from what's left of her last few meals and some of her own guts, which started breaking down while she guarded the eggs and built up as liquefied tissue in her abdomen. As the days go on and the spiderlings eat, mom's innards continue to liquefy, and more of her guts and other organs like the ovaries dissolve as they become expendable. A little less than half of her body mass gets turned into food like this. After two weeks, mom has fed the children what she can and the well runs dry. The spiderlings then pierce her abdomen with their mouthparts and drain her of the rest of her body fluids. They'll spend another two weeks at the nest with mom's empty exoskeleton before going their own way.
+1. [Dragonflies grow bigger if they live in more oxygenated air](https://asunow.asu.edu/content/big-insects-provide-big-answers-about-oxygen) (they were huge). Cockroaches, however, do not.
+1. [Pigs start growing tusks the moment they go feral.](https://www.reddit.com/r/explainlikeimfive/comments/2v6jvg/eli5_why_do_pigs_go_through_a_big_transformation/)
+1. [Mosquitoes can separate water from blood while still sucking to free up space.](https://youtu.be/rD8SmacBUcU)
+1. Pacific salmon and Atlantic salmon are in two completely different genera.
+1. Sitting weakens back muscles: ["Ask the average American adult to sit cross legged with good posture and it will wear them out rapidly, those muscles never get used."](https://www.reddit.com/r/Fitness/comments/836hif/why_is_sitting_unhealthy/dvffz07/)
+1. Random visual distortions can come out of nowhere. This is called an [ocular migraine](http://www.allaboutvision.com/conditions/ocular-migraine.htm). Stop driving.
+1. Lobsters' [V-notches](http://www.eregulations.com/massachusetts/fishing/saltwater/v-notching-regulations/), put in by fishermen to indicate a lobster mamma with baby lobsters in her tummy, go away after around two molts. It is usually illegal to sell a lobster like that, or obscure the V notch in order to bypass that law.
+1. [Gower's sign](https://en.wikipedia.org/wiki/Gowers%27_sign)... having to get up with your hands is a sign that your legs don't work well.
+1. The [pom pom crab](https://en.wikipedia.org/wiki/Lybia_edmondsoni) has [pom poms](https://en.wikipedia.org/wiki/Pom-pom) (cheerleading apparatus) for claws. The pom poms are actually sea anemones.
 1. Once you take [Finasteride](https://en.wikipedia.org/wiki/Finasteride) (the hair loss pill), you take it for life.
 1. Agave plants are [HUGE](https://davesgarden.com/guides/pf/showimage/69728/).
 1. [Cartilaginous fishes](https://en.wikipedia.org/wiki/Chondrichthyes) don't have bones. They produce blood cells from the spleen and the epigonal organ (something around a fish's equivalent of balls).
@@ -121,13 +131,13 @@
 1. [Retinol (vitamin A) weakens bones.](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/calcium-and-milk/) (mechanism unknown) Beta-carotene is fine.
 1. Fish oil goes bad when exposed to air and light because it is an oil, and [oils go rancid](http://www.cbc.ca/beta/news/health/marketplace-fish-oil-omega-3-benefits-safety-1.3326587).
 1. [Apple snail eggs](https://en.wikipedia.org/wiki/Ampullariidae) are **not** palatable.
-1. [People who drank about three or more alcoholic drinks per day also had the strokes almost a decade and a half before those who didn’t drink quite as much.](https://www.webmd.com/stroke/news/20120910/heavy-drinkers-greater-risk-stroke)
+1. [People who drank about three or more alcoholic drinks per day also had the strokes almost a decade and a half before those who didn't drink quite as much.](https://www.webmd.com/stroke/news/20120910/heavy-drinkers-greater-risk-stroke)
 1. Sea lions can walk on land. Seals, on the other hand, have their tailbones fused, so they must bounce like a balloon.
 1. The Peregrine falcon can dive at 312km/h. It is also called the duck hawk because it hunts ducks.
 1. Muscles atrophy quicker with age.
 1. The side effects of going to space for an extended amount of time includes [not having any doctors to treat your weird symptoms](http://www.theage.com.au/good-weekend/astronaut-scott-kelly-on-the-devastating-effects-of-a-year-in-space-20170922-gyn9iw.html).
 1. Plantar warts can be nasty and can take months to disengage. [See here.](https://www.youtube.com/watch?v=_qWNJOc2wIM)
-1. Spinach and coffee are high in oxalates. But did you know soy beans also are? [Once you’ve had one kidney stone, you’re 50 percent more likely to get another within the next 10 years.](https://www.healthline.com/health/kidney-health/how-to-prevent-kidney-stones)
+1. Spinach and coffee are high in oxalates. But did you know soy beans also are? [Once you've had one kidney stone, you're 50 percent more likely to get another within the next 10 years.](https://www.healthline.com/health/kidney-health/how-to-prevent-kidney-stones)
 1. Antibodies against S. cerevisiae are found in 60–70% of patients with Crohn's disease.
 1. [Ketogenic folks live 10 years longer.](http://www.cell.com/cell-metabolism/fulltext/S1550-4131%2817%2930562-4#.WeA77GhVXhk.reddit)
 1. Hair, skin, nails... all keratin.
@@ -311,7 +321,7 @@
 1. [Fun fact](https://www.reddit.com/r/todayilearned/comments/59bonw/til_an_owls_eyes_are_so_well_developed_they_are/d97fv4j/): you can see an owl's eyeball [by looking into its ear](https://i.imgur.com/PVCLwiP.jpg). And [another](https://whyevolutionistrue.files.wordpress.com/2013/06/pb140038.jpg).
 1. [Hippos are red due to an insect repelling sunscreen they secrete from their skin](http://www.reddit.com/r/todayilearned/comments/57if43/_/)
 1. The [red cornetfish](http://i.imgur.com/WTWQjjZ.jpg) can reach 2m in length.
-1. Prawns have [three pairs of claws](http://i.stack.imgur.com/GyirW.jpg). Shrimp have two pairs.
+1. Prawns have [three pairs of claws](http://i.stack.imgur.com/GyirW.jpg). Shrimp have two pairs. [Neither are scientific terms](https://en.wikipedia.org/wiki/Shrimp#Shrimp_versus_prawn), and have no definite reference to any taxonomic group.
 1. [Hair greying](https://www.newscientist.com/article/mg20227135-000-grey-hair-may-be-protecting-us-from-cancer/) is caused by hydrogen peroxide build-up in the follicles. Reduction in methionine intake is linked to this buildup.
 1. Rabies patients are to fear water so they swallow less spit and bite more, for the purpose of transmission.
 1. [Beetle shells are wings.](https://www.quora.com/Why-do-some-insects-have-2-pairs-of-wings-and-some-have-only-one-pair-What-are-the-pros-and-cons-of-having-2-pairs-versus-1-pair) *Coleoptera* (sheath wings) have the first pair of wings, now a shell, covering the second.

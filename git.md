@@ -99,6 +99,8 @@ git push origin :refs/tags/12345
 #### Checking out a tag
 `git checkout tags/{tag name}`
 
+#### No idea if I pushed a tag or not
+Due to the unique way git is funded, the command is `git ls-remote --tags origin` rather than `git tag -r`.
 
 ### Blaming people
 

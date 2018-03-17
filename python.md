@@ -395,6 +395,11 @@ bar
 1. Flask SQLAlchemy creates only one `db.session`  that you can commit at any time.
 1. In a SQLAlchemy column definition, [there is no difference between an `Integer` and an `Integer()` instance.](http://docs.sqlalchemy.org/en/latest/core/type_basics.html)
 1. Understand flask ["blueprints"](http://flask.pocoo.org/docs/0.12/blueprints/) as traits that are common across some of your views, like templates or url prefixes.
+1. Every return value of `float(a: float)` is just `a`, the same float object.
+1. [You cannot `partial` a class'es method from inside the class.](https://stackoverflow.com/questions/16626789/functools-partial-on-class-method) At least you cannot do that [without a stub](https://gist.github.com/carymrobbins/8940382), or until python 3.4's `partialmethod()` is introduced.
+1. [Number range filters like `df[10 < df.column < 20]` does not work in pandas.](https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas#31617974) You *need* to do a double condition like `df[(10 < df.column) & (df.column < 20)]`.
+1. To pick multiple columns off a dataframe, you can't do `df['a', 'b', 'c']` because that's intuitive and pythonic. You [need](https://stackoverflow.com/a/48584948/1558430) to do `df[['a', 'b', 'c']]` instead...
+1. Importing `matplotlib.pyplot` as `plt` is [a standard convention](https://pandas.pydata.org/pandas-docs/stable/visualization.html).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

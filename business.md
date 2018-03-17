@@ -91,6 +91,7 @@ Further reading: [0001.md](sources/0001.md)
 * "Buy low sell high" is great, but [do not let world events affect your investing decisions](http://www.cnbc.com/2014/03/03/warren-buffetts-5-key-investing-donts.html). During e.g. a war, stocks continue to go up. It is more worthwhile to hold onto securities (assets) than cash.
 * In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months." [Coca-cola](https://finance.yahoo.com/quote/KO/) is almost cyclical in that you would have never lost money if you buy in August and sell in January.
 * A "buy" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a buy when a stock dips below a certain price.
+* Inflation favours banks (somehow). So, buy bank stocks when [the idiot](https://forwardprogressives.com/wp-content/uploads/2017/07/trump-idiot-1.jpg) does anything that encourages inflation.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 

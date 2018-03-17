@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. OnePlus 2 and 3 had the lamest codenames in the series: bacon (1), onyx (X), *oneplus2* (2), *oneplus3* (3/3T), cheeseburger (5), dumpling (5T).
 1. [Samsung phones (article: Galaxy S8) lose 20% battery capacity when rooted](https://www.xda-developers.com/sampwnd-root-galaxy-s8-snapdragon/) because Samsung really hates you, your life choices, and making money off you.
 1. Inputs can be emulated with [`input tap x y` and `input swipe x1 y1 x2 y2`](https://forum.xda-developers.com/u/tasker-tips-tricks/best-run-shell-commands-tasker-t3419204)
 1. Screen off gestures not working might be MinMinGuard's fault. To fix, wipe your Dalvik/ART cache, and not ironically.

@@ -1,5 +1,41 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. "ASIC-resistant" just means "needs lots of RAM".
+1. "Merci" is/was the 85th most common word in French.
+1. Both the [six-continent and seven-continent models of the Earth](https://en.wikipedia.org/wiki/Continent) list Tel Aviv as being in Asia.
+1. [Alfred Nobel](https://en.wikipedia.org/wiki/Alfred_Nobel#Life_and_career) made the Nobel Prize because when his brother died, newspapers mistook that as Alfred, and said "Le marchand de la mort est mort" ("The merchant of death is dead", because he invented dynamite), which he thought was disappointing to be remembered like this.
+1. REM sleep is not light sleep. [REM phase](http://blog.addapp.io/deep-sleep-much-need/) is when your brain is active but body is not.
+1. [Florida statute 10-20-life](https://en.wikipedia.org/wiki/10-20-Life): get 10 years in prison if you show a gun during a crime. 20 years if you fire one. Life sentence if you shoot someone.
+1. [The earth spins like a top](https://en.wikipedia.org/wiki/Axial_precession) and its axis tilts back to its original position every 26000 years.
+1. [Germany normally doesn't tolerate dual citizenship](https://en.wikipedia.org/wiki/German_nationality_law#Dual_citizenship), except for the EU, Switzerland, and countries of origin do not allow them to renounce their citizenship, like Iran, Algeria, and Syria. Also, TIL some countries don't let you renounce your citizenship.
+1. That flower thing in Quebec's flag is [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis), some artistic thing symbolising (among other things) the French monarchy.
+1. Putting [triple parentheses](https://en.wikipedia.org/wiki/Triple_parentheses) around a Jewish name is considered antisemitism. Sometimes Jews do that to their own names.
+1. [a) Don't write tests for other people's libraries. b) Don't generalise something until you see it repeated the third time. c) APIs should be simple for common things, and possible for complex things. d) Unit tests test a unit of behaviour, not a unit of code. e) Parameter counts in a dependency-injected function highlights how crappy that piece of code is. f) Don't half-ass external APIs. Plan **a lot**. g) If your test doesn't fail when you add a bug, you're missing a test.](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
+1. Moroccans ferment butter to make [smen](https://www.npr.org/sections/thesalt/2014/10/09/353510171/smen-is-moroccos-funky-fermented-butter-that-lasts-for-years). Fermenting the butter keeps the butter safe, they say.
+1. The Greeks claimed to have invented socks.
+1. Montreal is the [fourth largest Francophone community](http://www.touristmaker.com/blog/what-are-the-largest-french-speaking-cities-in-the-world/), after Paris (obviously), [Kinshasa](https://en.wikipedia.org/wiki/Kinshasa) Congo, and Abidjan Ivory Coast.
+1. "Heads will roll" is followed by "on the floor", i.e. the guillotine situation.
+1. Better Business Bureau doesn't list itself on Better Business Bureau.
+1. Completely [cashless countries](http://www.bbc.com/news/business-41095004) are probably impossible, because strippers and cocaine, among other things.
+1. [Italians sell wet snails](https://en.wikipedia.org/wiki/Heliciculture#/media/File:Snails-Italy.jpg) like Chinese people sell dried seafood.
+1. [Entree](https://en.wikipedia.org/wiki/Glossary_of_French_expressions_in_English) can either mean "first part of the meal" (UK) or "largest part of the meal" (US). The UK definition matches what the word means.
+1. The [reciprocating saw](https://en.wikipedia.org/wiki/Reciprocating_saw) (electric saw?) is also called a Sawzall.
+1. You need to book a ticket [76 days in advance](https://www.cntraveler.com/stories/2015-03-10/the-best-time-to-buy-an-airplane-ticket-and-when-we-actually-buy) to [have the highest probability to] get the cheapest ones.
+1. *Moana* is pronounced Moh-ANNA for both the movie character, and the [Italian porn star with the same name](https://en.wikipedia.org/wiki/Moana_Pozzi), who, at 1.78m, died of liver cancer completely unrelated to her height.
+1. Black woman Viola Desmond [refused to leave whites-only section of theatre](https://www.theguardian.com/world/2018/mar/09/civil-rights-pioneer-viola-desmond-is-first-woman-on-canadian-currency) 10 years before Rosa Parks refused to leave whites-only section of the bus (1946 vs 1955).
+1. Both Louis and Louise translate to famous warrior or "famous in battle".
+1. In 2017, own-daughter rapist [Josef Fritzl](https://en.wikipedia.org/wiki/Fritzl_case) changed his name to Josef Mayrhoff. [He knew he screwed up when other people knew about it.](http://m.heute.at/oesterreich/niederoesterreich/story/50994291)
+1. No results on Google for "broke up mid-thrust"! I now claim this phrase.
+1. Stack exchange runs on [Windows servers](https://meta.stackexchange.com/a/10370/235327).
+1. Distressed jeans are Torn-up jeans that you buy for full price.
+1. "Premium" credit cards [cost more for the merchant to process](https://www.thestar.com/business/personal_finance/2013/07/23/how_credit_card_fees_for_merchants_work.html).
+1. Almost all cities with [the lowest temperature differences](http://www.city-data.com/top2/c458.html) in the US are in California or Florida, with California not being a hurricane danger zone.
+1. The UK charges [5 levels of VAT](https://en.wikipedia.org/wiki/Value-added_tax_in_the_United_Kingdom), from 20% (your usual amount) to [two kinds of 0%](http://www.taxpolicycenter.org/briefing-book/what-difference-between-zero-rating-and-exempting-good-vat), "zero-rated" and "exempt", having no difference for the consumer.
+1. Since who-knows-when, Google started listing results as ["Page 3 of about 3,520 results"](https://www.google.ca/search?q=%22seats+are+rubbish%22), like some sort of joke about Americans mixing ounces with yards.
+1. Onset of effects of THC starts [5 to 90 minutes after consumption](http://drug.addictionblog.org/how-long-does-marijuana-last/), and ends anywhere from 300 to 1440 minutes after consumption.
+1. The [Fertile Crescent / Cradle of Civilization](https://en.wikipedia.org/wiki/Fertile_Crescent) aka Egypt/Israel/Syria etc. stopped being fertile because they started irrigating with salt water.
+1. Westerners [chose](https://en.wikipedia.org/wiki/Human_flesh_search_engine) to translate the Chinese term "mechnical turk for searching" to "human flesh search engine", because it sounds cooler.
+1. When resigning from a company, a) don't mention it to anyone until it is approved by the management, and b) never tell people why.
 1. Laminated glass is glass on both sides with plastic inside, rather than plastic on either or both sides with glass in between. So maybe it should be called [glass reenforced plastic](https://en.wikipedia.org/wiki/Fiberglass) instead? Make sure you let me know in the comment section down below! Drop a like and don't forget to subscribe!
 1. 2 out of 3 American homes have pets.
 1. "In general, if an object is immutable, it doesn't make sense to have multiple copies of it." - Raymond
@@ -842,7 +878,7 @@
 1. Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
 1. On cooking Mexican food ("appropriating Chickpea-American culture"): you shame them if you cook it better than they do. But if you cook it worse than they do, you are a disgrace to Chickpea-Americans. You can't win. Stick to baked potatoes.
 1. Oprah was named "Orpah" after the biblical figure in the Book of Ruth. She and [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) are two completely different people.
-1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal (3.85V nominal, 4.4V charging) Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
+1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal (3.85V nominal, 4.4V charging) Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) [Ideal is keeping a battery between 75% and 65%.](http://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
 1. You don't mine with wallets. You mine with [miners](https://www.reddit.com/r/dogemining/wiki/index/mining_guide).
 1. [There are no pure oil public companies (assumptions?).](https://www.uncommonwisdomdaily.com/the-best-time-to-own-energy-stocks-17766) Energy exploration/production companies usually have both natural gas and oil reserves.
 1. Pollock is the sux.

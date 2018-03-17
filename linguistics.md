@@ -1,3 +1,9 @@
+1. The *S'* in [*S'il vous plaît*](https://en.wiktionary.org/wiki/s%27il_vous_pla%C3%AEt) is unfortunately yet another *Si*.
+1. [*Celui* and *ceux*](https://www.thoughtco.com/french-demonstrative-pronouns-1368928) are just the masculine equivalent of *celle* and *celles*, respectively. They all mean "the one(s)", so they can mean this, that, these, and those.
+1. You can put *Est-ce que* ("is it that...") in front of almost anything, and then saying the sentence like you're asking a question, to make it an actual question. Example: *Est-ce que tu es une pomme?*
+1. Keywords are literally *mots clés*. Fifty-fifty is also literally *cinquante-cinquante*,
+1. [Yodelling](https://en.wikipedia.org/wiki/Yodeling) came from the German term *jodeln*, "uttering the syllable yo", and originally something they do in the [alps](https://en.wikipedia.org/wiki/Geography_of_the_Alps) to make themselves known.
+1. "The Spanish R is a skill of the tongue, while the French is all in the throat." (unconfirmed)
 1. [*I grec*](https://en.wikipedia.org/wiki/Y) means "The Greek I". Lots of languages call Y the Greek I.
 1. Both the French and Dutch pronunciations for the Belgian [Waterloo](https://en.wikipedia.org/wiki/Waterloo,_Belgium) consist of an open A.
 1. *Je repars à zéro* means "I restart at zero". *Je repas à zéro* probably means "I have a meal at zero".
@@ -34,7 +40,7 @@
 1. *Sinon* ("Otherwise") is literally *si non*, "if not".
 1. "Rothschild" is pronounced "Roth's child". However, for some reason, ["Schwarzchild" (black shield) is pronounced "Shh-wat? shield"](https://www.youtube.com/watch?v=brmjWYQi2UM), instead.
 1. [It takes six (full) weeks less for an English speaker to learn French than to learn German.](http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)
-1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not".
+1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not". Note: *pas* the noun means "step".
 1. "Long time" becomes *longtemps* with no space in between.
 1. The terminal L in *appareil* is silent, and [is an exception](https://www.lawlessfrench.com/pronunciation/silent-letters/).
 1. *Laver* (to wash) and *Nettoyer* (to clean) are not interchangeable.
