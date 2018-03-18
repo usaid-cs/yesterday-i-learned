@@ -1,5 +1,7 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Big companies can sue you [not expecting to win, but to burden you with so much in legal fees that you just give up and do whatever they want](http://www.digest.com/Big_Story.php).
+1. [Baker's Dozen](https://en.wikipedia.org/wiki/Dozen#Baker's_dozen) originated from a law that heavily fined bakers who sell a dozen underweight rolls of bread. Adding one ensures the bakers aren't shorting their customers (at least in theory).
 1. "ASIC-resistant" just means "needs lots of RAM".
 1. "Merci" is/was the 85th most common word in French.
 1. Both the [six-continent and seven-continent models of the Earth](https://en.wikipedia.org/wiki/Continent) list Tel Aviv as being in Asia.

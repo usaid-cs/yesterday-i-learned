@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. In the event of a blowout, you aren't supposed to brake, as it forces you to fishtail.
+1. [People who listen to techno ran through twice as many red lights as people who didn't listen to anything.](https://www.youtube.com/watch?v=OlV8A0SLa6Y)
 1. Olive oil might dissolve tree sap.
 1. All of Toyota's brands (including Scion and Lexus) have [the lowest maintenance cost over 10 years](https://i.imgur.com/HYfsuJ9.jpg) among the 30 brands sampled.
 1. The [pulse and glide](http://www.metrompg.com/posts/pulse-and-glide.htm) hypermiling method, alternating between 40 and 60km/h on a 50km/h road, *requires* that you disengage the engine when you coast from 60 to 40 (so it doesn't engine brake).

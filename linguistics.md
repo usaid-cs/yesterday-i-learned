@@ -1,70 +1,48 @@
-1. The *S'* in [*S'il vous plaît*](https://en.wiktionary.org/wiki/s%27il_vous_pla%C3%AEt) is unfortunately yet another *Si*.
 1. [*Celui* and *ceux*](https://www.thoughtco.com/french-demonstrative-pronouns-1368928) are just the masculine equivalent of *celle* and *celles*, respectively. They all mean "the one(s)", so they can mean this, that, these, and those.
-1. You can put *Est-ce que* ("is it that...") in front of almost anything, and then saying the sentence like you're asking a question, to make it an actual question. Example: *Est-ce que tu es une pomme?*
-1. Keywords are literally *mots clés*. Fifty-fifty is also literally *cinquante-cinquante*,
 1. [Yodelling](https://en.wikipedia.org/wiki/Yodeling) came from the German term *jodeln*, "uttering the syllable yo", and originally something they do in the [alps](https://en.wikipedia.org/wiki/Geography_of_the_Alps) to make themselves known.
 1. "The Spanish R is a skill of the tongue, while the French is all in the throat." (unconfirmed)
 1. [*I grec*](https://en.wikipedia.org/wiki/Y) means "The Greek I". Lots of languages call Y the Greek I.
 1. Both the French and Dutch pronunciations for the Belgian [Waterloo](https://en.wikipedia.org/wiki/Waterloo,_Belgium) consist of an open A.
-1. *Je repars à zéro* means "I restart at zero". *Je repas à zéro* probably means "I have a meal at zero".
 1. "Anyway" is correct, while "Anyways" is not, because of the term *adverbial genitive*. "Always" beat out "Alway" in the same timeline.
-1. *Des bois* means "of the woods" instead of "of drinking".
 1. *Carabinieri* is the Italian word for police. *Carabineer* is a soldier who uses a carbine.
 1. The correct way to write the degoratory term for Pakistanis is [巴基躝癱](https://zh.wikipedia.org/wiki/%E8%BA%9D%E7%99%B1) ("有香港人將這個俚語與巴基斯坦組合，變成「巴基躝癱」，用作取笑居港的巴基斯坦人，以至所有巴基斯坦籍人士。該俚語帶有嚴重侮辱及種族歧視的成份，情況與香港人叫印度人做「阿差」差不多")
 1. Most alphabet systems get their order from [the Phoenician alphabet](http://mentalfloss.com/article/29011/why-are-letters-abc-order), at around [1050 BC](https://en.wikipedia.org/wiki/Phoenician_alphabet).
 1. [*Mitt*](https://en.wiktionary.org/wiki/mitt) is an abbreviation of *mitten*. Both can be pluralised.
 1. [Vietnamese is said to have the highest information density of 1, the benchmark,](information density), while Japanese somehow gets the lowest information density of 0.49, at 7.84 syllables per second, despite being so close to China. [English is somewhere in between (0.91, 6.19i/s)](http://www.ddl.ish-lyon.cnrs.fr/fulltext/pellegrino/Pellegrino_to%20appear_Language.pdf). If you multiply the two together, you can get the best verbal language for conveying information, which is "pick anything except Japanese".
-1. "Laptops" are called [*ordinateur portables*](https://fr.wikipedia.org/wiki/Ordinateur_portable), or just *portables* in Canada.
 1. ["In the Texan dialect, ... up and down are north and south, and out and over are west and east, respectively,"](https://www.texasmonthly.com/being-texan/being-texan-prepositions/) claimed John.
-1. *Le voici* translates to "here it is" rather than "it see here".
 1. *Tonkotsu* is pork bone. *Tonkatsu* is pork cutlet (schnitzel).
 1. I fail to see why *cul de sac* can't be "ass of balls".
 1. "Modem" came from MOdulator-DEModulator. "Codec" came from COder-DECoder.
 1. There is a [buddhist](https://baike.baidu.com/item/%E6%88%91%E4%B8%8D%E5%85%A5%E5%9C%B0%E7%8B%B1) saying "I don't go to hell, who goes to hell"
 1. The French call tanning "Bronzing".
 1. *Prendre* is clearly "take", but *prendre le déjeuner* means "have lunch".
-1. *Trompe* ("deceive") *l'oeil* ("the eye") = optical illusion
 1. [大檸樂](http://evchk.wikia.com/wiki/%E5%A4%A7%E6%AA%B8%E6%A8%82) actually means 大撚鑊.
 1. [But](https://en.wikipedia.org/wiki/Yam_O) according to Shuowen Jiezi, Yam (陰) originally is a geographical syntax which means "North of a hill or south of a body of water"
 1. "Crochet" is apparently French.
 1. There is an age beyond which you are unable to learn speech, if you haven't already. [Genie the abused child never spoke](https://en.wikipedia.org/wiki/Genie_%28feral_child%29), even as she lives to be 60. [This window](https://en.wikipedia.org/wiki/Critical_period_hypothesis#Second-language_acquisition) also explains why it is so hard to learn a second language after a certain age, perhaps correlating to the individual's reproductive fitness.
 1. *Chop chop* came from Cantonese 速速, but [multiple sources](http://www.phrases.org.uk/meanings/chop-chop.html), including [Wikipedia](https://en.wikipedia.org/wiki/Chop_chop_%28phrase%29), try to associate it with Cantonese or Mandarin 快快, which no one ever says.
 1. Rhapsody is actually pronounced RAP-siddy.
-1. Apparently if "Je t'aime plus" is pronounced without the S at the end, it will mean "I don't love you anymore". With the S, it means "I love you more". Also, "aimer bien" is like, but "aimer" is love.
 1. Languages typically develop the word for "red" first (because it's bright?), and then maybe yellow/green, and then blue, and then brown. Read study by Berlin and Key, 1969.
 1. *Walau* has the word root of *Wa lan eh* (我膦呃), my father's (dick).
 1. The verb for "opinion" is "opine/opining", rhymes with pint.
-1. *Pièces*... rooms? coins?
-1. *Portefeuille*, door... leaf? A wallet.
-1. *À la carte*, to the... map? card? To order menu items individually, rather than set courses.
-1. *Sinon* ("Otherwise") is literally *si non*, "if not".
 1. "Rothschild" is pronounced "Roth's child". However, for some reason, ["Schwarzchild" (black shield) is pronounced "Shh-wat? shield"](https://www.youtube.com/watch?v=brmjWYQi2UM), instead.
 1. [It takes six (full) weeks less for an English speaker to learn French than to learn German.](http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)
-1. *Ne* is "not". *Pas* is also "not", even if used by itself. *Ne pas* is "do not". Note: *pas* the noun means "step".
-1. "Long time" becomes *longtemps* with no space in between.
-1. The terminal L in *appareil* is silent, and [is an exception](https://www.lawlessfrench.com/pronunciation/silent-letters/).
-1. *Laver* (to wash) and *Nettoyer* (to clean) are not interchangeable.
-1. *Mademoiselle*, from French *Ma Demoiselle*, "my damsel". A damsel is a young unwed woman.
 1. "The final straw" came from "the straw that breaks the camel's back".
 1. Punjabi for *Sikh* is *sikkh* "sick". You don't need to say "seek" to pretend you know the difference.
 1. Americans totally spoke in a [lovely accent](https://youtu.be/zjCOMJDULaE?t=13m39s) back in the sixties. It sounds nothing like the rest.
-1. *On* is the informal *Nous*.
 1. *Schnitzel / Schnipsel*: scrap, or a small piece of something. When used on meat, it becomes "cutlet".
 1. In the first half of your Duolingo French course, you will encounter at least four verbs that start with V: *veux* (want), *voi* (see), *vis* (live), *vais* (go), and close enough, *sais* (know).
 1. [Salad](http://www.foodtimeline.org/foodsalads.html) was dressed with salt (and vinegar and oil). Word root was *salade*, something involving salt.
-1. ["Je suis là"](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
-1. Therefore, "Voilà" means "look here" or "look there", and "Voici" means "look here".
 1. "Bokeh" from Japanese 暈け **is** pronounced boke (or ボケ味 boke-aji)..
 1. In the UK, "Idem"[potence] is pronounced as in Latin, *E-dem*.
 1. The [Great Vowel Shift](https://www.youtube.com/watch?v=UOfYck3J3e0) turns *Multi-* from "multee" from "multai". *House* would really be "hoos" before the GVS. Fun fact: [old and middle English are incomprehensible.](https://www.youtube.com/watch?v=5NB2Z6pZBNA)
-1. Y is "I grec" in French.
 1. Willkommen becomes Welcome. But (you are) Welcome becomes [Bitte schön](https://en.wiktionary.org/wiki/bitte_sch%C3%B6n).
 1. ["Nobody calls (Irish) Gaelic in Ireland. Nobody!"](https://i.imgur.com/btl0LhW.png) - Horse
 1. *Circadian* is actually *circa diem*, around the day.
 1. The noun/pronoun cannot be omitted immediately following "and thus".
 1. *ped* in pedometer is foot. *pedo* in pedophilia is child. So pedometer is technically [ped-o-meter](https://www.amazon.de/Nintendo-Pikachu-2-Pokemon-Ped-O-Meter/dp/B00004U1R8).
 1. If there exists an "L Ron Hubbard Science Library", then L Ron Hubbard is the [*eponym*](http://www.hubbelllibrary.org/eponym.mgi) of the library, and the library is the *namesake* of L Ron Hubbard. Aside: ["eponymous" means "gives many names to"](https://english.stackexchange.com/questions/49281/how-should-i-use-eponym-eponymous-and-namesake), and is almost never used in meaningful sentences.
-1. Réservoir means "storehouse".
+1. *Réservoir* means "storehouse".
 1. English and French share the same ambiguity for "going" in "I am going to the supermarket" and "I am going to die."
 1. [Weiße](https://en.wiktionary.org/wiki/Wei%C3%9Fe) is the female version of "Weißer", so it becomes to mean "white woman".
 1. "Erwin Schrödinger" [sounds](https://www.youtube.com/watch?v=QOCaacO8wus) more like AIR-vin SH-HER-din-er than whatever we have been saying.
@@ -82,7 +60,7 @@
 1. "LL" is pronounced "Y" in Spanish.
 1. Orion is pronounced oh-RYE-un.
 1. Albuquerque is pronounced AL-ber-ker-kee.
-1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it Laos."][youtube 4]
+1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it *Laos*."][youtube 4]
 1. *Separate* is pronounced SEP-a-rate as a verb and SEP-rate as an adjective.
 1. [Nauru][wikipedia 77] is pronounced na-OO-roo. It means "I go to the beach".
 1. Maniacal is pronounced "muh-NYE-ic-oh".
@@ -100,7 +78,7 @@
 1. An *apologist* is a person who argues in favour of a controversial thing, not apologising for it/admitting that it sucks.
 1. It is *homicides*, not *homocides*. Homocides are chemical agents that kill or neuter homosexuals.
 1. *Despondent* means the person has no hope.
-1. Aaron sounds exactly like Erin.
+1. Aaron sounds exactly like Erin *in US English*.
 1. In French, [Gogh](http://forvo.com/word/vincent_van_gogh/) is simply pronounced *Ror*.
 1. [This man here](https://www.youtube.com/watch?v=9DMDV3bIUjc&feature=youtu.be&t=12s) claims chorizo is pronounced Choh-RI-thoh (ch in chop).
 1. Bánh mì, "餅麵", literally describes a baguette.
@@ -130,12 +108,10 @@
 1. [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism) refers to comedic switches in the first syllables of two or more words, like "belly jeans".
 1. *Buggery* means anal intercourse. "He will be *Buggered*" means that he will be sodomised.
 1. "Refrigerator", Refrigerate, from frigerate ("to make cold"), from *frigus* (cold). The G should have been hard, similar to *Refriggurator*.
-1. Because it is French, the T in *Montréal* is never pronounced.
 1. The [long s](https://en.wikipedia.org/wiki/Long_s) (`ſ`) was used where the `s` is not at the end of a word, or to replace the first `s` whenever two `s`s are together. Then people realised the differentiation is uſeleſs, replacing `ſ` with just `s`.
 1. Maple syrup (Sirop d'érable) is similar to Petroleum syrup (Sirop d'Arabie).
 1. In Hindi, *matlab* ("it means") is a filler word.
 1. Adjective for *pervert*: *perverse*
-1. Croissant is the French word for Crescent. They are rolled up triangles.
 1. Bagel is from Yiddish: בײגל‎ beygl, in turn from German beugel; pronouncing it BAG-o is incorrect.
 1. Diaspora should NOT be pronounced die-ASS-pra.
 1. [Chinese and Japanese are not as affected by dyslexia as Arabic.](https://www.reddit.com/r/explainlikeimfive/comments/5qupij/eli5_how_is_being_dyslexic_in_symbol_languages/)
@@ -162,11 +138,7 @@
 1. Both "Rosetta" and "Rashid" origiinated  from the Coptic (Egyptian) word "Trashit," which was (also) a place name.
 1. "Chlorophyll" is derived from the Greek words χλωρός, chloros ("green") and φύλλον, phyllon ("leaf")
 1. The possessives ending in -on (mon, ton, son) are used with masculine nouns: Mon livre means My book. They are also used with feminine nouns starting with a vowel: Mon amie means My girlfriend. Feminine possessives are ma, ta, and sa.
-1. French questions insert a -t- between a verb that ends with a vowel and the personal pronoun. For example, Comment va-t-il? means How is he doing? **The most formal way of asking a question is to use an inversion**, where the verb appears before its pronoun and the two are connected by a hyphen.
-1. C'est is used when the noun has an article (le, la, l', un or une) or a possessive before it. Say: C'est ma femme, not: Elle est ma femme.
-1. The phrase Est-ce que... (literally Is it that...) or est-ce qu' (before a vowel) is often used to start asking a question, in an informal way. Est-ce qu'il mange ? means Is he eating?.
 1. [Lent](https://en.wikipedia.org/wiki/Lent) is from Old English *len(c)ten*, meaning Spring.
-1. *Comment t'appelles-tu* is literally how (comment) appelles (call) tu (you).
 1. >'Mischievous'. Fucking seriously IT'S NOT mis-CHEEEEE-vee-us.
 1. Wikipedia claims that *Django* was a Romani nickname, meaning "I awake".
 1. Catholicism is pronounced ka-THO-lic-si-sum.
