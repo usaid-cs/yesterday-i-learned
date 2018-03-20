@@ -1,5 +1,9 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [Aéropostale](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28clothing%29) the clothing company has the same pronunciation as the [former French airmail service with the same name](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28aviation%29), which is `/a e ʁɔ pɔs ˈtal/`.
+1. The temperature inside [the world's deepest hole](https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole) (Kola Superdeep Borehole, Russia) was 180 °C when they had to stop drilling at 12km.
+1. Concession tickets are reduced-price tickets. Unlike "seniors" and "student" tickets, these don't need to specify why.
+1. [Multifactorials](http://www.mathcelebrity.com/multifactorial.php): factorials that don't go down by 1. `12!! = 12 * 10 * 8 * ...`. `12!!! = 12 * 9 * 6 * 3`.
 1. Big companies can sue you [not expecting to win, but to burden you with so much in legal fees that you just give up and do whatever they want](http://www.digest.com/Big_Story.php).
 1. [Baker's Dozen](https://en.wikipedia.org/wiki/Dozen#Baker's_dozen) originated from a law that heavily fined bakers who sell a dozen underweight rolls of bread. Adding one ensures the bakers aren't shorting their customers (at least in theory).
 1. "ASIC-resistant" just means "needs lots of RAM".
@@ -175,7 +179,7 @@
 1. The first person to say ["Octothorpe taters"](https://www.google.ca/search?q=hashtag+fries&oq=hashtag+fries) was @1337 on 2018-02-02.
 1. [3.7V and 4.2V lithium ion batteries are the same thing.](https://learn.adafruit.com/li-ion-and-lipoly-batteries/voltages) They are just labelled differently.
 1. 1 Infinite Loop is [a stupid 0](https://www.google.com/maps/place/Infinite+Loop,+Cupertino,+CA+95014,+USA/@37.3320954,-122.0309105,18z/data=!4m5!3m4!1s0x808fb5b6e7b4b9fb:0x697a4332574f50d9!8m2!3d37.3320003!4d-122.0307812.)
-1. Volvo is Latin for "I roll". Its [logo](https://en.wikipedia.org/wiki/Volvo_Cars#Logo) is the symbol of iron, which is also used for Mars or the Male sex. [This means women cannot driver Volvo cars.](https://www.eatliver.com/volvo/)
+1. Volvo is Latin for "I roll". Its [logo](https://en.wikipedia.org/wiki/Volvo_Cars#Logo) is the symbol of iron, which is also used for Mars or the Male sex. [This means women cannot drive Volvo cars.](https://www.eatliver.com/volvo/)
 1. None of the [cheesecloth grades](https://en.wikipedia.org/wiki/Cheesecloth) have the same number of threads per unit area horizontally and vertically.
 1. Bitcoin, the decentralised currency, is ruined by centralised exchanges: ["Historically we thought this thing was decentralised, there was no way to control it but what you have here is centralised exchanges. This is the same as a bank. This is something that holds the bitcoin or the digital currency on your behalf."](https://www.express.co.uk/finance/city/911809/Bitcoin-price-value-worth-latest-today-buy-USD-XRP-Ripple-cryptocurrency-Seoul-trade-video)
 1. [Indicators of low volatility (say VIX) are a sign that the tide is about to turn.](https://www.cnbc.com/2018/02/01/some-investors-are-worried-low-volatility-might-be-the-start-of-a-market-crash-heres-why.html)
@@ -223,7 +227,7 @@
 1. [SIL](https://en.m.wikipedia.org/wiki/Safety_integrity_level) level 4 *requires* that you write yoda statements.
 1. Bump keys have every slot cut to the lowest position and the shoulder cut enough to allow it to be pushed in just a bit farther than a normal key.
 1. Germany emphasises that its flag is red, black and [gold, not yellow](https://en.wikipedia.org/wiki/Flag_of_Germany#Color), to symbolise the [Austrian empire](https://en.wikipedia.org/wiki/Austrian_Empire). The [RAL](https://en.wikipedia.org/wiki/RAL_colour_standard) (German RAL Institute) therefore named that colour "rapeseed yellow".
-1. Google's cut-off for "tomorrow" is 5am.
+1. Google Assistant's cut-off for "tomorrow" is 5am.
 1. [Uncle Sam](https://en.wikipedia.org/wiki/Uncle_Sam) was rumoured to be a meatpacker from New York.
 1. [Shotgun microphones](https://en.wikipedia.org/wiki/Microphone#Shotgun_and_parabolic_microphones) work better than parabolic microphones in capturing lower frequencies from a long distance.
 1. The phillips screwdriver is sharp, and is [unintentionally designed to cam out](https://en.wikipedia.org/wiki/Cam_out) (turn too much and pop itself out). The [pozidriv](https://en.wikipedia.org/wiki/List_of_screw_drives#Pozidriv) screwdriver is flat, and is designed to *not* cam out. Unfortunately using the wrong screwdriver for the two types of screws, even if they are both crosses, will damage them.
@@ -403,7 +407,6 @@
 1. [Creature comforts](https://en.wiktionary.org/wiki/creature_comfort) are comforts enjoyed by creatures, i.e. primal comfort. Examples include taking long baths, napping, and death (meirl).
 1. [802.11b channels 1 and 14](https://en.wikipedia.org/wiki/IEEE_802.11b-1999) (somewhat intuitively) overlap with the least number of other channels. For [802.11g](https://en.wikipedia.org/wiki/IEEE_802.11g-2003), only channels 1 and 14 are still the best choice. This could be why routers ever-so-unhelpfully select channel 1 for everyone, congesting the channel.
 1. The full name for 河粉 is 沙河粉, which in turn came from 广州沙河.
-1. The singular for *cocus* "cuckholds" is *cocu* "cuckhold".
 1. Emma Watson was in a film with Tom Hanks, called "The Circle". Never seen the movie, but some of the soundtracks were good.
 1. Sonic the Hedgehog is a... hedgehog. Knuckles the Echidna is an... echidna. Unfortunately [they look more or less the same](http://www.wallpaperhi.com/thumbnails/detail/20120923/sonic%20the%20hedgehog%20video%20games%20knuckles%20the%20echidna%201280x1024%20wallpaper_www.wallpaperhi.com_91.jpg).
 1. So many people pour bacon fat down the drain that cities are forced to spend millions clearing out gigagram "farbergs" from the sewers.
