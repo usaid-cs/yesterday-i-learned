@@ -1,10 +1,24 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. "二打六就係二加六，得個八，唔夠十足十"
+1. The period in braille is made of [three dots](http://www.brailleauthority.org/ueb/symbols_list.pdf).
+1. When Jesus said ["Destroy this temple, and I will raise it again in three days"](http://biblehub.com/john/2-19.htm) during his temple rampage, he meant his body (his resurrection), not the temple he was at.
+1. In 麥兜, the principal is *also* the restaurant owner.
+1. Sheryl Sandberg, COO of Facebook, [is a terrible liar](https://youtu.be/p1CTHFEcoJc?t=1m22s). Then again, it was not necessary. During the Facebook event of 2018, searches for [Diaspora](https://trends.google.com/trends/explore?date=today%205-y&q=diaspora) did not go up.
+1. Weed is legal (state-level) across the entire west coast of America.
+1. Puerto Rico has a higher population than 21 states.
+1. Switzerland didn't join the UN until 2002, perhaps in fear that joining something will get them involved in something that isn't politically neutral. Its official invasion defence strategy is the [national redoubt](https://en.wikipedia.org/wiki/National_Redoubt_%28Switzerland%29); "the idea was to make clear to [neighbouring countries] that an invasion would have a high cost", which was true when Nazi Germany considered it.
+1. [This video](https://www.youtube.com/watch?v=tTHMBjyzgEU) says you pee 20 swimming pools worth in your lifetime.
+1. The [Saskatchewan timezone](https://en.wikipedia.org/wiki/Time_in_Saskatchewan) is "6 hours behind UTC"; that is not to say it doesn't have daylight savings; from a historical and geographical perspective, it may be said that Saskatchewan has permanent daylight savings (see map in link).
+1. The original [scroll lock](https://en.wikipedia.org/wiki/Scroll_lock), if engaged, would modify the arrow keys such that it scrolls the contents of a text window rather than the cursor. On linux, it is said that the terminal freezes if you press it. However it is no longer the case all the time, making that key useless.
+1. [Muphry's Law](https://en.wikipedia.org/wiki/Muphry's_law): if you try to correct someone's writing in writing, you will make a mistake in your own writing.
+1. In 2017, [three gay men managed to be married to each other at the same time, legally, in Colombia.](https://www.advocate.com/world/2017/6/15/three-gay-men-make-history-marrying-colombia)
+1. [The battle of Waterloo](https://en.wikipedia.org/wiki/Battle_of_Waterloo#Battlefield_today) was significant because Napoleon finally stopped screwing Europe over after he lost that one. Wikipedia puts it: "There followed almost four decades of international peace in Europe. No further major conflict occurred until the Crimean War of 1853-1856."
 1. [Aéropostale](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28clothing%29) the clothing company has the same pronunciation as the [former French airmail service with the same name](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28aviation%29), which is `/a e ʁɔ pɔs ˈtal/`.
 1. The temperature inside [the world's deepest hole](https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole) (Kola Superdeep Borehole, Russia) was 180 °C when they had to stop drilling at 12km.
-1. Concession tickets are reduced-price tickets. Unlike "seniors" and "student" tickets, these don't need to specify why.
+    1. Concession tickets are reduced-price tickets. Unlike "seniors" and "student" tickets, these don't need to specify why.
 1. [Multifactorials](http://www.mathcelebrity.com/multifactorial.php): factorials that don't go down by 1. `12!! = 12 * 10 * 8 * ...`. `12!!! = 12 * 9 * 6 * 3`.
-1. Big companies can sue you [not expecting to win, but to burden you with so much in legal fees that you just give up and do whatever they want](http://www.digest.com/Big_Story.php).
+1. Big companies can sue you [not expecting to win, but to burden you with so much legal fees that you just give up and do whatever they want](http://www.digest.com/Big_Story.php).
 1. [Baker's Dozen](https://en.wikipedia.org/wiki/Dozen#Baker's_dozen) originated from a law that heavily fined bakers who sell a dozen underweight rolls of bread. Adding one ensures the bakers aren't shorting their customers (at least in theory).
 1. "ASIC-resistant" just means "needs lots of RAM".
 1. "Merci" is/was the 85th most common word in French.
@@ -1629,7 +1643,6 @@
 1. Not only have we gone through the phase of youtube influencers (like that guy Pew-die-pie), we are already into "micro influencers"---people with fewer than 1000 subscribers---whose videos seem more convincing due to the smaller audience. Also lower cost.
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 1. Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
-1. [Albinism][wikipedia 2] affects vertebrates. That, and lobsters, which are not vertebrates.
 1. The Korean blood cake is also called *sundae*: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
 1. Because `iif` is a library function, it cannot short-circuit.
 1. [Claims had been made][lifehacker] that meditation improves memory recall.
@@ -2175,7 +2188,7 @@
 1. Toyota is [still making sewing machines][home-sewing]. Toyoda started it in 1946, after the motor corporation.
 1. [The fact that smoke calms bees has been known since ancient times][wikipedia 142]; however, the scientific explanation was unknown until the 20th century and is still not fully understood.
 1. [The Nash Equilibrium][wikipedia 143]: in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
-1. Korea is named after [高麗][wikipedia 144], pronounced "GOlia".
+1. Korea is named after [高麗][wikipedia 144], in turn from [高句麗](https://zh.wikipedia.org/zh-hk/%E9%AB%98%E5%8F%A5%E4%B8%BD), pronounced "GOlia".
 1. North Korea, on the other hand, calls itself [朝鮮][wikipedia 145] ("JIUsan"), the dynasty after 高麗.
 1. To create a GIF with gimp, simply export the layers (as frames) to a file with a `.gif` extension.
 1. Once a jog exceeds [10km/h][wikipedia 146], it becomes a run.
@@ -3125,7 +3138,6 @@
 [whonix]: https://www.whonix.org/wiki/DoNot
 [wifipineapple]: https://wifipineapple.com/
 [wikimedia]: https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif
-[wikipedia]: http://en.wikipedia.org/wiki/Homarus_americanus
 [wikipedia 100]: https://en.wikipedia.org/wiki/Tap_code
 [wikipedia 102]: https://en.wikipedia.org/wiki/Andriza_Mircovich
 [wikipedia 103]: https://en.wikipedia.org/wiki/Bloodhound
@@ -3191,7 +3203,6 @@
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise
 [wikipedia 17]: https://en.wikipedia.org/wiki/Sleeper_effect
 [wikipedia 170]: https://en.wikipedia.org/wiki/Pure_function
-[wikipedia 173]: https://en.wikipedia.org/wiki/Parrotfish#Mucus
 [wikipedia 174]: https://en.wikipedia.org/wiki/Equagesic
 [wikipedia 175]: https://en.wikipedia.org/wiki/Brandon_Lee#Death
 [wikipedia 176]: https://en.wikipedia.org/wiki/Victoria_Gap
@@ -3219,7 +3230,6 @@
 [wikipedia 196]: https://en.wikipedia.org/wiki/Coriander
 [wikipedia 197]: https://en.wikipedia.org/wiki/USB#Durability
 [wikipedia 199]: https://en.wikipedia.org/wiki/Perennial_plant
-[wikipedia 2]: http://en.wikipedia.org/wiki/Albino
 [wikipedia 20]: http://en.wikipedia.org/wiki/Kerisik
 [wikipedia 200]: https://en.wikipedia.org/wiki/Rag%C3%B9
 [wikipedia 201]: https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event
@@ -3261,7 +3271,6 @@
 [wikipedia 47]: http://en.wikipedia.org/wiki/Natural_reservoir
 [wikipedia 48]: http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome#Epidemiology
 [wikipedia 49]: http://en.wikipedia.org/wiki/Smallpox
-[wikipedia 5]: https://en.wikipedia.org/wiki/Death_by_natural_causes
 [wikipedia 50]: http://en.wikipedia.org/wiki/A_Void
 [wikipedia 51]: http://en.wikipedia.org/wiki/Samaritan
 [wikipedia 52]: http://en.wikipedia.org/wiki/Chorioactis

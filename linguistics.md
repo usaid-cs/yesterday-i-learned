@@ -1,3 +1,10 @@
+1. [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) led to the popularity of the term *Crapper*. He however did not invent the the flush toilet, nor the word *crap*, a middle English word.
+1. [More than 2/3 of the US speak English exclusively](https://en.wikipedia.org/wiki/Languages_of_the_United_States).
+1. The Hawaiian language has 5 vowels and 8 consonants. The  [consonants](https://en.wikipedia.org/wiki/Hawaiian_language#Consonants) are roughly equivalent to m, n, p, t/k, h, w, l, and a glottal stop.
+1. [The French love abbreviating things when speaking](https://frenchtogether.com/differences-written-spoken-french/). They also love abbreviating things when writing, to the point where undoing the abbreviation is considered wrong.
+1. [Words with accent circonflexe often had an S after the E that has the accent.](https://frenchtogether.com/french-accents/) *Intérêt* was interest (English kept it), *hôpital* was hospital (English kept it), and *hôtel* was hostel (English might or might not have kept it).
+1. [Fascism](https://en.wikipedia.org/wiki/Fascism) (Italian *fascismo*) came from Italian *fascio*, or a bundle of rods. [Faggot](https://en.wikipedia.org/wiki/Fasces) came from the same Latin root.
+1. *Rent* also means [to be torn apart](http://www.dictionary.com/browse/rend).
 1. [*Celui* and *ceux*](https://www.thoughtco.com/french-demonstrative-pronouns-1368928) are just the masculine equivalent of *celle* and *celles*, respectively. They all mean "the one(s)", so they can mean this, that, these, and those.
 1. [Yodelling](https://en.wikipedia.org/wiki/Yodeling) came from the German term *jodeln*, "uttering the syllable yo", and originally something they do in the [alps](https://en.wikipedia.org/wiki/Geography_of_the_Alps) to make themselves known.
 1. "The Spanish R is a skill of the tongue, while the French is all in the throat." (unconfirmed)

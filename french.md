@@ -3,10 +3,11 @@
 1. **À la carte**: to the... map? card? To order menu items individually, rather than set courses.
 1. **Aimer**: to like, or to love. *Je t'aime plus*: "I don't love you anymore" (if S is silent), "I love you more" (if S is not silent). Also, *aimer bien* is like, but *aimer* is love.
 1. **Aller**: to go. *Nous y allons*, *Allons-y*, *On y va*: all roughly mean "let's go".
-1. **Alors**: so/then. See *donc* for another "so/therefore".
+1. **Alors**: so/then. See *donc* for another "so/therefore". Sometimes used in itself to mean "here".
 1. **Appareil**: apparatus. [The L is silent](https://www.lawlessfrench.com/pronunciation/silent-letters/).
 1. **Appartenir**: belong (to). *Il appartient à mon oncle*: it (he) belongs to my uncle.
 1. **Arrêt**: stop.
+1. **Au moins aussi bien que**: as well as. From *au moins* "at least", *aussi bien* "equally".
 1. **Aucun**: No. [*Aucun problème*](https://www.thoughtco.com/no-in-french-1371322): no problem.
 1. **d'Abord**: First. *Viens d'abord faire tes devoirs, tu joueras ensuite*: first do your homework, then play. *Premier* also means first.
 1. **Banlieue**: suburbs. *J'habite en banlieue* (no *une*): I live in the suburbs.
@@ -22,6 +23,7 @@
 1. **Celui**: the ones. *Et que celui qui a de quoi manger partage ce qu'il la*: and whoever has enough to eat shares what he has. Or something like that.
 1. **Chat**: cat.
 1. **Chaque**: every. *Chaque jour*: every day.
+1. **Chiffre**: digit.
 1. **Chose**: thing.
 1. **Cinquante-cinquante**: Fifty-fifty.
 1. **Client**: customer. *Cette magasin a beaucoup de clients*: this shop has a lot of customers.
@@ -32,7 +34,7 @@
 1. **Commence**: start. *Juin commence demain*: June starts tomorrow.
 1. **Comment**: how. *Comment t'appelles-tu*: how (comment) t' (you) appelles (call) tu (you), "how do you call yourself".
 1. **Copain**: boyfriend. [Sometimes just friend.](http://dictionary.reverso.net/french-english/copain) Use: *petit ami* when talking to old people.
-1. [**Copine**](https://www.reddit.com/r/French/comments/3r0djp/ami_vs_copain/cwjvqzs/): girlfriend. Use: *petitw amiw* when talking to old people.
+1. [**Copine**](https://www.reddit.com/r/French/comments/3r0djp/ami_vs_copain/cwjvqzs/): girlfriend. Use: *petite amie* when talking to old people.
 1. **Coq**: cock. [*Le coq sportif*](https://en.wikipedia.org/wiki/Le_Coq_Sportif): the athletic phallus.
 1. **Couches**: diapers. Pronounced KOOSH rather than whatever it is in English.
 1. **Couple**: couple, except masculine, because it ends with an E so obviously a rule like that needs exceptions. *Le couple*: the couple.
@@ -56,19 +58,24 @@
 1. **Est-ce que...**: (literally Is it that...) magic way to turn a statement into a question. Informal. *Est-ce que tu es une pomme?*: Are you an apple?
 1. [**Être**](https://en.wiktionary.org/wiki/%C3%AAtre): to be. *Vous êtes des idiots*: you are idiots.
 1. **Façon**: way. *La même façon*: the same way.
+1. **Faim**: hunger. *Avez vous faim*: Are you hungry? (Do you have hunger)
 1. **Femme**: woman. *Ma femme*: my wife.
 1. **Fil**: wire. *Sans-fil*: wireless.
 1. **Fille**: girl. *Ma fille*: my daughter.
 1. **Fils**: son. Say with a hard S.
 1. **Foi**: faith.
 1. **Fois**: time (occurrence). See also: *temps*, time (length). *C'est ta première fois ?*: is this your first time?
+1. **Fourchette**: fork.
 1. **Foyer**: home. See also: *maison*, house.
 1. [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
 1. **Fromage**: cheese. [*Omelette du fromage*](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
 1. **Garçons**: A Catholic church staple.
 1. **Gâteau**: cake.
 1. [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. *Je te hais*: I hate you (probably).
+1. **Happy Hour**: [happy hour](https://www.collinsdictionary.com/dictionary/english-french/happy-hour). Not *l'heure d'heur*.
 1. **Haut**: high (in the height sense).
+1. **Heur**: happyness. Usually *Bonheur* or *heureuse*. *Je suis heurreux*: I am happy.
+1. **Heure**: hour.
 1. **Homme**: man. *Mon homme*: probably "my man". See *Mon mari* for "my husband".
 1. **I grec**: Y. Literally "Greek I".
 1. **Ici**: here.
@@ -103,6 +110,7 @@
 1. **Mourir**: to die. *Nous allons tous mourir* (tous with hard S): we are all gonna die.
 1. **Ne**: Not. *Ne pas*: not not ("do not").
 1. **Nettoyer**: to clean.
+1. **Nouveau**: new. *Je veux voir à nouveau*: I want to see again.
 1. **On**: informal way to say **nous**. Not useful. *On va s'en sortir*: we will get out of this.
 1. **l'Ouest**: the west. *Je vais vers l'ouest*: I go towards the west.
 1. **Paix**: peace. *Je vis en paix*: I live in peace.
@@ -121,7 +129,8 @@
 1. **Pomme**: apple.
 1. **Portefeuille**: wallet. Literally ["Door leaf"](http://www.french-linguistics.co.uk/grammar/french_spelling_reform_hyphen.shtml).
 1. **Pourquoi**: why/for what.
-1. **Pouvoir** can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
+1. **Pouvoir**: can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
+1. **Proche**: close/near. *la fin du Canada est proche*: the end of Canada is near.
 1. **Punis**: punish. *Ne te punis pas*: do not punish me.
 1. [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From *quel que un*, "some one". *Il y a quelqu’un ici qui parle français*: Is there anyone here who speaks French.
 1. **Recevoir**: to receive. *Elle reçoit des cadeaux*: she receives gifts. *Vous recevez*: you receive.
@@ -153,7 +162,7 @@
 1. **Trompe l'oeil**: optical illusion. Literally "deceive the eye.
 1. **Va-t-en**: go away. Literally "Get on with you". *Va-t-en d'ici*: go away (get out) of here.
 1. **Voici**: look here. *Le voici*: "look here", not "it looks here".
-1. **Voilà**: look there.
+1. **Voilà**: look there. See *Alors* for similar expression.
 1. **Voir**: to see. *Je vous vois tous cornus*: I see you all horned.
 1. **Voiture**: car.
 1. **Voix**: voice. Sounds *exactly* the same as *voi* and *vois*.

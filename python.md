@@ -400,6 +400,7 @@ bar
 1. [Number range filters like `df[10 < df.column < 20]` does not work in pandas.](https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas#31617974) You *need* to do a double condition like `df[(10 < df.column) & (df.column < 20)]`.
 1. To pick multiple columns off a dataframe, you can't do `df['a', 'b', 'c']` because that's intuitive and pythonic. You [need](https://stackoverflow.com/a/48584948/1558430) to do `df[['a', 'b', 'c']]` instead...
 1. Importing `matplotlib.pyplot` as `plt` is [a standard convention](https://pandas.pydata.org/pandas-docs/stable/visualization.html).
+1. [Celery beat is a process that just puts tasks into queues in regular intervals](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html). You still need a separate worker to listen to that queue.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,3 +1,9 @@
+1. [Albinism](http://en.wikipedia.org/wiki/Albino): affects vertebrates. That, and lobsters, which are not vertebrates.
+1. Corn generates almost [4 times](https://www.washingtonpost.com/lifestyle/food/in-defense-of-corn-the-worlds-most-important-food-crop/2015/07/12/78d86530-25a8-11e5-b77f-eb13a215f593_story.html?utm_term=.c9aad0e5a353) the amount of calories per acre (15M) than wheat (4M).
+1. ["The [face] mites have this helpful habit where they… er… have no anus and never poo. Instead, they release a lifetime’s worth of waste when they die. That contains their DNA, which gives away the presence of the mites even when the creatures themselves are inaccessibly hidden."](http://phenomena.nationalgeographic.com/2014/08/27/you-almost-certainly-have-mites-on-your-face/)
+1. [Ant heads were used as stitches](http://www.odditycentral.com/pics/in-some-parts-of-the-world-ant-heads-were-once-used-as-stitches.html) as early as 1000BC. Ants bite across the wound, sealing the wound, and then people have their bodies twisted off.
+1. It is 2018. Scientists have the ability to [scar a fetus on purpose](https://www.acsh.org/news/2018/03/20/nanofibers-dramatically-improve-wound-healing-and-tissue-regeneration-12723).
+1. The [nutria](https://en.wikipedia.org/wiki/Coypu), Texas beaver rat, [tastes great](https://www.reddit.com/r/WTF/comments/84lq3m/modern_version_of_pied_piper_of_hamelin/dvr2tl8/).
 1. Oxalic acid can be used to protect bees against [varroa mites](https://en.wikipedia.org/wiki/Varroa_destructor).
 1. It is ["normal"](https://www.reddit.com/r/MorbidReality/comments/851gly/each_one_of_these_dots_on_this_mri_of_a_human/dvu7emy/) (according to CutthroatTeaser anyway) to find at least one calcified tapeworm cyst in a random patient's brain in the US.
 1. It is dangerous for diabetics to get into a coma. We have alarms that wake us if our blood glucose gets too low.
@@ -26,7 +32,7 @@
 1. Phytophotodermatitis: ["Citrus juices such as lime and lemon cause the skin to become hypersensitive to UV rays, leading to severe burns as a result."](https://en.wikipedia.org/wiki/Phytophotodermatitis)
 1. ["Pork is (also) naturally trans fat free."](http://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Cooking-with-Pork--Nutrition,-safety,-handling,-storage.aspx)
 1. Protein deficiency can [enlarge your stomach](https://en.wikipedia.org/wiki/Kwashiorkor) (at least if you are an African child).
-1. [Parrot fish][wikipedia 173] make a [mucous cocoon](http://i.imgur.com/Wfsuq4E.jpg) at night to protect against predators and/or blood parasites.
+1. [Parrot fish](https://en.wikipedia.org/wiki/Parrotfish#Mucus) make a [mucous cocoon](http://i.imgur.com/Wfsuq4E.jpg) at night to protect against predators and/or blood parasites.
 1. [The anus is more resistant to bacteria than the rest of the body is](https://www.reddit.com/r/askscience/comments/squri/how_come_when_when_you_wipe_to_hard_after_going/).
 1. Chickens *do* ["lay eggs out of their anus"](http://www.motherrisingbirth.com/2011/08/wisdom-wednesday-chicken-egg-exit.html) (cloaca), but since the cloaca turns inside out (v. pinksock) when laying eggs, the poop and egg don't come into contact.
 1. [Snails have brain parasites. Turtles give you colds.](https://www.reddit.com/r/pics/comments/5rqbxq/this_is_a_weirdlooking_rabbit/dd9itc8/?context=10000) Maybe more.
@@ -290,10 +296,10 @@
 1. The [Gibbon](https://en.wikipedia.org/wiki/Gibbon) is the only lesser ape. Gibbons resemble monkeys, but are tailless (like great apes).
 1. [Cats can develop blindness on low taurine diets](https://vcahospitals.com/know-your-pet/taurine-in-cats) (such as dog food).
 1. When grass is first laid, its roots have not properly grown, and it must be watered once every day for a week.
-1. A notched tail flipper found on a lobster indicates [a breeding female][wikipedia]. Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
+1. A notched tail flipper found on a lobster indicates [a breeding female](http://en.wikipedia.org/wiki/Homarus_americanus). Researchers notch the tails, not the males, so there really wasn't much to be learnt here.
 1. Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
 1. Mosquitoes hibernate.
-1. [Old age is not a scientifically recognized cause of death][wikipedia 5] (because old people die of *soemthing*)
+1. [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes) (because old people die of *soemthing*)
 1. An erect turtle penis looks like [Anthurium][wikipedia 101], a common type of flower.
 1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
 1. [(Most) Moths make cocoons.][wikipedia 105] Butterflies harden and make chrysalides instead.
