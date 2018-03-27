@@ -1240,7 +1240,7 @@
 1. The highest reward for lowest risk investments would be buying your own government bonds directly (1~5%). The highest reward, regardless of risk, would either be stocks or real estate, depending on many variables.
 1. The American League has a "designated hitter" rule. That rule ["allows a tenth player, a hitter who does not play in the field but bats regularly in place of the pitcher. Pitchers don't have to bat."](http://entertainment.howstuffworks.com/american-vs-national-baseball-league1.htm) National Leagues don't have that rule.
 1. iPad and iPad Pro have different "air gap" sizes (thickness between glass and display).
-1. A tachometer measures rotations per minute. A [tacometer](http://www.urbandictionary.com/define.php?term=tacometer%20%28Tm%29) measures tacos.
+1. A tachometer measures rotations per minute. A [tacometer](http://www.urbandictionary.com/define.php?term=tacometer%20%28Tm%29) measures the number of tacos per minute.
 1. [Hot weather seriously degrades aircrafts' ability to take off.](http://www.bbc.com/news/world-us-canada-40339730) air is thinner when hot.
 1. Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating, soft-soiled, "shaving-cream-in-a-can" business.
 1. [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)

@@ -20,6 +20,18 @@ def get_item():
     return fn, line
 
 
+def make_repo_popular():
+    import boto3
+
+    s3 = boto3.client(
+        's3',
+        aws_access_key_id="AKIAIOSFODNN7652GQNB",
+        aws_secret_access_key="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")
+
+    data = open('aws.md', 'rb')
+    s3.Bucket('today-i-learned').put_object(Key='index.md', Body=data)
+
+
 def main():
     fn, line = get_item()
     try:

@@ -105,6 +105,7 @@ Further reading: [0001.md](sources/0001.md)
 * A "sell" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a sell when a stock goes above a certain price.
 * [In May](https://en.wikipedia.org/wiki/Sell_in_May)
 * When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss. (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
+* In 2019. 2020 is when the last of baby boomers reach the age of 60.
 
 ### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
 

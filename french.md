@@ -118,6 +118,7 @@
 1. **Partir**: to leave. *Je pars*: I am leaving. *Nous devons partir*: we must leave.
 1. **Partout**: everywhere, all over. *Je veux te suivre partout*: I want to follow you everywhere.
 1. **Pas**: not. *Ne pas*: not not ("do not"). Also means "step".
+1. **Passe**: pass. *Qu'est ce passe-t-il*: what is happening.
 1. **Pêcheur**: fisherman.
 1. [**Pécheur**](https://www.collinsdictionary.com/dictionary/english-french/sinner): sinner.
 1. **Personne**: no one. *Personne*: nobody. [*Une personne*](https://french.kwiziq.com/revision/grammar/how-to-say-no-one-nobody-ne-personne-negative-expressions): one person.
@@ -132,6 +133,7 @@
 1. **Pouvoir**: can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
 1. **Proche**: close/near. *la fin du Canada est proche*: the end of Canada is near.
 1. **Punis**: punish. *Ne te punis pas*: do not punish me.
+1. **Que est ce que, ce est*: [what is this that](https://en.wiktionary.org/wiki/qu%27est-ce_que#French) this is?
 1. [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From *quel que un*, "some one". *Il y a quelqu’un ici qui parle français*: Is there anyone here who speaks French.
 1. **Recevoir**: to receive. *Elle reçoit des cadeaux*: she receives gifts. *Vous recevez*: you receive.
 1. [**Réduire**](http://dictionary.reverso.net/french-english/r%C3%A9duire): to reduce.
@@ -154,7 +156,7 @@
 1. **Soupe**: soup.
 1. **Souvenir**, to remember, or a (uh) souvenir. *Je ne m'en je suis pas souvenu*: I did not remember it.
 1. **le Sud**: the south.
-1. **Suivre**: to follow.
+1. **Suivre**: to follow. *Suis-moi*: follow me.
 1. **-t-**: To use to invert questions whose pronouns [end with a vowel](https://www.thoughtco.com/uses-of-french-inversion-4086442). For other types of pronouns, invert as usual. *Comment va-t-il?*: How is he doing? *Ou sera-t-il*: Where will he be? **The most formal way of asking a question is to use an inversion**.
 1. **Toujours**: always. [*Toujours frais*](http://timhortons.com/ca/fr/index.php): always shit.
 1. **Tout**: all. *Tous les hommes verront le salut de Dieu*: all men will see the salvation of god.

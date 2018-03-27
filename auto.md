@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Cars in the left lane turning left during the brief period when both traffic lights are red, known as the [Pittsburgh left](https://en.wikipedia.org/wiki/Pittsburgh_left), is a terrible idea, even in Pittsburgh.
 1. In the event of a blowout, you aren't supposed to brake, as it forces you to fishtail.
 1. [People who listen to techno ran through twice as many red lights as people who didn't listen to anything.](https://www.youtube.com/watch?v=OlV8A0SLa6Y)
 1. Olive oil might dissolve tree sap.

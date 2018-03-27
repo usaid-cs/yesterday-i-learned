@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The center of Canada is (62.40, -96.47), the middle of nowhere in Nunavut.
 1. The entire Kitchener-Waterloo area is under the postal code prefix [N2](http://www.topmoving.ca/images/Tools/Canada%20FSAs/Western%20Ontario/Kitchener-_Waterloo.gif).
 1. Due to France's failed conquests, Quebec is [the second most popular place you can speak French](https://en.wikipedia.org/wiki/French_language#/media/File:New-Map-Francophone_World.PNG).
 1. [TD does not have travellers' cheques.](https://www.tdbank.com/tdhelps/default.aspx/can-i-get-travelers-check-from-td-and-how-much-do-it-cost/v/40333861/) You can use your debit card though... if people take *that*.
