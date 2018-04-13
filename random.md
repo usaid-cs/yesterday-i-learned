@@ -1,5 +1,50 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Escape fires are a strategy to escape a wildfire by lighting your current location fire. If the wind is blowing, you will not be able to escape a fire coming towards you. However, should you also start a fire (2) at your location, you will deprive fire 1 of resources by letting fire 2 consume it first.
+1. ["Edgy"](https://www.urbandictionary.com/define.php?term=edgy) means "trying so hard to be cool it's cringeworthy".
+1. [Baseboard](https://www.homedepot.ca/en/home/categories/appliances/heating-cooling-and-air-quality/heaters/baseboard-heaters.html) heating is [really inefficient](https://www.reddit.com/r/waterloo/comments/8bgztf/new_condo_w_electric_heatis_cost_that_bad/) compared to gas.
+1. [Anthony Daniels](http://starwars.wikia.com/wiki/Anthony_Daniels) (as C-3PO) is the only actor to "be credited to appear in all eight Star Wars episodic films, as well as Rogue One" (R2-D2 is not an actor).
+1. To [knoll](https://en.wikipedia.org/wiki/Knolling) is to arrange things at 90 degree angles to each other, i.e. being tidy.
+1. Wikipedia editors speculate that there are only going to be [4](https://en.wikipedia.org/wiki/List_of_prime_numbers#Double_Mersenne_primes) double Mersenne primes ever, the first one being 7.
+1. Despite being in decline for the last 5 years, [Facebook is still the dominant Internet community](https://imgur.com/d93NZ0B).
+1. *Magnum opus* is Latin for "great work", or "masterpiece".
+1. [People with autism die much younger](https://www.healthline.com/health-news/why-people-with-autism-die-at-younger-age) (16 years younger on average). They consider suicide more often than the general population.
+1. Sewing needles have rounded tips, so it doesn't damage the fibre. Leather needles have sharp tips instead.
+1. The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, and Mars has no moons either.
+1. Lenses with larger apertures (e.g. f/1.5) have more issues with chromatic aberration than lenses [of the same quality] with smaller apertures.
+1. [Eats, shoots & leaves](https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves) can either be a book about punctuation, or [a restaurant-brothel](https://www.reddit.com/r/IAmA/comments/88u7va/iama_legal_working_girl_prostitute_courtesan_of/dwnif2a/).
+1. [Black crush](https://www.reddit.com/r/GooglePixel/comments/7i2xpr/pixel_2_black_crush_and_the_color_options/) refers to the ability to see different shades of black on a screen.
+1. **Finite**: an exact number N. **Unbounded**: anything below finite number N.
+1. People in the middle ages [didn't](http://www.slate.com/blogs/quora/2013/12/24/did_people_in_the_middle_ages_throw_excrement_out_windows.html) throw poop out of doors.
+1. "French food on tiny plates" is called [*Haute cuisine*](https://en.wikipedia.org/wiki/Haute_cuisine), or "high cuisine". *Haute cuisine* focuses on the cost of making elaborate preparations (as costly as possible) rather than the amount or value.
+1. Lynching is justice punishment by mob. It does not specify the method.
+1. "Devil's lettuce" refers to marijuana, not kale.
+1. All WWI veterans died [before 2013](https://en.wikipedia.org/wiki/List_of_last_surviving_World_War_I_veterans).
+1. Butter is 80% butterfat, 15% water, and 5% protein. Clarified butter is that without the water and protein.
+1. It doesn't matter what colour you are; [if you are a woman, you get lighter sentences.](https://www.sciencedirect.com/science/article/pii/S0047235215000665)
+1. The [Polsby-Popper Test](https://en.wikipedia.org/wiki/Polsby-Popper_Test) quantifies [how messed up gerrymandering is](https://reason.com/archives/2018/03/27/gerrymandering-is-out-of-control). First you draw the smallest circle that contains an area. Then you calculate the percentage coverage of the circle by that area. The more messed up gerrymandering is, the lower this coverage.
+1. Where's Wally becomes [Where's Waldo](https://en.wikipedia.org/wiki/Where%27s_Wally%3F) in North America.
+1. Ricotta cheese is made by coagulating proteins out of whey, the byproduct of cheesemaking. Even the name *Ricotta* says the cheese is recooked.
+1. When someone tells you to do something, and you immediately dislike doing it because you are told to do something rather than out of your own free will, is a case of [reactance](https://en.wikipedia.org/wiki/Reactance_%28psychology%29).
+1. [Hacker news looks shockingly like the first Reddit layout.](https://web.archive.org/web/20051029165515/http://www.reddit.com)
+1. In the event that was [Uber self-driving car kills cyclist](http://www.tmz.com/2018/03/22/dash-cam-video-deadly-self-driving-uber-crash-released-pedestrian-killed/), that two-wheeled maniac was crossing the road in the dark, and the "driver" was not looking out.
+1. [The earth wire in a UK plug is meant to have more slack than the live and neutral wires](https://www.youtube.com/watch?v=UEfP1OKKz_Q&feature=youtu.be), so that when you yank the plug out, the earth wire is more likely to be detacted last. The UK plug contains a fuse because, get this, their houses are built on [ring circuits](https://en.wikipedia.org/wiki/Ring_circuit), since [copper was expensive after WW2](https://news.ycombinator.com/item?id=1782791), and ring circuits are cheaper to wire up than one wire for every socket, which is what you'll find in normal houses today. In other words, the Brits have deferred electrical safety to the appliance rather than the house.
+1. A planet gets tidally locked, as a matter of fact, if it's too close to a star. Because, you know, the water is pulled towards the star. So you can't just look for Earth-like planets near the right temperature---[you need to look for the right size of star as well](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Spectral_types_and_star-system_characteristics).
+1. String theory, integrating gravity with the point-in-space ["standard model"](https://en.wikipedia.org/wiki/Standard_Model), is theoretically sound. [In 10-dimensional space](https://www.youtube.com/watch?v=Da-2h2B4faU). Maybe [it doesn't even make sense](https://en.wikipedia.org/wiki/String_theory_landscape).
+1. Deadmau5 is [this guy](https://www.youtube.com/watch?v=5LZQOAKYVLI).
+1. Suppose encryption can be ELI5'd as [mixing colours](https://youtu.be/YEBfamv-_do?t=2m18s). By raising a shared secret by the powers of each other's private keys (colours), no one's private key (colour) is plainly exposed while transmitted. This (when explained properly) is called [Diffie-Hellman Key Exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), and has nothing to do with messages being transmitted.
+1. [Tainted Love](https://en.wikipedia.org/wiki/Tainted_Love), a song from 1964, was made popular by Soft Cell's cover in 1981.
+1. The [sound](https://www.youtube.com/watch?v=oM4CMtsdNjY) from 9/11 videos are from [PASS alarms](https://en.wikipedia.org/wiki/PASS_device) activated on [343 fallen firefighters](https://www.youtube.com/watch?v=I3nThzsNHZU).
+1. The other end of a file is for installing replaceable handles.
+1. Carrie Fisher had a dog named [Gary](http://people.com/movies/carrie-fishers-beloved-dog-gary-by-her-side-at-hospital-after-heart-attack-report/). Gary Fisher.
+1. The four flat pins on the sides of some DVI cables carry analogue signals. They are optional when digital signals are used (which is usually).
+1. In the King James version of the bible, [Isaiah 45:7](https://www.biblegateway.com/passage/?search=Isaiah+45%3A7&version=KJV) says that God created evil. ["Satan doesn't really appear in the bible, and when he does, he's just doing some tempting. Now, God, on the other hand, fucks shit up."](https://www.reddit.com/r/facepalm/comments/6qo1kt/out_of_context/dkyo8ms/?context=3)
+1. Dryer sheets and fabric softeners reduce static by addng wax to laundry. Do not use dryer sheets and fabric softeners with towels, which makes them dry less well.
+1. [Clapperboards](https://en.wikipedia.org/wiki/Clapperboard) are meant to help synchronise picture and sound in later editing.
+1. ["damn girl, are you a girl, because damn"](https://www.reddit.com/r/Jokes/comments/7kb78u/damn_girl_are_you_a_newspaper/drdaonj/)
+1. The S in [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis) is Staples. Clive Staples.
+1. When asked to choose a random number between 1 and 10, [people pick 7](https://i.imgur.com/bCaheF1.png). Start picking 1 instead.
+1. [North Korea almost won the war.](https://www.reddit.com/r/MapPorn/comments/84ggqj/korean_war_19501953_640x640/)
 1. "二打六就係二加六，得個八，唔夠十足十"
 1. The period in braille is made of [three dots](http://www.brailleauthority.org/ueb/symbols_list.pdf).
 1. When Jesus said ["Destroy this temple, and I will raise it again in three days"](http://biblehub.com/john/2-19.htm) during his temple rampage, he meant his body (his resurrection), not the temple he was at.
@@ -452,7 +497,6 @@
 1. ["Fine words butter no parsnips"](https://en.wiktionary.org/wiki/fine_words_butter_no_parsnips)... "Nothing is achieved by empty words or flattery.".
 1. [Jason Segel's mother cried when she saw her son's penis.](http://www.nydailynews.com/entertainment/gossip/jason-segel-mom-cried-nude-scene-forgetting-sarah-marshall-article-1.1832573)
 1. [Accelerometer readings can be used to reverse engineer what you were typing](https://www.youtube.com/watch?v=metkEeZvHTg), including passwords. Video was from 2011.
-1. Apparently, even with [these rumble strips](https://www.flickr.com/photos/drum118/35287763491/), [this moron](http://www.blogto.com/city/2017/10/car-drives-into-union-station-streetcar-tunnel-toronto/) still managed to drive into our dear tracks.
 1. The PhotoShop logo changed from serif to sans-serif in [v3](https://www.thoughtco.com/adobe-photoshop-history-4122594) (1994), inexplicably back to serif in v5.5 (1999), and back to sans-serif in PhotoShop CS (2003).
 1. Like a passport, every time you want to renew something called a "pal", you need to have a few buddies to be references for you.
 1. [/u/sidewalkchalked](https://www.reddit.com/r/worldnews/comments/7ddi2k/north_korean_defector_had_10inch_parasite_in_his/dpxharh/): 'Once I was on a date with a cute girl. It was going pretty well, so I brought her back to my place. When I got there, my roommate bolted up from the couch and said he had to talk to me urgently. He said the girl had to leave. So I told her bye and she left. He reached down and scratched his asshole. Then he brought his finger up, and there were little bits of white on it. They looked like tiny pieces of rice. I said what the fuck is that. He said he didn't know. We forgot about it, but a month later it happened again. Then a month later, again. His asshole would get all itchy, then it would get covered with little white rices. Eventually we started calling this his ass period, because it came once a month and made him grouchy. The only other side effect was that he developed disgusting gas and burps that we called "vomit burps" because they smelled like vomit. if he vomit burped, it could stink up an entire car like vomit and make everyone else want to barf. Well, he was pre med, so he started researching it. One day he went to the clinic, and he came back really grouchy. He had a pill that he called "the horse pill." He said that it was a nuke and it would destroy his problem. We didn't ask what the problem was, but a few days later he got an awful stomach ache and went for a shit. He said he felt something dying inside of him, wiggling around and fighting. Basically he went to shit, and he pooped out the mother. The mother would "segment" once a month and send out the little rices, which were its babies. That's what we found out. So the mother came out of his butthole, but only part way. He had to grab it and pull it out of his ass bit by bit. Hand over hand, like a sailor pulling a rope. It was very long, he said. When he came out of the bathroom he was white as a sheet, and all he said was "it's over" and **"never tell anyone about this."**' [/u/So_Many_Owls](https://www.reddit.com/r/worldnews/comments/7ddi2k/north_korean_defector_had_10inch_parasite_in_his/dpxirbz/): "He asked you to do one thing."
@@ -1669,8 +1713,7 @@
 1. You [can][jetbrains] debug through SSH!
 1. Parkinson's law of Triviality: the more trivial a task is, the more opinion you will get for doing it, so the slower it will be done.
 1. [`(jenkins_url)/safeRestart`][stackoverflow 5] restarts it.
-1. A jenkins job can be cloned or backed up [by just copying the files][jenkins-ci].
-1. A jenkins job can also be copied by right-clicking on it, you idiot.
+1. A jenkins job can be cloned or backed up [by just copying the files][jenkins-ci]. A jenkins job can also be copied by right-clicking on it.
 1. Compiling `npm` will require [this fix][stackoverflow 6].
 1. A `site.pp` file controls Puppet's behaviour. It's a Perl script.
 1. Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle][crackstation] -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
@@ -1684,7 +1727,7 @@
 1. [The only fool-proof way to install nodejs and npm][stackoverflow 7] on ubuntu 12.04
 1. To make a plain text HTTP request with passwords containing stupid characters, do this: `http://'user:pass'@hello.ca`
 1. `Ctrl+_` gets you the line number dialog in nano/pico.
-1. You idiot...! VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
+1. VLC's shortcuts don't need modifier keys! `n` and `p` already control the playback!
 1. [Living by yourself][reddit 2]
 1. [The Carcinogenic Prototype][hedges]: a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 1. Regex substitutions: when in doubt, try `$1` first, then `\1`.
@@ -1865,11 +1908,9 @@
 1. Coincidentally, [Homer][wikipedia 42], an author, wrote a poem about Odysseus.
 1. [Homie][wikipedia 43] did not come from the word *Homer*.
 1. [Muhammad is not depicted][wikipedia 44] because Muslims are concerned with idoltry, including idoltry of their own prophets.
-1. Non-Muslims are prohibited from entering [Mecca][wikipedia 45], where Muslim pilgrims jostle for a chance to kiss the [Black Stone][wikipedia 46], an Islamic relic which, according to Muslim tradition, dates back to the time of Adam and Eve (making Adam and Eve about 400 years old).
+1. Non-Muslims are prohibited from entering [Mecca][wikipedia 45], where Muslim pilgrims jostle for a chance to kiss the [Black Stone][wikipedia 46], an Islamic relic which, according to Muslim tradition, dates back to the time of Adam and Eve (making Adam and Eve about 1500 years old).
 1. Meteorites are meteors that reach the ground.
 1. The American civil war began because white people in the Southern states wanted slavery but the North did not. To this day, some black people still hate white people for having this war, AFAIK.
-1. Bats are [hosts][wikipedia 47] for many viruses that affect primates, including the ebolavirus, rabies, and SARS.
-1. Unlike smallpox, [the SARS coronavirus has not been eradicated in the wild][wikipedia 48]. It is obvious, after learning that smallpox is the [only human infectious disease to have been eradicated][wikipedia 49].
 1. [Some sites][stackexchange 3] always ask for the user's age, to avoid liability of a young user visiting the page while an older user is logged in.
 1. [A Void][wikipedia 50] is a book without the letter "e" (apart from the author's name).
 1. Never buy Seagate drives; [Stop buying WD][backblaze]; start buying HGST (Hitachi).
@@ -3268,9 +3309,6 @@
 [wikipedia 44]: http://en.wikipedia.org/wiki/Depictions_of_Muhammad
 [wikipedia 45]: http://en.wikipedia.org/wiki/Mecca
 [wikipedia 46]: http://en.wikipedia.org/wiki/Black_Stone
-[wikipedia 47]: http://en.wikipedia.org/wiki/Natural_reservoir
-[wikipedia 48]: http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome#Epidemiology
-[wikipedia 49]: http://en.wikipedia.org/wiki/Smallpox
 [wikipedia 50]: http://en.wikipedia.org/wiki/A_Void
 [wikipedia 51]: http://en.wikipedia.org/wiki/Samaritan
 [wikipedia 52]: http://en.wikipedia.org/wiki/Chorioactis

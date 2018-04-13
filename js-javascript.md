@@ -152,7 +152,7 @@ undefined
 * Lodash's `_.curry()` allows the use of itself as placeholders. `_.curry(func, _, 'foo')` curries `func` with the second argument specified.
 * Assigning a property to `"a string"` and expecting it not to persist is [all well and good](http://stackoverflow.com/questions/5201138/why-cant-i-add-properties-to-a-string-object-in-javascript), but only AngularJS throws an Error when you do it. In other cases, the property simply reads `undefined`.
 * You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.
-* Douglas Crockford is [actually a moron](https://github.com/douglascrockford/JSLint/commits/master).
+* Douglas Crockford [commits with awful messages](https://github.com/douglascrockford/JSLint/commits/master) (like you).
 * Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
 * `String(null)` works; `null.toString()` doesn't.
 * [ALWAYS](http://blog.heroku.com/archives/2015/11/10/node-habits-2016) make an `.npmrc` that sets `save=true` and `save-exact=true`.
@@ -184,6 +184,7 @@ undefined
 * `clobber: true` when using `fs.copy` or `copySync` would overwrite the destination file if it exists. The term [clobber](https://stackoverflow.com/a/9392784/1558430) might have come from `cp`, where `cp -n` has a man page saying "do not overwrite an existing file (overrides a previous -i option)".
 * "Node JS" pronunciations [include](https://groups.google.com/forum/#!msg/nodejs/-d5LcWlQrxI/CarozdtVP3MJ) Node Jay Ess (commonly), No der Jay Ess, and most importantly, Node Dot Jizz.
 * Use `Object.prototype.hasOwnProperty.call(obj, prop)` instead of `obj.hasOwnProperty`, [because](https://stackoverflow.com/a/12017703/1558430) anyone can define a `hasOwnProperty` on an object.
+* `isFinite(NaN)` is, quite contrary to all the other insanity that JS forces you to think is normal, actually returns `false`.
 
 ## Deferred API
 

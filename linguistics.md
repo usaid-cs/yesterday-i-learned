@@ -1,3 +1,11 @@
+1. It is impossible to say "yes, I see him" in French. At least I don't know how to say that, apart from saying "yes, I see it".
+1. [Outside one's wheelhouse](https://idioms.thefreedictionary.com/outside+my+wheelhouse): out of one's comfort zone. A [wheelhouse](https://en.wikipedia.org/wiki/Wheelhouse) is some made-up baseball term with nothing to do with wheels or houses.
+1. According to [this page](https://en.wikipedia.org/wiki/Hong_Kong_English#Hong_Kong_vocabulary/expressions), Chinese people call it Hong Kong foot, Hong Kong people call it Singapore foot, and Singaporeans call it Manila foot. Therefore, foot fungus came from the Philippines.
+1. *Catholic* came from the Greek word for "universal".
+1. When Julius Caesar was alive, his name was written [IVLIVS](https://en.wikipedia.org/wiki/Julius_Caesar), because they have neither J, U, nor lower case letters.
+1. The Japanese loanword for "keyboard" is キーボード, *KIBOdo*. There's also 鍵盤, but that's [empirically less cool](https://www.youtube.com/watch?v=guJnFY1R4I0).
+1. [Apple](https://en.wiktionary.org/wiki/apple) (æppel) just means any fruit in general.
+1. [There are no words in Irish for yes and no](https://en.wikipedia.org/wiki/Irish_syntax#Questions_and_answers). See [this woman](https://www.youtube.com/watch?v=hcepgXwWbjI) in action.
 1. [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) led to the popularity of the term *Crapper*. He however did not invent the the flush toilet, nor the word *crap*, a middle English word.
 1. [More than 2/3 of the US speak English exclusively](https://en.wikipedia.org/wiki/Languages_of_the_United_States).
 1. The Hawaiian language has 5 vowels and 8 consonants. The  [consonants](https://en.wikipedia.org/wiki/Hawaiian_language#Consonants) are roughly equivalent to m, n, p, t/k, h, w, l, and a glottal stop.

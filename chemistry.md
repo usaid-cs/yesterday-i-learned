@@ -1,3 +1,6 @@
+1. Cobalt was discovered before oxygen. It took them something like 70 years to discover sodium after cobalt.
+1. [Ouzo effect](https://en.wikipedia.org/wiki/Ouzo_effect) takes place when water is added to an alcohol that dissolved a lot of essential oils, which causes hydrophobic oils to ~~precipitate out~~ form droplets.
+1. [NADP](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide) is a phosphorylated version of [NAD](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide). NADH *is* NAD (no charge), and NAD+ *is* NAD (lost a charge on a particular nitrogen). The general equation is `H₂ + NAD+ → NADH + H⁺`.
 1. [MKG](https://en.wikipedia.org/wiki/Monopotassium_glutamate) does exist! Sodium-free umami!
 1. Mercury [destroys](https://en.wikipedia.org/wiki/Aluminium_amalgam) aluminium only if it goes through the Al2O3 layer, and if water is present.
 1. Gold is not the most corrosion-resistant metal, apparently... iridium is.

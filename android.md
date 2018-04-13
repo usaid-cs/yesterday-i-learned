@@ -6,6 +6,9 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Using OpenKeychain [requires](https://www.openkeychain.org/faq/#are-my-secret-keys-safe-on-my-mobile-device) your secret key to be on your mobile device. The project knows that this is inherently less secure than if your key were stored offline in a remote bank vault.
+1. 2018-04-01 LineageOS builds have [an Easter egg that a) got pushed to devices late, and b) will not disappear after April Fools day](https://www.lineageos.org/An-April-Apology/).
+1. Qualcomm Quickboot is just putting the phone in a [special kind of airplane mode](https://forum.xda-developers.com/android/software/universal-quickboot-cyanogenmod-12-0-12-t3082041).
 1. OnePlus 2 and 3 had the lamest codenames in the series: bacon (1), onyx (X), *oneplus2* (2), *oneplus3* (3/3T), cheeseburger (5), dumpling (5T).
 1. [Samsung phones (article: Galaxy S8) lose 20% battery capacity when rooted](https://www.xda-developers.com/sampwnd-root-galaxy-s8-snapdragon/) because Samsung really hates you, your life choices, and making money off you.
 1. Inputs can be emulated with [`input tap x y` and `input swipe x1 y1 x2 y2`](https://forum.xda-developers.com/u/tasker-tips-tricks/best-run-shell-commands-tasker-t3419204)

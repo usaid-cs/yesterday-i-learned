@@ -69,6 +69,7 @@
 1. **Foyer**: home. See also: *maison*, house.
 1. [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
 1. **Fromage**: cheese. [*Omelette du fromage*](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
+1. **Fumier**: manure. *J'avais des éclairs de chez nous, de l'étable, du fumier.*
 1. **Garçons**: A Catholic church staple.
 1. **Gâteau**: cake.
 1. [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. *Je te hais*: I hate you (probably).
@@ -137,6 +138,7 @@
 1. [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From *quel que un*, "some one". *Il y a quelqu’un ici qui parle français*: Is there anyone here who speaks French.
 1. **Recevoir**: to receive. *Elle reçoit des cadeaux*: she receives gifts. *Vous recevez*: you receive.
 1. [**Réduire**](http://dictionary.reverso.net/french-english/r%C3%A9duire): to reduce.
+1. **Remercier**: to thank. *Ils la remercient*: they thank her.
 1. **Rentre**: to return. *Rentre chez toi*: go back to your house.
 1. **Repas**: a meal. *Je repas à zéro* probably means "I have a meal at zero".
 1. **Repars**: restart. *Je repars à zéro*: I restart at zero.

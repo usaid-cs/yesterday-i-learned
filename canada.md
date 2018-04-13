@@ -1,5 +1,11 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Apparently, even with [these rumble strips](https://www.flickr.com/photos/drum118/35287763491/), [this guy](http://www.blogto.com/city/2017/10/car-drives-into-union-station-streetcar-tunnel-toronto/) still managed to drive into our dear tracks.
+1. Driving a car on the 407 without a transponder results in a [rate](https://en.wikipedia.org/wiki/Ontario_Highway_407#Rates) of about $9 + $0.50/km. Let's say you drive 60 out of the 139km, that's a $78 round trip for nothing.
+1. The QEW [IS](https://en.wikipedia.org/wiki/Queen_Elizabeth_Way) highway 403 in the section between Mississauga and Burlington. 403 goes west, QEW goes south.
+1. ["If you prefer you can report your gain/loss/investment income in the Capitals Gains & Losses and/or Investment Income section (as the case may be)." "For capital transactions in particular, many users find it much easier to use the Capital Gains & Losses section than the T5008 section. From a NETFILE perspective there is no difference; exactly the same information will be transmitted to the CRA regardless of where you report it. Just be sure not to report dispositions in both sections."](https://help.simpletax.ca/questions/t5008-slip)
+1. It is not illegal to walk around the streets without an ID.
+1. [Chicken sold with no injected brine is exempt from labelling.](http://www.inspection.gc.ca/food/labelling/food-labelling-for-industry/nutrition-labelling/exemptions/eng/1389198015395/1389198098450?chap=2) To check if labelled chicken contains added brine, the daily value for sodium should be 1~5% instead of 10~30%.
 1. The center of Canada is (62.40, -96.47), the middle of nowhere in Nunavut.
 1. The entire Kitchener-Waterloo area is under the postal code prefix [N2](http://www.topmoving.ca/images/Tools/Canada%20FSAs/Western%20Ontario/Kitchener-_Waterloo.gif).
 1. Due to France's failed conquests, Quebec is [the second most popular place you can speak French](https://en.wikipedia.org/wiki/French_language#/media/File:New-Map-Francophone_World.PNG).

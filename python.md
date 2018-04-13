@@ -401,6 +401,13 @@ bar
 1. To pick multiple columns off a dataframe, you can't do `df['a', 'b', 'c']` because that's intuitive and pythonic. You [need](https://stackoverflow.com/a/48584948/1558430) to do `df[['a', 'b', 'c']]` instead...
 1. Importing `matplotlib.pyplot` as `plt` is [a standard convention](https://pandas.pydata.org/pandas-docs/stable/visualization.html).
 1. [Celery beat is a process that just puts tasks into queues in regular intervals](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html). You still need a separate worker to listen to that queue.
+1. Alembic [`stamp`](http://alembic.zzzcomputing.com/en/latest/api/commands.html#alembic.command.stamp) is the SQLAlchemy equivalent of faking a migration. Example: `stamp fc34a1fc6e7d`. You might need to get dirty anyway, as there is no unstamping.
+1. [`.get(something)` is just `.filter(primary key == something).first()`](https://stackoverflow.com/questions/34299704/when-to-use-sqlalchemy-get-vs-filterfoo-id-primary-key-id-first).
+1. On celery workers: "pre-fork for CPU instensive, eventlet/gevent for IO bound work   ya prefork would block the workers while making long HTTP requests, preventing other work from being done. Async lets IO things happen more concurrently" - a guy who types "ya" instead of "yeah"
+1. Alembic is worse than Django migrations in [various ways](http://alembic.zzzcomputing.com/en/latest/autogenerate.html#what-does-autogenerate-detect-and-what-does-it-not-detect). First, it does not auto detect table OR column renames. Second, it does not detect changes in contraints. Third, I'll make something up later.
+1. [`mailbox`](https://docs.python.org/2/library/mailbox.html) is a standard library. It manipulates mailbox files (like `.mbox`).
+1. Comparing with `None` using `<` or `>` in python3 raises a `TypeError`. `None` was previously just "less than everything".
+1. You give Arrow an absurd date, like `arrow.get(year=0, month=0, day=0)`, and it will give you the current time. Sure. But you do something completely reasonable, like [`arrow.get(year=1918, month=11, day=11)`](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918), it will still give you the current time. "Yeah but that's before the epoch," you say? **Nope**. You're just calling it wrong. `arrow.get()` doesn't take year/month/day as arguments.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

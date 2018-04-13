@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The footprint method in the regulation called [CAFE](http://www.thetruthaboutcars.com/2012/10/how-cafe-killed-compact-trucks-and-station-wagons/) means companies muck around with their vehicles in order to go into different segments by size: "the [PT Cruiser was designed to meet NHTSA standards for classification as a light truck](https://en.wikipedia.org/wiki/Chrysler_PT_Cruiser), for the express purpose of raising Chrysler’s light truck average fuel economy."
+1. Cars turning left at an intersection have no right of way, even [compared to cars trying to turn right into a different lane.](https://www.insurancehotline.com/understanding-right-of-way-common-scenarios/)
+1. Unless you can plug it in in some (way shape form), hybrids aren't the answer to an oil crisis. Using half the gas is still using gas. [Plug-in hybrids ("PHEVs") can travel 20~80km without gasoline](https://www.plugndrive.ca/electric-cars-available-in-canada/), about 25% the distance of pure electric vehicles, and [should](https://www.slideshare.net/gshobb4005/electric-cars-vs-gas) have the total cost of ownership if you plan to own the vehicle forever.
 1. Cars in the left lane turning left during the brief period when both traffic lights are red, known as the [Pittsburgh left](https://en.wikipedia.org/wiki/Pittsburgh_left), is a terrible idea, even in Pittsburgh.
 1. In the event of a blowout, you aren't supposed to brake, as it forces you to fishtail.
 1. [People who listen to techno ran through twice as many red lights as people who didn't listen to anything.](https://www.youtube.com/watch?v=OlV8A0SLa6Y)
@@ -42,7 +45,7 @@
 1. VW has a [VR engine](https://en.wikipedia.org/wiki/VR6_engine) (Vmotorreihenmotor) that is a V engine, except a bit more stacked, closer to inline.
 1. Car engines have mounts. [Otherwise, they pop out.](http://www.reddit.com/r/justrolledintotheshop/comments/57jlc4/_/)
 1. Mechanics change your oil by first [pumping pressurised gas](https://www.reddit.com/r/Justrolledintotheshop/comments/5a22jc/never_trust_the_new_guy_to_drain_an_oil_bin/d9d3xg7/) into the "oil bins", emptying them.
-1. If you end up being idiotic enough to buy a !Toyota, remember to take into account the [outrageous warranty](https://www.youtube.com/watch?v=QJNO6p54bUI) that you will want to buy.
+1. When buying a car, remember to take into account the [outrageous warranty](https://www.youtube.com/watch?v=QJNO6p54bUI) that you will want to buy.
 1. If your car's clearcoat is coming off, just take off both the base and the clearcoat, and repaint the whole thing. [No other method, such as clearcoating over broken base coat, is really worth the savings.](https://www.youtube.com/watch?v=tU9JnLoJGGI) Clearcoating over old paint will never come out right.
 1. > An unspecified [Cheiracanthium](https://en.wikipedia.org/wiki/Cheiracanthium) species is attracted to the smell of petroleum and has caused problems by weaving webs inside the canister vent of particular models of Mazda vehicles, resulting in blockages and build-up of pressure that could potentially cause fuel leakage from the fuel tank and an increased risk of fire. Mazda issued a voluntary recall of Mazda 6 models...
 1. It is not legal (in many jurisdictions) to turn left into a left turn lane. The lane is only for turning left from it.

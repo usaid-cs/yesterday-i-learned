@@ -49,7 +49,7 @@
 1. And then there's [this](http://stackoverflow.com/a/876242/1558430), for *appending* both stdout (1) and stderr (2) to the same file: `cmd >> file.txt 2> &1` (send output to file.txt, then also send errors to wherever the output is going)
 1. [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`][jovicailic]
 
-    * R: Switch the keyboard from raw mode to XLATE mode
+    * R: Switch the keyboard from raw mode to [XLATE mode](https://unix.stackexchange.com/questions/16530/what-is-raw-keyboard-mode) ("translate", i.e. not raw)
     * E: Send the SIGTERM signal to all processes except init
     * I: Send the SIGKILL signal to all processes except init
     * S: Sync all mounted filesystems
@@ -94,7 +94,7 @@
 1. It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`
 1. Want to write your own file deduper? Unfortunately, it is already made and preinstalled as `fdupes`.
 1. Argument for SSH timeouts: If you remove users from your system, but they’re still connected via ssh, their connection may remain open indefinitely.
-1. While `Ctrl+R` is backwards search, `Ctrl+S` is forward search. (Not very useful, however, because you're almost always near the end of history, where `Ctrl+S` yields nothing)
+1. While `Ctrl+R` is backwards search, `Ctrl+S` is forward search (almost exclusively for when you press `Ctrl+R` too many times).
 1. [The `last` command][askubuntu 2] will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
 1. `readlink (path to link)` outputs where the link is pointing.
 1. `sudo -s` turns you into root and keeps whichever shell you're using.
@@ -217,6 +217,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Having trouble running a GUI as root? `xauth merge /home/darren/.Xauthority` (use that exact user name).
 1. To turn a base64 string back into the file, do `echo base64stringfoobarbaz== | base64 --decode > filename`.
 1. [`v`/`V`/`Ctrl+v`](http://vim.wikia.com/wiki/Cut/copy_and_paste_using_visual_selection) is vim's visual select. You can cut/copy/paste, but can't "type over" the selection, though.
+1. This one weird trick speeds up your ubuntu 16.04 installation (and possibly any linux installation): [`echo "performance" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor`](https://askubuntu.com/a/22950)
+1. Not only should you encrypt a PGP message using the recipient's public key (so only that guy can decrypt it), you should also *sign* the message using your secret key (so only you could have written it).
 
 ## Tmux
 

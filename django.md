@@ -1,5 +1,7 @@
 # Django tips
 
+* `PROTECT` in `FK(foo, on_delete=PROTECT)` is supposed to mean "if you want to delete that foo, you must first delete every object referencing it".
+* [`.exclude()`](https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exclude) generates a `WHERE NOT (conditions)` query rather than flipping those conditions in the code (e.g. `gt` to `<=`).
 * [Django does not force you to put code at some specific place](http://stackoverflow.com/a/8590943/1558430). With that said, since MVC requires a service abstraction layer between M and C, which hardly anyone ever has, Django tends to recommend logic in either V or [M](http://stackoverflow.com/a/8591009/1558430), depending on whether the logic concerns requests.
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all langauges to have those translations in the same order.
@@ -12,10 +14,10 @@
 * [Django never stores timezones in the database.](https://docs.djangoproject.com/en/1.8/topics/i18n/timezones/) The `USE_TZ` setting is only good for converting these UTC times to the site user's local time.
 * The `QuerySet` is a monad. You can call `prefetch_related` and `select_related` in either order and it won't care. (It does care about double splicing and double ordering, however.)
 * To filter by any django model field, use the [`DjangoFilterBackend`](http://stackoverflow.com/a/2137652)
-* All unsaved models (`pk=None`) of the same type hash to the same thing, both because it is technically correct, and becuase Django devs are morons. Do not store them with `set` -- they will just go away.
+* All unsaved models (`pk=None`) of the same type hash to the same thing, because it is technically correct. Do not store them with `set` -- they will just go away.
 * When you change a DB field to a computed field (`@property`), you can specify `db_field` to keep it pointing to the original column name: http://stackoverflow.com/a/12358707/1558430
 * [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset lazy-evaluated (for instance, when you actually use the whole set in a loop)
-* Model fields can default to a callable (function), but the function takes in nothing, so it is really only good for dates and times.
+* Model field defaults can be a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 * Django 1.8 apparently lets you aggregate by an expression now, e.g. `.aggregate(Min('price') + 1)`
 * [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that you cannot reuse, probably for the greater good.
 * Instead of making another Query just to fetch the same object again, there already is an [`obj.refresh_from_db()`](https://docs.djangoproject.com/en/1.9/ref/models/instances/#django.db.models.Model.refresh_from_db) available.
