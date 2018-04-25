@@ -1,5 +1,27 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Westworld S02's "multiple Bernard theory" isn't even a theory. [It's in the trailers.](https://www.reddit.com/r/westworld/comments/8826ar/charlotte_makes_a_discovery_season_2_trailer/)
+1. There is [an entire website](https://www.succeedsocially.com/articlecategories) ("Succeed Socially") devoted to helping Asperger's patients (like you) to make friends, instead of posting deep fried memes on the Internet.
+1. Aaron Swartz didn't create RSS, but he did work a lot on it.
+1. [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams), the dude who wrote that book about dolphins wrapped in towels, also appeared in Monty Python as a surgeon.
+1. [This song](https://www.youtube.com/watch?v=mOYZaiDZ7BM) is called "Cotton Eye Joe".
+1. [Lake Kivu](https://en.wikipedia.org/wiki/Lake_Kivu) blows up from underwater CO2 pressure every thousand-or-so years, suffocating and killing everything around it. "Around the lake, geologists found evidence of massive biological extinctions about every thousand years, presumably caused by outgassing events."
+1. Mortgage brokers give you better deals.
+1. Consider it [impossible](https://stackoverflow.com/questions/131989/how-do-i-get-a-list-of-all-subdomains-of-a-domain#132014) to get all subdomains for a domain name, unless you own it.
+1. Locks that take master keys have [two sets of pins](https://unitedlocksmith.net/blog/how-master-key-systems-work). Having two levels of pins allows the key to turn at either level.
+1. [Tier 1 datacenters](https://en.wikipedia.org/wiki/Data_center#Data_center_levels_and_tiers) are the worst kind of datacenters, with no redundancy in capacity, networking, and power components. Digital Ocean is one of the vendors using only Tier 1 servers.
+1. "Your fingerprint is your username" is a broad summary of [why it actually sucks as a password](https://hackaday.com/2015/11/10/your-unhashable-fingerprints-secure-nothing/): you show them to everyone, you leave them everywhere, you can't change your fingerprints, and since fingerprint scanners are designed to take prints that are "close enough", the authorities don't even need your finger; they just need one that looks close enough.
+1. ["Zero-hour contracts"](http://www.bbc.com/news/business-23573442) allow companies to hire people with no guarantee of hours, and therefore pay.
+1. For pot luck, just bring ribs or pizza. There are foolproof kits for both.
+1. 21% of internet users are Chinese, but [only 2% of the internet's sites are in Chinese.](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet) Conversely, 7% of the internet is Russian, but only 3% of users are.
+1. Thailand was called Siam from 1946 to 1948.
+1. The special term for you jumping, someone else throwing you the basketball, and you dunk it in, is called the [Alley-oop](https://en.wikipedia.org/wiki/Alley-oop_%28basketball%29). "Derived from *allez hop*", the cry of a [French] circus acrobat about to leap.
+1. Those doors whose deadbolts automatically disengage when you turn the handle from the inside are part of a new fire safety standard.
+1. Jalapeño isn't known for being hot. It is known for being fat. (me too thanks)
+1. [GOVT NZ's 404 page](https://www.govt.nz/something) doesn't show NZ. There is [an entire subreddit](https://www.reddit.com/r/MapsWithoutNZ/) about the same joke.
+1. The [Jesus fish](https://en.wikipedia.org/wiki/Ichthys) has a special name *ichthys*, which is not special once you realise that's the Greek word for fish.
+1. [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) is pasta with butter and Parmesan cheese emulsified together. No cream is involved. No cream *can* be involved.
+1. The number of prime numbers decreases as the number goes up. However the number of prime numbers is still infinite.
 1. Escape fires are a strategy to escape a wildfire by lighting your current location fire. If the wind is blowing, you will not be able to escape a fire coming towards you. However, should you also start a fire (2) at your location, you will deprive fire 1 of resources by letting fire 2 consume it first.
 1. ["Edgy"](https://www.urbandictionary.com/define.php?term=edgy) means "trying so hard to be cool it's cringeworthy".
 1. [Baseboard](https://www.homedepot.ca/en/home/categories/appliances/heating-cooling-and-air-quality/heaters/baseboard-heaters.html) heating is [really inefficient](https://www.reddit.com/r/waterloo/comments/8bgztf/new_condo_w_electric_heatis_cost_that_bad/) compared to gas.
@@ -90,7 +112,7 @@
 1. Black woman Viola Desmond [refused to leave whites-only section of theatre](https://www.theguardian.com/world/2018/mar/09/civil-rights-pioneer-viola-desmond-is-first-woman-on-canadian-currency) 10 years before Rosa Parks refused to leave whites-only section of the bus (1946 vs 1955).
 1. Both Louis and Louise translate to famous warrior or "famous in battle".
 1. In 2017, own-daughter rapist [Josef Fritzl](https://en.wikipedia.org/wiki/Fritzl_case) changed his name to Josef Mayrhoff. [He knew he screwed up when other people knew about it.](http://m.heute.at/oesterreich/niederoesterreich/story/50994291)
-1. No results on Google for "broke up mid-thrust"! I now claim this phrase.
+1. No results on Google for "broke up mid-thrust"! I now claim this phrase. Edit: I also claim "broke up at the middle of sex".
 1. Stack exchange runs on [Windows servers](https://meta.stackexchange.com/a/10370/235327).
 1. Distressed jeans are Torn-up jeans that you buy for full price.
 1. "Premium" credit cards [cost more for the merchant to process](https://www.thestar.com/business/personal_finance/2013/07/23/how_credit_card_fees_for_merchants_work.html).
@@ -2001,7 +2023,7 @@
 1. [AK-74][diffen] has better recoil handling, shoots farther, and has less spread. For no reason, then, should it be produced less frequently than the AK-47.
 1. On Walmart promoting bumping up the minimum wage: [Their "benevolence" allows them to lobby for higher minimum wages and push Mom-and-Pop retailers out of business without looking hypocritical. Longer-term the lack of competition helps their bottom-line.](https://www.reddit.com/r/business/comments/2wfpn6/walmart_gives_workers_a_raise_shares_drop/coqkovk/) - dt084
 1. When a person is near death, saliva accumulate near the throat, making noises known as the [death rattle][wikipedia 73].
-1. In Jesus' times, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine." The act of Jesus conjuring good wine when everyone is already drunk made him "the ultimate bro". (John 2:9-10)
+1. In Jesus' times, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine." The act of Jesus conjuring good wine when everyone is already drunk made him "the ultimate bro". (John 2:9-10) This was his *first* miracle.
 1. Facebook has clauses in their open source software that [make their usage completely useless][ycombinator 4].
 1. "Safety is no accident" is technically correct.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG][reddit 26]. Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.

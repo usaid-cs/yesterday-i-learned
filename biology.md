@@ -1,3 +1,9 @@
+1. An article suggests [we want to fit in](https://aeon.co/ideas/the-desire-to-fit-in-is-the-root-of-almost-all-wrongdoing). "[We do wrong] because we lack respect for ourselves."
+1. Chickens can fly, just not very well. Ostriches absolutely cannot fly. As an aside: chickens [were 1kg in the fifties](https://www.huffingtonpost.ca/entry/chickens-bred-bigger_n_5983142), but they are bred to 4kg now.
+1. Breathing in fumes from cleaning products is bad for you, [says this site](https://www.independent.co.uk/news/health/cleaning-products-lungs-damage-cigarettes-smoking-20-day-scientists-warning-a8214051.html).
+1. If consumed orally, THC becomes [11-hydroxy-THC](https://en.wikipedia.org/wiki/11-Hydroxy-THC), which is said to be more potent, but in reality just spikes faster, but stays in the body shorter.
+1. According to a spreadsheet you forgot you saved in 2015, Ecuadorians have the highest average penile volume (252 cm^3), almost 3 times that of Thailand's (lowest, 88 cm^3).
+1. Diabetes can cause renal failure. Dehydration can also cause renal failure. One symptom is pissing brown.
 1. You can get calcium from hard water, but since [you need to take it with fats and vitamins A and D](https://goaskalice.columbia.edu/answered-questions/calcium-hard-water), milk is vastly better as a medium.
 1. If microwave doesn't kill fruit flies because of their size, then microwave obviously doesn't kill bacteria, either.
 1. A [blockage of the ejaculatory duct](https://en.wikipedia.org/wiki/Ejaculatory_duct_obstruction) is not the same as a blockage of the vas deferens. The former prevents almost all semen to exit, whereas the latter only makes you infertile, at least temporarily.
@@ -466,13 +472,13 @@
 1. "Bilirubin" is the brown substance in urine that signals liver stress.
 1. Ostriches are not from Australia.
 1. Fun fact: Toucan's bill has a network of blood vessels and expand them to cool down its body temperature — just like the elephants use their big ears: [picture](http://i.imgur.com/ljQSI6s.jpg)
-1. Almost all mammals, including elements and giraffes, have 7 neckbones, [except manatees and sloths (9)](http://www.sciencedaily.com/releases/2011/05/110505212314.htm)
+1. Almost all mammals, including elephants and giraffes, have 7 neckbones, [except manatees and sloths (9)](http://www.sciencedaily.com/releases/2011/05/110505212314.htm)
 1. In spite of its name, [nattokinase](https://en.wikipedia.org/wiki/Nattokinase) is not a kinase enzyme, but a serine protease of the subtilisin family. It exhibits a strong fibrinolytic activity. (Natto might have an effect on Alzheimer's)
 1. The [Welsh Onion](https://en.wikipedia.org/wiki/Allium_fistulosum) is native to China. (Hint: Welsch is Foreign in German, and Welsh Onion is just green onion.)
 1. There are many pathways for [carbon fixation](https://en.wikipedia.org/wiki/Carbon_fixation). Most plants use C3 fixation (calvin cycle), while some (3%) of them can also use [C4 fixation](https://en.wikipedia.org/wiki/C4_carbon_fixation) (like corn).
 1. Fish don't freeze in salt water, despite being less salty than salt water, because animal glycoproteins inhibit ice crystal growth. [Exact mechanism is explained here](https://www.global.hokudai.ac.jp/blog/why-dont-fish-freeze-to-death-in-icy-water/): "flat crystal faces with high growth rates were truncated by faces with slower growth rates, causing the polyhedral crystal to be surrounded by only flat faces with the lowest growth rates. This resulted in greatly slowing down the growth of the ice crystals."
 1. "I'd say an average person has about 50 cc of stomach fluid. Diabetics, who often have a disorder called gastroparesis (basically slow emptying of the stomach), have between 100 and 250cc."
-1. Quetzals, the national bird of Guatemala, are almost completely reliant on avocados as a food source and avocados are in turn are almost exclusively reliant on quetzals as a seed distributor (not including humans) - they are obligate symbionts. Quetzals eat avocados whole, digest the fruit, then regurgitate the pit.
+1. Quetzals ("ketsal"), the national bird of Guatemala, are almost completely reliant on avocados as a food source and avocados are in turn are almost exclusively reliant on quetzals as a seed distributor (not including humans) - they are obligate symbionts. Quetzals eat avocados whole, digest the fruit, then regurgitate the pit. As for how a bird can eat an entire avocado whole, the answer is "wild avocados aren't that big you idiot".
 1. The term for "having shat but feels like there is still shit in there" is [Rectal tenesmus](https://en.wikipedia.org/wiki/Rectal_tenesmus). The term for "having pissed but feels like there is still piss in there" is [Vesical tenesmus](https://en.wikipedia.org/wiki/Vesical_tenesmus)
 1. Whales eat only when krill is abundant, which is around [four months a year in the arctic](https://youtu.be/1_BqC9IIuKU).
 1. Bee drones (males) have huge eyes, which the workers and queen don't have. They also get much bigger rooms (yes, they are laid in bigger cells. The queen knows if an egg will eventually yield a worker, drone, or a new queen.)

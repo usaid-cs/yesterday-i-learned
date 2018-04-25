@@ -6,6 +6,11 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. There is [no straightforward way](https://stackoverflow.com/questions/16650765/get-application-name-label-via-adb-shell-or-terminal) to find a package's application label by ID. At minimum, you need to first find the path to your APK (`pm list packages -f com.example.package`), then somehow transfer that to `aapt dump badging /path/to/installed.apk`.
+1. [More people downloaded Subway Surfers than Google Calendar.](https://en.wikipedia.org/wiki/List_of_most_downloaded_Google_Play_applications)
+1. From GCMod5's point of view (called `GCam5.1.014-Arnova8G2-v11.1-N.apk`), your particular device is closer to Nexus 6 than it is to Nexus 6P.
+1. The Facebook Android app has [2.2 billion monthly active users](https://growthbug.com/google-play-store-data-3-7mn-36331f2c8b26), only a small percentage of which would be bots given the collection method.
+1. You can `pm disable` apps or components (with root), and [`pm hide` only apps](https://android.stackexchange.com/questions/128949/pm-hide-vs-pm-disable-the-identity-crisis#comment160333_128949) (no root).
 1. Using OpenKeychain [requires](https://www.openkeychain.org/faq/#are-my-secret-keys-safe-on-my-mobile-device) your secret key to be on your mobile device. The project knows that this is inherently less secure than if your key were stored offline in a remote bank vault.
 1. 2018-04-01 LineageOS builds have [an Easter egg that a) got pushed to devices late, and b) will not disappear after April Fools day](https://www.lineageos.org/An-April-Apology/).
 1. Qualcomm Quickboot is just putting the phone in a [special kind of airplane mode](https://forum.xda-developers.com/android/software/universal-quickboot-cyanogenmod-12-0-12-t3082041).

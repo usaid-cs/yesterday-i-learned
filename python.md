@@ -408,6 +408,7 @@ bar
 1. [`mailbox`](https://docs.python.org/2/library/mailbox.html) is a standard library. It manipulates mailbox files (like `.mbox`).
 1. Comparing with `None` using `<` or `>` in python3 raises a `TypeError`. `None` was previously just "less than everything".
 1. You give Arrow an absurd date, like `arrow.get(year=0, month=0, day=0)`, and it will give you the current time. Sure. But you do something completely reasonable, like [`arrow.get(year=1918, month=11, day=11)`](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918), it will still give you the current time. "Yeah but that's before the epoch," you say? **Nope**. You're just calling it wrong. `arrow.get()` doesn't take year/month/day as arguments.
+1. Requests' [sessions](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/) are not just for making code cleaner; it also allows the library to share `urllib3` connection pools, so the code makes fewer unnecessary connections to the target server.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

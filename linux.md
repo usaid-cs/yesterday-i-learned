@@ -1,5 +1,7 @@
 ![Dilbert][imgur]
 
+1. [`tail *`](https://stackoverflow.com/a/7816490/1558430) is a viable alternative to `cat *` if you want to see the file names as well.
+1. There's [a script](https://github.com/Nyr/openvpn-install/blob/master/openvpn-install.sh) that installs openvpn for you.
 1. You can [unset expiry dates you place on your pgp keys](https://riseup.net/en/security/message-security/openpgp/best-practices#use-an-expiration-date-less-than-two-years), says that page. The purpose of the expiration date is to be a dead man's switch to prevent further uses of the key after you die. Same page also says not to sign someone else's key with no expiration date.
 1. [It is systemd's fault](https://askubuntu.com/a/723182) why your network interface is now called "wlp2s0" instead of "wlan0".
 1. The `ServerAdmin` directive in apache2 [doesn't work](https://stackoverflow.com/q/21798272/1558430).
