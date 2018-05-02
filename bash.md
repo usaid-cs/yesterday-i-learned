@@ -263,6 +263,11 @@
             echo $?
         )
 
+        # IFS ("Internal Field Separator") is a special
+        # variable for splitting lines
+        # https://bash.cyberciti.biz/guide/$IFS
+        IFS=- read a b c <<< '1-2-3'
+
 #### This ensures the entire script is downloaded
 
     # Try commenting out this line. You will get:

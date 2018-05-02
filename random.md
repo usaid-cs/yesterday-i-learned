@@ -1,5 +1,18 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. `Ctrl+0` in Excel hides the column. `Ctrl+9` hides the row. `Alt+Enter` replaces the last selected cell with a sum of the other cells. None of those work in Google Sheets.
+1. The [camel's nose](https://en.wikipedia.org/wiki/Camel%27s_nose) is the same as the [slippery slope](https://en.wikipedia.org/wiki/Slippery_slope). Both involve a chain of conditionals that end up doing worse than the starting argument.
+1. Bruce Peninsula has your best bet in [seeing stars at night](http://darksitefinder.com/maps/world.html) nearby.
+1. People from 1999 have long predicted [the loss of personal privacy from mobile devices](https://www.reddit.com/r/geek/comments/87zwkg/is_that_a_pita_in_your_pocket_a_look_at_ideas_for/).
+1. A stone (weight) is exactly 14 pounds.
+1. The Life of Brian was considered [a blatant attack on Christianity](https://www.youtube.com/watch?v=hdU_6jUQI9s) when it was released. Now no one really cares. [Graham Chapman](https://en.wikipedia.org/wiki/Graham_Chapman), a gay boy at the time, was selected to play Brian. He was however an alcoholic, drank two bottles of gin a day, and died of tonsil cancer.
+1. One of the prayers in French: *Béni sois-tu, Seigneur notre Dieu, qui règne sur l'univers, qui fait sortir le pain de la terre.*
+1. Groups of forex traders [sell different currencies in large quantities](https://www.youtube.com/watch?v=TxlTHZ0GmxU) so as to disguise the sale while the price remains constant.
+1. Brit Bro [Lawrence Oates](https://en.wikipedia.org/wiki/Lawrence_Oates), when his feet had become severely frostbitten at the South Pole, he said "I am just going outside and may be some time", left the tent, and sacrificed himself for others' chances of survival.
+1. [JWs believe in one god. Mormons believe in a three-part god.](https://classroom.synonym.com/mormon-religious-beliefs-versus-jehovah-witness-beliefs-12086665.html)
+1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
+1. [Tim Horton](https://en.wikipedia.org/wiki/Tim_Horton) was a Hockey player. He died crashing [his car](https://en.wikipedia.org/wiki/De_Tomaso_Pantera).
+1. There are many ["Game sevens"](https://en.wikipedia.org/wiki/Game_seven) before the [Stanley Cup playoffs](https://en.wikipedia.org/wiki/2018_Stanley_Cup_playoffs). Even if the Leafs won this "Game Seven" (first round 2018), what are they going to do, win the Cup? They haven't done that since 1967.
 1. Westworld S02's "multiple Bernard theory" isn't even a theory. [It's in the trailers.](https://www.reddit.com/r/westworld/comments/8826ar/charlotte_makes_a_discovery_season_2_trailer/)
 1. There is [an entire website](https://www.succeedsocially.com/articlecategories) ("Succeed Socially") devoted to helping Asperger's patients (like you) to make friends, instead of posting deep fried memes on the Internet.
 1. Aaron Swartz didn't create RSS, but he did work a lot on it.

@@ -1,3 +1,5 @@
+1. The scientific name for rainbow trout is *O. mykiss*.
+1. [Gluten (...) accounts for 75 to 85% of the total protein in bread wheat.](https://en.wikipedia.org/wiki/Gluten) Removing gluten from wheat effectively reduces it to nothing.
 1. An article suggests [we want to fit in](https://aeon.co/ideas/the-desire-to-fit-in-is-the-root-of-almost-all-wrongdoing). "[We do wrong] because we lack respect for ourselves."
 1. Chickens can fly, just not very well. Ostriches absolutely cannot fly. As an aside: chickens [were 1kg in the fifties](https://www.huffingtonpost.ca/entry/chickens-bred-bigger_n_5983142), but they are bred to 4kg now.
 1. Breathing in fumes from cleaning products is bad for you, [says this site](https://www.independent.co.uk/news/health/cleaning-products-lungs-damage-cigarettes-smoking-20-day-scientists-warning-a8214051.html).

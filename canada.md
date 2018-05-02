@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Getting jailed for more than 90 days in Canada means [no sales tax credits for you](https://help.hrblockonline.ca/hc/en-ca/articles/227320928-I-was-confined-to-a-prison-or-similar-institution-for-a-period-of-at-least-90-days-during-the-year). Six months or more and you won't get Old Age Security either.
 1. Apparently, even with [these rumble strips](https://www.flickr.com/photos/drum118/35287763491/), [this guy](http://www.blogto.com/city/2017/10/car-drives-into-union-station-streetcar-tunnel-toronto/) still managed to drive into our dear tracks.
 1. Driving a car on the 407 without a transponder results in a [rate](https://en.wikipedia.org/wiki/Ontario_Highway_407#Rates) of about $9 + $0.50/km. Let's say you drive 60 out of the 139km, that's a $78 round trip for nothing.
 1. The QEW [IS](https://en.wikipedia.org/wiki/Queen_Elizabeth_Way) highway 403 in the section between Mississauga and Burlington. 403 goes west, QEW goes south.

@@ -18,7 +18,7 @@
 1. You make an AMI so you can specify one in a Launch Configuration (LC).
 1. You make a Launch Configurations because Auto Scaling Groups (ASGs) need one to know what to launch and scale up/down.
 1. You make an ASG so you can have multiple instances of the same AMI doing the same thing.
-1. You can "View/edit rules" for each load balancer (under Listeners) to configure which requests get sent to which Target Group, depending on headers or request path. For some reason you need at least one Target Group (TG) for your Application Load Balancer (ALB) because I don't know.
+1. You can "View/edit rules" for each load balancer (under Listeners) to configure which requests get sent to which Target Group, depending on domains, headers, or request path. For some reason you need at least one Target Group (TG) for your Application Load Balancer (ALB) because I don't know.
 1. You make a load balancer because otherwise only one instance in your ASG will get requests. Also, you can only attach a Route53 record set to a load balancer or directly to an instance, so you do that. After that, maybe you can have a working website. All these are bound by Security Groups (SGs), which are just firewall rules.
 1. Amazon Aurora is "one-tenth the cost" of enterprise databases, not one-tenth the cost of their other offerings.
 1. Simply changing the the ASG's launch configuration does not imply instances that are not launched by that LC will be scaled down. So if you want to change the instance type of an ASG from A to B, you have to detach instances from A first.

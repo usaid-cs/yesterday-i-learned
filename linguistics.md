@@ -1,3 +1,6 @@
+1. [There are more letters in the IPA for *tsk* (`təsk`) than the actual word *tsk*.](https://www.macmillandictionary.com/pronunciation/british/tsk-tsk)
+1. ["Fortnight"](https://en.wikipedia.org/wiki/Fortnight) came from the Old English of fourteen nights, rather than the modern English version of fourteen nights.
+1. ["Shambolic"](https://en.wiktionary.org/wiki/shambolic): chaotic, disorganised, or messed up. Might have come from "shambles".
 1. If you refer to yourself as "we", e.g. "we need to work together", that's just you thinking as a team. If *the queen* refers to herself as "we", suddenly that's a case of [royal we](https://en.wikipedia.org/wiki/Royal_we), or majestic plural, as if she's in a close relationship with God, and talking as a collective.
 1. [`ー`](https://en.wiktionary.org/wiki/%E3%83%BC) in Japanese is just the long vowel mark. It has no sound on its own.
 1. According to the IPA page for French, the *em* in *Temps* and *ean* in *Jean* sound [exactly the same](https://en.wikipedia.org/wiki/Help:IPA/French).

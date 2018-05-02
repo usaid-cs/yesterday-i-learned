@@ -183,7 +183,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. ["Typing ^D causes the tty driver to immediately finish a read()."](https://utcc.utoronto.ca/~cks/space/blog/unix/TypingEOFEffects) Whether the program exits given an empty line is completely up to the program.
 1. Torvalds (first in command), Morton (second in command), and Kroah-Hartman (probably also second in command) avoid travelling together.
 1. `rtcwake` lets you schedule device wakeups.
-1. bash's `<<<` is the "Here string". `cat <<< hello.txt` literally prints out the string `hello.txt`, though sometimes it is a bit mysterious, considering `cat <<< ${hello}` literally prints out nothing, since `${hello}` is evaluated to nothing, making it not as literal as the PHP equivalent of heredocs.
+1. bash's [`<<<`](https://unix.stackexchange.com/questions/80362/what-does-mean) is the "Here string". `cat <<< hello.txt` literally prints out the string `hello.txt`, though sometimes it is a bit mysterious, considering `cat <<< ${hello}` literally prints out nothing, since `${hello}` is evaluated to nothing, making it not as literal as the PHP equivalent of heredocs.
 1. Ubuntu's e2fsprogs package comes with [e4defrag](http://askubuntu.com/questions/221079/how-to-defrag-an-ext4-filesystem), the ext4 defragging tool. You may have an SSD so this is irrelevant.
 1. There's a `cat` [and a `tac`](https://www.sitepoint.com/15-little-known-unix-commands/) (which does it in reverse).
 1. [Alt-PrtSc-F](http://superuser.com/a/264454) will kill the most memory-intensive activity. This is helpful whenever you want to close Chrome.
@@ -221,6 +221,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [`v`/`V`/`Ctrl+v`](http://vim.wikia.com/wiki/Cut/copy_and_paste_using_visual_selection) is vim's visual select. You can cut/copy/paste, but can't "type over" the selection, though.
 1. This one weird trick speeds up your ubuntu 16.04 installation (and possibly any linux installation): [`echo "performance" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor`](https://askubuntu.com/a/22950)
 1. Not only should you encrypt a PGP message using the recipient's public key (so only that guy can decrypt it), you should also *sign* the message using your secret key (so only you could have written it).
+1. Change your gpg/pgp password using [the `passwd` subcommand](https://www.cyberciti.biz/faq/linux-unix-gpg-change-passphrase-command/) after you enter the `edit-key` interface. Remember to `save`.
 
 ## Tmux
 

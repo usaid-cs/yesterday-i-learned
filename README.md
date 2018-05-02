@@ -5,7 +5,7 @@ Wooo 25 stars
 
 # Contributing
 
-If you have any **one-liner** cool facts that aren't already here, submit a PR (with citation) so we both learn! Include your citations inline as link(s).
+If you have any **one-liner** cool facts that aren't already here, submit a PR so we both learn! Include your citations inline as link(s).
 
 # Licence
 

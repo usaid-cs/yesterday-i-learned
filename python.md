@@ -39,7 +39,7 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 1. `*args` is of type tuple, not list.
 1. Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
 1. `dict(a dict)` clones the dict (for one level).
-1. `list(a list)` clones the list (for one level).
+1. `list(a list)` clones the list (for one level). `list(a) is not a`.
 1. These three are successively better than the former.
 
 ```
@@ -49,7 +49,10 @@ for k in d:
 for k, v in d.items():
     print k, v
 
-for k, v in d.iteritems():
+for k, v in d.iteritems():  # Not python3
+    print k, v
+
+for k, v in six.iteritems(d):
     print k, v
 ```
 
@@ -409,6 +412,9 @@ bar
 1. Comparing with `None` using `<` or `>` in python3 raises a `TypeError`. `None` was previously just "less than everything".
 1. You give Arrow an absurd date, like `arrow.get(year=0, month=0, day=0)`, and it will give you the current time. Sure. But you do something completely reasonable, like [`arrow.get(year=1918, month=11, day=11)`](https://en.wikipedia.org/wiki/Armistice_of_11_November_1918), it will still give you the current time. "Yeah but that's before the epoch," you say? **Nope**. You're just calling it wrong. `arrow.get()` doesn't take year/month/day as arguments.
 1. Requests' [sessions](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/) are not just for making code cleaner; it also allows the library to share `urllib3` connection pools, so the code makes fewer unnecessary connections to the target server.
+1. For simple queries, if you don't like `SQLAlchemyModel.query.filter(SQLAlchemyModel.field == thing)`, [maybe](https://stackoverflow.com/questions/2128505/whats-the-difference-between-filter-and-filter-by-in-sqlalchemy) you can use `filter_by` instead: `SQLAlchemyModel.query.filter_by(field=thing)`.
+1. You can implement [custom states in celery](http://docs.celeryproject.org/en/latest/reference/celery.states.html), if for some reason you want to do that, by subclassing `celery.states.state`, which is a subclass of `str`.
+1. [Celery's revoked tasks will stay in memory until automatically discarded.](https://stackoverflow.com/questions/46019528/remove-a-revoked-celery-task) There is no manual option. Apart from shutting the broker down and purging the queue there (`sudo rabbitmqctl purge_queue 'queue_name'`), there is no good way to purge revoked tasks from celery.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

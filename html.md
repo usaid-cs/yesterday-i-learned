@@ -1,3 +1,5 @@
+* W3C [might](https://www.w3.org/TR/html51/syntax.html#sec-comments) have removed the requirement that comments must have a space between `<!--` and the actual comment, so `<!--comment-->` is valid now.
+* [Multiple `<tbody>` elements can exist in the same table.](https://stackoverflow.com/questions/3076708/can-we-have-multiple-tbody-in-same-table) Suspect the only reason for this is styling.
 * In HTML5, `<style>` tags must have the `scoped` attribute if they are in the `<body>` tag. Styles will be applied to its parent and siblings.
 * Google uses [a chain of iframes](www.googletagmanager.com/ns.html?id=GTM-NQTT) inside `<noscript` tags, to track users in case the browser has javascript disabled.
 * `<meta property="og:image" content="(the facebook share thumbnail)">`

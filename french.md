@@ -12,6 +12,8 @@
 1. **d'Abord**: First. *Viens d'abord faire tes devoirs, tu joueras ensuite*: first do your homework, then play. *Premier* also means first.
 1. **Banlieue**: suburbs. *J'habite en banlieue* (no *une*): I live in the suburbs.
 1. **Bâtiment**: building. *L'extérieur du bâtiment est sale*: The exterior of the building is dirty.
+1. **Beau-pere**: step father.
+1. **Belle-soeur**: step sister.
 1. **Bientôt**: soon. Literally "good [and] early". *À bientôt*: see you soon.
 1. **des Bois**: of the woods, not "of drinking".
 1. **Boire**: to drink. *Je bois*: I drink.
@@ -23,6 +25,7 @@
 1. **Celui**: the ones. *Et que celui qui a de quoi manger partage ce qu'il la*: and whoever has enough to eat shares what he has. Or something like that.
 1. **Chat**: cat.
 1. **Chaque**: every. *Chaque jour*: every day.
+1. **Chaud**: hot. *Il fait chaud*: the weather is hot.
 1. **Chiffre**: digit.
 1. **Chose**: thing.
 1. **Cinquante-cinquante**: Fifty-fifty.
@@ -44,6 +47,7 @@
 1. **Croissant**: crescent, or rolled-up triangles.
 1. **Écrire**: to write. [*J'écris une lettre*](https://mymemory.translated.net/en/French/English/j%27%C3%A9cris-une-lettre): I write a letter.
 1. **Cuillère**: spoon.
+1. **Demi-**: half. Demi-frere: step brother.
 1. **Depuis**: since. *Depuis ma jeunesse, j'ai obéi à tous ces commandements*: since I was young I have obeyed all these commandments.
 1. **Difficile**: difficult. *Le français est très difficile à apprendre*: French is very difficult to learn.
 1. **Donc**: so, therefore. *Donc-quoi*: nothing. Use *et alors* ("and then") for "so what".
@@ -70,8 +74,10 @@
 1. [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
 1. **Fromage**: cheese. [*Omelette du fromage*](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
 1. **Fumier**: manure. *J'avais des éclairs de chez nous, de l'étable, du fumier.*
+1. **Gamins**: kids. *Nous comprenons ces gamins*: we understand these kids.
 1. **Garçons**: A Catholic church staple.
 1. **Gâteau**: cake.
+1. **Gendre**: son in law.
 1. [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. *Je te hais*: I hate you (probably).
 1. **Happy Hour**: [happy hour](https://www.collinsdictionary.com/dictionary/english-french/happy-hour). Not *l'heure d'heur*.
 1. **Haut**: high (in the height sense).
