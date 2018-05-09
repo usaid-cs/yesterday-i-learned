@@ -1,5 +1,30 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. There is no reason to pre-order anything that cannot run out, including online games, and especially online games with DLCs.
+1. Parmesan cheese is *imitation* [parmigiano-reggiano cheese](https://en.wikipedia.org/wiki/Parmigiano-Reggiano). Even the Italians rhyme parmesan with partisan (if either word gets to them). That makes pronouncing it as "Parma-john" even more pretentious than it was once thought to be.
+1. [Kanye West never beat a wheelchair basketball team](https://www.snopes.com/fact-check/ball-bearing/) in 2014.
+1. "Spicy bois" originally only referred to fire ants.
+1. A [poon](https://www.urbandictionary.com/define.php?term=poon) now means a little girl's vagina.
+1. 32-bit Windows, with [PAE](https://en.wikipedia.org/wiki/Physical_Address_Extension#Microsoft_Windows), definitely supported more than 4GB of RAM. Windows Server 2003 Enterprise went up to 64GB. It was only the licencing and driver compatibility that capped XP at 4, and Windows 7 Starter at 2.
+1. In 2016 after winning his 13th gold medal in an individual event, [Phelps overtook the record from Leonidas of Rhodes as the most decorated Olympian of any era.](https://www.nytimes.com/2016/08/12/sports/olympics/michael-phelps-200-im-ryan-lochte-leonidas.html)
+1. Nixon died in 1994, just around the time ("mid 1990s") Matt Groening began conceiving Futurama.
+1. [Let's Make America Great Again](https://en.wikipedia.org/wiki/Make_America_Great_Again) was actually Reagan's slogan.
+1. Incels as a collective are dangerous not because they can't get laid, but because they express their frustration with not getting laid, and [their support groups become breeding ground for anger, resentment, and toxic ideas](https://www.reddit.com/r/OutOfTheLoop/comments/8h2c2i/what_are_incels_and_why_do_they_want_sex/dygklco/).
+1. The reported number of hours people spend on their phones per day varies wildly, from [less than one hour](https://www.appticles.com/blog/2016/03/mobile-vs-desktop-13-essential-user-behaviors/), [2.7 hours](http://blog.voxox.com/blog/bid/302400/Shocking-Americans-Spend-More-Time-Socializing-via-Mobile-Than-They-Do-Eating), to [5](https://www.statista.com/chart/12403/smartphone-addiction/). Just like [the number of people who drink alcohol](https://www.washingtonpost.com/news/wonk/wp/2014/09/25/think-you-drink-a-lot-this-chart-will-tell-you/?noredirect=on&utm_term=.2d06f0503d2e), it should also be surprising to hear that [30% don't check their phones in the morning, 40% just go to bed without checking their phones, and 50% don't use their phones during weekends.](https://en.wikipedia.org/wiki/Mobile_phone_overuse#Social)
+1. Both the [imperial horsepower (745.7W) and metric horsepower (735.5W)](https://en.wikipedia.org/wiki/Horsepower) can be approximated to 750W when buying a car.
+1. [London Bridge in 1682 had loads of buildings on it.](https://en.wikipedia.org/wiki/London_Bridge) The bridge was demolished more often than it was collapsed.
+1. Mechnical turks' ["suggested minimum wage"](https://www.reddit.com/r/mturk/wiki/index) is $0.10 a minute, which is about half of actual minimum wage.
+1. Reporting a mod's comment on /r/AskHistorians removes it.
+1. "If [interest rates go up](https://www.reddit.com/r/explainlikeimfive/comments/8hb7vi/eli5_argentina_increases_its_interest_rate_by_40/dyixn5b/) people get more money for saving it. They then don't spend it. This makes companies sad as less people buy their stuff,so they lower prices to invite them over. This lowers inflation."
+1. There is [a hotel, a grocery store, and a souvenir shop](https://en.wikivoyage.org/wiki/Chernobyl) in Chernobyl.
+1. The largest country in Europe is actually [Ukraine](https://en.wikipedia.org/wiki/List_of_European_countries_by_area), if you don't think Russia is a thing, because a country like [that](https://www.theguardian.com/technology/2018/jan/19/twitter-admits-far-more-russian-bots-posted-on-election-than-it-had-disclosed) doesn't deserve to participate in [any event](http://www.cbc.ca/sports/olympics/ioc-russia-doping-1.4432781).
+1. Ideally, if a music player shuffles, [the list should be shuffled, instead of choosing a random song to play](https://www.reddit.com/r/Android/comments/8gqtz6/new_youtube_music_redesign/). This has a benefit of the user being able to re-order songs after shuffling.
+1. The G in G-string does not stand for groin, but the term "G-string" has meant the loincloth for a while now.
+1. "Doing porridge" traditionally means staying in prison, but [they have better food now](https://www.theguardian.com/lifeandstyle/shortcuts/2018/may/01/has-porridge-really-been-banned-from-a-prison-for-security-reasons).
+1. Voice is deeper in the morning because fluids move from your legs back to your neck and head while you sleep.
+1. [Rich people drink more.](https://www.theguardian.com/society/2018/may/01/wealthy-professionals-most-likely-to-drink-alcohol-regularly-figures-show) Who knew?
+1. As "pm" stands for *post meridiem* ("after midday"), "12pm" actually expands to "12 hours after midday", which is not what it means, and neither does "12am", which means "12 hours before midday". [There is a section on wikipedia about it.](https://en.wikipedia.org/wiki/12-hour_clock#Confusion_at_noon_and_midnight)
+1. "haha yes" originated from a [poorly edited hedgehog](http://knowyourmeme.com/photos/1170001-animals).
 1. `Ctrl+0` in Excel hides the column. `Ctrl+9` hides the row. `Alt+Enter` replaces the last selected cell with a sum of the other cells. None of those work in Google Sheets.
 1. The [camel's nose](https://en.wikipedia.org/wiki/Camel%27s_nose) is the same as the [slippery slope](https://en.wikipedia.org/wiki/Slippery_slope). Both involve a chain of conditionals that end up doing worse than the starting argument.
 1. Bruce Peninsula has your best bet in [seeing stars at night](http://darksitefinder.com/maps/world.html) nearby.
@@ -13,7 +38,7 @@
 1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
 1. [Tim Horton](https://en.wikipedia.org/wiki/Tim_Horton) was a Hockey player. He died crashing [his car](https://en.wikipedia.org/wiki/De_Tomaso_Pantera).
 1. There are many ["Game sevens"](https://en.wikipedia.org/wiki/Game_seven) before the [Stanley Cup playoffs](https://en.wikipedia.org/wiki/2018_Stanley_Cup_playoffs). Even if the Leafs won this "Game Seven" (first round 2018), what are they going to do, win the Cup? They haven't done that since 1967.
-1. Westworld S02's "multiple Bernard theory" isn't even a theory. [It's in the trailers.](https://www.reddit.com/r/westworld/comments/8826ar/charlotte_makes_a_discovery_season_2_trailer/)
+1. Westworld S02's "multiple Bernard theory" isn't even a theory. [It's in the trailers.](https://www.reddit.com/r/westworld/comments/8826ar/charlotte_makes_a_discovery_season_2_trailer/) What remains a theory is whether [Bernard's bodies are used by [Teddy](https://en.wikipedia.org/wiki/James_Marsden) to infiltrate the real world](https://www.reddit.com/r/westworld/comments/8ezmfb/spoilers_b_t_theory/).
 1. There is [an entire website](https://www.succeedsocially.com/articlecategories) ("Succeed Socially") devoted to helping Asperger's patients (like you) to make friends, instead of posting deep fried memes on the Internet.
 1. Aaron Swartz didn't create RSS, but he did work a lot on it.
 1. [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams), the dude who wrote that book about dolphins wrapped in towels, also appeared in Monty Python as a surgeon.
@@ -33,7 +58,7 @@
 1. Jalapeño isn't known for being hot. It is known for being fat. (me too thanks)
 1. [GOVT NZ's 404 page](https://www.govt.nz/something) doesn't show NZ. There is [an entire subreddit](https://www.reddit.com/r/MapsWithoutNZ/) about the same joke.
 1. The [Jesus fish](https://en.wikipedia.org/wiki/Ichthys) has a special name *ichthys*, which is not special once you realise that's the Greek word for fish.
-1. [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) is pasta with butter and Parmesan cheese emulsified together. No cream is involved. No cream *can* be involved.
+1. [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) is pasta with butter and Parmegiano-Reggiano cheese emulsified together. No cream is involved. No cream *can* be involved.
 1. The number of prime numbers decreases as the number goes up. However the number of prime numbers is still infinite.
 1. Escape fires are a strategy to escape a wildfire by lighting your current location fire. If the wind is blowing, you will not be able to escape a fire coming towards you. However, should you also start a fire (2) at your location, you will deprive fire 1 of resources by letting fire 2 consume it first.
 1. ["Edgy"](https://www.urbandictionary.com/define.php?term=edgy) means "trying so hard to be cool it's cringeworthy".

@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. `cat /path/to/{file1,file2,file3}` really lets you cat the three files without going there.
 1. [`tail *`](https://stackoverflow.com/a/7816490/1558430) is a viable alternative to `cat *` if you want to see the file names as well.
 1. There's [a script](https://github.com/Nyr/openvpn-install/blob/master/openvpn-install.sh) that installs openvpn for you.
 1. You can [unset expiry dates you place on your pgp keys](https://riseup.net/en/security/message-security/openpgp/best-practices#use-an-expiration-date-less-than-two-years), says that page. The purpose of the expiration date is to be a dead man's switch to prevent further uses of the key after you die. Same page also says not to sign someone else's key with no expiration date.
@@ -222,6 +223,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. This one weird trick speeds up your ubuntu 16.04 installation (and possibly any linux installation): [`echo "performance" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor`](https://askubuntu.com/a/22950)
 1. Not only should you encrypt a PGP message using the recipient's public key (so only that guy can decrypt it), you should also *sign* the message using your secret key (so only you could have written it).
 1. Change your gpg/pgp password using [the `passwd` subcommand](https://www.cyberciti.biz/faq/linux-unix-gpg-change-passphrase-command/) after you enter the `edit-key` interface. Remember to `save`.
+1. Because [`find ... | xargs rm`](https://askubuntu.com/questions/666001/piping-find-name-to-xargs-results-in-filenames-with-spaces-not-being-passed-to) has many issues with spaces and quotes and special characters, you should do `find ... -delete` instead.
+1. You can [change your SSH password without changing the public key](https://serverfault.com/questions/50775/how-do-i-change-my-private-key-passphrase). [Changing the password merely changes the *symmetric* key used to decrypt the private key](https://www.symantec.com/connect/forums/does-changing-key-passphrase-invalidate-old-public-key), which is then used to do actual work. Type `ssh-keygen -o -p -f ~/.ssh/id_rsa` and change as prompted.
 
 ## Tmux
 

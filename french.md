@@ -140,6 +140,7 @@
 1. **Pouvoir**: can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
 1. **Proche**: close/near. *la fin du Canada est proche*: the end of Canada is near.
 1. **Punis**: punish. *Ne te punis pas*: do not punish me.
+1. **Quartier**: neighbourhood or district. *Le marché du quartier*: the neighbourhood market.
 1. **Que est ce que, ce est*: [what is this that](https://en.wiktionary.org/wiki/qu%27est-ce_que#French) this is?
 1. [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From *quel que un*, "some one". *Il y a quelqu’un ici qui parle français*: Is there anyone here who speaks French.
 1. **Recevoir**: to receive. *Elle reçoit des cadeaux*: she receives gifts. *Vous recevez*: you receive.

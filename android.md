@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. "Some apps will use OpenSL ES for Android to record audio, an example is WhatsApp. Xposed cannot hook into native code, so this cannot be prevented." - XPrivacyLua
 1. To "verify udev rules", [do this](https://gist.github.com/smac89/251368c8df2ccd645baedc3e1238fdb4): enter `SUBSYSTEM=="usb", ATTR{idVendor}=="05c6", MODE="0666", GROUP="plugdev"` into `/etc/udev/rules.d/51-android.rules`, `chmod a+r` that file, and then `sudo udevadm control --reload-rules && sudo udevadm trigger`.
 1. There is [no straightforward way](https://stackoverflow.com/questions/16650765/get-application-name-label-via-adb-shell-or-terminal) to find a package's application label by ID. At minimum, you need to first find the path to your APK (`pm list packages -f com.example.package`), then somehow transfer that to `aapt dump badging /path/to/installed.apk`.
 1. [More people downloaded Subway Surfers than Google Calendar.](https://en.wikipedia.org/wiki/List_of_most_downloaded_Google_Play_applications)

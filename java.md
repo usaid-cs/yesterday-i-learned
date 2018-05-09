@@ -80,7 +80,7 @@ groovy:000> Boolean.valueOf('true')
 1. You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
 1. `@SuppressWarnings("unchecked")` in the code means that you confirm [the generic method/function is doing legal things](http://stackoverflow.com/a/1129812/1558430).
 1. `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
-1. Setters that `return this;` are of the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern). According to a colleague of yours, doing so instead of `return void;` has no real performance differences.
+1. Setters that `return this;` are of the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern). According to a colleague of yours, doing so instead of `return void;` has no real performance differences. [Android's `AlertDialog.Builder`](https://developer.android.com/guide/topics/ui/dialogs) is one of those.
 1. [Beans](http://en.wikipedia.org/wiki/JavaBean) are plain objects that contain many other objects, with their properties all encapsulated in getters and setters. Beans cannot have constructors with arguments.
 1. Beans are used for cross-network class transfers.
 1. [Autoboxing](http://docs.oracle.com/javase/tutorial/java/data/autoboxing.html): something new since 1.5, automatically treating `1` and `new Integer(1)` as the same thing, instead of a primitive and a class, respectively.

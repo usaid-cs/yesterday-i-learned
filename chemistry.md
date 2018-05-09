@@ -1,3 +1,4 @@
+1. [Picric acid](https://en.wikipedia.org/wiki/Picric_acid) is actually a phenol. Drying it out makes it explode.
 1. Summer gas and winter gas have different vapour pressures. [There is a marginal difference in mileage.](https://auto.howstuffworks.com/fuel-efficiency/fuel-consumption/summer-fuel1.htm) It is however claimed that the air is cleaner with special blends than if either one were used.
 1. [Some molds](https://en.wikipedia.org/wiki/Scopulariopsis) can turn [paints with Scheele's Green](https://en.wikipedia.org/wiki/Scheele%27s_Green) into arsine gas (AsH3), which is then cancerous.
 1. [Dead alkaline batteries bounce higher.](http://theconversation.com/it-turns-out-theres-truth-to-dead-battery-bounce-after-all-38680) Specifically, alkaline batteries that have zinc(s) suspended in a gel will slowly convert this zinc(s) into ZnO(s), which is a harder material that causes the battery to bounce higher.
