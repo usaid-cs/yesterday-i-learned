@@ -1,5 +1,7 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [`privacy.firstparty.isolate`](https://www.ghacks.net/2017/11/22/how-to-enable-first-party-isolation-in-firefox/) in Firefox isolates your cookies' scope to the current domain, which makes it impossible for marketing companies to track you across the internet by simply dropping cookies. It does however make legitimate sites forget you every so often.
+1. Some people out there [season their stainless steel pans](https://wholelifestylenutrition.com/health/how-to-cook-on-season-a-stainless-steel-pan-to-create-a-non-stick-surface/).
 1. DisplayPort exists because it has higher bandwidth than HDMI (<2.0) for higher max resolution and framerate. Both can carry audio. [Thundebolt](https://en.wikipedia.org/wiki/Thunderbolt_%28interface%29)'s display mode is actually closer to mini displayport than it is to HDMI.
 1. Cobie Smulders' first name is actually Jacoba.
 1. Mayonnaise is not an instrument.

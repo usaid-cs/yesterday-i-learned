@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. As of 2018-05-04, a package called `com.google.android.quicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.
 1. "Some apps will use OpenSL ES for Android to record audio, an example is WhatsApp. Xposed cannot hook into native code, so this cannot be prevented." - XPrivacyLua
 1. To "verify udev rules", [do this](https://gist.github.com/smac89/251368c8df2ccd645baedc3e1238fdb4): enter `SUBSYSTEM=="usb", ATTR{idVendor}=="05c6", MODE="0666", GROUP="plugdev"` into `/etc/udev/rules.d/51-android.rules`, `chmod a+r` that file, and then `sudo udevadm control --reload-rules && sudo udevadm trigger`.
 1. There is [no straightforward way](https://stackoverflow.com/questions/16650765/get-application-name-label-via-adb-shell-or-terminal) to find a package's application label by ID. At minimum, you need to first find the path to your APK (`pm list packages -f com.example.package`), then somehow transfer that to `aapt dump badging /path/to/installed.apk`.
@@ -69,6 +70,7 @@
 1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.
 
 ## Android Dev
+1. `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
 1. Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
 1. For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.
