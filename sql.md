@@ -67,6 +67,7 @@
 * [`-Infinity`](https://stackoverflow.com/questions/19686635/earliest-timestamp-supported-in-postgresql) is a valid timestamp.
 * You can find your config files by just running [`SHOW config_file;`](https://stackoverflow.com/a/3603162/1558430)
 * Selecting `->2` gives you the second (not "2th") item in a json list. Selecting [`->'2'`](https://www.postgresql.org/docs/9.3/static/functions-json.html) gives you the value of a json object's `2` key.
+* There is no good way to [monitor your indexing progress](https://dba.stackexchange.com/questions/11329/monitoring-progress-of-index-construction-in-postgresql). The closest you have is a giant query [here](https://dba.stackexchange.com/a/161992/41651).
 
 ## Performance
 

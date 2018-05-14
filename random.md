@@ -1,5 +1,31 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. DisplayPort exists because it has higher bandwidth than HDMI (<2.0) for higher max resolution and framerate. Both can carry audio. [Thundebolt](https://en.wikipedia.org/wiki/Thunderbolt_%28interface%29)'s display mode is actually closer to mini displayport than it is to HDMI.
+1. Cobie Smulders' first name is actually Jacoba.
+1. Mayonnaise is not an instrument.
+1. Bruce Banner is the fictional character who turns into (the) Hulk. Bruce Jenner is almost completely different.
+1. At 150m, the [Old St paul's Church](https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral) showed us that people in the 1300s can build extraordinarily tall buildings.
+1. If you look closely, you can see a tiny bump out of France's waist, called [Savoy](https://en.wikipedia.org/wiki/Savoy). It really is pronounced Savoy.
+1. A "rail" drink is an unbranded common spirit (whiskey, vodka, rum, gin), with an optional mix (e.g. coke, soda, tonic). It is called that because [the rail contains whatever is close to the bartender](https://en.wikipedia.org/wiki/Well_drink).
+1. In 1912 an Anna Jarvis trademarked ["Mother's Day"](https://en.wikipedia.org/wiki/Mother%27s_Day#Spelling), in that spelling, to marginalise the people among us who have two mothers. Or dads.
+1. "Pump It" by The Black Eyed Peas was just the song [Misirlou](https://en.wikipedia.org/wiki/Misirlou) from Pulp Fiction, less the lyrics.
+1. [Main counterpoints about not charging your battery overnight](https://linustechtips.com/main/topic/925633-stop-charging-your-phone-overnight/) include: misunderstanding the difference between not charging and holding a constant state of charge, claiming everyone buys another device in two years, claiming they have been charging overnight for years and nothing has yet blown up, and mixing up voltage and amperage, not knowing the entire concept has a third dependent variable: temperature.
+1. Swedish parents [must](https://sweden.se/quickfact/parental-leave/) share 480 days of 80%-paid parental leave, with both taking at least 90.
+1. [OSI layer](https://en.wikipedia.org/wiki/OSI_model) 2 defines transmission of *frames* across two directly connected nodes, using MAC addresses (for example), which also happens to include Wi-Fi.
+1. TCP/IP are actually different levels of OSI (4 and 3, respectively). [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol) then performs `f(IP) -> MAC`, which is another layer down.
+1. There are far more [things to worry about your kids using a phone](https://www.technology.org/2018/05/10/how-to-keep-kids-safe-on-their-phones-in-2018/) than there were a few years ago. New ones include sexting (since phones now have cameras), phishing, addiction, and content filters (since phones now go on the internet).
+1. Coffee is frequently used by drug smugglers to overwhelm the smell of the drugs themselves.
+1. ["Politically correct" is a bit of a misnomer—it isn't about being right; it's about being respectful and considerate.](https://www.wikihow.com/Be-Politically-Correct) It goes one level above simply being unobjectionable, and not at all related to Hezekiah, who "did what was right in the eyes of the LORD, just as his father David had done".
+1. The only reference to "book" on [yellow pages](https://www.yellowpages.ca/) is faceBOOK.
+1. Did you know that devices like Siri listen for [ultrasound instructions](https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html)?
+1. You have github's fourth most starred repository with the ["women"](https://github.com/topics/women) tag.
+1. If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, approach in small pieces. And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
+1. The Chinese workforce call it [the 996](http://www.bbc.com/capital/story/20180508-young-chinese-are-sick-of-working-overtime): work from 9am to 9pm for 6 days a week.
+1. The [last emperor of China](https://en.wikipedia.org/wiki/Puyi) 溥儀/宣統帝 looked like a normal dude. The red guards got him (indirectly) in 1967.
+1. When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
+1. Each "capsule" of the London Eye looks like a chicken testis.
+1. The Dolly Zoom can only be achieved by the camera also moving back and forth. [People (also) tend to look better in telephoto because their faces aren't stretched by the wider lens.](https://www.youtube.com/watch?v=u5JBlwlnJX0)
+1. Naomi is Ruth's mother in law in the bible. One of the things she said was "Do not call me Naomi, call me Mara, ..."
 1. There is no reason to pre-order anything that cannot run out, including online games, and especially online games with DLCs.
 1. Parmesan cheese is *imitation* [parmigiano-reggiano cheese](https://en.wikipedia.org/wiki/Parmigiano-Reggiano). Even the Italians rhyme parmesan with partisan (if either word gets to them). That makes pronouncing it as "Parma-john" even more pretentious than it was once thought to be.
 1. [Kanye West never beat a wheelchair basketball team](https://www.snopes.com/fact-check/ball-bearing/) in 2014.

@@ -395,9 +395,7 @@ bar
 1. Alembic uses the `env.py` that you generated with `init` to detect models. This file must import all the models that you want to manage.
 1. Django ORM is considered "active record" (i.e. each row is an object), whereas SQLAlchemy is a "data mapper" (i.e. objects and rows don't necessarily map one to one). This forces many things to be manually configured in SQLAlchemy, for better or for worse.
 1. In a declaration like [`parent = relationship("Parent", back_populates="child")`](http://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html#one-to-one), there needs to be a matching class `Parent` and an attribute called `child`. ["When the `backref` keyword is used on a single relationship, it’s exactly the same as if the above two relationships were created individually using `back_populates` on each."](http://docs.sqlalchemy.org/en/latest/orm/backref.html)
-1. Flask SQLAlchemy creates only one `db.session`  that you can commit at any time.
 1. In a SQLAlchemy column definition, [there is no difference between an `Integer` and an `Integer()` instance.](http://docs.sqlalchemy.org/en/latest/core/type_basics.html)
-1. Understand flask ["blueprints"](http://flask.pocoo.org/docs/0.12/blueprints/) as traits that are common across some of your views, like templates or url prefixes.
 1. Every return value of `float(a: float)` is just `a`, the same float object.
 1. [You cannot `partial` a class'es method from inside the class.](https://stackoverflow.com/questions/16626789/functools-partial-on-class-method) At least you cannot do that [without a stub](https://gist.github.com/carymrobbins/8940382), or until python 3.4's `partialmethod()` is introduced.
 1. [Number range filters like `df[10 < df.column < 20]` does not work in pandas.](https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas#31617974) You *need* to do a double condition like `df[(10 < df.column) & (df.column < 20)]`.

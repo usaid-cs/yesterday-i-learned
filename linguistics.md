@@ -1,3 +1,5 @@
+1. As of today, Google Translate pronounces "rofl" as "are oh eff el", "omg" as "oh em gee", and "lol" as just "lol".
+1. The French's "space before question mark" rule is actually [a space before a symbol with an even number of elements, like `?` and `!`](https://www.quora.com/Why-do-French-speakers-place-a-space-before-exclamation-points), and no spaces otherwise (like `.` and `...`).
 1. [There are more letters in the IPA for *tsk* (`təsk`) than the actual word *tsk*.](https://www.macmillandictionary.com/pronunciation/british/tsk-tsk)
 1. ["Fortnight"](https://en.wikipedia.org/wiki/Fortnight) came from the Old English of fourteen nights, rather than the modern English version of fourteen nights.
 1. ["Shambolic"](https://en.wiktionary.org/wiki/shambolic): chaotic, disorganised, or messed up. Might have come from "shambles".

@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. To kill yourself by car these days (haha yes), the best chance you have is [drive into the right end of a truck](https://www.youtube.com/watch?v=bT3G-kcKN70), where even Canadian standards will fail you.
 1. If you know tires last 6 to 8 years, and you know how much you typically drive per year, then shouldn't you be buying tires based on combined kilometres over 6 years, instead of wasting money on tires that are a lot better, but cannot possibly be used to its full potential before [rotting away](http://evanstire.com/stop-rot-need-know-tire-dry-rot/)? (Remember to also split that number by summer/winter seasons.)
 1. 80% of all registered cars in Albania are, or at least [were](https://answers.yahoo.com/question/index?qid=20110724185649AAp8hX0), Mercedes.
 1. [You can trivially hack a car.](https://www.youtube.com/watch?v=3jstaBeXgAs) "Many of the standard things we would do on a PC to make the software secure, none of that was being done. (...) From a Darwinian standpoint, they had never had to face adversaries, and so the code never had to be hardened against that."

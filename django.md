@@ -259,3 +259,11 @@ No worries though, [you can still find what you want in `Foo._meta.index_togethe
 ### I want to reset all my migrations by [deleting and recreating them](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html), but `makemigrations` isn't doing anything
 
 You can't delete the `migrations/__init__.py`s in your apps. Keep those files, then run `makemigrations` again.
+
+### `ALTER TABLE`-type migrations kill my app
+
+Any migration that needs some kind of lock on a table will kill django's connections to the database.
+
+If you want to alter a table (like for real, not just `help_text` on a field), you need to find ways to do so without adding a lock. For postgres, consider strategies like [adding an index concurrently](https://stackoverflow.com/a/42704241/1558430).
+
+Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration itself. It is not asynchronous.
