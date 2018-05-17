@@ -413,6 +413,8 @@ bar
 1. For simple queries, if you don't like `SQLAlchemyModel.query.filter(SQLAlchemyModel.field == thing)`, [maybe](https://stackoverflow.com/questions/2128505/whats-the-difference-between-filter-and-filter-by-in-sqlalchemy) you can use `filter_by` instead: `SQLAlchemyModel.query.filter_by(field=thing)`.
 1. You can implement [custom states in celery](http://docs.celeryproject.org/en/latest/reference/celery.states.html), if for some reason you want to do that, by subclassing `celery.states.state`, which is a subclass of `str`.
 1. [Celery's revoked tasks will stay in memory until automatically discarded.](https://stackoverflow.com/questions/46019528/remove-a-revoked-celery-task) There is no manual option. Apart from shutting the broker down and purging the queue there (`sudo rabbitmqctl purge_queue 'queue_name'`), there is no good way to purge revoked tasks from celery.
+1. `//` is the floor division operator, which for `3.0 // 6` gives you `0.0` in either version, and still returns a float if either number is not an integer. It doesn't turn every result into integers.
+1. Since tuples are immutable, defaulting a parameter to a tuple is uncommon, but fine.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

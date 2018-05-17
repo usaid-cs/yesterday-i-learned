@@ -186,6 +186,8 @@ undefined
 * "Node JS" pronunciations [include](https://groups.google.com/forum/#!msg/nodejs/-d5LcWlQrxI/CarozdtVP3MJ) Node Jay Ess (commonly), No der Jay Ess, and most importantly, Node Dot Jizz.
 * Use `Object.prototype.hasOwnProperty.call(obj, prop)` instead of `obj.hasOwnProperty`, [because](https://stackoverflow.com/a/12017703/1558430) anyone can define a `hasOwnProperty` on an object.
 * `isFinite(NaN)` is, quite contrary to all the other insanity that JS forces you to think is normal, actually returns `false`.
+* [jQuery's `.append()`](http://api.jquery.com/append/) can accept plain HTML strings.
+* [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) implements location-based notifications, but does not *support* it, because everything is half-baked, and nothing is, strictly-speaking, well-documented.
 
 ## Deferred API
 
