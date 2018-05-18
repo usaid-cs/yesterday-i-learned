@@ -1,5 +1,8 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. Association football, the world's popular sport, has wikipedia articles available in 200 languages. FIFA claims the sport derived from [蹴鞠](https://en.wikipedia.org/wiki/Cuju), "something along those lines" from 20 BC.
+1. The [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) is reached when all players know all the other players' strategies, and find no reason (nothing to gain) to change their own strategy.
+1. It appears to be *Vive la France*, not *Viva la France*.
 1. The RB in [RB Leipzig](https://en.wikipedia.org/wiki/RB_Leipzig) the Fußballverein is *Rasenballsport*, lit. "lawn ball sport", is a clever attempt to bypass the [DFB](https://en.wikipedia.org/wiki/German_Football_Association)'s licencing limitation that the company name "Red Bull" cannot be part of the team name.
 1. [Coffins that hang from a cliff](https://en.wikipedia.org/wiki/Hanging_coffins), and people who do such things, can be found in China, Indonesia, and Philippines.
 1. The Unicode Consortium has an interesting list of [Full Members](http://unicode.org/consortium/members.html). They are: tech company, tech company, tech company, tech company, tech company, tech company, [Ministry of Awqwaf and Religious Affairs of the Sultanate of Oman](https://mara.gov.om/), tech company, tech company, tech company, and tech company.
@@ -145,7 +148,7 @@
 1. "二打六就係二加六，得個八，唔夠十足十"
 1. The period in braille is made of [three dots](http://www.brailleauthority.org/ueb/symbols_list.pdf).
 1. When Jesus said ["Destroy this temple, and I will raise it again in three days"](http://biblehub.com/john/2-19.htm) during his temple rampage, he meant his body (his resurrection), not the temple he was at.
-1. In 麥兜, the principal is *also* the restaurant owner.
+1. In 麥兜, the principal is also the restaurant owner.
 1. Sheryl Sandberg, COO of Facebook, [is a terrible liar](https://youtu.be/p1CTHFEcoJc?t=1m22s). Then again, it was not necessary. During the Facebook event of 2018, searches for [Diaspora](https://trends.google.com/trends/explore?date=today%205-y&q=diaspora) did not go up.
 1. Weed is legal (state-level) across the entire west coast of America.
 1. Puerto Rico has a higher population than 21 states.
@@ -158,7 +161,7 @@
 1. [The battle of Waterloo](https://en.wikipedia.org/wiki/Battle_of_Waterloo#Battlefield_today) was significant because Napoleon finally stopped screwing Europe over after he lost that one. Wikipedia puts it: "There followed almost four decades of international peace in Europe. No further major conflict occurred until the Crimean War of 1853-1856."
 1. [Aéropostale](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28clothing%29) the clothing company has the same pronunciation as the [former French airmail service with the same name](https://en.wikipedia.org/wiki/A%C3%A9ropostale_%28aviation%29), which is `/a e ʁɔ pɔs ˈtal/`.
 1. The temperature inside [the world's deepest hole](https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole) (Kola Superdeep Borehole, Russia) was 180 °C when they had to stop drilling at 12km.
-    1. Concession tickets are reduced-price tickets. Unlike "seniors" and "student" tickets, these don't need to specify why.
+1. Concession tickets are reduced-price tickets. Unlike "seniors" and "student" tickets, these don't need to specify why.
 1. [Multifactorials](http://www.mathcelebrity.com/multifactorial.php): factorials that don't go down by 1. `12!! = 12 * 10 * 8 * ...`. `12!!! = 12 * 9 * 6 * 3`.
 1. Big companies can sue you [not expecting to win, but to burden you with so much legal fees that you just give up and do whatever they want](http://www.digest.com/Big_Story.php).
 1. [Baker's Dozen](https://en.wikipedia.org/wiki/Dozen#Baker's_dozen) originated from a law that heavily fined bakers who sell a dozen underweight rolls of bread. Adding one ensures the bakers aren't shorting their customers (at least in theory).
@@ -538,6 +541,7 @@
 1. "If you are more fortunate than others, build a longer table, not a taller fence." - Canadian Memorial Centre for Peace
 1. Draw a line between Sabalo and Mayarí. Northern Cuba is mostly white. Southern Cuba is mostly black.
 1. [Minimax](https://en.wikipedia.org/wiki/Minimax) is Minimizing Maximum Loss. Maximin is Maximizing Minimum Gain. For some reason, "[do NOT try to minimax this game](https://www.reddit.com/r/outside/comments/7c50r2/do_not_try_to_minimax_this_game/)" means "don't spend your life working". How is working minimaxing?
+1. On [Minimaxing/maximining](http://people.maths.ox.ac.uk/griffit4/Math_Alive/3/game_theory3.pdf): "Rule of thumb: If you know your opponent is playing a mixed strategy and will continue to play it, you should use a strategy that maximizes your expected payoff (i.e. maximin)."
 1. [Gerontology](https://en.m.wikipedia.org/wiki/Aging-associated_diseases) is the study of ageing. Biological, psychological, social, environmental impacts of ageing.
 1. [Keep a blog](https://routley.io/tech/2017/11/23/logbook.html), says this man.
 1. On Facebook's "upload a clear photo of you" CAPTCHA: ["I used to think richard stallman was just a paranoid lunatic... Well, the more time goes by, the more i think he was just 100% right,"](https://news.ycombinator.com/item?id=15810680) said bsaul. [Just use one of the faces created by the AI](https://petapixel.com/2017/11/07/ai-creates-photo-realistic-faces-people-dont-exist/), said someone else.

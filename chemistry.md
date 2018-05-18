@@ -1,3 +1,5 @@
+1. [Enteric](https://en.wikipedia.org/wiki/Enteric_coating) can be made of any kind of polymer they find fit. See wiki for a list. They protect the stomach from drugs that activate in acidic environments, or (if you look at it the other way) protect the drug from being wasted in the stomach before it reaches the intestines.
+1. Alka-Seltzer is aspirin, baking soda, and citric acid (for making the baking soda bubble). "In the early 1960s a commercial showing two tablets dropping into a glass of water instead of the usual one caused sales to double."
 1. Mixing ammonia and bleach doesn't give you chlorine; mixing the two gives you [chloramine](https://en.wikipedia.org/wiki/Chloramine), NH₂Cl (makes sense right). "Chloramine is used as a disinfectant for water because it is less aggressive than chlorine and more stable against light than hypochlorites."
 1. You can buy silver nitrate from Amazon.
 1. [Picric acid](https://en.wikipedia.org/wiki/Picric_acid) is actually a phenol. Drying it out makes it explode.

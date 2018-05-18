@@ -70,6 +70,7 @@
 1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.
 
 ## Android Dev
+1. ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)
 1. `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
 1. Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
