@@ -415,6 +415,9 @@ bar
 1. [Celery's revoked tasks will stay in memory until automatically discarded.](https://stackoverflow.com/questions/46019528/remove-a-revoked-celery-task) There is no manual option. Apart from shutting the broker down and purging the queue there (`sudo rabbitmqctl purge_queue 'queue_name'`), there is no good way to purge revoked tasks from celery.
 1. `//` is the floor division operator, which for `3.0 // 6` gives you `0.0` in either version, and still returns a float if either number is not an integer. It doesn't turn every result into integers.
 1. Since tuples are immutable, defaulting a parameter to a tuple is uncommon, but fine.
+1. A dict's `.keys()`, `.values()`, and `.items()` have an official name called [dictionary views](https://docs.python.org/3/glossary.html).
+1. [Python3's `super()` need not specify the class and instance.](https://stackoverflow.com/a/19609168/1558430) In the event that the class has multiple parents, and you do something like `super().foo()`, it decides for you whichever class has the method `foo` first, which is the same behaviour as if you specify `super(this class, this instance).foo()`.
+1. You can't [name a file with a period and import it](https://stackoverflow.com/questions/1828127/how-to-reference-python-package-when-filename-contains-a-period#1828249) normally.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

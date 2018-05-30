@@ -1,3 +1,8 @@
+1. Adults often acquire immunity to [stomach flu](https://en.wikipedia.org/wiki/Gastroenteritis).
+1. [Rockets](https://en.wikipedia.org/wiki/Eruca_sativa) are spiccy bois.
+1. Rock salmon, or just ["rock"](https://en.wikipedia.org/wiki/Rock_salmon), is [a type of shark](https://en.wikipedia.org/wiki/Spiny_dogfish).
+1. [Lamb's lettuce](https://en.wikipedia.org/wiki/Valerianella_locusta) (Valerianella locusta), a refreshing vegetable, is called the "lamb latches" if you go to Flat Iron and get the same waitress I did.
+1. [Walking improves glaucoma](https://www.youtube.com/watch?v=3Ka7B3hCg08). Somehow. And for some reason, also good for the pancreas. And depression. So walk for half an hour everyday.
 1. [Chewed aspirin is absorbed in 5 minutes, compared to 12 if swallowed.](https://www.health.harvard.edu/heart-health/aspirin-for-heart-attack-chew-or-swallow)
 1. ["24,000 Children as young as 1 have arthritis"](http://tascad.convio.net/site/PageServer?pagename=WalkforArthritis_Home) means 24,000 children under the age of 18 have arthritis.
 1. Smokers have different gut bacteria. "Tobacco smokers had increased [Prevotella](https://en.wikipedia.org/wiki/Prevotella), a genus of Gram-negative bacteria, which seems to be associated with some infections but also high carbohydrate diets, and some diseases."

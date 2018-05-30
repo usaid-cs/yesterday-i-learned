@@ -225,6 +225,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Change your gpg/pgp password using [the `passwd` subcommand](https://www.cyberciti.biz/faq/linux-unix-gpg-change-passphrase-command/) after you enter the `edit-key` interface. Remember to `save`.
 1. Because [`find ... | xargs rm`](https://askubuntu.com/questions/666001/piping-find-name-to-xargs-results-in-filenames-with-spaces-not-being-passed-to) has many issues with spaces and quotes and special characters, you should do `find ... -delete` instead.
 1. You can [change your SSH password without changing the public key](https://serverfault.com/questions/50775/how-do-i-change-my-private-key-passphrase). [Changing the password merely changes the *symmetric* key used to decrypt the private key](https://www.symantec.com/connect/forums/does-changing-key-passphrase-invalidate-old-public-key), which is then used to do actual work. Type `ssh-keygen -o -p -f ~/.ssh/id_rsa` and change as prompted.
+1. `sudo` keeps `$HOME` the value of whoever executed it (if you were bob, then `$HOME` would be `/home/bob`). [`sudo -H`](https://stackoverflow.com/questions/43623025/what-does-sudo-h-do) sets the `$HOME` to root's home, which root owns.
 
 ## Tmux
 

@@ -1,5 +1,73 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. ["Flat white"](https://en.wikipedia.org/wiki/Flat_white) is a latte with less milk, that must be introduced to the free nation of Canada.
+1. Sudan speaks Arabic. South Sudan speaks [English](https://en.wikipedia.org/wiki/South_Sudan) and [Arabic](http://www.differencebetween.net/miscellaneous/geography-miscellaneous/differences-between-sudan-and-south-sudan/).
+1. The buzzphrase "thinking from first principles" means extracting fundamental truths from some kind of information or idea, then reason it from there, instead of comparing the information/idea with yet another source of derived information/idea.
+1. There was a Swiss folk hero called [William Tell](https://en.wikipedia.org/wiki/William_Tell), who killed a tyrant with a crossbow.
+1. The Tate says ["the curve and the straight line (are the) two basic elements of Islamic design."](http://www.tate.org.uk/art/artworks/choucair-composition-in-blue-module-t13308)
+1. [Young Atlantic cod or haddock prepared in strips for cooking is called scrod.](https://en.wikipedia.org/wiki/Cod_as_food)
+1. African jerky is called [biltong](https://en.wikipedia.org/wiki/Biltong), "rump strip".
+1. On the Rosetta Stone are the same thing written three times, once in hieroglyphics, Demotic, and ancient Greek, with [one in successively smaller font than the previous](https://commons.wikimedia.org/wiki/File:RosettaStoneAsPartOfOriginalStele.svg), possibly because they realised they were running out of space.
+1. [MI5](https://en.wikipedia.org/wiki/MI5) defends the state from spying. [MI6](https://en.wikipedia.org/wiki/Secret_Intelligence_Service) spies on other countries. [James](https://en.wikipedia.org/wiki/James_Bond) is in MI6.
+1. [Half of the pacific garbage patch is fishing gear like nets.](https://news.nationalgeographic.com/2018/03/great-pacific-garbage-patch-plastics-environment/)
+1. [Samsonite luggages are popular theft targets because they are good.](http://www.safesuitcases.com/)
+1. To maximise the effects of your completely legal marijuana, [supposedly](https://forum.grasscity.com/threads/first-pass-metabolism-why-its-not-working.685049/) you should: neither undereat nor overeat, eat greasy foods, not drink anything sweet, and drink alcohol instead.
+1. You can normally drink [alcohol](https://www.beeradvocate.com/beer/profile/30471/89343/) on the (british) train, but not on the tube. [Exceptions apply.](https://www.drinkaware.co.uk/alcohol-facts/alcohol-and-the-law/drinking-alcohol-in-public-places/)
+1. Christianity became the official religion of the Roman Empire in AD 312, before which they had their Roman gods.
+1. You aren't supposed to inhale tobacco smoke through a pipe. You just taste it with your mouth.
+1. Many Japanese maps were consulted on a floor which allowed for multiple viewpoints.
+1. [If you try to buy a bong and you ask for a bong, they won't sell it to you.](https://en.wikipedia.org/wiki/Bong#Legal_issues) You need to ask for a "water pipe".
+1. Jewish women get their own [marriage certificates](https://en.wikipedia.org/wiki/Ketubah).
+1. England has so many good looking churches because they were competing with each other. At its height churches held 2/3 of London's land. Henry VIII dissolved the monasteries.
+1. Compared to brie, [camembert](https://en.wikipedia.org/wiki/Camembert) has even more rind.
+1. [Churrasco](https://en.wikipedia.org/wiki/Churrasco) (shu-ʁas-co) is grilled meat. Like steak, except well done.
+1. [Anthony Blunt](https://en.wikipedia.org/wiki/Anthony_Blunt) was an epic art historian before being outed as a soviet spy.
+1. You may have noticed that [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time#Etymology) stands for Coordinated Universal Time (CUT).
+1. The "quad" bit of a quad DAC aims to improve signal-to-noise ratio of its analogue output, so what comes out sounds more like what should be coming out, rather than, say, music plus electronic interference.
+1. The [Parthenon](https://en.wikipedia.org/wiki/Parthenon) was turned into a church, a mosque, and then blown up, when the Venetians accidentally set off an Ottoman ammo store inside (it was lit).
+1. Fresh eggs are not available during the (second world) war. They had pure [dried eggs](https://en.wikipedia.org/wiki/Powdered_eggs) instead. Dried eggs have a shelf life of 5 to 10 years (if stored properly).
+1. Berlin happened to have been selected as the Olympics venue in 1936, before the Nazis rose to power.
+1. A [scotch egg](https://en.wikipedia.org/wiki/Scotch_egg) is a (no shell duh) egg wrapped in sausage meat and deep-fried breading.
+1. Presto GO bus passengers need to tap on their way out.
+1. A [euchrist](https://en.wikipedia.org/wiki/Eucharist) is just a communion.
+1. Flirting with a waitress is acceptable in some countries, if the waitress likes to be flirted by you.
+1. [Libation](https://en.wikipedia.org/wiki/Libation) is when you offer a liquid to a god. The Eqyptians had huge milk bowls for that.
+1. Espresso is a pressure-derived coffee that can contain a blend of beans. Filter coffee is a gravity-derived coffee that can only contain one kind of bean. [Diluted to the same volume, filter coffee is better than americano](https://coffeeinfo.wordpress.com/americano-or-filter-coffee/).
+1. Baked beans are stewed. Apparently [they go on toast](https://en.wikipedia.org/wiki/Full_breakfast#England).
+1. In Auschwitz there's [a camp called Canada](http://remember.org/jacobs/smallspoons), the land of plenty, where the dead's possessions (including gold teeth) are collected and recycled.
+1. The queen has [her own flag of Canada](https://en.wikipedia.org/wiki/Royal_standards_of_Canada). Flying it somewhere means the queen is there.
+1. The back of the [1p coin](https://en.wikipedia.org/wiki/Coins_of_the_pound_sterling) says penny, not pence. When you have two of those pennies, you call it *tuppens*, and when you have three of them, [*thruppens*](https://en.wikipedia.org/wiki/Threepence_%28British_coin%29).
+1. Throughout the (first world) war only one ship was sunk by a U-boat while escorted by an aircraft (airship).
+1. Gastropubs are just pubs with better food and drinks.
+1. Annie (the one we try not to sexualise) is in The Disaster Artist.
+1. Any book containing the book of psalms can technically be called a [psalter](https://en.wikipedia.org/wiki/Psalter). Usually it requires the book of psalms to be the main book in the volume, though.
+1. Karl Marx knew at least English and German, and perhaps some French. He had an activist daughter called [Eleanor](https://en.wikipedia.org/wiki/Eleanor_Marx).
+1. A [dumbwaiter](https://en.wikipedia.org/wiki/Dumbwaiter) serves food from any floor to any other floor.
+1. A skinny latte is a latte with fat free milk and sugar free sweetener.
+1. Philosophical vegans might want to consider [eating oysters](http://www.slate.com/articles/life/food/2010/04/consider_the_oyster.html). They are so low in the food chain that some consider it okay.
+1. The inside of [Regency Cafe](https://en.wikipedia.org/wiki/Regency_Caf%C3%A9) is full of pictures of itself in films and things.
+1. A [cortado](https://en.wikipedia.org/wiki/Cortado) is an espresso with milk.
+1. [Cubism](https://en.wikipedia.org/wiki/Cubism), the art form, does not involve drawing cubes; instead the figures are drawn in angular, heavily-shaded ways.
+1. Kings Cross station has only platforms 9a and 9b. Platform 9.75 is a shop outside the fare paid zone.
+1. Tilapia was a symbol of rebirth in Egyptian art. Tilapia is a muddy-tasting bottom feeder with [no nutrition](https://en.wikipedia.org/wiki/Tilapia#As_food) and high omega-6.
+1. Overnight fish and chips are highly undesirable.
+1. The Romans brought elephants during their British conquest because they are a) useful, and b) impressive.
+1. Cottage cheese was (in the olden days) eaten as-is, called [curds and whey](https://en.wikipedia.org/wiki/Curds_and_Whey).
+1. Fettuccine is known as ["Tagliatelle"](https://www.popsugar.com/food/Difference-Between-Fettuccine-Tagliatelle-41945041) in Northern Italy, where it can be wider (or thinner, but on average there's no difference).
+1. Matt Damon plays the main dude in Downsizing. That movie has no fucking ending.
+1. At some point, it got really hard to get "Hong Kong colonial flag" accessories.
+1. Non-royal descendants of the Queen and her husband Philip can use the last name Mountbatten-Windsor.
+1. 2/3 of Instagram is females.
+1. 9 ball pool has fewer balls than 8 ball pool.
+1. Nortel accounted for more than 1/3 of the TSX at some point.
+1. Laser printers make themselves obsolete by pissing you right off near the end of their lifecycle.
+1. Once Markle [(suddenly)](https://www.youtube.com/watch?v=fC8SRkGlHzk) becomes a royal member, she can no longer vote. And act. And show her bare legs.
+1. Because rationing was still a thing in 1947, Elizabeth II needed ration coupons to buy materials for [her wedding gown](https://en.wikipedia.org/wiki/Wedding_dress_of_Princess_Elizabeth).
+1. A [Frame](https://stackoverflow.com/questions/31446777/difference-between-packets-and-frames) is a link layer (roughly layer 2) unit of data, containing a [packet](https://en.wikipedia.org/wiki/Network_packet). A packet is a network layer (roughly layer 3) unit of data, containing a [datagram](https://en.wikipedia.org/wiki/Datagram). A datagram is a transport layer (roughly layer 4) unit of data, containing who knows what you want to do in the session layer.
+1. Unlike "Big O", which is the upper bound, there is also a "Big Theta" which includes both the lower and upper bounds, called the "tight bound".
+1. The actual quote was "Your father's lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster. An elegant weapon... for a more civilized age."
+1. How fast a plane travels west/east depends on the wind direction, which is [not always faster from east to west](http://curious.astro.cornell.edu/about-us/40-our-solar-system/the-earth/climate-and-weather/68-why-do-airplanes-take-longer-to-fly-west-than-east-intermediate).
+1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
 1. Association football, the world's popular sport, has wikipedia articles available in 200 languages. FIFA claims the sport derived from [蹴鞠](https://en.wikipedia.org/wiki/Cuju), "something along those lines" from 20 BC.
 1. The [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) is reached when all players know all the other players' strategies, and find no reason (nothing to gain) to change their own strategy.
 1. It appears to be *Vive la France*, not *Viva la France*.

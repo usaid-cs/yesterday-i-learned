@@ -1,5 +1,6 @@
 # Django tips
 
+* First you migrate, then you load fixtures. It is not strictly enforced, but in order to have a database set up, you must first run `migrate` to get your tables, so you should just stick to it.
 * `PROTECT` in `FK(foo, on_delete=PROTECT)` is supposed to mean "if you want to delete that foo, you must first delete every object referencing it".
 * [`.exclude()`](https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exclude) generates a `WHERE NOT (conditions)` query rather than flipping those conditions in the code (e.g. `gt` to `<=`).
 * [Django does not force you to put code at some specific place](http://stackoverflow.com/a/8590943/1558430). With that said, since MVC requires a service abstraction layer between M and C, which hardly anyone ever has, Django tends to recommend logic in either V or [M](http://stackoverflow.com/a/8591009/1558430), depending on whether the logic concerns requests.

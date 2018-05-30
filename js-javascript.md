@@ -188,6 +188,7 @@ undefined
 * `isFinite(NaN)` is, quite contrary to all the other insanity that JS forces you to think is normal, actually returns `false`.
 * [jQuery's `.append()`](http://api.jquery.com/append/) can accept plain HTML strings.
 * [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) implements location-based notifications, but does not *support* it, because everything is half-baked, and nothing is, strictly-speaking, well-documented.
+* You are not supposed to put any logic inside react components (at least where it can be avoided).
 
 ## Deferred API
 

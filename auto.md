@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Intuitively speaking, wheels must be at least twice as tall as what you want the car's ground clearance to be. 20cm clearance requires 16-inch wheels (including tires).
+1. European cars sold in 2018 [*have*](https://en.wikipedia.org/wiki/ECall) to have an always-listening microphone installed for emergency purposes.
+1. London taxi cabs have their fuel caps on the same side as your car.
 1. To kill yourself by car these days (haha yes), the best chance you have is [drive into the right end of a truck](https://www.youtube.com/watch?v=bT3G-kcKN70), where even Canadian standards will fail you.
 1. If you know tires last 6 to 8 years, and you know how much you typically drive per year, then shouldn't you be buying tires based on combined kilometres over 6 years, instead of wasting money on tires that are a lot better, but cannot possibly be used to its full potential before [rotting away](http://evanstire.com/stop-rot-need-know-tire-dry-rot/)? (Remember to also split that number by summer/winter seasons.)
 1. 80% of all registered cars in Albania are, or at least [were](https://answers.yahoo.com/question/index?qid=20110724185649AAp8hX0), Mercedes.

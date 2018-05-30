@@ -1,3 +1,8 @@
+1. French idioms can also be called [Gallicisms](https://en.wikipedia.org/wiki/Gallicism), the [Gaul](https://en.wikipedia.org/wiki/Gaul) being where France is.
+1. There is no reason, other than ["but we've always called it that"](https://en.wikipedia.org/wiki/Lieutenant#Pronunciation), to pronounce "Lieutenant" with an F.
+1. Who's to say Leviathan was not Leujathan? Answer: [Hebrew](https://en.wikipedia.org/wiki/Leviathan).
+1. Southwark and Suffolk sound just about the same in some accents.
+1. The word Jewellery came from (Latin, then French) *jouel*, and has nothing to do with how rich Jewish people are.
 1. You can call nachos [*Ignacios*](https://www.reddit.com/r/todayilearned/comments/8jlvnz/til_nachos_are_named_after_their_inventor_ignacio/).
 1. The term ["window-licker"](https://www.urbandictionary.com/define.php?term=window%20licker) describes a person who would lick a window, i.e. a [retard](http://web.archive.org/web/20070320214418/http://www.bbc.co.uk/ouch/yourspace/worstwords/). On the same page, voters from 2007 decided the term "special" was among the top 10 worst words to describe "disabled" people, which, oddly enough, is itself a degoratory term today. There is currently [no way](https://classroom.synonym.com/politically-correct-terms-for-the-mentally-handicapped-12081973.html) to classify mentally challenged people under one term; refer to them as "people with (symptom name)", not "people with (syndrome name)".
 1. As of today, Google Translate pronounces "rofl" as "are oh eff el", "omg" as "oh em gee", and "lol" as just "lol".
@@ -56,7 +61,7 @@
 1. Languages typically develop the word for "red" first (because it's bright?), and then maybe yellow/green, and then blue, and then brown. Read study by Berlin and Key, 1969.
 1. *Walau* has the word root of *Wa lan eh* (我膦呃), my father's (dick).
 1. The verb for "opinion" is "opine/opining", rhymes with pint.
-1. "Rothschild" is pronounced "Roth's child". However, for some reason, ["Schwarzchild" (black shield) is pronounced "Shh-wat? shield"](https://www.youtube.com/watch?v=brmjWYQi2UM), instead.
+1. ["Rothschild" is pronounced "Roth's child"](https://www.oxfordlearnersdictionaries.com/definition/english/rothschild). However, being a German surname, it is supposed to be "ROS-shield" instead, and [*Schwarzchild* (black shield) is pronounced "Shh-wat? shield"](https://www.youtube.com/watch?v=brmjWYQi2UM).
 1. [It takes six (full) weeks less for an English speaker to learn French than to learn German.](http://www.openculture.com/2017/11/a-map-showing-how-much-time-it-takes-to-learn-foreign-languages-from-easiest-to-hardest.html)
 1. "The final straw" came from "the straw that breaks the camel's back".
 1. Punjabi for *Sikh* is *sikkh* "sick". You don't need to say "seek" to pretend you know the difference.

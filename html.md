@@ -1,3 +1,4 @@
+* A semantic tag called `<time>` allows you to enter it in ISO 8601 format and a human-readable one at the same time, [like this](https://zachholman.com/talk/utc-is-enough-for-everyone-right): `<time title="May 28, 2018, 3:47 PM PST" datetime="2018-05-28T15:47:57-08:00">six minutes ago</time>`
 * W3C [might](https://www.w3.org/TR/html51/syntax.html#sec-comments) have removed the requirement that comments must have a space between `<!--` and the actual comment, so `<!--comment-->` is valid now.
 * [Multiple `<tbody>` elements can exist in the same table.](https://stackoverflow.com/questions/3076708/can-we-have-multiple-tbody-in-same-table) Suspect the only reason for this is styling.
 * In HTML5, `<style>` tags must have the `scoped` attribute if they are in the `<body>` tag. Styles will be applied to its parent and siblings.
@@ -37,6 +38,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * "Use of the Application Cache is deprecated on insecure origins", which is great. [AppCache sucks blue balls](http://alistapart.com/article/application-cache-is-a-douchebag), anyway.
 * [An empty href](http://stackoverflow.com/questions/5637969/is-an-empty-href-valid) points to the same document.
 * ["Properties"](https://stackoverflow.com/a/6004028/1558430) are likely something where `prop in node` is true. "Attributes" are likely what you write directly in HTML. So if an `input` element has `value="foo"`, but user types in `bar`, then that element has attribute `foo`, but value `bar`.
+* Adding `sandbox` to [`<iframe sandbox>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) magically makes iframes safer. You can allow some things to escape, like `sandbox="allow-forms allow-scripts"`.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 
