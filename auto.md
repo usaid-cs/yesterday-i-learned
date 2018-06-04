@@ -1,5 +1,12 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The car is never in neutral in any driving situation.
+1. 豊田 is Toyoda with a D, but they changed to [トヨタ](https://en.wikipedia.org/wiki/History_of_Toyota) (Toyota) anyway, because トヨタ has 8 strokes in it, and apparently that's good luck.
+1. [A cold engine should never be red-lined.](https://www.reddit.com/r/AskAShittyMechanic/comments/3uvjzb/engine_warm_up_advice/) (It sounds obvious when it is phrased this way)
+1. Soft suspensions result in more body roll, thus more roll-over accidents. Instead, harder suspensions break your spine on a day-to-day basis, saving you from potential accidents.
+1. [Never buy a VW in September](https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj) (because Oktoberfest)
+1. Never buy a car designed during a recession or depression. They have massive per-car margins.
+1. ["If you see a car with the two wipers facing each other—this is known as the opposed-arm pattern—that probably wasn't the result of an aesthetic choice or a marketing consideration. It more likely had to do with a packaging issue. The tandem pattern is more cost-effective, but sometimes it doesn't fit, so if you see that opposed-arm configuration, it usually means there was no room for the motor in the middle area."](https://arstechnica.com/cars/2017/02/have-you-looked-at-your-windshield-wipers-lately/)
 1. Intuitively speaking, wheels must be at least twice as tall as what you want the car's ground clearance to be. 20cm clearance requires 16-inch wheels (including tires).
 1. European cars sold in 2018 [*have*](https://en.wikipedia.org/wiki/ECall) to have an always-listening microphone installed for emergency purposes.
 1. London taxi cabs have their fuel caps on the same side as your car.

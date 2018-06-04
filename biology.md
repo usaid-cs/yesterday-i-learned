@@ -1,3 +1,19 @@
+1. [A菜](https://zh.wikipedia.org/zh-tw/%E6%9C%AC%E5%B3%B6%E8%90%B5%E8%8B%A3) == [油麥菜](https://zh-yue.wikipedia.org/wiki/%E6%B2%B9%E9%BA%A5%E8%8F%9C) == [lettuce](https://en.wikipedia.org/wiki/Lettuce).
+1. Oncologists are cancer doctors.
+1. [Mites can grow in eyes?](http://www.wikihow.com/Know-if-You-Have-Eye-Mites?amp=1)
+1. Shedding snakes have a white coating on the eyes, like cataract.
+1. Aside from the color issue, dogs' sight is pretty bad. Using a custom eye test for dogs, researchers have found that dogs basically have 20/75 vision compared to a person's 20/20 vision.
+1. "Tiredness" is caused by swolling of the brain (caused by) the accumulation of metabolic wastes. The shrinkage of space between the gyri and sulci (mountains and valleys) of the brain reduces the ability for waste to be removed from the system.
+1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
+1. Humans [do not sneeze while they sleep](https://www.reddit.com/r/askscience/comments/2vkpv0/do_people_sneeze_while_they_sleep).
+1. [Tea](https://en.wikipedia.org/wiki/Tea) is exclusively beverages brewed with [Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) leaves. All other forms of brewed beverages can be called "juices".
+1. Scars can stay red for 3-4 months.
+1. Fluid build-up may be called "effusion".
+1. Tinnitus reduces your ability to hear other people, making you less inclined to have conversations. This destroys your interpersonal relationships.
+1. Liquid [hydrocodone](https://en.wikipedia.org/wiki/Hydrocodone), as good as oral morphine on the [equianalgesic chart](https://en.wikipedia.org/wiki/Equianalgesic), is used as a cough suppressant.
+1. Some dental implants can be [3D sculpted](https://en.wikipedia.org/wiki/Digital_dentistry) now...
+1. [85% of replacement knees last 20 years.](http://www.arthritis.org/living-with-arthritis/treatments/joint-surgery/types/knee/knee-replacement-younger-patients.php) They don't last forever. You can't just eliminate arthritis by becoming part robot.
+1. Only [oysters](https://en.wikipedia.org/wiki/Oyster) that are alive (and therefore close their shells) are safe to eat. Oysters can fertilise themselves.
 1. Adults often acquire immunity to [stomach flu](https://en.wikipedia.org/wiki/Gastroenteritis).
 1. [Rockets](https://en.wikipedia.org/wiki/Eruca_sativa) are spiccy bois.
 1. Rock salmon, or just ["rock"](https://en.wikipedia.org/wiki/Rock_salmon), is [a type of shark](https://en.wikipedia.org/wiki/Spiny_dogfish).

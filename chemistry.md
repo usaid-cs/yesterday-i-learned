@@ -1,3 +1,12 @@
+1. [Sticky pine sap](https://survivalsherpa.wordpress.com/2015/02/05/16-uses-of-sticky-pine-sap-for-wilderness-survival-and-self-reliance/) is a fire starter.
+1. [Alkyl nitrites](https://en.wikipedia.org/wiki/Poppers) aka Poppers are gaseous recreational drugs. It is frequently inhaled to relax the throat and anal sphincter (may be useful in some situations). A common side effect is dacryoliths (tear duct stones).
+1. Solutions are usually water/alcohol based. Lotions are more water/alcohol than oil. Creams are 50/50 oil/water. [Ointments](https://en.wikipedia.org/wiki/Topical_medication#Ointment) are more oil than water.
+1. [Dysprosium](https://en.wikipedia.org/wiki/Dysprosium) is an element. That is its only purpose.
+1. Perfectly clean metal surfaces [will automatically weld together](https://youtube.com/watch?feature=youtu.be&v=Tx3djo_SsJ0) in a vacuum. Metallic atoms don't know about "surfaces" and bond together.
+1. s,p,d, and f stand for sharp, principal, diffuse, and fundamental.
+1. That white powder on elastic/rubber bands is talc.
+1. ["Polypropylene breast implants"](https://en.wikipedia.org/wiki/Polypropylene_breast_implants) keep on expanding after implanting. It has been banned.
+1. [Sterling silver](https://en.wikipedia.org/wiki/Sterling_silver) is 92.5% silver, not because people are cheap, but because pure silver is too soft to be anything. There is no regulation what the 7.5% needs to be, but it is usually copper.
 1. [Brassica](https://en.wikipedia.org/wiki/Brassica) (broccoli, cabbage, brussels sprouts) is said (not cited) to taste bad because a) sulphur if overcooked, or b) [phenylthiocarbamide](https://en.wikipedia.org/wiki/Phenylthiocarbamide).
 1. [Enteric](https://en.wikipedia.org/wiki/Enteric_coating) can be made of any kind of polymer they find fit. See wiki for a list. They protect the stomach from drugs that activate in acidic environments, or (if you look at it the other way) protect the drug from being wasted in the stomach before it reaches the intestines.
 1. Alka-Seltzer is aspirin, baking soda, and citric acid (for making the baking soda bubble). "In the early 1960s a commercial showing two tablets dropping into a glass of water instead of the usual one caused sales to double."

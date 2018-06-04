@@ -365,7 +365,7 @@ bar
 1. `json.dumps(float('inf'))` should fail because `Infinity` is not valid JSON. Yet, using `simplejson`, it succeeds. So if your python code generates any JSON that contains an `Infinity` in it, your JS will get rekt.
 1. Too many items in your celery 3 queue? [`celery worker -Q queuename --purge`](https://stackoverflow.com/a/33531638/1558430)
 1. [Avoiding attribute access in loops](https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Loops) can have a measurable improvement in loop speed, and not only when the attributes are magic.
-1. [`python -m`](https://docs.python.org/2/using/cmdline.html) runs that module as if the module's contents were `__main__`. There is no difference between `python that.py` and `python -m 'that'`.
+1. [`python -m`](https://docs.python.org/2/using/cmdline.html) runs that module as if the module's contents were `__main__`. There is [little](https://stackoverflow.com/a/22241810/1558430) difference between `python that.py` and `python -m 'that'`.
 1. [You cannot monkey patch python's `list`](https://stackoverflow.com/a/38257902/1558430). Well, [you can](https://stackoverflow.com/a/4025310/1558430), but literals won't use your subclass, and outside of a PoC, that won't be a smart thing to do.
 1. The `call` object is supposed to be used by [unpacking](https://stackoverflow.com/a/39669722/1558430): `args, kwargs = mock_func.call_args`
 1. `simplejson.loads()` has a `for_json=False` argument that can be turned True if you want any object with a `for_json(self)` method to return their own representation instead.

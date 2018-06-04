@@ -1,3 +1,10 @@
+1. [*Pablum*](https://en.wikipedia.org/wiki/Pablum) can now be used to describe something that is bland, mushy, unappetizing, or infantile. It is the exact marketing opposite of "Googling".
+1. *Peperoni* (pepperoni) can either be peppers, or sausages seasoned with peppers.
+1. *Dykstra* is a dutch word for someone who lives by a dyke.
+1. [Habibi](https://en.wikipedia.org/wiki/Habibi) is Arabic for darling.
+1. *August* can be an adjective. It means "majestic". So you can be august any time of year. If you are James May, then you May be August any time of year.
+1. "Nemo" means "nobody" in Latin.
+1. In England-land, ["ta"](http://www.urbandictionary.com/define.php?term=TA) means "thanks".
 1. French idioms can also be called [Gallicisms](https://en.wikipedia.org/wiki/Gallicism), the [Gaul](https://en.wikipedia.org/wiki/Gaul) being where France is.
 1. There is no reason, other than ["but we've always called it that"](https://en.wikipedia.org/wiki/Lieutenant#Pronunciation), to pronounce "Lieutenant" with an F.
 1. Who's to say Leviathan was not Leujathan? Answer: [Hebrew](https://en.wikipedia.org/wiki/Leviathan).

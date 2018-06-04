@@ -1,5 +1,7 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+1. jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.
+1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
 1. JavaScript is one of the few languages, [if not the only language](https://en.wikipedia.org/wiki/Undefined_variable#Examples), to have a concept of `undefined`, but whose result from `1/0` is `Infinity`, rather than `undefined`.
 1. The "moo" in [MooTools](https://en.wikipedia.org/wiki/MooTools) stands for "My object-oriented".
 1. npm 5.2 gets [a new "npx" thing](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that is meant to execute one-off things (like `npx create-react-app blablabla`), running something with another version of node (`npx -p node@6 something`), or execute something installed in the relative path (`npx bower`, *`npx which bower`*, `npx mocha`) without needing that PATH line.
