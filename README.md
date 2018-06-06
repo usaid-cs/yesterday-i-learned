@@ -3,6 +3,81 @@ yesterday-i-learned
 
 Wooo 30 stars
 
+# Categories
+
+## Information & general works
+* [random.md](random.md)
+
+## Philosophy & psychology
+* [agile.md](agile.md)
+
+## Religion
+
+## Social sciences
+* [anthropology.md](anthropology.md)
+* [business.md](business.md)
+
+## Language
+* [french.md](french.md)
+* [korean.md](korean.md)
+* [linguistics.md](linguistics.md)
+
+## Science
+* [biology.md](biology.md)
+* [chemistry.md](chemistry.md)
+
+## Technology
+* [android.md](android.md)
+* [ansible.md](ansible.md)
+* [apple.md](apple.md)
+* [auto.md](auto.md)
+* [aws.md](aws.md)
+* [bash.md](bash.md)
+* [c.md](c.md)
+* [cpp.md](cpp.md)
+* [cs.md](cs.md)
+* [css.md](css.md)
+* [django.md](django.md)
+* [docker.md](docker.md)
+* [erlang.md](erlang.md)
+* [flask.md](flask.md)
+* [git.md](git.md)
+* [go.md](go.md)
+* [haskell.md](haskell.md)
+* [heroku.md](heroku.md)
+* [html.md](html.md)
+* [java.md](java.md)
+* [js-amd.md](js-amd.md)
+* [js-angularjs.md](js-angularjs.md)
+* [js-coffeescript.md](js-coffeescript.md)
+* [js-ecmascript-6.md](js-ecmascript-6.md)
+* [js-handlebars.md](js-handlebars.md)
+* [js-javascript.md](js-javascript.md)
+* [js-typescript.md](js-typescript.md)
+* [kotlin.md](kotlin.md)
+* [linux.md](linux.md)
+* [machine-learning.md](machine-learning.md)
+* [php.md](php.md)
+* [predictionio.md](predictionio.md)
+* [python.md](python.md)
+* [ruby.md](ruby.md)
+* [rust.md](rust.md)
+* [scss.md](scss.md)
+* [sql.md](sql.md)
+
+## Arts & recreation
+* [archery.md](archery.md)
+* [driving.md](driving.md)
+* [recipes.md](recipes.md)
+
+## Literature
+* [answering-machine.md](answering-machine.md)
+* [women.md](women.md)
+
+## History & geography
+* [canada.md](canada.md)
+* [history.md](history.md)
+
 # Contributing
 
 If you have any **one-liner** cool facts that aren't already here, submit a PR so we both learn! Include your citations inline as link(s).

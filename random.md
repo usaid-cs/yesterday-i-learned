@@ -1,5 +1,9 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. The Holy hand grenade was modeled after the sovereign's orb, which symbolises the globe dominated by Christianity, so it's really not that far off.
+1. [This Brazilian dude](https://en.wikipedia.org/wiki/Rodrigo_Santoro), [who played Xerxes in 300](https://www.imdb.com/title/tt0416449/mediaviewer/rm2470350592?ft0=name&fv0=nm0763928&ft1=image_type&fv1=still_frame), also plays Hector in Westworld.
+1. The Pakistani city of [Karachi is a top-10 city by population](https://www.worldatlas.com/articles/the-10-largest-cities-in-the-world.html), either 4th or 6th depending on where you check.
+1. The [Bengal delta / Ganges delta](https://en.wikipedia.org/wiki/Ganges_Delta) is the largest delta on Earth.
 1. You already have an account on GitLab :)
 1. There are *a lot* of people under the employment category "unremarkable man over 40".
 1. The sum of numbers from 0 to 36 happens to be 666.

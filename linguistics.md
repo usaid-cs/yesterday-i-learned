@@ -1,3 +1,5 @@
+1. *Sean* came from John, but *Shawn* and *Shaun* came from German *schön* (beautiful).
+1. The stress in "Hespeler" is put on the H.
 1. [*Pablum*](https://en.wikipedia.org/wiki/Pablum) can now be used to describe something that is bland, mushy, unappetizing, or infantile. It is the exact marketing opposite of "Googling".
 1. *Peperoni* (pepperoni) can either be peppers, or sausages seasoned with peppers.
 1. *Dykstra* is a dutch word for someone who lives by a dyke.

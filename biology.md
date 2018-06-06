@@ -1,3 +1,4 @@
+1. Pidgeys are [highly resistant](http://www.foxnews.com/story/2006/04/24/pigeons-dont-pose-bird-flu-threat.html) to bird flu (H5N1 variant).
 1. [A菜](https://zh.wikipedia.org/zh-tw/%E6%9C%AC%E5%B3%B6%E8%90%B5%E8%8B%A3) == [油麥菜](https://zh-yue.wikipedia.org/wiki/%E6%B2%B9%E9%BA%A5%E8%8F%9C) == [lettuce](https://en.wikipedia.org/wiki/Lettuce).
 1. Oncologists are cancer doctors.
 1. [Mites can grow in eyes?](http://www.wikihow.com/Know-if-You-Have-Eye-Mites?amp=1)

@@ -226,6 +226,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Because [`find ... | xargs rm`](https://askubuntu.com/questions/666001/piping-find-name-to-xargs-results-in-filenames-with-spaces-not-being-passed-to) has many issues with spaces and quotes and special characters, you should do `find ... -delete` instead.
 1. You can [change your SSH password without changing the public key](https://serverfault.com/questions/50775/how-do-i-change-my-private-key-passphrase). [Changing the password merely changes the *symmetric* key used to decrypt the private key](https://www.symantec.com/connect/forums/does-changing-key-passphrase-invalidate-old-public-key), which is then used to do actual work. Type `ssh-keygen -o -p -f ~/.ssh/id_rsa` and change as prompted.
 1. `sudo` keeps `$HOME` the value of whoever executed it (if you were bob, then `$HOME` would be `/home/bob`). [`sudo -H`](https://stackoverflow.com/questions/43623025/what-does-sudo-h-do) sets the `$HOME` to root's home, which root owns.
+1. It makes zero sense running KDE connect on Windows, but [you can](https://github.com/KDE/kdeconnect-kde#on-mac-or-windows).
+1. [`ls -1`](https://stackoverflow.com/a/3886328/1558430) (a one) prints one file per line without the rest of the stats in `-l`.
 
 ## Tmux
 

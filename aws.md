@@ -22,3 +22,4 @@
 1. You make a load balancer because otherwise only one instance in your ASG will get requests. Also, you can only attach a Route53 record set to a load balancer or directly to an instance, so you do that. After that, maybe you can have a working website. All these are bound by Security Groups (SGs), which are just firewall rules.
 1. Amazon Aurora is "one-tenth the cost" of enterprise databases, not one-tenth the cost of their other offerings.
 1. Simply changing the the ASG's launch configuration does not imply instances that are not launched by that LC will be scaled down. So if you want to change the instance type of an ASG from A to B, you have to detach instances from A first.
+1. Adding `query` to the `aws` command line gives you just that part of the response. `AWS_PROFILE=foo aws rds describe-db-snapshots --db-snapshot-identifier dont-delete-this-snapshot --query "DBSnapshots[0].PercentProgress"` would give `100` instead of the JSON object.

@@ -1,3 +1,1 @@
-1. Concentrated sulphuric acid [harmful to the body][imgur 3].
-
-[imgur 3]: https://imgur.com/a/g3poy
+1. Concentrated sulphuric acid is [harmful to the body](https://imgur.com/a/g3poy) (nsfw).

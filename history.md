@@ -1,3 +1,4 @@
+1. Mass metalworking began in London around 900 BC.
 1. There was a Swiss folk hero called [William Tell](https://en.wikipedia.org/wiki/William_Tell), who killed a tyrant with a crossbow.
 1. The "HMS Invincible" was sunk, [of course](https://en.wikipedia.org/wiki/Battle_of_Jutland). Note that there are seven HMS Invincibles.
 1. 50 years after Churchill's death, [no one remembers exactly what he said](https://public.wsu.edu/~brians/errors/churchill.html). He has been attributed to several variants of "up with which I will not put", including "This is the kind of arrant pedantry up with which I will not put", "This is the sort of bloody nonsense up with which I will not put", "Not ending a sentence with a preposition is a bit of arrant pedantry up with which I will not put", and "This is the sort of thing up with which I will not put."
@@ -15,3 +16,4 @@
 1. ["The Muslim slave trade was much larger, lasted much longer, and was more brutal than the transatlantic slave trade and yet few people have heard about it."](https://www.youtube.com/watch?v=WolQ0bRevEU)
 1. [Infanticide became a capital offense in Roman law in 374 AD](https://en.wikipedia.org/wiki/Infanticide), before which the babies were left in clay pots to die, which "took the responsibility away from the parents because the child would die of natural causes (...)"
 1. Chinese men originally get a [new name at the age of 20](https://zh.m.wikipedia.org/wiki/%E8%A1%A8%E5%AD%97). Women, either at the age of 15, or whenever they get married. No longer the case possibly because passports.
+1. Auschwitz is famous because, unlike [Chełmno](https://en.wikipedia.org/wiki/Che%C5%82mno_extermination_camp) or [Treblinka](https://en.wikipedia.org/wiki/Treblinka_extermination_camp), Auschwitz enslaved *and* killed people, instead of just killing. This leaves behind more evidence than a simple killing complex.
