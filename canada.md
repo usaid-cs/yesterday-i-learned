@@ -1,5 +1,10 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Nixon once called Pierre an asshole.](https://en.wikiquote.org/wiki/Pierre_Trudeau)
+1. Only a party with [official party status](https://en.wikipedia.org/wiki/Official_party_status#Ontario) are recognised by the council. The threshold for Ontario came to 9 seats. Prior to 1999, the only recognised party (federal or provincial) was the [official opposition](https://en.wikipedia.org/wiki/Official_party_status#Ontario), i.e. the second place.
+1. Weber Street really goes from North, to South, *to West*, and then to East.
+1. The distance from Calgary to Airdrie is only 1/4 of the distance from Calgary to Banff. Your average commute is half an hour long.
+1. According to [this report](http://demographia.com/dhi.pdf), houses in Fort Mac is pretty affordable by income right now.
 1. Homeless people can still vote without an address by [swearing an oath](http://www.elections.ca/content.aspx?section=vot&dir=faq&document=faqvoting&lang=e#a4) of some sort.
 1. The first day Ontarians got three presidential alerts in one day, [reddit was mad about it](https://www.reddit.com/r/toronto/comments/8jd8bk/emergency_alert/), while twitter was quick to agree that [they would rather receive them than not](https://twitter.com/AMBERAlertONT/status/996068244636274688).
 1. Getting jailed for more than 90 days in Canada means [no sales tax credits for you](https://help.hrblockonline.ca/hc/en-ca/articles/227320928-I-was-confined-to-a-prison-or-similar-institution-for-a-period-of-at-least-90-days-during-the-year). Six months or more and you won't get Old Age Security either.

@@ -1,3 +1,7 @@
+1. [The iPhone 8 Plus has the longest lasting battery (out of all tested flagships)](https://www.phonearena.com/news/Our-iPhone-8-Plus-battery-life-test-reveals-the-best-endurance-from-an-iPhone-yet_id98512), at twice as long of a runtime than your phone, and happens to take twice as long to charge.
+1. [There were no CPU touch boost drivers in iOS](https://www.anandtech.com/show/12873/apple-announces-ios-12) until version 12.
+1. XCode can give you a bullshit [`-1=ffffffffffffffff
+`](https://stackoverflow.com/questions/44173831/codesign-returned-unknown-error-1-ffffffffffffffff) error just because you didn't unlock your keychain.
 1. To clear all your notifications at once, [rage-press the "x"](https://www.zdnet.com/article/one-click-wonder-how-to-clear-many-days-of-notifications-on-your-iphone-in-one-tap/) and you will be given the option.
 1. To sort your home screen icons alphabetically, [select your icons in reverse alphabetical order](https://www.cnet.com/how-to/how-to-quickly-rearrange-your-home-screen-in-ios-11/), with multiple fingers, and then release. This is the only way.
 1. On an iPhone, the mute toggle showing red means "mute is on", not "sound is on".

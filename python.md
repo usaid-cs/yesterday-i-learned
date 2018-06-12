@@ -418,6 +418,11 @@ bar
 1. A dict's `.keys()`, `.values()`, and `.items()` have an official name called [dictionary views](https://docs.python.org/3/glossary.html).
 1. [Python3's `super()` need not specify the class and instance.](https://stackoverflow.com/a/19609168/1558430) In the event that the class has multiple parents, and you do something like `super().foo()`, it decides for you whichever class has the method `foo` first, which is the same behaviour as if you specify `super(this class, this instance).foo()`.
 1. You can't [name a file with a period and import it](https://stackoverflow.com/questions/1828127/how-to-reference-python-package-when-filename-contains-a-period#1828249) normally.
+1. A (function or compatible object)'s `__dict__` (if you do stupid things like that) becomes populated with `{'foo': 'bar'}` if you choose to assign, say, [`a_function.foo = 'bar'`](http://www.diveintopython3.net/special-method-names.html#esoterica).
+1. [You can override `__instancecheck__(i)` and `__subclasscheck__(c)`](https://www.python.org/dev/peps/pep-3119/#overloading-isinstance-and-issubclass) for a free pink slip.
+1. `a << b` is ["`a` shifted left by `b` zeros"](https://wiki.python.org/moin/BitwiseOperators).
+1. `re.match` will look for your pattern at the beginning of your string. `re.search` looks for your pattern anywhere in the string.
+1. `if not ():` is a valid statement because `()` is a falsy tuple.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

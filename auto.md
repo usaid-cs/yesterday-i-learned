@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. "That will do 206 miles per hour with the roof down. But. If a bluebottle flies over the top of the windscreen at that speed, and hits you in the middle of your forehead, it'll go straight through. Its own arse." - Top Gear S10E06
+1. Ford renames "MKX" to "Nautilus". "MKX was too confusing," they said.
 1. The car is never in neutral in any driving situation.
 1. 豊田 is Toyoda with a D, but they changed to [トヨタ](https://en.wikipedia.org/wiki/History_of_Toyota) (Toyota) anyway, because トヨタ has 8 strokes in it, and apparently that's good luck.
 1. [A cold engine should never be red-lined.](https://www.reddit.com/r/AskAShittyMechanic/comments/3uvjzb/engine_warm_up_advice/) (It sounds obvious when it is phrased this way)
@@ -10,17 +12,13 @@
 1. Intuitively speaking, wheels must be at least twice as tall as what you want the car's ground clearance to be. 20cm clearance requires 16-inch wheels (including tires).
 1. European cars sold in 2018 [*have*](https://en.wikipedia.org/wiki/ECall) to have an always-listening microphone installed for emergency purposes.
 1. London taxi cabs have their fuel caps on the same side as your car.
-1. To kill yourself by car these days (haha yes), the best chance you have is [drive into the right end of a truck](https://www.youtube.com/watch?v=bT3G-kcKN70), where even Canadian standards will fail you.
 1. If you know tires last 6 to 8 years, and you know how much you typically drive per year, then shouldn't you be buying tires based on combined kilometres over 6 years, instead of wasting money on tires that are a lot better, but cannot possibly be used to its full potential before [rotting away](http://evanstire.com/stop-rot-need-know-tire-dry-rot/)? (Remember to also split that number by summer/winter seasons.)
 1. 80% of all registered cars in Albania are, or at least [were](https://answers.yahoo.com/question/index?qid=20110724185649AAp8hX0), Mercedes.
 1. [You can trivially hack a car.](https://www.youtube.com/watch?v=3jstaBeXgAs) "Many of the standard things we would do on a PC to make the software secure, none of that was being done. (...) From a Darwinian standpoint, they had never had to face adversaries, and so the code never had to be hardened against that."
 1. Removable seats apparently make a vehicle target for theft: "The [new generation Chevy Suburban] is expected to address the issues regarding the constant thefts of the vehicles, especially with the previous generation's removable seats and items left in the cargo space, which has become a target for carjackers who see the third row seats as valuable on the black market."
 1. The 2019 Avalon does [not](https://www.youtube.com/watch?v=yqbrwN5W7Sc) have a front bumper. It has a grille that completely envelops what we consider the front bumper area.
 1. The footprint method in the regulation called [CAFE](http://www.thetruthaboutcars.com/2012/10/how-cafe-killed-compact-trucks-and-station-wagons/) means companies muck around with their vehicles in order to go into different segments by size: "the [PT Cruiser was designed to meet NHTSA standards for classification as a light truck](https://en.wikipedia.org/wiki/Chrysler_PT_Cruiser), for the express purpose of raising Chrysler’s light truck average fuel economy."
-1. Cars turning left at an intersection have no right of way, even [compared to cars trying to turn right into a different lane.](https://www.insurancehotline.com/understanding-right-of-way-common-scenarios/)
 1. Unless you can plug it in in some (way shape form), hybrids aren't the answer to an oil crisis. Using half the gas is still using gas. [Plug-in hybrids ("PHEVs") can travel 20~80km without gasoline](https://www.plugndrive.ca/electric-cars-available-in-canada/), about 25% the distance of pure electric vehicles, and [should](https://www.slideshare.net/gshobb4005/electric-cars-vs-gas) have the total cost of ownership if you plan to own the vehicle forever.
-1. Cars in the left lane turning left during the brief period when both traffic lights are red, known as the [Pittsburgh left](https://en.wikipedia.org/wiki/Pittsburgh_left), is a terrible idea, even in Pittsburgh.
-1. In the event of a blowout, you aren't supposed to brake, as it forces you to fishtail.
 1. [People who listen to techno ran through twice as many red lights as people who didn't listen to anything.](https://www.youtube.com/watch?v=OlV8A0SLa6Y)
 1. Olive oil might dissolve tree sap.
 1. All of Toyota's brands (including Scion and Lexus) have [the lowest maintenance cost over 10 years](https://i.imgur.com/HYfsuJ9.jpg) among the 30 brands sampled.
@@ -47,7 +45,6 @@
 1. Alex Lowell Dykes operates a car reviews youtube channel, *and* [a ceramic microscopy lab](http://dyklaine.com/).
 1. You want an engine that delivers the max horsepower at the lowest torque. That's how an engine can be useful for propelling you forward.
 1. The "double" part of double-declutch involves *you* rev-matching while in neutral: clutch pressed, neutral position on stick, clutch released, clutch pressed, shift to gear, clutch released (now you're in gear). "rev matching is something you should do regardless when dropping gears low enough."
-1. Hold your steering wheel at 10 and 2 [only if you don't have power steering.](https://www.youtube.com/watch?v=q9fu3SBm-PU)
 1. "You see what they've done here, this is organic tofu (toffu), dressed up as a juicy steak." - Clarkson on a CR-V hybrid
 1. There is [a site](http://www.imcdb.org/vehicles.php?resultsStyle=asImages&sortBy=4&make=Toyota&model=Matrix&modelMatch=1&modelInclModel=on) for car appearances on the Internet, ranked by what the car did in the clip (part of the movie, used a lot, used by a character or in a car chase, background vehicle, ...)
 1. [You can expect 7 out of 100 cars to get into a collision every year.](http://toronto.citynews.ca/2015/11/26/car-accidents-on-the-rise-in-canada-toronto-study/) Most are non lethal, of course.
@@ -64,12 +61,10 @@
 1. When buying a car, remember to take into account the [outrageous warranty](https://www.youtube.com/watch?v=QJNO6p54bUI) that you will want to buy.
 1. If your car's clearcoat is coming off, just take off both the base and the clearcoat, and repaint the whole thing. [No other method, such as clearcoating over broken base coat, is really worth the savings.](https://www.youtube.com/watch?v=tU9JnLoJGGI) Clearcoating over old paint will never come out right.
 1. > An unspecified [Cheiracanthium](https://en.wikipedia.org/wiki/Cheiracanthium) species is attracted to the smell of petroleum and has caused problems by weaving webs inside the canister vent of particular models of Mazda vehicles, resulting in blockages and build-up of pressure that could potentially cause fuel leakage from the fuel tank and an increased risk of fire. Mazda issued a voluntary recall of Mazda 6 models...
-1. It is not legal (in many jurisdictions) to turn left into a left turn lane. The lane is only for turning left from it.
 1. The right turn signal is meant to be used in a roundabout once you pass the exit before the one you intend to exit. This is consistent with other right hand turns.
 1. Fiat 500 is called Fiat 500 because [it had a 479cc engine](https://en.wikipedia.org/wiki/Fiat_500#Nuova_500_.281957.E2.80.931960.29), and because Fiat are Italian and round up willy nilly.
 1. It is possible to over-tighten the bolts for the wheel nuts. Use a torque wrench to (do something...?)
 1. Car commercials often [never feature the real car](https://www.youtube.com/watch?v=OnBC5bwV5y0).
-1. The [optimal driving speeds](http://eartheasy.com/move_fuel_efficient_driving.html) are 50km/h and 90km/h.
 1. To tell if a mechanic is honest, [take your car in for an unnecessary repair](http://lifehacker.com/take-your-car-in-for-an-unnecessary-repair-to-find-a-go-1545575350).
 1. Both Tom and Max Chilton are racers. However, only Max's website was SEOed to say "CHILTON'S BAD LUCK CONTINUES AT THE KOHLER GRAND PRIX AT ROAD ..."
 1. Herr Hitler sagte (SAAG te), "mein Auto sollte wie ein Käfer (KAY fer) aussehen (to appear)." Mister Hitler said, "my car should look like a beetle."
@@ -80,8 +75,6 @@
 1. Buy Lexus, Toyota, or Subaru (in that order). Hondas made in Japan are also acceptable.
 1. The ugly "Prius design" is called the [kammback](http://en.wikipedia.org/wiki/Kammback) exterior.
 1. [Winter and all-season tires cannot be mixed](http://www.tirerack.com/tires/tiretech/techpage.jsp?techid=136)
-1. Understeer: the front wheels are fully turned, but the car is still going forward.
-1. Oversteer: the front wheels are turning fine, but the back is steering too much.
 1. The [car colours that retain the most value](http://blog.unhaggle.com/4-reasons-car-colour-matter-buying-new-car/) are white, black, and grey. Birds love pooping on [red, blue, and black cars](https://ca.autos.yahoo.com/news/the-car-colours-bird-droppings-love-most-143754680.html). Bright colours also correlate to higher insurance premiums. To add on to the insult, [black cars get into accidents most often](http://www.moneysupermarket.com/car-insurance/blog/car-crash-by-colour/) because no one can see them, while silver cars are the safest.
 1. The "prop shaft" is the propeller shaft (read: stick) that transfer energy from the engine to the wheel.
 1. Pumping car tires with a bike pump actually works pretty well to top off the pressure but it'll take a good while to pump it up from flat. It won't be hard to pump though. 35 psi is really low for a bike tire.

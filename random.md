@@ -1,6 +1,35 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
-1. The Holy hand grenade was modeled after the sovereign's orb, which symbolises the globe dominated by Christianity, so it's really not that far off.
+1. [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) came out in 2007.
+1. That Lim Teng Zui's actor is actually [half Indian](https://en.wikipedia.org/wiki/Gurmit_Singh) with the last name Singh.
+1. [Rachel](https://en.wikipedia.org/wiki/Rachel_%28given_name%29) means, uh, a female sheep (also known as an ewe).
+1. [Google Sheets can be a valid JSON server.](https://medium.com/perfektio/google-sheets-aws-lambda-json-backend-d5e67ab4f660)
+1. Mapping companies put [fake streets and features](https://www.leagle.com/decision/19921525796fsupp72911403) into their maps to catch copyright violations.
+1. Traditional teh tarik is made with sweetened condensed milk.
+1. It is important to have a codeword for danger, among the people you hang out with. This usually 
+1. Whether taxes work before or after discounts can depend on [what type of discount it is](https://www.quora.com/Is-tax-applied-before-or-after-discount).
+1. Spain invented the idea of adding one part coke to one part wine, and then calling it [Kalimotxo](https://en.wikipedia.org/wiki/Kalimotxo) (calimocho). See the [list of IBA official cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails) for what to actually order.
+1. The ["Is this...?" meme](http://knowyourmeme.com/memes/is-this-a-pigeon) originally said ["Is this a pigeon?"](https://www.youtube.com/watch?v=1IajfRTodPA)
+1. ["To check whether the pasta is cooked, flicking it at the wall and waiting for it to stick is pointless. You just end up with a messy wall."](https://www.thelocal.it/20170717/ten-golden-rules-how-to-cook-pasta-like-the-italians-al-dente-chef)
+1. Mass-produced dry pasta is yellow because [it was dried quickly and that's no good](https://www.lifegate.com/people/lifestyle/pasta), if you trust that sort of thing. Dark spots in dry pasta are impurities, not some fancy whole wheat component.
+1. You might have invented the word ["newspapoid"](https://www.google.com/search?q=%22newspapoid%22) to describe tabloid-quality newspapers. There are currently absolutely no search results.
+1. Chinese government apparently obfuscates corodinates of their maps and street view stuff using something called [GCJ-02](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#Coordinate_systems) in the name of national security, but their algorithm is leaked so much that the reverse code it is just on wikipedia.
+1. [JK Rowling's ex-husband](http://www.newsweek.com/jk-rowling-husband-domestic-abuse-741496) died in 1995. That was the same year she typed up the first book.
+1. "Gig economy" means people are always doing short-term work. [40% of jobs are expected to be one of those by 2020.](https://whatis.techtarget.com/definition/gig-economy)
+1. ["Andre Geim ... was ... the first to win, as an individual, both a Nobel Prize ... and an Ig Nobel Prize."](https://www.improbable.com/2010/10/05/geim-becomes-first-nobel-ig-nobel-winner/)
+1. [Positive rights](https://www.quora.com/What-are-positive-rights-and-negative-rights) are your rights to do/get something, and negative rights are your rights to not have something done to you. Since "right to life" (positive) is the same as "right to not be killed" (negative), [some people don't think this distinction matters](https://en.wikipedia.org/wiki/Negative_and_positive_rights).
+1. Modern chili is closer to [feijoada](https://en.wikipedia.org/wiki/Feijoada) (beans, beef) than [chili con carne](https://en.wikipedia.org/wiki/Chili_con_carne) (chili, beef).
+1. Katniss ever died in the books, at least not according to [this](http://thehungergames.wikia.com/wiki/Katniss_Everdeen), perhaps because the author's first name is not George.
+1. In VB6, a `Function Foo` returns a value by [assigning the value to the function](http://www.vb6.us/tutorials/understanding-subroutines-and-functions-vb), i.e. `Foo = "Bar"`. They fixed crazy by introducing the [`Return` statement in VB.NET](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/how-to-return-a-value-from-a-procedure).
+1. Amazon Mechnical Turk is an (unintended) [excellent source of social science research participants](https://daily.jstor.org/amazons-mechanical-turk-has-reinvented-research/).
+1. Wikipedia says [WinSxS was introduced in Windows 98 SE](https://en.wikipedia.org/wiki/Side-by-side_assembly).
+1. The two-colour pound coin came out in 2016, so it is not part of [the shield thing](https://en.wikipedia.org/wiki/Coins_of_the_pound_sterling#Royal_Shield_reverse).
+1. [Twitter has a follow limit.](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/) (currently 5000)
+1. "Mind how you go" is apparently a form of greeting for when someone else leaves an informal gathering.
+1. God didn't tell anyone to ["be fruitful and multiply"](https://en.wikipedia.org/wiki/Cultural_mandate) when the Earth had seven bilion people in it.
+1. Donald's dominating, jerking-the-person-towards-him handshake can be mitigated by simply [resting on his own shoulder](https://imgur.com/0fvAaFe)
+1. Github users "1" to "5" are a waste of user names.
+1. [Roughly one in four suicides come with a note.](https://en.wikipedia.org/wiki/Suicide_note)
 1. [This Brazilian dude](https://en.wikipedia.org/wiki/Rodrigo_Santoro), [who played Xerxes in 300](https://www.imdb.com/title/tt0416449/mediaviewer/rm2470350592?ft0=name&fv0=nm0763928&ft1=image_type&fv1=still_frame), also plays Hector in Westworld.
 1. The Pakistani city of [Karachi is a top-10 city by population](https://www.worldatlas.com/articles/the-10-largest-cities-in-the-world.html), either 4th or 6th depending on where you check.
 1. The [Bengal delta / Ganges delta](https://en.wikipedia.org/wiki/Ganges_Delta) is the largest delta on Earth.
@@ -436,7 +465,7 @@
 1. The last IE6 release came out in 2008 (2008-05-05). IE6 is called *Microsoft* Internet Explorer and IE7 is called *Windows* Internet Explorer.
 1. All Islam-regulated methods of destroying copies of the Quran involves making the words illegible.
 1. Rice was Hong Kong's primary agricultural product. There were still rice farmers in Hong Kong in the 1960s and even the 1980s.
-1. In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celcius.
+1. In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celsius.
 1. Airlines tell you to put your seat upright during landing, possibly only so that they don't need to fix the seats for their next shift.
 1. Once lost, black luggage bags are basically lost forever. Don't use ribbons as a form of differentiation---they can jam the bag belt. Use colourful duct tape instead.
 1. In 2018, Intel unveiled their all-new Spectre and Meltdown vulnerabilities. In 2018, Intel released fixes for the vulnerabilities. In 2018, [Microsoft blocked those fixes from installing because they are so bad they soft-brick some Windows machines.](https://betanews.com/2018/01/28/microsoft-windows-intel-spectre/)
@@ -2104,7 +2133,7 @@
 1. Many modern tank barrels are no longer rifled (riffled? spiral grooves.), because they shoot different types of ordnance that would be damaged by the rifling, such as HEAT rounds.
 1. It's the cumin, more than other ingredients, that causes the classic curry body odour. Garlic and onion can, unrelatedly, cause breath problems.
 1. [Datura][wikipedia 58] makes you delirious, not high.
-1. During the early Empire, Roman tastes preferred a sweet, strong wine. Keep in mind that this would not be a strong drink by modern standards. Wine maxes out at around 15% ABV; any more alcohol than that and it kills the yeast, stopping any further fermentation. And the Romans, for all their advances, never discovered distillation. So, wine would have been the most alcoholic drink they knew. They rarely drank it straight, which was seen as uncultured and boorish. They watered it down, usually at a ratio of two parts water to one part wine. They also added other ingredients—honey to mask the acidity of wine turning to vinegar, and herbs, spices, resin, and even sea water to cut the sweetness.
+1. During the early Empire, Roman tastes preferred a sweet, strong wine. Keep in mind that this would not be a strong drink by modern standards. Wine maxes out at around 15% ABV; any more alcohol than that and it kills the yeast, stopping any further fermentation. And the Romans, for all their advances, never discovered distillation. So, wine would have been the most alcoholic drink they knew. They rarely drank it straight, which was seen as uncultured and boorish. [They watered it down, usually at a ratio of two parts water to one part wine.](http://lawineclub.com/artsearch.php?fn=2&as=212&dt=1) They also added other ingredients—honey to mask the acidity of wine turning to vinegar, and herbs, spices, resin, and even sea water to cut the sweetness.
 1. A [skeleton crew][wiktionary] is the minimum number of people required to do something.
 1. "Loose bodies" can commonly be found around the knee. They are usually cysts, usually don't hurt, and they usually do no harm.
 1. Random article bringing up a good argument against brace-on-new-lines: [unicode comments can potentially cause an entire line to be ignored][rapapaing]

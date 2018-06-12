@@ -45,7 +45,7 @@
 1. On 2017-10-04, [three old blokes](https://www.quantamagazine.org/supercool-protein-imaging-gets-the-nobel-prize-20171004/) were awarded Nobel prizes in Chemistry for [cryo-electron microscopy](https://www.nobelprize.org/nobel_prizes/chemistry/laureates/2017/press.html), which allows proteins to be imaged as atoms rather than blobs.
 1. High concentrations of fluoride can yellow teeth.
 1. The same dude who invented the Haber process for making fertilisers (that would be Mr. Haber), saving millions, ended up inventing chemical warfare, killing millions.
-1. Beer curdles milk [because](http://science.howstuffworks.com/innovation/edible-innovations/beer-milk-curdle.htm) the acidity neutralizes the negative charge on the casein grouped into micelles, which cause them to clump together in larger and larger quantities.
+1. [Both of beer and milk are acidic.](https://www.thoughtco.com/milk-an-acid-or-a-base-607361) Beer curdles milk [because](http://science.howstuffworks.com/innovation/edible-innovations/beer-milk-curdle.htm) the *stronger* acidity neutralizes the negative charge on the casein grouped into micelles, which cause them to clump together in larger and larger quantities.
 1. Potassium (and/or hydrogen) carbonate are conjugate bases of carbonic acid. They are basic.
 1. [Ethyl ethanoate](https://en.wikipedia.org/wiki/Ethyl_acetate) is abberviated as EtOAc, because the IUPAC are a group of Commie Frenchists.
 1. Rubbing your finger hard will start smelling like sulphur, presumably because your are burning off your cysteine [disulphide bridges](https://en.wikipedia.org/wiki/Disulfide).

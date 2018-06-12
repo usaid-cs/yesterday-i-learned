@@ -122,6 +122,7 @@
 1. **l'Ouest**: the west. *Je vais vers l'ouest*: I go towards the west.
 1. **Paix**: peace. *Je vis en paix*: I live in peace.
 1. **Parler**: to speak. *Parle-nous*: speak to us.
+1. **Partager**: to share, or to divide. The word implies sharing has an element of giving up something.
 1. **Partir**: to leave. *Je pars*: I am leaving. *Nous devons partir*: we must leave.
 1. **Partout**: everywhere, all over. *Je veux te suivre partout*: I want to follow you everywhere.
 1. **Pas**: not. *Ne pas*: not not ("do not"). Also means "step".

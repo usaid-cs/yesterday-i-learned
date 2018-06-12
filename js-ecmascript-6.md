@@ -162,6 +162,10 @@ Proxies: a virtual wrapper that can handle property reads and changes on the ori
 var engineer = { name: 'Joe Sixpack', salary: 50 };
 
 var interceptor = {
+  get: function (target, name) {
+    // https://www.atyantik.com/proxy-javascript-es6-feature/
+    return name in target ? target[name] : 42;  // all missing keys default to 42
+  },
   set: function (receiver, property, value) {
     console.log(property, 'is changed to', value);
     receiver[property] = value;

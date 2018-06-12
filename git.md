@@ -497,6 +497,7 @@ That's because you really can't. You can't `git push origin -u anything` unless 
 * You can `git diff` and `git diff HEAD`. If you already `git add`ed some things and made further changes before committing, `git diff HEAD` shows you changes including in the files already added.
 * To add a "local remote", [literally](http://www.thehorrors.org.uk/snippets/git-local-filesystem-remotes/) `git remote add origin /local/path/myrepo.git`.
 * GitHub: [Permission classes][github 2]
+* "Octopus merge" is what Linus Torvalds [used](https://marc.info/?l=linux-kernel&m=139033182525831) to describe merges with two or more parents. A "Cthulu merge" is what he used to describe a merge with 66 parents. To [perform an octopus merge](https://git-scm.com/docs/git-merge#git-merge-ltcommitgt82308203), just specify more than one branch or commit.
 
 ### The SSH URL
 

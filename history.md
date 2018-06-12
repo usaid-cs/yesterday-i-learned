@@ -1,3 +1,5 @@
+1. Canada had conscription during the two world wars.
+1. England was a republic [once](https://en.wikipedia.org/wiki/Commonwealth_of_England), between 1649 and 1660, when the [Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was such an epic fail that the people decided to execute him for high treason.
 1. Mass metalworking began in London around 900 BC.
 1. There was a Swiss folk hero called [William Tell](https://en.wikipedia.org/wiki/William_Tell), who killed a tyrant with a crossbow.
 1. The "HMS Invincible" was sunk, [of course](https://en.wikipedia.org/wiki/Battle_of_Jutland). Note that there are seven HMS Invincibles.

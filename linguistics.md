@@ -1,3 +1,4 @@
+1. You see so many "sorry for my bad english" posts because you can't read comments in other languages. (Though no one says that in Chinese for some reason)
 1. *Sean* came from John, but *Shawn* and *Shaun* came from German *schön* (beautiful).
 1. The stress in "Hespeler" is put on the H.
 1. [*Pablum*](https://en.wikipedia.org/wiki/Pablum) can now be used to describe something that is bland, mushy, unappetizing, or infantile. It is the exact marketing opposite of "Googling".
