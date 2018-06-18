@@ -423,6 +423,11 @@ bar
 1. `a << b` is ["`a` shifted left by `b` zeros"](https://wiki.python.org/moin/BitwiseOperators).
 1. `re.match` will look for your pattern at the beginning of your string. `re.search` looks for your pattern anywhere in the string.
 1. `if not ():` is a valid statement because `()` is a falsy tuple.
+1. Python3 [`Exception`s do not have `.message`](https://github.com/charlesthk/python-mailchimp/issues/61) anymore.
+1. The [`range()` is not a generator](https://stackoverflow.com/a/13092317/1558430) because you can't call `next()` on it. And you can't call `next()` on it because you want some nice properties like `1 in range(5)`, which generators cannot offer, and index access `range(5)[1]`, which generators also cannot offer.
+1. Perhaps contradictory to the previous point, [all generators are iterators](https://stackoverflow.com/a/2776865/1558430) so you should be able to iterate through any generator.
+1. If you give a function a `__call__`, it does nothing with it.
+1. Django's `django.utils.six` is [said](https://stackoverflow.com/a/32578107/1558430) to be a bit different from the real `six`, under the section [`### Additional customizations for Django ###`](https://github.com/django/django/blob/d6eaf7c0183cd04b78f2a55e1d60bb7e59598310/django/utils/six.py#L869).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

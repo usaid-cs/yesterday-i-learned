@@ -180,7 +180,7 @@ undefined
 * For some reason, [synchronous AJAX is allowed on window unload.](https://stackoverflow.com/questions/1821625/ajax-request-with-jquery-on-page-unload)
 * [Try to be explicit](https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/) when it comes to imports. Finding usages of `foo.bar()` is much harder than `require('bar')`.
 * [Web workers don't run if the procotol is file://.](https://stackoverflow.com/questions/21408510/chrome-cant-load-web-worker)
-* If you `a = function () {}`, the function's name will be `a` (not sure why, but there you go.) If you `a = function b() {}`, the function's name will be `b`. If you `(function () {}).name`, that is an empty string. If you `(function (a) { console.log(a.name) }(function () {}))`, you will end up printing an empty string, but return undefined.
+* If you `a = function () {}`, the function's name will be `a` (not sure why, but there you go.) If you `a = function b() {}`, the function's name will be `b`. If you `(function () {}).name`, that is an empty string. If you `(function (a) { console.log(a.name) }(function () {}))`, you will end up printing an empty string, but return `undefined`.
 * `<!--` are intentionally allowed as comment markers in JS. [It is part of the spec.](https://github.com/denysdovhan/wtfjs#html-comments-are-valid-in-javascript) To get fired, you need to insert a space in between your mental gymnastics, like so: `if (5 < !--i) { ... }`
 * To `apply` a constructor, you [need](https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible) to `new (Function.prototype.bind.apply(Foo, [null, a, b, c]));`
 * `new RegExp(/already a regexp literal/)` can still be useful if you want to [add a flag to it](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp), like `new RegExp(/already a regexp literal/, 'i')`.
@@ -191,6 +191,7 @@ undefined
 * [jQuery's `.append()`](http://api.jquery.com/append/) can accept plain HTML strings.
 * [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) implements location-based notifications, but does not *support* it, because everything is half-baked, and nothing is, strictly-speaking, well-documented.
 * You are not supposed to put any logic inside react components (at least where it can be avoided).
+* There's "React Native" for those who regret writing react apps in Cordova, and then there's ["React Native Web"](https://github.com/necolas/react-native-web), for those who regret writing react apps in Cordova, switch to react native, and then regret not being able to run it in a browser. JavaScript is a Mobius strip for ideas.
 
 ## Deferred API
 

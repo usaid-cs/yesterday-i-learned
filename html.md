@@ -39,6 +39,10 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * [An empty href](http://stackoverflow.com/questions/5637969/is-an-empty-href-valid) points to the same document.
 * ["Properties"](https://stackoverflow.com/a/6004028/1558430) are likely something where `prop in node` is true. "Attributes" are likely what you write directly in HTML. So if an `input` element has `value="foo"`, but user types in `bar`, then that element has attribute `foo`, but value `bar`.
 * Adding `sandbox` to [`<iframe sandbox>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) magically makes iframes safer. You can allow some things to escape, like `sandbox="allow-forms allow-scripts"`.
+* The point of [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) is to protect the client from leaking information to another origin.
+* The point of [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) is to protect the client from random stuff that might get injected into their webpages.
+* The point of [SRI](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) is to protect the client from getting fake resources from something like a compromised CDN.
+* The point of [CORB](https://fetch.spec.whatwg.org/#corb) is to ensure what the client requested is what the client wanted; requesting a `text/plain` to be displayed in an `<img>` tag would be blocked because it is impossible.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

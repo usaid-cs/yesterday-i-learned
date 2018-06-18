@@ -1,3 +1,10 @@
+1. In the [additive colour](https://en.wikipedia.org/wiki/Additive_color) model, any colour appears to be white if whatever it is there emits photons that strongly activate [L, M, and S cones](https://en.wikipedia.org/wiki/LMS_color_space) at the same time. "LMS" is just Long, Medium, and Short [wavelength].
+1. ["A tampon doesn't affect your virginity. The opening in your hymen is large enough for the (...)"](https://meninmenstruation.files.wordpress.com/2011/06/obtamponinstructions.jpg)
+1. Such a thing as [Project Isabela](https://www.galapagos.org/conservation/our-work/ecosystem-restoration/project-isabela/) happened to eradicate alien goats from the Galapagos islands, which were destroying the native vegetation and starving [land turtles](https://en.wikipedia.org/wiki/Turtle#Turtle,_tortoise,_or_terrapin) to death. When strafing from helicopters stopped becoming effective, the concept of "Judas goats" arrived to make captive goats betray their own friends' location and get them killed.
+1. [Emasculation](https://en.wikipedia.org/wiki/Emasculation) is the removal of male sex organs. You cannot "feel emasculated" and not have your penis removed at the same time.
+1. The bubonic plague is still everywhere.
+1. Did you know that [other men are so manly their beards can clog the drain?](https://www.reddit.com/r/lifehacks/comments/8qrt56/easy_cleanup_for_shaving_your_face/)
+1. [Saltation](https://en.wikipedia.org/wiki/Saltation_%28biology%29) is the special word for jumping with two feet at once.
 1. [Degus](https://en.wikipedia.org/wiki/Common_degu) ("DAY-goo"), dumb chewy rats, are illegal in Newfoundland and Laborador.
 1. Doing imaginary exercises ("they sat completely still and focused their entire mental effort on pretending to flex their muscles") ends up getting muscles that are ["two times stronger"](https://www.scientificamerican.com/article/how-to-grow-stronger-without-lifting-weights/).
 1. [Breathing alone makes you lose 35g per hour while you sleep](https://www.youtube.com/watch?v=iwOX7vOf0_s) (assuming you are the same kind of healthy 80kg male as thunderf00t).

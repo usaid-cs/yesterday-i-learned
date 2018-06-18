@@ -3,6 +3,7 @@
 * **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as *quickly checkable/verifiable*.
 * **NP-Complete** problems are problems that are both NP and NP hard.
 * The [null object pattern](https://en.wikipedia.org/wiki/Null_Object_pattern) involves overloading a function with one that specifically handles the base case of "null".
+* A [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) has nothing to do with blooming; it was just named after a guy called Burton Bloom. It is a space-efficient set that can give you false positives (something is in the list), but never false negatives (something is not in the list).
 
 # Being a developer
 

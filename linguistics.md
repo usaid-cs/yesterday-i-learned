@@ -1,3 +1,6 @@
+1. Germans call their teams "Mannschaft".
+1. *L'occitane* should probably be *l'ocçitane*, "LOC see tan".
+1. The [difference between *dans* and *en*](https://forum.duolingo.com/comment/887393/En-vs-Dans) varies depending on where you are, so it is basically "memorise it".
 1. You see so many "sorry for my bad english" posts because you can't read comments in other languages. (Though no one says that in Chinese for some reason)
 1. *Sean* came from John, but *Shawn* and *Shaun* came from German *schön* (beautiful).
 1. The stress in "Hespeler" is put on the H.

@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. To remove Google Play Services from the whitelist that lets them do whatever they want without battery optimisation, [edit the `/system/etc/sysconfig/google.xml` file](https://android.stackexchange.com/questions/143247/how-to-make-google-play-services-and-other-default-white-listed-system-apps-doze) and comment out the appropriate sections.
 1. [`.dex` files are VM caches in an APK](https://www.addictivetips.com/mobile/what-is-odex-and-deodex-in-android-complete-guide/), and `.odex` files are optimised VM caches outside an APK. "De-odexed" ROMs put the odex files inside the APK, so you can mod the APK or something without odex files conflicting with it.
 1. As of 2018-05-04, a package called `com.google.android.quicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.
 1. "Some apps will use OpenSL ES for Android to record audio, an example is WhatsApp. Xposed cannot hook into native code, so this cannot be prevented." - XPrivacyLua
@@ -41,7 +42,7 @@
 1. `adb shell dumpsys batterystats --reset` resets the battery graph.
 1. The Moto E(2) is [a bitch to fix](https://www.ifixit.com/Guide/Motorola+Moto+E+2nd+Generation+Battery+Replacement/56502).
 1. Not being on a stock rom while relocking your bootloader will brick the device, says [this guy](https://forum.xda-developers.com/showpost.php?p=69267541&postcount=9).
-1. If your friendly local LineageOS installation complains about [having no `TERM` variable](https://jira.lineageos.org/browse/BUGBASH-556?attachmentViewMode=list), then see if adding `export TERM=xterm` to `/etc/mkshrc` helps.
+1. If your friendly local LineageOS installation complains about [having no `TERM` variable](https://jira.lineageos.org/browse/BUGBASH-556?attachmentViewMode=list), then see if adding `export TERM=xterm` to `/etc/mkshrc` helps. The message you get is: `Error opening terminal: unknown.`
 1. The Pixel has [Snapdragon 821-AB](https://www.xda-developers.com/dissecting-speed-how-oneplus-leveraged-excellent-real-world-performance/), whereas the Oneplus 3T has Snapdragon 821-AC, with a slightly higher boost frequency.
 1. Face Unlock is less popular in countries like Saudi Arabia and UAE.
 1. Download the SDK before attempting to compile anything.

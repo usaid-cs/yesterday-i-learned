@@ -160,7 +160,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 ```
 
 1. [Never use echo in a script, they said.](https://www.reddit.com/r/linux/comments/3fhvxy/echo_help/ctovplr) Use `printf '%s\n' -n` in a script, they said. Something about AT&T.
-1. `ssh whoami.filippo.io` forwards *all* your public keys to the server. The server will know your email, and because GitHub publishes your key under `github.com/{username}.keys`, the server also knows your github account.
+1. [`ssh whoami.filippo.io`](https://github.com/FiloSottile/whosthere) forwards *all* your public keys to the server. The server will know your email, and because GitHub publishes your key under `github.com/{username}.keys`, the server also knows your github account.
 1. [Distro packages go in `/usr/bin`. Other package managers install to `/usr/local/bin`.](http://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux) `/sbin` is for programs that need to be available before "users" are available to the system.
 1. "FYI it is pronounced ma-tay not mait. as in Yerba **Mate** which it is named after. It is from South America so it doesn't matter where you are from. You should pronounce it as it's native word." - [Matt Nelson](https://www.youtube.com/channel/UCJpf7lnaGv5Ya-O-g5wpBqQ). "Who cares" - [CarMoves](https://www.youtube.com/user/CarMoves)
 1. Solaris has a version of `killall` that does not take parameters. It kills all killable processes.
@@ -228,6 +228,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `sudo` keeps `$HOME` the value of whoever executed it (if you were bob, then `$HOME` would be `/home/bob`). [`sudo -H`](https://stackoverflow.com/questions/43623025/what-does-sudo-h-do) sets the `$HOME` to root's home, which root owns.
 1. It makes zero sense running KDE connect on Windows, but [you can](https://github.com/KDE/kdeconnect-kde#on-mac-or-windows).
 1. [`ls -1`](https://stackoverflow.com/a/3886328/1558430) (a one) prints one file per line without the rest of the stats in `-l`.
+1. [AWK](https://en.wikipedia.org/wiki/AWK) is its own programming language. [`echo 'a b c' | awk '{print $1}'`](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html) prints the first column of any tabular data you pipe into it.
 
 ## Tmux
 

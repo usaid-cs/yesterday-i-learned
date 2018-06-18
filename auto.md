@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Never use diff locks on paved roads. They are meant for roads on which you slip.
 1. "That will do 206 miles per hour with the roof down. But. If a bluebottle flies over the top of the windscreen at that speed, and hits you in the middle of your forehead, it'll go straight through. Its own arse." - Top Gear S10E06
 1. Ford renames "MKX" to "Nautilus". "MKX was too confusing," they said.
 1. The car is never in neutral in any driving situation.

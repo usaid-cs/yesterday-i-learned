@@ -1,3 +1,4 @@
+1. [`normalize.css`](https://github.com/necolas/normalize.css/blob/master/normalize.css) is a ~350 line CSS file, more than half of which are comments.
 * CSS3 has `background-size`, whose most useful values are `cover` (scaled and cropped) and `contain` (scaled to fit).
 * `text-overflow` allows [custom truncation characters][mozilla]. It is CSS3. For everything else, there's [mastercard][frebsite].
 * Chrome doesn't support two-valued text-overflows, e.g. `clip ellipsis`.

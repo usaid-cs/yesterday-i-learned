@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Petch](https://en.wikipedia.org/wiki/Howard_Petch) and [Downey](https://en.wikipedia.org/wiki/James_Downey_%28academic%29) don't have a building because they aren't dead. [Johnston](https://en.wikipedia.org/wiki/David_Johnston) is still alive, but somehow got [a park](https://uwaterloo.ca/research-technology-park/).
 1. [Nixon once called Pierre an asshole.](https://en.wikiquote.org/wiki/Pierre_Trudeau)
 1. Only a party with [official party status](https://en.wikipedia.org/wiki/Official_party_status#Ontario) are recognised by the council. The threshold for Ontario came to 9 seats. Prior to 1999, the only recognised party (federal or provincial) was the [official opposition](https://en.wikipedia.org/wiki/Official_party_status#Ontario), i.e. the second place.
 1. Weber Street really goes from North, to South, *to West*, and then to East.
