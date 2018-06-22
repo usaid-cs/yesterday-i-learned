@@ -1,3 +1,4 @@
+1. [iPhone home buttons are digitally signed and paired with the phone that came with it](https://www.youtube.com/watch?v=nAzfZ0lQJO0). Put it in another iPhone and it will stop working.
 1. Apple Park, [a giant donut of doom](https://en.wikipedia.org/wiki/Apple_Park#/media/File:Aerial_view_of_Apple_Park_dllu.jpg), replaced 1 Infinite Loop as the headquarters in 2017. The two campuses are just 3km away.
 1. [The iPhone 8 Plus has the longest lasting battery (out of all tested flagships)](https://www.phonearena.com/news/Our-iPhone-8-Plus-battery-life-test-reveals-the-best-endurance-from-an-iPhone-yet_id98512), at twice as long of a runtime than your phone, and happens to take twice as long to charge.
 1. [There were no CPU touch boost drivers in iOS](https://www.anandtech.com/show/12873/apple-announces-ios-12) until version 12.

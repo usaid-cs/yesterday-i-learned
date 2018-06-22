@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [All new cars in China will have RFID chips to track its location](https://asiancorrespondent.com/2018/06/china-to-track-citizens-cars-from-next-year/), 但是中国现在是一个很文明的国家嘛，咱们可以为社会和谐前进一大步, something like that
 1. Never use diff locks on paved roads. They are meant for roads on which you slip.
 1. "That will do 206 miles per hour with the roof down. But. If a bluebottle flies over the top of the windscreen at that speed, and hits you in the middle of your forehead, it'll go straight through. Its own arse." - Top Gear S10E06
 1. Ford renames "MKX" to "Nautilus". "MKX was too confusing," they said.

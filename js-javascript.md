@@ -192,6 +192,7 @@ undefined
 * [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) implements location-based notifications, but does not *support* it, because everything is half-baked, and nothing is, strictly-speaking, well-documented.
 * You are not supposed to put any logic inside react components (at least where it can be avoided).
 * There's "React Native" for those who regret writing react apps in Cordova, and then there's ["React Native Web"](https://github.com/necolas/react-native-web), for those who regret writing react apps in Cordova, switch to react native, and then regret not being able to run it in a browser. JavaScript is a Mobius strip for ideas.
+* AirBnB had lots of [good times, and issues](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838) with React Native. For them (and probably a product their size), they say it was not worth it, but 80% of their engineers had a positive experience (apart from being paid to redo everything).
 
 ## Deferred API
 

@@ -1,3 +1,7 @@
+1. English follows [Latin rules of accent, which require that a penult (next-to-last syllable) must be accented if it contains a long vowel](https://en.wikipedia.org/wiki/Eureka_%28word%29#Pronunciation). From that same page about *Eureka*, the same word in Greek would sound like EW-REK-ka.
+1. Ukulele is really oo-koo-leh-leh, in Hawaiian, where the instrument came from. It translates to "jumping flea".
+1. The root of the word "royal" can be traced back to a reconstructed proto-indo-european word, [*h₃reǵ-*](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%83re%C7%B5-), for "right" or "just".
+1. One 叮 for microwave, two 叮s for a tram.
 1. Germans call their teams "Mannschaft".
 1. *L'occitane* should probably be *l'ocçitane*, "LOC see tan".
 1. The [difference between *dans* and *en*](https://forum.duolingo.com/comment/887393/En-vs-Dans) varies depending on where you are, so it is basically "memorise it".

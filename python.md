@@ -120,7 +120,7 @@ for k, v in six.iteritems(d):
 1. `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
 1. `if` statements do NOT have any kind of `for...else`-type block that is run whenever any one or more conditions above are run.
 1. Python does not optimise tail calls.
-1. `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen)
+1. `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen) This is *only* a thing in python2.
 1. Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
 1. [Certain evidence](http://programmers.stackexchange.com/a/187471) points to recommend importing just a module (`import module` instead of `from module import func1, func2`) if a lot of things are used from that module. (Then again, how you can live with writing `module.func1` and `module.func2` all the time is beyond me.)
 1. `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
@@ -415,7 +415,7 @@ bar
 1. [Celery's revoked tasks will stay in memory until automatically discarded.](https://stackoverflow.com/questions/46019528/remove-a-revoked-celery-task) There is no manual option. Apart from shutting the broker down and purging the queue there (`sudo rabbitmqctl purge_queue 'queue_name'`), there is no good way to purge revoked tasks from celery.
 1. `//` is the floor division operator, which for `3.0 // 6` gives you `0.0` in either version, and still returns a float if either number is not an integer. It doesn't turn every result into integers.
 1. Since tuples are immutable, defaulting a parameter to a tuple is uncommon, but fine.
-1. A dict's `.keys()`, `.values()`, and `.items()` have an official name called [dictionary views](https://docs.python.org/3/glossary.html).
+1. A dict's ~~`.keys()`, `.values()`, and `.items()`~~ `.viewkeys()`, `.viewvalues()`, and `.viewitems()` have an official name called [dictionary views](https://docs.python.org/3/glossary.html). If the dict changes, so do the views.
 1. [Python3's `super()` need not specify the class and instance.](https://stackoverflow.com/a/19609168/1558430) In the event that the class has multiple parents, and you do something like `super().foo()`, it decides for you whichever class has the method `foo` first, which is the same behaviour as if you specify `super(this class, this instance).foo()`.
 1. You can't [name a file with a period and import it](https://stackoverflow.com/questions/1828127/how-to-reference-python-package-when-filename-contains-a-period#1828249) normally.
 1. A (function or compatible object)'s `__dict__` (if you do stupid things like that) becomes populated with `{'foo': 'bar'}` if you choose to assign, say, [`a_function.foo = 'bar'`](http://www.diveintopython3.net/special-method-names.html#esoterica).
@@ -428,6 +428,14 @@ bar
 1. Perhaps contradictory to the previous point, [all generators are iterators](https://stackoverflow.com/a/2776865/1558430) so you should be able to iterate through any generator.
 1. If you give a function a `__call__`, it does nothing with it.
 1. Django's `django.utils.six` is [said](https://stackoverflow.com/a/32578107/1558430) to be a bit different from the real `six`, under the section [`### Additional customizations for Django ###`](https://github.com/django/django/blob/d6eaf7c0183cd04b78f2a55e1d60bb7e59598310/django/utils/six.py#L869).
+1. The built-in `cmp()` was [left in python 3.0.0 by mistake](http://python3porting.com/differences.html#comparisons).
+1. Function defaults are just in `func.__defaults__`.
+1. ["`str.encode()` always returns `bytes`, and `bytes.decode()` always returns `str`."](https://docs.djangoproject.com/en/1.10/topics/python3/)
+1. jupyter notebooks are a thing because people want to inline markdown with code. I am guessing you can do a lot of creative things from there.
+1. [`ctypes`](https://docs.python.org/2/library/ctypes.html) does not just offer C types; it also allows external library functions to be called.
+1. `2` is an available PyPI package name because you can't `import 2`. Still, `1` is taken for no reason.
+1. [`EnvironmentError`, `IOError`, and `WindowsError`](https://docs.python.org/3/library/exceptions.html#EnvironmentError) are all aliases for `OSError` in python3.
+
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
