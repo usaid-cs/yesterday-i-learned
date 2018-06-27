@@ -62,7 +62,7 @@ for k, v in six.iteritems(d):
 1. `NamedTuple` is a subclass of `Tuple` that lets you express what the tuple values actually are.
 1. Built-in tuple unpacking (`a, b = (1, 2)`) is faster than loading them with indices.
 1. Always concatenate strings with `.join`.
-1. Python 3.4 can ignore all but some exceptions using `with ignored(TypeError, ValueError, ...):`.
+1. Python 3.4 can ignore all but some exceptions using `with ignored(TypeError, ValueError, ...):`. Actually, [it might been renamed to `contextlib.suppress`](https://bugs.python.org/issue19266).
 1. Generator expressions, e.g. `sum(i for i in list)` is faster than `sum([i for i in list])`.
 1. Django or nosetests runs any `TestCase` subclass in files with their names beginning with `test` when you run `manage.py test`.
 1. `django.http` contains http error classes that handle the nitty gritty (e.g. allowed methods in 405)
@@ -435,7 +435,9 @@ bar
 1. [`ctypes`](https://docs.python.org/2/library/ctypes.html) does not just offer C types; it also allows external library functions to be called.
 1. `2` is an available PyPI package name because you can't `import 2`. Still, `1` is taken for no reason.
 1. [`EnvironmentError`, `IOError`, and `WindowsError`](https://docs.python.org/3/library/exceptions.html#EnvironmentError) are all aliases for `OSError` in python3.
-
+1. The only free version of python supported on Google App Engine is 2.7.
+1. [`isoweekday`](https://docs.python.org/2/library/datetime.html#datetime.date.isoweekday) is 1-indexed, with 7 being Sunday, because, I don't know.
+1. `time.time` is a function. `datetime.time` is a data type.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

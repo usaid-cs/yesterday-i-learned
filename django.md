@@ -17,7 +17,7 @@
 * To filter by any django model field, use the [`DjangoFilterBackend`](http://stackoverflow.com/a/2137652)
 * All unsaved models (`pk=None`) of the same type hash to the same thing, because it is technically correct. Do not store them with `set` -- they will just go away.
 * When you change a DB field to a computed field (`@property`), you can specify `db_field` to keep it pointing to the original column name: http://stackoverflow.com/a/12358707/1558430
-* [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset lazy-evaluated (for instance, when you actually use the whole set in a loop)
+* [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset already evaluated (for instance, when you actually use the whole set in a loop). With that said, the SQL `COUNT()` is very slow when you reach millions of rows, so [find some other way to do it](https://medium.com/squad-engineering/estimated-counts-for-faster-django-admin-change-list-963cbf43683e).
 * Model field defaults can be a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 * Django 1.8 apparently lets you aggregate by an expression now, e.g. `.aggregate(Min('price') + 1)`
 * [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that you cannot reuse, probably for the greater good.

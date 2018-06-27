@@ -4,7 +4,7 @@
 * If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
 * `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
     * You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
-    * You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`
+    * ~~You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`~~ I don't think it works anymore
 * `const` [does NOT](http://exploringjs.com/es6/ch_variables.html) mean immutable. If you `const` an object, it is still mutable; the const itself just cannot be reassigned.
 * If you manage to `const something = somethingThatThrowsAnError()`, then a) you get an error, b) `something` is not defined (not `undefined`), and c) you can't `const something` ever again.
 
@@ -240,6 +240,8 @@ Importing the two named exports under the same names
 * You [cannot](http://stackoverflow.com/questions/30340005/importing-modules-using-es6-syntax-and-dynamic-path) import dynamic paths. (In python, you `__import__(dynamic)`.)
 * `require('a library')` is slower than imports, as the latter can be optimised statically.
 * `import` is [not](http://adrianmejia.com/blog/2016/08/12/Getting-started-with-Node-js-modules-require-exports-imports-npm-and-beyond/#Imports) available in node 6.
+* Use [the `module` script type](https://developers.google.com/web/fundamentals/primers/modules), i.e. `<script type="module" src="foo.ejs">`, and you can import things in your script.
+* [Modules are evaluated only once](https://developers.google.com/web/fundamentals/primers/modules), while classic scripts are evaluated however many times you add them to the DOM.
 
 ## Async/Await (ES7)
 

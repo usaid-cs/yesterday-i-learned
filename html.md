@@ -43,6 +43,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 * The point of [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) is to protect the client from random stuff that might get injected into their webpages.
 * The point of [SRI](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) is to protect the client from getting fake resources from something like a compromised CDN.
 * The point of [CORB](https://fetch.spec.whatwg.org/#corb) is to ensure what the client requested is what the client wanted; requesting a `text/plain` to be displayed in an `<img>` tag would be blocked because it is impossible.
+* On `defer` vs `async`: `defer` [downloads scripts in parallel, and then waits for HTML parsing to finish, *and then* executes the script when HTML is done](https://developers.google.com/web/fundamentals/primers/modules). `async` downloads scripts in parallel, but executes the script as soon as it is downloaded, blocking HTML parsing.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

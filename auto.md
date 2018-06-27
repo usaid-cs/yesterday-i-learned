@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [Camrys get dents.](https://jalopnik.com/the-incredible-mystery-of-the-camry-dent-1785413530) The theory goes that three factors come into play: their drivers' ability ("camry drivers can't drive"), their cosmetic nature ("not worth it to fix"), and their drivers' tendency to not give a crap ("camry drivers don't care about driving").
+1. Tesla Model 3s are built in what Bernstein & Co.'s Max Warburton [describes](http://business.financialpost.com/transportation/autos/words-fail-me-its-insanity-loved-by-musk-mocked-by-critics-teslas-giant-model-3-production-tent-gets-put-to-the-test) as a "tent". *"It's preposterous," Bernstein's Warburton said. "I don't think anyone's seen anything like this outside of the military trying to service vehicles in a war zone. I pity any customer taking delivery of one of these cars. The quality will be shocking."*
 1. [All new cars in China will have RFID chips to track its location](https://asiancorrespondent.com/2018/06/china-to-track-citizens-cars-from-next-year/), 但是中国现在是一个很文明的国家嘛，咱们可以为社会和谐前进一大步, something like that
 1. Never use diff locks on paved roads. They are meant for roads on which you slip.
 1. "That will do 206 miles per hour with the roof down. But. If a bluebottle flies over the top of the windscreen at that speed, and hits you in the middle of your forehead, it'll go straight through. Its own arse." - Top Gear S10E06

@@ -21,7 +21,7 @@
 * This too shall pass.
 * So. It has come to this.
 * Ask your mother.
-* 42.
+* Forty-two.
 * We can talk about that later.
 * I don't recall.
 * What do YOU think?

@@ -1,3 +1,9 @@
+1. [Koinophilia](https://en.wikipedia.org/wiki/Koinophilia): we are attracted to people with the least amount of unusual features ("mutations") or behaviours. I am never getting a mate, man.
+1. [Old people who ate leafy greens (mentally) age slower.](https://www.rush.edu/news/press-releases/daily-leafy-greens-may-slow-cognitive-decline)
+1. A dose of [goody's powder](http://www.goodyspowder.com/products/goodys%C2%AE-extra-strength-headache-powder/) contains around a normal dose tylenol, an extra strength aspirin, and some caffeine.
+1. The [Trilobite beetle](https://en.wikipedia.org/wiki/Platerodrilus), surprise surprise, is a beetle resembling a trilobite.
+1. Bacteria in your gut can cause [body-wide inflammation](https://www.urmc.rochester.edu/news/story/5326/the-bugs-in-your-gut-could-make-you-weak-in-the-knees.aspx).
+1. Herpesvirus is [sometimes](https://www.npr.org/sections/health-shots/2018/06/21/621908340/researchers-find-herpes-viruses-in-brains-marked-by-alzheimers-disease) found in alzheimer's patients.
 1. Four Schneiders pepperette sticks give you enough sodium for the whole day.
 1. In the [additive colour](https://en.wikipedia.org/wiki/Additive_color) model, any colour appears to be white if whatever it is there emits photons that strongly activate [L, M, and S cones](https://en.wikipedia.org/wiki/LMS_color_space) at the same time. "LMS" is just Long, Medium, and Short [wavelength].
 1. ["A tampon doesn't affect your virginity. The opening in your hymen is large enough for the (...)"](https://meninmenstruation.files.wordpress.com/2011/06/obtamponinstructions.jpg)

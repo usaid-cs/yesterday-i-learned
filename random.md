@@ -1,5 +1,34 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. In 1944, [Shanghaiese people called it Hong Kong foot](https://en.wikipedia.org/wiki/Hong_Kong_English), while Hong Kong people called it Singapore foot, while Singaporeans called it Manila foot. Today, Hong Kong people call it Hong Kong foot, and Singaporeans call it [Singapore foot](https://mothership.sg/2017/10/singapore-foot-dhoby-itch-were-nasty-ailments-in-1920s-singapore/).
+1. A pepperoni pizza in Italy is a bell pepper pizza.
+1. You have more stack overflow points than [frosty](https://en.wikipedia.org/wiki/Ross_Ulbricht), the boi who wanted to [use curl in php](https://stackoverflow.com/questions/15445285/how-can-i-connect-to-a-tor-hidden-service-using-curl-in-php).
+1. One of the six white stars on Australia's flag has five points. The rest of the stars have seven points.
+1. Apart from dinner and supper, all of hobbit's seven daily meals are two hours apart.
+1. [Ramen is a prison currency.](http://bigthink.com/laurie-vazquez/how-ramen-noodles-beat-cigarettes-to-become-a-prison-currency)
+1. "Love handles" are just waist fat.
+1. [A man named Denis](https://www.youtube.com/watch?v=5BT1ov-Pgm4) spent [over $800](https://www.roblox.com/upgrades/robux) on a fake snoplow in [a game where you shovel snow](https://www.roblox.com/games/1252559098/Snow-Shoveling-Simulator).
+1. A man named Clack claims to quit beer to reduce bloat and avoid empty calories.
+1. The interview rate of you after getting fired is equivalent to looking for a job alongside candidates with [5 years of experience fewer](https://talent.works/blog/2018/05/02/the-science-of-the-job-search-part-v-getting-fired-or-laid-off-costs-you-5-years-of-experience).
+1. The toilet paper patent shows it being in the "over" configuration.
+1. You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
+1. [「學斗」本寫 ... 應為「鶴藪」，又叫「鶴藪白菜」，... 是粉嶺鶴藪地區的特產。...](https://hk.answers.yahoo.com/question/index?qid=20071209000051KK02152)
+1. *Wyatt* came from the old name *Wigheard*.
+1. Justin Timberlake was in [NSYNC](https://en.wikipedia.org/wiki/NSYNC).
+1. The blockchain is the "ledger" consensus network. Whatever stuff ("block") you throw at it, and whichever consensus the system arrives at > 51%, becomes the new stuff ("block"), forming a chain.
+1. You don't hear the dark joke "are muslim babies born with burkas on" because [they don't wear one until puberty](http://www.dailymail.co.uk/news/article-2273308/Sheikh-Abdullah-Daoud-Saudi-cleric-sparks-outrage-calling-baby-girls-wear-burka.html).
+1. Those tiny bean things sometimes included in sandwiches are either broccoli or [alfalfa](https://en.wikipedia.org/wiki/Alfalfa) sprouts.
+1. To be awarded life insurance money early, use the word *mephitic* (foul smelling) to describe your wife's breath.
+1. Too cold and there is no snowball, because you need the moisture.
+1. Buzzcuts were originally given to prevent head lice.
+1. [An ounce of weed is a large volume](https://i0.wp.com/stuffstonerslike.com/wp-content/uploads/2015/06/ounce-of-weed.jpg?resize=1000%2C750). Clack suggests thinking in the form of fried spices.
+1. A "bump stock"... uses a gun's recoil to pull the trigger (with the distance between the action and the stock), making it effectively automatic.
+1. Directors for *Girls* finally found HBO's tolerance for (basically pornography on TV) when [they refused to air Adam Driver's ejaculation in fear of losing their licence](https://www.cinemablend.com/television/1620020/the-major-sex-scene-even-hbo-wasnt-comfortable-with).
+1. *Größereswasserloobereich Wassersicherheitsausschuss* probably means "greater waterloo region water safety committee".
+1. A water ingress protection rating of 8 is not necessarily better than a 6 in real life (me irl). 6 provides resistance against powerful water jets, but 8 is an immersion test whose maximum pressure may be lower than the jet's. Some things have IP66 and IP68 separately certified.
+1. Lincoln was assassinated some time between slavery was abolished and the civil war ended, and Kylo Ren was a [morse code (telegraph) boy](https://www.imdb.com/name/nm3485845/) for that guy.
+1. The Avengers was the one where a giant robot snake came out of the sky. You already saw it two times. You hated it all three times.
+1. Thor's lastname is really Odinson, and his shield does not break Captain America's shield thingy. This was used in the Age of Ultron for a scattered thunderbolt.
 1. [OPEC](https://en.wikipedia.org/wiki/OPEC) is a "textbook example of a cartel that cooperates to reduce market competition, but ... protected by ... international law".
 1. An actress was [dumped on her fictional birthday](https://www.reddit.com/r/TVDetails/comments/7vwhiu/the_same_girl_gets_dumped_on_her_birthday_both_on/) on both "Friends" and "How I met your mother".
 1. Glover's musical stage name, Childish Gambino, came from the Wu-Tang Clan's name generator.
@@ -380,7 +409,7 @@
 1. Buy [laptops by repairability](https://www.ifixit.com/laptop-repairability).
 1. English and Spanish pronounce *gigabyte* with hard Gs, while Italian and Portuguese have soft first G, followed by a hard second G.
 1. If a smartphone screen costs $150 on eBay, seriously check if it's cheaper to repair by the manufacturer.
-1. 666 (溜溜溜) means “smooth, oddly satisfying” among adolescent Chinese youth.
+1. 666 (溜溜溜) means "smooth, oddly satisfying" among adolescent Chinese youth.
 1. The "Rocher" in [Ferrero rocher](https://en.wikipedia.org/wiki/Ferrero_Rocher) means "boulder".
 1. Don't put a swimming pool at the top of a high-rise building. Water will spill out when the building naturally sways in strong winds.
 1. [Time machines in the movie Primer are anchored around when they are started.](https://www.reddit.com/r/Primer/comments/71l5hc/onetime_use_only_a_definition_please_review/) If you start the machine at time A, you can only exit at either time A, or time B (whenever you entered it, plus however long you stay in there for, which is literally no time travelling). The *failsafe machine* has been on since the beginning, so the main characters could travel back to the beginning, and [gas/fight their former selves](https://www.reddit.com/r/Primer/comments/7uymoz/i_think_abe_might_have_accidentally_killed_himself/), to assume their previous lives.
@@ -599,7 +628,7 @@
 1. Glass is the perfect material for laptop touchpads and palm rests.
 1. When people tell you to "open up your emotions", it means "be open about your feelings as long as you don't actually have any problems".
 1. When it comes to bodybuilding, [TheJosh says that a week is 8 days long](https://forum.bodybuilding.com/showthread.php?t=107926751), and a week starts *and* ends on a Sunday.
-1. "The reason they call it the American Dream is because you have to be asleep to believe it.” - George Carlin
+1. "The reason they call it the American Dream is because you have to be asleep to believe it." - George Carlin
 1. "Geoffrey dollars" are Toys R Us gift cards.
 1. One example of shitty Swedish exports is Absolut vodka.
 1. Person has son in it. How aren't the feminists livid right now? It should be Perperperperperperper...
@@ -637,7 +666,7 @@
 1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
 1. 'A bit of "useless trivia" I read in a behavioral science book that if you place any type of religious reminder that is manifested as a person of some sort in an area, it will reduce crime.  So a Virgin Mary statue or image, or one of Jesus would have the same effect.' - Becca_Chavis
 1. Rechargeable AAA lithium batteries do exist. However, they are all in the wrong voltage (3.7V).
-1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. [“They're not severed, they're disarticulated,” Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
+1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. ["They're not severed, they're disarticulated," Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
 1. The OBD II adapter passcode is 1234.
 1. [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
 1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V (54%). [See also: "lithium batteries undergo unwanted chemical reactions when discharged below 3V, causing their internal resistance to be permanently and significantly raised"](https://electronics.stackexchange.com/a/219236)
@@ -1538,7 +1567,7 @@
 1. Tree removals are very expensive. So is dirt. "Dirt cheap" isn't a thing.
 1. Donkey Kong has nothing to do with donkeys.
 1. Nautical miles were defined as one minute of latitude. Now a nautical mile is just 1852 metres.
-1. Dale Carnegie said, “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.”
+1. Dale Carnegie said, "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."
 1. "À la carte" are menu items they are sold separately, rather than as part of a combo.
 1. There are [*a lot*](http://www.npr.org/sections/krulwich/2011/06/01/128389587/look-up-the-billion-bug-highway-you-cant-see) of bugs in the sky. Like billions in a square kilometre of sky.
 1. [Texas was its own country in the 1800s.](https://en.wikipedia.org/wiki/Republic_of_Texas)
@@ -1558,7 +1587,7 @@
 1. When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
 1. Realtors don't do the lawyer stuff; lawyers do the lawyer stuff. You can (if you want) buy and sell houses without a realtor. "The real work in a real estate transaction is done by the lawyers... title searches, transfer of funds, lien registrations, signing of documents, and more... Real estate agents show the house, and very little more. They write the offer, but anyone can do that, the forms are pre-printed."
 1. [Bruce Wayne talked to Batman once.](https://www.youtube.com/watch?v=tgCkmUS1IYI)
-1. "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the “add to cart” action to never fail)."
+1. "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the "add to cart" action to never fail)."
 1. [Socialites have their own tier on Tinder.](https://www.theverge.com/2017/3/7/14848286/tinder-select-exclusive-dating-app)
 1. It is [much easier](https://www.youtube.com/watch?v=KP7IBUWdeZg) to go all the way around the swing set if the chains were replaced by tubes.
 1. Talking to yourself is [essentially](https://news.ycombinator.com/item?id=14517515) duck programming.
@@ -1577,7 +1606,7 @@
 1. "Smoke" is sometimes pronounced "go outside".
 1. The only answer to [the "shabooya roll call" nonsense](https://www.reddit.com/r/videos/comments/6evkks/workplace_of_my_nightmares/) is [My name is Kevin, that is my name. They call me Kevin, cuz that's my name](https://www.youtube.com/watch?v=kAdVAbOtVK4).
 1. To find the core value of housing in a market while in a bubble, just take the prices before the bubble, extrapolate using the inflation rate, and you'll know.
-1. DON'T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: [“Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina” - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
+1. DON'T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: ["Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina" - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
 1. [Fishwives](https://en.wikipedia.org/wiki/Fishwife), also known as fish fags, are women who sell, rather than marry, fish.
 1. "Back in the 80ies and early 90ies disks were already shipped with bad sectors from the factory and had the bad sectors lists on their drive label. You would have to enter them when low-level formatting a drive." - /u/cbmuser
 1. When going to Hawaii, worry about getting hit in the head by a coconut, rather than getting bitten by a shark.
@@ -1790,7 +1819,7 @@
 1. The term *Django Boys* has a a very low rate of occurrence on the Internet. [This](http://ghostlessmachine.com/en/2016/03/why-django-girls/) is one of the occurrences.
 1. [You'll say, "well (immutable datastores are) not going to work, because we have to fix errors," Well, do it the way the banks do it: *you create an update record*.](https://www.youtube.com/watch?v=lgLrFPIg1VM) - Steve Jackson at i-Technologyinc
 1. Somber means dark. Sonder (the made up word) means "realising that everyone else is also a person with their own thoughts and feelings".
-1. [“consider various strategies alternatives available to the company.” means “sell, sell, sell.”](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
+1. ["consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
 1. The Swiss sell [negative yield bonds](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
 1. [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) survived for 18 months without a brain (most of it was chopped off). It died possibly having choked on corn.
 1. Squid do not have any legs at all, but they do have eight arms and two tentacles, making for a total limb count of 10. Squidward has two arms, four legs, and no tentacles.
@@ -1907,7 +1936,7 @@
 1. *Practice speaking with a pen in your mouth for a few minutes every day. It forces you to really enunciate what you're saying, ...* - 213Compton
 1. If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost $1.
 1. [`/32`](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing) is one IPv4 address, `/24` is all of 1.2.3.x, `/16` all of 1.2.x.x, `/8` all of 1.x.x.x. Occasionally you get [`/20`](https://answers.yahoo.com/question/index?qid=20071115104737AAQxeRg) blocks...
-1. [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1–4). Jesus was not a Nazirite; He was a “Nazarene,” a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
+1. [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1–4). Jesus was not a Nazirite; He was a "Nazarene," a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
 1. Not only have we gone through the phase of youtube influencers (like that guy Pew-die-pie), we are already into "micro influencers"---people with fewer than 1000 subscribers---whose videos seem more convincing due to the smaller audience. Also lower cost.
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 1. Add any event by URL: https://www.google.com/calendar/render?action=TEMPLATE&text=(event+name)&dates=20130704T230000Z/20130705T020000Z&details=(deta+ils)&location=(loca+tion)
@@ -2195,7 +2224,7 @@
 1. [Earthquake lights are piezoelectric][nationalgeographic].
 1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag][google 3]
 1. Blind programmers use [extremely fast TTS][freecodecamp] to "read" code.
-1. The `<small>` HTML tag is reserved for defining “smallprint” or legal text.
+1. The `<small>` HTML tag is reserved for defining "smallprint" or legal text.
 1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
 1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.][reddit 22]
 1. [The Mozambique drill][wikipedia 63] consists of shootong twice in the chest, then one to the head, to make sure someone is dead.
@@ -2334,8 +2363,8 @@
 1. Skyscanner reports that the lowest price for any transatlantic airline ticket dramatically increases if departing less than one week after; no deals otherwise.
 1. When buying things from eBay (which is already a mistake), remember to make sure something is "genuine". Even fake items can be "brand new".
 1. The "Nippon island effect" describes how the Japanese think they are special (which, in some ways, contributed to their war brutality). Many of them believe that [their intestines are longer than westerners'][medium 2] -- because they are studious farmers or something -- without any actual evidence for it.
-1. The [“Women are wonderful” effect][wikipedia 104] is not made up. The “Women are wonderful” effect tends to be most pronounced with women who follow traditional gender roles such as child nurturing and stay at home housewife.
-1. [Crows (meaning Corvus, not just the crows with the common name “crow”) pull tails.][tumblr 2]  It's like they can't help themselves.
+1. The ["Women are wonderful" effect][wikipedia 104] is not made up. The "Women are wonderful" effect tends to be most pronounced with women who follow traditional gender roles such as child nurturing and stay at home housewife.
+1. [Crows (meaning Corvus, not just the crows with the common name "crow") pull tails.][tumblr 2]  It's like they can't help themselves.
 1. [Not supporting unicode in your app can cost lives][ldc]
 1. Clay bar exposes paint to the elements. It is necessary to clay bar something only if it cannot be polished.
 1. The name "Pineapple" was first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
@@ -2762,7 +2791,7 @@
 1. [The Republic of Macedonia](https://en.wikipedia.org/wiki/Republic_of_Macedonia) is still a country!
 1. [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
 1. The Chinese consumed 69 times more pork than Canadians in 2015. That is roughly twice as much per capita.
-1. [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100kT of it every year.
+1. [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100Tg of it every year.
 1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
 1. Ride sharing services do not attract families of four (because normal sedans can comfortably fit three passengers, not four).
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
@@ -2782,7 +2811,7 @@
 1. Any Ontarian debt, excluding federal ones, not paid in two years is [automatically forgiven](http://credit-collections.ca/statute-of-limitations-on-canada-debts/), as long as you don't admit to or pay any of it.
 1. [The expiry date on every packet of crisps made in the UK is on a Saturday.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmvfa)
 1. [Donald Duck's middle name is Fauntleroy.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmk14)
-1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The “Apology Act“, passed in 2009, is a direct result of Canada's overuse of the word “sorry”.* Of course, this also means you cannot take someone else's apology as an admission of guilt.
+1. [Saying "sorry" after an accident is okay](http://www.theloop.ca/canadians-love-to-say-sorry-so-much-we-had-to-make-this-law/)... as long as you are in Canada. *The "Apology Act", passed in 2009, is a direct result of Canada's overuse of the word "sorry".* Of course, this also means you cannot take someone else's apology as an admission of guilt.
 1. Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 1. In the event of a financial crisis, there is in fact [a GDP map](https://upload.wikimedia.org/wikipedia/commons/c/c5/GDP_Real_Growth.svg) during the last crisis (2007-2009), indicating places you *should* flee to ahead of time.
 1. Fun fact: Excel (XLS) worksheet names have a maximum length of 31 characters.
@@ -2798,7 +2827,7 @@
 1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.
 1. [A blunderbuss (something like a shotgun) in handgun form was called a dragon.](https://en.wikipedia.org/wiki/Blunderbuss)
 1. ["Don't you worry about blank. Let me worry about blank."](https://www.youtube.com/watch?v=BAeTf8px0mE) is the thing you should say *repeatedly* at work to make everyone like you. "Blank" verbatim.
-1. George Orwell wrote in The Road To Wigan Pier, *“When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'.”*
+1. George Orwell wrote in The Road To Wigan Pier, *"When you are unemployed, which is to say when you are underfed, harassed, bored, and miserable, you don't want to eat dull wholesome food. You want something a little bit 'tasty'."*
 1. "[The 4G specification requires a minimum speed so LTE was launched to avoid exactly this minimum.](https://news.ycombinator.com/item?id=12746312) It seems that the companies did it right by launching LTE instead of 4G as they could have lost their 4G status, while now they could drop as low as 3G speeds and still be called LTE (which is ironic on itself)."
 1. Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
 1. The "ring with the fist underneath your pelvis" thing teenages do is called the "ball gazer".
@@ -2990,7 +3019,7 @@
 1. 刑太歲 = Current zodiac - 3 (???)
 1. 害太歲 = Current zodiac + 1 (???)
 1. The Chinese claim to be able to identify whether someone is potentially a criminal by [looking at their faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/), raising concerns for successful, law-abiding citizens that are just ugly.
-1. Ryan Reynolds has a daughter called James. [He claims it's not strange: “I mean, I didn't call her Summer Squash Meadowlark, or something.”](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
+1. Ryan Reynolds has a daughter called James. [He claims it's not strange: "I mean, I didn't call her Summer Squash Meadowlark, or something."](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
 1. Toronto's police mounted unit [gives out trading cards](https://www.thestar.com/news/gta/2013/10/11/toronto_cops_count_on_trading_cards_to_bond_with_public.html) to those who ask.
 1. The symbol of medicine is the Rod of Asclepius, which has only a single snake around it. The [staff of] Caduceus, on the other hand, has two snakes, and is [the staff of the god who escorts you to the afterlife](https://www.reddit.com/r/funny/comments/5rf9e6/this_is_one_cocky_hospital/dd7db6d/), which is obviously inappropriate for the medical profession.
 1. [Traffic cone machines](https://www.clippard.com/cms/tags/traffic-cone-dispenser) put traffic cones down on roads.
@@ -3005,7 +3034,7 @@
 1. [大洋](https://zh.wikipedia.org/wiki/%E9%8A%80%E5%9C%93) was a Spanish set of coins from the 15th-century.
 1. A Baptist U research found that a conspiracy gets worse if the government tries to dispute it. This stems from people's distrust of the government. To dispel the conspiracy, let a famous scholar do the job.
 1. "Military grade" is not that great. "Aircraft grade" isn't all that great either. What you want is [Toyota grade or 3M grade](https://en.wikipedia.org/wiki/List_of_Six_Sigma_companies).
-1. ["On Inauguration Day, Trump apparently filed his candidacy for 2020. Beyond being unusual, this opens up the ability for him to start accepting “campaign contributions” right away. Given that a sizable fraction of the campaign funds from the previous cycle were paid directly to the Trump organization in exchange for building leases, etc., at inflated rates, you can assume that those campaign coffers are a mechanism by which US nationals can easily give cash bribes directly to Trump."](https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.fop83h2ew) (same article: there is a very tight group of people running the [Trump](https://np.reddit.com/r/politics/comments/5s4r9r/socalled_judge_criticized_by_trump_is_known_as_a/ddcfc3o/) government, intending to test the limits of the American administration, to see how much they can get away with before the people stage a coup.)
+1. ["On Inauguration Day, Trump apparently filed his candidacy for 2020. Beyond being unusual, this opens up the ability for him to start accepting "campaign contributions" right away. Given that a sizable fraction of the campaign funds from the previous cycle were paid directly to the Trump organization in exchange for building leases, etc., at inflated rates, you can assume that those campaign coffers are a mechanism by which US nationals can easily give cash bribes directly to Trump."](https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.fop83h2ew) (same article: there is a very tight group of people running the [Trump](https://np.reddit.com/r/politics/comments/5s4r9r/socalled_judge_criticized_by_trump_is_known_as_a/ddcfc3o/) government, intending to test the limits of the American administration, to see how much they can get away with before the people stage a coup.)
 1. Mongolia has by far [the highest liver cancer rate per capita](http://www.wcrf.org/int/cancer-facts-figures/data-specific-cancers/liver-cancer-statistics), apparently from hep A/B.
 1. Yoga [reportedly](https://www.reddit.com/r/Fitness/comments/5s327o/exercicesstretches_to_stop_neck_cracking/ddc6s6h/) reduces the need to crack necks.
 1. Doctors saying "stat" is short for *statim*, "immediately". "Now" is apparently too ambiguous.

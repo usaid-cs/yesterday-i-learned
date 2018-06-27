@@ -1,3 +1,4 @@
+1. 邓小平 was only ever a [最高领导人](https://en.wikipedia.org/wiki/Paramount_leader), having never held the Premier title. The premier back when 🆃🅷🅴🆈 🆆🅴🆁🅴 🆁🆄🅽🅽🅸🅽🅶 🅿🅴🅾🅿🅻🅴 🅾🆅🅴🆁 🆆🅸🆃🅷 🆃🅰🅽🆇 was [赵紫阳](https://en.wikipedia.org/wiki/Zhao_Ziyang), an event he so fondly supported.
 1. Canada had conscription during the two world wars.
 1. England was a republic [once](https://en.wikipedia.org/wiki/Commonwealth_of_England), between 1649 and 1660, when the [Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was such an epic fail that the people decided to execute him for high treason.
 1. Mass metalworking began in London around 900 BC.
