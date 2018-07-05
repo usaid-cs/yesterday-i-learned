@@ -37,6 +37,7 @@
 * You might have to use the related name of the actual thing you want to count, rather than the thing itself, like `Foo.objects.annotate(d=Count('related_key')).order_by('-d').values_list('d')  # Usually the one you want`
 * Can't have `__getattr__` in django models.
 * Prefetching with `get_object_or_404` is possible with something like `get_object_or_404(Thing.prefetch_related(), id=4)`.
+* [Django-pandas](https://github.com/chrisdev/django-pandas/) does exactly what you think it'd do: convert a queryset into a dataframe. Basically, you are working with tables.
 
 ## Views / Templating
 * the `{% django_js %}` tag cannot be compressed!

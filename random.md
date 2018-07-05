@@ -1,5 +1,40 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [Samoa skipped a day](https://www.youtube.com/watch?v=-5wpm-gesOY) from 2011-12-29 to 2011-12-31, by jumping [a day forward](https://www.timeanddate.com/news/time/samoa-dateline.html) to make business easier with its westerly island neighbours.
+1. RAID 6 uses [Reed-Solomon error correction](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction) for error correction (obviously), [using matrix propoerties](https://www.youtube.com/watch?v=jgO09opx56o), like: a) an identity matrix multiplied by anything else is that thing, b) any four rows in the encoding matrix are invertable if you combine them, and c) multiplying the surviving rows of data by their matching inverse matrix will simply give you the data back.
+1. Looking at some "salient aspects" of your task at hand, known as the [quiet eye](https://en.wikipedia.org/wiki/Quiet_eye), improves the outcome of whatever you are trying to concentrate on doing.
+1. Women, [on average](https://hbr.org/2018/07/if-you-say-something-is-likely-how-likely-do-people-think-it-is), expect anything said to have a probable event to have a higher probability than men do.
+1. To ["reprimand"](https://www.thefreedictionary.com/reprimanded) someone is to formally disapprove someone.
+1. The [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal) is the mathematics equivalent of the Nobel Prize. [Mr Fields](https://en.wikipedia.org/wiki/John_Charles_Fields) is Canadian, and his prizes are $15k each.
+1. [Marshmallows are rare in Brazil.](http://brazilsense.com/index.php?title=Common_in_the_USA_and_Canada_but_rare_in_Brazil)
+1. *Apartment buildings* are owned by one entity. *Condominiums*/[*Condiminia*](https://en.wikipedia.org/wiki/Condominia) are [owned by different people.](https://www.apartments.com/blog/difference-between-renting-an-apartment-or-condo)
+1. The [Republic of Kiribati](https://en.wikipedia.org/wiki/Kiribati) has a number of settlements, among them are: [London](https://en.wikipedia.org/wiki/London,_Kiribati), [Paris](https://en.wikipedia.org/wiki/Paris,_Kiribati), [Poland](https://en.wikipedia.org/wiki/Poland,_Kiribati), and [Banana](https://en.wikipedia.org/wiki/Banana,_Kiribati). 
+1. Ars Technica is owned by Advance Publications, the same company that owns Reddit, along with [a thousand more subsidiaries](https://en.wikipedia.org/wiki/List_of_Advance_Publications_subsidiaries).
+1. Add 40mL of water to your 40% vodka to make it ["Russian standard"](https://en.wikipedia.org/wiki/Russian_Standard_%28vodka%29), the brand that makes a big deal about 38% being the ideal strength.
+1. People who shoot pictures in Adobe RGB (an option on some cameras) often don't see a problem because [many websites automatically convert those images back to the safer sRGB](https://digital-photography-school.com/adobe-rgb-versus-srgb-color-space/) when you upload them. They then view these sRGB photos in their web browsers, on a monitor that probably displays sRGB.
+1. Likewise, [people](https://forums.oneplus.com/threads/poll-srgb-vs-dci-p3.556715/) who set their displays to [DCI-P3](https://en.wikipedia.org/wiki/DCI-P3) mode, but view sRGB images on them, are just looking at inaccurate images that happen to "pop" more.
+1. The "coat of arms of [the German Emperor](https://en.wikipedia.org/wiki/William_I,_German_Emperor) with crest" of 1871 had a shocking [**58**](https://upload.wikimedia.org/wikipedia/commons/d/d6/Wappen_Deutsches_Reich_-_Wappen_des_Kaisers_mit_Helmkleinod.svg) black eagles on it.
+1. Server-side includes can be a security issue if [you somehow allow a file with [`<!--#exec cmd="cat /etc/..."-->`](https://www.aldeid.com/wiki/Hackthissite/Basic/Level8) to be uploaded. For the record, exercise 11 requires prior knowledge of Elton John.
+1. The [president of Germany](https://en.wikipedia.org/wiki/President_of_Germany) signs laws and stuff, and holds "reserve powers" to allow him to enact laws without the [Bundestag](https://en.wikipedia.org/wiki/Bundestag), parliament equivalent.
+1. Germany has more prostitutes per capita than any other country in Europe. [1.2 men visit German prostitutes everyday](http://s.telegraph.co.uk/graphics/projects/welcome-to-paradise/).
+1. [嘉義市](https://en.wikipedia.org/wiki/Chiayi) chose the [Hong Kong Bauhinia](https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana) as the city flower, because, eh... why not. The city is [twinned](https://en.wikipedia.org/wiki/Chiayi#Twin_towns_%E2%80%94_sister_cities) with eight cities, none of which being Hong Kong.
+1. [Vegan condoms exist](https://www.verywellhealth.com/vegan-condoms-3132703). They lack casein.
+1. [Stingray](https://en.wikipedia.org/wiki/Stingray_phone_tracker) detector apps are said to never work, [researchers claim](https://www.zdnet.com/article/stingray-detector-apps-andorid-basically-useless-research/).
+1. "57 Varieties" is just a marketing lucky number. Even back when they came up with 57, Heinz was already selling 60 products.
+1. One of your bois Sean was at SAP and Amazon for a whole year combined.
+1. Some places call Bethlehem, ["Bayt Lahm"](https://www.youtube.com/watch?v=aao9vohLHjA). Bethlehem means "house of bread" in Hebrew, and "house of meat" in Arabic. As of 2007, only 25000 people live there.
+1. Binary search trees, aka "trees", have a lookup runtime of O(log n), but only if the tree is balanced.
+1. 女湯 is where women simmer themselves.
+1. To contain dirt (or to perheps give foreigners a hint), where the Japanese expect you to take off your shoes, there is often a change in elevation. At your typical entryway called [玄関](https://en.wikipedia.org/wiki/Genkan), the elevation is lower than the rest of the floor.
+1. Asian men can be at most a 8.5 out of 10, say people on [Okay Cupid](https://theblog.okcupid.com/race-and-attraction-2009-2014-107dcbb4f060).
+1. There is a fancy word for cutting into thin strips, called [julienning](https://en.wikipedia.org/wiki/Julienning).
+1. On current: "Current is like rope, it can be pulled; but not pushed." - [Thread about shocking your own balls with a car battery](https://www.reddit.com/r/WTF/comments/8uen0t/i_found_a_homemade_electric_chair_while_exploring/e1fcy3r/)
+1. "Wikipedia articles near you" is [built into the website](https://en.wikipedia.org/wiki/Special:Nearby). There is no need to reinvent it.
+1. The [Rogers Centre](https://en.wikipedia.org/wiki/Rogers_Centre) has a pronounciation just like "SKY-dome".
+1. To remove a mechanical keyboard's keycaps, wiggle the keycap with your remover. Don't pull! Don't yank!
+1. Hawaii has the union jack on its state flag [for no reason](https://www.bbc.com/news/magazine-35890670). The UK never colonised Hawaii. They even updated the state flag when the union jack changed. Graham said it was a symbol of friendship.
+1. [Mercy killing is not permitted by the Geneva conventions](http://www.journal.forces.gc.ca/vo11/no1/04-bradley-eng.asp). It states, "wounded and sick shall be collected and cared for", which includes the people who are not going to make it.
+1. Infrared cameras, including [one in a phone case](https://www.youtube.com/watch?v=8Vc-69M-UWk), can reveal your PIN on any non-metal number pad, including the order of the digits, with 80% accuracy.
 1. In 1944, [Shanghaiese people called it Hong Kong foot](https://en.wikipedia.org/wiki/Hong_Kong_English), while Hong Kong people called it Singapore foot, while Singaporeans called it Manila foot. Today, Hong Kong people call it Hong Kong foot, and Singaporeans call it [Singapore foot](https://mothership.sg/2017/10/singapore-foot-dhoby-itch-were-nasty-ailments-in-1920s-singapore/).
 1. A pepperoni pizza in Italy is a bell pepper pizza.
 1. You have more stack overflow points than [frosty](https://en.wikipedia.org/wiki/Ross_Ulbricht), the boi who wanted to [use curl in php](https://stackoverflow.com/questions/15445285/how-can-i-connect-to-a-tor-hidden-service-using-curl-in-php).
@@ -1105,7 +1140,7 @@
 1. [🅰🆈🆈 🅻🅼🅰🅾](http://www.unicode.org/charts/beta/nameslist/n_1F100.html) has no Vietnamese characters in it.
 1. [Round trip time between two instances in the same datacenter](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html) is around 1ms.
 1. [The highest rate of unemployment in the US was 10.4% in 1983.](http://www.multpl.com/unemployment/table) Even in 2008~2010, unemployment did not break 10%. Therefore, 10% is serious business. [Greece is at 22%.](https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries/)
-1. "撈神" is a kind of thing you smear on your face to lock the moisture in.
+1. "撈純" is a kind of thing you smear on your face to lock the moisture in.
 1. [NYC trash days](https://i.redd.it/doum09rg0wmz.jpg) look like hell.
 1. Samsung Pay can emulate a magnetic stripe using ["a tiny coil that shoots out the same magnetic code that those readers normally get from your credit card"](https://www.theverge.com/2015/8/13/9146965/samsung-pay-mobile-payment-credit-card-readers-date), called MST.
 1. Summer sausages are designed to last without refrigeration. They are usually cured, mostly made with scrap meats, and are wrapped in cloth/paper rather than intestines.

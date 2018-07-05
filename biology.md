@@ -1,3 +1,6 @@
+1. An [atoll](https://en.wikipedia.org/wiki/Atoll), the pronounciation is probably correct no matter how you say it, is a ring-shaped coral reef that forms a lagoon inside.
+1. [Your average turd](https://en.wikipedia.org/wiki/Human_feces) (128g) is very roughly 100g of water, 3g of bacteria, 1g of protein, 2g of carbs, 0.6g of fat, and the rest of it I don't know what.
+1. "People who sleep well get more or less cancer", basically what [this article](https://www.salk.edu/news-release/salk-scientists-curb-growth-cancer-cells-blocking-access-key-nutrients/) suggests. Maybe. Read it yourself.
 1. [Koinophilia](https://en.wikipedia.org/wiki/Koinophilia): we are attracted to people with the least amount of unusual features ("mutations") or behaviours. I am never getting a mate, man.
 1. [Old people who ate leafy greens (mentally) age slower.](https://www.rush.edu/news/press-releases/daily-leafy-greens-may-slow-cognitive-decline)
 1. A dose of [goody's powder](http://www.goodyspowder.com/products/goodys%C2%AE-extra-strength-headache-powder/) contains around a normal dose tylenol, an extra strength aspirin, and some caffeine.

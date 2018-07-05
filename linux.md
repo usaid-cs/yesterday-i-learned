@@ -231,6 +231,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [AWK](https://en.wikipedia.org/wiki/AWK) is its own programming language. [`echo 'a b c' | awk '{print $1}'`](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html) prints the first column of any tabular data you pipe into it.
 1. Having a `-rf` file in your directory, running `rm *` in that directory, [gets you and all your subdirectories rekt](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt), even though `rm *` is non-recursive. Basically, any file name that can be taken in as a command option will be processed inline if you run a wildcard expansion.
 1. `tail -F` keeps tailing the same file *by name*, even if the file was moved and replaced by another file (for example, a `/var/log/...` that gets archived a lot).
+1. `tail -F file.log | grep -Ev '(bull|shit)'` filters out bullshit from your tailing logs.
+1. [`Esc + A`](https://unix.stackexchange.com/questions/106251/how-to-indent-multiple-lines-in-nano) lets you select multiple lines in nano, and `Alt + }` lets you indent that selected block. Trouble is, it indents with tabs.
 
 ## Tmux
 

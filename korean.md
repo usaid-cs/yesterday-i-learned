@@ -10,7 +10,7 @@
 * gaggai6 yoh1: cheaper can
 * yi6 goh6 chu1 seh1 yoh1: i want this one
 * sample chu1 seh1 yoh1: (give me) samples 
-* a9 ju1 ma1: wife 
-* a9 joh1 si1: some senior 
+* [아줌마](https://en.wikipedia.org/wiki/Ajumma) (a9 ju1 ma1): wife
+* 아저씨 (a9 joh1 si1): "mister", some senior
 * oppa: female exclusive brother 
 * heong: male exclusive brother

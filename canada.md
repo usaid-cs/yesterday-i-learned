@@ -1,5 +1,9 @@
 ![](https://imgur.com/AGoopEY)
 
+1. People in Montreal [love](https://www.theguardian.com/cities/2018/jun/29/montreal-moving-day-what-happens-when-a-whole-city-moves-house-at-once) moving on Canada Day. But hold on, if they move on Canada Day, doesn't that mean they have to celebrate Canada Day on some other day? [Yes](https://en.wikipedia.org/wiki/Saint-Jean-Baptiste_Day) they celebrate the *Fête nationale du Québec*, "Quebec National Day", on the 24th day of June.
+1. TD Canada Trust is called TD Canada Trust because TD bought [Canada Trust](https://en.wikipedia.org/wiki/Canada_Trust) in 2000.
+1. The Ontario government spent $650k to design [this](https://shawglobalnews.files.wordpress.com/2018/03/ocs_primary_logo_reg-768x292.jpg?quality=70&strip=all&w=768&h=292&crop=1), the new logo for Ontario Cannabis Store. Rage for being expensive, rage for being rubbish.
+1. The flag redesign from 1963/1964 saved us from abominations like [this one](https://en.wikipedia.org/wiki/Great_Canadian_Flag_Debate#/media/File:Native_Sons_of_Canada_Flag.svg).
 1. [Petch](https://en.wikipedia.org/wiki/Howard_Petch) and [Downey](https://en.wikipedia.org/wiki/James_Downey_%28academic%29) don't have a building because they aren't dead. [Johnston](https://en.wikipedia.org/wiki/David_Johnston) is still alive, but somehow got [a park](https://uwaterloo.ca/research-technology-park/).
 1. [Nixon once called Pierre an asshole.](https://en.wikiquote.org/wiki/Pierre_Trudeau)
 1. Only a party with [official party status](https://en.wikipedia.org/wiki/Official_party_status#Ontario) are recognised by the council. The threshold for Ontario came to 9 seats. Prior to 1999, the only recognised party (federal or provincial) was the [official opposition](https://en.wikipedia.org/wiki/Official_party_status#Ontario), i.e. the second place.

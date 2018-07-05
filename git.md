@@ -498,6 +498,8 @@ That's because you really can't. You can't `git push origin -u anything` unless 
 * To add a "local remote", [literally](http://www.thehorrors.org.uk/snippets/git-local-filesystem-remotes/) `git remote add origin /local/path/myrepo.git`.
 * GitHub: [Permission classes][github 2]
 * "Octopus merge" is what Linus Torvalds [used](https://marc.info/?l=linux-kernel&m=139033182525831) to describe merges with two or more parents. A "Cthulu merge" is what he used to describe a merge with 66 parents. To [perform an octopus merge](https://git-scm.com/docs/git-merge#git-merge-ltcommitgt82308203), just specify more than one branch or commit.
+* `git log --graph` shows you those merge lines you might find useful.
+* `git shortlog` gives you which commits everyone made. Even shorter is `git shortlog -s`, which is just how many commits everyone made.
 
 ### The SSH URL
 

@@ -1,3 +1,11 @@
+1. *Le Petit Prince* had this phrase in it, *Qu'est ce que c'est que cette chose-là?*, "what is that thing". It sounds like [ke-se-ke-se-ke-se shows la](https://translate.google.com/#fr/en/Qu'est%20ce%20que%20c'est%20que%20cette%20chose-l%C3%A0%3F).
+1. "Quarantine" came from the forty days ships had to wait at the port during the black death.
+1. [German octopodes are always formally masculine](https://de.wikipedia.org/wiki/Kraken), *der Krake*. Informally, *die Krake* works as well.
+1. *Slav*, as far as it could be traced back, just meant [people who understand each other](https://en.wikipedia.org/wiki/Slavs_%28ethnonym%29).
+1. The bootes constellation turns out to be [boötes](https://en.wikipedia.org/wiki/Bo%C3%B6tes), bo-O-tees. It means "ox-driver".
+1. On whether *hath* and *doth* were pronounced like has/does, or actually with the *th* sound: [no one is sure](https://english.stackexchange.com/questions/131129/how-does-one-pronounce-hath-and-doth), but certain [words that end with *eth*](https://en.wiktionary.org/wiki/-eth) do suggest at least some words that end in *th* had *th* pronounced as *th*. Note that the same page says "There is some evidence that verbs written with this ending in Early Modern English were pronounced as if they ended in -s", so we are back to square one.
+1. わかりません (wa-KA-RI-MA-SEN) means "I don't know".
+1. *Avoirdupois* did indeed come from *Avoir du pois*, but unlike the translation of "Have some peas" that Google offers, it should come to mean "goods of weight".
 1. The sad Chinese man character, [囧](https://en.wikipedia.org/wiki/Jiong), meant "window", or "granary".
 1. Greeks wrote in the manner of [boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon), a form of bidirectional text that looks like a worm. The characters are mirrored horizontally as well, but given the greeks only wrote in capital letters and they look mostly alike when flipped, it didn't matter to them.
 1. Wacom is definitely "waa-komm" instead of "wake'em".
