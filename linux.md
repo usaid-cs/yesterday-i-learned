@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. The name `grep` came from the `ed` command pattern `g/re/p` (find global matches of "re" and print them). Also, [`ed` is pronounced "EE DEE", says man](https://www.youtube.com/watch?v=NTfOnGZUZDk).
 1. `cat /path/to/{file1,file2,file3}` really lets you cat the three files without going there.
 1. [`tail *`](https://stackoverflow.com/a/7816490/1558430) is a viable alternative to `cat *` if you want to see the file names as well.
 1. There's [a script](https://github.com/Nyr/openvpn-install/blob/master/openvpn-install.sh) that installs openvpn for you.
@@ -233,6 +234,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `tail -F` keeps tailing the same file *by name*, even if the file was moved and replaced by another file (for example, a `/var/log/...` that gets archived a lot).
 1. `tail -F file.log | grep -Ev '(bull|shit)'` filters out bullshit from your tailing logs.
 1. [`Esc + A`](https://unix.stackexchange.com/questions/106251/how-to-indent-multiple-lines-in-nano) lets you select multiple lines in nano, and `Alt + }` lets you indent that selected block. Trouble is, it indents with tabs.
+1. Contrary to their names, `/etc/passwd` stores user information, and [`/etc/shadow`](https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd#445365) stores the (encrypted) passwords.
 
 ## Tmux
 

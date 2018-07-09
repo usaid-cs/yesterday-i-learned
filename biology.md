@@ -1,3 +1,4 @@
+1. One chap call Donald Unger cracked one of his knuckles for 50 straight years, and not the other knuckle, to find out if his cracked hand suffers from more arthritis than the control. [He won the Ig Nobel prize](https://www.livescience.com/9729-knuckle-cracking-ig-nobel-prize.html), and no, he did not get any more arthritis on either hand.
 1. An [atoll](https://en.wikipedia.org/wiki/Atoll), the pronounciation is probably correct no matter how you say it, is a ring-shaped coral reef that forms a lagoon inside.
 1. [Your average turd](https://en.wikipedia.org/wiki/Human_feces) (128g) is very roughly 100g of water, 3g of bacteria, 1g of protein, 2g of carbs, 0.6g of fat, and the rest of it I don't know what.
 1. "People who sleep well get more or less cancer", basically what [this article](https://www.salk.edu/news-release/salk-scientists-curb-growth-cancer-cells-blocking-access-key-nutrients/) suggests. Maybe. Read it yourself.

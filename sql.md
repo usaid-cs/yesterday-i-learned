@@ -87,6 +87,7 @@
 * Postgres transparently breaks up large field values into multiple rows for performance reasons. They call this ["TOAST"](https://www.postgresql.org/docs/8.3/static/storage-toast.html).
 * You can query two like tables at the same time using `UNION`: `select (same columns) from table1 UNION select (same columns) from table2`. If you can handle duplicate rows, use [`UNION ALL`](https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all), which is faster (if bandwidth is free).
 * **Attempting to [remove nullable or add `NOT NULL` to a field during a zero downtime deployment](https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b#notes-on-adding-not-null-columns-in-very-large-tables) will cost a lot of time.**
+* `VACUUM ANALYZE VERBOSE;` is almost free to run. Run it every so often. There is also autovacuum that automates the automation away from you.
 
 ## Troubleshooting
 

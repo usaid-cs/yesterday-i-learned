@@ -1,3 +1,5 @@
+1. Middle English is between 1150 to 1500, after the Normans invaded.
+1. [High German is spoken in the South and Low German is spoken in the North](https://en.wikipedia.org/wiki/High_German_languages#/media/File:Continental_West_Germanic_languages.png), because the low and high came from elevation, rather than latitude.
 1. *Le Petit Prince* had this phrase in it, *Qu'est ce que c'est que cette chose-là?*, "what is that thing". It sounds like [ke-se-ke-se-ke-se shows la](https://translate.google.com/#fr/en/Qu'est%20ce%20que%20c'est%20que%20cette%20chose-l%C3%A0%3F).
 1. "Quarantine" came from the forty days ships had to wait at the port during the black death.
 1. [German octopodes are always formally masculine](https://de.wikipedia.org/wiki/Kraken), *der Krake*. Informally, *die Krake* works as well.
@@ -124,16 +126,16 @@
 1. "LL" is pronounced "Y" in Spanish.
 1. Orion is pronounced oh-RYE-un.
 1. Albuquerque is pronounced AL-ber-ker-kee.
-1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it *Laos*."][youtube 4]
+1. There are at least four correct pronunciations for the word "Laos," making it one of the few words no one can pronounce incorrectly. ["Locals pronounce it *Laos*."](https://www.youtube.com/watch?v=jbDZ-z18UOw)
 1. *Separate* is pronounced SEP-a-rate as a verb and SEP-rate as an adjective.
-1. [Nauru][wikipedia 77] is pronounced na-OO-roo. It means "I go to the beach".
+1. [Nauru](http://en.wikipedia.org/wiki/Nauru) is pronounced na-OO-roo. It means "I go to the beach".
 1. Maniacal is pronounced "muh-NYE-ic-oh".
 1. Demonstrative is pronounced "duh-MON-struh-tive".
 1. Miserly is pronounced "MY-ser-ly".
 1. Since caliphate is pronounced [kaLEEfa][wikipedia 119], it is never possible to pronounce it correctly.
 1. Jerusalem is pronounced "yuh Hoo sa LA yim".
 1. Jojoba is pronounced 'hoHOEba', because reasons.
-1. [*Monseigneur*][wikipedia 168] (my lord) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169]. Both mean "my lord".
+1. [*Monseigneur*](https://en.wikipedia.org/wiki/Monseigneur) (my lord) is pronounced MUN-sin-eur, but *monsieur* is pronounced MI-si-eur, because [French Academy][wikipedia 169]. Both mean "my lord".
 1. [Ezekiel](https://en.wikipedia.org/wiki/Ezekiel) is pronounced yuh-hez-KEL.
 1. According to The Hangover, Baklava is pronounced bakLAva. However, everybody else on the Internet says BAKlava.
 1. Analgesic is pronounced an-alJEEsik, or an-alGEEsik if you are actually Greek.
@@ -224,7 +226,3 @@
 1. According to Google Translate *and* [Wickerpedia](https://en.wikipedia.org/wiki/Nokia), Nokia is pronounced 'Nokia in Finnish.
 1. "Celt" ultimately came from Greek *Keltoi* ("barbarian") and is pronounced with a hard K.
 1. [Adapter](https://stackoverflow.com/questions/2076321/adapter-or-adaptor) may be spelled "adaptor" if you live on an island.
-
-[youtube 4]: https://www.youtube.com/watch?v=jbDZ-z18UOw
-[wikipedia 77]: http://en.wikipedia.org/wiki/Nauru
-[wikipedia 168]: https://en.wikipedia.org/wiki/Monseigneur

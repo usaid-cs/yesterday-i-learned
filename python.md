@@ -440,6 +440,7 @@ bar
 1. `time.time` is a function. `datetime.time` is a data type.
 1. [PEP 3109](https://www.python.org/dev/peps/pep-3109/) explicitly says that "[the `EXCEPTION`] in `raise EXCEPTION` ... may be an exception class or an instance of an exception class".
 1. Unlike what [this page](https://medium.com/@wpcarro/tuples-in-javascript-57ede9b1c9d2) suggests, there are no `namedtuple` literals like `color = (red=255, green=0, blue=0)`. Not in 2, not in 3.
+1. VS code (when used for python) lacks "find usages" and "import this thing", but [people like it](https://www.slant.co/versus/1240/5982/~pycharm_vs_visual-studio-code).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
