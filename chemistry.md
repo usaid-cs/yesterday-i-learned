@@ -1,3 +1,14 @@
+1. Rohypnol does not have a single hydroxyl group on it.
+1. Titanium is biocompatible, and is used extensively in implants. With that said, a titanium knee joint only lasts 10-15 years.
+1. Newly-sheared wool contains a lot of [lanolin](https://en.wikipedia.org/wiki/Lanolin), a grease which is apparently valuable in making beauty products. Other [colours](https://en.wikipedia.org/wiki/Wool#/media/File:CSIRO_ScienceImage_11160_Siroscour.jpg) are mostly caused by dead skin.
+1. Creatine, to quote the Internet: "Holy shit, they're not wrong. Basically the majority of days are fine, no effects, then all of a sudden I will have a day where I am basically pissing out of my ass."
+1. Jet fuel can't melt steel beams, but jet fuel can certainly weaken steel beams.
+1. Nair burns.
+1. Heating iron weakens it. Quenching iron while hot hardens it.
+1. Oyster sauce and coca cola share the same food colouring, [E150](https://en.wikipedia.org/wiki/Caramel_color).
+1. To get copper out of ores primarily iron oxide, they just spray dilute sulphuric acid over it, leeching the copper out on a massive scale, in the form of copper sulphate. They then extract the copper from that solution.
+1. Splenda is made at least partly from sucralose. It has 3 Calories per packet.
+1. TNT production brings about toxic [pink water](https://en.wikipedia.org/wiki/Pink_water), which, although colourless, will become dark brown if under the sun for long enough.
 1. [Mineral oil](https://en.wikipedia.org/wiki/Mineral_oil) (clear colourless mixtures of alkanes) are carcinogenic (group 1 if untreated, group 3 if treated). Baby oil happens to be made with mineral oil, so either baby oil is treated to the point to being medical grade, or maybe babies don't care about cancer risk that much.
 1. Hydrazine, H₂N-NH₂, is explosive. You can [make it](https://en.wikipedia.org/wiki/Hydrazine#Synthesis_and_production) by mixing ammonia and hydrogen peroxide (conditions unknown, so don't do it). Butanone is somehow part of the reaction.
 1. [SN1 reactions are racemic](https://en.wikipedia.org/wiki/Racemic_mixture) because [the carbon first forms a planar molecule](https://www.organic-chemistry.org/namedreactions/nucleophilic-substitution-sn1-sn2.shtm), allowing the nucleophile to attack from either side.

@@ -1,0 +1,14 @@
+1. "Gravity warps spacetime", meaning [it figuratively warps the axes on which we make measurements](https://www.youtube.com/watch?v=jlTVIMOix3I). An apple thrown up falls down can be considered travelling linearly upward at a constant speed, had there not been a gravity distortion of spacetime.
+1. A preferred rotation of planets came about when [all the planets going the other way got destroyed by the planets that go the other way](https://youtube.com/watch?v=MTY1Kje0yLg). Whichever direction with more planets wins.
+1. The larger the opening of a vacuum cleaner, the more powerful the suction is, according to Mythbusters.
+1. Sound travels 5x faster in water, but [more quietly](http://www.reddit.com/r/explainlikeimfive/comments/5qcr3p/-/dcy9qcn), so you rarely hear anything unless it was loud.
+1. "Triangular sails allow ships to sail into the wind as well as with it." - How It's Made episode about sails
+1. CT scans are still X ray.
+1. It is impossible to exceed the speed of light in a vacuum, but it is possible to exceed the speed of light in water, which is about 0.75c. [When electrons do that](https://en.wikipedia.org/wiki/Cherenkov_radiation) in a nuclear reactor, a blue glow is emitted.
+1. "Fun fact, in space fuses don't work well because there is no gravity for the melted bit to fall away, so they continue to transmit electricity until the fuse metal boils away or the equipment fails."
+1. Centripetal force is the force acting on the center. Centrifugal force is the force acting outward on the flying object.
+1. The [Boomerang Nebula](https://en.wikipedia.org/wiki/Boomerang_Nebula) is the coolest thing in the universe. Not Pokemon.
+1. ["False vacuum"](https://en.wikipedia.org/wiki/False_vacuum) refers to the theory that the current space is just a local minimum of energy, rather than the global minimum of energy, and that a random event might instantly turn the universe into one with a lower energy, destroying the current one.
+1. If a bridge is [wavering about because of the people on it](https://m.youtube.com/watch?v=gQK21572oSU&feature=youtu.be), then the people will try to adjust their stride to the movement, making the situation even worse.
+1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
+1. [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication) (communicating instantly through quantum entanglement) is believed to be impossible because, in a Lorentz-invariant theory, it could be used to [transmit information into the past](https://en.wikipedia.org/wiki/Tachyonic_antitelephone).

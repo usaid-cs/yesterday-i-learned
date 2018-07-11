@@ -5,6 +5,7 @@ yesterday-i-learned
 
 ## Information & general works
 * [random.md](random.md)
+* [useless-trivia.md](useless-trivia.md)
 
 ## Philosophy & psychology
 * [agile.md](agile.md)
@@ -23,6 +24,8 @@ yesterday-i-learned
 ## Science
 * [biology.md](biology.md)
 * [chemistry.md](chemistry.md)
+* [mathematics.md](mathematics.md)
+* [physics.md](physics.md)
 
 ## Technology
 * [android.md](android.md)
@@ -51,6 +54,7 @@ yesterday-i-learned
 * [js-ecmascript-6.md](js-ecmascript-6.md)
 * [js-handlebars.md](js-handlebars.md)
 * [js-javascript.md](js-javascript.md)
+* [js-reactjs.md](js-reactjs.md)
 * [js-typescript.md](js-typescript.md)
 * [kotlin.md](kotlin.md)
 * [linux.md](linux.md)

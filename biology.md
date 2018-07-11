@@ -1,3 +1,39 @@
+1. [A saline solution is used to flush air out of organs while transplants are performed.](https://www.reddit.com/comments/4jt2eb)
+1. [Disrupting REM sleep impairs memory](https://www.reddit.com/comments/4j3i45). Drinking, then, impairs memory.
+1. ["Massage was effective in alleviating DOMS by approximately 30% and reducing swelling, but it had no effects on muscle function."](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1250256/)
+1. Having a c-section has no affect [sic] on how quickly your period will return to normal. What will affect menstruation, however, is whether or not you breastfeed your baby. If you don't nurse, it will probably take about six to eight weeks for your period to come back after delivery. - [parents.com](http://www.parents.com/advice/pregnancy-birth/giving-birth/will-a-c-section-affect-my-periods/)
+1. [Meconium](https://en.wikipedia.org/wiki/Meconium) is the baby's first poop. It is dark green. It is odourless, and is made of intestinal epithelial cells, lanugo, mucus, amniotic fluid, bile, and water.
+1. "If whales have 1000 times more cells than we do, why don't they get cancer 1000 times more often" is called the [Peto's paradox](https://en.wikipedia.org/wiki/Peto%27s_paradox).
+1. Weasels are smaller than you think. Beavers are bigger than you think. (Grizzly) Bears are smaller than you think. Grizzly bears are less big than black bears than you think. Elks are bigger than bears. Mountain goats are not goats.
+1. [Human mothers also nest](https://en.wikipedia.org/wiki/Nesting_instinct); during the period, they clean the house a lot.
+1. [Alcohol causes alzheimer's-like symptoms](http://pubs.niaaa.nih.gov/publications/arh25-4/299-306.htm), but it is reversible to a degree.
+1. [Soap in pee hole](https://www.reddit.com/r/sex/comments/1y7i5u/i_got_soap_in_my_dick_while_jacking_off_if_i_wait/), what that high guy on Scary Movie 5 was blabbing on about, is apparently a thing. And apparently it hurts.
+1. [Yeast attracts fruit flies on purpose](http://www.wired.com/2014/10/beer-yeast-attracts-fruit-flies/) to allow them to propagate to places more readily. Fruit flies then eat yeast for protein. So yes, fruit flies can survive in beer.
+1. [Do planks *and hold it* to improve posture.](https://www.reddit.com/r/Posture/comments/51l6l7/i_probably_have_the_worst_anterior_pelvic_tilt_on/) (it is best not to view this link in public.)
+1. [Vegetables low in pesticides](https://www.ewg.org/foodnews/list.php) include corn, cabbage, onions, and cauliflower. Vegetables high in pesticides include celery, spinach, tomatoes, and cucumbers.
+1. Parchment is made from animal skin.
+1. [Stroke is the third leading cause of death for women](http://www.stroke.org/understand-stroke/impact-stroke/women-and-stroke) compared to fifth for men. For this reason, apparently because women live longer, that they will have more strokes.
+1. Identical twins do not share fingerprints. This is because they don't share any identical phenotype at all. Similar, maybe. Identical, definitely not.
+1. There are places without mosquitoes, like Antarctica.
+1. Capers are their flower buds. The smaller the size, the more desirable.
+1. Cow's milk, from 3.25% to skim, have about the same protein content per unit volume (0.03kg/L).
+1. Omega 3 can lower your tolerance to/for marijuana *iff* you have a bad ratio of omega 3:6 intake.
+1. Ibuprofen can be taken with food or milk to lessen stomach upset.
+1. [Dim the lights if someone is having a migraine.](https://www.reddit.com/r/AskReddit/comments/5l3dsr/doctorsnurses_of_reddit_what_is_the_most_obvious/dbst3lz/) And don't shout.
+1. Based on its fat composition, the cholesterol in shrimp is considered the good kind.
+1. The only way to fix a [nonunion](https://en.wikipedia.org/wiki/Nonunion#Treatment) is to have yet another surgery.
+1. If you have the flu, don't visit your elderly relatives. It won't end well for them.
+1. Britney shaved her hair partly because her dad forced her to keep working, partly because there was a drug test involving hair, and [hair can come back positive even years after the habit stopped](https://www.reddit.com/r/funny/comments/5pu6mh/i_think_a_lot_of_us_can_relate_to_this/dcu1m3l/), depending on length.
+1. Unlike Oxycontin, [OxyNeo gels up](http://www.ctvnews.ca/mobile/oxycontin-replacement-still-powerfully-addictive-mds-1.776170) when crushed and made wet, making it hard to snort.
+1. Ingrown nails are mainly caused by ill-fitting footwear, not genetics.
+1. 5mg of oral oxycodone is roughly equivalent to 8.5 regular Advils (2220/(6.67/5)/200) or Tylenols (3600/(6.67/5)/325).
+1. ["(Orthopedic) hardware is often harder to take out than put in"](http://www.healio.com/orthopedics/trauma/news/online/%7B1f854283-164c-4fda-b169-d53ee35e324c%7D/nearly-68-of-patients-improve-after-hardware-removal-but-surgery-is-costly) so you really don't want to take it out unless you are a child/teenager, or do contact sports, or are allergic to it.
+1. Mongolia has by far [the highest liver cancer rate per capita](http://www.wcrf.org/int/cancer-facts-figures/data-specific-cancers/liver-cancer-statistics), apparently from hep A/B.
+1. Yoga [reportedly](https://www.reddit.com/r/Fitness/comments/5s327o/exercicesstretches_to_stop_neck_cracking/ddc6s6h/) reduces the need to crack necks.
+1. As a double-edged sword, [load-bearing exercise prevents osteoporosis](https://www.agingcare.com/articles/exercise-for-bone-health-133151.htm), at the risk of falling. Cycling is not a load-bearing exercise.
+1. Some women paint their nails because the nail polish discoloured them like [this](http://3.bp.blogspot.com/-FP1kpeFHkNc/UG0fZ67anII/AAAAAAAACfc/6j77r9Cqw4w/s1600/095.JPG). The vicious cycle continues.
+1. There is [almost no relationship](http://www.nigeriamedj.com/viewimage.asp?img=NigerMedJ_2012_53_1_16_99825_u3.jpg) between age and bone healing time. The variance is too high.
+1. [綠豆](https://en.wikipedia.org/wiki/Mung_bean) gets a strange name, "mung" bean. [This A&W vegetarian burger](https://web.aw.ca/en/beyondmeat) is therefore 綠豆包.
 1. One chap call Donald Unger cracked one of his knuckles for 50 straight years, and not the other knuckle, to find out if his cracked hand suffers from more arthritis than the control. [He won the Ig Nobel prize](https://www.livescience.com/9729-knuckle-cracking-ig-nobel-prize.html), and no, he did not get any more arthritis on either hand.
 1. An [atoll](https://en.wikipedia.org/wiki/Atoll), the pronounciation is probably correct no matter how you say it, is a ring-shaped coral reef that forms a lagoon inside.
 1. [Your average turd](https://en.wikipedia.org/wiki/Human_feces) (128g) is very roughly 100g of water, 3g of bacteria, 1g of protein, 2g of carbs, 0.6g of fat, and the rest of it I don't know what.

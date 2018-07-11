@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. In the world of automotive repairs, "economy part" means the part is meant for cars that are to be sold shortly. "premium part" is something you would get for any other kind of car.
+1. NASCAR stands for National Association for *Stock* Car Auto Racing. It is no longer the case.
+1. The surfaces of some camshafts are intentionally slightly rough, so engine oil would cling to them. See also: [NASCAR engines](https://www.youtube.com/watch?v=P3_UQcnHB1E)
 1. Back when chickens were cheap in the US and expensive in Europe, the [Chicken tax](https://en.wikipedia.org/wiki/Chicken_tax) was a tariff on light truck imports, to protect the American auto industry, because Europe was imposing a tariff on American chickens. As a result of that useless repeat of history, auto manufacturers export "passenger cars" to the US, where the American people of Ford tear them down and rebuild light trucks out of them.
 1. The taller a car is, [the more likely it is for it to kill](https://www.freep.com/story/money/cars/2018/06/28/suvs-killing-americas-pedestrians/646139002/) because of the inability to roll over. Apparently going from 20km/h to 30km/h increases probability of death from 5% to 45%, and if you strike someone at 60km/h, they are 85% going to die. The take-away is, if you don't want to be sued for death, buy a bike. Why do you even have an SUV? You don't even touch gravel.
 1. The 五菱宏光 badges you see everywhere are just, as mainland dudes described it, [一番恶搞](https://www.wukong.com/question/6421906484405207297/).

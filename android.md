@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.
 1. To remove Google Play Services from the whitelist that lets them do whatever they want without battery optimisation, [edit the `/system/etc/sysconfig/google.xml` file](https://android.stackexchange.com/questions/143247/how-to-make-google-play-services-and-other-default-white-listed-system-apps-doze) and comment out the appropriate sections.
 1. [`.dex` files are VM caches in an APK](https://www.addictivetips.com/mobile/what-is-odex-and-deodex-in-android-complete-guide/), and `.odex` files are optimised VM caches outside an APK. "De-odexed" ROMs put the odex files inside the APK, so you can mod the APK or something without odex files conflicting with it.
 1. As of 2018-05-04, a package called `com.google.android.quicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.

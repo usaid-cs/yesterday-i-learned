@@ -1,3 +1,12 @@
+1. >You can't have a noun on its own in French, even if the 'the' isn't actually said | "Hello rabbit" -> "Bonjour le rapin" | "Never leave the baby alone"
+1. "Cut out all these exclamation points. An exclamation point is like laughing at your own joke." -F. Scott Fitzgerald
+1. [Hiragara](https://en.wikipedia.org/wiki/Hiragana) are a set of characters derived from corrupted Chinese cursive. It is used to write letters. The English equivalent would be the alphabet. [Katakana](https://en.wikipedia.org/wiki/Katakana) is used more for syllabic spelling of things, such as loan words, technical terms, and company names. The English equivalent would be the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). There is also [Kanji](https://en.wikipedia.org/wiki/Kanji), literally Han Words, with no English equivalent.
+1. "Let's go" has an apostrophe because it is possessive. Example: *It is Let's go pro.*
+1. *Zuckerberg* = sugar berg (pile of sugar)
+1. Doctors saying "stat" is short for *statim*, "immediately". "Now" is apparently too ambiguous.
+1. The slimy, dodgy, evasive way politicians speak, where conversations *always* amount to nothing, is called [equivocation typology](http://theconversation.com/theresa-may-has-a-very-special-technique-for-avoiding-questions-67424). "[They equivocate] not necessarily because they are devious, slippery or evasive, but because conflict is endemic to politics, and politicians get asked a lot of questions that cause communicative conflicts."
+1. Quaff means to drink [alcohol] heartily.
+1. *Auf Wiedersehen* literally translates to "To again, see".
 1. Middle English is between 1150 to 1500, after the Normans invaded.
 1. [High German is spoken in the South and Low German is spoken in the North](https://en.wikipedia.org/wiki/High_German_languages#/media/File:Continental_West_Germanic_languages.png), because the low and high came from elevation, rather than latitude.
 1. *Le Petit Prince* had this phrase in it, *Qu'est ce que c'est que cette chose-là?*, "what is that thing". It sounds like [ke-se-ke-se-ke-se shows la](https://translate.google.com/#fr/en/Qu'est%20ce%20que%20c'est%20que%20cette%20chose-l%C3%A0%3F).
@@ -32,7 +41,7 @@
 1. There is no reason, other than ["but we've always called it that"](https://en.wikipedia.org/wiki/Lieutenant#Pronunciation), to pronounce "Lieutenant" with an F.
 1. Who's to say Leviathan was not Leujathan? Answer: [Hebrew](https://en.wikipedia.org/wiki/Leviathan).
 1. Southwark and Suffolk sound just about the same in some accents.
-1. The word Jewellery came from (Latin, then French) *jouel*, and has nothing to do with how rich Jewish people are.
+1. The word Jewellery came from (Latin, then French) *jouel*, and has nothing to do with how rich Jewish people are [*per se*](https://www.israelcu.com/article/what-is-the-relationship-between-diamond-and-jewish-people).
 1. You can call nachos [*Ignacios*](https://www.reddit.com/r/todayilearned/comments/8jlvnz/til_nachos_are_named_after_their_inventor_ignacio/).
 1. The term ["window-licker"](https://www.urbandictionary.com/define.php?term=window%20licker) describes a person who would lick a window, i.e. a [retard](http://web.archive.org/web/20070320214418/http://www.bbc.co.uk/ouch/yourspace/worstwords/). On the same page, voters from 2007 decided the term "special" was among the top 10 worst words to describe "disabled" people, which, oddly enough, is itself a degoratory term today. There is currently [no way](https://classroom.synonym.com/politically-correct-terms-for-the-mentally-handicapped-12081973.html) to classify mentally challenged people under one term; refer to them as "people with (symptom name)", not "people with (syndrome name)".
 1. As of today, Google Translate pronounces "rofl" as "are oh eff el", "omg" as "oh em gee", and "lol" as just "lol".

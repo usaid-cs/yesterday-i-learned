@@ -11,6 +11,11 @@
 1. The [optimal driving speeds](http://eartheasy.com/move_fuel_efficient_driving.html) are 50km/h and 90km/h.
 1. Understeer: the front wheels are fully turned, but the car is still going forward.
 1. Oversteer: the front wheels are turning fine, but the back is steering too much.
+1. The body should not swivel when performing the shoulder check. This puts the car at risk of drifting.
+1. [People who live in trucks and vans](https://www.reddit.com/r/vandwellers/comments/5mk4vb/consuming_alcohol/) and drink may be charged with DUI, even if they have no intention of going anywhere.
+1. ["Cannot interpret human traffic signals"](http://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm) is one of the cons mentioned against self driving technology.
+1. Flashing yellow at a two-or-four-way-stop means ["disregard me, I mean nothing"](http://www.mto.gov.on.ca/english/dandv/driver/handbook/section3.2.12.shtml). On the other hand, flashing red means a mandatory stop.
+1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
 
 ### Parallel parking
 

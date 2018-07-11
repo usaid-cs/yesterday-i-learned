@@ -1,3 +1,18 @@
+1. "[TIL that] in 1913, Hitler, Trotsky, Tito, Freud and Stalin all lived in Vienna and some were even regular patrons of the same coffeeshop"
+1. [Six of the seven wonders have already fallen](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World) (and a long ass-time ago. too.) The only one standing, the great pyramid of Giza, geometrically speaking, cannot be fallen per se.
+1. The bronze bull statue of Wall Street was illegally placed there.
+1. >[What's really cool about AD](https://www.reddit.com/r/AskReddit/comments/4w46le/what_is_your_favourite_latin_phrase/d647egb) is if you know history, you know that years used to be counted as how many years of a certain king's reign, so really we used that format, it's not all the foreign, it's just now the King happens to be Jesus.
+1. Gummy bears, rather than gummy any other animal, were [first invented in Germany](http://www.reddit.com/r/askhistorians/comments/539r6k/_/).
+1. The German army [used methamphetamine](https://en.wikipedia.org/wiki/Methamphetamine#History.2C_society.2C_and_culture) to keep their troops awake during their blitzkrieg runs.
+1. [The Egyptians were the first to divide the day by sixes and twelves](https://www.reddit.com/r/explainlikeimfive/comments/5a1mhf/eli5_how_did_we_decide_how_long_a_second_was/d9d5pse/?context=1000) (Eh? What were the Chinese doing?)
+1. The French Flag was entirely white [at some point](https://en.wikipedia.org/wiki/Bourbon_Restoration).
+1. [Gyms were much more fun](http://imgur.com/A2SBDyp) in the 1940s.
+1. [Black Monday 1987](https://en.wikipedia.org/wiki/Black_Monday_%281987%29) began in Hong Kong.
+1. The Scots have the earliest surviving [fried chicken recipe](http://www.wideopencountry.com/this-18th-century-fried-chicken-recipe-is-breaking-the-internet/). It involves a lemon marinate and fresh parsley.
+1. "Cleopatra lived closer in time to the Moon landing than she did to the building of the Pyramids." - /u/panzerkampfwagen
+1. Barbers ("Barber Surgeons") used to perform bloodletting and various other minor surgeries. This was the reason they had their red and white [spinning poles](https://en.wikipedia.org/wiki/Barber's_pole#Use_in_barbering) in front of their shops.
+1. According to documentation published by the Evanston Public Library (Illinois), the drinking of soda was outlawed on Sundays in Illinois. This gave rise to an alternative called the Sundae.
+1. [London stank in 1858.](https://en.wikipedia.org/wiki/Great_Stink) They then improved drainage systems, completing the work in around 1875.
 1. The QWERTY layout, patented by a [Sholes](https://en.wikipedia.org/wiki/Sholes_and_Glidden_typewriter), became the dominant layout not because of [some story about jamming](https://www.youtube.com/watch?v=c8f6us-Sjlo), but because typing classes taught the most common layout, and it was, since [Remington bought Shole's business](https://en.wikipedia.org/wiki/E._Remington_and_Sons), the most common layout.
 1. Both Lizzy's mom and her sister died in her [golden jubilee (50th) year](https://en.wikipedia.org/wiki/Golden_Jubilee_of_Elizabeth_II).
 1. Since the Cold War is commonly understood as over when the USSR split into a dozen pieces, the new term for what's happening now, between Russia and NATO, is [Cold War II](https://en.wikipedia.org/wiki/Cold_War_II).
