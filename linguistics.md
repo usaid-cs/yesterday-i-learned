@@ -1,3 +1,4 @@
+1. *Bibliotheque*, which means "library", is made of biblio- (book) and -theke (place).
 1. >You can't have a noun on its own in French, even if the 'the' isn't actually said | "Hello rabbit" -> "Bonjour le rapin" | "Never leave the baby alone"
 1. "Cut out all these exclamation points. An exclamation point is like laughing at your own joke." -F. Scott Fitzgerald
 1. [Hiragara](https://en.wikipedia.org/wiki/Hiragana) are a set of characters derived from corrupted Chinese cursive. It is used to write letters. The English equivalent would be the alphabet. [Katakana](https://en.wikipedia.org/wiki/Katakana) is used more for syllabic spelling of things, such as loan words, technical terms, and company names. The English equivalent would be the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). There is also [Kanji](https://en.wikipedia.org/wiki/Kanji), literally Han Words, with no English equivalent.

@@ -1,3 +1,6 @@
+1. [Vaseline stood for "wasser" (water) + "-line" (oil)](http://en.wikipedia.org/wiki/Petroleum_jelly), and it is not a trademark name in Europe.
+1. Not only does hydrogen leak out of metal containers, it weakens the containers by making them [brittle](http://en.wikipedia.org/wiki/Hydrogen_embrittlement).
+1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
 1. Rohypnol does not have a single hydroxyl group on it.
 1. Titanium is biocompatible, and is used extensively in implants. With that said, a titanium knee joint only lasts 10-15 years.
 1. Newly-sheared wool contains a lot of [lanolin](https://en.wikipedia.org/wiki/Lanolin), a grease which is apparently valuable in making beauty products. Other [colours](https://en.wikipedia.org/wiki/Wool#/media/File:CSIRO_ScienceImage_11160_Siroscour.jpg) are mostly caused by dead skin.

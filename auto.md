@@ -1,5 +1,9 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
+1. The original Acura logo did not contain the small horizontal bar joining the two vertical pillars. Not forming the letter "H". Soichiro Honda ordered the 5,000 badges already produced to be destroyed.
+1. Mixing diesel gas with regular gasoline is worse for diesel engines (timing) than it is for gasoline engines (smoke/poor performance).
+1. "Compound" is more abrasive than "polish", which is more abrasive than wax. Always wax after doing either one.
 1. In the world of automotive repairs, "economy part" means the part is meant for cars that are to be sold shortly. "premium part" is something you would get for any other kind of car.
 1. NASCAR stands for National Association for *Stock* Car Auto Racing. It is no longer the case.
 1. The surfaces of some camshafts are intentionally slightly rough, so engine oil would cling to them. See also: [NASCAR engines](https://www.youtube.com/watch?v=P3_UQcnHB1E)

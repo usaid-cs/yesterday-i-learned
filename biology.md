@@ -1,3 +1,12 @@
+1. Caffeine makes exercises [easier, more enjoyable, and makes you (binge) less afterwards](http://jap.physiology.org/content/early/2014/08/14/japplphysiol.00570.2014)
+1. A hard [corn](https://en.wikipedia.org/wiki/Corn_%28medicine%29) is called a heloma durum (*durum* is literally "hard"), while a soft corn is called a heloma molle.
+1. [Type I diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus#Type_1) is the semi-genetic one where insulin level decreases. Type II is the dietary one where the body gets less sensitive to a normal (or low) level of insulin.
+1. [Amputees come in different levels](http://www.amputee-life.org/2012/10/28/amputee-k-levels/), with k0 being the worst, to k4 being the most benefited from having some instrument.
+1. A spider's heart is located [at the top of its abdomen](http://en.wikipedia.org/wiki/Spider#/media/File:Spider_internal_anatomy-en.svg). Their stomachs are more like human lungs, made possible because they only ingest enzyme-catalysed liquid.
+1. Cats eat baby poop to remove their scent trail, as well as lick the buttocks of their young to help them defecate.
+1. Many reptiles have a photoreceptive [parietal eye](http://en.wikipedia.org/wiki/Parietal_eye) on top of their heads (where the parietal gland is) that control thermoregulation.
+1. Rubbing a bruised spot floods the area with pain signals, making it paradoxically less painful. Rubbing a painful spot is also a universal human instinct.
+1. "Loose bodies" can commonly be found around the knee. They are usually cysts, usually don't hurt, and they usually do no harm.
 1. [A saline solution is used to flush air out of organs while transplants are performed.](https://www.reddit.com/comments/4jt2eb)
 1. [Disrupting REM sleep impairs memory](https://www.reddit.com/comments/4j3i45). Drinking, then, impairs memory.
 1. ["Massage was effective in alleviating DOMS by approximately 30% and reducing swelling, but it had no effects on muscle function."](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1250256/)

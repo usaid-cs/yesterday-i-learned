@@ -16,6 +16,8 @@
 1. ["Cannot interpret human traffic signals"](http://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm) is one of the cons mentioned against self driving technology.
 1. Flashing yellow at a two-or-four-way-stop means ["disregard me, I mean nothing"](http://www.mto.gov.on.ca/english/dandv/driver/handbook/section3.2.12.shtml). On the other hand, flashing red means a mandatory stop.
 1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
+1. "We have an anti-evasion law around here which makes it illegal for you to knowingly and intentionally go below the speed limit in order to avoid the possibility of going over and getting a ticket. The penalty is 30 days in jail vs the $100 speeding ticket. Since you admitted to intentionally going under the speed limit, I'm placing you under arrest."
+1. The reasoning behind [colors for traffic lights] is because Green represents life flourishing and going. Red was a sign of life stopped and yellow was a caution that would mean red is coming.
 
 ### Parallel parking
 

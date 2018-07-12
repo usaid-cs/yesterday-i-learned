@@ -76,6 +76,10 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 * Cook for an hour.
 * Apply spices and serve.
 
+## Steamed eggs
+
+* For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs).
+
 ## Potatoes
 
 * Wash potatoes.

@@ -1,3 +1,9 @@
+1. The American civil war began because white people in the Southern states wanted slavery but the North did not. To this day, some black people still hate white people for having this war, AFAIK.
+1. [The victims of the biggest mass lynching in US history were Italians.](http://en.wikipedia.org/wiki/Anti-Italianism)
+1. [Only 6%](http://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/facts-about-slave-trade-and-slavery) of Africans during the slave trade were imported into the US. The rest were into the Caribbeans and South America, where the environment was hostile, the slaves died often, and needed frequent replacement.
+1. As of January 2015, the Swiss had removed all the explosives from their bridges.
+1. The great collectorism occurred [during the 90s](http://www.vice.com/read/the-great-beanie-baby-bubble?utm_source=vicefbus).
+1. Vikings used ravens to navigate. They brought ravens aboard their ships, then released them and sailed in the same direction to find land. The raven was so important to them that it became the symbol on their flag.
 1. "[TIL that] in 1913, Hitler, Trotsky, Tito, Freud and Stalin all lived in Vienna and some were even regular patrons of the same coffeeshop"
 1. [Six of the seven wonders have already fallen](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World) (and a long ass-time ago. too.) The only one standing, the great pyramid of Giza, geometrically speaking, cannot be fallen per se.
 1. The bronze bull statue of Wall Street was illegally placed there.

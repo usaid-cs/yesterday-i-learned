@@ -16,3 +16,6 @@
 1. Justin was born on Christmas day.
 1. Only one of the four ghostbusters wore gloves.
 1. [Orihime has said 'kurosaki-kun' around over 800 times in the anime.](https://www.reddit.com/r/bleach/comments/4xyi02/fun_facts/)
+1. "Desks don't kill people, people kill people." You thought you were being witty and original, but there is already [one other Google result](https://www.google.ca/search?q=%22desks+don%27t+kill+people%2C+people+kill+people%22) with that exact phrase.
+1. "俺たちはいまイカとセックスをしている。" means "I am having sex with squid now", in case anyone tells you.
+1. Ellie Goulding cheated on Ed Sheeran. His song "Don't" was about them.
