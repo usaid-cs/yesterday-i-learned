@@ -1,3 +1,4 @@
+1. So many people use iPhones, that when iOS 7 came out, [its parallax wallpapers caused enough people to get motion sickness to make the news](https://en.wikipedia.org/wiki/IOS_7).
 1. Macbook Pro fans don't spin up until [the CPU is 81 degrees C.](https://www.youtube.com/watch?v=wgeh7ZJRhZU)
 1. Animojis work even if the depth sensor is covered. That means the iPhone X isn't even using its unique hardware. That means every iPhone could have gotten this feature. But no, that's not the point. This feature lets your friends know you have an iPhone X.
 1. The HomePod exists mainly to keep people who would otherwise buy the Google Home to stay away from Google's ecosystem.

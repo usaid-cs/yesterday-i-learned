@@ -39,7 +39,7 @@ def main():
         line = mdv.main(line)
     except ImportError:
         pass
-    print('Fun fact! {1} ({0})'.format(fn, line))
+    print(u'({0}) Fun fact! {1}'.format(fn, line))
 
 
 if __name__ == '__main__':
