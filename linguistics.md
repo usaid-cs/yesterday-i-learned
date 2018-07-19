@@ -239,4 +239,4 @@
 1. *Cognates* are words that have the same origin, e.g. is, ist, est, esti.
 1. According to Google Translate *and* [Wickerpedia](https://en.wikipedia.org/wiki/Nokia), Nokia is pronounced 'Nokia in Finnish.
 1. "Celt" ultimately came from Greek *Keltoi* ("barbarian") and is pronounced with a hard K.
-1. [Adapter](https://stackoverflow.com/questions/2076321/adapter-or-adaptor) may be spelled "adaptor" if you live on an island.
+1. [Adapter](https://stackoverflow.com/questions/2076321/adapter-or-adaptor) may be spelled "adaptor" if you live on an island.1. An English subset called [E-Prime][wikipedia 141] prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.

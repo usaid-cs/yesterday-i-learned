@@ -16,7 +16,6 @@ def get_item():
             if line.startswith('* ') or line.startswith('1.'):
                 items.append(line.strip())
     line = random.choice(list(items))
-    line = re.sub(r'^(\*|1\.)\s*', '', line)
     return line
 
 
@@ -45,9 +44,9 @@ def main():
             continue
         elif new_file == 'x':
             return
-        else:
+        elif new_file.endswith('.md'):
             with open(new_file, 'a') as myfile:
-                myfile.write(line)
+                myfile.write(line + '\n')
             remove_item(line)
 
 

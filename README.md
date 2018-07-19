@@ -29,6 +29,7 @@ yesterday-i-learned
 
 ## Technology
 * [android.md](android.md)
+* [android-dev.md](android-dev.md)
 * [ansible.md](ansible.md)
 * [apple.md](apple.md)
 * [auto.md](auto.md)

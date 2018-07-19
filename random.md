@@ -1341,7 +1341,6 @@
 1. If you want to learn two languages based on how official they are, [English and French](https://en.wikipedia.org/wiki/List_of_languages_by_the_number_of_countries_in_which_they_are_recognized_as_an_official_language) are probably your best bet. And then Arabic.
 1. The Essential phone model PH-1 just spells out "PHone".
 1. [Fake tears](https://en.wikipedia.org/wiki/Artificial_tears) typically contain some type of cellulose.
-1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
 1. Steve Ballmer (employee #30) was the first business manager hired by Gates. [Steve Ballmer announced Windows ME, breaking a promise made by Bill Gates in 1998 that Windows 98 would be the final consumer-oriented version of Windows to use the MS-DOS architecture.](https://en.wikipedia.org/wiki/Windows_XP)
 1. Hanoi has the same population as Hong Kong. [Shanghai is almost 7x more populous than Berlin](https://en.wikipedia.org/wiki/List_of_cities_proper_by_population), and almost 3x that of NYC.
 1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
@@ -2451,7 +2450,6 @@
 1. "Contravariance" is just a fancy way of saying "if parent method expects `float` then surely I can write a subclass method that handles both `float` and `int`"
 1. Subways are powered by [a third, electrical track][wordpress].
 1. [Causation][harvard]: not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
-1. In Tasker, "top priority" is 50, not 1.
 1. https://www.youtube.com/watch?v=P_sUhTWtvG4
 1. Nutmeg is toxic with no pleasant overdose effects.
 1. Nigeria is the world's [top exporter of yams][wikipedia 109].
@@ -2514,7 +2512,6 @@
 1. [The least tolerant *person* wins][c2] as the highest common denominator.
 1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
 1. People take on [regnal names][wikipedia 140], different from their own names, when they take reign. Queen Elizabeth might not have been called Elizabeth. Not all of the King Georges were called George before they were King. > *Prince Albert, Duke of York, assumed the throne as King George VI instead of using the King Albert.*
-1. An English subset called [E-Prime][wikipedia 141] prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.
 1. Unmanaged cow herds in India scavenge for food in landfill sites. [They are filled with plastic.][topdocumentaryfilms]
 1. Crab sticks are also called [seafood extenders][google 12]
 1. "According to the United States Department of Agriculture National Nutrient Database, (crab sticks) contains about 76% water, 15% protein, 6.85% carbohydrate, and 0.9% fat."
@@ -2929,7 +2926,6 @@
 1. At some arbitrary point, large enough ["scissors"](https://en.wikipedia.org/wiki/Scissors) become ["shears."](https://en.wikipedia.org/wiki/Shears#Cutting_devices)
 1. The lower the air pressure, the stronger the storm.
 1. Honeypot refers to a toilet seat that is just a bucket underneath. Luxury models include smell neutralising sawdust at the bottom of the bucket.
-1. If a dog licks its lips, [it is uncomfortable](http://www.thebalancedcanine.com/canine-language/). If it licks its lips when you're scolding it, then it probably knows it did something wrong.
 1. Oxygen masks on planes do provide oxygen, but only for a few minutes. (They are only designed to save passengers from rapid depressurisation.)
 1. Trump's office blatantly lies about stuff [to gauge what they can get away with.](https://www.reddit.com/r/SocialEngineering/comments/5preks/why_trumps_staff_is_lying/)
 1. The [electoral college](https://www.archives.gov/federal-register/electoral-college/about.html) is a process where people vote for a person [for a party] running for some leadership role in a state/province, and then the government tallies up these numbers and pretend as if it were the popular vote, i.e. citizens directly voting for a president/prime minister.

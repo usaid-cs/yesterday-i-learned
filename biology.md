@@ -433,12 +433,12 @@
 1. Both infarction and infraction are words. Infraction (-frac-) means breakage. Infarction implies blockage.
 1. Mosquitoes hibernate.
 1. [Old age is not a scientifically recognized cause of death](https://en.wikipedia.org/wiki/Death_by_natural_causes) (because old people die of *soemthing*)
-1. An erect turtle penis looks like [Anthurium][wikipedia 101], a common type of flower.
+1. An erect turtle penis looks like [Anthurium](https://en.wikipedia.org/wiki/Anthurium), a common type of flower.
 1. Raccoons are called Washbär (washing bear) in Germany because they wash things a lot.
-1. [(Most) Moths make cocoons.][wikipedia 105] Butterflies harden and make chrysalides instead.
-1. [(Most) Moths have superposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.][wikipedia 106] Butterflies have apposition eyes ("cones" equivalent) instead.
+1. [(Most) Moths make cocoons.](https://en.wikipedia.org/wiki/Chrysalis#Chrysalis) Butterflies harden and make chrysalides instead.
+1. [(Most) Moths have superposition eyes, the "rod" equivalent of compound eyes, suitable for night vision.](https://en.wikipedia.org/wiki/Eye#Apposition_eyes) Butterflies have apposition eyes ("cones" equivalent) instead.
 1. [Caribou eyes change colour](https://i.imgur.com/779RwKL.jpg) every season to see in the optimum spectrum. (Pictured: different species)
-1. [Animals use salt licks too!][wikipedia 108] Some pits are natural mineral licks.
+1. [Animals use salt licks too!](https://en.wikipedia.org/wiki/Mineral_lick) Some pits are natural mineral licks.
 1. [Nails are more permeable than skin.](https://en.wikipedia.org/wiki/Nail_(anatomy)#Permeability)
 1. Llamas and camels have [ruffles in their eyes](https://www.reddit.com/r/Damnthatsinteresting/comments/4ps5bm/eyes/d4nifxh) (iridic granules) that can close to cover the center of the eye, limiting the amount of light that passes.
 1. The Shingleback lizard of Australia is one monogamous lizard that is [known to grieve](https://www.reddit.com/r/likeus/comments/4pst8x/shingleback_lizard_refuses_to_leave_dead_mate/d4njp13).
@@ -602,8 +602,4 @@
 1. Even if you drink milk, [you will lose bone density if you drink soda.](http://www.webmd.com/osteoporosis/features/soda-osteoporosis#2) Study does not conclude whether the soda or the caffeine is the culprit.
 1. Tiny mites called [demodex](https://en.wikipedia.org/wiki/Demodex) live in hair follicles. They are 0.4mm at the largest, and can move 8~16cm per hour on your skin. Almost all adults carry these mites. The good news is that they eat skin cells and sebum; the bad news is they might cause acne.
 1. A [vole](http://en.wikipedia.org/wiki/Vole): something like a mouse, but live in holes and burrows. Eats roots of plants.
-
-[wikipedia 101]: https://en.wikipedia.org/wiki/Anthurium
-[wikipedia 105]: https://en.wikipedia.org/wiki/Chrysalis#Chrysalis
-[wikipedia 106]: https://en.wikipedia.org/wiki/Eye#Apposition_eyes
-[wikipedia 108]: https://en.wikipedia.org/wiki/Mineral_lick
+1. If a dog licks its lips, [it is uncomfortable](http://www.thebalancedcanine.com/canine-language/). If it licks its lips when you're scolding it, then it probably knows it did something wrong.
