@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/IGedhKP.jpg)
 
+1. Before the second world war, [Europe had 50:50 mixed opinions about which side of the road to drive on](https://i.redd.it/zhaj9kiw5ha11.png), including driving on either side being an option in Italy.
 1. [You can't do a U-turn at an intersection in Alberta](https://globalnews.ca/news/974813/road-rules-are-u-turns-allowed/) (unless it says you can).
 1. [Automated parking tickets might not need to be paid. Check your local laws before paying up.](https://www.reddit.com/r/technology/comments/6ispco/a_controversial_bill_passed_by_a_house_committee/)
 1. Cars in the left lane turning left during the brief period when both traffic lights are red, known as the [Pittsburgh left](https://en.wikipedia.org/wiki/Pittsburgh_left), is a terrible idea, even in Pittsburgh.

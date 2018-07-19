@@ -1,3 +1,4 @@
+1. GPS does not triangulate, says reddit man, it [trilaterates](https://en.wikipedia.org/wiki/Trilateration). Trilateration does not involve the measurement of angles. "Where the signals overlap is where you are."
 1. "Gravity warps spacetime", meaning [it figuratively warps the axes on which we make measurements](https://www.youtube.com/watch?v=jlTVIMOix3I). An apple thrown up falls down can be considered travelling linearly upward at a constant speed, had there not been a gravity distortion of spacetime.
 1. A preferred rotation of planets came about when [all the planets going the other way got destroyed by the planets that go the other way](https://youtube.com/watch?v=MTY1Kje0yLg). Whichever direction with more planets wins.
 1. The larger the opening of a vacuum cleaner, the more powerful the suction is, according to Mythbusters.

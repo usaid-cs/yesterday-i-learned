@@ -1,3 +1,6 @@
+1. "Somewhere along those lines" beats "something along those lines" 2:1.
+1. Vietnamese diaspora may be secretly talking in [Cantonese in a corrupted accent](https://www.youtube.com/watch?v=RBgC5b4TIAk).
+1. Oh my god, the French pronounce [*Leroy*](https://www.youtube.com/watch?v=sZVmDzCjux0) like *le roi*, "the king". [That's the word origin.](https://www.pronouncenames.com/pronounce/leroy)
 1. *Bibliotheque*, which means "library", is made of biblio- (book) and -theke (place).
 1. >You can't have a noun on its own in French, even if the 'the' isn't actually said | "Hello rabbit" -> "Bonjour le rapin" | "Never leave the baby alone"
 1. "Cut out all these exclamation points. An exclamation point is like laughing at your own joke." -F. Scott Fitzgerald
@@ -22,6 +25,7 @@
 1. Greeks wrote in the manner of [boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon), a form of bidirectional text that looks like a worm. The characters are mirrored horizontally as well, but given the greeks only wrote in capital letters and they look mostly alike when flipped, it didn't matter to them.
 1. Wacom is definitely "waa-komm" instead of "wake'em".
 1. English follows [Latin rules of accent, which require that a penult (next-to-last syllable) must be accented if it contains a long vowel](https://en.wikipedia.org/wiki/Eureka_%28word%29#Pronunciation). From that same page about *Eureka*, the same word in Greek would sound like EW-REK-ka.
+1. [*Je m'appelle*](https://french.kwiziq.com/revision/grammar/say-your-name-je-mappelle-tu-tappelles-and-vous-vous-appelez), literally "I call myself", cannot be literally translated. In French use *Je me fais appeler* to imply that your real name is different from what people use to call you.
 1. Ukulele is really oo-koo-leh-leh, in Hawaiian, where the instrument came from. It translates to "jumping flea".
 1. The root of the word "royal" can be traced back to a reconstructed proto-indo-european word, [*h₃reǵ-*](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%83re%C7%B5-), for "right" or "just".
 1. One 叮 for microwave, two 叮s for a tram.

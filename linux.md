@@ -235,6 +235,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `tail -F file.log | grep -Ev '(bull|shit)'` filters out bullshit from your tailing logs.
 1. [`Esc + A`](https://unix.stackexchange.com/questions/106251/how-to-indent-multiple-lines-in-nano) lets you select multiple lines in nano, and `Alt + }` lets you indent that selected block. Trouble is, it indents with tabs.
 1. Contrary to their names, `/etc/passwd` stores user information, and [`/etc/shadow`](https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd#445365) stores the (encrypted) passwords.
+1. To decrypt a file, use `vim -X foo` right. But to *save* the file decrypted, use `:X` inside vim, and when it asks you for the password twice, just press enter twice for a blank password. Save normally with `:w`.
+1. Zombie processes cannot be **SIGKILL**ed.
 
 ## Tmux
 

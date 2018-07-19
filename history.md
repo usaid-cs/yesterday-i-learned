@@ -1,3 +1,4 @@
+1. [The Brits were originally smuggling opium into (Hong Kong, coasts et al.) to get silver from the trade](https://youtu.be/StW7oGSR_Mg), which was the only currency the imperial Chinese government accepted at the time for tea exports. They colonised the place *for tea*.
 1. The American civil war began because white people in the Southern states wanted slavery but the North did not. To this day, some black people still hate white people for having this war, AFAIK.
 1. [The victims of the biggest mass lynching in US history were Italians.](http://en.wikipedia.org/wiki/Anti-Italianism)
 1. [Only 6%](http://www.gilderlehrman.org/history-by-era/slavery-and-anti-slavery/resources/facts-about-slave-trade-and-slavery) of Africans during the slave trade were imported into the US. The rest were into the Caribbeans and South America, where the environment was hostile, the slaves died often, and needed frequent replacement.

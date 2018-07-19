@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [Two-stroke engines need to burn oil to run.](https://news.ycombinator.com/item?id=17547726) They also need to expel waste exhaust the same way fresh air came in, so it is hard for that design to pass emissions tests.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
 1. The original Acura logo did not contain the small horizontal bar joining the two vertical pillars. Not forming the letter "H". Soichiro Honda ordered the 5,000 badges already produced to be destroyed.
 1. Mixing diesel gas with regular gasoline is worse for diesel engines (timing) than it is for gasoline engines (smoke/poor performance).
@@ -81,7 +82,7 @@
 1. Car commercials often [never feature the real car](https://www.youtube.com/watch?v=OnBC5bwV5y0).
 1. To tell if a mechanic is honest, [take your car in for an unnecessary repair](http://lifehacker.com/take-your-car-in-for-an-unnecessary-repair-to-find-a-go-1545575350).
 1. Both Tom and Max Chilton are racers. However, only Max's website was SEOed to say "CHILTON'S BAD LUCK CONTINUES AT THE KOHLER GRAND PRIX AT ROAD ..."
-1. Herr Hitler sagte (SAAG te), "mein Auto sollte wie ein Käfer (KAY fer) aussehen (to appear)." Mister Hitler said, "my car should look like a beetle."
+1. Herr Hitler sagte (SAAG te), "mein Auto sollte (SOY-te) wie ein Käfer (KAY-fer) aussehen (OW-seen, to appear)." Mister Hitler said, "my car should look like a beetle."
 1. The first beetle was built by Dr. Porsche.
 1. It is probably wise to buy cars based on its insurance cost, which is [apparently available in the form of a spreadsheet](http://www.ibc.ca/on/auto/buying-auto-insurance/how-auto-insurance-premiums/how-cars-measure-up).
 1. Cheaper gasoline is sold to active farmers. It is called dyed diesel (because it is dyed, to...), or [purple gas](https://en.wiktionary.org/wiki/purple_gas) if it is actually gasoline.

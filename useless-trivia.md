@@ -19,3 +19,4 @@
 1. "Desks don't kill people, people kill people." You thought you were being witty and original, but there is already [one other Google result](https://www.google.ca/search?q=%22desks+don%27t+kill+people%2C+people+kill+people%22) with that exact phrase.
 1. "俺たちはいまイカとセックスをしている。" means "I am having sex with squid now", in case anyone tells you.
 1. Ellie Goulding cheated on Ed Sheeran. His song "Don't" was about them.
+1. Justin Timberlake was in [NSYNC](https://en.wikipedia.org/wiki/NSYNC).

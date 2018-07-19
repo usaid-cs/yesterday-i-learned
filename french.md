@@ -1,6 +1,7 @@
 # Dictionnaire français pour des analphabètes
 
 1. **À la carte**: to the... map? card? To order menu items individually, rather than set courses.
+1. **À peu près**: more or less.
 1. **Aimer**: to like, or to love. *Je t'aime plus*: "I don't love you anymore" (if S is silent), "I love you more" (if S is not silent). Also, *aimer bien* is like, but *aimer* is love.
 1. **Aller**: to go. *Nous y allons*, *Allons-y*, *On y va*: all roughly mean "let's go".
 1. **Alors**: so/then. See *donc* for another "so/therefore". Sometimes used in itself to mean "here".
@@ -9,6 +10,7 @@
 1. **Arrêt**: stop.
 1. **Au moins aussi bien que**: as well as. From *au moins* "at least", *aussi bien* "equally".
 1. **Aucun**: No. [*Aucun problème*](https://www.thoughtco.com/no-in-french-1371322): no problem.
+1. **Aujourd'hui**: Today. *au + jour + de + hui*: on the day of today.
 1. **d'Abord**: First. *Viens d'abord faire tes devoirs, tu joueras ensuite*: first do your homework, then play. *Premier* also means first.
 1. **Banlieue**: suburbs. *J'habite en banlieue* (no *une*): I live in the suburbs.
 1. **Bâtiment**: building. *L'extérieur du bâtiment est sale*: The exterior of the building is dirty.
@@ -23,6 +25,7 @@
 1. **Cadeau**: gift. See also: *gâteau* (cake), *château* (castle), *chapeau* (hat), and *manteau* (coat).
 1. **C'est**: is used when the noun has an article (*le, la, l', un* or *une*) or a possessive before it. Say: *C'est ma femme*, not: *Elle est ma femme*.
 1. **Celui**: the ones. *Et que celui qui a de quoi manger partage ce qu'il la*: and whoever has enough to eat shares what he has. Or something like that.
+1. **Chante**: sing.
 1. **Chat**: cat.
 1. **Chaque**: every. *Chaque jour*: every day.
 1. **Chaud**: hot. *Il fait chaud*: the weather is hot.
@@ -69,6 +72,7 @@
 1. **Fils**: son. Say with a hard S.
 1. **Foi**: faith.
 1. **Fois**: time (occurrence). See also: *temps*, time (length). *C'est ta première fois ?*: is this your first time?
+1. **Foncé**: dark. *La biere est foncée*: the beer is dark.
 1. **Fourchette**: fork.
 1. **Foyer**: home. See also: *maison*, house.
 1. [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.

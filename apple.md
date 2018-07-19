@@ -1,3 +1,4 @@
+1. Macbook Pro fans don't spin up until [the CPU is 81 degrees C.](https://www.youtube.com/watch?v=wgeh7ZJRhZU)
 1. Animojis work even if the depth sensor is covered. That means the iPhone X isn't even using its unique hardware. That means every iPhone could have gotten this feature. But no, that's not the point. This feature lets your friends know you have an iPhone X.
 1. The HomePod exists mainly to keep people who would otherwise buy the Google Home to stay away from Google's ecosystem.
 1. [iOS 1 never allowed more than one page of apps.](https://www.youtube.com/watch?v=0gxa2rq-kL8) It never had an app store so it wasn't a problem.

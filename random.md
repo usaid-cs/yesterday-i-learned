@@ -1,5 +1,35 @@
 ![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
 
+1. [tl;dr](https://news.ycombinator.com/item?id=17401425) --- ["Every successful social startup should bend, but not completely violate, one or more social taboos, e.g. one of the 7 deadly sins."](http://charlescosta.net/2014/04/how-the-seven-deadly-sins-drive-innovaiton/)
+1. "[PCI and] PCIe usually implies DMA, so now you'll be able to [plug in to an SD card slot](https://www.techpowerup.com/245534/sd-express-is-a-new-memory-card-standard-that-leverages-pcie-and-nvme) and read/write all the memory on the system, [dumping passwords, cookies, etc](https://github.com/carmaa/inception), and rewriting memory to bypass logins or inject running code."
+1. "You don't hire for skills, you hire for attitude. You can always teach skills."
+1. Googling "keyword -keyword" gives you results for everything like that keyword, except pages containing the exact keyword.
+1. 42% of [Bhutan's exports](https://en.wikipedia.org/wiki/Economy_of_Bhutan) comes from (hydro)electricity to India.
+1. Only "Corning" and "Gorilla" in [Corning® Gorilla® Glass](https://www.corning.com/gorillaglass/worldwide/en/news/news-releases/2018/07/corning-introduces-corning-gorilla-glass-6.html) are registered trademarks.
+1. SSH got port 22 because... [the author sent IANA, the authority at the time](https://www.ssh.com/ssh/port).
+1. "Hell is empty and all the devils are here" is also a Shakespeare quote. Peter Abernathy said nothing original.
+1. We can quite generally say that [the west side of South America speaks Spanish, while the east side (i.e. Brazil) speaks Portuguese](https://en.wikipedia.org/wiki/Languages_of_South_America). The most obvious exceptions are Guyana (English), Guiana (French), and Suriname (Dutch), all along the northeast.
+1. Tourism New Zealand says that a [true flat white](https://media.newzealand.com/en/story-ideas/new-zealands-dedicated-coffee-culture/) is a coffee with foam served in a 175mL cup, instead of 225mL cup like for lattes. Also the foam looks a bit different.
+1. A "twenty-sixer" is 10mL just short of 750mL [of hard liquor], and a "two-four" specifically refers to 24 bottles of beer, not cans, nor any other kind of alcohol.
+1. Companies that implement end-to-end encryption [properly](https://en.wikipedia.org/wiki/End-to-end_encryption) are unable to read your messages.
+1. "Shiba Inu" turns out to be just 柴犬. Dogecoin is [廢柴幣](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%90%89%E5%B8%81). (no)
+1. Staryu has a band on its left "leg" that holds its gem to its body.
+1. Soundbars are the Apple products of the audio industry. They integrate multiple speakers that cannot be moved. If your room is not the right size (for its projection), you are holding it wrong.
+1. Flash turned out to be named FutureSplash. Macromedia renamed it.
+1. ["Intel named a CPU lineup (Core i3,i5,i7), ... despite the fact that they don't make any processors in any of those lines with an odd number of cores"](https://www.youtube.com/watch?v=lqXl9Of8WvY) - Linus Sebastian
+1. Officially speaking, a bastard is a child born to unmarried parents. Laws [differ](https://en.wikipedia.org/wiki/Legitimacy_(family_law)#Contemporary_situation) on whether a child is legitimate if a single pregnant mother then marries another person (yes in UK), or if the natural-born status doesn't matter at all (France).
+1. An envoy is a messenger. A convoy is a bunch of ships travelling together.
+1. The [1812 Overture](https://en.wikipedia.org/wiki/1812_Overture) by Tchaikovsky was written in 1880. 1812 was just the year the Russians defended against Napoleon.
+1. An abstract data type (ADT) is abstract because [it is not connected to any hardware implementation](https://www.student.cs.uwaterloo.ca/~cs234/slides/02-ADT.pdf). A real data type, on the other hand, would be.
+1. Japan makes whiskey, and it was [said](http://roadsandkingdoms.com/2018/japanese-whisky-good-hard-find/) to be really, really good. Hundreds of thousands of dollars for a top bottle.
+1. *Hooliganism* may have come from [the Houlihans](https://www.etymonline.com/word/hooligan), a made-up Irish character.
+1. [Google's "ROFL" emoji](https://emojipedia.org/rolling-on-the-floor-laughing/) did not have tears in its eyes until the Oreo version.
+1. There used to exist special [singles bars](https://punchdrink.com/articles/whatever-happened-to-the-singles-bar-tgi-fridays-maxwells-plum/) in the 60s, where only singles go and mingle. The article seems to suggest that the "singles bar" concept went away because of AIDS, or that there aren't as many return customers if a bar is labelled as such.
+1. A "pot coaster" is called a [trivet](https://en.wikipedia.org/wiki/Trivet).
+1. [Lots of you don't spend your rewards points](https://finance.yahoo.com/news/missing-point-credit-cardholders-rewards-080000460.html?.tsrc=rss), it's real money lmao
+1. [Cultures invent different names for different colours](https://www.youtube.com/watch?v=gMqZR3pqMjg), splitting the spectrum in however many ways.
+1. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.
+1. In order for a project rebuild to be successful, [you must need](https://www.pkc.io/blog/five-red-flags-signaling-your-rebuild-will-fail/): a) a clear idea what the new project needs to do, b) a way to run that project alongside the old one, c) features that get implemented faster in the new project than in the old one (that's the point of a new project, man), d) people who know what the old project does, and e) to implement roughly the same set of features that the old project had. If you don't implement everything, then there is a negative value add, and that won't end well for you.
 1. The Thai boys and coach went to the Tham Luang cave [intentionally](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue) to celebrate one of the boys' (Peerapat Sompiangjai) birthday.
 1. Tobago rhymes with Potato.
 1. In association football, overtime is called extra time.
@@ -76,7 +106,6 @@
 1. You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
 1. [「學斗」本寫 ... 應為「鶴藪」，又叫「鶴藪白菜」，... 是粉嶺鶴藪地區的特產。...](https://hk.answers.yahoo.com/question/index?qid=20071209000051KK02152)
 1. *Wyatt* came from the old name *Wigheard*.
-1. Justin Timberlake was in [NSYNC](https://en.wikipedia.org/wiki/NSYNC).
 1. The blockchain is the "ledger" consensus network. Whatever stuff ("block") you throw at it, and whichever consensus the system arrives at > 51%, becomes the new stuff ("block"), forming a chain.
 1. You don't hear the dark joke "are muslim babies born with burkas on" because [they don't wear one until puberty](http://www.dailymail.co.uk/news/article-2273308/Sheikh-Abdullah-Daoud-Saudi-cleric-sparks-outrage-calling-baby-girls-wear-burka.html).
 1. Those tiny bean things sometimes included in sandwiches are either broccoli or [alfalfa](https://en.wikipedia.org/wiki/Alfalfa) sprouts.
@@ -243,7 +272,7 @@
 1. The RB in [RB Leipzig](https://en.wikipedia.org/wiki/RB_Leipzig) the Fußballverein is *Rasenballsport*, lit. "lawn ball sport", is a clever attempt to bypass the [DFB](https://en.wikipedia.org/wiki/German_Football_Association)'s licencing limitation that the company name "Red Bull" cannot be part of the team name.
 1. [Coffins that hang from a cliff](https://en.wikipedia.org/wiki/Hanging_coffins), and people who do such things, can be found in China, Indonesia, and Philippines.
 1. The Unicode Consortium has an interesting list of [Full Members](http://unicode.org/consortium/members.html). They are: tech company, tech company, tech company, tech company, tech company, tech company, [Ministry of Awqwaf and Religious Affairs of the Sultanate of Oman](https://mara.gov.om/), tech company, tech company, tech company, and tech company.
-1. [Neither African-American nor Caucasian T-shirts are good at reflecting UV](https://www.physicsforums.com/threads/why-is-black-better-than-white-for-sun-protection.289558/), but at least the Afrian-American ones are able to absorb some of it.
+1. [Neither African-American nor Caucasian T-shirts are good at reflecting UV](https://www.physicsforums.com/threads/why-is-black-better-than-white-for-sun-protection.289558/), but at least the African-American ones are able to absorb some of it.
 1. Having long (wet) hair can make you lose a lot of body heat.
 1. To make a near-death piece of soap stick to a new piece, you *need* to firmly press the two against each other while they are wet.
 1. [If your phone is turned on, companies probably knows where it is](https://www.androidcentral.com/all-major-us-carriers-give-your-real-time-location-info-third-parties), and obviously emergency services know that, too.
@@ -270,7 +299,7 @@
 1. The only reference to "book" on [yellow pages](https://www.yellowpages.ca/) is faceBOOK.
 1. Did you know that devices like Siri listen for [ultrasound instructions](https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html)?
 1. You have github's fourth most starred repository with the ["women"](https://github.com/topics/women) tag.
-1. If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, approach in small pieces. And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
+1. If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, [approach in small pieces](https://www.martinfowler.com/bliki/StranglerApplication.html). And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 1. The Chinese workforce call it [the 996](http://www.bbc.com/capital/story/20180508-young-chinese-are-sick-of-working-overtime): work from 9am to 9pm for 6 days a week.
 1. The [last emperor of China](https://en.wikipedia.org/wiki/Puyi) 溥儀/宣統帝 looked like a normal dude. The red guards got him (indirectly) in 1967.
 1. When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
@@ -315,7 +344,6 @@
 1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
 1. [Tim Horton](https://en.wikipedia.org/wiki/Tim_Horton) was a Hockey player. He died crashing [his car](https://en.wikipedia.org/wiki/De_Tomaso_Pantera).
 1. There are many ["Game sevens"](https://en.wikipedia.org/wiki/Game_seven) before the [Stanley Cup playoffs](https://en.wikipedia.org/wiki/2018_Stanley_Cup_playoffs). Even if the Leafs won this "Game Seven" (first round 2018), what are they going to do, win the Cup? They haven't done that since 1967.
-1. Westworld S02's "multiple Bernard theory" isn't even a theory. [It's in the trailers.](https://www.reddit.com/r/westworld/comments/8826ar/charlotte_makes_a_discovery_season_2_trailer/) What remains a theory is whether [Bernard's bodies are used by [Teddy](https://en.wikipedia.org/wiki/James_Marsden) to infiltrate the real world](https://www.reddit.com/r/westworld/comments/8ezmfb/spoilers_b_t_theory/).
 1. There is [an entire website](https://www.succeedsocially.com/articlecategories) ("Succeed Socially") devoted to helping Asperger's patients (like you) to make friends, instead of posting deep fried memes on the Internet.
 1. Aaron Swartz didn't create RSS, but he did work a lot on it.
 1. [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams), the dude who wrote that book about dolphins wrapped in towels, also appeared in Monty Python as a surgeon.
@@ -347,7 +375,7 @@
 1. *Magnum opus* is Latin for "great work", or "masterpiece".
 1. [People with autism die much younger](https://www.healthline.com/health-news/why-people-with-autism-die-at-younger-age) (16 years younger on average). They consider suicide more often than the general population.
 1. Sewing needles have rounded tips, so it doesn't damage the fibre. Leather needles have sharp tips instead.
-1. The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, and Mars has no moons either.
+1. The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, ~~and Mars has no moons either~~.
 1. Lenses with larger apertures (e.g. f/1.5) have more issues with chromatic aberration than lenses [of the same quality] with smaller apertures.
 1. [Eats, shoots & leaves](https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves) can either be a book about punctuation, or [a restaurant-brothel](https://www.reddit.com/r/IAmA/comments/88u7va/iama_legal_working_girl_prostitute_courtesan_of/dwnif2a/).
 1. [Black crush](https://www.reddit.com/r/GooglePixel/comments/7i2xpr/pixel_2_black_crush_and_the_color_options/) refers to the ability to see different shades of black on a screen.
@@ -785,7 +813,7 @@
 1. Hong Kong is the world's largest city-state (non-sovereign). Washington DC is also a non-sovereign city-state. Monaco is a sovereign city-state.
 1. Singapore refines petroleum oils. 23% of its exports are refined oils and products.
 1. One occupation that the computer surely replaced was the [computer](https://en.wikipedia.org/wiki/Human_computer).
-1. Trillions are dollars are traded in "[forex](https://www.investopedia.com/university/forexmarket/forex1.asp)es" every day.
+1. Trillions are dollars are traded in "[forex](https://www.investopedia.com/university/forexmarket/forex1.asp)es" everyday.
 1. 西遊記 is literally Journey to the West. The author really did go to the west. He did not meet human monkeys and pigs.
 1. The Ionic framework is a product of Wisconsin, [strangely close to the State Capitol](https://www.google.ca/maps/place/Drifty+Co/@43.0727454,-89.381615,189a,35y,15.54h,47.46t/data=!3m1!1e3!4m5!3m4!1s0x0:0x6af55a499c99d635!8m2!3d43.0742365!4d-89.3810119).
 1. Raw denim wearers don't wash their jeans for the first time until they absolutely need to (sometimes not after years) because it encourages the dye to come loose at all the right places. To quote Cleardesign, this is called "sicker fadez".
@@ -829,7 +857,7 @@
 1. [Flash pasteurization](https://en.wikipedia.org/wiki/Flash_pasteurization) doesn't boil anything. The liquid is heated to 71.5 °C (160 °F) to 74 °C (165 °F) for about 15 to 30 seconds. UHT (ultra-heat-treating), however, does boil your liquid at 140 °C (284 °F) for four seconds.
 1. ["Over easy"](https://i.pinimg.com/736x/e2/9b/cf/e29bcf23c343c5d5e8a029ff5ec8f89b--fried-eggs-cooking-tips.jpg) is the medium rare of egg frying. "Over medium" is medium, "Over well" is well done, and "Over hard" is the same as ruining a steak, breaking the yolk. "Sunny side up" is probably rare. ["Eggs in the basket"](https://en.wikipedia.org/wiki/Egg_in_the_basket) is when you decide to put an egg inside a loaf of bread for some reason.
 1. There are [no](https://zh-yue.wikipedia.org/wiki/%E4%BA%94%E9%A6%99%E8%82%89%E4%B8%81) alternate pages for 五香肉丁.
-1. Nikki Minaj is 3/4 Afro-Trinidad and 1/4 Indo-Trinidad. When she went to the US, she became Afrian-American. She is clearly in Wikipedia's list of [African-American female rappers](https://en.wikipedia.org/wiki/Category:African-American_female_rappers).
+1. Nikki Minaj is 3/4 Afro-Trinidad and 1/4 Indo-Trinidad. When she went to the US, she became African-American. She is clearly in Wikipedia's list of [African-American female rappers](https://en.wikipedia.org/wiki/Category:African-American_female_rappers).
 1. [Chicken tenders](http://www.thekitchn.com/what-the-heck-is-a-chicken-tender-meat-basics-214892) are the little strips of meat that are tenuously attached to the underside of each breast.
 1. "Fekete" means "black" as much as "schwarz" means "black". Because they both mean black.
 1. ["Fine words butter no parsnips"](https://en.wiktionary.org/wiki/fine_words_butter_no_parsnips)... "Nothing is achieved by empty words or flattery.".
@@ -1420,7 +1448,6 @@
 1. The French call it ["en ligne"](https://www.collinsdictionary.com/dictionary/french-english/en-ligne) ~~just because it sounds exactly like "online". 🤦~~
 1. Compared to USB keyboards and mice, [PS/2 peripherals send interrupts.](https://www.youtube.com/watch?v=AWkvzycD5PE) This reduction of latency makes PS/2 keyboards and mice still somewhat relevant for pro gaming.
 1. People wanted thin bezels, so OnePlus made the fifth phone ($813) narrower. [But also taller. The screen to body ratio is still 73%.](http://www.gsmarena.com/compare.php3?idPhone1=8416&idPhone2=8647)
-1. Some Clack dude reads this repo.
 1. "無三不成幾" came from 西游记 ["常言道，事无三不成，你进洞两遭了，再进去一遭，管情救出师父来也。"](https://baike.baidu.com/item/%E6%97%A0%E4%B8%89%E4%B8%8D%E6%88%90%E5%87%A0), and is supposed to mean "you should try more", rather than the literal "'A few' means at least three."
 1. Wikipedia claims that [Roast beef](https://en.wikipedia.org/wiki/Roast_beef) is served at Sunday dinners ("Sunday roasts") after church.
 1. Tetanus is caused by [Clostridium tetani](https://en.wikipedia.org/wiki/Clostridium_tetani), an anaerobic bacterium. An infected nail not only has to be rusty, it must also puncture the skin to reach the anaerobic meat inside.

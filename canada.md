@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Bereavement leave is 3 days](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/bereavement-leave.html), starting from the day of the death.
+1. [Lumberjack](https://en.wikipedia.org/wiki/Lumberjack) is a Canadian term, but [lumberjill](http://www.bbc.co.uk/history/ww2peopleswar/stories/68/a4682568.shtml) might also have been used during the second world war in Scotland.
 1. [KGV][insidehalton] proclaimed Canada's colours to be red and white. Dr. George Stanley recommended so simply because red and white are clearly visible -- the same reason the Nazi party chose red, white, and black.
 1. Winnipeg uses Resolute's timezone, throwing off [developers who try to be too clever](https://www.reddit.com/r/Android/comments/4hohcg/nova_launcher_updated_to_43_with_n_dev_preview_2/d2rkp84): "Nova's night mode uses timezones to approximate location if it doesn't have the location permission. For some reason carriers in Mantioba CA use the timezone of America/Resolute instead of America/Winnipeg. And Resolute is really far north and doesn't have traditional sunset/sunrises which throws things off. There was some code to handle these types of locations, but it wasn't behaving as it should."
 1. It is [legal](https://www.reddit.com/r/nottheonion/comments/4ozso3/-/d4gy5mj) to dissolve the dead using sodium hydroxide in Canada.
