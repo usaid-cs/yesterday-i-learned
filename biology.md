@@ -603,3 +603,5 @@
 1. Tiny mites called [demodex](https://en.wikipedia.org/wiki/Demodex) live in hair follicles. They are 0.4mm at the largest, and can move 8~16cm per hour on your skin. Almost all adults carry these mites. The good news is that they eat skin cells and sebum; the bad news is they might cause acne.
 1. A [vole](http://en.wikipedia.org/wiki/Vole): something like a mouse, but live in holes and burrows. Eats roots of plants.
 1. If a dog licks its lips, [it is uncomfortable](http://www.thebalancedcanine.com/canine-language/). If it licks its lips when you're scolding it, then it probably knows it did something wrong.
+1. Your normal stride length is 77cm, plus or minus less than you think.
+1. There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.

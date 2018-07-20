@@ -39,11 +39,13 @@ def main():
         # This reads the file over and over but oh well
         line = get_item()
         print(line)
-        new_file = input('Move to which file? Or (s)kip e(x)it) ')
+        new_file = input('Move to which file? Or (s)kip (d)elete e(x)it) ')
         if new_file == 's':
             continue
         elif new_file == 'x':
             return
+        elif new_file == 'd':
+            remove_item(line)
         elif new_file.endswith('.md'):
             with open(new_file, 'a') as myfile:
                 myfile.write(line + '\n')

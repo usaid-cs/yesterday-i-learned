@@ -49,3 +49,5 @@
 1. Chinese men originally get a [new name at the age of 20](https://zh.m.wikipedia.org/wiki/%E8%A1%A8%E5%AD%97). Women, either at the age of 15, or whenever they get married. No longer the case possibly because passports.
 1. Auschwitz is famous because, unlike [Chełmno](https://en.wikipedia.org/wiki/Che%C5%82mno_extermination_camp) or [Treblinka](https://en.wikipedia.org/wiki/Treblinka_extermination_camp), Auschwitz enslaved *and* killed people, instead of just killing. This leaves behind more evidence than a simple killing complex.
 1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
+1. [A volcano](http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-almost-vanished-from-earth-in-70-000-b-c) ("Toba") wiped out almost everyone 70000 years ago.
+1. Hats were worn secondarily because hair was washed weekly instead of daily. Oddly enough, Hitler didn't wear a hat, 10 years before the trend started in the US. As an aside, Adolf means "noble wolf."

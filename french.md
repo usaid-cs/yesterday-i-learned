@@ -59,6 +59,7 @@
 1. **En haut**: above. Note the H is completely silent. See also: *en bas*, below. *Regarder en haut*: look up.
 1. **Enfant**: child.
 1. [**Enfuir**](http://la-conjugaison.nouvelobs.com/du/verbe/s_enfuir.php): to run away/flee. *Je m'enfuis*: I run away. *Nous nous enfuyons*: we run away.
+1. **Entretien d'embauche**: job interview. ("interview of hiring")
 1. **Environ**: about. Usually used in software menus.
 1. **des Environs**: from around.
 1. **Erreur**: error. *Nous avons rejoint ce meetup par erreur*: we joined this meetup by mistake (automatic translation).

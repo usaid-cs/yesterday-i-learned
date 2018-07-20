@@ -912,7 +912,6 @@
 1. People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
 1. "The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
 1. Beating your earnings estimates will still cause your stock price to drop if the data shows your market value is lower than the current price.
-1. [A volcano](http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-almost-vanished-from-earth-in-70-000-b-c) ("Toba") wiped out almost everyone 70000 years ago.
 1. The fastest red card in football went to [a man named Lee Todd](https://www.theguardian.com/football/2009/jan/07/1), who said "FUCK me that was loud" to a referee.
 1. /r/sleepyasians is a thing.
 1. A canton is any quarter of a flag. British colonial flags have the union jack at the upper left canton, for example.
@@ -953,7 +952,6 @@
 1. You don't see Wenger knives anymore because Victorinox bought it back in 2005.
 1. Angostura bitters labels are too big for the bottles because they [accidentally did it that one time](http://www.alcademics.com/2011/03/the-history-and-production-of-angostura-bitters.html), and then kept doing it.
 1. If you hit/run over someone else's dog, driving away counts as "damaging someone's property and fleeing the scene".
-1. Your normal stride length is 77cm, plus or minus less than you think.
 1. Sources vary on whether decaf coffee is (still) good for you. [Good](https://www.healthline.com/nutrition/decaf-coffee-good-or-bad) [Good](https://draxe.com/decaf-coffee/) [Good](https://www.psychologytoday.com/blog/your-brain-food/201105/why-decaf-coffee-is-just-healthy) [Bad](https://www.livestrong.com/article/364276-is-decaf-coffee-bad-for-your-health/) [Bad](http://teeccino.com/building_optimal_health/39183/Decaf-Coffee-And-Health.html) [Bad](http://www.expertrain.com/blog/health/is-decaf-a-healthy-choice.htm). The correct answer is: [decaf tastes awful](https://coffeemakerjournal.blogspot.ca/2014/01/why-does-decaf-coffee-taste-bad.html), so don't drink it.
 1. *Baker*, *Boulanger*, and *Panettiere* are all the same last name for people who used to bake.
 1. [Italians didn't really speak Italian](https://history.stackexchange.com/questions/14712/in-1861-few-italians-spoke-italian) when Italy was unified in 1861. The French didn't speak much French either. More people spoke Occitan than French back then.
@@ -1065,7 +1063,6 @@
 1. There is [a line in China](http://www.didichuxing.com/en/press-blog/suvzicxv.html) at which the population suddenly drops. Reproduce this in Google Maps by drawing a line from 怒江 to 北京.
 1. BFRocket = Big Fucking Rocket. Elon Musk is planning to launch a few of those to Mars.
 1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
-1. Once you had to move a blue suitcase from place to place. Someone asked what was in it. You said `(redacted)`. They didn't believe you.
 1. Coyotes (43mph) have no problem chasing roadrunners (20mph).
 1. Waffle shirts have a waffle-like texture. [These](http://wafflemagazine.com/wp-content/uploads/2015/09/waffleshirt.jpg) are not waffle shirts.
 1. The week came about because the week is a quarter of a lunar cycle.
@@ -1354,7 +1351,6 @@
 1. Grocers are people who own/operate the grocery, not the people who buy groceries.
 1. Women don't get beer belly as often as men because women don't drink enough to have society tell them they shouldn't be drinking "while pregnant", [draws illustrator](http://nifymag.com/illustrator-shows-the-hidden-side-of-women-that-society-doesnt-want-to-see/).
 1. [Amazon Glacier](https://en.wikipedia.org/wiki/Amazon_Glacier) ("ZDNet says, that according to private e-mail") runs on low RPM hard drives with custom logic boards "where only a percentage of a rack's drives can be spun at full speed at any one time." This makes storage fairly cheap compared to other forms of online storage. Downloading the data has a "retrieval cost", which means they are probably throwing full hard drives into a cabinet eventually.
-1. According to this repo, RSTLNE are not the most common letters. TSNRH are the 5 most popular consonants, and E is the most common vowel. You should pick CDHA, rather than the usual CDMA.
 1. A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.
 1. I think [Nicholas Winton](https://www.youtube.com/watch?v=6_nFuJAF5F0) is a pretty cool guy. Eh saves Czechoslovakian children from Nazis and doesn't afraid of anything.
 1. The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
@@ -1438,7 +1434,6 @@
 1. Zeta is the sixth Greek alphabet, but [has a value of 7](https://en.wikipedia.org/wiki/Greek_numerals), because man, [screw you](https://en.wikipedia.org/wiki/Stigma_%28letter%29). Classically "Zedta", it is now "Zita" in modern Greek.
 1. "You know you are doing your job when at least three people are angry at you at once" - A clay bar
 1. In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").
-1. Mailchimp offers a 10% discount if 2FA is enabled.
 1. A ["down round"](https://unsupervisedmethods.com/the-uber-of-startup-lingo-a-translation-of-47-startup-one-liners-c5f21e255e74) is when a company raises money at a lower valuation than a previous round. And apparently a "flight risk" is employee(s) who may leave soon.
 1. Bangalore is officially known as Bengaluru.
 1. *Hasta la vista*, "until the sight", just means "bye".
@@ -1504,7 +1499,6 @@
 1. By total length, Birmingham has more canals than Venice.
 1. 75% of the mass of the universe is hydrogen, and 25% helium. The rest are insignificant.
 1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.
-1. The gunslinger character in the original Westworld movie was a copy of Chris Adams, the protagonist of The Magnificent Seven. Same actor (Yul Brynner), same outfit.
 1. T-Mobile was/is owned by Deutsche Telekom.
 1. AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
 1. Demetria "Demi" Lovato has that real last name.
@@ -2175,7 +2169,6 @@
 1. "Point blank" does not mean "at close range" but "close enough to disregard veering of projectile due to gravity".
 1. *Yersinia pestis* is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
-1. There are many kinds of fats; [brown fats][wikipedia 24] are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
 1. [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
@@ -2234,7 +2227,6 @@
 1. `sudo` is [required][askubuntu] for openvpn.
 1. Three-way merges aren't so much three way, but [two way][wikipedia 35], from a branch that has since diverged into two different branches, back into one.
 1. "Breaking the seal" contextually refers to the first act of urination during a drinking spree, after which you will need to urinate even more frequently.
-1. Hats were worn secondarily because hair was washed weekly instead of daily. Oddly enough, Hitler didn't wear a hat, 10 years before the trend started in the US. As an aside, Adolf means "noble wolf."
 1. [BEST rolls you can buy: Charmin. BEST rolls at low cost: Great Value at Wal-Mart or Kirkland at CostCo.][reddit 18]
 1. [Alba, or Albion][wikipedia 36], used to stand for the island of Britain.
 1. Saudi Arabia has the [fourth highest military expenditure in the world][wikipedia 38], but still just 10% of the US'.
@@ -2623,7 +2615,6 @@
 1. The captain ought to go down with the ship, but can also do whatever they want if all others have evacuated.
 1. If your brie isn't oozing, it is not the real thing. Also, never bring brie to a party, because what you buy is never the real thing.
 1. Extra large eggs are 63-70g, large 56-63g, and medium 49-56g. Their price multipliers are 1.12, 1.00, and 0.88, respectively.
-1. There is a [Bavarian accent][youtube 22] that even Germans make fun of.
 1. [Brittany][wikipedia 185] is a place in France.
 1. [Robert Landsburg][wikipedia 186] died filming [the eruption of Mt. St. Helens][wikipedia 187], which is in 1980, not the ancient past.
 1. Tom Hanks *loves* typewriters.
@@ -3380,7 +3371,6 @@
 [wikipedia 21]: http://en.wikipedia.org/wiki/Earthquake_light
 [wikipedia 22]: http://en.wikipedia.org/wiki/Leaky_abstraction
 [wikipedia 23]: http://en.wikipedia.org/wiki/Polish_notation
-[wikipedia 24]: http://en.wikipedia.org/wiki/Brown_adipose_tissue
 [wikipedia 25]: http://en.wikipedia.org/wiki/Malaise
 [wikipedia 26]: https://en.wikipedia.org/wiki/Shaft-driven_bicycle
 [wikipedia 27]: http://en.wikipedia.org/wiki/Trie
