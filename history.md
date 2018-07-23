@@ -1,3 +1,5 @@
+1. [Free love](https://en.wikipedia.org/wiki/Free_love) died because of drugs, and because the hippies realised they opened their minds but accomplished nothing.
+1. The [Kingdom of Dalmatia](https://en.wikipedia.org/wiki/Kingdom_of_Dalmatia) got the really short end of the stick when [Croatia](https://en.wikipedia.org/wiki/Croatia) decided to make [a new flag](https://en.wikipedia.org/wiki/Flag_of_Croatia). Apparently the tiny bits of yellow on that flag (try spotting it) was enough to symbolise the Kingdom of Dalmatia.
 1. [The Brits were originally smuggling opium into (Hong Kong, coasts et al.) to get silver from the trade](https://youtu.be/StW7oGSR_Mg), which was the only currency the imperial Chinese government accepted at the time for tea exports. They colonised the place *for tea*.
 1. The American civil war began because white people in the Southern states wanted slavery but the North did not. To this day, some black people still hate white people for having this war, AFAIK.
 1. [The victims of the biggest mass lynching in US history were Italians.](http://en.wikipedia.org/wiki/Anti-Italianism)

@@ -39,3 +39,4 @@
 1. If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
 1. IDs are under_scored. Variables are camelCased, As always, because reasons.
 1. It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
+1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.

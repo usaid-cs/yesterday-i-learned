@@ -24,6 +24,7 @@ yesterday-i-learned
 ## Science
 * [biology.md](biology.md)
 * [chemistry.md](chemistry.md)
+* [chemistry-batteries.md](chemistry-batteries.md)
 * [mathematics.md](mathematics.md)
 * [physics.md](physics.md)
 

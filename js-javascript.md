@@ -195,6 +195,7 @@ undefined
 * There's "React Native" for those who regret writing react apps in Cordova, and then there's ["React Native Web"](https://github.com/necolas/react-native-web), for those who regret writing react apps in Cordova, switch to react native, and then regret not being able to run it in a browser. JavaScript is a Mobius strip for ideas.
 * AirBnB had lots of [good times, and issues](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838) with React Native. For them (and probably a product their size), they say it was not worth it, but 80% of their engineers had a positive experience (apart from being paid to redo everything).
 * If you `var a = (1, 2)`, then `a` is just `2`, which makes sense once you realise there are no tuples.
+* `console.error` in node does not show the traceback, and the colour is not red (not always, anyway). So the only difference between `console.error` and `console.log` is where it goes (stderr/stdout).
 
 ## Deferred API
 
@@ -238,6 +239,7 @@ undefined
 * Avoid element reflowing/redrawing (but this is more of a DOM thing rather than JS)
 * Trig (`sin`, `cos`) is [*MUCH slower*](http://jsperf.com/sin-cos-vs-sqrt) than `sqrt`, in cases where the former is applicable.
 * Consider WebAssembly, which is "closer to binary". Files are also sent as binary rather than text, which is faster to load.
+* A major con about VueJS was said to be that [they use the chat for everything](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684) instead of documenting it, making it impossible for others to learn from what was already said.
 
 ## [Lesser console methods](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
 

@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
-1. [Two-stroke engines need to burn oil to run.](https://news.ycombinator.com/item?id=17547726) They also need to expel waste exhaust the same way fresh air came in, so it is hard for that design to pass emissions tests.
+1. [Two-stroke engines need to burn oil to run.](https://news.ycombinator.com/item?id=17547726) They also need to expel waste exhaust the same way/time fresh air came in, so it is hard for [that design](https://www.youtube.com/watch?v=hV3LImCslpo) (except direct injection two-strokes) to pass emissions tests.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.
 1. The original Acura logo did not contain the small horizontal bar joining the two vertical pillars. Not forming the letter "H". Soichiro Honda ordered the 5,000 badges already produced to be destroyed.
 1. Mixing diesel gas with regular gasoline is worse for diesel engines (timing) than it is for gasoline engines (smoke/poor performance).

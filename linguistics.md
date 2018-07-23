@@ -1,3 +1,5 @@
+1. Words like "gosh" and "darn" are called [minced oaths](https://en.wikipedia.org/wiki/Minced_oath).
+1. French has a lot of homophones. [/u/--xra's pet theory about the French](https://www.reddit.com/r/French/comments/90ein7/the_youryoure_theirtheyre_equivalent_mistakes_in/e2pwxkm/) was "that French people don't actually understand one another. Every word in French sounds just about the same as every other word, so I think they just say what's on their mind and pretend to understand the person they're talking to through gestures."
 1. "Somewhere along those lines" beats "something along those lines" 2:1.
 1. Vietnamese diaspora may be secretly talking in [Cantonese in a corrupted accent](https://www.youtube.com/watch?v=RBgC5b4TIAk).
 1. Oh my god, the French pronounce [*Leroy*](https://www.youtube.com/watch?v=sZVmDzCjux0) like *le roi*, "the king". [That's the word origin.](https://www.pronouncenames.com/pronounce/leroy)

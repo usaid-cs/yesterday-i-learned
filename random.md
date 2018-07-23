@@ -1,5 +1,23 @@
-![What the heck is a National Use-Up-Your-Leftovers-in-a-Jell-O-Salad Week](https://i.imgur.com/D1mir6l.png)
-
+1. Princess Zelda was based on [Zelda Fitzgerald](https://en.wikipedia.org/wiki/Zelda_Fitzgerald), a socialite in the 1900s. Like many socialites, she became crazy, got locked up in a hospital (for reasons?), and died when the hospital burned down.
+1. With no relation to each other, [both Java and JavaScript came out in 1995](https://en.wikipedia.org/wiki/JavaScript#JavaScript_and_Java). Java was made by a [James](https://en.wikipedia.org/wiki/James_Gosling), while JavaScript by a [Brendan](https://en.wikipedia.org/wiki/Brendan_Eich).
+1. The likelihood of a marriage lasting is [not linearly correlated to the number of sexual partners you had before](https://ifstudies.org/blog/counterintuitive-trends-in-the-link-between-premarital-sex-and-marital-stability/). Women who had three sexual partners are paradoxically less likely to get a divorce, compared to the women who had two.
+1. Waxed paper straws existed before plastic straws did.
+1. [The flag of the red cross](https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement#Emblems_in_use) (which is a red cross) was said to be the reverse of the flag of Switzerland, to dispel the argument from the Ottoman Empire that the flag had Christian roots. There is no proof either way.
+1. [Living on 4 USD a day](http://www.businessinsider.com/snap-challenge-2015-4#day-2--resisting-the-freebies-13) is totally doable, with the caveat that you can only eat women's portion sizes.
+1. ["Ska"](https://en.wikipedia.org/wiki/Ska#Third_wave) is a Jamaican music genre that got blended into punk (as "third wave ska") in the 1980s.
+1. Microsoft doesn't want you to use [Windows 10 LTSB](https://www.howtogeek.com/273824/windows-10-without-the-cruft-windows-10-ltsb-explained/), the one without ads and spyware. It requires an Enterprise licence.
+1. If you have a leader who does not listen, do consider before telling them your project is delayed, even if it is not your fault, because [people do shoot bearer of bad news](https://news.ycombinator.com/item?id=17511850).
+1. "Retail businesses could do a better job keeping isles free. Also it would be super helpful if hotels wouldn't keep putting trash cans in front of the exterior elevator buttons on each floor. Wheelchairs can't access those buttons when that happens." - [Guy on a wheelchair](https://www.reddit.com/r/IAmA/comments/90q6yx/i_am_the_real_mr_glass_i_have_brittle_bone/e2schhb/)
+1. [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy) (PE-da-ge-jee) is the study of teaching (usually kids). Andragogy is the study of teaching adults.
+1. The SMS [SS7](https://www.wired.com/2017/05/fix-ss7-two-factor-authentication-bank-accounts/) ("Signaling system 7") can be hacked of course, and there is nothing you can do about it.
+1. While [posing with the dead](https://www.bbc.com/news/uk-england-36389581) fell out of favour, some people [still do it](https://www.local10.com/news/weird-news/family-stages-mans-corpse-with-him-playing-video-games-at-wake) to remember the dead they knew and loved.
+1. Although the name Strauss can be found in reference books frequently with "ß", [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II) himself wrote his name with a long "s" and a round "s" (Strauſs).
+1. Hot Fuzz is called Hot Fuzz because Fuzz is a nickname for the police.
+1. Riots and social unrests are tied to high global prices.
+1. [Goldilocks and the Three bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears): woman breaks into bears' house, eats porridge, breaks chair, falls asleep. Wat?
+1. The official name for bookworm is apparently "bibliophile".
+1. "The number of Americans killed by guns runs at about 10 9-11 attacks per year. More Americans are killed by gunshot wounds each year than in the entire Iraq war." - [Thunderf00t](https://www.youtube.com/watch?v=l6uLUaqgWY0)
+1. [Brioche buns](https://en.wikipedia.org/wiki/Brioche) have so much egg and butter in it, that it is often considered [Viennoiserie](https://en.wikipedia.org/wiki/Viennoiserie) pastry. (That word just means "things from Vienna".)
 1. [tl;dr](https://news.ycombinator.com/item?id=17401425) --- ["Every successful social startup should bend, but not completely violate, one or more social taboos, e.g. one of the 7 deadly sins."](http://charlescosta.net/2014/04/how-the-seven-deadly-sins-drive-innovaiton/)
 1. "[PCI and] PCIe usually implies DMA, so now you'll be able to [plug in to an SD card slot](https://www.techpowerup.com/245534/sd-express-is-a-new-memory-card-standard-that-leverages-pcie-and-nvme) and read/write all the memory on the system, [dumping passwords, cookies, etc](https://github.com/carmaa/inception), and rewriting memory to bypass logins or inject running code."
 1. "You don't hire for skills, you hire for attitude. You can always teach skills."
@@ -289,7 +307,6 @@
 1. A "rail" drink is an unbranded common spirit (whiskey, vodka, rum, gin), with an optional mix (e.g. coke, soda, tonic). It is called that because [the rail contains whatever is close to the bartender](https://en.wikipedia.org/wiki/Well_drink).
 1. In 1912 an Anna Jarvis trademarked ["Mother's Day"](https://en.wikipedia.org/wiki/Mother%27s_Day#Spelling), in that spelling, to marginalise the people among us who have two mothers. Or dads. [Later](https://www.cnn.com/2018/05/13/us/mothers-day-anna-jarvis-trnd/index.html) she said she regretted creating Mother's Day: "Jarvis couldn't stand the idea of people spending so much money on extravagant flower arrangements, sappy greeting cards and overly priced chocolates."
 1. "Pump It" by The Black Eyed Peas was just the song [Misirlou](https://en.wikipedia.org/wiki/Misirlou) from Pulp Fiction, less the lyrics.
-1. [Main counterpoints about not charging your battery overnight](https://linustechtips.com/main/topic/925633-stop-charging-your-phone-overnight/) include: misunderstanding the difference between not charging and holding a constant state of charge, claiming everyone buys another device in two years, claiming they have been charging overnight for years and nothing has yet blown up, and mixing up voltage and amperage, not knowing the entire concept has a third dependent variable: temperature.
 1. Swedish parents [must](https://sweden.se/quickfact/parental-leave/) share 480 days of 80%-paid parental leave, with both taking at least 90.
 1. [OSI layer](https://en.wikipedia.org/wiki/OSI_model) 2 defines transmission of *frames* across two directly connected nodes, using MAC addresses (for example), which also happens to include Wi-Fi.
 1. TCP/IP are actually different levels of OSI (4 and 3, respectively). [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol) then performs `f(IP) -> MAC`, which is another layer down.
@@ -601,7 +618,6 @@
 1. Brian's Point Inflation Hypothesis states that, for any given Reddit user, no matter how useless or controversial its comments are, it is still more likely for its karma to be net positive than negative.
 1. [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) basically says that if any trend [in the stock market] becomes a target, then it is less likely to occur in the future. An example is the "if the stock market surges in January, it surges throughout the rest of the year" pattern, which will probably fail now because someone jinxed it.
 1. The first person to say ["Octothorpe taters"](https://www.google.ca/search?q=hashtag+fries&oq=hashtag+fries) was @1337 on 2018-02-02.
-1. [3.7V and 4.2V lithium ion batteries are the same thing.](https://learn.adafruit.com/li-ion-and-lipoly-batteries/voltages) They are just labelled differently.
 1. 1 Infinite Loop is [a stupid 0](https://www.google.com/maps/place/Infinite+Loop,+Cupertino,+CA+95014,+USA/@37.3320954,-122.0309105,18z/data=!4m5!3m4!1s0x808fb5b6e7b4b9fb:0x697a4332574f50d9!8m2!3d37.3320003!4d-122.0307812.)
 1. Volvo is Latin for "I roll". Its [logo](https://en.wikipedia.org/wiki/Volvo_Cars#Logo) is the symbol of iron, which is also used for Mars or the Male sex. [This means women cannot drive Volvo cars.](https://www.eatliver.com/volvo/)
 1. None of the [cheesecloth grades](https://en.wikipedia.org/wiki/Cheesecloth) have the same number of threads per unit area horizontally and vertically.
@@ -755,11 +771,9 @@
 1. ["Amazeballs"](https://www.urbandictionary.com/define.php?term=Amazeballs) was invented by blogger Perez Hilton. He kept repeating it until people follow. Like sheep.
 1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
 1. 'A bit of "useless trivia" I read in a behavioral science book that if you place any type of religious reminder that is manifested as a person of some sort in an area, it will reduce crime.  So a Virgin Mary statue or image, or one of Jesus would have the same effect.' - Becca_Chavis
-1. Rechargeable AAA lithium batteries do exist. However, they are all in the wrong voltage (3.7V).
 1. Suicide-by-water corpses wearing shoes with air cushions can dislocate the feet and bring them back to the surface. ["They're not severed, they're disarticulated," Inkster explains. As the body decomposes the feet are separated ...](http://www.theprovince.com/quite+solved+mystery+severed+feet/10281333/story.html)
 1. The OBD II adapter passcode is 1234.
 1. [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
-1. [Deep discharges are bad too.](https://apple.stackexchange.com/questions/158465/iphone-6-charging-best-practices) So you are stuck between using a battery between 49% and 50%, or wherever it is when charging voltages reaches 3.92V (54%). [See also: "lithium batteries undergo unwanted chemical reactions when discharged below 3V, causing their internal resistance to be permanently and significantly raised"](https://electronics.stackexchange.com/a/219236)
 1. "It is better to wear out than rust out." - Richard Cumberland
 1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 1. `expectedFailure`s are tests that pass, whether or not it fails. But not skipped.
@@ -902,7 +916,6 @@
 1. Proper daylight savings clocks go from the last instant of 1:59:59 to 1:00:00. Clocks that go from 1:59:59 to 2:00:00 to 1:00:01 are improper.
 1. Nikkei stands for The Nihon Keizai Shinbun (日本経済新聞), a newspaper.
 1. The Kinect/iPhone X use randomised dots for depth recognition, rather than a grid. "If you use a regular repetitive grid you will have a periodicity in the observed pattern, if an observed object moves closer to the camera the reflected laser shifts further to the side until it would overlap with a different point at a different depth in the 2D image." (which is bad)
-1. At the cost of load capacity, thermal stability, and weight, lithium battery manufacturers can raise the battery voltage using additives, which increases capacity.
 1. The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.
 1. Chinese USB chargers can be so cheap because they omit safety standards like the [UL 840](https://standardscatalog.ul.com/standards/en/standard_840_3).
 1. The American ounce (28.349523125g) is also the International Avoirdupois Ounce.
@@ -1032,7 +1045,6 @@
 1. "All rights reserved" is by default. You don't need to mention it.
 1. Normal smartphones give you a "cardboard VR vision" of 8:9 at best. Therefore, no matter how good VR goggles are, they are essentially useless at this point.
 1. [Wikipedia doesn't *need* your donations.](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed) They want your donations because their team is growing exponentially in size, for no real good reason to hire. Jimmy also wanted a private jet (possibly unrelated).
-1. When it comes to longevity, [lithium batteries are perfectly fine with the cold](http://batteryuniversity.com/learn/article/charging_at_high_and_low_temperatures) (0°C) [except when charging](https://electronics.stackexchange.com/questions/263036/why-charging-li-ion-batteries-in-cold-temperatures-would-harm-them), and [should](https://www.xda-developers.com/charging-comparison-oneplus-huawei/) charge under 45°C (ideally under 30°C, but who does that), and strictly prohibited above 50°C or below 0°C.
 1. If you hire a co-op student and get "up to $3000" of your "up to 30%" back, then you would be paying such a student $2250 per month to get that amount of tax credit back.
 1. Multi-level marketing firm Herbalife has the balls to be on NYSE.
 1. A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.
@@ -1304,7 +1316,6 @@
 1. Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
 1. On cooking Mexican food ("appropriating Chickpea-American culture"): you shame them if you cook it better than they do. But if you cook it worse than they do, you are a disgrace to Chickpea-Americans. You can't win. Stick to baked potatoes.
 1. Oprah was named "Orpah" after the biblical figure in the Book of Ruth. She and [Whitney Houston](https://en.wikipedia.org/wiki/Whitney_Houston) are two completely different people.
-1. According to [your own math](http://imgur.com/xa11NdK) in wear and tear per charging cycle, you get the most bang for your buck from your personal (3.85V nominal, 4.4V charging) Li-pol battery if you charge from 20% to 50%. (You can charge from 40% to 50% and get like 100x the cell life, but if you charge just 10% every time, you need to charge 10x as often.) [Ideal is keeping a battery between 75% and 65%.](http://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries) If you want to use your battery like a normal person, charging from 20% to 70% isn't that bad.
 1. You don't mine with wallets. You mine with [miners](https://www.reddit.com/r/dogemining/wiki/index/mining_guide).
 1. [There are no pure oil public companies (assumptions?).](https://www.uncommonwisdomdaily.com/the-best-time-to-own-energy-stocks-17766) Energy exploration/production companies usually have both natural gas and oil reserves.
 1. Pollock is the sux.
@@ -1320,7 +1331,6 @@
 1. ["老泥妹"](https://zh.wikipedia.org/wiki/%E8%80%81%E6%B3%A5%E5%A6%B9) 因離家出走，只能靠與其他人進行性交易之後才有機會洗澡，經常在尖東和旺角一帶出沒。
 1. ["援交"](https://zh.wikipedia.org/wiki/%E6%8F%B4%E4%BA%A4) strictly involves one underage party and one adult "helping each other out". If both parties are of age, this term does not work.
 1. The longer your organisation has been around, and the larger the organisation is, the more likely is it for it to have useless policies. John calls it ["organizational scar tissue"](https://www.johndcook.com/blog/2009/07/30/organizational-scar-tissue/).
-1. Fast chargers [totally](http://batteryuniversity.com/learn/article/ultra_fast_chargers) destroy your batteries. BU-401a from 2012/2017 shows bumping charge rate to anything above [1C](batteryuniversity.com/learn/article/what_is_the_c_rate) ("one hour charge/discharge") significantly reduces total cycles, and [BU-808](http://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries) says anything above 4.2V harmful for cycle count as well. [The ideal charging voltage is 3.92V, and cycle count is halved for every 0.1V above that.](https://accubattery.zendesk.com/hc/en-us/articles/210224725-Charging-research-and-methodology)
 1. People can totally downgrade your APK while preserving data with the 'adb -r -d' options.
 1. Some people are so sensitive to sounds that [they identify the AC current at 60Hz as B flat](https://www.reddit.com/r/askscience/comments/6wdnnw/why_does_electricity_always_hum_at_a_bflat_pitch/).
 1. A dye is ["light-fast"](https://en.wikipedia.org/wiki/Colour_fastness) if it fades quickly. [Turmeric](https://en.wikipedia.org/wiki/Turmeric) is a light-fast dye. So, instead of dyeing clothes, it is used as food colouring.
@@ -1368,7 +1378,6 @@
 1. [Doubly-landlocked](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) countries are landlocked by landlocked countries. There are currently only two countries in this category: Liechtenstein and Uzbekistan.
 1. Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
 1. There is a German saying "I'm too poor to buy cheap" "Ich bin zu arm, um billig zu kaufen"
-1. "In general, a [swollen battery](https://www.tekrevue.com/swollen-battery/) occurs when the battery's cells are overcharged." Overcharging oxidises the elctrolytes in the cells, turning them into gas.
 1. A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
 1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.
 1. At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
@@ -1835,7 +1844,6 @@
 1. Sometimes, people try to hire you as quickly as possible. Sometimes, they already have an internal candidate in mind, and just want to end the mandatory interview with you as quickly as possible. Pick your battles.
 1. Once you stay vegan for three years, you probably will continue to be vegan for the rest of your life. If you quit earlier than three years, this is not true.
 1. Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
-1. Hitler was born and died in an April.
 1. [The technologies used predominantly during the workday (are mostly enterprise software).](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
 1. Buy fish oil from the states. It is much cheaper there. (Same for gelatin)
 1. [Nick Freeman](https://en.wikipedia.org/wiki/Nick_Freeman), otherwise known as Mr. Loophole, defended David, Jimmy, Ian, Tiff, AND Jeremy from their respective speeding tickets.
@@ -1955,7 +1963,6 @@
 1. Drinking four litres of earl grey a day will get you muscle cramps. [Bergamot](https://en.wikipedia.org/wiki/Bergamot_essential_oil#Toxicology), the orangey ingredient in earl grey tea, is responsible for this.
 1. "I constantly get out of my comfort zone. [Staying in the comfort zone] is the easiest way to mediocrity." - Terry Crews (actual part of the quote was "Looking cool")
 1. Answering "do you know why I pulled you over" honestly [appears to have less negative consequences](https://www.reddit.com/r/LifeProTips/comments/60o1tq/lpt_do_you_know_why_i_pulled_you_over_translates/), if the police is actually just checking if you know you messed up.
-1. Ejeculate "gloops" out of a vagina at different times, easily on the day after. (/u/Kiwi-98)
 1. The 13th character of a UUID4 string is always 4. UUID1 does not have this problem, but since the [UUID1 hash is based on the MAC address and time](http://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python), it predictably collides whenever two of them are generated less than ~1us of each other.
 1. "Jedi" is both singular and plural, but to annoy Star Wars fans, you can use "Jedus" for singular, and "Jedis" for plural.
 1. To the moon, the Earth is a thing in the sky that stays in position all the time.
@@ -2262,7 +2269,6 @@
 1. The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
 1. 24 hours after recording the last episode of Father Ted, [Dermot Morgan][wikipedia 53] had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
 1. "[Dollar][wikipedia 54]" came from [Bohamian][wikipedia 55] Joachims[*thaler*][wikipedia 56], which translates to Joachim's Valleys. Therefore, you're earning valleys.
-1. "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
 1. *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
 1. [Oyster farming is so low in ecological impact][slate 2] that even vegans can eat oysters, because they don't have pain receptors either.
 1. Gullible is spelled with three Ls, not two.
@@ -2643,14 +2649,12 @@
 1. A [higher-order function][github 3] (more jargons inside link) is a function that accepts a function and returns a function. A decorator is a higher-order function.
 1. New Zealand is on its own geographical (not political) continent called [Zealandia][reddit 58].
 1. The Micro USB connector standard is rated [10 insertions for 3 years][stackexchange 5]. Interestingly, [the original USB was rated at 1500 insertions][wikipedia 197], but you don't ever see them breaking.
-1. [NiMH batteries should be taken out of the charger shortly after charging completes][batteryuniversity].
 1. Naval Maps are centered at America, [cutting Asia in half][imgur 11].
 1. Since mercury adheres to itself stronger than usual liquids (read: high surface tension), [sponges cannot absorb it][imgur 12].
 1. [Papa and Mama don't have lettuce, but the Uncle and Teen do.][reddit 59] Uncle and Teen also share the same L nose, while the rest of the family all have round noses.
 1. [Death throes][ldoceonline] are annoying sound made by people about to die. [Death rows](https://en.wikipedia.org/wiki/Death_row) are a place for people to hang out before they are executed.
 1. Winning is only half the battle.
 1. Washroom hand dryers spread around 60~1300 times more germs than paper towels, [according to a flawed study][telegraph].
-1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
 1. [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried. *In this dish, after being boiled and then mashed into a paste, the beans are sometimes then fried or baked, though usually neither, thus making the term "refried" even more misleading.*
 1. Alec Guinness (Ben Kenobi) died ages ago (2000). He was old enough to experience the Jedi purge and two other world wars.
 1. There are more binary stars (orbits around another star) than unary stars.
@@ -2674,7 +2678,7 @@
 1. The ["ViewModel" in "MVVM"](http://stackoverflow.com/questions/667781/what-is-the-difference-between-mvc-and-mvvm) implies two-way binding. It can (and should) co-exist with MVC, which is then called MVCVM.
 1. Australia has over 10000 beaches.
 1. [Last rites][wikipedia 209] (rituals), which is not last *rights*... are prayers by priests to patients shortly before their death. This also applies to executions.
-1. Wet cured ham is [apparently ready to eat][recipetips], if you can tolerate the texture.
+1. Wet cured ham is [all-ready to eat][recipetips], if you can tolerate the texture.
 1. You are never supposed to sign things with your master pubkey.
 1. The [PGP fingerprint][stackexchange 6] derives its short key (its last 32 bits) and long key (its last 64 bits). RFC 4880 outlines short ID collisions.
 1. Use (or host) [ipMagnet][github 4] to check if a torrent client is under the influence of a proxy or VPN.
@@ -3035,7 +3039,6 @@
 [answers 2]: https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y
 [askubuntu]: http://askubuntu.com/questions/460871/how-to-setup-openvpn-client
 [backblaze]: https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/
-[batteryuniversity]: http://batteryuniversity.com/learn/article/do_and_dont_battery_table
 [bbc]: http://www.bbc.com/news/magazine-34052000
 [bbc 2]: http://www.bbc.co.uk/nature/extinction_events
 [biblehub]: http://biblehub.com/text/psalms/115-17.htm
@@ -3234,7 +3237,6 @@
 [stackoverflow 11]: http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice
 [stackoverflow 12]: http://stackoverflow.com/questions/31507143/why-does-2-40-equal-42
 [stackoverflow 13]: http://stackoverflow.com/questions/1592291/what-is-the-email-subject-length-limit
-[stackoverflow 14]: http://stackoverflow.com/questions/4568267/android-min-sdk-version-vs-target-sdk-version
 [stackoverflow 3]: http://stackoverflow.com/a/5502390/1558430
 [stackoverflow 4]: http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux
 [stackoverflow 5]: http://stackoverflow.com/a/8077830/1558430

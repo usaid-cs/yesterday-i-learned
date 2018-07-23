@@ -1,3 +1,4 @@
+1. DEET is N,N-Diethyl-meta-toluamide or diethyltoluamide, none of which have letters that spell DEET sequentially.
 1. [Vaseline stood for "wasser" (water) + "-line" (oil)](http://en.wikipedia.org/wiki/Petroleum_jelly), and it is not a trademark name in Europe.
 1. Not only does hydrogen leak out of metal containers, it weakens the containers by making them [brittle](http://en.wikipedia.org/wiki/Hydrogen_embrittlement).
 1. Diphenylhydramine is a local anesthetic, and numbs the mouth when taken orally.
@@ -19,7 +20,7 @@
 1. A "therapeutic dose" of [something called "m"](https://www.reddit.com/r/Showerthoughts/comments/8cjc27/the_viagra_commercial_always_says_make_sure_your/dxfpd6o/?context=3) is 125mg initial dose with a 60mg booster dose (optional) ~3 hours later. It is unknown what the effects are.
 1. [**P** are problems.](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/?href=) Or, P are problems that can be solved polynomial time, so they are relatively easy problems. **NP** stands for "nondeterministic polynomial time", and can only be verified in polynomial time if you already have the answer. **BQP**, a special term for "problems that quantum computers can solve", can lie outside P or NP. These problems can only be solved by a quantum computer.
 1. [Sticky pine sap](https://survivalsherpa.wordpress.com/2015/02/05/16-uses-of-sticky-pine-sap-for-wilderness-survival-and-self-reliance/) is a fire starter.
-1. [Alkyl nitrites](https://en.wikipedia.org/wiki/Poppers) aka Poppers are gaseous recreational drugs. It is frequently inhaled to relax the throat and anal sphincter (may be useful in some situations). A common side effect is dacryoliths (tear duct stones).
+1. [Alkyl nitrites](https://en.wikipedia.org/wiki/Poppers) aka Poppers are gaseous recreational drugs. It is frequently inhaled to relax the throat and anal sphincter (may be useful in some situations). A common side effect is [dacryoliths](https://www.aao.org/bcscsnippetdetail.aspx?id=0d3651fc-5d1a-4e44-918f-12b65f95b26f) (tear duct stones).
 1. Solutions are usually water/alcohol based. Lotions are more water/alcohol than oil. Creams are 50/50 oil/water. [Ointments](https://en.wikipedia.org/wiki/Topical_medication#Ointment) are more oil than water.
 1. [Dysprosium](https://en.wikipedia.org/wiki/Dysprosium) is an element. That is its only purpose.
 1. Perfectly clean metal surfaces [will automatically weld together](https://youtube.com/watch?feature=youtu.be&v=Tx3djo_SsJ0) in a vacuum. Metallic atoms don't know about "surfaces" and bond together.

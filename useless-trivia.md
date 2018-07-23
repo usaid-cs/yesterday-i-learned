@@ -21,3 +21,4 @@
 1. Ellie Goulding cheated on Ed Sheeran. His song "Don't" was about them.
 1. Justin Timberlake was in [NSYNC](https://en.wikipedia.org/wiki/NSYNC).
 1. The gunslinger character in the original Westworld movie was a copy of Chris Adams, the protagonist of The Magnificent Seven. Same actor (Yul Brynner), same outfit.
+1. Hitler was born and died in an April.

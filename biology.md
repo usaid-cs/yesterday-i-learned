@@ -1,3 +1,8 @@
+1. [Pharyngitis](https://en.wikipedia.org/wiki/Pharyngitis), literally "throat inflammation", is the most common cause of a sore throat.
+1. [Not sleeping well](https://www.sciencenews.org/article/sleep-brain-alzheimers-plaques-protein), and [even sleeping with benadryl](https://www.health.harvard.edu/blog/common-anticholinergic-drugs-like-benadryl-linked-increased-dementia-risk-201501287667), are linked in increased incidences of dementia.
+1. The sterile cross Hong Kong orchid is plagued by diseases and is [doomed to die](http://www.bbc.com/earth/story/20161209-how-a-weird-hybrid-plant-ended-up-on-the-flag-of-hong-kong), just like Hong Kong.
+1. Urine and feces in pools irritate the eyes [more](https://www.smithsonianmag.com/smart-news/urine-not-chlorine-causes-red-eyes-pools-180955712/) than chlorine does.
+1. There is a vestigial tendon called the Palmeris Longus, that connects your palm to somewhere in your wrist. Originally used to climb trees, 10~15% of the population don't have this tendon. It is one of the first tendons taken out and reused elsewhere for cosmetic surgeries.
 1. [People who weigh less than 50kg/110lbs cannot donate blood.](https://blood.ca/en/blood/abcs-eligibility)
 1. Dick implants, medically called [penile prostheses](https://en.wikipedia.org/wiki/Penile_prosthesis), are salt water reservoirs that you can use to get your penis up by squeezing a pump in your scrotum. They last 10 years.
 1. A late upper wisdom tooth extraction can (not uncommonly) result in a hole between your mouth and your sinus, called a [oroantral fistula](https://www.quora.com/What-happens-if-a-wisdom-tooth-moves-into-the-sinus-cavity), that [require](https://www.facialart.com/2017/04/maxillary-sinus-perforation-following-tooth-extraction/) a lot of effort to fix and [prevent](http://www.washingtonoralsurgery.com/surgical-instructions/special-instructions-for-sinus-exposures/).
@@ -605,3 +610,5 @@
 1. If a dog licks its lips, [it is uncomfortable](http://www.thebalancedcanine.com/canine-language/). If it licks its lips when you're scolding it, then it probably knows it did something wrong.
 1. Your normal stride length is 77cm, plus or minus less than you think.
 1. There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
+1. "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
+1. Ejeculate "gloops" out of a vagina at different times, easily on the day after. (/u/Kiwi-98)

@@ -1,5 +1,10 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Formally disputed sources said that [Sudbury (the basin)](https://en.wikipedia.org/wiki/Sudbury_Basin) was caused by a comet impact.
+1. [Chris Pratt](https://en.wikipedia.org/wiki/Christopher_Pratt) (not the one you're thinking of) designed the flag for Newfoundland and Labrador.
+1. Newfoundland and Labrador [was](https://en.wikipedia.org/wiki/Newfoundland_and_Labrador#Dominion_of_Newfoundland) a British [Dominion](https://en.wikipedia.org/wiki/Dominion) (with a capital D, there's a distinction between the two) when the large bulk of Canada went independent. As a result of that, to this day, NL would celebrate Memorial day [on the same day as Canada day](https://en.wikipedia.org/wiki/Memorial_Day_%28Newfoundland_and_Labrador%29), because they had normally just celebrated Discovery Day on the 24th day of June.
+1. Canada was [1% away from losing Quebec](https://en.wikipedia.org/wiki/Quebec_referendum,_1995) in 1995. 
+1. Only 346 people voted for "Kitchener" for the [New Berlin rename](https://en.wikipedia.org/wiki/Berlin_to_Kitchener_name_change) in 1916. Other options were outright unpleasant. [Corona](https://www.coronaextra.ca/)? [Adanac](https://en.wikipedia.org/wiki/Adanac,_Nipissing_District,_Ontario)?
 1. [Bereavement leave is 3 days](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/bereavement-leave.html), starting from the day of the death.
 1. [Lumberjack](https://en.wikipedia.org/wiki/Lumberjack) is a Canadian term, but [lumberjill](http://www.bbc.co.uk/history/ww2peopleswar/stories/68/a4682568.shtml) might also have been used during the second world war in Scotland.
 1. [KGV][insidehalton] proclaimed Canada's colours to be red and white. Dr. George Stanley recommended so simply because red and white are clearly visible -- the same reason the Nazi party chose red, white, and black.
