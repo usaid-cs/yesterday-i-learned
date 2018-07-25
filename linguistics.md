@@ -1,3 +1,4 @@
+1. [The word gymnasium comes from the Ancient Greek word gymnós meaning "naked".](https://boston.cbslocal.com/2018/07/23/planet-fitness-naked-man-eric-stagno-arrest-judgment-free-zone-plaistow/)
 1. Words like "gosh" and "darn" are called [minced oaths](https://en.wikipedia.org/wiki/Minced_oath).
 1. French has a lot of homophones. [/u/--xra's pet theory about the French](https://www.reddit.com/r/French/comments/90ein7/the_youryoure_theirtheyre_equivalent_mistakes_in/e2pwxkm/) was "that French people don't actually understand one another. Every word in French sounds just about the same as every other word, so I think they just say what's on their mind and pretend to understand the person they're talking to through gestures."
 1. "Somewhere along those lines" beats "something along those lines" 2:1.
@@ -243,3 +244,4 @@
 1. "Celt" ultimately came from Greek *Keltoi* ("barbarian") and is pronounced with a hard K.
 1. [Adapter](https://stackoverflow.com/questions/2076321/adapter-or-adaptor) may be spelled "adaptor" if you live on an island.1. An English subset called [E-Prime][wikipedia 141] prohibits all variants of the phrase "to be", so as to make the language less ambiguous. This may be useful (see what I did there) for docstrings.
 1. According to this repo, RSTLNE are not the most common letters. TSNRH are the 5 most popular consonants, and E is the most common vowel. You should pick CDHA, rather than the usual CDMA.
+1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"](https://en.wikipedia.org/wiki/Japanese_honorifics#San)

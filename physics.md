@@ -15,3 +15,5 @@
 1. [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication) (communicating instantly through quantum entanglement) is believed to be impossible because, in a Lorentz-invariant theory, it could be used to [transmit information into the past](https://en.wikipedia.org/wiki/Tachyonic_antitelephone).
 1. Running in the rain: given `total rain rate = (rate from top * seconds outdoors) + (rate from side * seconds walking)`, you get less wet if you stand still from time A to time B, and less wet if you run from point A to point B.
 1. Space movies almost never depict explosions correctly. [There is no fire (or very little of it)](https://www.reddit.com/r/interestingasfuck/comments/90gkle/exploding_model_ships_cotton_balls_leds/e2qf461/), the fragments would travel at the same speed as the vehicle they came from, and it would quickly distinguish because there is no air.
+1. To the moon, the Earth is a thing in the sky that stays in position all the time.
+1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)

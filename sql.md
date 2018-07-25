@@ -69,6 +69,7 @@
 * Selecting `->2` gives you the second (not "2th") item in a json list. Selecting [`->'2'`](https://www.postgresql.org/docs/9.3/static/functions-json.html) gives you the value of a json object's `2` key.
 * There is no good way to [monitor your indexing progress](https://dba.stackexchange.com/questions/11329/monitoring-progress-of-index-construction-in-postgresql). The closest you have is a giant query [here](https://dba.stackexchange.com/a/161992/41651).
 * [`timestamp without time zone AT TIME ZONE zone`](https://www.postgresql.org/docs/9.6/static/functions-datetime.html#FUNCTIONS-DATETIME-ZONECONVERT) obviously gives you a timestamp *with* time zone. `timestamp with time zone AT TIME ZONE zone` obviously gives you a timestamp *without* time zone. Doing `at timezone utc at timezone utc at timezone utc...` also [switches between UTC and not UTC](https://twitter.com/garybernhardt/status/1011388486190968832), depending on how many times you repeat it. [By design.](https://www.postgresql.org/message-id/CAKFQuwYeHxefXOWmF_fXOM%3DMfR%3DQOz%3DUas-HNz5_fA%3DR-koUfw%40mail.gmail.com) Obviously.
+* Apart from [preserving key order](https://www.postgresql.org/docs/9.4/static/datatype-json.html), there is [no real advantage to storing JSON as `JSON`](https://www.sisense.com/blog/postgres-vs-mongodb-for-storing-json-data/) rather than `JSONB`. Other `JSON` perks include: preserving whitespace. [Possibly faster writes](https://docs.djangoproject.com/en/1.10/ref/contrib/postgres/fields/#django.contrib.postgres.fields.JSONField).
 
 ## Performance
 

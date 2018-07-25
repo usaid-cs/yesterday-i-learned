@@ -1,3 +1,7 @@
+1. As you age, [decreasing neuroplasticity prevents learning of new skills](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622463/) that you can later apply to unrelated things.
+1. People who don't get [mono](https://en.wikipedia.org/wiki/Infectious_mononucleosis) until late game are more likely to get serious issues, like the spleen rupturing.
+1. [正確名稱是蕁麻疹，俗稱風癩，又稱為風疹。](https://hk.answers.yahoo.com/question/index?qid=20070219000051KK01348)
+1. Rubbing a tiger shark the wrong way, which has directional dermal scales, [can](http://www.vetstreet.com/our-pet-experts/shark-week-12-fascinating-facts-to-know) potentially hurt you (think sandpaper).
 1. [Pharyngitis](https://en.wikipedia.org/wiki/Pharyngitis), literally "throat inflammation", is the most common cause of a sore throat.
 1. [Not sleeping well](https://www.sciencenews.org/article/sleep-brain-alzheimers-plaques-protein), and [even sleeping with benadryl](https://www.health.harvard.edu/blog/common-anticholinergic-drugs-like-benadryl-linked-increased-dementia-risk-201501287667), are linked in increased incidences of dementia.
 1. The sterile cross Hong Kong orchid is plagued by diseases and is [doomed to die](http://www.bbc.com/earth/story/20161209-how-a-weird-hybrid-plant-ended-up-on-the-flag-of-hong-kong), just like Hong Kong.

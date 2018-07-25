@@ -1,3 +1,9 @@
+1. A [hostile bid](https://www.investopedia.com/terms/h/hostile-bid.asp) is a takeover bid that is similar to a [hostile takeover bid](https://www.investopedia.com/terms/h/hostile-takeover-bid.asp)? In a hostile bid, you [convince](https://www.investopedia.com/terms/t/tenderoffer.asp) the shareholders to sell you shares, even if management doesn't like it.
+1. [Throwing in *the* towel](https://idioms.thefreedictionary.com/throw+in+the+towel), from boxing, means to quit, give up, or stop trying.
+1. Secret gists are still publicly readable if the links are leaked.
+1. (Some) supercomputers are sold to [governments](https://en.wikipedia.org/wiki/Communications_Security_Establishment#Code_breaking_equipment) for code breaking.
+1. Present your strengths and weaknesses via short stories, in the "job hunting is 60% networking" that you have to do.
+1. You won't believe it. [Flirting](https://www.wikihow.com/Flirt) just means appearing interested in someone.
 1. Princess Zelda was based on [Zelda Fitzgerald](https://en.wikipedia.org/wiki/Zelda_Fitzgerald), a socialite in the 1900s. Like many socialites, she became crazy, got locked up in a hospital (for reasons?), and died when the hospital burned down.
 1. With no relation to each other, [both Java and JavaScript came out in 1995](https://en.wikipedia.org/wiki/JavaScript#JavaScript_and_Java). Java was made by a [James](https://en.wikipedia.org/wiki/James_Gosling), while JavaScript by a [Brendan](https://en.wikipedia.org/wiki/Brendan_Eich).
 1. The likelihood of a marriage lasting is [not linearly correlated to the number of sexual partners you had before](https://ifstudies.org/blog/counterintuitive-trends-in-the-link-between-premarital-sex-and-marital-stability/). Women who had three sexual partners are paradoxically less likely to get a divorce, compared to the women who had two.
@@ -396,7 +402,6 @@
 1. Lenses with larger apertures (e.g. f/1.5) have more issues with chromatic aberration than lenses [of the same quality] with smaller apertures.
 1. [Eats, shoots & leaves](https://en.wikipedia.org/wiki/Eats,_Shoots_%26_Leaves) can either be a book about punctuation, or [a restaurant-brothel](https://www.reddit.com/r/IAmA/comments/88u7va/iama_legal_working_girl_prostitute_courtesan_of/dwnif2a/).
 1. [Black crush](https://www.reddit.com/r/GooglePixel/comments/7i2xpr/pixel_2_black_crush_and_the_color_options/) refers to the ability to see different shades of black on a screen.
-1. **Finite**: an exact number N. **Unbounded**: anything below finite number N.
 1. People in the middle ages [didn't](http://www.slate.com/blogs/quora/2013/12/24/did_people_in_the_middle_ages_throw_excrement_out_windows.html) throw poop out of doors.
 1. "French food on tiny plates" is called [*Haute cuisine*](https://en.wikipedia.org/wiki/Haute_cuisine), or "high cuisine". *Haute cuisine* focuses on the cost of making elaborate preparations (as costly as possible) rather than the amount or value.
 1. Lynching is justice punishment by mob. It does not specify the method.
@@ -737,7 +742,6 @@
 1. "The reason they call it the American Dream is because you have to be asleep to believe it." - George Carlin
 1. "Geoffrey dollars" are Toys R Us gift cards.
 1. One example of shitty Swedish exports is Absolut vodka.
-1. Person has son in it. How aren't the feminists livid right now? It should be Perperperperperperper...
 1. HDMI cables with the HDMI logo are 10 cents cheaper to licence than if the logo were omitted.
 1. On 2012-11-07, [you won](http://www.bulletin.uwaterloo.ca/2012/nov/07we.html) what was remembered as a chocolate bar.
 1. [Dolly](https://imgur.com/ZGdQJ5K) refers to camera movement along the Z axis (towards/away from the cameraman). Going from side to side is called Truck left/right.
@@ -1199,7 +1203,6 @@
 1. The smoke is said to be the essence of electronics. Letting the [magic smoke](https://en.wikipedia.org/wiki/Magic_smoke) out will make it not work. Thus it introduced the term "smoke testing", to ensure the magic smoke stays in the box.
 1. [Sikhs wrap their hair and never cut or shave: "My Sikh shall not use the razor. For him the use of razor or shaving the chin shall be as sinful as incest."](https://en.wikipedia.org/wiki/Kesh_%28Sikhism%29) Except, [it is hard to find Sikhs that doesn't shave their beards](https://www.quora.com/Why-are-so-many-Sikhs-now-trimming-their-beards). "In last 10 years or so, i have realised that Sikhism nosedived big time. Blame it on fashion or laziness of Sikhs who find it hard to squeeze out time to tie beard and turban."
 1. [Equity dilution is enormous when multiplied by rounds.](https://techcrunch.com/2011/10/13/understanding-how-dilution-affects-you-at-a-startup/) However, some of the time, this dilution is offset by the increase in valuation between rounds ("maybe you are worth more now")
-1. Wait, how did [Sarah McLachlan](https://www.youtube.com/watch?v=J5rhHZLdYxM) turn into [this](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sarah_McLachlan_29_July_2010.jpg/1200px-Sarah_McLachlan_29_July_2010.jpg)?
 1. [**The Earth is flat.**](https://wiki.tfes.org/Frequently_Asked_Questions) All cameras are flawed. Ships and planes prove our point. No one has gone to the South Pole and lived. The Earth is propped up by a giant U-shaped magnet. The Earth has been accelerating upwards for thousands of years at 9.81m/s/s (so, now travelling at around 2 trillion m/s). At this great speed we have a tiny sun and tiny moon still above the spy, shining just the Earth (and some other spherical planets... no idea why they are spherical though). *This is not a joke, and We are not kidding.*
 1. [🅰🆈🆈 🅻🅼🅰🅾](http://www.unicode.org/charts/beta/nameslist/n_1F100.html) has no Vietnamese characters in it.
 1. [Round trip time between two instances in the same datacenter](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html) is around 1ms.
@@ -1953,7 +1956,6 @@
 1. To train vocals, talk with a pencil in your mouth for a few minutes.
 1. To train vocals, sing through your closed lips for a few minutes.
 1. If objects have infinite density, then the [Banach–Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
-1. Aluminium is recycled by passing currents through it, which makes it temporarily magnetic.
 1. [Pavers](https://en.wikipedia.org/wiki/Pavement_%28architecture%29) are bricks with no holes, meant for paving. [Cinder blocks](https://en.wikipedia.org/wiki/Concrete_masonry_unit) are bricks with big holes.
 1. 李時珍 happened only 500 odd years ago.
 1. [Deaf-from-birth schizophrenics see disembodied hands signing to them rather than hearing voices.](https://www.ucl.ac.uk/news/news-articles/0707/07070303).
@@ -1965,7 +1967,6 @@
 1. Answering "do you know why I pulled you over" honestly [appears to have less negative consequences](https://www.reddit.com/r/LifeProTips/comments/60o1tq/lpt_do_you_know_why_i_pulled_you_over_translates/), if the police is actually just checking if you know you messed up.
 1. The 13th character of a UUID4 string is always 4. UUID1 does not have this problem, but since the [UUID1 hash is based on the MAC address and time](http://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python), it predictably collides whenever two of them are generated less than ~1us of each other.
 1. "Jedi" is both singular and plural, but to annoy Star Wars fans, you can use "Jedus" for singular, and "Jedis" for plural.
-1. To the moon, the Earth is a thing in the sky that stays in position all the time.
 1. Powers said that many homeless individuals will throw away socks and other clothing when they get dirty because they simply cannot afford to wash them. That, he said, presents an impossible choice—[do laundry, or go hungry.](http://www.nbcbayarea.com/news/local/Apple-Engineer-Converts-Used-Van-Into-Mobile-Laundromat-Offers-Free-Loads-to-Homeless-416489533.html)
 1. The Japanese un-turn-off-able shutter sound can be defeated by [playing the negative sound at the same time](http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono/23758876#23758876).
 1. ["Cowlick"](https://en.wikipedia.org/wiki/Cowlick) refers to the part of the haircut where it points at you, making it look like you have no hair there.
@@ -2577,7 +2578,6 @@
 1. Three-toed sloths are mostly diurnal, while two-toed sloths are nocturnal. Sloths are also known to urinate once a week.
 1. "Shinny" is another word for [pickup hockey][imgur 9].
 1. In the order of increasing formality: Bō (坊, boy), Chan, Kun (君, male), San, Shi (氏, people you have never met), Sama (様).
-1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"][wikipedia 167]
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
 1. You can set your TTL as low as you want; DNS servers just [won't honour it][serverfault]. Even if they do, low TTLs increase load on the DNS.
 1. VLC was made [just to let some students justify the funding for faster networks][ycombinator 7].  "We need [to build] something that uses a ton of bandwidth, let's make a video streaming app". The VLC icon was from a [story about a VLC member stealing a cone while intoxicated][videolan].
@@ -2912,7 +2912,6 @@
 1. Licencing under GPL is probably good, but [joining the GNU is probably a bad idea](https://libreboot.org/why-not-gnu/). Reasons mostly surround the loss of project decision making, as well as odd project toolchain requirements.
 1. The [Hammer unit](https://wiki.teamfortress.com/wiki/Hammer_unit) is Source Engine's smallest unit of distance, 1/16th of a foot (around 2cm).
 1. Archaic term [*Hondo*](http://www.urbandictionary.com/define.php?term=hondo) referred to "an old John Wayne movie".
-1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
 1. In MMA, it is a legal move to end a fighter's career by straight kicking the opponent's thigh in an attempt to hyperextend the knee.
 1. [Quincunx](https://en.wikipedia.org/wiki/Quincunx) is the special word for the 5-dot pattern on a die.
 1. [Cops are the fattest.](http://time.com/3637967/police-officers-fattest-profession-study/) Probably from all the donuts.
@@ -3328,7 +3327,6 @@
 [wikipedia 163]: https://en.wikipedia.org/wiki/Straw_man
 [wikipedia 164]: https://en.wikipedia.org/wiki/Target_fixation
 [wikipedia 166]: https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana
-[wikipedia 167]: https://en.wikipedia.org/wiki/Japanese_honorifics#San
 [wikipedia 169]: https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise
 [wikipedia 17]: https://en.wikipedia.org/wiki/Sleeper_effect
 [wikipedia 170]: https://en.wikipedia.org/wiki/Pure_function

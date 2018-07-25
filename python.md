@@ -433,7 +433,7 @@ bar
 1. ["`str.encode()` always returns `bytes`, and `bytes.decode()` always returns `str`."](https://docs.djangoproject.com/en/1.10/topics/python3/)
 1. jupyter notebooks are a thing because people want to inline markdown with code. I am guessing you can do a lot of creative things from there.
 1. [`ctypes`](https://docs.python.org/2/library/ctypes.html) does not just offer C types; it also allows external library functions to be called.
-1. `2` is an available PyPI package name because you can't `import 2`. Still, `1` is taken for no reason.
+1. `2` is an available PyPI package name because you can't `import 2`. Still, [`1`](https://pypi.org/project/1/) is taken for no reason.
 1. [`EnvironmentError`, `IOError`, and `WindowsError`](https://docs.python.org/3/library/exceptions.html#EnvironmentError) are all aliases for `OSError` in python3.
 1. The only free version of python supported on Google App Engine is 2.7.
 1. [`isoweekday`](https://docs.python.org/2/library/datetime.html#datetime.date.isoweekday) is 1-indexed, with 7 being Sunday, because, I don't know.
@@ -442,6 +442,7 @@ bar
 1. Unlike what [this page](https://medium.com/@wpcarro/tuples-in-javascript-57ede9b1c9d2) suggests, there are no `namedtuple` literals like `color = (red=255, green=0, blue=0)`. Not in 2, not in 3.
 1. VS code (when used for python) lacks "find usages" and "import this thing", but [people like it](https://www.slant.co/versus/1240/5982/~pycharm_vs_visual-studio-code).
 1. `async` can go with the `with` statement as well (i.e. `async with`). See [here](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python) for other concurrency-related examples.
+1. There is a handy [`contextlib.closing`](https://docs.python.org/2/library/contextlib.html#contextlib.closing)`(some_connection()) as connection` thing that you can use to make sure a thing closes when the block exits.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

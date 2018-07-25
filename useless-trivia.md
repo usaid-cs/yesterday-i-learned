@@ -22,3 +22,4 @@
 1. Justin Timberlake was in [NSYNC](https://en.wikipedia.org/wiki/NSYNC).
 1. The gunslinger character in the original Westworld movie was a copy of Chris Adams, the protagonist of The Magnificent Seven. Same actor (Yul Brynner), same outfit.
 1. Hitler was born and died in an April.
+1. Wait, how did [Sarah McLachlan](https://www.youtube.com/watch?v=J5rhHZLdYxM) turn into [this](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sarah_McLachlan_29_July_2010.jpg/1200px-Sarah_McLachlan_29_July_2010.jpg)?

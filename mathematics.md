@@ -6,3 +6,4 @@
 1. The [Gamma function](https://en.wikipedia.org/wiki/Factorial#Extension_of_factorial_to_non-integer_values_of_argument) (a definite integral) defines factorials for non-integer numbers, except negative integers. Gamma(n) still equals to the usual values when n is an integer, but the graph shows that negative integers resolve to either positive or negative infinity (undefined).
 1. "P-hacking" is doing an experiment with no particular aim in mind. You do an experiment, record all observations, find two attributes (sometimes not even your original hypothesis) that corrolate with each other, and publish it in a paper.
 1. *O(n!)* is worse than *O(2^n)* for anything higher than *n=3.459*.
+1. **Finite**: an exact number N. **Unbounded**: anything below finite number N.

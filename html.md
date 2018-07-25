@@ -45,6 +45,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 1. The point of [CORB](https://fetch.spec.whatwg.org/#corb) is to ensure what the client requested is what the client wanted; requesting a `text/plain` to be displayed in an `<img>` tag would be blocked because it is impossible.
 1. On `defer` vs `async`: `defer` [downloads scripts in parallel, and then waits for HTML parsing to finish, *and then* executes the script when HTML is done](https://developers.google.com/web/fundamentals/primers/modules). `async` downloads scripts in parallel, but executes the script as soon as it is downloaded, blocking HTML parsing.
 1. Progressive Web Apps must be served over HTTPS.
+1. `<input type="email">` allows empty strings because that's just how it is without `required="required"`.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 
