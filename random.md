@@ -1,3 +1,5 @@
+1. A casket is generally rectangular (four-sided). A coffin is one of those angled versions that tapers downwards *towards* the body's feet (six-sided).
+1. [Pulau Satumu](https://en.wikipedia.org/wiki/Pulau_Satumu) is an island in Singapore. Its name means "one tree", but the island has more than one tree.
 1. Braiding involves three strands of something, and moving the outermost strand into the middle. Repeat until there is no remaining length. No idea what to do once you have no length left.
 1. [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau) is the shade of black that people report seeing in the absence of any light. It is `#16161d`. The amount of light supposedly comes from the "thermal isomerization of rhodopsin", or photoreceptors that misfire at about 100 times per second.
 1. Cruise ships earn money by [forcing you to buy expensive essentials on board](https://www.youtube.com/watch?v=ZY1BFv8qEeM), e.g. food, drinks, and gambling in International waters.
