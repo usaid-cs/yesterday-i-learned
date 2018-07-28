@@ -1,0 +1,77 @@
+<html>
+    <head>
+        <style>
+            html {
+                background: #444;
+            }
+            body {
+                background: #f0f0f0;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 15px;
+            }
+            #keyword {
+                background: white;
+                width: 100%;
+                padding: 6pt;
+                border-radius: 3pt;
+                border: 1px #ccc solid;
+                font-size: 12pt;
+                margin: 10pt 0;
+            }
+            #results {
+                font-family: monospace;
+                white-space: pre-wrap;
+                line-height: 1.5;
+                margin: 15px 0;
+            }
+        </style>
+    </head>
+    <body>
+        <input type="text" id="keyword" onkeyup="doSearch()">
+        <div id="results"></div>
+    </body>
+
+    <script>
+        const base = 'https://cdn.rawgit.com/1337/yesterday-i-learned/master/';
+        let directory = `${base}README.md`;
+        let facts;
+        fetch(directory, {method: 'get'})
+            .then((response) => response.text())
+            .then((resp) => {
+                return resp
+                    .split('\n')
+                    .filter((line) => {
+                        if (line.indexOf('*') === 0) return line;
+                    })
+                    .map((line) => {
+                        return line.match(/\((.+)\)/)[1];
+                    });
+            })
+            .then((fileNames) => {
+                let fullUrls = fileNames.map((fn) => `${base}${fn}`);
+                let requests = fullUrls.map((url) => {
+                    return fetch(url).then((response) => response.text())
+                });
+                Promise.all(requests).then((tils) => {
+                    facts = ''.concat(...tils);
+                });
+            });
+
+        function search(str) {
+            if (!facts) return;
+            return facts.match(new RegExp(`^.*${str}.*$`, 'igm'));
+        }
+
+        function doSearch() {
+            let el = document.getElementById('keyword');
+            if (!el.value) return;
+            if (el.value.length <= 3) return;
+            let results = search(el.value);
+            setTimeout(() => {
+                document.getElementById('results').innerHTML =
+                    results.join('\n');
+            }, 0);
+        }
+    </script>
+</html>

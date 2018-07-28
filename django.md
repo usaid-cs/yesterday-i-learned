@@ -40,16 +40,16 @@
 * [Django-pandas](https://github.com/chrisdev/django-pandas/) does exactly what you think it'd do: convert a queryset into a dataframe. Basically, you are working with tables.
 
 ## Views / Templating
-* the `{% django_js %}` tag cannot be compressed!
+* the `django_js` tag cannot be compressed!
 * To override a template that is defined in a package, configure your `TEMPLATE_DIRS` variable to let your own `templates` directory have a higher lookup priority.
 * Adding `{{ block.super }}` inside a block retains whatever was in the block in the parent template.
-* [assignment tags](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#assignment-tags): `{% some_assignment_tag param1 param2 param3... as variable_you_can_use_below %}`
+* [assignment tags](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#assignment-tags): `some_assignment_tag param1 param2 param3... as variable_you_can_use_below`
 * Template rendering is apparently [multi-threaded](https://docs.djangoproject.com/en/1.7/howto/custom-template-tags/#thread-safety-considerations).
 * The result of calling `build_absolute_uri()` on a fake Request gives you `http://testserver/(...)`.
 * [Generic model serializer](http://ihackernews.com/comments/8971480)
 * [`authenticate()`](https://docs.djangoproject.com/en/1.6/topics/auth/default/#django.contrib.auth.authenticate) checks the credentials; `login()` actually logs the user in.
 * The act of initialising a `QueryDict` [already parses the query string](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.QueryDict.__init__). There is no need to use urlparse.
-* Expressions in `{% blocktrans %}{{ this thing }}{% endblocktrans %}` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
+* Expressions in `blocktrans {{ this thing }} endblocktrans` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
 
 ## REST Framework
 
