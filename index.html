@@ -1,14 +1,24 @@
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
+            * {
+                box-sizing: border-box;
+            }
             html {
                 background: #444;
             }
             body {
                 background: #f0f0f0;
-                max-width: 800px;
+                width: 800px;
+                max-width: 100%;
                 margin: 0 auto;
                 padding: 15px;
+            }
+            h1 {
+                text-align: center;
+                font-family: sans-serif;
+                margin: 10px 0;
             }
             #keyword {
                 background: white;
@@ -28,12 +38,14 @@
         </style>
     </head>
     <body>
-        <input type="text" id="keyword" onkeyup="doSearch()">
+        <h1>YIL</h1>
+        <input type="text" id="keyword" onkeyup="doSearch()" autofocus>
         <div id="results"></div>
     </body>
 
     <script>
         const base = 'https://cdn.rawgit.com/1337/yesterday-i-learned/master/';
+        const resultsEl = document.getElementById('results');
         let directory = `${base}README.md`;
         let facts;
         fetch(directory, {method: 'get'})
@@ -69,8 +81,11 @@
             if (el.value.length <= 3) return;
             let results = search(el.value);
             setTimeout(() => {
-                document.getElementById('results').innerHTML =
-                    results.join('\n');
+                if (results && results.length) {
+                    resultsEl.innerHTML = results.join('\n');
+                } else {
+                    resultsEl.innerHTML = 'No results';
+                }
             }, 0);
         }
     </script>
