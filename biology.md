@@ -1,3 +1,4 @@
+1. [Fire ants](https://en.wikipedia.org/wiki/Fire_ant) (spicy bois) not only bite and spray acid, which most ants do, but they also inject [Solenopsin](https://en.wikipedia.org/wiki/Solenopsin) venom, which feels like being burned.
 1. As you age, [decreasing neuroplasticity prevents learning of new skills](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622463/) that you can later apply to unrelated things.
 1. People who don't get [mono](https://en.wikipedia.org/wiki/Infectious_mononucleosis) until late game are more likely to get serious issues, like the spleen rupturing.
 1. [正確名稱是蕁麻疹，俗稱風癩，又稱為風疹。](https://hk.answers.yahoo.com/question/index?qid=20070219000051KK01348)
@@ -616,3 +617,4 @@
 1. There are many kinds of fats; [brown fats](http://en.wikipedia.org/wiki/Brown_adipose_tissue) are metabolically more active than white fats, so it is better. It is also associated with heat generation in hibernating mammals.
 1. "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
 1. Ejeculate "gloops" out of a vagina at different times, easily on the day after. (/u/Kiwi-98)
+1. After getting the stomach cut open, the C-section recipient (male, female, or other combinations of kins) is encouraged to breastfeed.

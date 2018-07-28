@@ -23,3 +23,7 @@
 1. The gunslinger character in the original Westworld movie was a copy of Chris Adams, the protagonist of The Magnificent Seven. Same actor (Yul Brynner), same outfit.
 1. Hitler was born and died in an April.
 1. Wait, how did [Sarah McLachlan](https://www.youtube.com/watch?v=J5rhHZLdYxM) turn into [this](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sarah_McLachlan_29_July_2010.jpg/1200px-Sarah_McLachlan_29_July_2010.jpg)?
+1. Alan Rickman once played a catapillar Alice picked off a man's shoulder.
+1. Trevor Noah's [imitation of the Zambian accent](https://www.youtube.com/watch?v=n7GxnhQjBaw) sounds a bit like the Singaporean one.
+1. ["Amazeballs"](https://www.urbandictionary.com/define.php?term=Amazeballs) was invented by blogger Perez Hilton. He kept repeating it until people follow. Like sheep.
+1. Harrison Ford is Indiana Jones.

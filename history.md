@@ -1,3 +1,5 @@
+1. Russian soldiers wrapped [rags on their feet](https://russiapedia.rt.com/of-russian-origin/portyanki/) as socks.
+1. African-American motorists had [green books](https://en.wikipedia.org/wiki/The_Negro_Motorist_Green_Book) with them, a guide that shows them where to find places that were friendly to negroes as they drove.
 1. [Free love](https://en.wikipedia.org/wiki/Free_love) died because of drugs, and because the hippies realised they opened their minds but accomplished nothing.
 1. The [Kingdom of Dalmatia](https://en.wikipedia.org/wiki/Kingdom_of_Dalmatia) got the really short end of the stick when [Croatia](https://en.wikipedia.org/wiki/Croatia) decided to make [a new flag](https://en.wikipedia.org/wiki/Flag_of_Croatia). Apparently the tiny bits of yellow on that flag (try spotting it) was enough to symbolise the Kingdom of Dalmatia.
 1. [The Brits were originally smuggling opium into (Hong Kong, coasts et al.) to get silver from the trade](https://youtu.be/StW7oGSR_Mg), which was the only currency the imperial Chinese government accepted at the time for tea exports. They colonised the place *for tea*.
@@ -53,3 +55,6 @@
 1. The Nazis plotted to [print fake UK banknotes and throw them all over the island](https://en.wikipedia.org/wiki/Operation_Bernhard) to collapse the economy. It didn't work.
 1. [A volcano](http://www.npr.org/sections/krulwich/2012/10/22/163397584/how-human-beings-almost-vanished-from-earth-in-70-000-b-c) ("Toba") wiped out almost everyone 70000 years ago.
 1. Hats were worn secondarily because hair was washed weekly instead of daily. Oddly enough, Hitler didn't wear a hat, 10 years before the trend started in the US. As an aside, Adolf means "noble wolf."
+1. Fresh eggs are not available during the (second world) war. They had pure [dried eggs](https://en.wikipedia.org/wiki/Powdered_eggs) instead. Dried eggs have a shelf life of 5 to 10 years (if stored properly).
+1. In the Victorian times, if a dressed woman had to defecate, [the whole dress is coming off.](http://www.huffingtonpost.com/quora/how-did-victorian-women-u_b_12969780.html) The "pantalette" part of the thing is crotchless, so a woman can air out the bacteria-infested portions all day long, and urinate [relatively easily](https://www.youtube.com/watch?v=NUHeSTDv_24).
+1. Mona says that [the song starting with "O say can you see"](https://www.youtube.com/watch?v=YaxGNQE5ZLA) was a story about the Brits bombing the flag, but the Americans propped it up with bodies.

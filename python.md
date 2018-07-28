@@ -443,6 +443,7 @@ bar
 1. VS code (when used for python) lacks "find usages" and "import this thing", but [people like it](https://www.slant.co/versus/1240/5982/~pycharm_vs_visual-studio-code).
 1. `async` can go with the `with` statement as well (i.e. `async with`). See [here](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python) for other concurrency-related examples.
 1. There is a handy [`contextlib.closing`](https://docs.python.org/2/library/contextlib.html#contextlib.closing)`(some_connection()) as connection` thing that you can use to make sure a thing closes when the block exits.
+1. A return statement in the `finally` block will return before a return statement in your `try` block returns.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -7,3 +7,5 @@
 1. "P-hacking" is doing an experiment with no particular aim in mind. You do an experiment, record all observations, find two attributes (sometimes not even your original hypothesis) that corrolate with each other, and publish it in a paper.
 1. *O(n!)* is worse than *O(2^n)* for anything higher than *n=3.459*.
 1. **Finite**: an exact number N. **Unbounded**: anything below finite number N.
+1. [Multifactorials](http://www.mathcelebrity.com/multifactorial.php): factorials that don't go down by 1. `12!! = 12 * 10 * 8 * ...`. `12!!! = 12 * 9 * 6 * 3`.
+1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).

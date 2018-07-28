@@ -134,3 +134,4 @@
 1. Microscopic glass cracks get bigger as you drop the phone more often.
 1. [Hands rely on keratin softening from moisture from sweat to improve grip.](http://www.pnas.org/content/early/2017/09/19/1706233114.full)
 1. Aluminium is recycled by passing currents through it, which makes it temporarily magnetic.
+1. Salt and vinegar chips are "artificially flavored". They are sprinkled with sodium acetate, which conveys the flavors of salt and vinegar while not technically being either.

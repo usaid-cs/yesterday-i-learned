@@ -15,7 +15,7 @@
 1. If gradle is too old, update the `classpath 'com.android.tools.build:gradle:2.1.2'`... in the gradle file. Gradle will update itself. [True fact.](http://stackoverflow.com/questions/17634708/android-studio-upgraded-from-0-1-9-to-0-2-0-causing-gradle-build-errors-now/17648742#17648742)
 1. Order in the layout xml files matters.
 1. The project's JDK settings is in File > Project Structure, which is not in Settings for studio.
-1. If you don't know what the fresh hell you are doing, [here is a layouts cheat sheet](http://labs.udacity.com/images/Layout-Cheat-Sheet.pdf).
+1. If you don't know what fresh hell you are doing, [here is a layouts cheat sheet](http://labs.udacity.com/images/Layout-Cheat-Sheet.pdf).
 1. Accessing the Internet on the main thread, get this, raises the `NetworkOnMainThreadException`.
 1. [AsyncTask](http://stackoverflow.com/questions/3921816/can-i-pass-different-types-of-parameters-to-an-asynctask-in-android) takes just one type of parameter, but you can use "the setter" (?) to use additional types, or simply [pass in an `Object`](http://stackoverflow.com/a/9077177) and re-cast from there.
 1. ["The difference between Handler and AsyncTask is: Use AsyncTask when Caller thread is a UI Thread."](http://stackoverflow.com/a/9800870)
@@ -40,3 +40,4 @@
 1. IDs are under_scored. Variables are camelCased, As always, because reasons.
 1. It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
+1. The API level of a [pre-release](https://developer.android.com/studio/releases/platforms#P_preview) version of Android is not a number. For P preview, the API level is just "P".

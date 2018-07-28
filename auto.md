@@ -165,3 +165,4 @@
 1. If you get a quote from a car repair shop (in Ontario), [the max amount they can overcharge for other repairs is 10%](https://www.ontario.ca/page/car-repair-shops-your-rights) IF you respond in time (i.e. before they put the car back together). Parts and labour also have a mandatory 90-day/5000-km warranty, whichever one comes first.
 1. And if you don't pay for a repair, the shop can just seize and sell your car. So the trick is to buy a car that is worthless when sold.
 1. Depending on the trim, the [2017 Tacoma](https://www.toyota.ca/toyota/en/vehicles/tacoma/overview) has either the badge on the front (normal ones) or `T O Y O T A` (TRD pro). In other news, "oh yeah, the 2015 Yaris is so ugly, they can't possibly make it wors-[well what do you know.](https://preview2.netcarshow.com/Toyota-Yaris-2017-1600-0e.jpg)"
+1. [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).

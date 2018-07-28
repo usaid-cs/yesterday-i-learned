@@ -1,10 +1,12 @@
-* **Tail call optimisation** refers to the behaviour in recursive functions for when a true function (one that has no side effects) calls itself again as the only operation in the last statement, allowing the computer to run that function while preserving the function's address space.
-* **Class P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as *quickly solvable*.
-* **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as *quickly checkable/verifiable*.
-* **NP-Complete** problems are problems that are both NP and NP hard.
-* The [null object pattern](https://en.wikipedia.org/wiki/Null_Object_pattern) involves overloading a function with one that specifically handles the base case of "null".
-* A [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) has nothing to do with blooming; it was just named after a guy called Burton Bloom. It is a space-efficient set that can give you false positives (something is in the list), but never false negatives (something is not in the list).
-* The [Big O Cheat Sheet](http://bigocheatsheet.com/) ranks everything except O(1), O(n), and O(log n) as "bad" or worse.
+1. **Tail call optimisation** refers to the behaviour in recursive functions for when a true function (one that has no side effects) calls itself again as the only operation in the last statement, allowing the computer to run that function while preserving the function's address space.
+1. **Class P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as *quickly solvable*.
+1. **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as *quickly checkable/verifiable*.
+1. **NP-Complete** problems are problems that are both NP and NP hard.
+1. The [null object pattern](https://en.wikipedia.org/wiki/Null_Object_pattern) involves overloading a function with one that specifically handles the base case of "null".
+1. A [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) has nothing to do with blooming; it was just named after a guy called Burton Bloom. It is a space-efficient set that can give you false positives (something is in the list), but never false negatives (something is not in the list).
+1. The [Big O Cheat Sheet](http://bigocheatsheet.com/) ranks everything except O(1), O(n), and O(log n) as "bad" or worse.
+1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
+1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 
 # Being a developer
 

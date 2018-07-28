@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Regina and Saskatoon are the first major cities on the list of [Canada's most dangerous cities](https://www.macleans.ca/canadas-most-dangerous-places/).
 1. Formally disputed sources said that [Sudbury (the basin)](https://en.wikipedia.org/wiki/Sudbury_Basin) was caused by a comet impact.
 1. [Chris Pratt](https://en.wikipedia.org/wiki/Christopher_Pratt) (not the one you're thinking of) designed the flag for Newfoundland and Labrador.
 1. Newfoundland and Labrador [was](https://en.wikipedia.org/wiki/Newfoundland_and_Labrador#Dominion_of_Newfoundland) a British [Dominion](https://en.wikipedia.org/wiki/Dominion) (with a capital D, there's a distinction between the two) when the large bulk of Canada went independent. As a result of that, to this day, NL would celebrate Memorial day [on the same day as Canada day](https://en.wikipedia.org/wiki/Memorial_Day_%28Newfoundland_and_Labrador%29), because they had normally just celebrated Discovery Day on the 24th day of June.
@@ -109,4 +110,4 @@
 1. The perimeter institute is from the last century.
 1. [Kitchener](https://www.google.com/maps/place/Kitchener,+ON,+Canada/@43.4476353,-80.5329634,12z/data=!4m2!3m1!1s0x882bf48c03ee5105:0x9525f8e6df5f544b) is twice as large as [Waterloo](https://www.google.com/maps/place/Waterloo,+ON,+Canada/@43.4749939,-80.5371064,12z/data=!4m2!3m1!1s0x882bf1565ffe672b:0x5037b28c7231d90).
 1. Steller's jay is Alberta's bird.
-1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.
+1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
