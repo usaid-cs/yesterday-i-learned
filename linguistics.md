@@ -1,3 +1,4 @@
+1. *Wenn ist das Nunstück git und Slotermeyer? Ja! Beiherhund das Oder die Flipperwaldt gersput!*, [the funniest joke in the world](https://en.wikipedia.org/wiki/The_Funniest_Joke_in_the_World), doesn't mean anything to [Google Translate](https://translate.google.com/#de/en/Wenn%20ist%20das%20Nunst%C3%BCck%20git%20und%20Slotermeyer%3F%20Ja!%20Beiherhund%20das%20Oder%20die%20Flipperwaldt%20gersput!).
 1. German on Duolingo has a rocky start because *Sie* can mean [you, she, or they](https://learn-german-easily.com/you-she-they-in-german) depending on context. *Sie* (capitalised) is a "you" for strangers. *Sie sind* ("you are"), *sie haben* (they have), *sie ist* (she is).
 1. [The word gymnasium comes from the Ancient Greek word gymnós meaning "naked".](https://boston.cbslocal.com/2018/07/23/planet-fitness-naked-man-eric-stagno-arrest-judgment-free-zone-plaistow/)
 1. Words like "gosh" and "darn" are called [minced oaths](https://en.wikipedia.org/wiki/Minced_oath).

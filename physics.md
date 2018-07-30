@@ -19,3 +19,6 @@
 1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
 1. The reason [(microwaving your own fucking hand)](https://www.youtube.com/watch?v=WcOhd9ikNAw) is bad is because microwaves are primarily absorbed below the skin, thus bypassing the nerves. [You could be literally cooking your muscles without ever realizing it.](https://www.reddit.com/r/holdmybeaker/comments/3z2uoj/hmb_while_i_microwave_my_hand/cyiur98)
 1. String theory, integrating gravity with the point-in-space ["standard model"](https://en.wikipedia.org/wiki/Standard_Model), is theoretically sound. [In 10-dimensional space](https://www.youtube.com/watch?v=Da-2h2B4faU). Maybe [it doesn't even make sense](https://en.wikipedia.org/wiki/String_theory_landscape).
+1. 75% of the mass of the universe is hydrogen, and 25% helium. The rest are insignificant.
+1. The fastest object to be propelled by man, apart from trivial things like particles, was a [manhole cover](https://en.wikipedia.org/wiki/Operation_Plumbbob#Propulsion_of_steel_plate_cap), at 0.02% the speed of light.
+1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)

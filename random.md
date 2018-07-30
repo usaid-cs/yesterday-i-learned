@@ -1,3 +1,10 @@
+1. "Scarborough" came from *Skarðaborg*, with no one to contest this claim.
+1. The "tacking stitches" sewn onto a blazer's split is meant to keep it from getting wrinkled while in transport.
+1. Age of consent [laws](https://en.wikipedia.org/wiki/Age_of_consent#Law) are often enforced only if there is a significant gap between the age of the two (or more) parties, so a 18yo having sex with a 17yo is hardly ever an issue.
+1. The majority of videos on tudou.com have *Chinese* subtitles because it is obvious, even to them, that their *standardised* dialect cannot be understood.
+1. ISIS chose orange suits for their prisoners, might have done so as a throwback to [Abu Ghraib](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse) in 2003/2004, where Americans tortured Iraqi prisoners in similarly humiliating ways.
+1. [Women are more likely to have an SF (rather than an ST)](https://www.pinterest.ca/pin/222646775302665394/) than men in their Myers-Briggs Type Indicators.
+1. [It is not true that a billiards ball-sized earth is smoother than a billiards ball](https://www.youtube.com/watch?v=mxhxL1LzKww). The maximum allowed radius deviation of a billiards ball only concerns the width and height, not roughness.
 1. A casket is generally rectangular (four-sided). A coffin is one of those angled versions that tapers downwards *towards* the body's feet (six-sided).
 1. [Pulau Satumu](https://en.wikipedia.org/wiki/Pulau_Satumu) is an island in Singapore. Its name means "one tree", but the island has more than one tree.
 1. Braiding involves three strands of something, and moving the outermost strand into the middle. Repeat until there is no remaining length. No idea what to do once you have no length left.
@@ -18,7 +25,6 @@
 1. [Throwing in *the* towel](https://idioms.thefreedictionary.com/throw+in+the+towel), from boxing, means to quit, give up, or stop trying.
 1. Secret gists are still publicly readable if the links are leaked.
 1. (Some) supercomputers are sold to [governments](https://en.wikipedia.org/wiki/Communications_Security_Establishment#Code_breaking_equipment) for code breaking.
-1. Present your strengths and weaknesses via short stories, in the "job hunting is 60% networking" that you have to do.
 1. You won't believe it. [Flirting](https://www.wikihow.com/Flirt) just means appearing interested in someone.
 1. Princess Zelda was based on [Zelda Fitzgerald](https://en.wikipedia.org/wiki/Zelda_Fitzgerald), a socialite in the 1900s. Like many socialites, she became crazy, got locked up in a hospital (for reasons?), and died when the hospital burned down.
 1. With no relation to each other, [both Java and JavaScript came out in 1995](https://en.wikipedia.org/wiki/JavaScript#JavaScript_and_Java). Java was made by a [James](https://en.wikipedia.org/wiki/James_Gosling), while JavaScript by a [Brendan](https://en.wikipedia.org/wiki/Brendan_Eich).
@@ -1044,7 +1050,6 @@
 1. If you get two tens at blackjack, [don't split them into two separate bets.](https://www.youtube.com/watch?v=vdbhpDkhh9E)
 1. Planes are very dry places. [Drink 250mL of water every single hour.](https://www.cntraveler.com/story/this-is-how-much-water-you-should-drink-on-a-plane)
 1. To be fair, "49,95€" sounds like "forty-nine, ninety-five euro" when you say it out loud. "$49.95" would be "dollar forty-nine point nine five", which is less similar to "forty-nine ninety-five". The [Euro](https://en.wikipedia.org/wiki/Currency_symbol#Usage) is one of the currencies that have the symbol either before or after.
-1. "that's not good lol" is not as popular a sentence as you would expect.
 1. If you find soda cans in an airport, congrats! [You can make weapons with them!](https://vimeo.com/channels/terminalcornucopia)
 1. Chopping a tree without removing its roots is called [coppicing](https://en.wikipedia.org/wiki/Coppicing). This woodland management technique works on trees that don't die when you cut off most of it.
 1. No such thing as [corinthian leather](https://en.wikipedia.org/wiki/Corinthian_leather). Just a term made up by Chrysler advertising.
@@ -1193,7 +1198,7 @@
 1. 百年好合 means "good together for 100 years", not "good match that can be found once every 100 years".
 1. [Eskimo](https://en.wikipedia.org/wiki/Eskimo#Nomenclature) ("a person who laces a snowshoe") includes both Yupik (Siberia and Alaska) and Iñupiat (Alaska, Greenland, Canada). Calling an Inuit an Eskimo is like calling a tortoise a turtle; yet, people in Canada and Greenland don't like the idea of that.
 1. "Steak tartare" originally came from "à la tartare", steak to be served with tartar sauce. "Tartar" was named after [the Tatars](https://en.wikipedia.org/wiki/Tatars), living in what's now Russia and Uzbekistan. Off to another tangent: yes, [you can totally die from eating raw beef.](https://en.wikipedia.org/wiki/Yukhoe#Japan_2011_incident)
-1. It remains unclear whether teenages [bag up shit and sniff the gas](https://en.wikipedia.org/wiki/Jenkem).
+1. It remains unclear whether teenagers [bag up shit and sniff the gas](https://en.wikipedia.org/wiki/Jenkem) ("Jenkem").
 1. Small dogs behave like they do because [they are spoiled](https://www.dogbreedinfo.com/articles/smalltoydogs.htm).
 1. [Pomskies](https://animalso.com/breeds/pomsky/) are tiny huskies bred from normal huskies and tiny [Pomeranians](http://www.akc.org/dog-breeds/pomeranian/). According to the pomsky page, being cute is all it does.
 1. [Jack Daniels is distilled in Moore County, in the city of Lynchburg, Tennessee, which is a dry county.](http://www.flask.com/5-facts-about-jack-daniels-whiskey/)
@@ -1239,7 +1244,7 @@
 1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
 1. Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
 1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
-1. If a colleague asks you "what's for lunch,'" reply with [So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'] (Matthew 6:31), best without context.
+1. If a colleague asks you "what's for lunch,'" reply with *So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'* (Matthew 6:31), best without context.
 1. [Double IPA *is* Imperial IPA](http://beergraphs.com/bg/182-whats-a-triple-ipa/). Triple IPA is something like that, with even more hops.
 1. The EU has strict definitions of ["free range"](https://en.wikipedia.org/wiki/Free_range#European_Union), particularly the density of poultry is essentially what is seen as free range. In the US, that term is useless.
 1. reCAPTCHA is [extremely accessible](https://news.ycombinator.com/item?id=15224199) for obvious reasons.
@@ -1301,10 +1306,8 @@
 1. You can have pasta for lunch if you either a) [pre-soak pasta for 90 minutes, and cook for just a minute](https://food-hacks.wonderhowto.com/how-to/one-minute-pasta-plus-more-revolutionary-pasta-cooking-hacks-you-need-know-0156659/); b) parboil the night before; or c) bring lunch, homie. See same article: cooking pasta with cold-water start saves water, but not time.
 1. [How to build a (gaming) PC](https://www.youtube.com/watch?v=3lrdDID3i7s). Remember, desktops have cables that connect the components.
 1. The alphabet song is the same as twinkle twinkle little star.
-1. When you're stressed, you smoke. (Second-person you)
 1. Latvia has plenty of potatoes. It was during the soviet times when they (reportedly) didn't have enough.
 1. "Riga Gold Sprats" is produced in Latvia. This gets more obvious when [Riga](https://en.wikipedia.org/wiki/Riga) is Latvia's capital.
-1. The Nexus 4 supported wireless charging. You never used it.
 1. People didn't move from the Bronze Age to the Iron Age because iron is better; rather, the [tin trade](https://en.wikipedia.org/wiki/Bronze) was disrupted, and that prevent production of bronze with copper.
 1. Bronze definitely existed during Jesus' times. Even Iron Age was over by 600 BC.
 1. [Glenn](https://en.wikipedia.org/wiki/Glenn_%28name%29) came from Gaelic "Gleann". Therefore, anyone named *Glen* (with one N) are savages.
@@ -1331,9 +1334,7 @@
 1. Taking the exponent of a number turned negative (`exp(-x)`) is a great way to get a number between 0 and 1. The closer x is to 0, the closer the result is to 1.
 1. [USB type C supports USB 3.0/3.1](http://www.dignited.com/21457/difference-micro-usb-usb-type-c/), but [USB 2.0 type C cables exist](https://en.wikipedia.org/wiki/USB-C#Cables). USB micro-A/B require [extra backwards-compatible connectors](https://en.wikipedia.org/wiki/USB_3.0#CONNECTORS) to achieve that speed.
 1. The metallic outside of USB cable inserts help remove static electricity upon contact.
-1. To charge 3Ah in an hour, calling that 1C rate, obviously takes a 3A charger.
 1. When you take an elevator ride with Steve Jobs and tell him what you do, results may vary. You either [get fired](https://www.quora.com/Who-did-Steve-Jobs-actually-fire-in-an-elevator), or [you don't](https://www.reddit.com/r/apple/comments/6wsmub/did_steve_jobs_make_much_smalltalk_with_his/) ("That's what I heard. I hope it gets better.") It depends on what you say (said).
-1. [Ubuntu 17.04 EOLs before Ubuntu 18.04 is even out.](https://wiki.ubuntu.com/Releases)
 1. ["老泥妹"](https://zh.wikipedia.org/wiki/%E8%80%81%E6%B3%A5%E5%A6%B9) 因離家出走，只能靠與其他人進行性交易之後才有機會洗澡，經常在尖東和旺角一帶出沒。
 1. ["援交"](https://zh.wikipedia.org/wiki/%E6%8F%B4%E4%BA%A4) strictly involves one underage party and one adult "helping each other out". If both parties are of age, this term does not work.
 1. The longer your organisation has been around, and the larger the organisation is, the more likely is it for it to have useless policies. John calls it ["organizational scar tissue"](https://www.johndcook.com/blog/2009/07/30/organizational-scar-tissue/).
@@ -1343,7 +1344,7 @@
 1. You are supposed to play the "forgetful man places coffee cup on top of car" prank with a magnet, not superglue.
 1. The Samsung Galaxy Note II (Note 2) had a 5.5 inch screen, the size everyone has today. Nexus 6p, which was never sold as a phablet, share the same screen size with the Note 3, 4, 5, and 7.
 1. Noodles contain salt.
-1. A cottage is where a [cotter](https://en.wikipedia.org/wiki/Cotter_%28farmer%29) (peasant farmer) lived. Cottages are horrible.
+1. A cottage is where a [cotter](https://en.wikipedia.org/wiki/Cotter_%28farmer%29) (peasant farmer) lived. Cottages are supposed to be horrible.
 1. Waiters/Waitresses ("waitists") first take food out of the kitchen with a tray, then take the tray to an empty table next to yours, then unload the food from that table to your table. They bring the tray to your table only if there are no free adjacent tables.
 1. Hyderabad is at the middle of India. It is pronounced HIderabad.
 1. Factorials end up with lots of zeros at the end. That's because [every time the number reaches "10", an additional trailing zero is guaranteed.](http://www.purplemath.com/modules/factzero.htm) Every pair of 2 and 5 also add a zero.
@@ -1418,15 +1419,13 @@
 1. "[The best age to die](https://www.quora.com/What-is-the-best-age-to-die-1) is when your body says you have to die. ... Approaching death robs a bodies strength. Any movement becomes difficult. Your body is telling you it soon must shut down. You sleep all the time and reality hurts. ... Many people know death will soon take them. They say goodbye to their friends, hug their children and then close their eyes forever," says Michael Fitzjohn, member of "the terminal illness club". Before his death, he added, **"Live your life in such a way that you're smiling as you fade away into eternity."**
 1. Baltimore is on the east coast, roughly where Washington DC is.
 1. In Michigan, [taking in orphaned animals that turn out not to be orphaned count as capturing](https://www.reddit.com/r/pics/comments/6sec8r/deer_find_their_way_into_a_home_to_escape_a_storm/dlcf6jk/).
-1. The wild saying about Lebanon's animal sex law "In Lebanon, men are legally allowed to have sex with animals, but the animals must be female. Having sexual relations with a male animal is punishable by death." might be false. [Sex with animals was outlawed in 1943.](https://en.wikipedia.org/wiki/Legality_of_bestiality_by_country_or_territory)
+1. [Sex with animals in Lebanon was outlawed in 1943.](https://en.wikipedia.org/wiki/Legality_of_bestiality_by_country_or_territory)
 1. [Mulan](https://zh.wikipedia.org/wiki/%E8%8A%B1%E6%9C%A8%E5%85%B0) is a story.
 1. Turns out [`localhost` is not necessarily loopback](https://tools.ietf.org/html/draft-west-let-localhost-be-localhost-04). It never made a spec until August 2017.
 1. [Digs](http://www.urbandictionary.com/define.php?term=digs) means residence. Appears to be `s/\b(house|apartment)s?\b/digs/ig`.
-1. By sheer chance, you went clothes shopping with employees from all of your full-time companies.
 1. Sapporo is basically a worse Heineken.
 1. [It is possible to download files straight from Kodi.](http://www.kodisimplified.com/how-do-i/enable-downloading-option-in-exodus/)
 1. ["Salt was found to improve the perception of product thickness, enhance sweetness, mask metallic or chemical off-notes, and round out overall flavor while improving flavor intensity."](https://www.ncbi.nlm.nih.gov/books/NBK50958/) In other words, salt makes things taste better by manipulating how receptors sense other tastes. See same paper: if you have a low sodium diet, you can substitute some NaCl with a smaller amount of MSG for roughly the same taste.
-1. Almost into 2020, desktop computers still don't come with webcams.
 1. The [Rothschild family](https://en.wikipedia.org/wiki/Rothschild_family) is primarily Jewish. They earn [a billion a year](http://www.investopedia.com/updates/history-rothschild-family/), give or take a billion.
 1. ["Maybe your preference for women with vaginas over women with penises is, to some degree, influenced by our cissexist society."](https://twitter.com/rileyjaydennis/status/884991412202229760?lang=en) - Riley, some kind of ["gay, trans, nonbinary, queer woman."](http://www.rileyjaydennis.com/about.html) "nonbinary ... woman".
 1. [You are going to die in the Netherlands.](https://www.youtube.com/watch?v=XpQMgbDJPok)
@@ -1459,7 +1458,6 @@
 1. "Ben屎" is a brand of vehicle. "石屎" is a name for concrete.
 1. Malta and Italy are the world's top two consumers of rabbits, more than 5kg per person-year.
 1. For normal car owners (people who already own, pay for, and maintain a car), driving is 10x ~ 12x more economical than taking Uber. For people who don't own a car (people who would otherwise have to buy a car and pay for insurance and maintenance), that difference is only 2x.
-1. Zehrs has a gas station in Stratford.
 1. The country with the highest sales tax goes to either Bhutan, at [50%](https://tradingeconomics.com/country-list/sales-tax-rate), or Hungary, at [27%](https://en.wikipedia.org/wiki/List_of_countries_by_tax_rates), depending on the sources you trust.
 1. BLU (the phone manufacturer) stands for Bold Like Us.
 1. Any personal project is a good personal project if [it has a gif demo in the readme](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/). Apart from you and your own self esteem, no one cares about your code.
@@ -1496,7 +1494,6 @@
 1. How low you must have gotten if you are best known for [being punched in the face](https://en.wikipedia.org/wiki/Bart_Sibrel).
 1. [The Romanian flag is indistinguishable from Chad's flag](http://www.msn.com/en-au/travel/other/10-of-the-worlds-most-confusing-flags-and-how-to-figure-them-out/ar-BBvIfW5) under the sun. They are slightly different shades of blue, yellow, and (maybe even the same) red.
 1. [Cat litter](https://en.wikipedia.org/wiki/Litter_box) can be made of many materials, like clay, [zeolite, diatomite and sepiolite], calcium bentonite (clumping formula), silica gel, and all sorts of other biodegradable options. There are litter boxes that scoop up the poop automatically, apparently...
-1. Each request for legs can give you 587 of them.
 1. Herring has a great fibrous texture.
 1. That mentally special ["air horn sound"](https://www.youtube.com/watch?v=QVw5mnRI8Zw) found in many new songs are from a rap trend in the 80s.
 1. [Asking potential employers "how do you reward tenure?" during an interview is very revealing about the company.](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
@@ -1507,11 +1504,10 @@
 1. *Yinz* is Pittsburghers' unique version of *Y'all*.
 1. French stop signs say "ARRET\nSTOP". Quebec signs just say "ARRET".
 1. By total length, Birmingham has more canals than Venice.
-1. 75% of the mass of the universe is hydrogen, and 25% helium. The rest are insignificant.
 1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.
 1. T-Mobile was/is owned by Deutsche Telekom.
 1. AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
-1. Demetria "Demi" Lovato has that real last name.
+1. Demetria "Demi" Lovato has that real last name. [She suffers from drug addiction.](https://www.youtube.com/watch?v=zQwhSOsb-Cg)
 1. [Amputees are never handcuffed to a vehicle door](https://www.quora.com/How-are-amputees-handcuffed), because of liability issues should the vehicle be set on fire. Other wastes of time include trying to handcuff double amputees, or pregnant women that get arrested for some reason.
 1. The original version of the Pokérap had mewtwo, but not mew.
 1. Ellen DeGeneres voiced Dory the blue tang. Blue tangs can live for 20 years.
@@ -1521,23 +1517,20 @@
 1. [STUN](https://en.wikipedia.org/wiki/STUN) used to stand for Simple Traversal of UDP through NAT; now it stands for Session Traversal Utilities for NAT.
 1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
 1. Side menus in every offical Google app [are all different widths](http://imgur.com/a/v2d6v).
-1. [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. *"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry.[24] He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."*
+1. [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. *"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry. He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."*
 1. [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
 1. There is [no reference](https://en.wikipedia.org/wiki/Wizard_%28software%29) who first started calling software walkthroughs, 'wizards'.
 1. Pac Man was originally going to be called Puck Man, but was changed because Fuck Man.
 1. Every odd number has a 'e' in it; excluding 'and', the first number to have an 'a' is 'one thousand'.
-1. The fastest object to be propelled by man, apart from trivial things like particles, was a [manhole cover](https://en.wikipedia.org/wiki/Operation_Plumbbob#Propulsion_of_steel_plate_cap), at 0.02% the speed of light.
 1. Three-toed sloths are reportedly much nicer than two-toed sloths.
 1. Bill Murray did Garfield because he signed on thinking [Joel Coen](http://www.imdb.com/name/nm0001054/) wrote it. [Joel Cohen](https://en.wikipedia.org/wiki/Joel_Cohen_%28writer%29) (with the H) did.
 1. The ZIP in ZIP code stands for Zone Improvement Plan.
-1. Arnold Schwarzenneger was the first civilian to own a Hummer.
 1. [Saint-Louis-du-Ha! Ha!, QC](https://en.wikipedia.org/wiki/Saint-Louis-du-Ha!_Ha!) has two exclamation marks in its name. It is, along with the rivers that flow near it, the only places on Earth with two exclamation marks in their names.
 1. Something known as ["10mm"](https://www.amazon.com/TEKTON-14115-4-Inch-Shallow-6-Point/dp/B000NYA1XY/ref=pd_lpo_vtph_469_lp_t_3/132-1839096-9099206?_encoding=UTF8&psc=1&refRID=53N3J210BWNFHRNT9RFZ) is car mechanics' favourite lost item.
 1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
 1. A quad HD AMOLED screen has only 20% more pixels as a 1080p LCD display, when it should have almost 80% as many.
 1. An orthotic's "break in period" is for your foot, not for the orthotic itself.
 1. [Vitas](https://en.wikipedia.org/wiki/Vitas) (Vitaliy Grachov) has a five-octave vocal range.
-1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)
 1. Because owning a home requires taking care of it, percentage home ownership in a neighbourhood directly impacts how nice a neighbourhood is, and, to a certain extent, negatively impacts the crime rate in the same neighbourhood. This implies rentals are often in high-crime areas.
 1. Clear red signs of a house that cannot be bought: 1) bad location 2) smells (nearby landfill, mold, or ventilation issues) 3) uneven flooring 4) no natural lighting 5) oddly-shaped rooms 6) parking spaces that you can't get into.
 1. 過往由於冰室只持有小食牌照，除了售賣飲品外，只能販賣三文治、糕餅等，而不能供應即時製作如炒飯、小菜等熟食。
@@ -1549,9 +1542,8 @@
 1. Walter White is written to be slowly blinded by money and/or ambition, [even himself](http://i.imgur.com/BdzuGWg.jpg).
 1. "America's real safety net is drugs, alcohol, cheap food, and free porn." Attributed to a Henry Rollins
 1. Compass is the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
-1. [It's odd in the northwest](https://www.reddit.com/r/AskReddit/comments/6lyjnc/what_is_the_most_useful_thing_you_know/djxmfq1/): even numbered buildings will be on the south and east sides of streets. It only works in the US though, and, assuming you have eyes, can't you just look?
+1. [It's odd in the northwest](https://www.reddit.com/r/AskReddit/comments/6lyjnc/what_is_the_most_useful_thing_you_know/djxmfq1/): even numbered buildings will be on the south and east sides of streets. It only works in the US though?
 1. A bat [held onto a rocket](http://imgur.com/gallery/bwP6u) once. And only once.
-1. Fun fact: despite absolutely being able to say "hello", [them](https://www.reddit.com/r/videos/comments/6m5w72/japanese_girl_has_one_minute_to_make_5_random/).
 1. Fresh tuna is tough and has no flavour. Age it for a few days first.
 1. Selfie sticks are banned from Disney theme parks.
 1. [A plane](https://en.wikipedia.org/wiki/North_American_B-25_Mitchell) [crashed](https://en.wikipedia.org/wiki/1945_Empire_State_Building_B-25_crash) into the Empire State Building and [it didn't collapse](https://i.redd.it/p4ier7ehw27z.jpg).

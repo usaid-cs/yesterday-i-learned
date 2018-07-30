@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Just for Laughs Gags](https://www.youtube.com/channel/UCpsSadsgX_Qk9i6i_bJoUwQ) is an official Quebec youtube channel.
+1. Zehrs has a gas station in Stratford.
 1. [Gorp](https://gorpworld.com/) is so famous in Canada that a gorp is a trail mix. Currently not convinced.
 1. Regina and Saskatoon are the first major cities on the list of [Canada's most dangerous cities](https://www.macleans.ca/canadas-most-dangerous-places/).
 1. Formally disputed sources said that [Sudbury (the basin)](https://en.wikipedia.org/wiki/Sudbury_Basin) was caused by a comet impact.

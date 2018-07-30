@@ -78,7 +78,7 @@
         function doSearch() {
             let el = document.getElementById('keyword');
             if (!el.value) return;
-            if (el.value.length <= 3) return;
+            if (el.value.length < 3) return;
             let results = search(el.value);
             setTimeout(() => {
                 if (results && results.length) {

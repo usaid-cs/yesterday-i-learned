@@ -1,3 +1,4 @@
+1. Randomly twitching muscles are sometimes called nervous ticks.
 1. [Straw](https://en.wikipedia.org/wiki/Straw) makes up half of a cereal crop harvest. It can be converted to biobutanol somehow.
 1. [Fire ants](https://en.wikipedia.org/wiki/Fire_ant) (spicy bois) not only bite and spray acid, which most ants do, but they also inject [Solenopsin](https://en.wikipedia.org/wiki/Solenopsin) venom, which feels like being burned.
 1. As you age, [decreasing neuroplasticity prevents learning of new skills](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622463/) that you can later apply to unrelated things.

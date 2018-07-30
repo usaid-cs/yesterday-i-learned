@@ -444,6 +444,9 @@ bar
 1. `async` can go with the `with` statement as well (i.e. `async with`). See [here](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python) for other concurrency-related examples.
 1. There is a handy [`contextlib.closing`](https://docs.python.org/2/library/contextlib.html#contextlib.closing)`(some_connection()) as connection` thing that you can use to make sure a thing closes when the block exits.
 1. A return statement in the `finally` block will return before a return statement in your `try` block returns.
+1. PEP 515 describes underscores in numerals. `1_000_000` is really a million.
+1. PEP 526 introduces the first syntax that is *not* an expression. Variable type annotation `variable: int`, bearing in mind that doesn't assign anything to the variable, is not an expression.
+1. Guido and friend actually tried to distance their project from actual snakes, because the entire thing was supposed to be a Monty Python joke instead of a zoo, but finally [gave up when O'Reilly printed a snake in front of their first python book](https://www.youtube.com/watch?v=gJ4duC-V6Xw).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
