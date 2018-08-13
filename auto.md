@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. There exists [Zero Emission Vehicles](https://en.wikipedia.org/wiki/Zero-emissions_vehicle), [Partial zero-emissions vehicles](https://en.wikipedia.org/wiki/Partial_zero-emissions_vehicle), [Ultra-low-emission vehicles](https://en.wikipedia.org/wiki/Ultra-low-emission_vehicle), and, get a load of this, [Super ultra-low emission vehicles](https://en.wikipedia.org/wiki/Super_ultra-low_emission_vehicle).
+1. The EcoSport is pronounced [Echo-sport](https://www.youtube.com/watch?v=VnjttWVNKrI), because who knows.
+1. [Proximity key fobs are even worse than button fobs](https://www.usatoday.com/story/tech/columnist/komando/2018/08/10/forget-tin-foil-put-your-keys-fridge-keep-them-safe-car-thieves/939536002/). They transmit unlock instructions all the time, so the only safe way to keep it is in the fridge or microwave.
 1. Arnold Schwarzenneger was the first civilian to own a Hummer.
 1. [Two-stroke engines need to burn oil to run.](https://news.ycombinator.com/item?id=17547726) They also need to expel waste exhaust the same way/time fresh air came in, so it is hard for [that design](https://www.youtube.com/watch?v=hV3LImCslpo) (except direct injection two-strokes) to pass emissions tests.
 1. [Porsche SE owns Volkswagen AG owns Porsche AG](https://www.reddit.com/r/TopGear/comments/2xagsn/a_garage_full_of_volkswagens/). Therefore, while "Volkswagan owns Porsche", Porsche (SE) has 51% of VW's voting rights, and hence, ownership.

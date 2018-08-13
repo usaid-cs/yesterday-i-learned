@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Any app with "storage" access can [modify another app's update files](http://blog.checkpoint.com/2018/08/12/man-in-the-disk-a-new-attack-surface-for-android-apps/) to run malicious executable updates.
 1. LineageOS devs clearly and explicitly outline [hardware and software requirements for a device to qualify for an official build](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md).
 1. `adb install -r` installs the apk without failing when it already exists.
 1. If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.

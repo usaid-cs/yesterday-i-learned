@@ -1,3 +1,20 @@
+1. [Female heart attack patients rescued by female doctors are more likely to survive](https://www.theguardian.com/society/2018/aug/06/women-more-likely-to-survive-heart-attack-if-treated-by-female-doctor-study), due to the different symptoms that the two sexes display.
+1. Also in the nightshade family (with the tomato) is the [tree tomato](https://en.wikipedia.org/wiki/Tamarillo) "樹番茄". The Tamarillo is said to have "a bold and complex flavor", and may be compared to kiwifruit, tomato, guava, or passion fruit.
+1. [Seeing blood and fainting](https://tonic.vice.com/en_us/article/594we3/faint-at-sight-of-blood-vasovagal-syncope) ("Vasovagal syncope") comes from the vagas nerve's overly zealous attempt to calm you down.
+1. Viviparity describes laying live young rather than laying eggs.
+1. The amount of earwax found in a whale is one way to determine the age of whales that don't have teeth.
+1. [Trimethoprim/sulfamethoxazole](https://en.wikipedia.org/wiki/Trimethoprim/sulfamethoxazole) can only be used to *prevent* Toxoplasmosis.
+1. Volatile substances (not specified) in IV can [cause bad taste in the mouth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806387/) for a few minutes after initial injection.
+1. In addition to making more mistakes, [old people don't realise they made mistakes when they made them](https://psychcentral.com/news/2018/08/05/older-adults-may-be-less-likely-to-notice-their-mistakes/137595.html).
+1. 80% of [mesothelioma](https://en.wikipedia.org/wiki/Mesothelioma#Causes) is caused by asbestos. The rest they are not sure.
+1. Simply not doing exercises can increase cancer rate by [3.4%](https://medicalxpress.com/news/2018-08-unaware-cancer.html).
+1. Exercise (or any other way to get your mind off it really) can [prevent cocaine addiction relapses](https://medicalxpress.com/news/2018-08-cocaine-addiction.html).
+1. Goats and sheep (Caprinae) and mate, but their offspring are sterile.
+1. [Oxytocin](https://en.wikipedia.org/wiki/Oxytocin) is in chromosome 2 in mice, but chromosome 20 in humans.
+1. Make yourself bleed yet again (for religious or cultural reasons) by [fixing your hymen](https://en.wikipedia.org/wiki/Hymenorrhaphy). Styles range from actually tearing a piece of the uterine lining out to make a new membrane, to just a cosmetic piece of gelatin with a capsule of red dye in it.
+1. [Avascular necrosis or "osteonecrosis"](https://en.wikipedia.org/wiki/Avascular_necrosis) aka 骨枯 occurs when a piece of bone loses its blood supply. The end result is pain and the inability to move. Fractures and dislocations can be risk factors.
+1. Ichthyosaurs beat their lateral fins left and right. Dolphins beat their lateral fins up and down. They are otherwise visually similar.
+1. The baculum (i.e. penis bone, see below) is used by mammals to penetrate the vagina without the penis first becoming erect. The act of the dog humping *then* causes the penis to erect.
 1. Randomly twitching muscles are sometimes called nervous ticks.
 1. [Straw](https://en.wikipedia.org/wiki/Straw) makes up half of a cereal crop harvest. It can be converted to biobutanol somehow.
 1. [Fire ants](https://en.wikipedia.org/wiki/Fire_ant) (spicy bois) not only bite and spray acid, which most ants do, but they also inject [Solenopsin](https://en.wikipedia.org/wiki/Solenopsin) venom, which feels like being burned.
@@ -231,7 +248,7 @@
 1. That nasty teenage boy moustache is called the Peach Fuzz.
 1. [Ketogenic diets slightly increase calorie expenditure.](http://alivebynature.com/do-ketogenic-diets-have-a-metabolic-advantage/) That is not to say it's better or that it's a weight-loss program; it's just what it is.
 1. The basal metabolic rate, the rate no matter what you do throughout the day, [decreases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156923/) by 30% when you age from 20 to 70, around 1% every two years, as a result of muscle loss. While the young adult is around 50% lean muscle by mass, old people are only at 25%.
-1. The same [gene that controls dry/wet earwax](https://en.wikipedia.org/wiki/ABCC11) also controls smelly armpits. So only people with dry earwax can be potential mates.
+1. The same [gene that controls dry/wet earwax](https://en.wikipedia.org/wiki/ABCC11) also controls smelly armpits ("Osmidrosis"). [The dry type is recessive](https://en.wikipedia.org/wiki/Earwax#Physiology), so only people with dry earwax can be potential mates.
 1. [Grapefruit, pomegranate, and other citrus fruits](https://en.wikipedia.org/wiki/CYP3A4#Inhibition_through_fruit_ingestion) can inhibit Cytochrome P450 3A4 activity, an enzyme that oxidises drugs and toxins.
 1. [Sexual reproduction started 1.2 billion years ago](https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction), in the form of single-cell eukaryotes. (eukaryotes are cells with nuclei)
 1. [Alex the parrot](https://en.wikipedia.org/wiki/Alex_%28parrot%29) is the only non-human animal to have asked a question. Apes can answer questions, but [cannot ask them](https://en.wikipedia.org/wiki/Primate_cognition#Asking_questions_and_giving_negative_answers). Alex's last words were reportedly "You be good, see you tomorrow. I love you".

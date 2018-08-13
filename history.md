@@ -1,3 +1,4 @@
+1. King [Leopold II of Belgium](https://en.wikipedia.org/wiki/Leopold_II_of_Belgium) [exploited](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State) the [Congo Free State](https://en.wikipedia.org/wiki/Congo_Free_State) for personal wealth. The most common visual is the *Force Publique* soldiers chopping off civilians' hands and/or feet, should they not work hard enough.
 1. Russian soldiers wrapped [rags on their feet](https://russiapedia.rt.com/of-russian-origin/portyanki/) as socks.
 1. African-American motorists had [green books](https://en.wikipedia.org/wiki/The_Negro_Motorist_Green_Book) with them, a guide that shows them where to find places that were friendly to negroes as they drove.
 1. [Free love](https://en.wikipedia.org/wiki/Free_love) died because of drugs, and because the hippies realised they opened their minds but accomplished nothing.

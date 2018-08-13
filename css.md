@@ -1,3 +1,4 @@
+1. Styling for the iPhone X basically means messing with the platform-specific [`safe-area-inset-top`](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html) value right after your normal rules, which will not be overridden by your `inset-` thing because it is invalid on any other platform, and is 0 on any iOS device that is not the iPhone X.
 1. [`normalize.css`](https://github.com/necolas/normalize.css/blob/master/normalize.css) is a ~350 line CSS file, more than half of which are comments.
 * CSS3 has `background-size`, whose most useful values are `cover` (scaled and cropped) and `contain` (scaled to fit).
 * `text-overflow` allows [custom truncation characters][mozilla]. It is CSS3. For everything else, there's [mastercard][frebsite].

@@ -1,4 +1,38 @@
+1. In an argument, try to determine *what* is right, rather than *who* is right.
+1. Because of a missing open container law, [it is legal to drink and drive in Mississippi](https://www.huffingtonpost.ca/entry/open-container-law_n_4653013) as long as you stay under the BAC limit.
+1. A group of crickets are referred to as an orchestra.
+1. The [Nordic socioeconomic model](https://en.wikipedia.org/wiki/Nordic_model) sets itself apart by having universal welfare, paid for by taxes, creating a [social safety net](https://en.wikipedia.org/wiki/Social_safety_net).
+1. 'I worked with a guy that would always say "don't take one of mine" when I said "I'm going to go take a shit"' - /u/jmcgee408
+1. The [flag of Nepal](https://en.wikipedia.org/wiki/Flag_of_Nepal) is "the world's only non-quadrilateral national flag".
+1. There is basically no difference between "snugging" and "snuggling", but they come from "snug" and "snuggle", respectively.
+1. A folded corner of a page has a formal term called [dog ears](https://en.wikipedia.org/wiki/Dog_ears).
+1. 57% of [Central African Republic](https://en.wikipedia.org/wiki/Central_African_Republic)'s GDP comes from industrial diamonds. "Despite its significant mineral deposits and other resources, ... as well as significant quantities of arable land, the Central African Republic is among the ten poorest countries in the world. ... It is also estimated to be the unhealthiest country as well as the worst country in which to be young."
+1. There currently exists two *the Congo*s: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo), with a "the" in the name, and [Republic of the Congo](https://en.wikipedia.org/wiki/Republic_of_the_Congo), also with a "the" in the name.
+1. Fortnite for Android [aims *and* shoots for you](https://www.androidpolice.com/2018/08/11/hands-fortnite-android-frustrating-version-play-yet/).
+1. [The 1832 edition of the American Frugal Housewife](https://books.google.ca/books?id=D3AEAAAAYAAJ&dq=%22The+American+Frugal+Housewife%22&pg=PP1&redir_esc=y#v=onepage&q=%22The%20American%20Frugal%20Housewife%22&f=false) recommended earwax as a remedy for cracked lips.
+1. A [reefer](https://www.urbandictionary.com/define.php?term=reefer) is also *a marijuana*.
+1. "[Jowhar](https://en.wikipedia.org/wiki/Executioner%27s_sword) are the strongest swords used for beheadings. It is not affected by the number of people beheaded with it. It is made of strong iron, not the kind that breaks or anything." - [Abdallah Bin Sa'id Al-Bishi, executioner](https://www.youtube.com/watch?v=8JTPjs9nGNA)
+1. "Rocky Mountain oysters" are deep fried bull balls.
+1. Singapore failed to unite with Malaysia because [it was too Chinese](https://www.quora.com/Why-did-Singapore-and-Malaysia-split-up-Could-they-come-back-together).
+1. [Dude](https://www.reddit.com/r/bald/comments/7g4sug/in_a_very_large_family_of_bald_men_with_horrible/) says it is taboo for young Indian men to shave their heads.
+1. The 念慈菴 in [京都念慈菴川貝枇杷膏](https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa)  means "in memory of [my] kind mother". The formula was made by a Qing dynasty physician, *Dr. Ip Tin-See*.
+1. To be [struck out](https://www.urbandictionary.com/define.php?term=Struck%20out) means to attempt multiple times, and then fail.
+1. Nair is not meant to be used on the head. Or the balls.
+1. 套現 is literally "cash out".
+1. Paper was a valuable resource in Waterworld next to dirt, but a plothole exists where people smoke cigarettes throughout the movie, which are a combination of (essentially) dirt and rolled paper.
+1. The [standard MTR train](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_%28DC%29) travels at 80km/h, whereas the [airport express train](https://en.wikipedia.org/wiki/MTR_Adtranz%E2%80%93CAF_EMU) travels at 135km/h.
+1. Believing you are a winner [makes you a worse person](https://medicalxpress.com/news/2018-08-believing-youre-winner-men-testosterone.html) ("gives men a testosterone boost and promiscuous disposition"). Touching physical cash also gives you a similar testosterone boost.
+1. The French for park 'n' ride is [parc-o-bus](http://rtcquebec.ca/Default.aspx?tabid=161).
+1. Multiple sources say to [unshrink jeans](https://www.tipsbulletin.com/how-to-unshrink-clothes-the-ultimate-guide/), you sit in a tub of water for 15 minutes, and then walk around with the pair of jeans for an hour.
+1. A ["quintessence"](https://www.merriam-webster.com/dictionary/quintessence) is an essence that is more concentrated than just essence. See also: "quint-essential".
+1. [Chinese users spend an average of 70 minutes a day in WeChat alone](https://www.dragonsocial.net/blog/social-media-in-china/), the app that---mentioned elsewhere in this list---clearly makes data available to the government.
+1. Cain and Abel [clearly](https://biblehub.com/genesis/4-25.htm) had another brother called Seth, but no one mentions him.
+1. The same place where 普洱 tea came from is also [China's tin capital](https://en.wikipedia.org/wiki/Gejiu).
+1. Tons of people [have sex when they grieve](http://observer.com/2015/08/better-bed-than-dead-why-mouners-often-hook-up-at-funerals/), including in the backseat of a car *during* a funeral. "Because I want to feel something else than this. It's either that or I go home and put my hand in the fire."
+1. "As a non religious individual I often consider the fact that a 'god' may very well exist, but considering the scope of both power and persuasion an individual of a god calibre would employ, it would be reasonable to assume that such an entity would view us as interesting and important as you would a single celled organism."
+1. Jeggings are leggings that only look like jeans, with none of it made with jeans.
 1. "Scarborough" came from *Skarðaborg*, with no one to contest this claim.
+1. The SS7 protocol controls how calls are set up and released, as well as [billing](https://www.theguardian.com/technology/2016/apr/19/ss7-hack-explained-mobile-phone-vulnerability-snooping-texts-calls). Somehow, apart from the SMS vulnerabilities that are already discussed in this file, [protocol vulnerabilities](https://en.wikipedia.org/wiki/Signalling_System_No._7#Protocol_security_vulnerabilities) also allow the device's movements to be tracked at a 70% success rate, [without the device ever knowing what's up](https://www.washingtonpost.com/business/technology/for-sale-systems-that-can-secretly-track-where-cellphone-users-go-around-the-globe/2014/08/24/f0700e8a-f003-11e3-bf76-447a5df6411f_story.html?utm_term=.fbfb76a7c6ef).
 1. The "tacking stitches" sewn onto a blazer's split is meant to keep it from getting wrinkled while in transport.
 1. Age of consent [laws](https://en.wikipedia.org/wiki/Age_of_consent#Law) are often enforced only if there is a significant gap between the age of the two (or more) parties, so a 18yo having sex with a 17yo is hardly ever an issue.
 1. The majority of videos on tudou.com have *Chinese* subtitles because it is obvious, even to them, that their *standardised* dialect cannot be understood.
