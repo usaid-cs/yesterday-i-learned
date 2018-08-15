@@ -1,3 +1,5 @@
+1. [Mutiny](https://en.wikipedia.org/wiki/Mutiny) specifically applies to [coups](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat) on a ship,
+1. "Fulfil" is the preferred spelling outside the US.
 1. Because of the unique way English works, once *chamois* turns [from French](https://en.wikipedia.org/wiki/Chamois) into English, it is pronounced "SHAM-mi".
 1. Soft [G](https://en.wikipedia.org/wiki/G)s are usually of romance origin. But you can't explain everything with that rule, like, what about the French word *langage*?
 1. *Color* wasn't converted to *Colour* until French was favourable (favorable) in 1755, around when [the first major English dictionary](https://en.wikipedia.org/wiki/Samuel_Johnson#A_Dictionary_of_the_English_Language) was made. Samuel Johnson spelled words like that literally because it was cool. Words like *center* (not *centre*) are also older spellings used by Shakespeare. The Americans didn't follow suit because a [Mr Webster](https://en.wikipedia.org/wiki/Noah_Webster) didn't like the French style.

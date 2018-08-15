@@ -1,3 +1,16 @@
+1. Magikarp is based on the [myth](http://www.egreenway.com/dragonsrealms/DT3.htm) that if a carp swims all the way upstream and up a waterfall it will turn into a dragon.
+1. Genesis 7:2 clearly says there are *seven* pairs of clean animals.
+1. The phrase is "turn on a dime", meaning "to turn with a small turning radius", because the dime was the smallest US coin in circulation.
+1. ["靠谱"](https://www.echineselearning.com/blog/chinese-slang-kaopu-reliable) means reliable.
+1. "[The 10 Plagues in Exodus are all attacks on Egyptian gods.](https://www.reddit.com/r/AskReddit/comments/9346j9/what_is_something_most_people_dont_know_about_the/e3aw2w6/) For example, turning the Nile to blood: The Nile was a god to the Egyptians, and then turning it to blood was imagery of killing said god. Frogs were also considered gods, and when frogs were going flipping everywhere (plague 6 or something), Egyptians would be horrified to step on one of their gods. Similar to the Nile, when God cast darkness upon Egypt, it was like killing the sun (Egyptian god Ra)." - /u/Azaziah
+1. [No skill in pokemon sharply raises two stats at the same time.](https://pokemondb.net/pokebase/113280/what-stat-raising-moves-raise-at-least-2-stats-at-once)
+1. Contrary to popular belief that liars don't look at you, [they look at you more than the average person](https://www.youtube.com/watch?v=P_6vDLq64gE) to compensate for that myth.
+1. [Mamma Mia!](https://en.wikipedia.org/wiki/Mamma_Mia!) is a 1999 musical. [Mamma Mia!](https://en.wikipedia.org/wiki/Mamma_Mia!_%28film%29) is also a 2008 *film*. And then there's [Mamma Mia! Here We Go Again](https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again), a 2018 film that follows thw 2008 one.
+1. [The Color Run](https://en.wikipedia.org/wiki/The_Color_Run), the run in which you get bombed by coloured cornstarch, is run by a for-profit company.
+1. A [sawhorse](https://en.wikipedia.org/wiki/Sawhorse), completely unrelated to the seahorse, is a beam with four legs.
+1. There are enough character variants in unicode to warrant [font emulation](http://qaz.wtf/u/convert.cgi?text=Hacker_News).
+1. Hacker News decides that [LRU caches by category](https://news.ycombinator.com/item?id=17690749) is the best way to organise items in your home.
+1. Playing hard to get [doesn't work](https://www.huffingtonpost.com/ellen-huerta/why-playing-hard-to-get-d_b_9629656.html), no matter who you are.
 1. In an argument, try to determine *what* is right, rather than *who* is right.
 1. Because of a missing open container law, [it is legal to drink and drive in Mississippi](https://www.huffingtonpost.ca/entry/open-container-law_n_4653013) as long as you stay under the BAC limit.
 1. A group of crickets are referred to as an orchestra.

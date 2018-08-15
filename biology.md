@@ -1,3 +1,6 @@
+1. [Women can smell different](https://www.reddit.com/r/AskWomen/comments/97dbsa/what_does_your_so_do_that_scaresfreaks_you_out/e47oy6s/) (not better or worse, just different) when on their periods.
+1. [Carambola](https://en.wikipedia.org/wiki/Carambola) (starfruit), native to Southeast Asia, can have 5 (usually), 6, or 7 points.
+1. Adult water bears can range from 0.1mm to 1.5mm in length, with 0.5mm being the most common.
 1. [Female heart attack patients rescued by female doctors are more likely to survive](https://www.theguardian.com/society/2018/aug/06/women-more-likely-to-survive-heart-attack-if-treated-by-female-doctor-study), due to the different symptoms that the two sexes display.
 1. Also in the nightshade family (with the tomato) is the [tree tomato](https://en.wikipedia.org/wiki/Tamarillo) "樹番茄". The Tamarillo is said to have "a bold and complex flavor", and may be compared to kiwifruit, tomato, guava, or passion fruit.
 1. [Seeing blood and fainting](https://tonic.vice.com/en_us/article/594we3/faint-at-sight-of-blood-vasovagal-syncope) ("Vasovagal syncope") comes from the vagas nerve's overly zealous attempt to calm you down.

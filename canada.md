@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Queen Victoria named it *British* Columbia](https://en.wikipedia.org/wiki/British_Columbia#Etymology) to distinguish it from the American Columbia at the time, which became [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory), and is now Oregon.
 1. That time Canada was told to make a slogan that starts with "As Canadian as...", they came up with [As Canadian as Possible, Under the Circumstances](http://www.cbc.ca/newsblogs/yourcommunity/2013/06/as-canadian-as.html).
 1. *Ontario* might be a Huron word for "great lake".
 1. [Just for Laughs Gags](https://www.youtube.com/channel/UCpsSadsgX_Qk9i6i_bJoUwQ) is an official Quebec youtube channel.
