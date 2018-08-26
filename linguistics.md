@@ -1,3 +1,8 @@
+1. The letter T is rarely pronounced. See: "exactly", "often", "soften", "fasten".
+1. The [Hyphen War](https://en.wikipedia.org/wiki/Hyphen_War) happened in 1989, when [Czechoslovakia](https://en.wikipedia.org/wiki/Czechoslovakia) or Czecho-Slovakia couldn't decide on whether that hyphen should be there. In 1993 they broke up into Czech Republic and Slovakia.
+1. A [question tag / tag question](https://en.wikipedia.org/wiki/Tag_question) is something like ", haven't you?", ", didn't it?", and ", has it?".
+1. The Lion City army uses the phrase ["You think, I thought, who confirm?"](https://en.wikipedia.org/wiki/Singlish_vocabulary) whenever someone says "I think...".
+1. Back in my days (i.e. the King James Version days) ["people"](https://en.wiktionary.org/wiki/people) was a singular noun for a group of persons. See [this verse](https://www.biblegateway.com/passage/?search=2%20Samuel%2017%3A29&version=KJV;NIV) for difference.
 1. [Mutiny](https://en.wikipedia.org/wiki/Mutiny) specifically applies to [coups](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat) on a ship,
 1. "Fulfil" is the preferred spelling outside the US.
 1. Because of the unique way English works, once *chamois* turns [from French](https://en.wikipedia.org/wiki/Chamois) into English, it is pronounced "SHAM-mi".

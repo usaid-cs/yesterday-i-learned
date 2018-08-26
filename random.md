@@ -1,3 +1,29 @@
+1. Pythagoras knew that the Earth was round 500 years before Chris(t) was born.
+1. Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html).
+1. Sherbets can contain milk ingredients. Sorbets cannot.
+1. A [lock pick gun](https://i.imgur.com/1aFrH9w.gifv) works by bumping all slots at the same time, unlocking the lock, before they spring back to a locked state.
+1. The time machine in Back to the Future was [originally a fridge](https://en.wikipedia.org/wiki/Back_to_the_Future#Development), but "Zemeckis was concerned that children would accidentally lock themselves in refrigerators, and felt it was more useful if the time machine were mobile."
+1. [Dead end careers](https://www.zippia.com/research/dead-end-careers/) seem to be the ones that end up having a low max-earning potential. On the flip side, lawyers earn almost twice as much as everybody else, but they are useless without clients.
+1. In a workplace, [givers are both the best and worst performers](https://www.youtube.com/watch?v=YyXRYgjQXX0), depending on what kind of takers they work with.
+1. [Half-life 3 will never be released](https://www.youtube.com/watch?v=50lSIaSR3zc) because the possible disappointment will ruin sales of the current Half-life series.
+1. "First dates should always be at a coffee shop, ice cream place, that sorta thing. Something quick where there's talking and not a lot of money involved. If you hate them just finish your coffee, say you had a good time, and leave, like my dad did." - /u/Mhopkins892
+1. Anti-theft ink tags can be defeated by a simple freezer.
+1. China's [social credit system](https://en.wikipedia.org/wiki/Social_Credit_System) is something like [Nosedive](https://en.wikipedia.org/wiki/Nosedive#Comparisons_to_Social_Credit_System), an episode of Black Mirror, but with less transparency to how you got your score. Criticising the ruling party lowers your score, naturally.
+1. Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
+1. The [canary](https://en.wikipedia.org/wiki/Domestic_canary#Miner's_canary) warning system was originally used by miners to detect toxic gases.
+1. Adjustable wrenches are [reportedly](https://www.youtube.com/watch?v=bytkgeo9Q1g) designed to work only one way: clockwise (i.e. downwards in a typical picture). Doing it counterclockwise puts more stress on the mechanism.
+1. [咁啱嘅](https://www.youtube.com/watch?v=uc2oMD14RA8)，出街呀，食飯未？食咗喇，得閒咪，Call 我囉。伙記呀，碟粉呢？咁耐嘅？未炒就，取消啦！應該就，炒咗喇。再幫你，跟跟啦。跟跟跟，跟條命，唔嚟就，取消啦。我都話，炒緊嚕。你試吓，唔要吖？信唔信，嚦水壺，車你個頭？
+1. [Lots of (cable) connectors are hermaphroditic/genderless.](https://en.wikipedia.org/wiki/Gender_of_connectors_and_fasteners#Genderless_%28hermaphroditic%29) The most common example is the knuckle that connects train cars, and the SAE 12V power cable, which have both male and female parts on each end. Since genderless cables cannot have a penis on both ends, a common design is a circular surface with twist-to-lock claws.
+1. "Singapore" sounds more correct in Cantonese ("sing1 ga3 boh1"), which is not their official language, than Mandarin ("xin1 jia1 bo1"), which *is* their official language.
+1. In a postiive-sum world, the better off everyone else is, the better your life is.
+1. [Salt and pepper should be passed together, even when only one is requested.](https://i.redd.it/pomczxwv5pg11.jpg) Other table etiquette in this graphic: the "I'm finished" fork position should be on the right hand side facing 11 o'clock, and the "I'm not finished" position is the crossed one, which you were previously taught to be the "I'm finished" position. Verify these claims yourself.
+1. [You can just buy face recognition from the internet](https://www.liip.ch/en/blog/face-detection-an-overview-and-comparison-of-different-solutions-part1). Amazon Rekognition, Google Cloud Vision, IBM Watson Visual Recognition, Microsoft Face API. Same article finds Microsoft's solution cheap but useless.
+1. "Move your hips [when walking in high heels]." - A woman named Virginia
+1. The policy that land is to be leased to developers by the government to Hong Kong [at astronomical prices], means that the government has no incentive to develop the land that is currently underdeveloped.
+1. "Passing the [Turing test](https://en.wikipedia.org/wiki/Turing_test)" is when a robot behaves the same way as a human. The robot itself does not do or write the test.
+1. The vast majority of [Canada's top paid positions](https://www.slice.ca/money/photos/jobs-in-canada-that-pay-300k/#!Anesthesiologist-Jobs-in-Canada-That-Pay-Over-300K) are doctors and company C*Os.
+1. ["I have zero trust in Proton<anything> after learning, that the free ProtonVPN service is provided by a data mining company from Eastern Europe."](https://news.ycombinator.com/item?id=17775326) ["The company that 'officially' operates ProtonVPN is ProtonVPN AG, a Switzerland based company. However, the business is in reality operated by PROTONVPN LT, UAB a Lithuania based company ... ultimately run by Tesonet ... operating a data mining operation out of Lithuania."](https://news.ycombinator.com/item?id=17258203)
+1. "Better half" means one's spouse.
 1. Magikarp is based on the [myth](http://www.egreenway.com/dragonsrealms/DT3.htm) that if a carp swims all the way upstream and up a waterfall it will turn into a dragon.
 1. Genesis 7:2 clearly says there are *seven* pairs of clean animals.
 1. The phrase is "turn on a dime", meaning "to turn with a small turning radius", because the dime was the smallest US coin in circulation.

@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Alberta does not have rats. [The discovery of a rat in Edmonton or Calgary receives full media coverage.](http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/All/agdex3441)
+1. According to the [list of NOC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html), dancers and comedians are considered "professional jobs that usually call for a degree from a university", the same class as (their examples) dentists and architects.
 1. [Queen Victoria named it *British* Columbia](https://en.wikipedia.org/wiki/British_Columbia#Etymology) to distinguish it from the American Columbia at the time, which became [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory), and is now Oregon.
 1. That time Canada was told to make a slogan that starts with "As Canadian as...", they came up with [As Canadian as Possible, Under the Circumstances](http://www.cbc.ca/newsblogs/yourcommunity/2013/06/as-canadian-as.html).
 1. *Ontario* might be a Huron word for "great lake".

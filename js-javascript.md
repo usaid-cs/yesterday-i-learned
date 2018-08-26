@@ -28,7 +28,7 @@
 * Delegated events can be triggered by `.trigger("myCustomEvent", [data])`.
 * jQuery will ignore the `data` option when creating an element from string if the element already has data attribute(s).
 * `void 0 === undefined`. Actually, `void anything === undefined`, and `void;` alone is not valid syntax.
-* It was possible to define the global `undefined`; not possible anymore, because people were screwing around with it.
+* It was possible to define the global `undefined`; not possible anymore, because people were screwing around with it. It is still possible to declare your own `undefined` in any other scope.
 * `$([...]).each` is faster when `for` loops when it contains elements, and slower when it contains an ordinary iterable.
 * `new Object`, or any object in general (e.g. `Date`), does not require `()` to initialise. Strict mode will throw a warning, though.
 * It is possible to run a WebSocket inside a worker.
@@ -196,6 +196,7 @@ undefined
 * AirBnB had lots of [good times, and issues](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838) with React Native. For them (and probably a product their size), they say it was not worth it, but 80% of their engineers had a positive experience (apart from being paid to redo everything).
 * If you `var a = (1, 2)`, then `a` is just `2`, which makes sense once you realise there are no tuples.
 * `console.error` in node does not show the traceback, and the colour is not red (not always, anyway). So the only difference between `console.error` and `console.log` is where it goes (stderr/stdout).
+* ES 5.1 already has a method called [`Array.isArray()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray). "Little known fact: `Array.prototype` itself is an array"
 
 ## Deferred API
 

@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Samsung earns far more in its semiconductor business than its smartphone business, because smartphones are now a commodity, and have low profit margins. [It does not innovate in the smartphone business unless it has to.](https://www.youtube.com/watch?v=k05Q1k4A5ls) Sony had made a similar pivot to playstation and image sensors.
+1. [Xiaomi's "we'll make only 5%" slogan is a PR campaign](https://www.youtube.com/watch?v=esUOQpKNLsE), because firstly, the 5% only applies to their hardware business, where they don't earn money anyway, and secondly, investors do know the difference, so they will realise that lower hardware prices means higher profits from MIUI, their software division.
 1. Any app with "storage" access can [modify another app's update files](http://blog.checkpoint.com/2018/08/12/man-in-the-disk-a-new-attack-surface-for-android-apps/) to run malicious executable updates.
 1. LineageOS devs clearly and explicitly outline [hardware and software requirements for a device to qualify for an official build](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md).
 1. `adb install -r` installs the apk without failing when it already exists.

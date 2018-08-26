@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Breakaway valves found in gas gumpsare [not](https://www.reddit.com/r/WTF/comments/98iobj/how_do_you_forget_youre_still_pumping_gas/e4gkj50/) reusable.
 1. There exists [Zero Emission Vehicles](https://en.wikipedia.org/wiki/Zero-emissions_vehicle), [Partial zero-emissions vehicles](https://en.wikipedia.org/wiki/Partial_zero-emissions_vehicle), [Ultra-low-emission vehicles](https://en.wikipedia.org/wiki/Ultra-low-emission_vehicle), and, get a load of this, [Super ultra-low emission vehicles](https://en.wikipedia.org/wiki/Super_ultra-low_emission_vehicle).
 1. The EcoSport is pronounced [Echo-sport](https://www.youtube.com/watch?v=VnjttWVNKrI), because who knows.
 1. [Proximity key fobs are even worse than button fobs](https://www.usatoday.com/story/tech/columnist/komando/2018/08/10/forget-tin-foil-put-your-keys-fridge-keep-them-safe-car-thieves/939536002/). They transmit unlock instructions all the time, so the only safe way to keep it is in the fridge or microwave.

@@ -24,3 +24,4 @@
 1. Simply changing the the ASG's launch configuration does not imply instances that are not launched by that LC will be scaled down. So if you want to change the instance type of an ASG from A to B, you have to detach instances from A first.
 1. Adding `query` to the `aws` command line gives you just that part of the response. `AWS_PROFILE=foo aws rds describe-db-snapshots --db-snapshot-identifier dont-delete-this-snapshot --query "DBSnapshots[0].PercentProgress"` would give `100` instead of the JSON object.
 1. ["Cloudfront only accepts certificates hosted in region us-east-1."](https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394) - Sebastian, in 2017
+1. You can't share (with another account) an RDS snapshot that was encrypted with the default RDS key.

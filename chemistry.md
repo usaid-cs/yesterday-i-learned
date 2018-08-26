@@ -1,3 +1,4 @@
+1. A 85:15 ethene/oxygen mixture [was](https://medium.com/@pharmakeus/more-on-ethylene-anesthetic-gases-part-i-613324aa477c) sometimes used as a general anesthetic.
 1. DEET is N,N-Diethyl-meta-toluamide or diethyltoluamide, none of which have letters that spell DEET sequentially.
 1. [Vaseline stood for "wasser" (water) + "-line" (oil)](http://en.wikipedia.org/wiki/Petroleum_jelly), and it is not a trademark name in Europe.
 1. Not only does hydrogen leak out of metal containers, it weakens the containers by making them [brittle](http://en.wikipedia.org/wiki/Hydrogen_embrittlement).

@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. KDE's screenshot tool is called [`spectacle`](https://www.kde.org/applications/graphics/spectacle/).
 1. The name `grep` came from the `ed` command pattern `g/re/p` (find global matches of "re" and print them). Also, [`ed` is pronounced "EE DEE", says man](https://www.youtube.com/watch?v=NTfOnGZUZDk).
 1. `cat /path/to/{file1,file2,file3}` really lets you cat the three files without going there.
 1. [`tail *`](https://stackoverflow.com/a/7816490/1558430) is a viable alternative to `cat *` if you want to see the file names as well.
