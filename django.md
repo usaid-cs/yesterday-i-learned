@@ -52,6 +52,7 @@
 * Expressions in `blocktrans {{ this thing }} endblocktrans` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
 
 ## REST Framework
+* A `Serializer` can validate `request.query_params` (especially query strings that have repeated keys), but once you convert the query params to a `dict`, it cannot do the same thing anymore.
 
 ## Testing
 * Giving any `TestCase` a `fixtures` list attribute automatically loads these fixtures whenever the tests are run.

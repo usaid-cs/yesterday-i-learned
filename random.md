@@ -1,3 +1,14 @@
+1. At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
+1. [Summer/Winter solstices](https://en.wikipedia.org/wiki/Summer_solstice) are almost always on the 20th, 21st, 22nd, or 23rd of June or December, mostly depending on how "leap" the year is.
+1. Bisque are soups made with crustaceans.
+1. [People make extremely poor decisions](https://www.youtube.com/watch?v=c-4flnuxNV4). When presented with a three-year income graph, they would rather pick one with a rising pay, rather than one with falling pay, even if the total pay is higher for the latter.
+1. USA has laws governing [how many parking spots are required for a particular establishment](https://www.youtube.com/watch?v=Akm7ik-H_7U), pushing buildings farther apart, and making walk-friendly cities not really feasible.
+1. The order of respect goes as follows: [天地君亲师](https://baike.baidu.com/item/%E5%A4%A9%E5%9C%B0%E5%90%9B%E4%BA%B2%E5%B8%88/9048067), i.e. heaven, earth, husband, relatives, teacher.
+1. It is definitely Cliff's Notes, not Cliff notes.
+1. The act of moving your seat closer to your table is also called tucking in.
+1. "Snirty" is dirty snow.
+1. For large ships, the anchor itself isn't doing much of the anchoring; the chain is. Each link in the chain is hundreds of freedom pounds. [Other fun facts about anchors.](https://www.reddit.com/r/explainlikeimfive/comments/9agylr/eli5_how_do_boat_anchors_work_at_sea/e4vdjkq/)
+1. [UB40](https://en.wikipedia.org/wiki/UB40) the band was named after the *Unemployment Benefit Form 40* in the UK.
 1. Pythagoras knew that the Earth was round 500 years before Chris(t) was born.
 1. Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html).
 1. Sherbets can contain milk ingredients. Sorbets cannot.

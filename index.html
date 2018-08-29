@@ -37,6 +37,7 @@
                 margin: 15px 0;
             }
         </style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown.js/0.5.0/markdown.min.js"></script>
     </head>
     <body>
         <h1>YIL</h1>
@@ -83,7 +84,7 @@
             let results = search(el.value);
             setTimeout(() => {
                 if (results && results.length) {
-                    resultsEl.innerHTML = results.join('\n');
+                    resultsEl.innerHTML = markdown.toHTML(results.join('\n'));
                 } else {
                     resultsEl.innerHTML = 'No results';
                 }

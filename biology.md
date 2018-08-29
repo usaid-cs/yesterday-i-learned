@@ -1,3 +1,8 @@
+1. [Dissolvable stitches are treated by the body as foreign objects.](https://www.healthline.com/health/dissolvable-stitches) They can be absorbed, but the body will still generate a response to attack the foreign body.
+1. You can't exercise a specific area of your body and expect fat to be burned there.
+1. Animals usually last one billion heartbeats and die, but [humans and chickens somehow get 2 billion](https://gizmodo.com/5982977/how-many-heartbeats-does-each-species-get-in-a-lifetime).
+1. "Spitting" is too simple and has too few syllables, so doctors call it "expectorating".
+1. Chameleons shed skin.
 1. Rabbits prefer fruits that are softer than carrots, like bananas.
 1. Only one half of a bisected earthworm has a *chance* of regrowing.
 1. [Discarded medication pollute the soil, and therefore the ecosystem](https://www.winnipegfreepress.com/local/province-renews-partnership-in-medications-return-program-491479111.html). Unused meds should be incinerated instead.

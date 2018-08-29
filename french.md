@@ -24,6 +24,7 @@
 1. **Ça**: it. [Short for cela.](https://en.wiktionary.org/wiki/%C3%A7a) *Ça va*: it is going. *Ça va bien*: it is going well.
 1. **Cadeau**: gift. See also: *gâteau* (cake), *château* (castle), *chapeau* (hat), and *manteau* (coat).
 1. **C'est**: is used when the noun has an article (*le, la, l', un* or *une*) or a possessive before it. Say: *C'est ma femme*, not: *Elle est ma femme*.
+1. **Ce**: This. *Cet* is used if the noun starts in a vowel.
 1. **Celui**: the ones. *Et que celui qui a de quoi manger partage ce qu'il la*: and whoever has enough to eat shares what he has. Or something like that.
 1. **Chante**: sing.
 1. **Chat**: cat.
