@@ -1,3 +1,4 @@
+1. Houses have a flat ["nub"](https://www.youtube.com/watch?v=YX3G1r3ynfw) at the top, rather than a flat top or a sharp top, because of laziness, says video. Homes that are pretentious like that are alled McMansions.
 1. At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
 1. [Summer/Winter solstices](https://en.wikipedia.org/wiki/Summer_solstice) are almost always on the 20th, 21st, 22nd, or 23rd of June or December, mostly depending on how "leap" the year is.
 1. Bisque are soups made with crustaceans.
