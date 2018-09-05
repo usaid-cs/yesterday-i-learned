@@ -1,3 +1,4 @@
+1. [Bob The Builder has more UK Number One hits than Nirvana, Radiohead, The Who, Guns 'N Roses, and Metallica combined.](https://www.reddit.com/r/AskReddit/comments/9bj5c4/what_is_your_favorite_useless_fact/e53ko0b/) (None of the bands there have number one hits)
 1. Catana's last name is Chetwynd.
 1. [三毛](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_%28%E4%BD%9C%E5%AE%B6%29#%E8%BF%94%E5%9C%8B%E8%88%87%E6%83%85%E5%82%B7) is a woman. She tried to kill herself when, on the day of her wedding, she discovered her fiance already wed with another wife.
 1. In 2017, Jennifer Aniston remains divorced.

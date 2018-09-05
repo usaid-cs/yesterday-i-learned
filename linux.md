@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. Fix your everyday "WiFi keeps disconnecting on my (ubuntu wifi) laptop" problem by adding [`options iwlwifi 11n_disable=1`](https://appuals.com/ubuntu-16-04-to-17-10-wifi-and-ethernet-problem/) to the appropriate file in `/etc/modprobe.d`.
 1. KDE's screenshot tool is called [`spectacle`](https://www.kde.org/applications/graphics/spectacle/).
 1. The name `grep` came from the `ed` command pattern `g/re/p` (find global matches of "re" and print them). Also, [`ed` is pronounced "EE DEE", says man](https://www.youtube.com/watch?v=NTfOnGZUZDk).
 1. `cat /path/to/{file1,file2,file3}` really lets you cat the three files without going there.

@@ -1,3 +1,7 @@
+1. [RRS Boaty McBoatface](https://en.wikipedia.org/wiki/RRS_Sir_David_Attenborough) was unfortunately renamed to RRS Sir David Attenborough. Boaty McBoatface was itself a homage to an adopted owl, "Hooty McOwlface".
+1. Beefsteak are good for sandwiches... cherry are good for salads... plum are good for sauces
+1. A paperback romance novel in 1972 called [The Flame and the Flower](https://en.wikipedia.org/wiki/The_Flame_and_the_Flower) popularised the [historical] romance genre. It sold nine times as many copies as originally planned.
+1. No household power cable is sold with two male ends, because once you plug in one end, you get shocked by the other end.
 1. Houses have a flat ["nub"](https://www.youtube.com/watch?v=YX3G1r3ynfw) at the top, rather than a flat top or a sharp top, because of laziness, says video. Homes that are pretentious like that are alled McMansions.
 1. At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
 1. [Summer/Winter solstices](https://en.wikipedia.org/wiki/Summer_solstice) are almost always on the 20th, 21st, 22nd, or 23rd of June or December, mostly depending on how "leap" the year is.

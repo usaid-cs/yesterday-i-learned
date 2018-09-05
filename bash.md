@@ -276,5 +276,10 @@
 
 #### More resources
 
+    # Errors should always exit with 1.
+    # 2 is for "misuse of shell builtins".
+    # https://askubuntu.com/a/892605
+    # exit 1
+
     # https://www.shellcheck.net/
     exit 0

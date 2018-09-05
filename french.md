@@ -12,6 +12,8 @@
 1. **Aucun**: No. [*Aucun problème*](https://www.thoughtco.com/no-in-french-1371322): no problem.
 1. **Aujourd'hui**: Today. *au + jour + de + hui*: on the day of today.
 1. **d'Abord**: First. *Viens d'abord faire tes devoirs, tu joueras ensuite*: first do your homework, then play. *Premier* also means first.
+1. **Baiser**: to fuck.
+1. **Baisser**: to lower.
 1. **Banlieue**: suburbs. *J'habite en banlieue* (no *une*): I live in the suburbs.
 1. **Bâtiment**: building. *L'extérieur du bâtiment est sale*: The exterior of the building is dirty.
 1. **Beau-pere**: step father.

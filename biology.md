@@ -1,3 +1,10 @@
+1. A blackout is when we've done so much acute damage to our brain that the part responsible for memory has been impaired to the point where it stops functioning.
+1. Baby shrews hold onto each others tails so they don't lose each other,
+1. [Light drinking](https://www.ncbi.nlm.nih.gov/pubmed/16842939) (less than one glass a day) does not have a significant change in incidences of fetal alcohol syndrome.
+1. "Carnation" is a type of flower, [*Dianthus caryophyllus*](https://en.wikipedia.org/wiki/Dianthus_caryophyllus). "What in carnation" came from "What in tarnation", which is itself a twist of "What in damnation".
+1. Force-feeding is called [gavage](https://en.wikipedia.org/wiki/Force-feeding) if it is done with a tube down the throat.
+1. [On the same page](https://www.sarasotadentistry.com/dental-blog/after-wisdom-teeth-extraction-how-long-does-it-take-for-those-annoying-holes-to-fill-up-so-i-can-eat-and-feel-normal-again/): ""
+1. The perineum ("around" + "defecate") is the taint. It is pronounced pe-ri-NEE-um.
 1. [Dissolvable stitches are treated by the body as foreign objects.](https://www.healthline.com/health/dissolvable-stitches) They can be absorbed, but the body will still generate a response to attack the foreign body.
 1. You can't exercise a specific area of your body and expect fat to be burned there.
 1. Animals usually last one billion heartbeats and die, but [humans and chickens somehow get 2 billion](https://gizmodo.com/5982977/how-many-heartbeats-does-each-species-get-in-a-lifetime).
