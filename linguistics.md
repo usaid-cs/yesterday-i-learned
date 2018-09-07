@@ -1,3 +1,4 @@
+1. [萌](https://en.wiktionary.org/wiki/%E8%90%8C) can be understood as "cute" or "adorable", and 卖萌 màiméng would mean to act cutely.
 1. The correct spelling for "deli dali" is "dilly-dally".
 1. The act of abbreviating parts of a word with a number, even if the number starts or ends the word (e.g. w3), produces [numeronyms](https://en.wikipedia.org/wiki/Numeronym). The act of replacing letters with the same number of numbers, e.g. (act -> a1t, food -> f2d), is called trolling. The word "numeronym" is itself abbreviated to n7m.
 1. The letter T is rarely pronounced. See: "exactly", "often", "soften", "fasten".

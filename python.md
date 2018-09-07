@@ -447,6 +447,7 @@ bar
 1. PEP 515 describes underscores in numerals. `1_000_000` is really a million.
 1. PEP 526 introduces the first syntax that is *not* an expression. Variable type annotation `variable: int`, bearing in mind that doesn't assign anything to the variable, is not an expression.
 1. Guido and friend actually tried to distance their project from actual snakes, because the entire thing was supposed to be a Monty Python joke instead of a zoo, but finally [gave up when O'Reilly printed a snake in front of their first python book](https://www.youtube.com/watch?v=gJ4duC-V6Xw).
+1. A `finally` clause could not contain a `continue` [until python3.8](https://docs.python.org/3.8/whatsnew/3.8.html#other-language-changes).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,3 +1,6 @@
+1. A [buddha bowl](https://www.buzzfeed.com/michelleno/14-buddha-bowl-recipes-that-will-satisfy-every-craving) is just a bowl with whatever the heck they feel like.
+1. In America, you may copyright the design of a dress, but you may not copyright the shape of the dress. This leads to [knockoffs](https://www.youtube.com/watch?v=U9wY8Wz6lCs) (lookalikes), but not counterfeits (fake things with the original makers' logo).
+1. ACG is short for Anime, Comics, and Games.
 1. [RRS Boaty McBoatface](https://en.wikipedia.org/wiki/RRS_Sir_David_Attenborough) was unfortunately renamed to RRS Sir David Attenborough. Boaty McBoatface was itself a homage to an adopted owl, "Hooty McOwlface".
 1. Beefsteak are good for sandwiches... cherry are good for salads... plum are good for sauces
 1. A paperback romance novel in 1972 called [The Flame and the Flower](https://en.wikipedia.org/wiki/The_Flame_and_the_Flower) popularised the [historical] romance genre. It sold nine times as many copies as originally planned.

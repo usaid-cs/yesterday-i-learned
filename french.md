@@ -173,6 +173,7 @@
 1. **Sinon**: Otherwise. Literally *si non*, "if not".
 1. **Soupe**: soup.
 1. **Souvenir**, to remember, or a (uh) souvenir. *Je ne m'en je suis pas souvenu*: I did not remember it.
+1. **Soyez prêt**: be ready.
 1. **le Sud**: the south.
 1. **Suivre**: to follow. *Suis-moi*: follow me.
 1. **-t-**: To use to invert questions whose pronouns [end with a vowel](https://www.thoughtco.com/uses-of-french-inversion-4086442). For other types of pronouns, invert as usual. *Comment va-t-il?*: How is he doing? *Ou sera-t-il*: Where will he be? **The most formal way of asking a question is to use an inversion**.

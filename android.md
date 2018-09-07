@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. [Android 9 Pie is a whole load of crap](https://www.reddit.com/r/Android/comments/9dprkc/if_you_could_what_changes_would_you_make_to/): left clock can't be moved, circular status bar thing can't be themed away (because substratum theming doesn't work), can't record calls, horizontal recents doesn't scroll well...
 1. Samsung earns far more in its semiconductor business than its smartphone business, because smartphones are now a commodity, and have low profit margins. [It does not innovate in the smartphone business unless it has to.](https://www.youtube.com/watch?v=k05Q1k4A5ls) Sony had made a similar pivot to playstation and image sensors.
 1. [Xiaomi's "we'll make only 5%" slogan is a PR campaign](https://www.youtube.com/watch?v=esUOQpKNLsE), because firstly, the 5% only applies to their hardware business, where they don't earn money anyway, and secondly, investors do know the difference, so they will realise that lower hardware prices means higher profits from MIUI, their software division.
 1. Any app with "storage" access can [modify another app's update files](http://blog.checkpoint.com/2018/08/12/man-in-the-disk-a-new-attack-surface-for-android-apps/) to run malicious executable updates.

@@ -1,3 +1,7 @@
+1. To raise metabolic rate, [drink cold water](https://www.healthline.com/nutrition/10-ways-to-boost-metabolism#section1).
+1. [Carrageenan](https://en.wikipedia.org/wiki/Carrageenan), a type of gel from seaweed, is a gelatin replacement for vegans.
+1. Goldfish lose their classic orange colour after being in the wild for a few generations.
+1. Right after molting, crabs fill their bodies with water, so their new shells are bigger than the old ones.
 1. A blackout is when we've done so much acute damage to our brain that the part responsible for memory has been impaired to the point where it stops functioning.
 1. Baby shrews hold onto each others tails so they don't lose each other,
 1. [Light drinking](https://www.ncbi.nlm.nih.gov/pubmed/16842939) (less than one glass a day) does not have a significant change in incidences of fetal alcohol syndrome.
@@ -139,7 +143,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [Mites can grow in eyes?](http://www.wikihow.com/Know-if-You-Have-Eye-Mites?amp=1)
 1. Shedding snakes have a white coating on the eyes, like cataract.
 1. Aside from the color issue, dogs' sight is pretty bad. Using a custom eye test for dogs, researchers have found that dogs basically have 20/75 vision compared to a person's 20/20 vision.
-1. "Tiredness" is caused by swolling of the brain (caused by) the accumulation of metabolic wastes. The shrinkage of space between the gyri and sulci (mountains and valleys) of the brain reduces the ability for waste to be removed from the system.
+1. "Tiredness" is caused by swolling of the brain (caused by) the accumulation of metabolic waste. The shrinkage of space between the gyri and sulci (mountains and valleys) of the brain reduces the ability for waste to be removed from the system.
 1. Pinned-back ears mean the animal is annoyed/ready to attack. This is apparently universal.
 1. Humans [do not sneeze while they sleep](https://www.reddit.com/r/askscience/comments/2vkpv0/do_people_sneeze_while_they_sleep).
 1. [Tea](https://en.wikipedia.org/wiki/Tea) is exclusively beverages brewed with [Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) leaves. All other forms of brewed beverages can be called "juices".
