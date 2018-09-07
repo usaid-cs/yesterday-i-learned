@@ -594,7 +594,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Cold dogs (like huskies and doges) shed in the spring. Hot dogs never shed.
 1. The distinct lychee smell (not taste) is 100% [lost through canning](https://en.wikipedia.org/wiki/Lychee). It can only be smelled when eating fresh. Nine fresh lychees provides the daily requirement of vitamin C. It otherwise provides next to no nutritional value.
 1. (Some) fish can be eaten raw and chicken cannot, [simply](https://www.youtube.com/watch?v=9aoTr9CbHew) because fish bacteria usually aren't that harmful to humans.
-1. Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accomodate the animal's larger body before it hardens again.
+1. Invertibrate moulting is called [ecdysis](http://en.wikipedia.org/wiki/Ecdysis). Exoskeleton is shed off, and the soft, new exoskeleton inside expand to accommodate the animal's larger body before it hardens again.
 1. [Beekeeper evaluates the flow hive](https://www.youtube.com/watch?v=X4v4IHGvPLA): [Cutting the hive](https://www.honeyflow.com/) in halves drains both cured honey and uncured honey (which ferments), something you don't want. It also prevents actual beekeeping like checking for parasites. The caps are kept on the combs, so bees assume there is still honey there, and when they need the honey, they will find none, then starve to death.
 1. Plants can easily [outlive animals](https://en.wikipedia.org/wiki/List_of_longest-living_organisms) by a factor of ten. The current live record is a factor of 25 (5000/186).
 1. [The passenger pidgey](https://en.wikipedia.org/wiki/Passenger_pigeon) (wild pidgey) was fought to extinction.
