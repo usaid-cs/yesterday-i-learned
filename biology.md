@@ -1,3 +1,5 @@
+1. Almost 30% of the body's [basal metabolic activity](https://en.wikipedia.org/wiki/Basal_metabolic_rate) belongs to the liver.
+1. Japanese salespeople claim that their [black rice vinegar](https://en.wikipedia.org/wiki/Rice_vinegar) (黒酢, kurozu) is a healthy drink.
 1. To raise metabolic rate, [drink cold water](https://www.healthline.com/nutrition/10-ways-to-boost-metabolism#section1).
 1. [Carrageenan](https://en.wikipedia.org/wiki/Carrageenan), a type of gel from seaweed, is a gelatin replacement for vegans.
 1. Goldfish lose their classic orange colour after being in the wild for a few generations.
@@ -128,6 +130,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Four Schneiders pepperette sticks give you enough sodium for the whole day.
 1. In the [additive colour](https://en.wikipedia.org/wiki/Additive_color) model, any colour appears to be white if whatever it is there emits photons that strongly activate [L, M, and S cones](https://en.wikipedia.org/wiki/LMS_color_space) at the same time. "LMS" is just Long, Medium, and Short [wavelength].
 1. ["A tampon doesn't affect your virginity. The opening in your hymen is large enough for the (...)"](https://meninmenstruation.files.wordpress.com/2011/06/obtamponinstructions.jpg)
+1. ["Estradiol, which is a type of estrogen, seemed to positively correlate with sexual appetite (more estradiol, and two days later, more desire) while progesterone seemed to suppress sexual desire within a day or two."](https://www.theguardian.com/lifeandstyle/2016/oct/15/how-period-affects-sex-drive-menstruation-ovulation)
 1. Such a thing as [Project Isabela](https://www.galapagos.org/conservation/our-work/ecosystem-restoration/project-isabela/) happened to eradicate alien goats from the Galapagos islands, which were destroying the native vegetation and starving [land turtles](https://en.wikipedia.org/wiki/Turtle#Turtle,_tortoise,_or_terrapin) to death. When strafing from helicopters stopped becoming effective, the concept of "Judas goats" arrived to make captive goats betray their own friends' location and get them killed.
 1. [Emasculation](https://en.wikipedia.org/wiki/Emasculation) is the removal of male sex organs. You cannot "feel emasculated" and not have your penis removed at the same time.
 1. The bubonic plague is still everywhere.

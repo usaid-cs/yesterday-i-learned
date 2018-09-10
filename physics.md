@@ -1,3 +1,4 @@
+1. [Liquid or liquid-like cargo can sloth inside the ship, making the ship less stable.](https://theconversation.com/mystery-of-the-cargo-ships-that-sink-when-their-cargo-suddenly-liquefies-101158)
 1. Capacitive touchscreens work with any conductor. They just need a big enough surface area to register as a proper finger.
 1. A [pulse](https://en.wikipedia.org/wiki/Pulse_%28signal_processing%29) that lasts literally no time is called a [Dirac pulse](https://en.wikipedia.org/wiki/Dirac_delta_function).
 1. Venus' atmosphere is 90 Earth atmospheres' worth of pressure. [Most of the probes sent there imploded in midair](https://www.youtube.com/watch?v=gJ5KV3rzuag).

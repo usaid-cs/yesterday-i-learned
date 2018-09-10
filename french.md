@@ -147,6 +147,7 @@
 1. **Portefeuille**: wallet. Literally ["Door leaf"](http://www.french-linguistics.co.uk/grammar/french_spelling_reform_hyphen.shtml).
 1. **Pourquoi**: why/for what.
 1. **Pouvoir**: can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
+1. **Prêt**: loan. *Avez vous besoin d'un prêt?*: Do you need [a loan](https://www.google.ca/search?q="a+loan+to+eating")?
 1. **Proche**: close/near. *la fin du Canada est proche*: the end of Canada is near.
 1. **Punis**: punish. *Ne te punis pas*: do not punish me.
 1. **Quartier**: neighbourhood or district. *Le marché du quartier*: the neighbourhood market.

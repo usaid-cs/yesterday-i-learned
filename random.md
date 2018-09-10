@@ -1,4 +1,5 @@
-1. A [buddha bowl](https://www.buzzfeed.com/michelleno/14-buddha-bowl-recipes-that-will-satisfy-every-craving) is just a bowl with whatever the heck they feel like.
+1. [Miller's Law](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), the psychological theory that the average human has 7 +/- 2 [short term memory](https://en.wikipedia.org/wiki/Short-term_memory) "slots", was later revised in 2001 by Cowan to be 4 +/- 1 units, so don't feel too bad if you don't hit 7.
+1. [Max Park](https://en.wikipedia.org/wiki/Max_Park) is the world's speed cubing champion (or second place). He is autistic.
 1. In America, you may copyright the design of a dress, but you may not copyright the shape of the dress. This leads to [knockoffs](https://www.youtube.com/watch?v=U9wY8Wz6lCs) (lookalikes), but not counterfeits (fake things with the original makers' logo).
 1. ACG is short for Anime, Comics, and Games.
 1. [RRS Boaty McBoatface](https://en.wikipedia.org/wiki/RRS_Sir_David_Attenborough) was unfortunately renamed to RRS Sir David Attenborough. Boaty McBoatface was itself a homage to an adopted owl, "Hooty McOwlface".
