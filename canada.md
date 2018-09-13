@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. There is a Dollarama in every province.
 1. You don't need a stamp to deliver letters to the prime minister.
 1. Social insurance numbers for temporary residents begin with a 9. Everyone else gets a number 5.
 1. Amazon stopped doing free shipping for Canadian Prime users outside populated places (excluding islands and fly-in communities) in 2015.
