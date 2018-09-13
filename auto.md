@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Engines with long strokes typically make higher torque at lower RPMs, while engines with shorter strokes need to be at higher RPMs to achieve the same torque.
 1. The first generation Chevy Cruze came with an underbody cover for better aerodynamics, but also had an oil leak issue that made the covers flammable.
 1. Breakaway valves found in gas gumpsare [not](https://www.reddit.com/r/WTF/comments/98iobj/how_do_you_forget_youre_still_pumping_gas/e4gkj50/) reusable.
 1. There exists [Zero Emission Vehicles](https://en.wikipedia.org/wiki/Zero-emissions_vehicle), [Partial zero-emissions vehicles](https://en.wikipedia.org/wiki/Partial_zero-emissions_vehicle), [Ultra-low-emission vehicles](https://en.wikipedia.org/wiki/Ultra-low-emission_vehicle), and, get a load of this, [Super ultra-low emission vehicles](https://en.wikipedia.org/wiki/Super_ultra-low_emission_vehicle).

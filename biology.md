@@ -1,3 +1,12 @@
+1. Extreme dehydration can occasionally make your hand skin peel off.
+1. [Minoxidil](https://en.wikipedia.org/wiki/Minoxidil) (basically what Rogaine is) works by opening potassium channels in hair follicles, which... although not well understood, theoretically allows greater availablity of nutrients to hair follicles. Minoxidil happens to also cause temporary hair loss, called "shedding".
+1. Sarcopenia is to muscle [what osteopenia is to the bone](https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html).
+1. [Leukorrhea](https://en.wikipedia.org/wiki/Leukorrhea) is thick, yellowish, or whitlish vaginal discharge.
+1. Bamboo is technically a grass.
+1. Bats pee on themselves every single time.
+1. [Marburg virus disease](https://en.wikipedia.org/wiki/Marburg_virus_disease), with symptoms exactly like ebola, is incurable, with a death rate of 90%.
+1. [Only the migratory generation of monarch butterflies live for months](http://www.flightofthebutterflies.com/life-cycle/), where they can travel from the US to Mexico in just one generation. The rest of them live for four to six weeks. "While all monarch butterflies carry the DNA to make this long journey, it is only this southern flying generation that is triggered by various external factors in the fall to become a Super Butterfly."
+1. Bonsai plants are just normal plants that can't grow. The main root is cut off, and their pots are small on purpose.
 1. Almost 30% of the body's [basal metabolic activity](https://en.wikipedia.org/wiki/Basal_metabolic_rate) belongs to the liver.
 1. Japanese salespeople claim that their [black rice vinegar](https://en.wikipedia.org/wiki/Rice_vinegar) (黒酢, kurozu) is a healthy drink.
 1. To raise metabolic rate, [drink cold water](https://www.healthline.com/nutrition/10-ways-to-boost-metabolism#section1).
@@ -50,7 +59,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Exercise (or any other way to get your mind off it really) can [prevent cocaine addiction relapses](https://medicalxpress.com/news/2018-08-cocaine-addiction.html).
 1. Goats and sheep (Caprinae) and mate, but their offspring are sterile.
 1. [Oxytocin](https://en.wikipedia.org/wiki/Oxytocin) is in chromosome 2 in mice, but chromosome 20 in humans.
-1. Make yourself bleed yet again (for religious or cultural reasons) by [fixing your hymen](https://en.wikipedia.org/wiki/Hymenorrhaphy). Styles range from actually tearing a piece of the uterine lining out to make a new membrane, to just a cosmetic piece of gelatin with a capsule of red dye in it.
+1. Make yourself bleed yet again (for religious or cultural reasons) by [fixing your hymen](https://en.wikipedia.org/wiki/Hymenorrhaphy). Styles range from actually tearing a piece of the uterine lining out to make a new membrane, to just a cosmetic piece of gelatin with a capsule of red dye in it. Unrelated: [hyman illustration](https://www.quora.com/How-does-period-blood-come-out-if-the-hymen-covers-the-cervix/answer/Ken-Saladin)
 1. [Avascular necrosis or "osteonecrosis"](https://en.wikipedia.org/wiki/Avascular_necrosis) aka 骨枯 occurs when a piece of bone loses its blood supply. The end result is pain and the inability to move. Fractures and dislocations can be risk factors.
 1. Ichthyosaurs beat their lateral fins left and right. Dolphins beat their lateral fins up and down. They are otherwise visually similar.
 1. The baculum (i.e. penis bone, see below) is used by mammals to penetrate the vagina without the penis first becoming erect. The act of the dog humping *then* causes the penis to erect.

@@ -1,3 +1,7 @@
+1. "Snide" means derogatory or mocking, but indirectly.
+1. *Yankee* might have come from [Dutch *Janke* or *Janneke*](https://en.wikipedia.org/wiki/Yankee#Dutch_origin), as New York was [New Netherland](https://en.wikipedia.org/wiki/New_Netherland), a Dutch colony.
+1. *Plaid* is pronounced PLAAD because the word [came from](https://english.stackexchange.com/questions/36415/why-is-plaid-pronounced-plad) Scots Gaelic *plaide* ("blanket"), where *ai* has just the AH sound.
+1. A collier is either a necklace or a coal miner, depending on [whom](https://ell.stackexchange.com/questions/108782/depends-on-who-you-ask-vs-depends-on-whom-you-ask) you ask.
 1. Funk or *Funke* is high German for "spark".
 1. [萌](https://en.wiktionary.org/wiki/%E8%90%8C) can be understood as "cute" or "adorable", and 卖萌 màiméng would mean to act cutely.
 1. The correct spelling for "deli dali" is "dilly-dally".

@@ -1,3 +1,11 @@
+1. Stripe has to option to [not send you your own money unless you tell it to](https://stripe.com/docs/payouts#manual-payouts), through the API.
+1. Most adult friendships flake into nothing if [the people fail to meet up](https://www.vox.com/first-person/2018/8/16/17694356/how-to-make-friends-adulthood?mc_cid=234c370ac6&mc_eid=%5BUNIQID).
+1. 10 out of 10 dentists recommend toothpaste. Ads say "9 out of 10" just because it is more believable.
+1. [God definitely pulled an Anakin](https://knowyourmeme.com/memes/i-killed-them-all) in 1 Samuel 15: ["Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys"](https://www.biblegateway.com/passage/?search=1+Samuel+15&version=NIV)
+1. If you like kinky bondage sex, write down a contract with your partner for if/when they call the cops on you.
+1. On at least one occasion, [God told two bears to maul 42 boys to death](https://biblehub.com/2_kings/2-24.htm), so it is within reason that God wants (some) people to die.
+1. Fancy patterned rims found on women's underwear are called lace edges.
+1. Elon Musk's mood could be predicted by looking at [Talulah Riley's hair colour](https://www.businessinsider.com/elon-musk-mood-talulah-riley-hair-color-2018-8), with the best mood being predicted if her hair is platinum. They married and divorced twice; she then moved on to star as Angela on Westworld.
 1. [Miller's Law](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), the psychological theory that the average human has 7 +/- 2 [short term memory](https://en.wikipedia.org/wiki/Short-term_memory) "slots", was later revised in 2001 by Cowan to be 4 +/- 1 units, so don't feel too bad if you don't hit 7.
 1. [Max Park](https://en.wikipedia.org/wiki/Max_Park) is the world's speed cubing champion (or second place). He is autistic.
 1. In America, you may copyright the design of a dress, but you may not copyright the shape of the dress. This leads to [knockoffs](https://www.youtube.com/watch?v=U9wY8Wz6lCs) (lookalikes), but not counterfeits (fake things with the original makers' logo).
@@ -2556,7 +2564,7 @@
 1. Discarded human waste, along with disintegrating [mudbricks][wikipedia 120], create [tells][wikipedia 121], elevated mounds of stuff. Sometimes "Tel" gets into the location's name. Tel Aviv might be one.
 1. [Cob][wikipedia 122] is poor man's building material, similar to [adobe][wikipedia 123], which a company named itself for its building block properties.
 1. [Fourier series visual][wikimedia]
-1. [The Passion of the Christ][wikipedia 125] was a controversial film, because viewers didn't know [the meaning of the word Passion in Christian context][wikipedia 126]).
+1. [The Passion of the Christ](https://en.wikipedia.org/wiki/The_Passion_of_the_Christ#Reception) was a controversial film, because viewers didn't know [the meaning of the word Passion in Christian context](https://en.wikipedia.org/wiki/Passion_%28Christianity%29).
 1. The refugee issue is caused by [western interests in a natural gas pipeline][reddit 45] from Saudi to Europe.
 1. In-N-Out [cook beef patties with mustard](http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/).
 1. [Kentucky, Massachusetts, Pennsylvania, and Virginia][wikipedia 127] use the official title of Commonwealth rather than State.
@@ -3357,8 +3365,6 @@
 [wikipedia 121]: https://en.wikipedia.org/wiki/Tell
 [wikipedia 122]: https://en.wikipedia.org/wiki/Cob_(building
 [wikipedia 123]: https://en.wikipedia.org/wiki/Adobe
-[wikipedia 125]: https://en.wikipedia.org/wiki/The_Passion_of_the_Christ#Reception
-[wikipedia 126]: https://en.wikipedia.org/wiki/Passion_(Christianity
 [wikipedia 127]: https://en.wikipedia.org/wiki/US_states
 [wikipedia 128]: https://en.wikipedia.org/wiki/Q_source
 [wikipedia 129]: https://en.wikipedia.org/wiki/Criterion_of_embarrassment

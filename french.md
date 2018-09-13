@@ -70,6 +70,7 @@
 1. [**Être**](https://en.wiktionary.org/wiki/%C3%AAtre): to be. *Vous êtes des idiots*: you are idiots.
 1. **Façon**: way. *La même façon*: the same way.
 1. **Faim**: hunger. *Avez vous faim*: Are you hungry? (Do you have hunger)
+1. **Faire**: do OR make. *Que faisons-nous*: what do we do/make?
 1. **Femme**: woman. *Ma femme*: my wife.
 1. **Fil**: wire. *Sans-fil*: wireless.
 1. **Fille**: girl. *Ma fille*: my daughter.

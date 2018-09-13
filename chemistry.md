@@ -1,3 +1,4 @@
+1. [Selenium disulfide](https://en.wikipedia.org/wiki/Selenium_disulfide) as a dandruff treatment works only if you keep using it. Dandruff comes back if you stop.
 1. [Do **not** hit someone in the head with a glass bottle.](https://www.reddit.com/r/AskReddit/comments/9cc7cy/what_are_some_cliche_things_that_people_do_in/e59q50x/) [Glass bottles in movies are made of sugar or plastic](https://www.reddit.com/r/AskReddit/comments/9cc7cy/what_are_some_cliche_things_that_people_do_in/e59uzs0/) and will break much more easily than actual glass bottles. People can die if you fracture their skull.
 1. A 85:15 ethene/oxygen mixture [was](https://medium.com/@pharmakeus/more-on-ethylene-anesthetic-gases-part-i-613324aa477c) sometimes used as a general anesthetic.
 1. DEET is N,N-Diethyl-meta-toluamide or diethyltoluamide, none of which have letters that spell DEET sequentially.
