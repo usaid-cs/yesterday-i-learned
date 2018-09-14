@@ -11,6 +11,7 @@
 * [agile.md](agile.md)
 
 ## Religion
+* [christianity.md](christianity.md)
 
 ## Social sciences
 * [anthropology.md](anthropology.md)
@@ -46,6 +47,7 @@
 * [flask.md](flask.md)
 * [git.md](git.md)
 * [go.md](go.md)
+* [ham-radio.md](ham-radio.md)
 * [haskell.md](haskell.md)
 * [heroku.md](heroku.md)
 * [html.md](html.md)

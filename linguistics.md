@@ -1,3 +1,4 @@
+1. There is [no](https://english.stackexchange.com/questions/250861/feminine-version-of-colloquial-use-hi-man/250868) "hey man" equivalent for older women. For younger women there may be a "hey girl", but "hey madam" is not common.
 1. "Snide" means derogatory or mocking, but indirectly.
 1. *Yankee* might have come from [Dutch *Janke* or *Janneke*](https://en.wikipedia.org/wiki/Yankee#Dutch_origin), as New York was [New Netherland](https://en.wikipedia.org/wiki/New_Netherland), a Dutch colony.
 1. *Plaid* is pronounced PLAAD because the word [came from](https://english.stackexchange.com/questions/36415/why-is-plaid-pronounced-plad) Scots Gaelic *plaide* ("blanket"), where *ai* has just the AH sound.

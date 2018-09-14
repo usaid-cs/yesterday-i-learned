@@ -1,3 +1,7 @@
+1. A condom failure rate of 3% is an annual statistic that, using these condoms, 3 out of 100 people (the women?) get pregnant, despite having used the condoms *correctly*.
+1. Hillary Clinton once said [Pokemon Go to the polls](https://duckduckgo.com/?q=pokemon+go+to+the+polls) in an attempt to get young people to vote.
+1. The "ham" in [ham radio](https://en.wikipedia.org/wiki/Amateur_radio#Ham_radio) was a pejorative term to describe how "ham-fisted" the amateur operators were. They still are ham-fisted today, but they used to, too.
+1. 一手股票 is a [board lot](https://www.investopedia.com/terms/b/boardlot.asp).
 1. Stripe has to option to [not send you your own money unless you tell it to](https://stripe.com/docs/payouts#manual-payouts), through the API.
 1. Most adult friendships flake into nothing if [the people fail to meet up](https://www.vox.com/first-person/2018/8/16/17694356/how-to-make-friends-adulthood?mc_cid=234c370ac6&mc_eid=%5BUNIQID).
 1. 10 out of 10 dentists recommend toothpaste. Ads say "9 out of 10" just because it is more believable.

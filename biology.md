@@ -1,3 +1,6 @@
+1. [Senna](https://en.wikipedia.org/wiki/Senna_glycoside) (not to be confused with John Cena) is used to empty the patient's bowels before surgery.
+1. Chlorhexidine mouthwash impairs taste.
+1. [Snipes](https://en.wikipedia.org/wiki/Snipe) are birds. They look like sandpipers. The difficulty in hunting them gave rise to the term "sniper", people who hunt snipes.
 1. Extreme dehydration can occasionally make your hand skin peel off.
 1. [Minoxidil](https://en.wikipedia.org/wiki/Minoxidil) (basically what Rogaine is) works by opening potassium channels in hair follicles, which... although not well understood, theoretically allows greater availablity of nutrients to hair follicles. Minoxidil happens to also cause temporary hair loss, called "shedding".
 1. Sarcopenia is to muscle [what osteopenia is to the bone](https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html).
