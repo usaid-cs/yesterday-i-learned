@@ -1,3 +1,4 @@
+1. The German word *Schiff* means "ship" because the [High German Consonant Shift](https://en.wikipedia.org/wiki/High_German_consonant_shift) changed the sound of the word from "ship" to "shiff" during the 4th or 5th century. *Appel* also changed some time later to *Apfel* in a similar shift.
 1. There is [no](https://english.stackexchange.com/questions/250861/feminine-version-of-colloquial-use-hi-man/250868) "hey man" equivalent for older women. For younger women there may be a "hey girl", but "hey madam" is not common.
 1. "Snide" means derogatory or mocking, but indirectly.
 1. *Yankee* might have come from [Dutch *Janke* or *Janneke*](https://en.wikipedia.org/wiki/Yankee#Dutch_origin), as New York was [New Netherland](https://en.wikipedia.org/wiki/New_Netherland), a Dutch colony.

@@ -239,6 +239,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. Contrary to their names, `/etc/passwd` stores user information, and [`/etc/shadow`](https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd#445365) stores the (encrypted) passwords.
 1. To decrypt a file, use `vim -X foo` right. But to *save* the file decrypted, use `:X` inside vim, and when it asks you for the password twice, just press enter twice for a blank password. Save normally with `:w`.
 1. Zombie processes cannot be **SIGKILL**ed.
+1. `grep -o` prints only the matched part of the string. This is useful for piping the output somewhere else, like `adb pull "/sdcard/Signal/Backups/$(adb ls '/sdcard/Signal/Backups/' | tail -n 1 | grep -oE 'signal-.+\.backup')"` (copying the last automatically-generated Signal backup).
 
 ## Tmux
 

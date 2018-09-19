@@ -1,3 +1,4 @@
+1. Taping windows during a hurricane [does little to protect people](https://science.howstuffworks.com/nature/climate-weather/storms/10-pieces-of-disaster-safety-advice-you-should-ignore3.htm), since glass is still glass, and taping only controls how big the shards are.
 1. [Liquid or liquid-like cargo can sloth inside the ship, making the ship less stable.](https://theconversation.com/mystery-of-the-cargo-ships-that-sink-when-their-cargo-suddenly-liquefies-101158)
 1. Capacitive touchscreens work with any conductor. They just need a big enough surface area to register as a proper finger.
 1. A [pulse](https://en.wikipedia.org/wiki/Pulse_%28signal_processing%29) that lasts literally no time is called a [Dirac pulse](https://en.wikipedia.org/wiki/Dirac_delta_function).

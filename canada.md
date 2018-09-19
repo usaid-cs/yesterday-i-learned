@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Nanaimo](https://en.wikipedia.org/wiki/Nanaimo) is a city on Vancouver Island. The [Nanaimo bar](https://en.wikipedia.org/wiki/Nanaimo_bar), contrary to west coast culture, is famous for requiring no baking.
+1. The expectation is [income equality should be the norm](https://www150.statcan.gc.ca/n1/daily-quotidien/170913/dq170913a-eng.htm) as older people retire. Current statistic is 1/3 of couples having equal income.
 1. There is a Dollarama in every province.
 1. You don't need a stamp to deliver letters to the prime minister.
 1. Social insurance numbers for temporary residents begin with a 9. Everyone else gets a number 5.

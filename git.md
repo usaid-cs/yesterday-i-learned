@@ -411,6 +411,11 @@ In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the ed
 
 `git commit --allow-empty --allow-empty-message`
 
+### I want to create an empty directory
+
+Throw a [`.gitkeep`](https://stackoverflow.com/questions/7229885/what-are-the-differences-between-gitignore-and-gitkeep) (or any other placeholder file).
+
+
 ### My fingers are YUUUGE
 
 `git config --global help.autocorrect 1`

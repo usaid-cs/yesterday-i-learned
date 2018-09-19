@@ -1,3 +1,11 @@
+1. Empty your vacuum cleaner outside...
+1. A [club sandwich](https://en.wikipedia.org/wiki/Club_sandwich) is also called a clubhouse sandwich.
+1. Switzerland is *very, very expensive*, even by European standards.
+1. Angkor Wat translates to [吴哥窟](https://zh.wikipedia.org/wiki/%E5%90%B4%E5%93%A5%E7%AA%9F).
+1. Kitkat filling is just recycled kitkats.
+1. A left-handed bowler should [stand to the left of the lane](https://i.redd.it/fe2r42173am11.jpg), *as well as looking down that line*, to ensure the ball lands near the middle.
+1. [William Henry Harrison](https://en.wikipedia.org/wiki/William_Henry_Harrison) (the 9th US president) took office for only 31 days, before he died of pneumonia.
+1. [Two of the US presidents have a last name that start with TRUM](https://xkcd.com/2046/) (Truman and Trump), and there were three terms during which the president was called Franklin D. Roosevelt.
 1. A condom failure rate of 3% is an annual statistic that, using these condoms, 3 out of 100 people (the women?) get pregnant, despite having used the condoms *correctly*.
 1. Hillary Clinton once said [Pokemon Go to the polls](https://duckduckgo.com/?q=pokemon+go+to+the+polls) in an attempt to get young people to vote.
 1. The "ham" in [ham radio](https://en.wikipedia.org/wiki/Amateur_radio#Ham_radio) was a pejorative term to describe how "ham-fisted" the amateur operators were. They still are ham-fisted today, but they used to, too.

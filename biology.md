@@ -1,3 +1,10 @@
+1. Straw is leftovers from growing grain crops. Hay is food for animals.
+1. Dog paws smell like corn chips from elevated bacterial activity.
+1. The [perineal raphe](https://en.wikipedia.org/wiki/Perineal_raphe) is actually a fused vagina. It is a sign that [every man had one](https://www.menshealth.com/health/a19516412/3-signs-you-started-as-a-girl/).
+1. [Air-chilled chicken](https://thetakeout.com/what-exactly-is-air-chilled-chicken-1826144272) "did not absorb" cold salt water that was used to cool it, because when meat is chilled with air, there is no salt water involved.
+1. Pineapple juice makes coughs better, but sore throats worse.
+1. The world's tallest man once [reach into a dolphin's throat](http://news.bbc.co.uk/2/hi/asia-pacific/6178659.stm) to get plastic out of it.
+1. [Black bears](https://en.wikipedia.org/wiki/American_black_bear#Behavior_and_life_history) have seven times better sense of smell than dogs, and even better eyesight and hearing than humans.
 1. [Senna](https://en.wikipedia.org/wiki/Senna_glycoside) (not to be confused with John Cena) is used to empty the patient's bowels before surgery.
 1. Chlorhexidine mouthwash impairs taste.
 1. [Snipes](https://en.wikipedia.org/wiki/Snipe) are birds. They look like sandpipers. The difficulty in hunting them gave rise to the term "sniper", people who hunt snipes.
