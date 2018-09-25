@@ -1,3 +1,4 @@
+1. The ionosphere is most ionised during midday, because that's when there is the most sun.
 1. Taping windows during a hurricane [does little to protect people](https://science.howstuffworks.com/nature/climate-weather/storms/10-pieces-of-disaster-safety-advice-you-should-ignore3.htm), since glass is still glass, and taping only controls how big the shards are.
 1. [Liquid or liquid-like cargo can sloth inside the ship, making the ship less stable.](https://theconversation.com/mystery-of-the-cargo-ships-that-sink-when-their-cargo-suddenly-liquefies-101158)
 1. Capacitive touchscreens work with any conductor. They just need a big enough surface area to register as a proper finger.
@@ -27,3 +28,4 @@
 1. 75% of the mass of the universe is hydrogen, and 25% helium. The rest are insignificant.
 1. The fastest object to be propelled by man, apart from trivial things like particles, was a [manhole cover](https://en.wikipedia.org/wiki/Operation_Plumbbob#Propulsion_of_steel_plate_cap), at 0.02% the speed of light.
 1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)
+1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.](https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/) This makes electroshocking impossible in salt water.

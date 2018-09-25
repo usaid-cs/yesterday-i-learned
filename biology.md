@@ -1,3 +1,4 @@
+1. Tortoiseshell [cat]s have orange, black and brown fur that requires two X chromosomes, the vast majority of tortoiseshells are female, with approximately 1 in 3,000 being male.
 1. Straw is leftovers from growing grain crops. Hay is food for animals.
 1. Dog paws smell like corn chips from elevated bacterial activity.
 1. The [perineal raphe](https://en.wikipedia.org/wiki/Perineal_raphe) is actually a fused vagina. It is a sign that [every man had one](https://www.menshealth.com/health/a19516412/3-signs-you-started-as-a-girl/).
@@ -696,3 +697,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. "Swamp ass" refers to the stench arising from not having wiped thoroughly. Bidets eliminate swamp ass.
 1. Ejeculate "gloops" out of a vagina at different times, easily on the day after. (/u/Kiwi-98)
 1. After getting the stomach cut open, the C-section recipient (male, female, or other combinations of kins) is encouraged to breastfeed.
+1. [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) survived for 18 months without a brain (most of it was chopped off). It died possibly having choked on corn.
+1. (Alcohol poisoning) Mortality is lowest among young abstainers and highest among young heavy drinkers. Once you are the age of 35 or over, however, mortality rate for light drinkers (8-14 units/week) drops below that of abstainers, because fewer people in that age group die from liver diseases than they would otherwise die from ischemic heart disease. Jesus was 33.

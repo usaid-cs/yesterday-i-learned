@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. If BC is struck by a tsunami from an earthquake, which is [long overdue](https://globalnews.ca/news/3981536/tsunami-earthquake-canada-the-big-one/), then [Operation Panorama](https://shawglobalnews.files.wordpress.com/2017/02/a-2016-00922.pdf) kicks in to rebuild infrastructure.
+1. Chinese is the largest [group of population in Canada by ethnic origin](https://en.wikipedia.org/wiki/Demographics_of_Canada#Ethnic_origin) that is not white, beating first nations by 1%.
 1. [Nanaimo](https://en.wikipedia.org/wiki/Nanaimo) is a city on Vancouver Island. The [Nanaimo bar](https://en.wikipedia.org/wiki/Nanaimo_bar), contrary to west coast culture, is famous for requiring no baking.
 1. The expectation is [income equality should be the norm](https://www150.statcan.gc.ca/n1/daily-quotidien/170913/dq170913a-eng.htm) as older people retire. Current statistic is 1/3 of couples having equal income.
 1. There is a Dollarama in every province.
@@ -125,3 +127,4 @@
 1. [Kitchener](https://www.google.com/maps/place/Kitchener,+ON,+Canada/@43.4476353,-80.5329634,12z/data=!4m2!3m1!1s0x882bf48c03ee5105:0x9525f8e6df5f544b) is twice as large as [Waterloo](https://www.google.com/maps/place/Waterloo,+ON,+Canada/@43.4749939,-80.5371064,12z/data=!4m2!3m1!1s0x882bf1565ffe672b:0x5037b28c7231d90).
 1. Steller's jay is Alberta's bird.
 1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
+1. The queen has [her own flag of Canada](https://en.wikipedia.org/wiki/Royal_standards_of_Canada). Flying it somewhere means the queen is there.

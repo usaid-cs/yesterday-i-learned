@@ -1,10 +1,18 @@
+1. Mark Zuckerberg has business cards that just say, "I'm CEO, Bitch."
+1. The PG-13 rating was created [in response to "Indiana Jones and the Temple of Doom"](https://www.businessinsider.com/indiana-jones-and-the-temple-of-doom-created-pg-13-rating-2014-4), which was too violent for PG but not bad enough for R.
+1. To drink something from a bottle faster, insert a straw and drink from the bottle as normal. This is known as a "strawpedo".
+1. "Anyways here's Wonderwall" came from a Julia Banks on 2013-12-10. The actual hate for Wonderwall covers existed long before that.
+1. "Chesticles" may refer to breasts.
+1. The international phonetic alphabet for R is **NOT** Roger. (It's Romeo)
+1. 執死雞 is finding good deals.
+1. [`requestAnimationFrame` is never called when a tab is in the background.](https://developers.google.com/web/updates/2017/03/background_tabs)
+1. Sod is sheets of new grass. "Sod off" can therefore be interpreted as "get the fuck off my lawn".
 1. Empty your vacuum cleaner outside...
 1. A [club sandwich](https://en.wikipedia.org/wiki/Club_sandwich) is also called a clubhouse sandwich.
 1. Switzerland is *very, very expensive*, even by European standards.
 1. Angkor Wat translates to [吴哥窟](https://zh.wikipedia.org/wiki/%E5%90%B4%E5%93%A5%E7%AA%9F).
 1. Kitkat filling is just recycled kitkats.
 1. A left-handed bowler should [stand to the left of the lane](https://i.redd.it/fe2r42173am11.jpg), *as well as looking down that line*, to ensure the ball lands near the middle.
-1. [William Henry Harrison](https://en.wikipedia.org/wiki/William_Henry_Harrison) (the 9th US president) took office for only 31 days, before he died of pneumonia.
 1. [Two of the US presidents have a last name that start with TRUM](https://xkcd.com/2046/) (Truman and Trump), and there were three terms during which the president was called Franklin D. Roosevelt.
 1. A condom failure rate of 3% is an annual statistic that, using these condoms, 3 out of 100 people (the women?) get pregnant, despite having used the condoms *correctly*.
 1. Hillary Clinton once said [Pokemon Go to the polls](https://duckduckgo.com/?q=pokemon+go+to+the+polls) in an attempt to get young people to vote.
@@ -391,7 +399,6 @@
 1. Espresso is a pressure-derived coffee that can contain a blend of beans. Filter coffee is a gravity-derived coffee that can only contain one kind of bean. [Diluted to the same volume, filter coffee is better than americano](https://coffeeinfo.wordpress.com/americano-or-filter-coffee/).
 1. Baked beans are stewed. Apparently [they go on toast](https://en.wikipedia.org/wiki/Full_breakfast#England).
 1. In Auschwitz there's [a camp called Canada](http://remember.org/jacobs/smallspoons), the land of plenty, where the dead's possessions (including gold teeth) are collected and recycled.
-1. The queen has [her own flag of Canada](https://en.wikipedia.org/wiki/Royal_standards_of_Canada). Flying it somewhere means the queen is there.
 1. The back of the [1p coin](https://en.wikipedia.org/wiki/Coins_of_the_pound_sterling) says penny, not pence (because pence is the plural of penny). When you have two of those pennies, you call it *tuppens*, and when you have three of them, [*thruppens*](https://en.wikipedia.org/wiki/Threepence_%28British_coin%29).
 1. Throughout the (first world) war only one ship was sunk by a U-boat while escorted by an aircraft (airship).
 1. Gastropubs are just pubs with better food and drinks.
@@ -1099,7 +1106,6 @@
 1. Sources vary on whether decaf coffee is (still) good for you. [Good](https://www.healthline.com/nutrition/decaf-coffee-good-or-bad) [Good](https://draxe.com/decaf-coffee/) [Good](https://www.psychologytoday.com/blog/your-brain-food/201105/why-decaf-coffee-is-just-healthy) [Bad](https://www.livestrong.com/article/364276-is-decaf-coffee-bad-for-your-health/) [Bad](http://teeccino.com/building_optimal_health/39183/Decaf-Coffee-And-Health.html) [Bad](http://www.expertrain.com/blog/health/is-decaf-a-healthy-choice.htm). The correct answer is: [decaf tastes awful](https://coffeemakerjournal.blogspot.ca/2014/01/why-does-decaf-coffee-taste-bad.html), so don't drink it.
 1. *Baker*, *Boulanger*, and *Panettiere* are all the same last name for people who used to bake.
 1. [Italians didn't really speak Italian](https://history.stackexchange.com/questions/14712/in-1861-few-italians-spoke-italian) when Italy was unified in 1861. The French didn't speak much French either. More people spoke Occitan than French back then.
-1. (Alcohol poisoning) Mortality is lowest among young abstainers and highest among young heavy drinkers. Once you are the age of 35 or over, however, mortality rate for light drinkers (8-14 units/week) drops below that of abstainers, because fewer people in that age group die from liver diseases than they would otherwise die from ischemic heart disease. Jesus was 33.
 1. [Wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) is an analogy that if a person's livelihood depends on wages or a salary, then the person is a slave to the wage or salary, and therefore the company/corporation. "The salaried [are] only free-ranged slave[s] that [are] nothing but just a tool to create wealth for [the rich]."
 1. UMTS is based on GSM, but HSDPA is based on WCDMA. The "band 4" that wind mobile always talks about is [UMTS band 4, 1700/2100MHz](https://www.frequencycheck.com/carriers/wind-canada). Somehow, "Supported UMTS protocols" *includes* HSPA+, which is WCDMA. Not confusing enough? They will be using band 66 for LTE (GSM), except East Ontario, which will use the same AWS band 4 (WCDMA) for LTE (GSM??). Both LTE [band 4](https://www.frequencycheck.com/bands/lte-band-4-aws-1) and [band 66](https://www.frequencycheck.com/bands/lte-band-66-1700-2100) use 1700/2100MHz. [Band 66 includes the entirety of band 4 in terms of frequency](http://www.phonescoop.com/glossary/term.php?gid=570): band 4 goes from blocks A to F, while band 66 includes blocks from A to J. After all that, what's the ultimate the bummer? [You might need special code on the phone to support band 66.](https://mobilesyrup.com/2017/07/11/oneplus-5-other-unlocked-band-66-devices-may-be-incompatible-freedom-lte/)
 1. Even the strongest "maximum strength" "repairing" Vaseline lotion "for men" is less strong than just Vaseline, the petroleum jelly. Vaseline [says](http://www.vaseline.us/skin-health-care/does-vaseline-clog-pores.html) it doesn't clog pores so it must be true.
@@ -1133,7 +1139,6 @@
 1. If you keep sending emails to addresses that don't exist, that web server flags you down as spam.
 1. If you don't set up some default mailboxes (like webmaster@, abuse@) required by [RFC 2142](https://www.ietf.org/rfc/rfc2142.txt), then [RFC-Clueless](http://rfc-clueless.org/) will add you to their blacklist, and you will no longer send/receive mail.
 1. Version 1 of some scams go as far as "One day a guy rang me up saying I got a parcel but needed to verify my name". Version 2 involve the scammer looking up your phone number *and then* your name online, so they can sound more legitimate. This is why **you should not put your phone number and your name in the same document**.
-1. Emma Watson was born in Paris. She's English because both her parents are.
 1. Uncle from Jackie Chan Adventures says "妖魔鬼怪快啲走" all the time.
 1. The Frito Company merged with H.W. Lay & Co. in 1961. They kept making Lays chips all while being owned by PepsiCo. Fun Fact: Lays chips are PepsiCo's third largest brand, after Pepsi and Mountain Dew.
 1. Just like setting a price target for when to sell if a stock goes up, you are also supposed to set a target for when to sell if a stock goes down.
@@ -1617,7 +1622,6 @@
 1. *Yinz* is Pittsburghers' unique version of *Y'all*.
 1. French stop signs say "ARRET\nSTOP". Quebec signs just say "ARRET".
 1. By total length, Birmingham has more canals than Venice.
-1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.
 1. T-Mobile was/is owned by Deutsche Telekom.
 1. AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
 1. Demetria "Demi" Lovato has that real last name. [She suffers from drug addiction.](https://www.youtube.com/watch?v=zQwhSOsb-Cg)
@@ -1872,7 +1876,6 @@
 1. [People hear differences between lossless audio formats](https://en.wikipedia.org/wiki/Transparency_%28data_compression%29), which is obviously bogus.
 1. A [*charlotte*](http://imgur.com/nljKA2I) is "a large soft hat covering all of the hair and typically having a decorative frill, worn indoors by women in the 18th and early 19th centuries."
 1. Bud light is [so bad on ratebeer](https://www.ratebeer.com/beer/bud-light/474/), its overall rating of 0 turned into n/a.
-1. *Emaciated* means thin and weak.
 1. *[That](https://en.wikipedia.org/wiki/Eat,_Pray,_Love)'s that girl who [wrote that book based on that movie](https://youtu.be/_waBFUg_oT8?t=31s).*
 1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.
 1. People who like doing presentations often strategically choose awkward people to do group projects, do they don't need to do the projects themselves, just doing the presentation.
@@ -2010,7 +2013,6 @@
 1. Somber means dark. Sonder (the made up word) means "realising that everyone else is also a person with their own thoughts and feelings".
 1. ["consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
 1. The Swiss sell [negative yield bonds](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
-1. [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) survived for 18 months without a brain (most of it was chopped off). It died possibly having choked on corn.
 1. Squid do not have any legs at all, but they do have eight arms and two tentacles, making for a total limb count of 10. Squidward has two arms, four legs, and no tentacles.
 1. "Morty" stands for Mortimer.
 1. Black Mirror is named after a turned-off screen.
@@ -2401,7 +2403,6 @@
 1. The british flag is upside down when [the red (Scottish) line does not touch the pole at the top half of the flag][google 3]
 1. Blind programmers use [extremely fast TTS][freecodecamp] to "read" code.
 1. The `<small>` HTML tag is reserved for defining "smallprint" or legal text.
-1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
 1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.][reddit 22]
 1. [The Mozambique drill][wikipedia 63] consists of shootong twice in the chest, then one to the head, to make sure someone is dead.
 1. "Cortana" the AI name came from Halo.
@@ -2493,7 +2494,6 @@
 1. [Release cards][aljazeera] are prison debit cards that charge a lot more (unregulated) fees. Prisoners are profit streams.
 1. Japanese girls have not been [licking doorknobs][tumblr] for more than three years.
 1. "[Dude][reddit 37]" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
-1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.][reddit 38] This makes electroshocking impossible in salt water.
 1. Carbines are shorter versions of rifles.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. [Tap codes][wikipedia 100] go through walls, which morse code does not (because it is not possible to have 'long knocks')
@@ -2645,7 +2645,6 @@
 1. To combat lactose intolerance, drink milk with a meal.
 1. [There are no speed cameras][wikipedia 160], only speed police.
 1. [Acclimatization][reddit 49], adjusting to the cold, takes 10 or more days.
-1. The question mark is also called the interrogation mark, whether or not the question is interrogative.
 1. Having people ask ["why do Star Wars laser guns shoot slower than light"][stackexchange 4], the guns were changed to plasma rifles.
 1. Human flesh is very sweet [^1][youtube 21] [^2][huffingtonpost 2]
 1. See also: humans should not eat humans, because diseases can transmit freely between members of the same species.
@@ -2797,7 +2796,6 @@
 1. The [Beaufort scale](https://en.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
 1. [Women always scream, often while doing nothing, it is a global phenomenon](https://www.reddit.com/r/videos/comments/4ju3ip/still_one_of_the_eeriest_videos_ive_seen_the/d39un1a).
 1. Always begin a conversation with ["Can we talk?"](https://www.reddit.com/comments/4jymdh).
-1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.
 1. While it is well-known that [Google A/B tests everything, including colour](http://www.telegraph.co.uk/technology/2016/05/09/google-is-testing-a-radical-change-by-turning-all-links-black/), their designers don't like it either, apparently: ""I can't operate in an environment like that. I've grown tired of debating such miniscule design decisions. There are more exciting design problems in this world to tackle."
 1. [Assassination](https://www.reddit.com/r/news/comments/4iclf5/opposition_party_leader_in_venezuela_assassinated/d2x1npm) refers specifically to the murder of a politician.
 1. The [clothespin](https://en.wikipedia.org/wiki/Clothespin) was invented in Vermont.
@@ -2888,7 +2886,6 @@
 1. UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
 1. In social situations, [people gauge how drunk they should be based on how drunk there peers are](http://www.reddit.com/r/science/comments/5318ph/_/d7p4bba?context=1000). Therefore, all patrons should play the game were if one person is late to the table, everyone should pretend to be hammered when he/she arrives, so he/she will overdrink.
 1. You can easily spend a thousand bucks on sushi at [Sushi Yasuda](http://nextshark.com/two-idiots-spend-1100-sushi/), a restaurant in NYC.
-1. The Australians looked for [the world's ugliest colour](http://time.com/4353765/worlds-ugliest-color-discourages-smoking/) to print on cigarette packages to prevent people from smoking. The colour was Pantone 448 (#4A412A), ie shit green.
 1. Nigeria is HUGE in GDP in relation to its African continent-mates, being 1.5x that of Egypt. There is no reason not to visit it.
 1. "Smoker" also refers to the ovens that smoke meats.
 1. Communist [Lenin towels](https://www.reddit.com/r/Frugal/comments/56r81k/linen_towels_or_how_i_save_half_off_my_laundry/) are more space-efficient than cotton towels. Linen towels also last much longer, and absorb much more water.
@@ -3273,7 +3270,6 @@
 [reddit 33]: https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth
 [reddit 35]: https://www.reddit.com/r/worldnews/comments/2zld47/bbc_news_indian_students_caught_cheating_in_exams/cpk0xow
 [reddit 37]: https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/
-[reddit 38]: https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/
 [reddit 39]: https://www.reddit.com/r/videos/comments/3jo6fe/swedish_professor_from_karolinska_institute_gives/
 [reddit 4]: http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq
 [reddit 40]: https://www.reddit.com/r/economy/comments/3i7c3s/oil_sinks_more_than_4_amid_market_turmoil_now/cue5fyh

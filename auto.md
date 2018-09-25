@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Toyota waited until 2020 to implement Android Auto because [Android Auto has a lot of privacy concerns](https://www.motor1.com/news/239477/toyota-android-auto-privacy-concerns/), giving Google basically all vehicular information, like vehicle speed, throttle position, coolant and oil temp, and engine revs.
 1. Engines with long strokes typically make higher torque at lower RPMs, while engines with shorter strokes need to be at higher RPMs to achieve the same torque.
 1. The first generation Chevy Cruze came with an underbody cover for better aerodynamics, but also had an oil leak issue that made the covers flammable.
 1. Breakaway valves found in gas gumpsare [not](https://www.reddit.com/r/WTF/comments/98iobj/how_do_you_forget_youre_still_pumping_gas/e4gkj50/) reusable.

@@ -138,3 +138,4 @@
 1. [Hands rely on keratin softening from moisture from sweat to improve grip.](http://www.pnas.org/content/early/2017/09/19/1706233114.full)
 1. Aluminium is recycled by passing currents through it, which makes it temporarily magnetic.
 1. Salt and vinegar chips are "artificially flavored". They are sprinkled with sodium acetate, which conveys the flavors of salt and vinegar while not technically being either.
+1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.

@@ -253,6 +253,14 @@ Importing the two named exports under the same names
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
 If an async function has multiple return points: since a promise can only resolve once, it will always resolve with the first value.
 
+## WeakMap
+
+WeakMap allows [garbage collection](https://stackoverflow.com/questions/29413222/what-are-the-actual-uses-of-es6-weakmap) of unimportant things.
+
 ## ES 2017
 
 * RegExp will now support negative lookahead, which uses `(?<!foo)` to ensure a pattern is not preceded by another pattern. `(?<!foo)bar` will never match `foobar`.
+
+## Strings
+
+* [Functions can be called without parentheses if the argument is a template string](https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-%28what!%29.html). `hello ``Michele``` calls `hello` with `Michele` sure, but `hello ``Michele``, ``foo``` calls `hello` with `foo`, so it is not readable.

@@ -31,3 +31,4 @@
 1. ["Amazeballs"](https://www.urbandictionary.com/define.php?term=Amazeballs) was invented by blogger Perez Hilton. He kept repeating it until people follow. Like sheep.
 1. Harrison Ford is Indiana Jones.
 1. [Zooey Deschanel](https://en.wikipedia.org/wiki/Zooey_Deschanel) has not one, but TWO kids.
+1. Emma Watson was born in Paris. She's English because both her parents are.

@@ -1,3 +1,5 @@
+1. [Tea](https://i.redd.it/bgoe35wzayn11.png) is called Tea if the product was introduced by sea from Southern China, where it was pronounced *te*. Tea is called Cha if the product travelled from mainland China by land instead.
+1. *(Die) Traumweber* is German for Dreamweaver. There is [still](https://en.wikipedia.org/wiki/Adobe_Dreamweaver) a Dreamweaver released in 2018.
 1. The German word *Schiff* means "ship" because the [High German Consonant Shift](https://en.wikipedia.org/wiki/High_German_consonant_shift) changed the sound of the word from "ship" to "shiff" during the 4th or 5th century. *Appel* also changed some time later to *Apfel* in a similar shift.
 1. There is [no](https://english.stackexchange.com/questions/250861/feminine-version-of-colloquial-use-hi-man/250868) "hey man" equivalent for older women. For younger women there may be a "hey girl", but "hey madam" is not common.
 1. "Snide" means derogatory or mocking, but indirectly.
@@ -7,7 +9,7 @@
 1. Funk or *Funke* is high German for "spark".
 1. [萌](https://en.wiktionary.org/wiki/%E8%90%8C) can be understood as "cute" or "adorable", and 卖萌 màiméng would mean to act cutely.
 1. The correct spelling for "deli dali" is "dilly-dally".
-1. The act of abbreviating parts of a word with a number, even if the number starts or ends the word (e.g. w3), produces [numeronyms](https://en.wikipedia.org/wiki/Numeronym). The act of replacing letters with the same number of numbers, e.g. (act -> a1t, food -> f2d), is called trolling. The word "numeronym" is itself abbreviated to n7m.
+1. The act of abbreviating parts of a word with a number, even if the number starts or ends the word (e.g. w3), produces [numeronyms](https://en.wikipedia.org/wiki/Numeronym). The act of replacing letters with the same or fewer number of numbers, e.g. (act -> a1t, ed -> e0d), is called trolling. The word "numeronym" is itself abbreviated to n7m.
 1. The letter T is rarely pronounced. See: "exactly", "often", "soften", "fasten".
 1. The [Hyphen War](https://en.wikipedia.org/wiki/Hyphen_War) happened in 1989, when [Czechoslovakia](https://en.wikipedia.org/wiki/Czechoslovakia) or Czecho-Slovakia couldn't decide on whether that hyphen should be there. In 1993 they broke up into Czech Republic and Slovakia.
 1. A [question tag / tag question](https://en.wikipedia.org/wiki/Tag_question) is something like ", haven't you?", ", didn't it?", and ", has it?".
@@ -273,3 +275,6 @@
 1. ["In Japanese, replacing s sounds with ch sounds is seen as cute"](https://en.wikipedia.org/wiki/Japanese_honorifics#San)
 1. "In spelling sushi, its first letter s is replaced with z when a prefix is attached, as in nigirizushi, due to consonant mutation called rendaku ("sequential voicing") in Japanese."
 1. Apparently, the sex of [an afternoon](https://www.lalanguefrancaise.com/un-ou-une-apres-midi-orthographe) changes depending on what happens during the afternoon, but the academy says afternoons should stay male regardless of activity, because mornings are males, and there's no reason for males to change into females in the afternoon. *Hon hon hon.*
+1. *Emaciated* means thin and weak.
+1. The question mark is also called the interrogation mark, whether or not the question is interrogative.
+1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.

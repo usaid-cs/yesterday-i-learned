@@ -121,7 +121,11 @@ The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_desig
 ## dicts
 ## trees
 ### binary search trees
-## hashes
+### [B-trees](https://en.wikipedia.org/wiki/B-tree)
+
+No one knows what the B stands for.
+
+## Hashes
 ## Monads
 
 * [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming\)) are "functional expressiosns" like `== null`.
