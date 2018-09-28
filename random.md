@@ -1,3 +1,7 @@
+1. Portishead was named after [Portishead the town](https://en.wikipedia.org/wiki/Portishead,_Somerset), which sounds like por-tis-HED.
+1. The name Coralie means, well, "Coral".
+1. [Holland](https://www.holland.com/global/tourism/information/netherlands-vs-holland.htm) is two of the provinces in the Netherlands (called North and South Holland, unsurprisingly).
+1. [Active noise cancelling does a poor job at cancelling voice](https://thewirecutter.com/reviews/best-noise-cancelling-in-ear-headphones/), instead being better at removing engine or airplane noises.
 1. Mark Zuckerberg has business cards that just say, "I'm CEO, Bitch."
 1. The PG-13 rating was created [in response to "Indiana Jones and the Temple of Doom"](https://www.businessinsider.com/indiana-jones-and-the-temple-of-doom-created-pg-13-rating-2014-4), which was too violent for PG but not bad enough for R.
 1. To drink something from a bottle faster, insert a straw and drink from the bottle as normal. This is known as a "strawpedo".
@@ -22,7 +26,7 @@
 1. Most adult friendships flake into nothing if [the people fail to meet up](https://www.vox.com/first-person/2018/8/16/17694356/how-to-make-friends-adulthood?mc_cid=234c370ac6&mc_eid=%5BUNIQID).
 1. 10 out of 10 dentists recommend toothpaste. Ads say "9 out of 10" just because it is more believable.
 1. [God definitely pulled an Anakin](https://knowyourmeme.com/memes/i-killed-them-all) in 1 Samuel 15: ["Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys"](https://www.biblegateway.com/passage/?search=1+Samuel+15&version=NIV)
-1. If you like kinky bondage sex, write down a contract with your partner for if/when they call the cops on you.
+1. If you like kinky bondage sex, write down a contract with your partner for if/when the neighbours call the cops on you.
 1. On at least one occasion, [God told two bears to maul 42 boys to death](https://biblehub.com/2_kings/2-24.htm), so it is within reason that God wants (some) people to die.
 1. Fancy patterned rims found on women's underwear are called lace edges.
 1. Elon Musk's mood could be predicted by looking at [Talulah Riley's hair colour](https://www.businessinsider.com/elon-musk-mood-talulah-riley-hair-color-2018-8), with the best mood being predicted if her hair is platinum. They married and divorced twice; she then moved on to star as Angela on Westworld.
@@ -894,7 +898,7 @@
 1. People drink before dinner because everything tastes better when you're drunk.
 1. At least [one person](https://fivethirtyeight.com/features/every-color-of-every-lightsaber-in-star-wars-in-one-chart/) uses an orange lightsaber.
 1. In the UK, white walking canes are for blind people, and white/red striped canes are for deaf *and* blind people. This convention does not exist elsewhere.
-1. [Introduce yourself to the neighbors you share a wall/floor/ceiling with. If anyone is annoyed by loud music or pot smoke or whatever, it makes them more likely to come directly to you instead of the landlord.](https://www.reddit.com/r/AskReddit/comments/6ndu3g/what_is_your_first_apartment_tip/dk8rfqf/)
+1. [Introduce yourself to the neighbours you share a wall/floor/ceiling with. If anyone is annoyed by loud music or pot smoke or whatever, it makes them more likely to come directly to you instead of the landlord.](https://www.reddit.com/r/AskReddit/comments/6ndu3g/what_is_your_first_apartment_tip/dk8rfqf/)
 1. Ed448-Goldilocks is more secure than Ed25519. "Nobody uses it despite it being very interesting from a mathematical and performance point of view because it's much slower than Curve25519, there aren't many good implementations, and Curve25519's security bounds are already good enough."
 1. The geometric mean is just the nth root of the product of n different numbers. It is like the usual mean, except you use the product instead of the sum.
 1. [PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) are made with fiberglass.

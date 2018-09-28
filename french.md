@@ -53,7 +53,8 @@
 1. **Croissant**: crescent, or rolled-up triangles.
 1. **Écrire**: to write. [*J'écris une lettre*](https://mymemory.translated.net/en/French/English/j%27%C3%A9cris-une-lettre): I write a letter.
 1. **Cuillère**: spoon.
-1. **Demi-**: half. Demi-frere: step brother.
+1. **Demi-**: half. *Demi-frere*: step brother.
+1. **Dehors**: outside. *Oh putain, il fait froid dehors*: oh fuck it's cold outside.
 1. **Depuis**: since. *Depuis ma jeunesse, j'ai obéi à tous ces commandements*: since I was young I have obeyed all these commandments.
 1. **Difficile**: difficult. *Le français est très difficile à apprendre*: French is very difficult to learn.
 1. **Donc**: so, therefore. *Donc-quoi*: nothing. Use *et alors* ("and then") for "so what".

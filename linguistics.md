@@ -1,3 +1,5 @@
+1. Damper is technically more correct than dampener.
+1. [Most Anglo-Saxon names fell out of use after the medieval period](https://en.wikipedia.org/wiki/Edgar), except for Alfred and Edgar, which still exist. [Those names are ususally joined by two elements](https://en.wikipedia.org/wiki/Germanic_name), a prefix and a suffix.
 1. [Tea](https://i.redd.it/bgoe35wzayn11.png) is called Tea if the product was introduced by sea from Southern China, where it was pronounced *te*. Tea is called Cha if the product travelled from mainland China by land instead.
 1. *(Die) Traumweber* is German for Dreamweaver. There is [still](https://en.wikipedia.org/wiki/Adobe_Dreamweaver) a Dreamweaver released in 2018.
 1. The German word *Schiff* means "ship" because the [High German Consonant Shift](https://en.wikipedia.org/wiki/High_German_consonant_shift) changed the sound of the word from "ship" to "shiff" during the 4th or 5th century. *Appel* also changed some time later to *Apfel* in a similar shift.

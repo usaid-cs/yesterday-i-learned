@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. David Johnston once broke protocol by [helping the queen](https://ca.hellomagazine.com/royalty/02017071937472/david-johnston-breaks-royal-protocol-queen-elizabeth/), which was not allowed.
 1. If BC is struck by a tsunami from an earthquake, which is [long overdue](https://globalnews.ca/news/3981536/tsunami-earthquake-canada-the-big-one/), then [Operation Panorama](https://shawglobalnews.files.wordpress.com/2017/02/a-2016-00922.pdf) kicks in to rebuild infrastructure.
 1. Chinese is the largest [group of population in Canada by ethnic origin](https://en.wikipedia.org/wiki/Demographics_of_Canada#Ethnic_origin) that is not white, beating first nations by 1%.
 1. [Nanaimo](https://en.wikipedia.org/wiki/Nanaimo) is a city on Vancouver Island. The [Nanaimo bar](https://en.wikipedia.org/wiki/Nanaimo_bar), contrary to west coast culture, is famous for requiring no baking.

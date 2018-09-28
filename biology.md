@@ -1,3 +1,6 @@
+1. Someone who dies mentally can [absolutely](https://medicalxpress.com/news/2018-09-people-die.html) die physically.
+1. Letting a doctor stick his/her finger up your bum is [not](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1071072/) an effective way to diagnose appendicitis.
+1. In the case where a blood clot is lost after a [wisdom] tooth extraction, which loses the "primary intention" mode of healing, the secondary intention to grow out gum takes [6](https://www.quora.com/Wisdom-Teeth-How-long-does-it-take-for-gum-tissue-to-close-over-an-open-socket) to [8 months](https://www.animated-teeth.com/tooth_extractions/a-tooth-extraction-healing-times.htm) rather than two weeks.
 1. Tortoiseshell [cat]s have orange, black and brown fur that requires two X chromosomes, the vast majority of tortoiseshells are female, with approximately 1 in 3,000 being male.
 1. Straw is leftovers from growing grain crops. Hay is food for animals.
 1. Dog paws smell like corn chips from elevated bacterial activity.

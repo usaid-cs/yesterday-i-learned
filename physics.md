@@ -1,3 +1,7 @@
+1. Home voltages are between 120V to 240V. At least these are the figures reported by ISED Canada.
+1. The voltage drop across a resistance can be measured with a volt meter across the terminals. If the current and resistance is known, voltage drop can be calculated using Ohms law: E = I R. (E =volts I = amps R= ohms).
+1. The reciprocal of resistance is conductance. A circuit with high conductance has low resistance and vice versa.
+1. Carbon is the most-commonly used material for building resistors.
 1. The ionosphere is most ionised during midday, because that's when there is the most sun.
 1. Taping windows during a hurricane [does little to protect people](https://science.howstuffworks.com/nature/climate-weather/storms/10-pieces-of-disaster-safety-advice-you-should-ignore3.htm), since glass is still glass, and taping only controls how big the shards are.
 1. [Liquid or liquid-like cargo can sloth inside the ship, making the ship less stable.](https://theconversation.com/mystery-of-the-cargo-ships-that-sink-when-their-cargo-suddenly-liquefies-101158)
