@@ -1,3 +1,6 @@
+1. In terms of energy efficiency, [milk and dairy are relatively high at 45% and 31%](https://cdn.1millionwomen.com.au/media/large_image/food-energy-efficiency-environmental-impact.jpg), while killing the cow for beef is at 4.3% efficiency.
+1. (Feral) [cats suck at hunting rats](https://www.smithsonianmag.com/smart-news/cats-are-surprisingly-ineffective-keeping-urban-rat-populations-check-180970428/).
+1. [The hardest biological substance](https://www.popularmechanics.com/science/animals/a14184/snail-teeth-are-the-hardest-natural-substance/) is teeth from limpet sea snails, composed of "a natural nanofiber called [goethite](https://en.wikipedia.org/wiki/Goethite)".
 1. Someone who dies mentally can [absolutely](https://medicalxpress.com/news/2018-09-people-die.html) die physically.
 1. Letting a doctor stick his/her finger up your bum is [not](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1071072/) an effective way to diagnose appendicitis.
 1. In the case where a blood clot is lost after a [wisdom] tooth extraction, which loses the "primary intention" mode of healing, the secondary intention to grow out gum takes [6](https://www.quora.com/Wisdom-Teeth-How-long-does-it-take-for-gum-tissue-to-close-over-an-open-socket) to [8 months](https://www.animated-teeth.com/tooth_extractions/a-tooth-extraction-healing-times.htm) rather than two weeks.

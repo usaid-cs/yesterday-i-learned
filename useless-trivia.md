@@ -1,3 +1,4 @@
+1. Nick Offerman is a carpenter.
 1. [Stephen Colbert](https://en.wikipedia.org/wiki/Stephen_Colbert#Early_life) was definitely pronounced KOL-bert at some point.
 1. [Bob The Builder has more UK Number One hits than Nirvana, Radiohead, The Who, Guns 'N Roses, and Metallica combined.](https://www.reddit.com/r/AskReddit/comments/9bj5c4/what_is_your_favorite_useless_fact/e53ko0b/) (None of the bands there have number one hits)
 1. Catana's last name is Chetwynd.

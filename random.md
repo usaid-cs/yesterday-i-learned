@@ -1,3 +1,13 @@
+1. "Wright", "Zimmermann", and "Schreiner" are all surnames for "carpenter".
+1. [Amazon does things in scale.](https://www.youtube.com/watch?v=UyohSu-Ft_U) It is only interested in things that can be done cheaper or better if there are a thousand times more users than there are currently.
+1. The Queen in chess was known as the (prime) minister.
+1. Thailand scores [4 out of the world's top 10 most delicious foods](https://web.archive.org/web/20121108073329/http://www.cnngo.com:80/explorations/eat/readers-choice-worlds-50-most-delicious-foods-012321?page=0,2).
+1. Facebook's Nigerian offer to free Internet access is [actually just Facebook plus a limited list of sites](https://www.youtube.com/watch?v=ODeImrQs3ME), which disobeys net neutrality.
+1. Cell towers work in disasters because [they have backup batteries](https://www.cbc.ca/news/politics/cellphones-emergencies-batteries-tornado-1.4844158). They only last for a few hours, but they do have backups.
+1. "You know what they call alternative medicine that works? Medicine." - Tim Minchin
+1. Spoiled bitches that have weddings are also called bridezillas.
+1. [Rodeo clowns](https://en.wikipedia.org/wiki/Rodeo_clown) are also known as rodeo protection athletes.
+1. "Like they say: People use statistics like a drunk man uses a lamp post - for support, not enlightenment"
 1. Portishead was named after [Portishead the town](https://en.wikipedia.org/wiki/Portishead,_Somerset), which sounds like por-tis-HED.
 1. The name Coralie means, well, "Coral".
 1. [Holland](https://www.holland.com/global/tourism/information/netherlands-vs-holland.htm) is two of the provinces in the Netherlands (called North and South Holland, unsurprisingly).
