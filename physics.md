@@ -1,3 +1,5 @@
+1. The original frequency of a signal is the fundamental frequency. Slight distortions of the original signal may also cause harmonic signals to be present. For example, if the fundamental frequency is 2 kHz, then the second harmonic signal would be 4 kHz and the third harmonic signal would be 6 kHz. etc.
+1. A Decibel (dB) (`10⋅log₁₀(Power out/Power in)`) is indeed a deci of a Bel, which was named after a guy with the last name Bell.
 1. Home voltages are between 120V to 240V. At least these are the figures reported by ISED Canada.
 1. The voltage drop across a resistance can be measured with a volt meter across the terminals. If the current and resistance is known, voltage drop can be calculated using Ohms law: E = I R. (E =volts I = amps R= ohms).
 1. The reciprocal of resistance is conductance. A circuit with high conductance has low resistance and vice versa.

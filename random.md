@@ -1,3 +1,11 @@
+1. [Interpol](https://en.wikipedia.org/wiki/Interpol) is a real organisation facilitating international police cooperation, and Taiwan is not in it.
+1. "Stories" appeal to people who understand that their social media content will eventually come back to haunt them.
+1. The Matrix screensaver was originally [a sushi recipe](https://www.foodandwine.com/news/matrix-code-sushi-recipe).
+1. A "tint" can only be a pure colour plus the colour white, while "shade" can only be a pure colour with the colour black. If it is both then use "tone" instead.
+1. [Domain fronting](https://en.wikipedia.org/wiki/Domain_fronting) hides the true domain of an API service.
+1. Tons of datacenter servers are compromised at the hardware level by [Chinese nation-level hardware hacks](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) that disguise as signal couplers, but are actually "injecting its own code or altering the order of the instructions the CPU was meant to follow". It is expected that consumer devices made in China are also part of the attack.
+1. Three or more stations operating (say a radio) over a common frequency, it's called [a net](https://en.wikipedia.org/wiki/Amateur_radio_net) because the resulting graph looks like a net. [Such an operation](https://en.wikipedia.org/wiki/Net_operation) has a supervisor sometimes.
+1. A [drey](https://www.thefreedictionary.com/drey) is a squirrel nest.
 1. "Wright", "Zimmermann", and "Schreiner" are all surnames for "carpenter".
 1. [Amazon does things in scale.](https://www.youtube.com/watch?v=UyohSu-Ft_U) It is only interested in things that can be done cheaper or better if there are a thousand times more users than there are currently.
 1. The Queen in chess was known as the (prime) minister.
@@ -114,7 +122,6 @@
 1. A [reefer](https://www.urbandictionary.com/define.php?term=reefer) is also *a marijuana*.
 1. "[Jowhar](https://en.wikipedia.org/wiki/Executioner%27s_sword) are the strongest swords used for beheadings. It is not affected by the number of people beheaded with it. It is made of strong iron, not the kind that breaks or anything." - [Abdallah Bin Sa'id Al-Bishi, executioner](https://www.youtube.com/watch?v=8JTPjs9nGNA)
 1. "Rocky Mountain oysters" are deep fried bull balls.
-1. Singapore failed to unite with Malaysia because [it was too Chinese](https://www.quora.com/Why-did-Singapore-and-Malaysia-split-up-Could-they-come-back-together).
 1. [Dude](https://www.reddit.com/r/bald/comments/7g4sug/in_a_very_large_family_of_bald_men_with_horrible/) says it is taboo for young Indian men to shave their heads.
 1. The 念慈菴 in [京都念慈菴川貝枇杷膏](https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa)  means "in memory of [my] kind mother". The formula was made by a Qing dynasty physician, *Dr. Ip Tin-See*.
 1. To be [struck out](https://www.urbandictionary.com/define.php?term=Struck%20out) means to attempt multiple times, and then fail.
@@ -1683,7 +1690,6 @@
 1. "[There are phones that bend in half, and there are phones that don't bend in half.](https://www.youtube.com/watch?v=r3cWVdLqXCg)" - Jerry, from Zack's Rig
 1. Indians (Hindus; Northeast) were looking for ways to dispose of bodies using the river in a way that [they won't wash back up](http://www.planetcustodian.com/2015/10/19/8134/over-50-scary-images-depicting-filth-of-varanasi-and-river-ganges-that-went-viral-in-china.html). [They are still doing it](http://www.featureshoot.com/2017/02/a-death-photographer-on-the-sacred-river-ganges/). Don't worry though, [it's not like anyone drinks out of that river or anything.](https://en.wikipedia.org/wiki/Ganges#Pollution_and_environmental_concerns)
 1. The "90 degrees north" version of Polar Ice vodka is called that because it is 90 proof. Also because North pole.
-1. The non-sugarcoated version of [正露丸](https://en.wikipedia.org/wiki/Seirogan) claims to also treat toothaches (use by filling cavity with crushed pill). The main ingredient is [wood-tar creosote](https://en.wikipedia.org/wiki/Creosote#Wood-tar_creosote), some sort of smoky greasy liquid.
 1. 640K displays ought to be enough for everybody. (A 640K display is more than 300 1080p displays tiled together on each side.)
 1. Ham radio operators use [call signs](https://en.wikipedia.org/wiki/Amateur_radio#Call_signs), basically a unique ID per station, to identify themselves. Canadian call signs that start with CY indicate islands.
 1. Working out in the evening [supposedly](https://www.reddit.com/r/Fitness/comments/6lonqw/buzzfeed_employee_tries_dietfitness_plan_based_on/) prevents you from eating too much for the rest of the day. This often responds with weight loss.
@@ -1788,7 +1794,6 @@
 1. [Someone](https://www.reddit.com/r/explainlikeimfive/comments/6hmt3d/eli5_how_casinos_can_refuse_to_pay_a_jackpot/dizl5bn/) claims that slot machine winnings are decided by law. Slot machines mean that you always lose at a predetermined rate. If you win, go away.
 1. Start a meaningful conversation with strongly opinionated topics and open-ended questions, like music and movies.
 1. [Ultrasonic welding](http://s.hswstatic.com/gif/ultrasonic-welding-2.gif) uses ultrasound to heat up and weld two adjacent pieces of metal together. [Microsoft pulled that dick move once.](https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915)
-1. Duck eggs are richer because the yolks are massive. Naturally, then, if you scramble one, it will turn out more yellow than scrambled chicken eggs.
 1. General Tso in General Tso's chicken was supposed to be [Zuo Zongtang](https://en.wikipedia.org/wiki/Zuo_Zongtang) (左宗棠).
 1. ["I have a great idea" "What?" "A motorcycle that goes slower than a bicycle, and that won't work unless you charge it every time" "This will sell" "Hang on, we should also remove one wheel so you faceplant every time" "Hold my beer"](https://www.youtube.com/watch?v=VdmJMLNuECQ)
 1. [Any age over 18](https://www.organdonor.gov/about/donors/seniors.html) can be donors.
@@ -2635,7 +2640,6 @@
 1. If an attacker keeps connections open using [partial requests][wikipedia 147], it can take down a server with minimal (and sometimes undetectable) bandwidth.
 1. There *were* three great races: [Caucasoid][wikipedia 148], [Mongoloid][wikipedia 149], and Negroid. Caucasoids are characterised by narrow noses; Mongoloids by their [eyes][wikipedia 150]; Negroids by their broad and round noses ("nasal cavity").
 1. [A red flag][wikipedia 151] (as opposed to a white flag) indicates the desire not to capture anyone. There is no flag for desiring not to be captured.
-1. [Rate law][youtube 18]: "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
 1. Apparently you have a degree in science.
 1. Because [it is illegal for websites to tell you if the government is spying on you][techspot], [they tell you if you are not being spied on][wikipedia 152] instead.
 1. According to [the comments][trudeaumetre], firearms licence holders are subject to daily automated background checks.
@@ -2699,7 +2703,6 @@
 1. [What not to do if you use Tor][whonix]: remember to separate your tor life like your work life. Never look at the same thing with and without tor, among other things.
 1. Bruce Lee took the [wrong kind of painkiller][wikipedia 174], had his brain swell by 13%, and died young. His son, Brandon, also a martial arts actor, died when [an idiot][wikipedia 175] made blanks out of live rounds.
 1. 西貢 is in the east, because Hong Kong.
-1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.
 1. The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap][wikipedia 176]".
 1. Des Voeux is actually Des Vœux, because the French.
 1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
@@ -2913,7 +2916,6 @@
 1. [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you *don't* have to pay them.
 1. "World Financial Group" is a pyramid scheme so large that even the exams those members take ("HLLQP") are provided by WFG. There are in fact [dozens of those exams and licenses](http://www.cbc.ca/news/business/taxes/5-things-to-check-when-hiring-a-financial-adviser-1.1166888) so you can look for those instead.
 1. *Tonne* is the metric one.
-1. [There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.](http://weirdfascinatingstuff.blogspot.ca/2010/06/weird-laws-from-canada-part-2-always.html)
 1. The recipient of a cheque can sign the back of the cheque and give the cheque to someone else. "If John Smith writes a cheque to Jane Doe, she can endorse the cheque on the back and give it to you in payment of a debt. You can then endorse the back of the cheque and deposit it into your account. This is called *counter-signing* a cheque."
 1. To describe a person as single in a politically correct way, use the phrase "Independently owned and operated".
 1. [The best place to trade on Craigslist is in fact the bank rather than the police station.](http://www.reddit.com/r/apple/comments/57yge6/_/d8wno9u?context=1000) That allows you to request money to be withdrawn directly from the ATMs, avoiding fake cash as a payment.
@@ -2966,7 +2968,6 @@
 1. Heckler & Koch are known for their [backwards rounds catalog in 2004](https://youtu.be/XiX2rb3cgzY). "Accuracy, Reliability - No Compromise." Anyone on the Internet inserting bullets backwards is actually paying them a homage, not being an idiot.
 1. That "It's got electrolytes, it's what plants crave" nonsense came from [Brawndo](https://www.youtube.com/watch?v=-Vw2CrY9Igs), the sports drink made up by movie [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy).
 1. Kansas City is not in Kansas. Kansas City was founded before Kansas, so Kansas was just running out of names (or something).
-1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
 1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.

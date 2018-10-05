@@ -67,3 +67,4 @@
 1. In the Victorian times, if a dressed woman had to defecate, [the whole dress is coming off.](http://www.huffingtonpost.com/quora/how-did-victorian-women-u_b_12969780.html) The "pantalette" part of the thing is crotchless, so a woman can air out the bacteria-infested portions all day long, and urinate [relatively easily](https://www.youtube.com/watch?v=NUHeSTDv_24).
 1. Mona says that [the song starting with "O say can you see"](https://www.youtube.com/watch?v=YaxGNQE5ZLA) was a story about the Brits bombing the flag, but the Americans propped it up with bodies.
 1. The Australians looked for [the world's ugliest colour](http://time.com/4353765/worlds-ugliest-color-discourages-smoking/) to print on cigarette packages to prevent people from smoking. The colour was Pantone 448 (#4A412A), ie shit green.
+1. Singapore failed to unite with Malaysia because [it was too Chinese](https://www.quora.com/Why-did-Singapore-and-Malaysia-split-up-Could-they-come-back-together).

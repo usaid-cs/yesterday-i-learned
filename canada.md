@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Schneider's meat plant closed in 2013](https://www.therecord.com/news-story/8106532-schneiders-plant-to-be-demolished-within-months/).
 1. David Johnston once broke protocol by [helping the queen](https://ca.hellomagazine.com/royalty/02017071937472/david-johnston-breaks-royal-protocol-queen-elizabeth/), which was not allowed.
 1. If BC is struck by a tsunami from an earthquake, which is [long overdue](https://globalnews.ca/news/3981536/tsunami-earthquake-canada-the-big-one/), then [Operation Panorama](https://shawglobalnews.files.wordpress.com/2017/02/a-2016-00922.pdf) kicks in to rebuild infrastructure.
 1. Chinese is the largest [group of population in Canada by ethnic origin](https://en.wikipedia.org/wiki/Demographics_of_Canada#Ethnic_origin) that is not white, beating first nations by 1%.
@@ -129,3 +130,5 @@
 1. Steller's jay is Alberta's bird.
 1. [Forest fires happen in Alberta all the time](http://imgur.com/oHTv2ol). Fort Mac is an exception only because people live there.1. There is [no law about "safe transport of ammunition"](http://www.cdnshootingsports.org/legal_storage_and_transport.html). A police can still get you into trouble, which means it is best to transport them in a manner that makes you appear to be a careful person.
 1. The queen has [her own flag of Canada](https://en.wikipedia.org/wiki/Royal_standards_of_Canada). Flying it somewhere means the queen is there.
+1. [There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.](http://weirdfascinatingstuff.blogspot.ca/2010/06/weird-laws-from-canada-part-2-always.html)
+1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.

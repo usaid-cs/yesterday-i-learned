@@ -34,3 +34,4 @@
 1. Harrison Ford is Indiana Jones.
 1. [Zooey Deschanel](https://en.wikipedia.org/wiki/Zooey_Deschanel) has not one, but TWO kids.
 1. Emma Watson was born in Paris. She's English because both her parents are.
+1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.

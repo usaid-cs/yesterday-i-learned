@@ -1,3 +1,6 @@
+1. Some people, notably the Han Chinese, have [another toenail next to their pinky toes](https://en.wikipedia.org/wiki/Accessory_nail_of_the_fifth_toe).
+1. Herpes simplex virus types 1 and 2 can both be transmitted by any wet contact, including dental work and childbirth.
+1. Human ears can detect sound in the 20Hz~20kHz range, but not electromagnetic waves in the same range.
 1. In terms of energy efficiency, [milk and dairy are relatively high at 45% and 31%](https://cdn.1millionwomen.com.au/media/large_image/food-energy-efficiency-environmental-impact.jpg), while killing the cow for beef is at 4.3% efficiency.
 1. (Feral) [cats suck at hunting rats](https://www.smithsonianmag.com/smart-news/cats-are-surprisingly-ineffective-keeping-urban-rat-populations-check-180970428/).
 1. [The hardest biological substance](https://www.popularmechanics.com/science/animals/a14184/snail-teeth-are-the-hardest-natural-substance/) is teeth from limpet sea snails, composed of "a natural nanofiber called [goethite](https://en.wikipedia.org/wiki/Goethite)".
@@ -705,3 +708,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. After getting the stomach cut open, the C-section recipient (male, female, or other combinations of kins) is encouraged to breastfeed.
 1. [Mike the Headless Chicken](https://en.wikipedia.org/wiki/Mike_the_Headless_Chicken) survived for 18 months without a brain (most of it was chopped off). It died possibly having choked on corn.
 1. (Alcohol poisoning) Mortality is lowest among young abstainers and highest among young heavy drinkers. Once you are the age of 35 or over, however, mortality rate for light drinkers (8-14 units/week) drops below that of abstainers, because fewer people in that age group die from liver diseases than they would otherwise die from ischemic heart disease. Jesus was 33.
+1. Duck eggs are richer because the yolks are massive. Naturally, then, if you scramble one, it will turn out more yellow than scrambled chicken eggs.
+1. The non-sugarcoated version of [正露丸](https://en.wikipedia.org/wiki/Seirogan) claims to also treat toothaches (use by filling cavity with crushed pill). The main ingredient is [wood-tar creosote](https://en.wikipedia.org/wiki/Creosote#Wood-tar_creosote), some sort of smoky greasy liquid.
