@@ -68,3 +68,7 @@
 1. Mona says that [the song starting with "O say can you see"](https://www.youtube.com/watch?v=YaxGNQE5ZLA) was a story about the Brits bombing the flag, but the Americans propped it up with bodies.
 1. The Australians looked for [the world's ugliest colour](http://time.com/4353765/worlds-ugliest-color-discourages-smoking/) to print on cigarette packages to prevent people from smoking. The colour was Pantone 448 (#4A412A), ie shit green.
 1. Singapore failed to unite with Malaysia because [it was too Chinese](https://www.quora.com/Why-did-Singapore-and-Malaysia-split-up-Could-they-come-back-together).
+1. The Greeks claimed to have invented socks.
+1. [Let's Make America Great Again](https://en.wikipedia.org/wiki/Make_America_Great_Again) was actually Reagan's slogan.
+1. Ohio has voted for the winning president since 1960.
+1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.

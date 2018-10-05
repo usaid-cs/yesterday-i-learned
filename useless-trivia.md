@@ -35,3 +35,8 @@
 1. [Zooey Deschanel](https://en.wikipedia.org/wiki/Zooey_Deschanel) has not one, but TWO kids.
 1. Emma Watson was born in Paris. She's English because both her parents are.
 1. 張惠妹 was born Amit Kulilay (阿密特·古歷來) in Eastern Taiwan. She never claimed to know Cantonese.
+1. Richard Hammond crushed his left tibia by 7mm. He was found sitting and talking in [a video uploaded just a week after the accident](https://www.youtube.com/watch?v=18oAkxwYQh0).
+1. An actress was [dumped on her fictional birthday](https://www.reddit.com/r/TVDetails/comments/7vwhiu/the_same_girl_gets_dumped_on_her_birthday_both_on/) on both "Friends" and "How I met your mother".
+1. [JK Rowling's ex-husband](http://www.newsweek.com/jk-rowling-husband-domestic-abuse-741496) died in 1995. That was the same year she typed up the first book.
+1. [Borat was in Les Misérables](http://www.imdb.com/title/tt1707386/characters/nm0056187?ref_=tt_cl_t5), and [Bellatrix was his wife](http://www.imdb.com/name/nm0000307/?ref_=tt_cl_t6).
+1. Doctor Whos regenerate to look like different actors, [say BBC](http://www.bbc.co.uk/news/blogs-magazine-monitor-23573730).

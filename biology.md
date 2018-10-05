@@ -710,3 +710,10 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. (Alcohol poisoning) Mortality is lowest among young abstainers and highest among young heavy drinkers. Once you are the age of 35 or over, however, mortality rate for light drinkers (8-14 units/week) drops below that of abstainers, because fewer people in that age group die from liver diseases than they would otherwise die from ischemic heart disease. Jesus was 33.
 1. Duck eggs are richer because the yolks are massive. Naturally, then, if you scramble one, it will turn out more yellow than scrambled chicken eggs.
 1. The non-sugarcoated version of [正露丸](https://en.wikipedia.org/wiki/Seirogan) claims to also treat toothaches (use by filling cavity with crushed pill). The main ingredient is [wood-tar creosote](https://en.wikipedia.org/wiki/Creosote#Wood-tar_creosote), some sort of smoky greasy liquid.
+1. The Mediterranean diet is healthy likely ["due to it being a nearly vegetarian diet"](https://www.youtube.com/watch?v=OGGQxJLuVjg), "in spite of the olive oil". Olive oil is still oil; it doesn't magically make a meal healthy. (Rest of the video is trash)
+1. ["You cannot get cartilage from food. It is only available in supplements."](http://www.umm.edu/health/medical/altmed/supplement/cartilage)
+1. Coyotes (43mph) have no problem chasing roadrunners (20mph).
+1. Implant removal is worse than internal fixation, because instead of unscrewing those screws, they [drill a bigger hole around the screw](http://www.innomed.net/Images/SurgShots/ChengBiopsy_BoneCore2.jpg) and take out all that bone.
+1. [Breaststroke is the least tiring of the strokes.](http://www.dailymail.co.uk/health/article-132028/Swim-away-calories.html) Use that when you are trying to stay alive. If you are swimming for exercise, then [don't stop swimming and take fewer breaks](http://www.health.com/health/article/0,,20411721,00.html).
+1. [Consuming salt water immediately before sports][theglobeandmail 2] helps retain water.
+1. [Vegan condoms exist](https://www.verywellhealth.com/vegan-condoms-3132703). They lack casein.

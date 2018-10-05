@@ -140,3 +140,4 @@
 1. Salt and vinegar chips are "artificially flavored". They are sprinkled with sodium acetate, which conveys the flavors of salt and vinegar while not technically being either.
 1. In Jurassic World, two children save themselves by fixing a 20-year old Jeep. Trouble is, gas doesn't last that long, and nowhere does the scene show gasoline.
 1. [Rate law][youtube 18]: "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
+1. It takes the same amount of energy to melt ice (from 0 degrees solid to 0 degrees liquid) and to heat water (from 0 degrees liquid to 70 degrees liquid).

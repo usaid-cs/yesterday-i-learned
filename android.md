@@ -80,3 +80,4 @@
 1. The file `batterystats.bin` is used to display the battery graph, and [has no impact on battery capacity](https://androidcentral.com/wiping-battery-stats-doesnt-improve-battery-life-says-google-engineer) or battery life.
 1. CyanogenMod supports [9 out of however many](https://wiki.lineageos.org/devices/athene/#special-boot-modes) Moto G4s out there.
 1. In Tasker, "top priority" is 50, not 1.
+1. The Samsung Galaxy Note II (Note 2) had a 5.5 inch screen, the size everyone has today. Nexus 6p, which was never sold as a phablet, share the same screen size with the Note 3, 4, 5, and 7.

@@ -26,3 +26,4 @@
 * Back in full right back slowly three yellow lines line up with mirror
 * One round left until 45 degrees, Mirror slow turn leftright
 * All except uphill with curb, steer to the right
+1. [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.

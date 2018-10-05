@@ -35,3 +35,5 @@
 1. The fastest object to be propelled by man, apart from trivial things like particles, was a [manhole cover](https://en.wikipedia.org/wiki/Operation_Plumbbob#Propulsion_of_steel_plate_cap), at 0.02% the speed of light.
 1. ["...for every breath you take, there's a ... 99% ... chance that you're breathing in at least one molecule of Caesar's farts from his last day alive."](https://www.quora.com/What-percentage-of-breathable-air-on-earth-has-been-part-of-a-fart)
 1. [Fish are more conductive than fresh water, but salt water is more conductive than fish.](https://www.reddit.com/r/askscience/comments/3c3rd7/does_lightning_strike_the_ocean_if_so_does_it/) This makes electroshocking impossible in salt water.
+1. Infrared cameras, including [one in a phone case](https://www.youtube.com/watch?v=8Vc-69M-UWk), can reveal your PIN on any non-metal number pad, including the order of the digits, with 80% accuracy.
+1. If the temperature gradient is large enough, power can be generated from the gradient using the [seeback effect](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect), which does not involve boiling water and turning a turbine.
