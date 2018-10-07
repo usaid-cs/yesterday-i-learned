@@ -132,3 +132,5 @@
 1. The queen has [her own flag of Canada](https://en.wikipedia.org/wiki/Royal_standards_of_Canada). Flying it somewhere means the queen is there.
 1. [There's a law on the British Columbia books that states if you're a bankrupt drunk who got thrown into jail, the law requires the jailer to bring you a bottle of beer on demand.](http://weirdfascinatingstuff.blogspot.ca/2010/06/weird-laws-from-canada-part-2-always.html)
 1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
+1. Nortel accounted for more than 1/3 of the TSX at some point.
+1. The [Saskatchewan timezone](https://en.wikipedia.org/wiki/Time_in_Saskatchewan) is "6 hours behind UTC"; that is not to say it doesn't have daylight savings; from a historical and geographical perspective, it may be said that Saskatchewan has permanent daylight savings (see map in link).

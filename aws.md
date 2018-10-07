@@ -25,3 +25,4 @@
 1. Adding `query` to the `aws` command line gives you just that part of the response. `AWS_PROFILE=foo aws rds describe-db-snapshots --db-snapshot-identifier dont-delete-this-snapshot --query "DBSnapshots[0].PercentProgress"` would give `100` instead of the JSON object.
 1. ["Cloudfront only accepts certificates hosted in region us-east-1."](https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394) - Sebastian, in 2017
 1. You can't share (with another account) an RDS snapshot that was encrypted with the default RDS key.
+1. CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.

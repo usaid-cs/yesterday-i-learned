@@ -72,3 +72,5 @@
 1. [Let's Make America Great Again](https://en.wikipedia.org/wiki/Make_America_Great_Again) was actually Reagan's slogan.
 1. Ohio has voted for the winning president since 1960.
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
+1. There *was* a nuclear shipping vessel, [NS Savannah](https://en.wikipedia.org/wiki/NS_Savannah).
+1. Sergei Korolev was the Soviet space man. He was the reason the soviets got as far as space. Unfortunately he was underfunded (and died), so USA went to the moon first.

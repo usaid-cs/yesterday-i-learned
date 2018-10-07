@@ -717,3 +717,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [Breaststroke is the least tiring of the strokes.](http://www.dailymail.co.uk/health/article-132028/Swim-away-calories.html) Use that when you are trying to stay alive. If you are swimming for exercise, then [don't stop swimming and take fewer breaks](http://www.health.com/health/article/0,,20411721,00.html).
 1. [Consuming salt water immediately before sports][theglobeandmail 2] helps retain water.
 1. [Vegan condoms exist](https://www.verywellhealth.com/vegan-condoms-3132703). They lack casein.
+1. Replacing your hip can somehow lead to more heart attacks and strokes.
+1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.

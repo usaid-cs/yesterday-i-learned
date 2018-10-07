@@ -1,3 +1,4 @@
+1. The iOS launcher is called the springboard.
 1. In the case of product red, since RED is superscripted and also what's trademarked, the actual logo is `(PRODUCT)^(RED^(TM))`, where TM is superscripted twice.
 1. So many people use iPhones, that when iOS 7 came out, [its parallax wallpapers caused enough people to get motion sickness to make the news](https://en.wikipedia.org/wiki/IOS_7).
 1. Macbook Pro fans don't spin up until [the CPU is 81 degrees C.](https://www.youtube.com/watch?v=wgeh7ZJRhZU)
@@ -46,3 +47,4 @@
 1. "2007: home button always takes you home, no matter where you are (mentioned in keynote). 2017: home button takes you home most of the time if you press it once. Press it twice and you get an app switcher. Press it three times for accessibility. If your phone is locked, press it once to wake, twice to bring up passcode. If you're in a notification, press once to get rid of notification, then again to go home. Rest finger to unlock without opening home. Double rest to bring reachability. Press and hold for Siri. Press and hold longer for Siri with stop on release." - /u/atalkingfish
 1. CarrotPop makes an iPhone app, called ["Send Me to Heaven"](http://www.huffingtonpost.ca/entry/send-me-to-heaven-throw-phone-apple_n_3720888), that scores how high you throw the phone into the air. The app was banned.
 1. The Safari responsive design mode straight out [denies other ecosystems exist](http://imgur.com/TYfG7DN).
+1. When you take an elevator ride with Steve Jobs and tell him what you do, results may vary. You either [get fired](https://www.quora.com/Who-did-Steve-Jobs-actually-fire-in-an-elevator), or [you don't](https://www.reddit.com/r/apple/comments/6wsmub/did_steve_jobs_make_much_smalltalk_with_his/) ("That's what I heard. I hope it gets better.") It depends on what you say (said).

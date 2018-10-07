@@ -40,3 +40,6 @@
 1. [JK Rowling's ex-husband](http://www.newsweek.com/jk-rowling-husband-domestic-abuse-741496) died in 1995. That was the same year she typed up the first book.
 1. [Borat was in Les Misérables](http://www.imdb.com/title/tt1707386/characters/nm0056187?ref_=tt_cl_t5), and [Bellatrix was his wife](http://www.imdb.com/name/nm0000307/?ref_=tt_cl_t6).
 1. Doctor Whos regenerate to look like different actors, [say BBC](http://www.bbc.co.uk/news/blogs-magazine-monitor-23573730).
+1. Tom Hanks *loves* typewriters.
+1. Demetria "Demi" Lovato has that real last name. [She suffers from drug addiction.](https://www.youtube.com/watch?v=zQwhSOsb-Cg)
+1. Santa Claus was called Kris Kringle.

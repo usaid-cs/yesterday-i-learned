@@ -175,3 +175,4 @@
 1. Depending on the trim, the [2017 Tacoma](https://www.toyota.ca/toyota/en/vehicles/tacoma/overview) has either the badge on the front (normal ones) or `T O Y O T A` (TRD pro). In other news, "oh yeah, the 2015 Yaris is so ugly, they can't possibly make it wors-[well what do you know.](https://preview2.netcarshow.com/Toyota-Yaris-2017-1600-0e.jpg)"
 1. [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).
 1. On fuel octane rating: Most countries use MON, US uses RON/MON average, which results in a lower number. MON 91 is the US 87.
+1. Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.

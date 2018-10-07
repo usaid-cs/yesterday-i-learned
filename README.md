@@ -16,6 +16,7 @@
 ## Social sciences
 * [anthropology.md](anthropology.md)
 * [business.md](business.md)
+* [finance.md](finance.md)
 
 ## Language
 * [french.md](french.md)
@@ -82,6 +83,7 @@
 
 ## History & geography
 * [canada.md](canada.md)
+* [geography.md](geography.md)
 * [history.md](history.md)
 
 # Contributing
