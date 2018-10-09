@@ -1,3 +1,9 @@
+1. Multi-column "tree-style" lists, like the ones you find in the Mac Finder, are called [Miller columns](https://en.wikipedia.org/wiki/Miller_columns), reportedly invented by a Mark Miller.
+1. The [Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot) is a 3D rendering benchmark, and an inside joke in some animated movies. Naturally then, [it has shown up in Toy Story](https://news.avclub.com/here-s-why-the-same-teapot-has-shown-up-in-toy-story-t-1798254642).
+1. A [Dutch rudder](https://www.urbandictionary.com/define.php?term=Dutch%20Rudder) is having someone jerk you off by moving your own forearm.
+1. Ladies don't share underwear. They share everything else.
+1. The plural of *alma mater* (nournishing mother) is *almae matres* (nournishing mothers).
+1. Walking while farting is also called [crop dusting](https://www.urbandictionary.com/define.php?term=crop%20dusting).
 1. You are [supposed](https://www.reddit.com/r/LifeProTips/comments/9lx87k/lpt_be_respectful_of_haunted_house_actors_theyre/) to act scared in a haunted house out of courtesy.
 1. [Interpol](https://en.wikipedia.org/wiki/Interpol) is a real organisation facilitating international police cooperation, and Taiwan is not in it.
 1. "Stories" appeal to people who understand that their social media content will eventually come back to haunt them.
@@ -294,7 +300,6 @@
 1. You don't hear the dark joke "are muslim babies born with burkas on" because [they don't wear one until puberty](http://www.dailymail.co.uk/news/article-2273308/Sheikh-Abdullah-Daoud-Saudi-cleric-sparks-outrage-calling-baby-girls-wear-burka.html).
 1. Those tiny bean things sometimes included in sandwiches are either broccoli or [alfalfa](https://en.wikipedia.org/wiki/Alfalfa) sprouts.
 1. To be awarded life insurance money early, use the word *mephitic* (foul smelling) to describe your wife's breath.
-1. Too cold and there is no snowball, because you need the moisture.
 1. Buzzcuts were originally given to prevent head lice.
 1. [An ounce of weed is a large volume](https://i0.wp.com/stuffstonerslike.com/wp-content/uploads/2015/06/ounce-of-weed.jpg?resize=1000%2C750). Clack suggests thinking in the form of fried spices.
 1. A "bump stock"... uses a gun's recoil to pull the trigger (with the distance between the action and the stock), making it effectively automatic.
@@ -353,7 +358,6 @@
 1. Mass-produced dry pasta is yellow because [it was dried quickly and that's no good](https://www.lifegate.com/people/lifestyle/pasta), if you trust that sort of thing. Dark spots in dry pasta are impurities, not some fancy whole wheat component.
 1. You might have invented the word ["newspapoid"](https://www.google.com/search?q=%22newspapoid%22) to describe tabloid-quality newspapers. There are currently absolutely no search results.
 1. Chinese government apparently obfuscates corodinates of their maps and street view stuff using something called [GCJ-02](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#Coordinate_systems) in the name of national security, but their algorithm is leaked so much that the reverse code it is just on wikipedia.
-1. "Gig economy" means people are always doing short-term work. [40% of jobs are expected to be one of those by 2020.](https://whatis.techtarget.com/definition/gig-economy)
 1. ["Andre Geim ... was ... the first to win, as an individual, both a Nobel Prize ... and an Ig Nobel Prize."](https://www.improbable.com/2010/10/05/geim-becomes-first-nobel-ig-nobel-winner/)
 1. [Positive rights](https://www.quora.com/What-are-positive-rights-and-negative-rights) are your rights to do/get something, and negative rights are your rights to not have something done to you. Since "right to life" (positive) is the same as "right to not be killed" (negative), [some people don't think this distinction matters](https://en.wikipedia.org/wiki/Negative_and_positive_rights).
 1. Modern chili is closer to [feijoada](https://en.wikipedia.org/wiki/Feijoada) (beans, beef) than [chili con carne](https://en.wikipedia.org/wiki/Chili_con_carne) (chili, beef).
@@ -401,7 +405,6 @@
 1. You may have noticed that [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time#Etymology) stands for Coordinated Universal Time (CUT).
 1. The "quad" bit of a quad DAC aims to improve signal-to-noise ratio of its analogue output, so what comes out sounds more like what should be coming out, rather than, say, music plus electronic interference.
 1. The [Parthenon](https://en.wikipedia.org/wiki/Parthenon) was turned into a church, a mosque, and then blown up, when the Venetians accidentally set off an Ottoman ammo store inside (it was lit).
-1. Berlin happened to have been selected as the Olympics venue in 1936, before the Nazis rose to power.
 1. A [scotch egg](https://en.wikipedia.org/wiki/Scotch_egg) is a (no shell duh) egg wrapped in sausage meat and deep-fried breading.
 1. Presto GO bus passengers need to tap on their way out.
 1. A [euchrist](https://en.wikipedia.org/wiki/Eucharist) is just a communion.
@@ -415,7 +418,6 @@
 1. Gastropubs are just pubs with better food and drinks.
 1. Annie (the one we try not to sexualise) is in The Disaster Artist.
 1. Any book containing the book of psalms can technically be called a [psalter](https://en.wikipedia.org/wiki/Psalter). Usually it requires the book of psalms to be the main book in the volume, though.
-1. Karl Marx knew at least English and German, and perhaps some French. He had an activist daughter called [Eleanor](https://en.wikipedia.org/wiki/Eleanor_Marx).
 1. A [dumbwaiter](https://en.wikipedia.org/wiki/Dumbwaiter) serves food from any floor to any other floor.
 1. A skinny latte is a latte with fat free milk and sugar free sweetener.
 1. Philosophical vegans might want to consider [eating oysters](http://www.slate.com/articles/life/food/2010/04/consider_the_oyster.html). They are so low in the food chain that some consider it okay.
@@ -885,7 +887,6 @@
 1. [Dolly](https://imgur.com/ZGdQJ5K) refers to camera movement along the Z axis (towards/away from the cameraman). Going from side to side is called Truck left/right.
 1. The [best-selling video game](https://en.wikipedia.org/wiki/List_of_best-selling_video_games) is Tetris. Not surprising. The second best-selling video game is Minecraft. Very surprising.
 1. The queen still sends out "how's it going commonwealth" Christmas greetings every year, [now in full HD](https://www.youtube.com/watch?v=IjTBcqpl2kc). In 2017, she talked about how she was doing the same thing six decades ago. "I didn't know that anyone had invented the term *platinum* for a 70th wedding anniversary when I was born. You won't expect it to be around that long."
-1. There are at least two billionaires named Toby: [Toby](https://en.wikipedia.org/wiki/Toby_Neugebauer), [Toby](https://www.thestar.com/business/tech_news/2017/11/27/shopify-founder-tobi-lutke-is-canadas-newest-billionaire.html)
 1. 110V water kettles boil slower than 220V water kettles, [scientists say](http://www.businessinsider.com/why-americans-dont-use-electric-kettles-stove-top-2015-12).
 1. Kathleen [O'Day](https://en.wikipedia.org/wiki/Kathleen_Wynne) "0-day" Wynne was the first LGBT premier to sell off Hydro One.
 1. The skull in the Pirate Bay's logo is the same logo from [Home Taping Is Killing Music](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music).
@@ -1097,7 +1098,6 @@
 1. You don't see Wenger knives anymore because Victorinox bought it back in 2005.
 1. Angostura bitters labels are too big for the bottles because they [accidentally did it that one time](http://www.alcademics.com/2011/03/the-history-and-production-of-angostura-bitters.html), and then kept doing it.
 1. If you hit/run over someone else's dog, driving away counts as "damaging someone's property and fleeing the scene".
-1. Sources vary on whether decaf coffee is (still) good for you. [Good](https://www.healthline.com/nutrition/decaf-coffee-good-or-bad) [Good](https://draxe.com/decaf-coffee/) [Good](https://www.psychologytoday.com/blog/your-brain-food/201105/why-decaf-coffee-is-just-healthy) [Bad](https://www.livestrong.com/article/364276-is-decaf-coffee-bad-for-your-health/) [Bad](http://teeccino.com/building_optimal_health/39183/Decaf-Coffee-And-Health.html) [Bad](http://www.expertrain.com/blog/health/is-decaf-a-healthy-choice.htm). The correct answer is: [decaf tastes awful](https://coffeemakerjournal.blogspot.ca/2014/01/why-does-decaf-coffee-taste-bad.html), so don't drink it.
 1. *Baker*, *Boulanger*, and *Panettiere* are all the same last name for people who used to bake.
 1. [Italians didn't really speak Italian](https://history.stackexchange.com/questions/14712/in-1861-few-italians-spoke-italian) when Italy was unified in 1861. The French didn't speak much French either. More people spoke Occitan than French back then.
 1. [Wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) is an analogy that if a person's livelihood depends on wages or a salary, then the person is a slave to the wage or salary, and therefore the company/corporation. "The salaried [are] only free-ranged slave[s] that [are] nothing but just a tool to create wealth for [the rich]."
@@ -1112,7 +1112,6 @@
 1. Cigarette filters are made of fiberglass.
 1. Quinoa ("kinwa") floats, needs to be rinsed, and sticks to every cooking surface (because it floats). Cooking time is longer. Unpleasant cooking experience.
 1. Cooked rice has only 2g of protein per 100g. Quinoa 4g. Your everyday pasta, 6g. Carbs are similar (30g), except for quinoa, at 20g.
-1. Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.
 1. Zack says the name "BlackBerry" was coined by marketing company Lexicon Branding, due to the resemblance of the keyboard's buttons to that of the [drupelets](https://en.wikipedia.org/wiki/Drupe) that compose the blackberry fruit.
 1. MKBHD's ultimate frisbee jersey number is 82.
 1. To [determine the week day of any date](http://gmmentalgym.blogspot.ca/2011/03/day-of-week-for-any-date-revised.html#ndatebasics): (Sunday=0 ~ Saturday=6) + (Map your months to 6 or 5,2 or 1,2,5,0,3,5,1,4,6,2,4) + (Some really, really weird rules regarding years).
@@ -1215,7 +1214,6 @@
 1. Single quotes don't work in `COUNTIFS` conditions. Well, in general, strings in Excel should/must be written in double quotes.
 1. The juicero "bag squeezer" is useless, but [very well made.](https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50)
 1. Wyoming is the least populous state. Its capital has around 50000 people.
-1. UV light doesn't kill anything unless the light is applied for at least 10 seconds. The light also needs to be [UV-C](https://ultraviolet.com/what-is-germicidal-ultraviolet/), the wavelengths that kill germs.
 1. If you are interested in the [baby mop](https://www.amazon.ca/BABYMOP-Great-Cleaning-Rompers-Original/dp/B00F99WO2Y), unfortunately the baby should be taken away from you.
 1. You wasted around three years of your life on [Battle City](https://en.wikipedia.org/wiki/Battle_City_%28video_game%29), some tank game.
 1. The Romans cooked lettuce. They rarely ate it raw.
@@ -1501,7 +1499,6 @@
 1. [Nejd](https://en.wikipedia.org/wiki/Najd) ("the middle of Saudi Arabia") is the birthplace of wahhabism, the fundamentalist branch of beliefs.
 1. A man named Tom [recommends](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439) having integers as primary keys, and another UUID column for whenever these resources/objects are accessed externally. "Primary keys should never be exposed, even UUIDs"
 1. You are supposed to store **UUIDs** as [four bytes](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439), rather than a 36-character string. Smaller, faster for sorting, creating, pretty much everything is better. ORMs already do this for you.
-1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).
 1. B&H are the initials of the original owners, Blimie and Herman. ["Barnes and Hobo"](https://www.barnesandnoble.com/) is some other company, which, [*of course*](https://www.google.com/search?q="Barnes+and+Hobo"), is not a clever and original phrase.
 1. A "misdemeanor" is a small wrongdoing that is still worth punishing.
 1. [Actuaries use numbers rather than guessing to evaluate the likelihood of future events, design creative ways to reduce the likelihood of undesirable events and decrease the impact of undesirable events that do occur.](http://www.academicinvest.com/science-careers/mathematics-careers/how-to-become-an-actuary) "[Hedging](http://www.investopedia.com/terms/h/hedge.asp)" refers to risk reduction. Actuaries can reduce the risk of a portfolio either by manipulating its asset class, or buying "insurance" type actions that prevent too much of a loss in the event of a downturn.
@@ -1677,7 +1674,6 @@
 1. There are more calories in [African American coffee](https://funsubstance.com/fun/239676/id-like-an-african-american-coffee/) from being hot than from being coffee. (Simply being 60 degrees Celsius gives around 80 Calories.)
 1. [At low concentrations, both musk and skunk smell sweet.](https://www.quora.com/What-does-musk-smell-like) At high concentrations, musk smells like crap, and skunk smells like skunk.
 1. Any website is "web-scale".
-1. Adam in the bible did not have the largest penis on Earth at any given time.
 1. Apparently displays can appear to have a ["jelly-like" effect](https://www.xda-developers.com/oneplus-is-aware-of-the-jelly-scrolling-effect-some-oneplus-5-owners-are-reporting/) if contents are scrolled while upside down.
 1. "9H hardness", frequently used to quantify tempered glass screen protectors, is [well under 6 on mohs hardness scale.](http://www.moutfitters.com/blog/true-hardness-tempered-glass-screen-protector/) There does not appear to be a conversion table available, because pencil hardness is a colour scale.
 1. Over the years, more useless elements have been added to TF2. This slows down the game. In response, [Valve made the game look even worse](https://www.youtube.com/watch?v=w1W5DU4zmAA) so as to maintain a decent framerate.
@@ -1705,7 +1701,6 @@
 1. 50 Cent is [African American](https://github.com/WCF/black-to-african-american). Eminem is Caucasian American.
 1. Nepotism: rich people giving jobs to each other's relatives.
 1. 3.5 ounces is around a 100g. Unfortunately, it is 3.3 yards that is roughly 1 metre, rather than 3.5.
-1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery. **WAIT**: what the hell is your phone doing while charging then? **WAIT 2**: it might just be a way to prevent you from making the battery charge itself.
 1. A 1080p PenTile display has an actual resolution of [1564 x 880](https://medium.com/@suyashsrijan/1080p-pentile-is-not-true-1080p-9951b9e5c2ee) (66% of pixels, 81% on each side). They get away with this because VESA uses "50% Michelson contrast" to define boundaries of a pixel, rather than rows and lines.
 1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.
 1. The source of the fire is usually well-burned, because there was a lot of oxygen at the time. All other places are poorly burned. This is how firemen ("[fire people](https://github.com/WCF/black-to-african-american)") deduce where a fire started.
@@ -1910,7 +1905,6 @@
 1. 🤘😝🤘 is sign language for "I love you" where Isco was playing.
 1. Star Wars characters often have a problem with not knowing their real dads.
 1. "First do no harm" is not in the Hippocratic Oath, but the idea is there.
-1. "Bluechips" are large companies with huge market caps. They are usually safe, and don't move up and down much.
 1. For a tongue twister, try "il y a eu une erreur".
 1. For some reason, "À la une" ("at the one") translates to "headlines".
 1. In the past, illegal immigrants could file (income) taxes and get refunds.
@@ -2127,7 +2121,6 @@
     * You're `tee`ing here to pipe the 3 into a root command. [Neat][linuxinsight]!
 1. App engine admin: `--admin_port=8001`
 1. [RFC 2324][ietf] for coffee pot communication (not HTTP 418; that's for tea pots)
-1. You [can][jetbrains] debug through SSH!
 1. Parkinson's law of Triviality: the more trivial a task is, the more opinion you will get for doing it, so the slower it will be done.
 1. [`(jenkins_url)/safeRestart`][stackoverflow 5] restarts it.
 1. A jenkins job can be cloned or backed up [by just copying the files][jenkins-ci]. A jenkins job can also be copied by right-clicking on it.
@@ -2229,7 +2222,6 @@
 1. Poor man's [Laksa][wikipedia 19] can be imitated with [coconut whatever][wikipedia 20], curry, beef broth, chili oil, and cheese. A slightly less poor man can add fishballs instead of fish cake, and pho instead of spaghetti. The working man may even buy bean sprouts for the occasion, and use actual tofu puff instead of pretending tofu is okay.
 1. [Earthquake lights][wikipedia 21] are visible near places before an earthquake happens. There is no concrete explanation so far.
 1. It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
-1. The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you][cs].
 1. We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
 1. Hitler was Catholic.
 1. On learning [F# for fun and profit](https://fsharpforfunandprofit.com/about/): >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
@@ -2431,7 +2423,6 @@
 1. "Herbs" are only from leaves of plants, and that "spices" are from everything *but* the leaves.
 1. Fecal popcorning are these minute particles of excrement that if you breath it (in addition to just being disgusting) can lead to very dangerous fungal infections in your lungs.
 1. Astronauts must have good airflow around them when they sleep, otherwise, they could wake up oxygen-deprived and gasping for air because a bubble of their own exhaled carbon dioxide had formed around their heads.
-1. The event horizon is where escape velocity equals the speed of light. The photon sphere is where orbital velocity equals the speed of light.
 1. [Deflashing][wikipedia 84] can refer to the removal of *flash*, excess material from plastic moulding.
 1. Hair grown to deliberately irritate is called [Urticating hair][wikipedia 85].
 1. The feeling of suddenly not knowing yourself is called [depersonalisation][wikipedia 86]. It is the most common psychological disorder after anxiety and depression.
@@ -2921,7 +2912,6 @@
 1. If you want a reason to dislike the [double spacing](http://www.quickanddirtytips.com/education/grammar/two-spaces-after-a-period) plague, here's a sick burn: ["Your typing as well as your typesetting will benefit from unlearning this quaint (double spacing) Victorian habit"](https://en.wikipedia.org/wiki/Sentence_spacing#Typography)
 1. ["Distributed guessing"](http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf) is when a hacker tries the same credit card with different expiry dates and CVV on different sites at the same time, hitting retry limits on none of them. The valid combination [of expiry and CVV] can optimistically be found in minutes, and much harder if address is required.
 1. It is not so hard to believe [Josephus Daniels' name](http://qz.com/88453/why-coffee-is-called-joe/) stands for coffee, when Jack Daniels' name stands for whiskey. Joe got the fame for banning alcohol, directly offering coffee as a substitute.
-1. "Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life." - [GSnow](https://www.reddit.com/r/Assistance/comments/hax0t/my_friend_just_died_i_dont_know_what_to_do/c1u0rx2/)
 1. [*Side*](http://www.urbandictionary.com/define.php?term=Side) can refer to a gay man who do not receive anal penetration.
 1. Battery packs are now commonly referred to as [尿袋](http://s.nextmedia.com/realtime/a.php?i=20161213&s=10829391&a=56040208).
 1. It was said that Denny's, a restaurant chain once proud of never closing, decided to close after 35 years of continuous operation. Some of the stores had no locks; many more failed to find keys for them. [But they do close when required by law.](https://en.wikipedia.org/wiki/Denny's)
@@ -2940,7 +2930,6 @@
 1. Vermouth is almost no different from sherry. Real vermouth would have aromatics in it, but not if you buy the cheap stuff, like the brand "Martini".
 1. Pyrex does not mean good. Check [the pyrex guide](https://www.reddit.com/r/BuyItForLife/comments/5ji9cq/now_that_pyrex_is_intentionally_weakening_their/) before buying. The glass should not have a bluish tint. Also check [the logo](https://i.imgur.com/olslOMN.jpg) before you buy. The logo you want is all-caps white on red. It should also say "made in France" somewhere.
 1. Stephen Lake, Thalmic Labs, once tried to lower company expenditure by [writing a blog post about how much STEM people should earn.](https://medium.com/@srlake/debunking-the-myth-of-higher-pay-in-silicon-valley-87828cbf6698#.2vrwrfxcr) He failed.
-1. "Twenty-two astronauts were born in Ohio. What is it about your state that makes people want to flee the Earth?" - Stephen Colbert
 1. There is both a president and prime minister for Russia, with the president being the higher one. Vladimir was the PM from 1999 to 2000, president from 2000 to 2008, prime minister from 2008 to 2012, and president from 2012 to forever.
 1. "In the event (...) where passengers have to cover their heads you do not 'lock' your fingers over head but place one hand on top of the other. If something falls on your hand/head, you'll still have one good hand to use."
 1. Usually when people realise that termites exist, it is already too late to learn from the mistake.
@@ -3048,7 +3037,6 @@
 1. If you do cube roots a lot, [there is a way to calculate it quickly](http://www.mindmagician.org/cubert.aspx).
 1. Some parents prefer to be called "mum", while others prefer to be called "dad". [Children of non-binary parents](https://theyismypronoun.wordpress.com/2015/08/21/beyond-mummy-or-daddy-names-for-non-binary-parents/) should issue trigger warnings, lest they get sued by their own parents by calling them by their first names, which is rude, or 'parent', which is not their preferred terminology.
 1. [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
-1. Taylor Swift has to fake being shocked and surprised when winning every reward.
 1. [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)
 1. A [*brown noser*](https://www.urbandictionary.com/define.php?term=brown+noser&amp=true&defid=724517) is an ass kisser (or licker, or equivalent).
 1. The act of asking for a lower interest rate (or other terms) is called [refinancing](https://en.wikipedia.org/wiki/Refinancing).
@@ -3103,7 +3091,6 @@
 [chrome]: https://developer.chrome.com/extensions/content_scripts
 [cmu]: http://www.cmu.edu/news/stories/archives/2015/december/diet-and-environment.html
 [crackstation]: https://crackstation.net/hashing-security.htm
-[cs]: http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm
 [deutsch-als-fremdsprache]: http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html
 [dictionary]: http://blog.dictionary.com/ampersand/
 [diffen]: http://www.diffen.com/difference/AK-47_vs_AK-74
@@ -3161,7 +3148,6 @@
 [izismile]: http://izismile.com/2011/04/13/do_you_open_sugar_sticks_correctly_4_pics.html
 [jamesclear]: http://jamesclear.com/new-habit
 [jenkins-ci]: https://wiki.jenkins-ci.org/display/JENKINS/Administering+Jenkins
-[jetbrains]: http://blog.jetbrains.com/pycharm/2013/03/how-pycharm-helps-you-with-remote-development/
 [jorgenschaefer]: http://blog.jorgenschaefer.de/2013/01/monads-for-normal-programmers.html
 [kryo]: http://code.kryo.se/iodine/
 [ldc]: http://languagelog.ldc.upenn.edu/nll/?p=73

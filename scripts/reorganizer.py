@@ -46,7 +46,10 @@ def main():
             return
         elif new_file == 'd':
             remove_item(line)
-        elif new_file.endswith('.md'):
+        elif len(new_file) > 1:
+            if not new_file.endswith('.md'):
+                print('Warning: appending .md to {}'.format(new_file))
+                new_file = new_file + '.md'
             with open(new_file, 'a') as myfile:
                 myfile.write(line + '\n')
             remove_item(line)

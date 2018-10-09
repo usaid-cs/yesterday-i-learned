@@ -29,6 +29,15 @@
                 font-size: 12pt;
                 margin: 10pt 0;
             }
+            #random {
+                font-family: sans-serif;
+                overflow-x: hidden;
+                word-wrap: break-word;
+                line-height: 1.68;
+                margin: 15px 0;
+                background-color: rgba(0,0,0,0.05);
+                border-radius: 10px;
+            }
             #results {
                 font-family: sans-serif;
                 overflow-x: hidden;
@@ -42,6 +51,7 @@
     <body>
         <h1>YIL</h1>
         <input type="text" id="keyword" onkeyup="doSearch()" autofocus>
+        <div id="random"></div>
         <div id="results"></div>
     </body>
 
@@ -69,6 +79,7 @@
                 });
                 Promise.all(requests).then((tils) => {
                     facts = ''.concat(...tils);
+                    fillRandomFact();
                 });
             });
 
@@ -80,7 +91,7 @@
         function doSearch() {
             let el = document.getElementById('keyword');
             if (!el.value) return;
-            if (el.value.length < 3) return;
+            if (el.value.length < 2) return;
             let results = search(el.value);
             setTimeout(() => {
                 if (results && results.length) {
@@ -89,6 +100,15 @@
                     resultsEl.innerHTML = 'No results';
                 }
             }, 0);
+        }
+
+        function fillRandomFact() {
+            if (!(facts && facts.length)) return;
+            let randomEl = document.getElementById('random');
+            let lines = facts.split('\n');
+
+            let randomFact = lines[Math.floor(Math.random() * lines.length)];
+            randomEl.innerHTML = markdown.toHTML(randomFact);
         }
     </script>
 </html>

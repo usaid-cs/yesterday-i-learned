@@ -43,3 +43,5 @@
 1. Tom Hanks *loves* typewriters.
 1. Demetria "Demi" Lovato has that real last name. [She suffers from drug addiction.](https://www.youtube.com/watch?v=zQwhSOsb-Cg)
 1. Santa Claus was called Kris Kringle.
+1. There are at least two billionaires named Toby: [Toby](https://en.wikipedia.org/wiki/Toby_Neugebauer), [Toby](https://www.thestar.com/business/tech_news/2017/11/27/shopify-founder-tobi-lutke-is-canadas-newest-billionaire.html)
+1. Taylor Swift has to fake being shocked and surprised when winning every reward.

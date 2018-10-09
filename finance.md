@@ -3,3 +3,6 @@
 1. "[Circular economy](https://en.wikipedia.org/wiki/Circular_economy)" is a buzzword that means "nothing in manufacturing goes to waste".
 1. "Other people's money" and "Other people's time" are proven ways to make yourself richer. That's why companies exist. That's why you shouldn't be working for others purely for the money.
 1. A security is a tradable financial asset of any kind, but [BitCoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset). Which can be tangible or intangible. Not sure.
+1. "Bluechips" are large companies with huge market caps. They are usually safe, and don't move up and down much.
+1. ["Save 25X your annual spending and you can retire. If you invest to earn 7%/yr (on avg), you can withdraw 4% forever."](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Attributed to a comment [here](https://news.ycombinator.com/item?id=18128477)1. "Gig economy" means people are always doing short-term work. [40% of jobs are expected to be one of those by 2020.](https://whatis.techtarget.com/definition/gig-economy)
+1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).

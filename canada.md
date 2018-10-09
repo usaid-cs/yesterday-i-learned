@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Thunder Bay is the murder capital, the overdose capital, and the place that ended the marathon of hope.
 1. [Schneider's meat plant closed in 2013](https://www.therecord.com/news-story/8106532-schneiders-plant-to-be-demolished-within-months/).
 1. David Johnston once broke protocol by [helping the queen](https://ca.hellomagazine.com/royalty/02017071937472/david-johnston-breaks-royal-protocol-queen-elizabeth/), which was not allowed.
 1. If BC is struck by a tsunami from an earthquake, which is [long overdue](https://globalnews.ca/news/3981536/tsunami-earthquake-canada-the-big-one/), then [Operation Panorama](https://shawglobalnews.files.wordpress.com/2017/02/a-2016-00922.pdf) kicks in to rebuild infrastructure.

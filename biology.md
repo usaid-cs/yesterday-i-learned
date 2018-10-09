@@ -1,3 +1,5 @@
+1. The more absorbent a tampon is, the more likely toxic shock syndrome is to occur. Staphylococcal TSS is diagnosed by symptoms. A man named Patrick determines the incidence rate to be 0.4 per 10000 menstrating women per year.
+1. [Rosemary](https://en.wikipedia.org/wiki/Rosemary) tastes like a herb because it is one.
 1. Some people, notably the Han Chinese, have [another toenail next to their pinky toes](https://en.wikipedia.org/wiki/Accessory_nail_of_the_fifth_toe).
 1. Herpes simplex virus types 1 and 2 can both be transmitted by any wet contact, including dental work and childbirth.
 1. Human ears can detect sound in the 20Hz~20kHz range, but not electromagnetic waves in the same range.
@@ -719,3 +721,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [Vegan condoms exist](https://www.verywellhealth.com/vegan-condoms-3132703). They lack casein.
 1. Replacing your hip can somehow lead to more heart attacks and strokes.
 1. [Bliss point](https://en.wikipedia.org/wiki/Bliss_point_%28food%29)... describes what it means to have "just the right amount of salt, sugar, and fat" to make something taste best.
+1. Sources vary on whether decaf coffee is (still) good for you. [Good](https://www.healthline.com/nutrition/decaf-coffee-good-or-bad) [Good](https://draxe.com/decaf-coffee/) [Good](https://www.psychologytoday.com/blog/your-brain-food/201105/why-decaf-coffee-is-just-healthy) [Bad](https://www.livestrong.com/article/364276-is-decaf-coffee-bad-for-your-health/) [Bad](http://teeccino.com/building_optimal_health/39183/Decaf-Coffee-And-Health.html) [Bad](http://www.expertrain.com/blog/health/is-decaf-a-healthy-choice.htm). The correct answer is: [decaf tastes awful](https://coffeemakerjournal.blogspot.ca/2014/01/why-does-decaf-coffee-taste-bad.html), so don't drink it.

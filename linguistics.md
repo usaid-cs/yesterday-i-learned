@@ -1,3 +1,5 @@
+1. [23333333](https://www.quora.com/Whats-the-meaning-of-23333-in-Chinese) means "can't stop laughing" because emoticon code 233 was "can't stop laughing" in some chat app.
+1. [啪啪啪](https://tw.18dao.net/%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8/%E5%95%AA), or just 啪, has come to mean sex.
 1. Damper is technically more correct than dampener.
 1. [Most Anglo-Saxon names fell out of use after the medieval period](https://en.wikipedia.org/wiki/Edgar), except for Alfred and Edgar, which still exist. [Those names are ususally joined by two elements](https://en.wikipedia.org/wiki/Germanic_name), a prefix and a suffix.
 1. [Tea](https://i.redd.it/bgoe35wzayn11.png) is called Tea if the product was introduced by sea from Southern China, where it was pronounced *te*. Tea is called Cha if the product travelled from mainland China by land instead.

@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The Lug Nut Rule: The vehicle that uses the most lug nuts to hold its wheels on will win the collision. (/u/anotherkeebler)
 1. Toyota waited until 2020 to implement Android Auto because [Android Auto has a lot of privacy concerns](https://www.motor1.com/news/239477/toyota-android-auto-privacy-concerns/), giving Google basically all vehicular information, like vehicle speed, throttle position, coolant and oil temp, and engine revs.
 1. Engines with long strokes typically make higher torque at lower RPMs, while engines with shorter strokes need to be at higher RPMs to achieve the same torque.
 1. The first generation Chevy Cruze came with an underbody cover for better aerodynamics, but also had an oil leak issue that made the covers flammable.
@@ -176,3 +177,5 @@
 1. [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).
 1. On fuel octane rating: Most countries use MON, US uses RON/MON average, which results in a lower number. MON 91 is the US 87.
 1. Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.
+1. The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you](http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm).
+1. Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.

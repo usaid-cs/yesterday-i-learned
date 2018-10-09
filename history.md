@@ -1,3 +1,4 @@
+1. [Eating meat](https://www.youtube.com/watch?v=NxvQPzrg2Wg) hadn't been a common thing until the recent decades.
 1. Wonton didn't have shrimp until people's tastes got picky (I'd say the 1970s). It also came from Northern China, where the dumplings were.
 1. [William Henry Harrison](https://en.wikipedia.org/wiki/William_Henry_Harrison) (the 9th US president) took office for only 31 days, before he died of pneumonia.
 1. [A cyclone in 1970](https://en.wikipedia.org/wiki/1970_Bhola_cyclone) once killed 500,000 people at today's Bangladesh.
@@ -74,3 +75,5 @@
 1. North Korea was growing as fast or slightly faster than South Korea until the 1970's; much of its growth was dependent on cheap fossil fuel from the USSR.
 1. There *was* a nuclear shipping vessel, [NS Savannah](https://en.wikipedia.org/wiki/NS_Savannah).
 1. Sergei Korolev was the Soviet space man. He was the reason the soviets got as far as space. Unfortunately he was underfunded (and died), so USA went to the moon first.
+1. Berlin happened to have been selected as the Olympics venue in 1936, before the Nazis rose to power.
+1. Karl Marx knew at least English and German, and perhaps some French. He had an activist daughter called [Eleanor](https://en.wikipedia.org/wiki/Eleanor_Marx).

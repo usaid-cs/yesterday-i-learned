@@ -38,3 +38,5 @@
 1. Infrared cameras, including [one in a phone case](https://www.youtube.com/watch?v=8Vc-69M-UWk), can reveal your PIN on any non-metal number pad, including the order of the digits, with 80% accuracy.
 1. If the temperature gradient is large enough, power can be generated from the gradient using the [seeback effect](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect), which does not involve boiling water and turning a turbine.
 1. Ultrasonic mosquito repellants [do not work](http://www.bbc.com/news/magazine-20669080).
+1. The event horizon is where escape velocity equals the speed of light. The photon sphere is where orbital velocity equals the speed of light.
+1. UV light doesn't kill anything unless the light is applied for at least 10 seconds. The light also needs to be [UV-C](https://ultraviolet.com/what-is-germicidal-ultraviolet/), the wavelengths that kill germs.
