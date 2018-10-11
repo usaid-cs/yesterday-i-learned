@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/IGedhKP.jpg)
 
+1. You need to put your foot on the brake before you can start a car with a push button.
 1. [Service roads](https://en.wikipedia.org/wiki/Frontage_road) are roads running parallel to highways. Living on a service road is often a poor idea, because service roads can only go one way.
 1. Before the second world war, [Europe had 50:50 mixed opinions about which side of the road to drive on](https://i.redd.it/zhaj9kiw5ha11.png), including driving on either side being an option in Italy.
 1. [You can't do a U-turn at an intersection in Alberta](https://globalnews.ca/news/974813/road-rules-are-u-turns-allowed/) (unless it says you can).

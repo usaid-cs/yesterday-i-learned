@@ -179,3 +179,4 @@
 1. Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.
 1. The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you](http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm).
 1. Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.
+1. [Buy only the kind of car you can afford to lose.](http://i.imgur.com/BWv69aK.mp4)

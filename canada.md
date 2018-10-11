@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Canadian retailers are not required to provide returns or exchanges. Therefore, restocking fees are legal.
 1. Thunder Bay is the murder capital, the overdose capital, and the place that ended the marathon of hope.
 1. [Schneider's meat plant closed in 2013](https://www.therecord.com/news-story/8106532-schneiders-plant-to-be-demolished-within-months/).
 1. David Johnston once broke protocol by [helping the queen](https://ca.hellomagazine.com/royalty/02017071937472/david-johnston-breaks-royal-protocol-queen-elizabeth/), which was not allowed.
@@ -135,3 +136,4 @@
 1. There is a [giant crater](https://en.wikipedia.org/wiki/Ren%C3%A9-Levasseur_Island) at the middle of Quebec. It is now called René-Levasseur Island.
 1. Nortel accounted for more than 1/3 of the TSX at some point.
 1. The [Saskatchewan timezone](https://en.wikipedia.org/wiki/Time_in_Saskatchewan) is "6 hours behind UTC"; that is not to say it doesn't have daylight savings; from a historical and geographical perspective, it may be said that Saskatchewan has permanent daylight savings (see map in link).
+1. *The Six* may refer to: The city of Toronto

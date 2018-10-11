@@ -1,3 +1,5 @@
+1. [Bullshit asymmetry principle](https://en.wikipedia.org/wiki/Bullshit#Bullshit_asymmetry_principle): The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
+1. [Hacker News was "Startup News"](https://twitter.com/paulg/status/1049724130629701632) at first, but even Paul Graham thought it was too boring, so he renamed the site to Hacker News to broaden the focus.
 1. Multi-column "tree-style" lists, like the ones you find in the Mac Finder, are called [Miller columns](https://en.wikipedia.org/wiki/Miller_columns), reportedly invented by a Mark Miller.
 1. The [Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot) is a 3D rendering benchmark, and an inside joke in some animated movies. Naturally then, [it has shown up in Toy Story](https://news.avclub.com/here-s-why-the-same-teapot-has-shown-up-in-toy-story-t-1798254642).
 1. A [Dutch rudder](https://www.urbandictionary.com/define.php?term=Dutch%20Rudder) is having someone jerk you off by moving your own forearm.
@@ -727,7 +729,6 @@
 1. King Egbert (827-839) [was the first monarch to establish a stable and extensive rule over all of Anglo-Saxon England.](http://www.historic-uk.com/HistoryUK/KingsQueensofBritain/)
 1. Dow Jones was named after the [Dow, Jones & Company](https://en.wikipedia.org/wiki/Dow_Jones_%26_Company) founded in 1882. Unfortunately the third co-founder (Charles Bergstresser) did not have a good enough-sounding surname to be included. (Kidding aside, he was a silent partner.)
 1. Between the transition from double-spacing (monospace days) to single-spacing (modern human beings), the use of an ["en quad", a 1.5-space character](https://en.wikipedia.org/wiki/Sentence_spacing#Transition_to_single_spacing) took place at around the 1940s.
-1. [Candlestick *sharts*](https://en.wikipedia.org/wiki/Candlestick_chart) show the same things as OHLC (open-high-low-close) charts. If it's green then it went up during the day, and if it's red then it went down during the day. OHLC because ["open is on the left, close is on the right"](https://static.incrediblecharts.com/images/png_images/bar.png) requires a higher screen resolution, and you cannot see the general trend of whether a period of time is mostly green or red.
 1. [Insolvency](https://en.wikipedia.org/wiki/Insolvency) (inability to pay back) happens before you really go bankrupt. Because you can have a house and not $10 at the same time, you can be very rich and still *cash-flow insolvent*.
 1. You may find "Restaurant Brands International" listed as "QSR", "Quick service restaurants".
 1. Vikings were still a thing in the eleventh century.
@@ -1012,7 +1013,6 @@
 1. "Fekete" means "black" as much as "schwarz" means "black". Because they both mean black.
 1. ["Fine words butter no parsnips"](https://en.wiktionary.org/wiki/fine_words_butter_no_parsnips)... "Nothing is achieved by empty words or flattery.".
 1. [Jason Segel's mother cried when she saw her son's penis.](http://www.nydailynews.com/entertainment/gossip/jason-segel-mom-cried-nude-scene-forgetting-sarah-marshall-article-1.1832573)
-1. [Accelerometer readings can be used to reverse engineer what you were typing](https://www.youtube.com/watch?v=metkEeZvHTg), including passwords. Video was from 2011.
 1. The PhotoShop logo changed from serif to sans-serif in [v3](https://www.thoughtco.com/adobe-photoshop-history-4122594) (1994), inexplicably back to serif in v5.5 (1999), and back to sans-serif in PhotoShop CS (2003).
 1. Like a passport, every time you want to renew something called a "pal", you need to have a few buddies to be references for you.
 1. [/u/sidewalkchalked](https://www.reddit.com/r/worldnews/comments/7ddi2k/north_korean_defector_had_10inch_parasite_in_his/dpxharh/): 'Once I was on a date with a cute girl. It was going pretty well, so I brought her back to my place. When I got there, my roommate bolted up from the couch and said he had to talk to me urgently. He said the girl had to leave. So I told her bye and she left. He reached down and scratched his asshole. Then he brought his finger up, and there were little bits of white on it. They looked like tiny pieces of rice. I said what the fuck is that. He said he didn't know. We forgot about it, but a month later it happened again. Then a month later, again. His asshole would get all itchy, then it would get covered with little white rices. Eventually we started calling this his ass period, because it came once a month and made him grouchy. The only other side effect was that he developed disgusting gas and burps that we called "vomit burps" because they smelled like vomit. if he vomit burped, it could stink up an entire car like vomit and make everyone else want to barf. Well, he was pre med, so he started researching it. One day he went to the clinic, and he came back really grouchy. He had a pill that he called "the horse pill." He said that it was a nuke and it would destroy his problem. We didn't ask what the problem was, but a few days later he got an awful stomach ache and went for a shit. He said he felt something dying inside of him, wiggling around and fighting. Basically he went to shit, and he pooped out the mother. The mother would "segment" once a month and send out the little rices, which were its babies. That's what we found out. So the mother came out of his butthole, but only part way. He had to grab it and pull it out of his ass bit by bit. Hand over hand, like a sailor pulling a rope. It was very long, he said. When he came out of the bathroom he was white as a sheet, and all he said was "it's over" and **"never tell anyone about this."**' [/u/So_Many_Owls](https://www.reddit.com/r/worldnews/comments/7ddi2k/north_korean_defector_had_10inch_parasite_in_his/dpxirbz/): "He asked you to do one thing."
@@ -1236,7 +1236,6 @@
 1. Your amazon email is not a unique column. You can have multiple accounts registered using brian@gmail.com.
 1. "Don't tattoo your eyeball, you might lose your eye" - [A woman described as "retarded"](https://i.imgur.com/ZJKCY3k.jpg)
 1. Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
-1. The Lichtenstein Castle is located in Germany, not Lichtenstein.
 1. People spend more when their money isn't real, so [children should be taught what money is in a concrete way](https://www.youtube.com/watch?v=_VB39Jo8mAQ), like using real tokens.
 1. News agencies like the New York Times have [anonymous drops on Tor](https://www.youtube.com/watch?v=HfuZJVpNWR4) so people can submit news ("leak") anonymously.
 1. Indigo's downfall comes to that they are still trying to sell books, while Amazon moves on to sell grains.
@@ -1363,7 +1362,6 @@
 1. The moon is 38% of a billion metres away.
 1. The [revolving door](https://en.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
 1. For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
-1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
 1. Tasker's `%DATE` format will change depending on the system locale.
 1. Restart apache2 with [`apachectl -k graceful`](https://httpd.apache.org/docs/2.2/stopping.html) rather than `service apache2 restart`. The former [gracefully reloads its configuration](https://askubuntu.com/a/6417), which has no downtime.
 1. Warner Bros' Looney Tunes was inspired by Disney's [Silly Symphony](https://en.wikipedia.org/wiki/Silly_Symphony) in the 1930s.
@@ -1378,7 +1376,6 @@
 1. That "I want people to see the sides of my scalp" hairstyle is called the [undercut](https://en.wikipedia.org/wiki/Undercut_%28hairstyle%29). It was popular in the 1920s and 1930s as well.
 1. For menu items with icons, the [icons should be lighter than text](https://twitter.com/i/moments/880688233641848832). Otherwise, people would read the icon with the text.
 1. Diesel was indeed named after Rudolf Diesel, the man who invented the [(combustion) engine](https://en.wikipedia.org/wiki/Diesel_engine).
-1. [Buy only the kind of car you can afford to lose.](http://i.imgur.com/BWv69aK.mp4)
 1. Taiwanese noses are generally [wider and shinier](https://ichef.bbci.co.uk/images/ic/720x405/p0516xdj.jpg) than the ones on mainland, but would still appear normal [unless compared side by side](https://www.reddit.com/r/asianamerican/comments/38lruw/my_classmate_kept_insisting_that_she_could_tell/crw0lmv/).
 1. Tesla 60kWh batteries [*are*](https://teslamotorsclub.com/tmc/threads/model-s-60d-upgraded-for-free-to-75.97765/) 75kWh batteries. They artificially lower the capacity on the batteries through software, and inflate the price on the ones actually sold as 75kWh. All 60D Teslas in Florida received a free unlock to 75kWh during hurricane Irma.
 1. The [紅白藍膠袋](https://en.wikipedia.org/wiki/Red-white-blue_bag) is not known outside China. The concept of nylon bags was invented in Japan.
@@ -1470,9 +1467,7 @@
 1. The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
 1. Russia and Kazakhstan share +7 for the calling code.
 1. [USS John S McCain](https://en.wikipedia.org/wiki/USS_John_S._McCain_%28DDG-56%29) is an Arleigh Burke-class destroyer named after  John McCain Sr., and John McCain Jr., the grandfather and father of [John McCain III](https://en.wikipedia.org/wiki/John_McCain), the person we call John McCain; that John McCain [*of course*](http://heavy.com/news/2017/07/john-mccain-kids-family-children-daughter-meghan-adopted-mother/) has another son called John McCain IV, and that fourth dude is 31 right now, so we don't know if he's making a John McCain V.
-1. Hydrocortisone cream works [everywhere except the face.](http://www.nhs.uk/chq/Pages/868.aspx?CategoryID=73) Face skin will [wrinkle](https://www.drbaileyskincare.com/info/blog/how-long-is-it-safe-to-use-cortisone-on-the-face) and the cornea will be thinned.
 1. A redditor /u/gryff42 once achieved double meta karma by first posting a picture of a dog, [have Alexis talk about it on Jimmy's show](https://www.youtube.com/watch?v=3vzkw2zD7gE), have his weird "release the cocken, my friends" comment shown on screen, *and then* [post a TIFU](https://www.reddit.com/r/tifu/comments/6r3xyb/tifu_by_having_my_reddit_history_revealed_by/) about that extra karma, about that extra karma.
-1. "Buzz lightyear was in denial of being a toy but still froze when humans were around??" - [meirl](https://www.reddit.com/r/meirl/comments/6qvl9a/meirl/)
 1. The emoji [🙏](https://emojipedia.org/person-with-folded-hands/) is both "high five" and "praying hands". So if you tweet about "my grandma died 🙏" [it can get confusing](https://i.redd.it/ix769by3nugz.jpg).
 1. [14](https://en.wikipedia.org/wiki/Fourteen_Words) refers to the fourteen words "We must secure the existence of our people and a future for white children," or another fourteen words "Because the beauty of the White Aryan woman must not perish from the earth." Much simpler, the 88 that follows is just "Heil Hitler", because H is the eighth letter.
 1. "Je reviens en trois jours, ne te laves pas." - Napoleon.
@@ -1973,7 +1968,6 @@
 1. 朗 (long5) and 郎 (long4) are different words.
 1. [Nidoran](http://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_%28Pok%C3%A9mon%29) is the first pokemon to feature gender differences, and the only one/two pokemon to have separate pokedex IDs for each gender.
 1. When in an argument, pretend like you are being recorded. In fact, forget about the argument altogether. Always act as if you are being recorded.
-1. Nope ropes kill by constriction. Danger noodles kill using venom.
 1. Cheap hammers are cheap because [their stems are hollow](https://i.redd.it/yebanw2pdfoy.jpg).
 1. "I think there was a research done that suggested just making yourself seen by your boss once or twice a day just by walking past his office when the door is open will improve your chance of being promoted. People tend to trust people that they've grown accustomed to seeing, even if they know not a single thing about them." - Rondaru
 1. Doctors merely delay the inevitable.
@@ -2506,7 +2500,6 @@
 1. "Contravariance" is just a fancy way of saying "if parent method expects `float` then surely I can write a subclass method that handles both `float` and `int`"
 1. Subways are powered by [a third, electrical track][wordpress].
 1. [Causation][harvard]: not (having prostate cancer|wanting to kill yourself|getting type 2 diabetes) makes you want to fewer than two cups of coffee.
-1. https://www.youtube.com/watch?v=P_sUhTWtvG4
 1. Nutmeg is toxic with no pleasant overdose effects.
 1. Nigeria is the world's [top exporter of yams][wikipedia 109].
 1. [Marshmallow][wikipedia 110]) is a plant.
@@ -2590,7 +2583,6 @@
 1. By twisted American logic, 'one half hour' means half an hour, not (one + half) hour.
 1. [368,000 people drown every year][wikipedia 153], slightly less than falling (556,000).
 1. Apparently that's not enough, [1.4 million people die from car accidents each year][wikipedia 154].
-1. ‘Deserves it! I daresay he does. Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement.' - Gandalf on Saudi beheadings
 1. [Pterosaurs][wikipedia 155] are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
 1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 1. In Japan, crab sticks are literally ground meat ("Surimi").
@@ -2673,7 +2665,6 @@
 1. [Robert Landsburg][wikipedia 186] died filming [the eruption of Mt. St. Helens][wikipedia 187], which is in 1980, not the ancient past.
 1. In terms of greenhouse gas grams per calorie, [vegetarian and vegan diets can be more harmful to the environment][cmu] because of how little energy there is in, e.g. celery.
 1. [For best results][cardiogr], do 45 minutes of high-intensity exercise per *week*. Benefits plateau beyond that.
-1. *The Six* may refer to: The city of Toronto
 1. Going to the Internet and looking at what it suggests you may like is [no better than television][ycombinator 8].
 1. [IEDs are meant to strike mental suffering][reddit 54], not physical.
 1. [Antidepressant use is linked to significant rise in suicide rates][thefreethoughtproject].
@@ -2779,7 +2770,6 @@
 1. The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew משיח (Meshiakh), meaning the "anointed", and usually transliterated into English as "Messiah". It is not part of Jesus' name.
 1. There are two James and two Simons apostles.
 1. The Gospel of Matthew is a creative reinterpretation of Mark. [Luke, is, as well](https://jerichobrisance.files.wordpress.com/2013/10/new-testament-timeline-jerichobrisance1.png). Luke has both expanded Mark and corrected his grammar and syntax—Mark wrote poor Greek. So, really, the first four gospels were ordered Mark, Matthew, Luke, then John, all completed after the death of Jesus (obviously) and also the apostles themselves (because they don't live that long.) Matthew was not written by Matthew, Luke was not written by Luke, Mark was not written by Mark.
-1. "Judas Iscariot hung himself and all the guts fell out" was reconstructed from "He died by hanging" and "he fell headlong; his bowels gushed out". [They may be independent/contradictory/non-contradictory events](https://carm.org/bible-difficulties/matthew-mark/how-did-judas-die-hanging-or-falling-down).
 1. Tabernacle just means Hut.
 1. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) on top of REST emulates old-school terminals by transferring not only the requested data to the client, but a list of possible actions on it, too.
 1. It takes just ~5 minutes of downtime per year to kill a [99.999%](http://uptime.is/99.999) uptime guarantee. Other common guarantees: [~52 minutes for 99.99%](http://uptime.is/99.99), [~9 hours for 99.9%](http://uptime.is/99.9), [~3 days for 99%](http://uptime.is/99).
