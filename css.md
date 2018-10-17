@@ -1,3 +1,4 @@
+1. Class names are `dash-separated` because [it allows for a selector like `[class^="foo-"]`](https://stackoverflow.com/a/20811902/1558430) to target `foo-bar`, which starts with `foo`, but not target `fooBar`, which also starts with `foo`.
 1. Styling for the iPhone X basically means messing with the platform-specific [`safe-area-inset-top`](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html) value right after your normal rules, which will not be overridden by your `inset-` thing because it is invalid on any other platform, and is 0 on any iOS device that is not the iPhone X.
 1. [`normalize.css`](https://github.com/necolas/normalize.css/blob/master/normalize.css) is a ~350 line CSS file, more than half of which are comments.
 * CSS3 has `background-size`, whose most useful values are `cover` (scaled and cropped) and `contain` (scaled to fit).

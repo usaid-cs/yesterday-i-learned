@@ -1,3 +1,9 @@
+1. [Pumpkin spice](https://en.wikipedia.org/wiki/Pumpkin_pie_spice) is 56% cinnamon, 12% nutmeg, 12% ginger, 10% cloves, 10% allspice, and **0% pumpkin**.
+1. Downvoting is pretty much the only [feature worth going for on Hacker News](https://github.com/minimaxir/hacker-news-undocumented).
+1. [Royalty avoid shellfish](https://www.businessinsider.com/14-etiquette-rules-the-royal-family-must-always-follow-2017-8#skip-the-shellfish-14) to not get food poisoning.
+1. The Man Cook emoji is a sequence of the 👨 Man and 🍳 Cooking emojis. You can also add a skin colour modifier to make it a brown man cooking emoji.
+1. Nightcaps consist of [one drink or fewer](https://www.nytimes.com/2018/10/08/dining/drinks/nightcap-recipe-history-cocktails.html).
+1. [Lederhosen](https://en.wikipedia.org/wiki/Lederhosen) (LAY-der-ho-sen) are the shorts or [breeches](https://en.wikipedia.org/wiki/Breeches), not the socks.
 1. [Bullshit asymmetry principle](https://en.wikipedia.org/wiki/Bullshit#Bullshit_asymmetry_principle): The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 1. [Hacker News was "Startup News"](https://twitter.com/paulg/status/1049724130629701632) at first, but even Paul Graham thought it was too boring, so he renamed the site to Hacker News to broaden the focus.
 1. Multi-column "tree-style" lists, like the ones you find in the Mac Finder, are called [Miller columns](https://en.wikipedia.org/wiki/Miller_columns), reportedly invented by a Mark Miller.

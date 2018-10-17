@@ -1,3 +1,5 @@
+1. "Jaywalking" was termed back when "jay" was equivalent to "redneck".
+1. *Sprechen Sie Englisch?* is not something you hear at the Kitchener-Waterloo Oktoberfest, because everyone speaks English there.
 1. [23333333](https://www.quora.com/Whats-the-meaning-of-23333-in-Chinese) means "can't stop laughing" because emoticon code 233 was "can't stop laughing" in some chat app.
 1. [啪啪啪](https://tw.18dao.net/%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8/%E5%95%AA), or just 啪, has come to mean sex.
 1. Damper is technically more correct than dampener.

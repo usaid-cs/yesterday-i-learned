@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. During the Pixel 3 announcement, [Google did not mention "Android" a single time](https://bgr.com/2018/10/12/android-vs-fuchsia-pixel-3-event-no-android-mention/).
 1. [Throwing a file into the "intent firewall" directory](https://android.stackexchange.com/questions/128053/removing-a-contact-from-direct-share-panel/160350#160350) instantly disables direct share, without the need for an xposed module.
 1. To get how healthy your battery thinks it is, use `adb shell 'su -c cat /sys/class/power_supply/battery/charge_full_design'` from your laptop.
 1. [Android 9 Pie is a whole load of crap](https://www.reddit.com/r/Android/comments/9dprkc/if_you_could_what_changes_would_you_make_to/): left clock can't be moved, circular status bar thing can't be themed away (because substratum theming doesn't work), can't record calls, horizontal recents doesn't scroll well...

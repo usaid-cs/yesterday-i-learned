@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The maximum mass of a (drone) that you may fly without a licence is [250g](https://en.wikipedia.org/wiki/Regulation_of_unmanned_aerial_vehicles#Canada). [Variaties are available](http://www.rcdronearena.com/2016/07/29/top-10-camera-drones-under-250-grams/)
 1. Canadian retailers are not required to provide returns or exchanges. Therefore, restocking fees are legal.
 1. Thunder Bay is the murder capital, the overdose capital, and the place that ended the marathon of hope.
 1. [Schneider's meat plant closed in 2013](https://www.therecord.com/news-story/8106532-schneiders-plant-to-be-demolished-within-months/).

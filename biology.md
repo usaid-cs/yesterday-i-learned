@@ -1,3 +1,9 @@
+1. [Some research](https://medicalxpress.com/news/2018-10-high-variability-metabolic-mortality.html) may suggest eating roughly the same amount of food every day may help you live longer.
+1. Heart ‘drop’ typically correlates with a drop in blood pressure, from all the blood vessels that have (vaso)dilated as a part of a fight-or-flight response.
+1. ["Almost all of the tree comes out of the air"](https://www.youtube.com/watch?v=ifk6iuLQk28) - Richard
+1. [Up to 14% of pre-schoolers may have "hypomineralised second primary molars" (HSPM)](https://medicalxpress.com/news/2018-10-kids-prone-dental.html), where the enamel of the second baby molars doesn't develop properly, making them weak and prone to (acid) damage.
+1. [C-sections can lead higher risks for future births, including scarring of the womb, uterine rupture, abnormal placentation, ectopic pregnancy, stillbirth, and preterm birth. There is also emerging evidence the procedure can have an impact on baby hormonal, physical and immune development.](https://www.dw.com/en/doctors-warn-of-alarming-c-section-epidemic/a-45856378)
+1. High-dose marijuana consumption can cause hypothermia.
 1. The more absorbent a tampon is, the more likely toxic shock syndrome is to occur. Staphylococcal TSS is diagnosed by symptoms. A man named Patrick determines the incidence rate to be 0.4 per 10000 menstrating women per year.
 1. [Rosemary](https://en.wikipedia.org/wiki/Rosemary) tastes like a herb because it is one.
 1. Some people, notably the Han Chinese, have [another toenail next to their pinky toes](https://en.wikipedia.org/wiki/Accessory_nail_of_the_fifth_toe).

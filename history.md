@@ -1,3 +1,4 @@
+1. [Leif Erikson](https://en.wikipedia.org/wiki/Leif_Erikson) the Norse explorer went to America long before Chris did.
 1. [Eating meat](https://www.youtube.com/watch?v=NxvQPzrg2Wg) hadn't been a common thing until the recent decades.
 1. Wonton didn't have shrimp until people's tastes got picky (I'd say the 1970s). It also came from Northern China, where the dumplings were.
 1. [William Henry Harrison](https://en.wikipedia.org/wiki/William_Henry_Harrison) (the 9th US president) took office for only 31 days, before he died of pneumonia.

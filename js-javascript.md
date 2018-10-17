@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+1. [Don't rely on setInterval for long-running tasks.](https://github.com/nodejs/node/issues/22149) They stop working after 2^31 milliseconds.
 1. jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.
 1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
 1. JavaScript is one of the few languages, [if not the only language](https://en.wikipedia.org/wiki/Undefined_variable#Examples), to have a concept of `undefined`, but whose result from `1/0` is `Infinity`, rather than `undefined`.
