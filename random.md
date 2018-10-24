@@ -1,3 +1,17 @@
+1. [A-series paper](https://en.wikipedia.org/wiki/ISO_216#A_series) can be halved and still be A-series sheets of paper because the paper has an aspect ratio of 1:sqrt(2) or 1:1.414. When cut, 0.707:1 is also 1:1.414. B-series paper has the exact same property with aspect ratio, but B0 is 1000mm x 1414mm rather than A0's 841mm x 1189mm.
+1. Intel Speed Boost [is](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) the processor overclocking itself.
+1. Windows 10 [also](https://www.howtogeek.com/319933/what-is-memory-compression-in-windows-10/) has [zram](https://en.wikipedia.org/wiki/Zram)/[zswap](https://en.wikipedia.org/wiki/Zswap).
+1. The Power Rangers logo says "Mighty Morphin", not "Mighty Morphine".
+1. Loveseats are two-passenger couches.
+1. [Finnish people don't smalltalk.](http://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) []"Speech is silver, silence is golden."](https://en.wiktionary.org/wiki/speech_is_silver,_silence_is_golden)
+1. ["Subsist"](https://www.merriam-webster.com/dictionary/subsist) is basically a mashup of "sustain" and "persist".
+1. Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).
+1. There are [two common kinds of M.2 drives](https://www.online-tech-tips.com/computer-tips/sata-3-vs-m-2-vs-nvme-overview-and-comparison/) (M.2 being the shape and size): SATA (with two slits) and NVMe (with one slit).
+1. Travis once called his ridesharing app [Boob-er](https://www.gq.com/story/uber-cab-confessions?currentPage=1).
+1. Հայաստան, which is how Armenians write Armenia in Armenian, looks like how you write "minimum".
+1. The [American flag](https://en.wikipedia.org/wiki/Flag_of_the_United_States) has a 19:10 ratio.
+1. [People die from instagram parkour all the time](https://www.liveleak.com/view?i=715_1513068362).
+1. [India produces 75% of the world's spices.](https://en.wikipedia.org/wiki/Spice#Production)
 1. [Pumpkin spice](https://en.wikipedia.org/wiki/Pumpkin_pie_spice) is 56% cinnamon, 12% nutmeg, 12% ginger, 10% cloves, 10% allspice, and **0% pumpkin**.
 1. Downvoting is pretty much the only [feature worth going for on Hacker News](https://github.com/minimaxir/hacker-news-undocumented).
 1. [Royalty avoid shellfish](https://www.businessinsider.com/14-etiquette-rules-the-royal-family-must-always-follow-2017-8#skip-the-shellfish-14) to not get food poisoning.
@@ -2555,7 +2569,6 @@
 1. The Sun undergoes spontaneous magnetic reversals every 9–12 years, where it increases in field strength.
 1. [Trinidad][wikipedia 133] isn't in Asia, dumbass.
 1. You can be [doing some crazy things][github 2] to get the average of a 5-star rating.
-1. [Xylitol][wikipedia 134] works by starving the bacteria, not by healing the teeth in any way. It also has no effect if other sugars are ingested before or after.
 1. [This is *snooker*, not pool and *you do not have to pick a pocket for the black ball*. In snooker it is customary to apologise for shots where you get extremely lucky, which is why the player gave an apologetic wave to his opponent.][reddit 46]
 1. [Fish yawn][youtube 17], aquatic animals yawn, [unborn babies yawn][tandfonline], all [known] vertebrates yawn.
 1. [The disciple whom Jesus loved][wikipedia 135] is not his wife like some moron said on Youtube. Jesus has no wife.
@@ -3320,7 +3333,6 @@
 [wikipedia 131]: https://en.wikipedia.org/wiki/Geomagnetic_reversal
 [wikipedia 132]: https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif
 [wikipedia 133]: https://en.wikipedia.org/wiki/Trinidad
-[wikipedia 134]: https://en.wikipedia.org/wiki/Xylitol
 [wikipedia 135]: https://en.wikipedia.org/wiki/Disciple_whom_Jesus_loved
 [wikipedia 137]: https://en.wikipedia.org/wiki/Enclave_and_exclave
 [wikipedia 138]: https://en.wikipedia.org/wiki/Kaliningrad_Oblast

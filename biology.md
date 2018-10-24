@@ -1,3 +1,10 @@
+1. [Pulling out](https://en.wikipedia.org/wiki/Male_contraceptive#Methods) has an annual failure rate of 22%.
+1. The Y chromosome is only passed from father to son. With that said, it is also the fastest-evolving pieces of the genome.
+1. Basically [everyone except Asians (including Indians) and whites](https://www.webmd.com/diabetes/type-2-diabetes-guide/what-is-prediabetes#1) are extra prone to diabetes.
+1. Cilantro is the leaves of the cilantro plant (making it a herb), while [coriander is the seeds of the cilantro plant](https://www.thekitchn.com/whats-the-difference-herbs-vs-151156) (making it a spice).
+1. Xylitol kills cape sugarbirds. "It is suspected to have triggered a massive insulin release, causing an irreversible drop in blood sugar."
+1. [Xylitol](https://en.wikipedia.org/wiki/Xylitol) works by starving the bacteria, not by healing the teeth in any way. It also has no effect if other sugars are ingested before or after.
+1. The [formula for good sleep](https://www.supermemo.com/en/articles/sleep#Formula_for_good_sleep) is "the abstinence from all forms of sleep control such as alarm clocks, sleeping pills, alcohol, caffeine, etc."
 1. [Some research](https://medicalxpress.com/news/2018-10-high-variability-metabolic-mortality.html) may suggest eating roughly the same amount of food every day may help you live longer.
 1. Heart ‘drop’ typically correlates with a drop in blood pressure, from all the blood vessels that have (vaso)dilated as a part of a fight-or-flight response.
 1. ["Almost all of the tree comes out of the air"](https://www.youtube.com/watch?v=ifk6iuLQk28) - Richard

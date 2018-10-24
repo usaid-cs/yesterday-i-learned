@@ -420,6 +420,9 @@ Throw a [`.gitkeep`](https://stackoverflow.com/questions/7229885/what-are-the-di
 
 `git config --global help.autocorrect 1`
 
+### I am still seeing remote branches that have been deleted
+
+`git fetch -p` (prune)
 
 ## Gerrit: using git like subversion
 

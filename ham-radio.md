@@ -2,6 +2,11 @@
 
 # Ham Radio
 
+## Glossary
+1. [**CW**](http://www.arrl.org/cw-mode): Continuous wave.
+1. **Ham**: Amateur.
+1. **Net**: some kind of mental image where three or more radio stations would look like a net if connected to each other.
+
 ## Your first rodeo
 1. Licensed operators may ask you additional questions to make sure you're licensed.
 1. Be nice to first timers on the air.

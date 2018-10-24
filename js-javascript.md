@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+1. [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the *stack* is empty and there is something in the *task queue* (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.
 1. [Don't rely on setInterval for long-running tasks.](https://github.com/nodejs/node/issues/22149) They stop working after 2^31 milliseconds.
 1. jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.
 1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
@@ -198,6 +199,8 @@ undefined
 * If you `var a = (1, 2)`, then `a` is just `2`, which makes sense once you realise there are no tuples.
 * `console.error` in node does not show the traceback, and the colour is not red (not always, anyway). So the only difference between `console.error` and `console.log` is where it goes (stderr/stdout).
 * ES 5.1 already has a method called [`Array.isArray()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray). "Little known fact: `Array.prototype` itself is an array"
+* [`isNaN(...)` is not the same as `Number.isNaN(...)`](https://stackoverflow.com/questions/25176459/is-number-isnan-more-broken-than-isnan), where `Number.isNaN(undefined)` is false, but `isNaN(undefined)` is true. In other words, [`Number.isNaN()` is probably the one you want](https://stackoverflow.com/a/25176688/1558430).
+* Simply leaving out the [fractional part](https://en.wikipedia.org/wiki/Fractional_part) of a number, i.e. `123.` instead of `123.0`, is completely valid symtax.
 
 ## Deferred API
 

@@ -1,3 +1,4 @@
+1. You may track if a *specific* user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
 1. ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)
 1. `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).

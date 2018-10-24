@@ -1,5 +1,8 @@
 ![](https://imgur.com/AGoopEY)
 
+1. In 2018, the highest combined tax rate (GST + PST, 15%) is [three times](http://www.calculconversion.com/sales-tax-calculator-hst-gst.html) higher than the lowest (5%).
+1. Working as a mailman pays about [$20 an hour](https://ca.indeed.com/salaries/Mail-Carrier-Salaries-at-Canada-Post).
+1. [The smallest Canadian Tire](https://www.cbc.ca/news/canada/thunder-bay/nipigon-smallest-canadian-tire-1.4330070) is at Nipigon ON. It is still okay-sized by store standards.
 1. The maximum mass of a (drone) that you may fly without a licence is [250g](https://en.wikipedia.org/wiki/Regulation_of_unmanned_aerial_vehicles#Canada). [Variaties are available](http://www.rcdronearena.com/2016/07/29/top-10-camera-drones-under-250-grams/)
 1. Canadian retailers are not required to provide returns or exchanges. Therefore, restocking fees are legal.
 1. Thunder Bay is the murder capital, the overdose capital, and the place that ended the marathon of hope.

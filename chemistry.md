@@ -1,3 +1,4 @@
+1. A [hermetic seal](https://en.wikipedia.org/wiki/Hermetic_seal) is an airtight seal.
 1. Cubic zirconia is 1.7 times heavier than diamond.
 1. [Selenium disulfide](https://en.wikipedia.org/wiki/Selenium_disulfide) as a dandruff treatment works only if you keep using it. Dandruff comes back if you stop.
 1. [Do **not** hit someone in the head with a glass bottle.](https://www.reddit.com/r/AskReddit/comments/9cc7cy/what_are_some_cliche_things_that_people_do_in/e59q50x/) [Glass bottles in movies are made of sugar or plastic](https://www.reddit.com/r/AskReddit/comments/9cc7cy/what_are_some_cliche_things_that_people_do_in/e59uzs0/) and will break much more easily than actual glass bottles. People can die if you fracture their skull.
