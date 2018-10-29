@@ -1,3 +1,5 @@
+1. Toucan tongues are long and thin, and [serve no function other than to feel the fruit it eats](https://i.imgur.com/SeCayz7.gifv).
+1. Varicose veins are treated by gluing the veins close (with adhesives) from the inside.
 1. [Pulling out](https://en.wikipedia.org/wiki/Male_contraceptive#Methods) has an annual failure rate of 22%.
 1. The Y chromosome is only passed from father to son. With that said, it is also the fastest-evolving pieces of the genome.
 1. Basically [everyone except Asians (including Indians) and whites](https://www.webmd.com/diabetes/type-2-diabetes-guide/what-is-prediabetes#1) are extra prone to diabetes.

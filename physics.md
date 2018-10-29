@@ -1,3 +1,4 @@
+1. Uranus (the 7th planet) is larger but lighter than Neptune (the 8th planet).
 1. The original frequency of a signal is the fundamental frequency. Slight distortions of the original signal may also cause harmonic signals to be present. For example, if the fundamental frequency is 2 kHz, then the second harmonic signal would be 4 kHz and the third harmonic signal would be 6 kHz. etc.
 1. A Decibel (dB) (`10⋅log₁₀(Power out/Power in)`) is indeed a deci of a Bel, which was named after a guy with the last name Bell.
 1. Home voltages are between 120V to 240V. At least these are the figures reported by ISED Canada.
@@ -40,3 +41,4 @@
 1. Ultrasonic mosquito repellants [do not work](http://www.bbc.com/news/magazine-20669080).
 1. The event horizon is where escape velocity equals the speed of light. The photon sphere is where orbital velocity equals the speed of light.
 1. UV light doesn't kill anything unless the light is applied for at least 10 seconds. The light also needs to be [UV-C](https://ultraviolet.com/what-is-germicidal-ultraviolet/), the wavelengths that kill germs.
+1. A planet gets tidally locked, as a matter of fact, if it's too close to a star. Because, you know, the water is pulled towards the star. So you can't just look for Earth-like planets near the right temperature---[you need to look for the right size of star as well](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Spectral_types_and_star-system_characteristics).

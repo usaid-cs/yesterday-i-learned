@@ -78,3 +78,4 @@
 1. Sergei Korolev was the Soviet space man. He was the reason the soviets got as far as space. Unfortunately he was underfunded (and died), so USA went to the moon first.
 1. Berlin happened to have been selected as the Olympics venue in 1936, before the Nazis rose to power.
 1. Karl Marx knew at least English and German, and perhaps some French. He had an activist daughter called [Eleanor](https://en.wikipedia.org/wiki/Eleanor_Marx).
+1. England has so many good looking churches because they were competing with each other. At its height churches held 2/3 of London's land. Henry VIII dissolved the monasteries.

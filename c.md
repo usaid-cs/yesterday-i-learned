@@ -55,3 +55,4 @@
 1. `thing_t` is supposed to mean "a type called 'thing'". C programmers are against the Hungarian notation.
 1. [C pointers are not integers](http://nullprogram.com/blog/2016/05/30/); Any pointer type may be converted to an integer type, but the result depends on implementation. (If the pointer is a large negative number, for example, then the behaviour is undefined.)
 1. [`foo->bar` is equivalent to `(*foo).bar`, i.e. it gets the member called `bar` from the struct that `foo` points to.](http://stackoverflow.com/a/2575050/1558430) It serves as syntactic sugar, to make code look nicer if all you have is a pointer.
+1. It is possible to compile across multiple machines with [distcc](https://github.com/distcc/distcc) or [icecream](https://github.com/icecc/icecream).

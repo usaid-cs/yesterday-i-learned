@@ -1,9 +1,10 @@
+1. "My old roommate worked on a tall ship and their technique was to use a whole dish sponge for dishes, then cut one corner off and use it for surfaces, two corners for walls, three for floors, and finally once you cut all four corners off you'd use it for cleaning [the heads](https://www.navy.mil/navydata/traditions/html/navyterm.html)." - /u/meridiacreative
 1. [A-series paper](https://en.wikipedia.org/wiki/ISO_216#A_series) can be halved and still be A-series sheets of paper because the paper has an aspect ratio of 1:sqrt(2) or 1:1.414. When cut, 0.707:1 is also 1:1.414. B-series paper has the exact same property with aspect ratio, but B0 is 1000mm x 1414mm rather than A0's 841mm x 1189mm.
 1. Intel Speed Boost [is](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) the processor overclocking itself.
 1. Windows 10 [also](https://www.howtogeek.com/319933/what-is-memory-compression-in-windows-10/) has [zram](https://en.wikipedia.org/wiki/Zram)/[zswap](https://en.wikipedia.org/wiki/Zswap).
 1. The Power Rangers logo says "Mighty Morphin", not "Mighty Morphine".
 1. Loveseats are two-passenger couches.
-1. [Finnish people don't smalltalk.](http://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) []"Speech is silver, silence is golden."](https://en.wiktionary.org/wiki/speech_is_silver,_silence_is_golden)
+1. [Finnish people don't smalltalk.](http://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) ["Speech is silver, silence is golden."](https://en.wiktionary.org/wiki/speech_is_silver,_silence_is_golden)
 1. ["Subsist"](https://www.merriam-webster.com/dictionary/subsist) is basically a mashup of "sustain" and "persist".
 1. Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).
 1. There are [two common kinds of M.2 drives](https://www.online-tech-tips.com/computer-tips/sata-3-vs-m-2-vs-nvme-overview-and-comparison/) (M.2 being the shape and size): SATA (with two slits) and NVMe (with one slit).
@@ -420,7 +421,6 @@
 1. Many Japanese maps were consulted on a floor which allowed for multiple viewpoints.
 1. [If you try to buy a bong and you ask for a bong, they won't sell it to you.](https://en.wikipedia.org/wiki/Bong#Legal_issues) You need to ask for a "water pipe".
 1. Jewish women get their own [marriage certificates](https://en.wikipedia.org/wiki/Ketubah).
-1. England has so many good looking churches because they were competing with each other. At its height churches held 2/3 of London's land. Henry VIII dissolved the monasteries.
 1. Compared to brie, [camembert](https://en.wikipedia.org/wiki/Camembert) has even more rind.
 1. [Churrasco](https://en.wikipedia.org/wiki/Churrasco) (shu-ʁas-co) is grilled meat. Like steak, except well done.
 1. [Anthony Blunt](https://en.wikipedia.org/wiki/Anthony_Blunt) was an epic art historian before being outed as a soviet spy.
@@ -503,7 +503,6 @@
 1. When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
 1. Each "capsule" of the London Eye looks like a chicken testis.
 1. The Dolly Zoom can only be achieved by the camera also moving back and forth. [People (also) tend to look better in telephoto because their faces aren't stretched by the wider lens.](https://www.youtube.com/watch?v=u5JBlwlnJX0)
-1. Naomi is Ruth's mother in law in the bible. One of the things she said was "Do not call me Naomi, call me Mara, ..."
 1. There is no reason to pre-order anything that cannot run out, including online games, and especially online games with DLCs.
 1. Parmesan cheese is *imitation* [parmigiano-reggiano cheese](https://en.wikipedia.org/wiki/Parmigiano-Reggiano). Even the Italians rhyme parmesan with partisan (if either word gets to them). That makes pronouncing it as "Parma-john" even more pretentious than it was once thought to be.
 1. [Kanye West never beat a wheelchair basketball team](https://www.snopes.com/fact-check/ball-bearing/) in 2014.
@@ -588,7 +587,6 @@
 1. [Hacker news looks shockingly like the first Reddit layout.](https://web.archive.org/web/20051029165515/http://www.reddit.com)
 1. In the event that was [Uber self-driving car kills cyclist](http://www.tmz.com/2018/03/22/dash-cam-video-deadly-self-driving-uber-crash-released-pedestrian-killed/), that two-wheeled maniac was crossing the road in the dark, and the "driver" was not looking out.
 1. [The earth wire in a UK plug is meant to have more slack than the live and neutral wires](https://www.youtube.com/watch?v=UEfP1OKKz_Q&feature=youtu.be), so that when you yank the plug out, the earth wire is more likely to be detacted last. The UK plug contains a fuse because, get this, their houses are built on [ring circuits](https://en.wikipedia.org/wiki/Ring_circuit), since [copper was expensive after WW2](https://news.ycombinator.com/item?id=1782791), and ring circuits are cheaper to wire up than one wire for every socket, which is what you'll find in normal houses today. In other words, the Brits have deferred electrical safety to the appliance rather than the house.
-1. A planet gets tidally locked, as a matter of fact, if it's too close to a star. Because, you know, the water is pulled towards the star. So you can't just look for Earth-like planets near the right temperature---[you need to look for the right size of star as well](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone#Spectral_types_and_star-system_characteristics).
 1. Deadmau5 is [this guy](https://www.youtube.com/watch?v=5LZQOAKYVLI).
 1. Suppose encryption can be ELI5'd as [mixing colours](https://youtu.be/YEBfamv-_do?t=2m18s). By raising a shared secret by the powers of each other's private keys (colours), no one's private key (colour) is plainly exposed while transmitted. This (when explained properly) is called [Diffie-Hellman Key Exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), and has nothing to do with messages being transmitted.
 1. [Tainted Love](https://en.wikipedia.org/wiki/Tainted_Love), a song from 1964, was made popular by Soft Cell's cover in 1981.
@@ -2704,7 +2702,6 @@
 1. Coriander *is* [cilantro][wikipedia 196], and is a leafy herb that [Mexicans poop on][reddit 57].
 1. Email titles should be [no more than 78 characters in length][stackoverflow 13]; line-wrapping can extend the length indefinitely. Most frameworks limit the length to 255 characters anyway.
 1. A [higher-order function][github 3] (more jargons inside link) is a function that accepts a function and returns a function. A decorator is a higher-order function.
-1. New Zealand is on its own geographical (not political) continent called [Zealandia][reddit 58].
 1. The Micro USB connector standard is rated [10 insertions for 3 years][stackexchange 5]. Interestingly, [the original USB was rated at 1500 insertions][wikipedia 197], but you don't ever see them breaking.
 1. Naval Maps are centered at America, [cutting Asia in half][imgur 11].
 1. Since mercury adheres to itself stronger than usual liquids (read: high surface tension), [sponges cannot absorb it][imgur 12].
@@ -3018,7 +3015,6 @@
 1. In the US, it is common for a boss to act very angry at your voluntary resignation, firing you with no cause, well before your notice ends. This saves them two weeks of pay.
 1. The SP-4 cartridge has an internal piston that pushes the bullet out of the gun, without letting out the expanding air (read: loud) behind it.  [This makes *any* gun that shoots this cartridge silent.](https://www.youtube.com/watch?v=K73kKODFyzw)
 1. A company can improve its strategic posture by finding suppliers or buyers who possess the least power to influence it adversely.
-1. RRSPs [work only for people who](https://retirehappy.ca/when-should-you-not-buy-an-rrsp/) a) currently have an income above the marginal, and b) expect their tax bracket to be lower when they are old than what it is now. It also makes sense to [save your contribution room until the market is down](http://www.moneysense.ca/save/retirement/surprising-truths-about-your-rrsp/).
 1. It is not a recruiter's job to get you a job; it is a recruiter's job to get a company an employee, not necessarily you.
 1. A *match* is [typically](http://english.stackexchange.com/questions/34105/what-determines-whether-a-sporting-event-is-a-game-match-contest-or-something) for sports originating from Europe (football, golf, tennis); a *game* typically from the US (handegg, baseball, basketball). Matches can also mean a collection of games, where players win matches after having won e.g. 7 games out of 8.
 1. [Napoleon is his first name.](https://www.quora.com/Why-do-we-call-Napoleon-Napoleon-and-not-Bonaparte) We call him that instead of Bonaparte because "all the European Monarchs have been called by their first names for millennia."
@@ -3239,7 +3235,6 @@
 [reddit 54]: https://www.reddit.com/r/todayilearned/comments/47j3el/til_during_the_ww1_germans_protested_against_the/d0ea25i
 [reddit 56]: https://www.reddit.com/r/videos/comments/49p218/a_brilliant_way_to_remove_popcorn_ceilings/
 [reddit 57]: https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9
-[reddit 58]: https://m.reddit.com/r/askscience/comments/14dkm7/is_new_zealand_a_part_of_the_australian_continent/
 [reddit 59]: https://www.reddit.com/r/canada/comments/4ee6cw/til_aw_canada_no_longer_has_any_corporate/
 [reddit 6]: http://www.reddit.com/r/AdviceAnimals/comments/22padj/anyone_else_experience_this
 [reddit 61]: https://www.reddit.com/r/AskReddit/comments/4c2hat/fast_food_workerswhat_should_we_never_order_from/

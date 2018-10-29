@@ -1,3 +1,5 @@
+1. *Amateur* came from French, meaning "lover of".
+1. "Turpentine" rhymes with "Nine".
 1. "Jaywalking" was termed back when "jay" was equivalent to "redneck".
 1. *Sprechen Sie Englisch?* is not something you hear at the Kitchener-Waterloo Oktoberfest, because everyone speaks English there.
 1. [23333333](https://www.quora.com/Whats-the-meaning-of-23333-in-Chinese) means "can't stop laughing" because emoticon code 233 was "can't stop laughing" in some chat app.
