@@ -450,6 +450,7 @@ bar
 1. A `finally` clause could not contain a `continue` [until python3.8](https://docs.python.org/3.8/whatsnew/3.8.html#other-language-changes).
 1. To get your query string from an SQLAlchemy expression, do [`str(the_expression.statement.compile())`](https://stackoverflow.com/a/25563491/1558430).
 1. There is no non-literal one-liner (i.e. `list(1, 2, 3)`) for making a list. But there is for a dict: `dict(a=1, b=2)`.
+1. Through the act `baz = foo + bar`, where all of these are `list`s, will create an entirely new list for `baz`. If `foo` were `[1,2,3]` and you modify `baz[0] = 'haha'`, `foo` will remain `[1,2,3]`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

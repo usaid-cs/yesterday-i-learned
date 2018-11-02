@@ -1,3 +1,5 @@
+1. You can easily tell how often people (in your country) have sex by looking at Amazon's delivery suggestions. A 30-pack condom that is delivered "every 3 months (Most common)" implies people have sex once every three days.
+1. "Battle rackets" is not a thing.
 1. "My old roommate worked on a tall ship and their technique was to use a whole dish sponge for dishes, then cut one corner off and use it for surfaces, two corners for walls, three for floors, and finally once you cut all four corners off you'd use it for cleaning [the heads](https://www.navy.mil/navydata/traditions/html/navyterm.html)." - /u/meridiacreative
 1. [A-series paper](https://en.wikipedia.org/wiki/ISO_216#A_series) can be halved and still be A-series sheets of paper because the paper has an aspect ratio of 1:sqrt(2) or 1:1.414. When cut, 0.707:1 is also 1:1.414. B-series paper has the exact same property with aspect ratio, but B0 is 1000mm x 1414mm rather than A0's 841mm x 1189mm.
 1. Intel Speed Boost [is](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) the processor overclocking itself.
@@ -463,7 +465,6 @@
 1. A [Frame](https://stackoverflow.com/questions/31446777/difference-between-packets-and-frames) is a link layer (roughly layer 2) unit of data, containing a [packet](https://en.wikipedia.org/wiki/Network_packet). A packet is a network layer (roughly layer 3) unit of data, containing a [datagram](https://en.wikipedia.org/wiki/Datagram). A datagram is a transport layer (roughly layer 4) unit of data, containing who knows what you want to do in the session layer.
 1. Unlike "Big O", which is the upper bound, there is also a "Big Theta" which includes both the lower and upper bounds, called the "tight bound".
 1. The actual quote was "Your father's lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster. An elegant weapon... for a more civilized age."
-1. How fast a plane travels west/east depends on the wind direction, which is [not always faster from east to west](http://curious.astro.cornell.edu/about-us/40-our-solar-system/the-earth/climate-and-weather/68-why-do-airplanes-take-longer-to-fly-west-than-east-intermediate).
 1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
 1. Association football, the world's popular sport, has wikipedia articles available in 200 languages. FIFA claims the sport derived from [蹴鞠](https://en.wikipedia.org/wiki/Cuju), "something along those lines" from 20 BC.
 1. The [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) is reached when all players know all the other players' strategies, and find no reason (nothing to gain) to change their own strategy.
@@ -557,7 +558,6 @@
 1. Those doors whose deadbolts automatically disengage when you turn the handle from the inside are part of a new fire safety standard.
 1. Jalapeño isn't known for being hot. It is known for being fat. (me too thanks)
 1. [GOVT NZ's 404 page](https://www.govt.nz/something) doesn't show NZ. There is [an entire subreddit](https://www.reddit.com/r/MapsWithoutNZ/) about the same joke.
-1. The [Jesus fish](https://en.wikipedia.org/wiki/Ichthys) has a special name *ichthys*, which is not special once you realise that's the Greek word for fish.
 1. [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo) is pasta with butter and Parmegiano-Reggiano cheese emulsified together. No cream is involved. No cream *can* be involved.
 1. The number of prime numbers decreases as the number goes up. However the number of prime numbers is still infinite.
 1. Escape fires are a strategy to escape a wildfire by lighting your current location fire. If the wind is blowing, you will not be able to escape a fire coming towards you. However, should you also start a fire (2) at your location, you will deprive fire 1 of resources by letting fire 2 consume it first.
@@ -1219,7 +1219,6 @@
 1. "Static typing vs dynamic typing" isn't a useful topic to argue about because [each language has its optimal point of productivity for the percentage of code that is statically typed.](https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html) The Python sweet spot is much lower than the Java sweet spot, startups may have different requirements than NASA, and it matters also how many lines of code you have.
 1. There is [a line in China](http://www.didichuxing.com/en/press-blog/suvzicxv.html) at which the population suddenly drops. Reproduce this in Google Maps by drawing a line from 怒江 to 北京.
 1. BFRocket = Big Fucking Rocket. Elon Musk is planning to launch a few of those to Mars.
-1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
 1. Waffle shirts have a waffle-like texture. [These](http://wafflemagazine.com/wp-content/uploads/2015/09/waffleshirt.jpg) are not waffle shirts.
 1. The week came about because the week is a quarter of a lunar cycle.
 1. ["Hello Kitty is not a cat. She's a cartoon character,"](http://people.com/celebrity/hello-kitty-is-not-a-cat/) said creator of Hello Kitty.
@@ -1413,7 +1412,6 @@
 1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.
 1. The US, UK, and Puerto Rico all have [virgin islands](https://en.wikipedia.org/wiki/Virgin_Islands).
 1. Avoid cooking duck eggs the "creamy" style. They are already guaranteed creamy. Don't make them any richer.
-1. ["A modern samarium-cobalt magnet takes around 700 years to lose half its strength."](http://www.sciencefocus.com/qa/do-magnets-wear-out)
 1. [Desks are directional tables that are often only used by one person.](https://www.quora.com/What-is-the-difference-between-a-table-and-a-desk) "There is a wrong way to sit at a desk."
 1. In medicine, an [indication](https://en.wikipedia.org/wiki/Indication_%28medicine%29) is a valid reason to use a certain test, medication, procedure, or surgery.
 1. It is [(in 2016)](https://www.quora.com/Do-Coursera-courses-have-hard-deadlines) impossible to fail a Coursera course. You just get bumped to the next session and are asked to complete remaining material.
@@ -1642,12 +1640,10 @@
 1. [Vitas](https://en.wikipedia.org/wiki/Vitas) (Vitaliy Grachov) has a five-octave vocal range.
 1. Because owning a home requires taking care of it, percentage home ownership in a neighbourhood directly impacts how nice a neighbourhood is, and, to a certain extent, negatively impacts the crime rate in the same neighbourhood. This implies rentals are often in high-crime areas.
 1. Clear red signs of a house that cannot be bought: 1) bad location 2) smells (nearby landfill, mold, or ventilation issues) 3) uneven flooring 4) no natural lighting 5) oddly-shaped rooms 6) parking spaces that you can't get into.
-1. 過往由於冰室只持有小食牌照，除了售賣飲品外，只能販賣三文治、糕餅等，而不能供應即時製作如炒飯、小菜等熟食。
 1. The *clip* is a machanism that holds cartridges together, so they are easier to load into the *magazine*.
 1. The Vatican ruled that [their daily bread must contain at least some gluten](https://www.rt.com/viral/395810-gluten-free-holy-bread/), just as their wine must be made from unsoured grapes, both for reasons they can probably explain.
 1. 90% of participants would switch the flip in the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem), killing one instead of five. The percentage is much lower when that one person is one's lover.
 1. Le nom de la quiche might have come from German *Kuchen*, cake/tart.
-1. [`(a + b)(c + d) = a(c + d) + b(c + d)`](http://www.mathwords.com/f/foil_method.htm) is apparently called the FOIL method? First ("ac") outer ("ad") inner ("bc") last ("bd"). Back in my day, we just called it the binomial expansion.
 1. Walter White is written to be slowly blinded by money and/or ambition, [even himself](http://i.imgur.com/BdzuGWg.jpg).
 1. "America's real safety net is drugs, alcohol, cheap food, and free porn." Attributed to a Henry Rollins
 1. Compass is the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
@@ -1764,7 +1760,6 @@
 1. Start a meaningful conversation with strongly opinionated topics and open-ended questions, like music and movies.
 1. [Ultrasonic welding](http://s.hswstatic.com/gif/ultrasonic-welding-2.gif) uses ultrasound to heat up and weld two adjacent pieces of metal together. [Microsoft pulled that dick move once.](https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915)
 1. General Tso in General Tso's chicken was supposed to be [Zuo Zongtang](https://en.wikipedia.org/wiki/Zuo_Zongtang) (左宗棠).
-1. ["I have a great idea" "What?" "A motorcycle that goes slower than a bicycle, and that won't work unless you charge it every time" "This will sell" "Hang on, we should also remove one wheel so you faceplant every time" "Hold my beer"](https://www.youtube.com/watch?v=VdmJMLNuECQ)
 1. [Any age over 18](https://www.organdonor.gov/about/donors/seniors.html) can be donors.
 1. [Empire Company](https://en.wikipedia.org/wiki/Empire_Company) (EMP.A) owns Sobeys.
 1. When attempting to change a project's configuration, Gerrit will save a draft of the config for you.
@@ -1926,7 +1921,6 @@
 1. It is cruelty to leave dogs outside only if it is cold or raining.
 1. Berkshire Hathaway is Buffett's holding company, [originally](https://en.wikipedia.org/wiki/Berkshire_Hathaway#History) working in textiles. According to some guy who watched a show about this company on Netflix, "He bought his original shares because of price vs book, but he bought control because the CEO tried to screw him out of $0.125 per share on a buyback. Buffett got mad at the betrayal, bought the company (partially out of spite) and then cleaned house and made it his holding company. It's notable because that is one of the few times that Buffett bought on emotion versus numbers."
 1. Blood THC level does not strongly correlate with impairment. Detecting THC in the blood means almost nothing when it comes to how well a person drives.
-1. [Microwaving a half-cut piece of grape](https://www.minds.com/blog/view/177271/grape-microwave-and-pyrex) yields plasma.
 1. Unlike Arkansas, the Arkansas City of Kansas is [pronounced](https://translate.google.com/#en/de/Arkansas%20City%2C%20KS%20in%20Arkansas%20and%20Kansas) ar-KAN-sas, with the S, like Kansas.
 1. Horses are often given [terrible names](http://www.sbnation.com/2013/5/3/4297072/the-list-worst-possible-horse-names) compared to other pets.
 1. [The Average Directional Index (ADX)](http://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) is a value ranging from 0 to 100, with anything above 25 indicating a good trend. Given two peaks, if prices go higher while ADX is not as high at the second peak, that means the trend might reverse.
@@ -1954,7 +1948,6 @@
 1. Paper is rarely (apparently only once or twice) shown in Star Wars.
 1. [Yellow NY plates are the new ones.](https://patch.com/new-york/harrison/not-everyone-happy-with-new-nys-license-plates) White NY plates are the old ones.
 1. Mead can be sweet, dry, sparkling, non-sparkling, 8% ABV, to 20% ABV. It can basically be anything. Saying one has tried mead is like saying one has tried "beer".
-1. If code is normally beautiful, then it probably wouldn't be called code now, would it.
 1. Want something done? [Go to the person](https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email). It is a lot (34 times, says article) more effective than email.
 1. You haven't really made microservices properly if [you need to change multiple microservices at once by many teams to make a feature](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html), or if you need to deploy multiple microservices at once to make it work, or if all these microservices, for some inexplicable reason, need the same framework to work together.
 1. Some high-IQ people join a ~~cult~~group called [MENSA](http://www.mensacanada.org/), annual fee being $70.
@@ -2344,7 +2337,6 @@
 1. [RF chokes][google 2] are rings of (sometimes magnets, sometimes other metals) around a cable that dampens high frequency radiation, allowing the cable to carry actual signals with less noise.
 1. The original Jurassic park scene with the T-Rex occurred while raining because [it was much easier at the time to CG shiny objects than matte objects][reddit 19].
 1. Both God and Devil are each one letter away from their respective descriptor.
-1. [The 'speed of gravity' is the same as the speed of light.][reddit 20] If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
 1. The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
 1. 24 hours after recording the last episode of Father Ted, [Dermot Morgan][wikipedia 53] had a heart attack while hosting a dinner party at his home in south-west London. He was rushed to hospital but died soon afterwards.
 1. "[Dollar][wikipedia 54]" came from [Bohamian][wikipedia 55] Joachims[*thaler*][wikipedia 56], which translates to Joachim's Valleys. Therefore, you're earning valleys.
@@ -2417,7 +2409,6 @@
 1. Smoke testing is testing for the most basic things of the system.
 1. [Breast milk can be bought online][onlythebreast]. It is contaminated with/by fecal matter, but since [babies benefit from fecal matter][thepowerofpoop], the decision is arguably good for you.
 1. ["Soft Coding"][thedailywtf] is the practice of putting everything in a configuration file. It is an antipattern.
-1. There is, in fact, [a way to tell if an arrow is too stiff for a bow][imgur 6].
 1. The word "manifest" originally meant a document that lists what's in a ship/vessel; now it is an (XML) document that lists what's in an EXE file or archive.
 1. To call Rolex a non-profit company is [accurate but misleading][reddit 32], for the company is marginally non-profit to avoid taxes. IKEA, in particular, exploits this so much that they are one of the world's worst tax avoiders.
 1. Dyslexia is genetic.
@@ -2686,7 +2677,6 @@
 1. [IEDs are meant to strike mental suffering][reddit 54], not physical.
 1. [Antidepressant use is linked to significant rise in suicide rates][thefreethoughtproject].
 1. The Japanese believe that [three things: a sword, a bronze mirror, and a cashew][wikipedia 188] came from [瓊瓊杵尊][wikipedia 189], the Japanese Jesus.
-1. [*Immaculate conception*][wikipedia 190] refers to Mary being born sin-free, not the virgin birth of Jesus.
 1. Acai (Açaí) rhymes with Asahi.
 1. [Hanlon's_razor][wikipedia 191]: if an act can happen because someone is stupid, then it is okay to just assume it was that (stupidity).
 1. Ri Sol-ju, the wife of Kim Jong Un, looks a lot better than Kim Jong Un.
@@ -3144,7 +3134,6 @@
 [imgur 13]: http://i.imgur.com/AJoxtZi.gifv
 [imgur 4]: http://imgur.com/a/uFGzs
 [imgur 5]: http://i.imgur.com/ex6Zu.jpg
-[imgur 6]: http://i.imgur.com/P0NFVad.png
 [imgur 8]: http://i.imgur.com/cWz7YIG.jpg
 [imgur 9]: https://i.imgur.com/zAwz5jB.gifv
 [insidehalton]: http://www.insidehalton.com/news-story/5338165-7-facts-about-canada-s-flag/
@@ -3206,7 +3195,6 @@
 [reddit 18]: http://www.reddit.com/r/ExpectationVsReality/comments/2kthmh/angel_soft_tp_now_has_60_more_sheets_than_a/clonlkm
 [reddit 19]: https://np.reddit.com/r/movies/comments/2ndx0r/the_full_jurassic_world_trailer/cmcs22y
 [reddit 2]: http://www.reddit.com/r/AskReddit/comments/1z996r/what_are_some_of_the_perks_when_living_by_yourself/
-[reddit 20]: http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/
 [reddit 21]: https://www.reddit.com/r/socialskills/comments/2t7f38/how_do_you_move_past_the_good_acquaintance_stage/
 [reddit 22]: https://www.reddit.com/r/AskHistorians/comments/2v0l8c/is_it_actually_true_that_benjamin_franklin_was/
 [reddit 23]: https://www.reddit.com/r/todayilearned/comments/2us94z/til_the_native_americans_planted_corn_beans_and/cobdujr
@@ -3379,7 +3367,6 @@
 [wikipedia 188]: https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan
 [wikipedia 189]: https://en.wikipedia.org/wiki/Ninigi-no-Mikoto
 [wikipedia 19]: http://en.wikipedia.org/wiki/Laksa
-[wikipedia 190]: https://en.wikipedia.org/wiki/Immaculate_Conception
 [wikipedia 191]: https://en.wikipedia.org/wiki/Hanlon%27s_razor
 [wikipedia 192]: https://en.wikipedia.org/wiki/Exploding_head_syndrome
 [wikipedia 193]: https://en.wikipedia.org/wiki/Curve_of_constant_width

@@ -79,3 +79,4 @@
 1. Berlin happened to have been selected as the Olympics venue in 1936, before the Nazis rose to power.
 1. Karl Marx knew at least English and German, and perhaps some French. He had an activist daughter called [Eleanor](https://en.wikipedia.org/wiki/Eleanor_Marx).
 1. England has so many good looking churches because they were competing with each other. At its height churches held 2/3 of London's land. Henry VIII dissolved the monasteries.
+1. 過往由於冰室只持有小食牌照，除了售賣飲品外，只能販賣三文治、糕餅等，而不能供應即時製作如炒飯、小菜等熟食。

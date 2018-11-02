@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. You may request a [parliament hill flag](https://www.tpsgc-pwgsc.gc.ca/citeparlementaire-parliamentaryprecinct/decouvrez-discover/drapeaux-flags-eng.html). The wait time is 99 years.
 1. In 2018, the highest combined tax rate (GST + PST, 15%) is [three times](http://www.calculconversion.com/sales-tax-calculator-hst-gst.html) higher than the lowest (5%).
 1. Working as a mailman pays about [$20 an hour](https://ca.indeed.com/salaries/Mail-Carrier-Salaries-at-Canada-Post).
 1. [The smallest Canadian Tire](https://www.cbc.ca/news/canada/thunder-bay/nipigon-smallest-canadian-tire-1.4330070) is at Nipigon ON. It is still okay-sized by store standards.

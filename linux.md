@@ -1,5 +1,7 @@
 ![Dilbert][imgur]
 
+1. Tarsnap is a portmanteau (which is a portable all-in-one closet, by the way) of `tar`, and "snapshot", which tarsnap does.
+1. `inotify` watch limits appear to be put in to [limit memory use](https://stackoverflow.com/questions/535768/what-is-a-reasonable-amount-of-inotify-watches-with-linux), rather than to limit CPU use.
 1. To make KDE not hiccup while moving files to the trash, [uncheck the "Limit to maximum size" option](https://forum.kde.org/viewtopic.php?f=224&t=140002). Observe that trash operations become instant.
 1. Fix your everyday "WiFi keeps disconnecting on my (ubuntu wifi) laptop" problem by adding [`options iwlwifi 11n_disable=1`](https://appuals.com/ubuntu-16-04-to-17-10-wifi-and-ethernet-problem/) to the appropriate file in `/etc/modprobe.d`.
 1. KDE's screenshot tool is called [`spectacle`](https://www.kde.org/applications/graphics/spectacle/).

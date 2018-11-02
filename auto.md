@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Mechanics may charge you extra if you decide to patch your tire with tire foam.
 1. Tire swaps have nothing to do with wheel alignment.
 1. The Lug Nut Rule: The vehicle that uses the most lug nuts to hold its wheels on will win the collision. (/u/anotherkeebler)
 1. Toyota waited until 2020 to implement Android Auto because [Android Auto has a lot of privacy concerns](https://www.motor1.com/news/239477/toyota-android-auto-privacy-concerns/), giving Google basically all vehicular information, like vehicle speed, throttle position, coolant and oil temp, and engine revs.

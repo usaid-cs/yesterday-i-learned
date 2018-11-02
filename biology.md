@@ -1,3 +1,4 @@
+1. Some people are allergic to wool.
 1. Toucan tongues are long and thin, and [serve no function other than to feel the fruit it eats](https://i.imgur.com/SeCayz7.gifv).
 1. Varicose veins are treated by gluing the veins close (with adhesives) from the inside.
 1. [Pulling out](https://en.wikipedia.org/wiki/Male_contraceptive#Methods) has an annual failure rate of 22%.

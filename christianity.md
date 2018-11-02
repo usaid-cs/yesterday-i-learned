@@ -6,3 +6,5 @@
 1. "Judas Iscariot hung himself and all the guts fell out" was reconstructed from "He died by hanging" and "he fell headlong; his bowels gushed out". [They may be independent/contradictory/non-contradictory events](https://carm.org/bible-difficulties/matthew-mark/how-did-judas-die-hanging-or-falling-down).
 1. An upside-down cross is either [a petrine cross](https://en.wikipedia.org/wiki/Cross_of_Saint_Peter), i.e. Peter's cross, because he was said to have been crucified upside down, or an anti-christianity symbol, depending on context.
 1. Naomi is Ruth's mother in law in the bible. One of the things she said was "Do not call me Naomi, call me Mara, ..."
+1. Abraham and God talked often before he tried to sacrifice his son. After the event, God sent an angel down instead, "and Abraham's fortune takes a downward turn."1. [*Immaculate conception*](https://en.wikipedia.org/wiki/Immaculate_Conception) refers to Mary being born sin-free, not the virgin birth of Jesus.
+1. The [Jesus fish](https://en.wikipedia.org/wiki/Ichthys) has a special name *ichthys*, which is not special once you realise that's the Greek word for fish.

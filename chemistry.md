@@ -1,3 +1,4 @@
+1. A [hydrometer](https://learn.kegerator.com/using-a-hydrometer/) (*hydromètre*) measures a liquid's density relative to water. A hydrometer does not measure water.
 1. A [hermetic seal](https://en.wikipedia.org/wiki/Hermetic_seal) is an airtight seal.
 1. Cubic zirconia is 1.7 times heavier than diamond.
 1. [Selenium disulfide](https://en.wikipedia.org/wiki/Selenium_disulfide) as a dandruff treatment works only if you keep using it. Dandruff comes back if you stop.
@@ -144,3 +145,4 @@
 1. [Rate law][youtube 18]: "Zeroth order" (`kA^0`, i.e. rate is constant `k`), "First order" (`kA^1`, i.e. doubling concentration doubles the rate), "Second order" (`kA^2`, i.e. more sensitive to rate than first order)
 1. It takes the same amount of energy to melt ice (from 0 degrees solid to 0 degrees liquid) and to heat water (from 0 degrees liquid to 70 degrees liquid).
 1. Too cold and there is no snowball, because you need the moisture.
+1. ["A modern samarium-cobalt magnet takes around 700 years to lose half its strength."](http://www.sciencefocus.com/qa/do-magnets-wear-out)

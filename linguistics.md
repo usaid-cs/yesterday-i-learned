@@ -1,3 +1,5 @@
+1. "Platform" is uninterestingly *plate-forme* in French.
+1. You don't "dig out of a grave". You either dig your own grave, or you get out of it.
 1. *Amateur* came from French, meaning "lover of".
 1. "Turpentine" rhymes with "Nine".
 1. "Jaywalking" was termed back when "jay" was equivalent to "redneck".
@@ -286,3 +288,4 @@
 1. *Emaciated* means thin and weak.
 1. The question mark is also called the interrogation mark, whether or not the question is interrogative.
 1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.
+1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
