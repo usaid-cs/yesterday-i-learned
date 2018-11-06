@@ -1,3 +1,4 @@
+1. Drag has a square relationship with velocity. This makes "making a huge gun that shoots people into space" inpractical.
 1. Uranus (the 7th planet) is larger but lighter than Neptune (the 8th planet).
 1. The original frequency of a signal is the fundamental frequency. Slight distortions of the original signal may also cause harmonic signals to be present. For example, if the fundamental frequency is 2 kHz, then the second harmonic signal would be 4 kHz and the third harmonic signal would be 6 kHz. etc.
 1. A Decibel (dB) (`10⋅log₁₀(Power out/Power in)`) is indeed a deci of a Bel, which was named after a guy with the last name Bell.

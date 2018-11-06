@@ -1,5 +1,6 @@
 # Django tips
 
+* [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 * `manage.py sqlmigrate` lets you see what queries a (schema) migration will run.
 * Specifying multiple identical query conditions do not cancel previous ones out. `Car.objects.filter(price__gt=100).filter(price__gt=0)` will still build a query similar to `SELECT * FROM tblCar WHERE price > 100 AND price > 0`.
 * [Bumping the cache version](https://docs.djangoproject.com/en/2.1/topics/cache/#cache-versioning) helps with situations where two Django deployments run side by side, but only one deployment understands a "new" version of the cache, for example: a python2 deployment cannot understand cached objects pickled by python3.

@@ -100,6 +100,7 @@
 1. `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.
 1. Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.
 1. Besides `!!`, there is also `!!:n`, which selects the nth argument in the last command.
+1. Besides `!!`, there is also [`!foo`](https://ss64.com/bash/bang.html), which runs the last command that starts with foo.
 1. It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`
 1. Want to write your own file deduper? Unfortunately, it is already made and preinstalled as `fdupes`.
 1. Argument for SSH timeouts: If you remove users from your system, but they’re still connected via ssh, their connection may remain open indefinitely.

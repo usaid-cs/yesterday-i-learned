@@ -21,10 +21,11 @@
 1. [It is not illegal to drive barefoot](http://www.theglobeandmail.com/globe-drive/culture/commuting/strange-canadian-driving-laws-that-surprised-us-the-most-in-2015/article27951066/), but since it has less grip than shoes, you probably shouldn't.
 1. "We have an anti-evasion law around here which makes it illegal for you to knowingly and intentionally go below the speed limit in order to avoid the possibility of going over and getting a ticket. The penalty is 30 days in jail vs the $100 speeding ticket. Since you admitted to intentionally going under the speed limit, I'm placing you under arrest."
 1. The reasoning behind [colors for traffic lights] is because Green represents life flourishing and going. Red was a sign of life stopped and yellow was a caution that would mean red is coming.
+1. [If a car in the lane next to you is accelerating so that you can squeeze into the gap behind it, you may be tempted to do so. Don't. Modeling shows that "fast" lane changes will actually increase your time in the traffic jam.](https://www.wikihow.com/Make-Time-Spent-Commuting-by-Car-Efficient)
+1. [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.
 
 ### Parallel parking
 
 * Back in full right back slowly three yellow lines line up with mirror
 * One round left until 45 degrees, Mirror slow turn leftright
 * All except uphill with curb, steer to the right
-1. [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.

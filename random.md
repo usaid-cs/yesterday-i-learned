@@ -1,3 +1,7 @@
+1. There are "dry counties" for counties that prohibit alcohol, and then there's [moist counties](https://en.wikipedia.org/wiki/Moist_county), which sell alcohol with some restrictions.
+1. Leaving the washer door open when not in use allows moisture to escape, which prevents mould.
+1. "Does anyone see any reason why these two should not be married?" is reserved for legal issues like "this man is secretly married with another woman", not for jokes, or "I object because he's awful for her".
+1. [The video game industry is larger than the music and video industries combined.](http://www.kfvs12.com/story/31140647/who-rules-the-entertainment-industry/)
 1. You can easily tell how often people (in your country) have sex by looking at Amazon's delivery suggestions. A 30-pack condom that is delivered "every 3 months (Most common)" implies people have sex once every three days.
 1. "Battle rackets" is not a thing.
 1. "My old roommate worked on a tall ship and their technique was to use a whole dish sponge for dishes, then cut one corner off and use it for surfaces, two corners for walls, three for floors, and finally once you cut all four corners off you'd use it for cleaning [the heads](https://www.navy.mil/navydata/traditions/html/navyterm.html)." - /u/meridiacreative
@@ -727,7 +731,6 @@
 1. "Waterloo is innovative, creative, courageous, connected, critical thinking, collaborative, unconventional and risk-taking." [Boy did they stop saying that a long time ago.](http://www.bulletin.uwaterloo.ca/2010/may/19we.html) (2010-05-19)
 1. Those stupid calls from Estonia you have been getting are [a scam](https://www.ctvnews.ca/canada/don-t-call-back-one-ring-scam-targets-phones-across-canada-1.3801297), tricking you to call back, which costs you money: "[they] are simila r to ones you would receive for calling a 1-900 number, can cost hundreds of dollars per minute."
 1. The Occident may refer to the [Western world](https://en.wikipedia.org/wiki/Western_world).
-1. The one millon you need to retire is around three million when you can retire.
 1. Kumail Nanjiani was not an Uber driver like The Big Sick depicted. The partner app did not exist until 2011. He was an IT guy instead, like Silicon Valley depicted.
 1. Jean Valjean's sister, "Jeanne Valjean", for whom and whose child he stole his bread, was mentioned on Google only 372 times (probably 373 now).
 1. Humans are the only species on Earth to have the concept of birthdays.
@@ -884,7 +887,6 @@
 1. Three-pronged electronics are better than two-pronged electronics, says [this video](https://www.youtube.com/watch?v=YP8okiLOdKk).
 1. There's a [youtube.com/tv](https://www.youtube.com/tv).
 1. Jesus drank wine, but people in The Church of Jesus Christ of Latter-day Saints must abstain. The Quran only prohibited grape-based alcohol, but [the lawmakers interpret this is a total ban on alcohol](https://en.wikipedia.org/wiki/Alcohol_intoxication#Religious_views).
-1. Grey Goose (especially if you didn't pay for it) tastes nothing different from other vodkas, as expected.
 1. Apparently a dude called Lnafziger really doesn't like it when [his passengers clap when he lands the aircraft safely](https://aviation.stackexchange.com/a/2526), when he's just doing his job. So don't clap when your captain is Lnafziger. Otherwise, [no one in the cockpit can hear you clap](http://www.news.com.au/travel/travel-advice/flights/why-you-should-never-clap-when-a-flight-lands/news-story/2af9455ff1661c59c13deac4d1239e7f), so... no need to clap.
 1. In the first episode ever, if Rick could go to a dimension where bone-healing serum is available in every corner drug store, why didn't he also go to a dimension where megaseeds are available in every corner drug store?
 1. Korean chopsticks are made of metal just because [they have a lot of metal](https://www.reddit.com/r/WatchandLearn/comments/7n0k79/3_different_types_of_chopsticks_xpost/dry6gs6/)...? But if they have a lot of metal, why try to save metal by making metal chopsticks short and flat...?
@@ -1255,7 +1257,6 @@
 1. Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
 1. People spend more when their money isn't real, so [children should be taught what money is in a concrete way](https://www.youtube.com/watch?v=_VB39Jo8mAQ), like using real tokens.
 1. News agencies like the New York Times have [anonymous drops on Tor](https://www.youtube.com/watch?v=HfuZJVpNWR4) so people can submit news ("leak") anonymously.
-1. Indigo's downfall comes to that they are still trying to sell books, while Amazon moves on to sell grains.
 1. [Interest in the Zika virus](https://trends.google.com/trends/explore?date=today%205-y&q=zika) topped in the second month of 2016, and then wasn't interesting again. US presidential campaigns probably started around that time. [Zika is getting worse.](https://www.nytimes.com/2017/09/28/health/zika-mutation-microcephaly.html) No one cares.
 1. An ISO 8601 date without the year has the format `--MM-DD`. Standard also allows a year followed by the day number as `YYYY-DDD`. Therefore, it is not possible to have an ISO date displayed with just the year and month.
 1. Do not buy a (pair of) VR goggle(s). Their size do not justify the gimmicks that they provide.
@@ -1828,7 +1829,6 @@
 1. [Sloe gin](https://en.wikipedia.org/wiki/Sloe_gin) is not slow gin. Sloe gin is made by soaking sloes (a fruit like plums) in gin.
 1. A police from [where's the little girl](http://www.huffingtonpost.com/2011/11/11/save-miranda-police-video_n_1088723.html) video was once fired for being involved in inappropriate humour.
 1. [Religion websites see the most expensive phone users, and Adult and pornography websites see the least expensive phone users.](https://www.scientiamobile.com/page/smartphone-price-website-category) Conclusion: if you want a cheaper phone, you should masturbate furiously.
-1. Anabaptism is adult baptism.
 1. Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf), [recruiting](https://www.linkedin.com/)
 1. *Stickler* means perfectionist, with a negative connotation.
 1. In Punjabi, a lakh is called lakkh.
@@ -1891,7 +1891,6 @@
 1. [大秦](https://en.wikipedia.org/wiki/Daqin) did not refer to the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty); it referred to the Roman empire.
 1. [The Tale of Two Lovers](https://en.wikipedia.org/wiki/The_Tale_of_Two_Lovers), an erotic novel, was written by Pope Pius II. It was reportedly a popular best-seller.
 1. ["La gente esta muy loca"](https://www.youtube.com/watch?v=3wlUPf9PZpY) means "(The) people are (very) crazy" in Spanish.
-1. [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 1. The term "wet nap" might have come from [Wet Nap the product](http://wetnap.com/), like [Wite-Out](https://en.wikipedia.org/wiki/Wite-Out) the product.
 1. Bikes with pedals attached to the front wheel are called [velocipedes](https://en.wikipedia.org/wiki/Velocipede).
 1. A [gear-inch](https://en.wikipedia.org/wiki/Gear_inches) is the distance travelled from one revolution of your gear pedal.
@@ -2050,7 +2049,6 @@
 1. "86ing a product is when you're all out, 86ing a customer is when they are banned from the business."
 1. "What's your poison" specifically refers to drinks.
 1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.
-1. [Rising rates mean lower bond prices (lower yield).](http://www.cnbc.com/2017/03/15/what-to-do-with-your-bond-portfolio-as-fed-rates-rise.html)
 1. [Every digit of pi is equally likely (at least it is, in the first 10 million digits).](http://blogs.sas.com/content/iml/2015/03/12/digits-of-pi.html)
 1. "Pizza dates" are a possible alternative to coffee dates. It helps establish pizza compatibility, which is a big part of relationships.
 1. [**Breakfast is not the most important meal of the day.**](https://www.reddit.com/r/explainlikeimfive/comments/5zby7f/eli5_why_is_breakfast_the_most_important_meal_of/) Kellogg marketing invented this dangerous myth. Eating breakfast increases hunger throughout the day, increasing overall calorie intake, and builds up insulin resistance, leading to diabetes. This doesn't mean "don't eat breakfast"; it just means don't eat a big breakfast.
@@ -2081,7 +2079,6 @@
 1. People who do strange things to get attention are called "exhibitionists". Shia LaBeouf is said to be one.
 1. In Windows 10, there is an option to randomise MAC in your adapter settings, wherever that is.
 1. The fun thing about RRSPs is that if you have been poor, you can put the money you just got from a tax refund right back into the same RRSP for extra refund next year.
-1. /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
 1. From a nurse: "If it's wet and it didn't come from you, don't touch it."
 1. People who sweep chimneys used to get [giant ball cancers](https://en.wikipedia.org/wiki/Chimney_sweeps%27_carcinoma) from soot irritation. Microwaving your own balls in a cartoon [also](https://en.wikipedia.org/wiki/Medicinal_Fried_Chicken) gives you giant ball cancers.
 1. [Peter](http://www.diamandis.com/blog/success-experimentation) says: you *can* do too many experiments with your customers. Before you do an experiment, you need to make sure 1) you don't already know the outcome, and 2) you are willing to change what you are doing once you get the results from the experiment.
@@ -2129,7 +2126,6 @@
 1. Parkinson's law of Triviality: the more trivial a task is, the more opinion you will get for doing it, so the slower it will be done.
 1. [`(jenkins_url)/safeRestart`][stackoverflow 5] restarts it.
 1. A jenkins job can be cloned or backed up [by just copying the files][jenkins-ci]. A jenkins job can also be copied by right-clicking on it.
-1. Compiling `npm` will require [this fix][stackoverflow 6].
 1. A `site.pp` file controls Puppet's behaviour. It's a Perl script.
 1. Double hashing, triple hashing, or other "wacky hashing functions" are discouraged because of [Kerckhoff's Principle][crackstation] -- the attacker will usually have both the database and the source code -- and will be able to find your function's weaknesses by supplying dummy data.
 1. Apparently SHA1 isn't suitable for hashing passwords anymore.
@@ -3261,7 +3257,6 @@
 [stackoverflow 3]: http://stackoverflow.com/a/5502390/1558430
 [stackoverflow 4]: http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux
 [stackoverflow 5]: http://stackoverflow.com/a/8077830/1558430
-[stackoverflow 6]: http://stackoverflow.com/a/5062718/1558430
 [stackoverflow 7]: http://stackoverflow.com/a/21715730/1558430
 [stackoverflow 8]: http://stackoverflow.com/a/3883023/1558430
 [stackoverflow 9]: http://stackoverflow.com/questions/4825680/how-do-you-make-chrome-pinned-tabs-flash

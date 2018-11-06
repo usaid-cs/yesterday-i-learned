@@ -1,3 +1,5 @@
+1. Tungsten is from Swedish *tung sten*, "heavy stone".
+1. [Billard balls](https://en.wikipedia.org/wiki/Billiard_ball) are made with some sort of phenolic resin, basically any "plastic materials that are strongly resistant to cracking and chipping".
 1. A [hydrometer](https://learn.kegerator.com/using-a-hydrometer/) (*hydromètre*) measures a liquid's density relative to water. A hydrometer does not measure water.
 1. A [hermetic seal](https://en.wikipedia.org/wiki/Hermetic_seal) is an airtight seal.
 1. Cubic zirconia is 1.7 times heavier than diamond.

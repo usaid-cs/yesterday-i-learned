@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. To automate scrolling up a long list, use `while true; do input swipe 300 300 300 1500 100; done`.
 1. During the Pixel 3 announcement, [Google did not mention "Android" a single time](https://bgr.com/2018/10/12/android-vs-fuchsia-pixel-3-event-no-android-mention/).
 1. [Throwing a file into the "intent firewall" directory](https://android.stackexchange.com/questions/128053/removing-a-contact-from-direct-share-panel/160350#160350) instantly disables direct share, without the need for an xposed module.
 1. To get how healthy your battery thinks it is, use `adb shell 'su -c cat /sys/class/power_supply/battery/charge_full_design'` from your laptop.
