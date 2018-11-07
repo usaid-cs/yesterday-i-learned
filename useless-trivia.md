@@ -45,3 +45,4 @@
 1. Santa Claus was called Kris Kringle.
 1. There are at least two billionaires named Toby: [Toby](https://en.wikipedia.org/wiki/Toby_Neugebauer), [Toby](https://www.thestar.com/business/tech_news/2017/11/27/shopify-founder-tobi-lutke-is-canadas-newest-billionaire.html)
 1. Taylor Swift has to fake being shocked and surprised when winning every reward.
+1. A man named John Mayer dated Jennifer Aniston, Katy Perry, and Taylor Swift (not at the same time).

@@ -148,3 +148,4 @@
 1. It takes the same amount of energy to melt ice (from 0 degrees solid to 0 degrees liquid) and to heat water (from 0 degrees liquid to 70 degrees liquid).
 1. Too cold and there is no snowball, because you need the moisture.
 1. ["A modern samarium-cobalt magnet takes around 700 years to lose half its strength."](http://www.sciencefocus.com/qa/do-magnets-wear-out)
+1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.

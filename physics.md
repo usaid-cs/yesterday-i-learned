@@ -46,3 +46,4 @@
 1. How fast a plane travels west/east depends on the wind direction, which is [not always faster from east to west](http://curious.astro.cornell.edu/about-us/40-our-solar-system/the-earth/climate-and-weather/68-why-do-airplanes-take-longer-to-fly-west-than-east-intermediate).
 1. [Microwaving a half-cut piece of grape](https://www.minds.com/blog/view/177271/grape-microwave-and-pyrex) yields plasma.
 1. [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
+1. No free (Android) app corrects fisheye images because [it's hard](https://www.lonelyspeck.com/defish/).

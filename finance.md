@@ -12,3 +12,4 @@
 1. /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
 1. [Rising rates mean lower bond prices (lower yield).](http://www.cnbc.com/2017/03/15/what-to-do-with-your-bond-portfolio-as-fed-rates-rise.html)
 1. The one millon you need to retire is around three million when you can retire.
+1. [The Average Directional Index (ADX)](http://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp) is a value ranging from 0 to 100, with anything above 25 indicating a good trend. Given two peaks, if prices go higher while ADX is not as high at the second peak, that means the trend might reverse.

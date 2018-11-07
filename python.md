@@ -483,3 +483,4 @@ bar
 [wikipedia]: http://en.wikipedia.org/wiki/Coroutine
 [wikipedia 2]: http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions
 [youtu]: http://youtu.be/OSGv2VnC0go?t=31m39s
+1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
