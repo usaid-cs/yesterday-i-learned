@@ -142,3 +142,5 @@
 1. Nortel accounted for more than 1/3 of the TSX at some point.
 1. The [Saskatchewan timezone](https://en.wikipedia.org/wiki/Time_in_Saskatchewan) is "6 hours behind UTC"; that is not to say it doesn't have daylight savings; from a historical and geographical perspective, it may be said that Saskatchewan has permanent daylight savings (see map in link).
 1. *The Six* may refer to: The city of Toronto
+1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.
+1. Bruce Peninsula has your best bet in [seeing stars at night](http://darksitefinder.com/maps/world.html) nearby.

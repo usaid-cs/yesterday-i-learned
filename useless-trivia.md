@@ -46,3 +46,6 @@
 1. There are at least two billionaires named Toby: [Toby](https://en.wikipedia.org/wiki/Toby_Neugebauer), [Toby](https://www.thestar.com/business/tech_news/2017/11/27/shopify-founder-tobi-lutke-is-canadas-newest-billionaire.html)
 1. Taylor Swift has to fake being shocked and surprised when winning every reward.
 1. A man named John Mayer dated Jennifer Aniston, Katy Perry, and Taylor Swift (not at the same time).
+1. [Kesha](https://en.wikipedia.org/wiki/Kesha), on the other hand, was born Kesha (Sebert).
+1. [Taylor Swift in Family Guy](http://www.digitalspy.com/tv/ustv/news/a813402/taylor-swift-family-guy-episode/) is voiced by [Ursula Taherian](http://www.imdb.com/name/nm2563808/).
+1. Mr. Burns outlived one of his voice actors, Christopher Collins.

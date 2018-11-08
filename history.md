@@ -82,3 +82,4 @@
 1. 過往由於冰室只持有小食牌照，除了售賣飲品外，只能販賣三文治、糕餅等，而不能供應即時製作如炒飯、小菜等熟食。
 1. Throughout the (first world) war only one ship was sunk by a U-boat while escorted by an aircraft (airship).
 1. There was once a ship registered with the number A20196Y.
+1. [The Fanling KCR station existed in 1910, one of the three permanent stations at the time.](https://en.wikipedia.org/wiki/Kowloon-Canton_Railway_Corporation#Origins_of_the_corporation) [MTR didn't have any lines until 1979.](https://www.youtube.com/watch?v=XkD5g0TxXXg)

@@ -1,3 +1,10 @@
+1. Procrastinators have [larger amygdala(s?) and fewer connections to the dorsal anterior cingulate cortex](http://news.rub.de/english/press-releases/2018-08-22-neuroscience-how-brains-doers-differ-those-procrastinators). "Individuals with a higher amygdala volume may ... hesitate and put off things"
+1. Cats don't like it when [their whiskers touch too many things in one day](https://www.litter-robot.com/blog/2016/08/19/the-truth-behind-whisker-fatigue/).
+1. [The more dopamine that is released, the more creative we are](https://open.buffer.com/shower-thoughts-science-of-creativity/). A relaxed state of mind is absolutely important to be creative.
+1. The climbing perch (*Anabas testudineus*) can live on land for up to 6 days.
+1. "We conclude that [alcohol ingestion suppresses the anabolic response in skeletal muscle](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088384) and may therefore impair recovery and adaptation to training and/or subsequent performance."
+1. Cats don't like eating and drinking from the same place.
+1. [Men ejaculate harder if they feel competition from other men.](https://en.wikipedia.org/wiki/Human_sperm_competition)
 1. ["Palm tree"](https://en.wikipedia.org/wiki/Arecaceae) is a general term for trees that look like your sterotypical holiday beach resort trees. Trees in the *Arecaceae* family generate coconuts, dates, and açaí berries.
 1. Strains of [Lactobacillus in the vaginal tract](https://en.wikipedia.org/wiki/Lactobacillus#Vaginal_tract) are not the same ones found in probiotic yogurt. Do not attempt to make yogurt with your own (bacterial) culture.
 1. The [Rasberry crazy ant](https://en.wikipedia.org/wiki/Rasberry_crazy_ant) likes nesting inside electronics.

@@ -11,3 +11,4 @@
 1. [NiMH batteries should be taken out of the charger shortly after charging completes](http://batteryuniversity.com/learn/article/do_and_dont_battery_table).
 1. To charge 3Ah in an hour, calling that 1C rate, obviously takes a 3A charger.
 1. Making a battery pack that can both charge and discharge at the same time [apparently](https://www.anker.com/products/A1272011) has detrimental effects on the lifespan of the battery. **WAIT**: what the hell is your phone doing while charging then? **WAIT 2**: it might just be a way to prevent you from making the battery charge itself.
+1. [(Not charging to the max voltage) reduces the capacity the battery stores](https://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries). "As a simple guideline, every 70mV reduction in charge voltage lowers the overall capacity by 10 percent", but can be fixed any time by charging to the max voltage.

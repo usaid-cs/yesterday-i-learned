@@ -11,3 +11,6 @@
 1. [Multifactorials](http://www.mathcelebrity.com/multifactorial.php): factorials that don't go down by 1. `12!! = 12 * 10 * 8 * ...`. `12!!! = 12 * 9 * 6 * 3`.
 1. The most famous current use of quantum computers is [Integer factorisation using Shor's algorithm](https://en.wikipedia.org/wiki/Quantum_algorithm), where it is already faster than classical computers (in run-time complexity).
 1. [`(a + b)(c + d) = a(c + d) + b(c + d)`](http://www.mathwords.com/f/foil_method.htm) is apparently called the FOIL method? First ("ac") outer ("ad") inner ("bc") last ("bd"). Back in my day, we just called it the binomial expansion.
+1. The fastest path to go from a high point to a low point is the [Brachistochrone curve](https://en.wikipedia.org/wiki/Brachistochrone_curve).
+1. The sum of numbers from 0 to 36 happens to be 666.
+1. A teenth is 1/16.

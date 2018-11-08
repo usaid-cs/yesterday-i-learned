@@ -183,3 +183,4 @@
 1. Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.
 1. [Buy only the kind of car you can afford to lose.](http://i.imgur.com/BWv69aK.mp4)
 1. [Kelly Blue Book is operated by a AutoTrader](https://youtu.be/yUwx3TEJuAs), a used car dealer.
+1. In addition to gear changes, big trucks also brake the engine by limiting fuel intake and exhaust.

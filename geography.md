@@ -7,3 +7,6 @@
 1. [Cities tend to have a poorer east end](https://www.theguardian.com/cities/2017/may/12/blowing-wind-cities-poor-east-ends) because air pollution tends to flow east.1. New Zealand is on its own geographical (not political) continent called [Zealandia](https://www.reddit.com/r/askscience/comments/14dkm7/is_new_zealand_a_part_of_the_australian_continent/).
 1. The summit [Chimborazo](https://en.wikipedia.org/wiki/Chimborazo) of Ecuador is the farthest point from the centre of Earth, while Mt. Everest is the highest point from sea level.
 1. 西貢 is in the east, because Hong Kong.
+1. Quite a bit of rural Australia is [still farmland](http://i.imgur.com/PZSiEJU.jpg).
+1. Baltimore is on the east coast, roughly where Washington DC is.
+1. The US, UK, and Puerto Rico all have [virgin islands](https://en.wikipedia.org/wiki/Virgin_Islands).

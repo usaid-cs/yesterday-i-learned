@@ -47,3 +47,4 @@
 1. [Microwaving a half-cut piece of grape](https://www.minds.com/blog/view/177271/grape-microwave-and-pyrex) yields plasma.
 1. [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
 1. No free (Android) app corrects fisheye images because [it's hard](https://www.lonelyspeck.com/defish/).
+1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.
