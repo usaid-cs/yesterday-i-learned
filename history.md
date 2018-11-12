@@ -83,3 +83,4 @@
 1. Throughout the (first world) war only one ship was sunk by a U-boat while escorted by an aircraft (airship).
 1. There was once a ship registered with the number A20196Y.
 1. [The Fanling KCR station existed in 1910, one of the three permanent stations at the time.](https://en.wikipedia.org/wiki/Kowloon-Canton_Railway_Corporation#Origins_of_the_corporation) [MTR didn't have any lines until 1979.](https://www.youtube.com/watch?v=XkD5g0TxXXg)
+1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl

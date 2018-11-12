@@ -756,3 +756,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Hydrocortisone cream works [everywhere except the face.](http://www.nhs.uk/chq/Pages/868.aspx?CategoryID=73) Face skin will [wrinkle](https://www.drbaileyskincare.com/info/blog/how-long-is-it-safe-to-use-cortisone-on-the-face) and the cornea will be thinned.
 1. Suicide by paracetamol takes between 3–5 days to 4–6 weeks.
 1. [*Beer shits*](http://www.poopreport.com/Doctor/Knowledgebase/beer_and_poop.html) are caused by alcohol poisoning and death of gut flora that digest soluble fibres.
+1. The queen bee mates with males only once: on her flight to build a new nest.
+1. [Math](http://math-fail.com/wp-content/uploads/math-not-even-once.png) users don't feel hungry or thirsty. The lack of thirst makes their mouths dry up (even faster than if it were simply a saliva issue). Then cavities develop and the teeth fall off.

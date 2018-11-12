@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. RCMP trading cards are [volunteer work](https://www.thestar.com/life/2017/02/13/torontos-secret-collectible-police-trading-cards-are-a-labour-of-love.html).
 1. You may request a [parliament hill flag](https://www.tpsgc-pwgsc.gc.ca/citeparlementaire-parliamentaryprecinct/decouvrez-discover/drapeaux-flags-eng.html). The wait time is 99 years.
 1. In 2018, the highest combined tax rate (GST + PST, 15%) is [three times](http://www.calculconversion.com/sales-tax-calculator-hst-gst.html) higher than the lowest (5%).
 1. Working as a mailman pays about [$20 an hour](https://ca.indeed.com/salaries/Mail-Carrier-Salaries-at-Canada-Post).

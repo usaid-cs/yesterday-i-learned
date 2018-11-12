@@ -49,3 +49,8 @@
 1. [Kesha](https://en.wikipedia.org/wiki/Kesha), on the other hand, was born Kesha (Sebert).
 1. [Taylor Swift in Family Guy](http://www.digitalspy.com/tv/ustv/news/a813402/taylor-swift-family-guy-episode/) is voiced by [Ursula Taherian](http://www.imdb.com/name/nm2563808/).
 1. Mr. Burns outlived one of his voice actors, Christopher Collins.
+1. The lyrics say "Got a long list of ex-lovers", not "Got a lot of starbucks lovers".1. "Peggy Hill is a horrible person. Every episode with a plotline centered around her involves her doing something outlandish, and she uses the good intentions of whatever she's doing to justify her selfish desires. For instance, she wants to be a teacher so she just becomes a nun? Can you imagine if your mom did stuff like that?" - /u/Venntrical
+1. There are two Paul Reveres. For some reason, the junior is better than the senior.
+1. Gallowboob is a man named [Robert Allam](https://www.facebook.com/robert.allam). He [claims](https://www.linkedin.com/in/robert-allam-769350b7/) to live in Manchester.
+1. "Madame Gaillard" appears on Google as a single character from Perfume. No other results from anywhere else.
+1. To emulate a chicken, say these words: *Bawk. Bawk. Bawka.*

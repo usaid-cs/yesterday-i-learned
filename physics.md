@@ -1,3 +1,5 @@
+1. For paranoid people who think [people can see them through walls](https://www.youtube.com/watch?v=kBFMsY5ZP0o), [EMF shielding paints](https://lessemf.com/paint.html) is for you!
+1. [Cold fusion exists](https://www.youtube.com/watch?v=aDfB3gnxRhc). Muons ("heavy electrons") hold nuclei 200x closer together, making them much more likely to fuse, which means it can occur at room temperature. Unfortunately the input energy to generate a muon is still higher than the energy you get back from fusion, so it's still useless right now.
 1. Drag has a square relationship with velocity. This makes "making a huge gun that shoots people into space" inpractical.
 1. Uranus (the 7th planet) is larger but lighter than Neptune (the 8th planet).
 1. The original frequency of a signal is the fundamental frequency. Slight distortions of the original signal may also cause harmonic signals to be present. For example, if the fundamental frequency is 2 kHz, then the second harmonic signal would be 4 kHz and the third harmonic signal would be 6 kHz. etc.

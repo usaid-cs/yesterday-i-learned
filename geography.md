@@ -10,3 +10,4 @@
 1. Quite a bit of rural Australia is [still farmland](http://i.imgur.com/PZSiEJU.jpg).
 1. Baltimore is on the east coast, roughly where Washington DC is.
 1. The US, UK, and Puerto Rico all have [virgin islands](https://en.wikipedia.org/wiki/Virgin_Islands).
+1. [Tasmania](https://en.wikipedia.org/wiki/Tasmania) is a country next to Australia, not a jungle.

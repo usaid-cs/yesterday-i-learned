@@ -167,6 +167,18 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 
     1. Add all ingredients. Boil for 3 hours.
 
+### [Egg drop soup](https://youtu.be/oBK_gjfoXZ4)
+
+* Beat two eggs to death.
+* Add 1 cup of chicken stock and 1 cup of water to pot.
+* Add some white part of spring onion.
+* Boil.
+* While waiting, mix 1.5 tbsp of cornstarch and 1.5 tbsp of water together.
+* When the chicken stock is boiling.
+* Slowly pour in the cornstarch water and stir.
+* Slowly pour in the egg and stir.
+* Add some salt and white pepper to taste.
+
 ## 炒麵
 
 * Add ½ water to stove and heat stove to max

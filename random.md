@@ -1,3 +1,11 @@
+1. Turns out Windows 10 updates are named after (two digit year)(two digit month). Windows 10 "1809" came out (or was supposed to come out) September 2018.
+1. You can't smoke on planes thanks to [Air Canada flight 797](https://en.wikipedia.org/wiki/Air_Canada_Flight_797), where smoking in the toilet caused the plane to smoke up and eventually burn.
+1. Duress: threatening someone to make them do something.
+1. The green channel on an OLED screen uses [the least amount of energy at full brightness](https://www.slashgear.com/googles-big-android-battery-oops-and-future-dark-modes-08553037/).
+1. Some UX research out there says [black on white is easier to read than white on black](https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes#53268).
+1. "USB 3.0" and "USB 3.1 Gen 1" are actually [the same thing](https://www.tomshardware.com/news/usb-31-usb-type-c-refresher,29933.html). In the same article: any USB cable that claims to support USB 3 will support any version of USB 3.
+1. There is an inverse correlation between [how much you spend on your wedding, and how likely you are to end up in divorce](https://www.cnn.com/2014/10/13/living/wedding-expenses-study/index.html).
+1. [American IPAs are more bitter than English IPAs](https://craftbeering.com/english-ipa-vs-american-ipa/).
 1. Children who were taught to [wait for things](https://conferences.morressier.com/delay-gratification-for-higher-income/) often become high earners.
 1. When things go bad at a job, good people leave first.
 1. When travelling with a friend or partner, there is no obligation to do everything together.
@@ -369,7 +377,6 @@
 1. The red in the [flag of France](https://en.wikipedia.org/wiki/Flag_of_France) is #EF4135, and the red in the [flag of Italy](https://en.wikipedia.org/wiki/Flag_of_Italy) is #CD212A, a slightly darker shade. The Italians also opted for *a darker shade of white*, #F4F5F0, instead of the usual #FFFFFF.
 1. Norway is the first non-anglophone country in the [list of countries that search for the word "nigger" the most](https://trends.google.com/trends/explore?date=all&q=nigger) on Google.
 1. For some reason, [almost all top universities speak English](https://www.topuniversities.com/university-rankings/world-university-rankings/2018).
-1. Looking at search results, you might have accidentally invented the term "cerebral sphincter" to explain brainfarts.
 1. [Paralympic curling doesn't sweep](https://www.youtube.com/watch?v=uxbKBcBt-7A), and instead of gliding forward with your curling stone, [there's a dude in his wheelchair holding *your* wheelchair in place](http://paralympic.ca/wheelchair-curling) and you thrust the stone forward with a stick (so basically pool, since that stick is officially called the cue).
 1. [IDNA](https://en.wikipedia.org/wiki/Internationalized_domain_name)-encoded strings always start with `xn--`. The rest of the string is [punycode](https://en.wikipedia.org/wiki/Punycode)-encoded.
 1. [OWASP](https://www.owasp.org/index.php/Main_Page) is a registered not-for-profit charitable organisation. This explains the crappy wiki being their actual home page.
@@ -906,7 +913,6 @@
 1. Kathleen [O'Day](https://en.wikipedia.org/wiki/Kathleen_Wynne) "0-day" Wynne was the first LGBT premier to sell off Hydro One.
 1. The skull in the Pirate Bay's logo is the same logo from [Home Taping Is Killing Music](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music).
 1. Minute was called the "prime minute", and Second was called the "second minute". So that's where the symbols in [`0:50' 23"`](https://images-na.ssl-images-amazon.com/images/I/61YppX03DOL._SY355_.jpg) come from.
-1. [Math](http://math-fail.com/wp-content/uploads/math-not-even-once.png) users don't feel hungry or thirsty. The lack of thirst makes their mouths dry up (even faster than if it were simply a saliva issue). Then cavities develop and the teeth fall off.
 1. [Jakarta is sinking](https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html?_r=0).
 1. People drink before dinner because everything tastes better when you're drunk.
 1. At least [one person](https://fivethirtyeight.com/features/every-color-of-every-lightsaber-in-star-wars-in-one-chart/) uses an orange lightsaber.
@@ -917,12 +923,11 @@
 1. [PCBs](https://en.wikipedia.org/wiki/Printed_circuit_board) are made with fiberglass.
 1. "No VPN provider is going to risk jail to protect a $20 a month subscriber." - Attributed to someone who goes by Grugq.
 1. Those little green sticks at Starbucks are [coffee stoppers](https://refineddesigner.files.wordpress.com/2009/01/e86ba69762_spillstick.jpg), to stop coffee from spilling out of their puny unclosable lids.
-1. A real rolex [always never has a clear back.](https://www.bobswatches.com/rolex-blog/rolex-info/the-top-ways-to-spot-a-fake-rolex.html) The movement is never visible to the user.
+1. A real rolex [almost never has a clear back.](https://www.bobswatches.com/rolex-blog/rolex-info/the-top-ways-to-spot-a-fake-rolex.html) The movement is never visible to the user.
 1. [The CME is the world's largest exchange?](http://business.financialpost.com/investing/bitcoin-hits-a-bigger-wall-street-stage-as-cme-debuts-futures) (Apparently so.)
 1. The plumbus, the Rick and Morty thingy with undeterministic function, is [now a sex toy](https://geekysextoys.com/product/cumbus-silicone-stroker/).
 1. My erect penis is as long *and* as thick as the Great Wall of China.
 1. Item above was added so no one crawls this list for personal gain.
-1. There are two Paul Reveres. For some reason, the junior is better than the senior.
 1. You don't have to sell things at the pawn shop. [Pawning](https://gardencityexchange.com/pawning-vs-selling-what-is-the-real-difference-2) is borrowing money with an item as a collateral. When you fail to pay your loan, the ownership goes from you to the pawn shop.
 1. 2018 prediction. Useless software development (like web developers) will perish. Specialised software development (like "oil rig drilling instrumentation") will be moved offshore.
 1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
@@ -1001,7 +1006,6 @@
 1. Sonic the Hedgehog is a... hedgehog. Knuckles the Echidna is an... echidna. Unfortunately [they look more or less the same](http://www.wallpaperhi.com/thumbnails/detail/20120923/sonic%20the%20hedgehog%20video%20games%20knuckles%20the%20echidna%201280x1024%20wallpaper_www.wallpaperhi.com_91.jpg).
 1. So many people pour bacon fat down the drain that cities are forced to spend millions clearing out gigagram "farbergs" from the sewers.
 1. The perfect steak is [3.8cm thick](https://www.thespruce.com/the-secret-to-a-juicy-steak-995233).
-1. "Madame Gaillard" appears on Google as a single character from Perfume. No other results from anywhere else.
 1. The new shortcut for shutting down Windows 10 is Win+x, u, u.
 1. [Walmart is the largest employer in 22 states.](http://www.visualcapitalist.com/walmart-nation-mapping-largest-employers-u-s/)
 1. [A "Yo" dice roll is a 6 followed by a 5.](https://i.redd.it/rotvn1hjw7001.jpg) An "Australian Yo" is a 2 followed by a 1 instead.
@@ -1348,7 +1352,6 @@
 1. Sasquatch is literally Bigfoot.
 1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
 1. Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
-1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
 1. If a colleague asks you "what's for lunch,'" reply with *So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'* (Matthew 6:31), best without context.
 1. [Double IPA *is* Imperial IPA](http://beergraphs.com/bg/182-whats-a-triple-ipa/). Triple IPA is something like that, with even more hops.
 1. The EU has strict definitions of ["free range"](https://en.wikipedia.org/wiki/Free_range#European_Union), particularly the density of poultry is essentially what is seen as free range. In the US, that term is useless.
@@ -1525,12 +1528,10 @@
 1. [People rate condoms on the Internet.](http://www.trojanbrands.com/en-CA/condoms/TROJAN-Her-Pleasure-Sensations-Lubricated-Condoms)
 1. Treadmills were a prison torture device, which also treaded grains (one of it uses). Prisoners did so for six hours a day, which led to malnutrition and death. Modern gyms typically allow you to stop jogging before the six hour mark. (ted.com)
 1. People prefer letters that are in their names. "The [Letter Preference Task](https://en.wikipedia.org/wiki/Name-letter_effect) is the second-most popular method to measure implicit self-esteem, surpassed only by the Implicit Association Test."
-1. "Peggy Hill is a horrible person. Every episode with a plotline centered around her involves her doing something outlandish, and she uses the good intentions of whatever she's doing to justify her selfish desires. For instance, she wants to be a teacher so she just becomes a nun? Can you imagine if your mom did stuff like that?" - /u/Venntrical
 1. [Matthew Fredrick "Matthias"](http://matthias.wikia.com/wiki/Matthias) is the CEO of Hi5 Studios. As it turns out, [half of everyone there is a C-something-O.](http://hi5studios.com/team/)
 1. [Dude](https://www.youtube.com/watch?v=sdYiUw-lZrk) says it matters to differentiate "GPU" from "graphics card", the card on which the GPU is soldered.
 1. All natural numbers (N) are... integers (Z), which are all rational numbers (Q), which are all real numbers (R)
 1. You can't just add an aftermarket USB to wireless charging pad without needing wireless charging everywhere.
-1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
 1. In the cryptocurrency world, you can just [clone a bunch of coins](https://techcrunch.com/2017/08/02/wtf-is-bitcoin-cash-and-is-it-worth-anything/) and end up having twice the amount of money (assuming people want to trade the cloned version).
 1. Apart from the literal meaning, ["per diem"](https://en.wikipedia.org/wiki/Per_diem) appears to mean "daily expense allowance" as well.
 1. 人仔 is worth more than the other kind of dollar now.
@@ -1544,7 +1545,6 @@
 1. [How AYCE buffets save money](https://www.psychologytoday.com/blog/the-science-behind-behavior/201510/how-all-you-can-eat-buffets-use-psychology-make-money): "[if a] relatively expensive protein (say, a platter of steak) [is] surrounded by four or five cheaper veggie side dishes [...] studies show that [...] people tend to pick and consume more vegetables. [...] potatoes and rice trays are huge and filled to the brim thus encouraging large servings. [...] Compared to those in the highest BMI tertile (top third), those in the lowest one were more than twice as likely to browse the buffet first (71.0% vs. 33.3%), almost three times as likely to use chopsticks rather than a fork (23.5% vs. 8.7%), and chew more times (14.8 vs. 11.9)."
 1. The French call it ["en ligne"](https://www.collinsdictionary.com/dictionary/french-english/en-ligne) ~~just because it sounds exactly like "online". 🤦~~
 1. Compared to USB keyboards and mice, [PS/2 peripherals send interrupts.](https://www.youtube.com/watch?v=AWkvzycD5PE) This reduction of latency makes PS/2 keyboards and mice still somewhat relevant for pro gaming.
-1. People wanted thin bezels, so OnePlus made the fifth phone ($813) narrower. [But also taller. The screen to body ratio is still 73%.](http://www.gsmarena.com/compare.php3?idPhone1=8416&idPhone2=8647)
 1. "無三不成幾" came from 西游记 ["常言道，事无三不成，你进洞两遭了，再进去一遭，管情救出师父来也。"](https://baike.baidu.com/item/%E6%97%A0%E4%B8%89%E4%B8%8D%E6%88%90%E5%87%A0), and is supposed to mean "you should try more", rather than the literal "'A few' means at least three."
 1. Wikipedia claims that [Roast beef](https://en.wikipedia.org/wiki/Roast_beef) is served at Sunday dinners ("Sunday roasts") after church.
 1. Tetanus is caused by [Clostridium tetani](https://en.wikipedia.org/wiki/Clostridium_tetani), an anaerobic bacterium. An infected nail not only has to be rusty, it must also puncture the skin to reach the anaerobic meat inside.
@@ -1795,7 +1795,6 @@
 1. In Japan, [you can only buy fresh cartridges by returning the spent cartridges you bought on your last visit to the gun shop.](http://www.bbc.com/news/magazine-38365729)
 1. The [Saturn V](https://en.wikipedia.org/wiki/Saturn_V) remains the tallest, heaviest, and most powerful rocket ever (used). 15 were made, but 13 flew. None lost crew or payload. It burned ["22 tons of fuel a second"; "one minute into the launch, the Saturn V was already supersonic."](https://www.youtube.com/watch?v=y-cv_JJOxGI)
 1. For whatever reason, [lamb is even more environmentally damaging than beef to produce](http://www.wri.org/blog/2016/04/sustainable-diets-what-you-need-know-12-charts). which is awful.
-1. Gallowboob is a man named [Robert Allam](https://www.facebook.com/robert.allam). He [claims](https://www.linkedin.com/in/robert-allam-769350b7/) to live in Manchester.
 1. The general difference between [a product manager and project manager](https://blog.aha.io/the-product-manager-vs-project-manager/) seems to be that the product manager is one more layer up, being cross-functional in more things.
 1. Kotlin is Java with some good things mixed in, so that it is not all bad.
 1. [Database normalisation](https://en.wikipedia.org/wiki/Database_normalization) refers to making tables and columns that make sense (to reduce redundancy). It comes in many normal forms; [here is the first normal form.](https://en.wikipedia.org/wiki/First_normal_form)
@@ -1844,7 +1843,6 @@
 1. [The University of Northern New Jersey](https://en.wikipedia.org/wiki/University_of_Northern_New_Jersey) was a fake university, created by the United States Department of Homeland Security to investigate student visa fraud.
 1. [Natural and artificial flavours can be the same compounds.](http://www.seriouseats.com/2014/04/what-is-the-difference-between-natural-and-artificial-flavors.html)
 1. Many cults are self-sufficient so members don't ever have to leave.
-1. To emulate a chicken, say these words: *Bawk. Bawk. Bawka.*
 1. ["The nice thing about IKEA is that you pretty much get what you pay for."](https://www.quora.com/How-easily-does-IKEA-furniture-fall-apart)
 1. If you are given 2+ choices instead of 1, [your expectation of the one you choose will go up](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice) (which means you will be less happy with it, even though you were given the choice to pick it). The take away is: choice isn't always good, and if you suck at cooking, don't ask your wife what she wants to eat.
 1. In almost every country (except Central African Republic), [giving money away makes you happier than if you kept it for yourself](https://www.ted.com/playlists/4/what_makes_you_happy). In the same video, spending money on others has better returns per dollar than spending money on yourself; people who think about how they can beneft other people are happier than people who think about how they can benefit themselves.
@@ -1936,7 +1934,6 @@
 1. The colour of gold is [defined](https://en.wikipedia.org/wiki/Gold_%28color%29) as `#ffd700`, but my eyes say it is closer to `#ffee77`.
 1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
 1. `sleep()` is considered a [temporal side effect](https://en.wikipedia.org/wiki/Side_effect_%28computer_science%29#Temporal_side_effects).
-1. The queen bee mates with males only once: on her flight to build a new nest.
 1. The EU flag is non-flammable.
 1. In 300, Stelios replaces [Dienekes](https://en.wikipedia.org/wiki/Dienekes), the actual brave soldier.
 1. 1kg of flour can become 2,852km of noodles, if you try hard enough.
@@ -2144,7 +2141,6 @@
 1. [The Mummies of Venzone][wondercabinet] are rapidly dehydrated (and thus preserved) by the fungus *Hypha tombicina*.
 1. It is [possible][imgur] to sleep in a Prius C.
 1. "Because information has to travel to your brain via neural pathways, everything you are experiencing actually happened 80 milliseconds in the past."
-1. Close both your eyes and you see black, but only close one eye, and it sees nothing.
 1. "For a brief period, you were the youngest person on Earth."
 1. You are not the voice inside your head, you are the one who hears it.
 1. The 2nd player could control the ducks in duck hunt.
@@ -2217,7 +2213,6 @@
 1. "Point blank" does not mean "at close range" but "close enough to disregard veering of projectile due to gravity".
 1. *Yersinia pestis* is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
 1. *Spilling* refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
-1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... ([continued][reddit 10])
 1. [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 1. There is such a thing as a [Damn Vulnerable Web App][dvwa] that is built solely for others' testing pleasure.
 1. [There aren't that many hacker news readers](https://news.ycombinator.com/item?id=8107658); your server health isn't guaranteed if your "thing" goes mainstream, of course.
@@ -2608,7 +2603,6 @@
 1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
 1. The tip material in modern fountain pens is still conventionally called "iridium", although there is seldom any iridium in it; other metals such as tungsten have taken its place.
 1. If priests take the [canon law][wikipedia 177] seriously (which they should, because they are priests), then they cannot reveal a confessional, even if it concerns illegal activities.
-1. [Tasmania][wikipedia 178] is a country next to Australia, not a jungle.
 1. The Japanese walked to Japan. The sea that separated Korea and Japan did not exist.
 1. Born in San Francisco, and married a white woman from California, not only was Bruce Lee bilingual, he also knew some Japanese, and had neat handwriting for all languages.
 1. Sun Yat-Sen knew English and Japanese as well. He was the number one med school student in Hong Kong. He died of liver cancer.
@@ -3138,7 +3132,6 @@
 [readthedocs]: http://django-tastypie.readthedocs.org/en/latest/cookbook.html#using-your-resource-in-regular-views
 [recipetips]: http://www.recipetips.com/kitchen-tips/t--749/roasting-ham.asp
 [reddit]: http://www.reddit.com/r/AskReddit/comments/1tsfyd/what_is_something_i_could_teach_myself_in_5/
-[reddit 10]: http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8
 [reddit 11]: http://www.reddit.com/r/ImGoingToHellForThis/comments/26c8e1/garbage/
 [reddit 12]: http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/
 [reddit 13]: http://www.reddit.com/r/science/comments/2b21nw/sleep_deprivation_can_increase_the_risk_of/
@@ -3305,7 +3298,6 @@
 [wikipedia 175]: https://en.wikipedia.org/wiki/Brandon_Lee#Death
 [wikipedia 176]: https://en.wikipedia.org/wiki/Victoria_Gap
 [wikipedia 177]: https://en.wikipedia.org/wiki/Canon_law
-[wikipedia 178]: https://en.wikipedia.org/wiki/Tasmania
 [wikipedia 179]: https://en.wikipedia.org/wiki/Long_and_short_scales#Comparison
 [wikipedia 18]: https://en.wikipedia.org/wiki/McCollough_effect
 [wikipedia 180]: https://en.wikipedia.org/wiki/Elton_John
