@@ -54,3 +54,5 @@
 1. Gallowboob is a man named [Robert Allam](https://www.facebook.com/robert.allam). He [claims](https://www.linkedin.com/in/robert-allam-769350b7/) to live in Manchester.
 1. "Madame Gaillard" appears on Google as a single character from Perfume. No other results from anywhere else.
 1. To emulate a chicken, say these words: *Bawk. Bawk. Bawka.*
+1. Ben Eisenkop has [his own wikipedia page](https://en.wikipedia.org/wiki/Unidan) about how he got banned from Reddit. He was around 27 years old at the time.
+1. ["Ass Pounder 4000"](https://www.youtube.com/watch?v=MEuMmaUi50I) came from It's Always Sunny In Philadelphia.

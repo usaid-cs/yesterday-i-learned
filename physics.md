@@ -1,3 +1,4 @@
+1. The unit Kelvin does not come with the word "degrees" because it is considered absolute.
 1. For paranoid people who think [people can see them through walls](https://www.youtube.com/watch?v=kBFMsY5ZP0o), [EMF shielding paints](https://lessemf.com/paint.html) is for you!
 1. [Cold fusion exists](https://www.youtube.com/watch?v=aDfB3gnxRhc). Muons ("heavy electrons") hold nuclei 200x closer together, making them much more likely to fuse, which means it can occur at room temperature. Unfortunately the input energy to generate a muon is still higher than the energy you get back from fusion, so it's still useless right now.
 1. Drag has a square relationship with velocity. This makes "making a huge gun that shoots people into space" inpractical.
@@ -50,3 +51,4 @@
 1. [The 'speed of gravity' is the same as the speed of light.](http://www.reddit.com/r/askscience/comments/2nukm0/which_is_faster_gravity_or_light/) If the sun goes away, we also have 8 minutes (ish) of time before we are affected gravitationally.
 1. No free (Android) app corrects fisheye images because [it's hard](https://www.lonelyspeck.com/defish/).
 1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.
+1. We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.

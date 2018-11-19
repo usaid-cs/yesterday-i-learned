@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. If your device is *not* encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or just delete `/data/system/locksettings.db`, which says you should have a PIN.
 1. To automate scrolling up a long list, use `while true; do input swipe 300 300 300 1500 100; done`.
 1. During the Pixel 3 announcement, [Google did not mention "Android" a single time](https://bgr.com/2018/10/12/android-vs-fuchsia-pixel-3-event-no-android-mention/).
 1. [Throwing a file into the "intent firewall" directory](https://android.stackexchange.com/questions/128053/removing-a-contact-from-direct-share-panel/160350#160350) instantly disables direct share, without the need for an xposed module.

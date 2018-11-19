@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Canada and US had different switchover dates for daylight saving time [before 2007](https://www.timeanddate.com/news/time/canada-daylight-saving.html).
+1. [Lloydminster](https://en.wikipedia.org/wiki/Lloydminster), a town that lies right on the border between AB and SK, follows AB time. Residents get addresses in Lloydminster AB or Lloydminster SK based on which side of the city the live in. An Arby's can have the address "5019 44 St, Lloydminster, AB", while the Petro Canada across the street can have the address "4911 44 St, Lloydminster, SK".
 1. RCMP trading cards are [volunteer work](https://www.thestar.com/life/2017/02/13/torontos-secret-collectible-police-trading-cards-are-a-labour-of-love.html).
 1. You may request a [parliament hill flag](https://www.tpsgc-pwgsc.gc.ca/citeparlementaire-parliamentaryprecinct/decouvrez-discover/drapeaux-flags-eng.html). The wait time is 99 years.
 1. In 2018, the highest combined tax rate (GST + PST, 15%) is [three times](http://www.calculconversion.com/sales-tax-calculator-hst-gst.html) higher than the lowest (5%).
@@ -145,3 +147,6 @@
 1. *The Six* may refer to: The city of Toronto
 1. [The government has a surplus store.](https://www.gcsurplus.ca/mn-eng.cfm) Good stuff is occasionally sold there.
 1. Bruce Peninsula has your best bet in [seeing stars at night](http://darksitefinder.com/maps/world.html) nearby.
+1. 5% of the population are sworn into the RCMP. The RCMP, being famous for riding horses, [have a buffalo/bison in the badge](http://www.rcmp-grc.gc.ca/fs-fd/badge-insigne-eng.htm).
+1. Donald's dominating, jerking-the-person-towards-him handshake can be mitigated by simply [resting on his own shoulder](https://imgur.com/0fvAaFe)
+1. The vast majority of [Canada's top paid positions](https://www.slice.ca/money/photos/jobs-in-canada-that-pay-300k/#!Anesthesiologist-Jobs-in-Canada-That-Pay-Over-300K) are doctors and company C*Os.

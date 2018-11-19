@@ -1,3 +1,8 @@
+1. Raw cashews contain the toxin urishiol. Raw cashews in supermarkets have already been steamed and cooked to remove it.
+1. The last 7 of the 28 birth control pills are only placebos to remind yourself to take a pill every day.
+1. A "2" on [the pain scale](https://www.reddit.com/r/coolguides/comments/9y1uni/descriptive_pain_scale/) is "annoying with stronger twinges", while 3 to 5 are various levels of "distracting". 6 and 7 means you can no longer concentrate on other activities (including sleep), and you can probably not speak when you experience anything from 8 to 10. Pregnancy is described by 9, not 10, on the scale.
+1. Dipping your hands in paraffin wax is a valid way to treat arthritis (on the same hands, duh).
+1. [*Heracleum sphondylium*](https://en.wikipedia.org/wiki/Heracleum_sphondylium), common hogweed, is top 10 in the "nectar production per unit cover per year" metric, beneficial to pollinators like bees.
 1. Procrastinators have [larger amygdala(s?) and fewer connections to the dorsal anterior cingulate cortex](http://news.rub.de/english/press-releases/2018-08-22-neuroscience-how-brains-doers-differ-those-procrastinators). "Individuals with a higher amygdala volume may ... hesitate and put off things"
 1. Cats don't like it when [their whiskers touch too many things in one day](https://www.litter-robot.com/blog/2016/08/19/the-truth-behind-whisker-fatigue/).
 1. [The more dopamine that is released, the more creative we are](https://open.buffer.com/shower-thoughts-science-of-creativity/). A relaxed state of mind is absolutely important to be creative.
@@ -758,3 +763,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [*Beer shits*](http://www.poopreport.com/Doctor/Knowledgebase/beer_and_poop.html) are caused by alcohol poisoning and death of gut flora that digest soluble fibres.
 1. The queen bee mates with males only once: on her flight to build a new nest.
 1. [Math](http://math-fail.com/wp-content/uploads/math-not-even-once.png) users don't feel hungry or thirsty. The lack of thirst makes their mouths dry up (even faster than if it were simply a saliva issue). Then cavities develop and the teeth fall off.
+1. The smallest muscle in your body, found in the middle ear, dampens the sound of your own voice when you speak. Recordings of your voice sound odd because the stapedius muscle isn't functioning then. (Also: bone vibrations)
+1. 40 weeks is clearly both 9 solar months and 10 lunar months.

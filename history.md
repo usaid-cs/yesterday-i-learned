@@ -1,3 +1,5 @@
+1. [Jingle Bells](https://www.cbc.ca/news/canada/british-columbia/jingle-bells-christmas-song-started-as-a-drinking-song-written-by-a-jerk-1.2874860) was a thanksgiving drinking song.
+1. Pizza ("putting things on bread") is such an old concept that [no one has any idea when exactly it was invented](https://en.wikipedia.org/wiki/History_of_pizza).
 1. [Leif Erikson](https://en.wikipedia.org/wiki/Leif_Erikson) the Norse explorer went to America long before Chris did.
 1. [Eating meat](https://www.youtube.com/watch?v=NxvQPzrg2Wg) hadn't been a common thing until the recent decades.
 1. Wonton didn't have shrimp until people's tastes got picky (I'd say the 1970s). It also came from Northern China, where the dumplings were.
@@ -84,3 +86,8 @@
 1. There was once a ship registered with the number A20196Y.
 1. [The Fanling KCR station existed in 1910, one of the three permanent stations at the time.](https://en.wikipedia.org/wiki/Kowloon-Canton_Railway_Corporation#Origins_of_the_corporation) [MTR didn't have any lines until 1979.](https://www.youtube.com/watch?v=XkD5g0TxXXg)
 1. The American Football was called [Gridiron football](https://en.wikipedia.org/wiki/Gridiron_football), so named because the ball is "played on foot (like a dirty peasant) instead of on horseback (like a gentleman)". - /u/Cynykl
+1. Thailand was called Siam from 1946 to 1948.
+1. Diesel was indeed named after Rudolf Diesel, the man who invented the [(combustion) engine](https://en.wikipedia.org/wiki/Diesel_engine).
+1. Dow Jones was named after the [Dow, Jones & Company](https://en.wikipedia.org/wiki/Dow_Jones_%26_Company) founded in 1882. Unfortunately the third co-founder (Charles Bergstresser) did not have a good enough-sounding surname to be included. (Kidding aside, he was a silent partner.)
+1. [Two of the US presidents have a last name that start with TRUM](https://xkcd.com/2046/) (Truman and Trump), and there were three terms during which the president was called Franklin D. Roosevelt.
+1. It was common practice to sell teeth to the wealthy by extracting them. Fantine first sold her hair, then her teeth, then herself, with her teeth being the least renewable. Teeth were extracted from the dead as well, notably from fallen soldiers.

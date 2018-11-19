@@ -1,3 +1,4 @@
+1. [Mottainai!](https://en.wikipedia.org/wiki/Mottainai) 勿体無い, which means "What a waste!", is the Japanese version of reduce, reuse, recycle.
 1. [Jesus was born in a "manger"](https://www.biblegateway.com/passage/?search=Luke+2&version=NIV), aka feeding tub for animals. Manger comes from French *manger*, to eat.
 1. "Platform" is uninterestingly *plate-forme* in French.
 1. You don't "dig out of a grave". You either dig your own grave, or you get out of it.
@@ -291,3 +292,4 @@
 1. Connoisseur is spelled *connaisseur* in French. The connoisseur spelling is traditional.
 1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
 1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
+1. "I stand corrected" literally means "I stand wrong"; i.e. I was wrong, I have been corrected.

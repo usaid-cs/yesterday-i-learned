@@ -1,3 +1,4 @@
+1. [Phil Schiller's grand philosophical theory](http://fortune.com/2015/12/04/schiller-apple-theory/) is, essentially: the job of whichever Apple product that you have closest to you should do more and more things so you don't need to reach for the next closest Apple product so often. In the current case, the Apple Watch does more so you don't need the iPhone so much so you don't need the iPad so much so you don't need the Macbook so much so you don't need the Mac so much. And for the Mac, its job is to challenge what we can do with computers.
 1. The iOS launcher is called the springboard.
 1. In the case of product red, since RED is superscripted and also what's trademarked, the actual logo is `(PRODUCT)^(RED^(TM))`, where TM is superscripted twice.
 1. So many people use iPhones, that when iOS 7 came out, [its parallax wallpapers caused enough people to get motion sickness to make the news](https://en.wikipedia.org/wiki/IOS_7).

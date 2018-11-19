@@ -451,6 +451,9 @@ bar
 1. To get your query string from an SQLAlchemy expression, do [`str(the_expression.statement.compile())`](https://stackoverflow.com/a/25563491/1558430).
 1. There is no non-literal one-liner (i.e. `list(1, 2, 3)`) for making a list. But there is for a dict: `dict(a=1, b=2)`.
 1. Through the act `baz = foo + bar`, where all of these are `list`s, will create an entirely new list for `baz`. If `foo` were `[1,2,3]` and you modify `baz[0] = 'haha'`, `foo` will remain `[1,2,3]`.
+1. `license()` (with an S) is a built-in function. It shows python's story and history in addition to the actual licence. Making a function called `license()` is usually harmless, except if you use pylint: `Redefining built-in 'license'`
+1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
+1. Comparing tuples with tuples, like `(1, 0) < (3, 0)` works how you think it would, but comparing tuples with lists that *look about the same* will not: `(1, 0) < [3, 0]` is false because the two types cannot be compared together.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
@@ -483,4 +486,3 @@ bar
 [wikipedia]: http://en.wikipedia.org/wiki/Coroutine
 [wikipedia 2]: http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions
 [youtu]: http://youtu.be/OSGv2VnC0go?t=31m39s
-1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
