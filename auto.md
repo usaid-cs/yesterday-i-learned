@@ -185,3 +185,4 @@
 1. [Kelly Blue Book is operated by a AutoTrader](https://youtu.be/yUwx3TEJuAs), a used car dealer.
 1. In addition to gear changes, big trucks also brake the engine by limiting fuel intake and exhaust.
 1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
+1. [Volkswagan made currywurst](https://de.wikipedia.org/wiki/Volkswagen-Currywurst), and it looks like they are still making it.

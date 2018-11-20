@@ -293,3 +293,6 @@
 1. "I before E except after C" works around 85% of the time. (done with `english-dictionary.json`)
 1. [Adjectives](https://www.infoplease.com/language-arts/grammar-and-spelling/adjectives-versus-adverbs-introduction) are equivalent to "Adnouns".
 1. "I stand corrected" literally means "I stand wrong"; i.e. I was wrong, I have been corrected.
+1. Japanese for "pink" is really "pinku".
+1. "Discombobulate" is a verb that means exactly what it does, namely, to confuse.
+1. "Kudos" is a singular Greek word.

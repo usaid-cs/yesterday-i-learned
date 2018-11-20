@@ -56,3 +56,6 @@
 1. To emulate a chicken, say these words: *Bawk. Bawk. Bawka.*
 1. Ben Eisenkop has [his own wikipedia page](https://en.wikipedia.org/wiki/Unidan) about how he got banned from Reddit. He was around 27 years old at the time.
 1. ["Ass Pounder 4000"](https://www.youtube.com/watch?v=MEuMmaUi50I) came from It's Always Sunny In Philadelphia.
+1. Hillary Clinton once said [Pokemon Go to the polls](https://duckduckgo.com/?q=pokemon+go+to+the+polls) in an attempt to get young people to vote.
+1. [Matthew Fredrick "Matthias"](http://matthias.wikia.com/wiki/Matthias) is the CEO of Hi5 Studios. As it turns out, [half of everyone there is a C-something-O.](http://hi5studios.com/team/)
+1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.

@@ -201,6 +201,7 @@ undefined
 * ES 5.1 already has a method called [`Array.isArray()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray). "Little known fact: `Array.prototype` itself is an array"
 * [`isNaN(...)` is not the same as `Number.isNaN(...)`](https://stackoverflow.com/questions/25176459/is-number-isnan-more-broken-than-isnan), where `Number.isNaN(undefined)` is false, but `isNaN(undefined)` is true. In other words, [`Number.isNaN()` is probably the one you want](https://stackoverflow.com/a/25176688/1558430).
 * Simply leaving out the [fractional part](https://en.wikipedia.org/wiki/Fractional_part) of a number, i.e. `123.` instead of `123.0`, is completely valid symtax.
+* Unicode is allowed as variable names; emojis are not.
 
 ## Deferred API
 

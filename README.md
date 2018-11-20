@@ -9,6 +9,7 @@
 
 ## Philosophy & psychology
 * [agile.md](agile.md)
+* [life.md](life.md)
 
 ## Religion
 * [christianity.md](christianity.md)

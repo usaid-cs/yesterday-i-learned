@@ -13,3 +13,4 @@
 1. [Tasmania](https://en.wikipedia.org/wiki/Tasmania) is a country next to Australia, not a jungle.
 1. [Switzerland does not have a capital city.](https://en.wikipedia.org/wiki/Switzerland#The_capital_or_Federal_City_issue) Bern is not a capital, but sure feels like one.1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
 1. Guatemala is the country below Mexico.
+1. Reno NV is farther west than Los Angeles CA.

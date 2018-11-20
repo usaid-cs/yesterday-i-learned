@@ -149,3 +149,5 @@
 1. Too cold and there is no snowball, because you need the moisture.
 1. ["A modern samarium-cobalt magnet takes around 700 years to lose half its strength."](http://www.sciencefocus.com/qa/do-magnets-wear-out)
 1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.
+1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
+1. Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"

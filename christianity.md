@@ -10,3 +10,5 @@
 1. The [Jesus fish](https://en.wikipedia.org/wiki/Ichthys) has a special name *ichthys*, which is not special once you realise that's the Greek word for fish.
 1. Anabaptism is adult baptism.
 1. The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew משיח (Meshiakh), meaning the "anointed", and usually transliterated into English as "Messiah". It is not part of Jesus' name.
+1. On at least one occasion, [God told two bears to maul 42 boys to death](https://biblehub.com/2_kings/2-24.htm), so it is within reason that God wants (some) people to die.
+1. There are two James and two Simons apostles.

@@ -14,3 +14,5 @@
 1. The fastest path to go from a high point to a low point is the [Brachistochrone curve](https://en.wikipedia.org/wiki/Brachistochrone_curve).
 1. The sum of numbers from 0 to 36 happens to be 666.
 1. A teenth is 1/16.
+1. For a single ball-picking event involving 5 balls, 3 green and 2 blue, the *probability* of picking a green ball is 3/5 = 60%; [the *odds*](http://mathforum.org/library/drmath/view/56706.html) of picking a green ball is (3:2), which is not 60%. An odds of 150% [might make sense](http://www.miniwebtool.com/ratio-to-percentage-calculator/?numerator=3&denominator=2), [depending on who you ask](https://en.wikipedia.org/wiki/Odds#Mathematical_relations).
+1. The number of prime numbers decreases as the number goes up. However the number of prime numbers is still infinite.
