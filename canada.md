@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [There are no speed cameras](https://en.wikipedia.org/wiki/Speed_limit_enforcement#Canada), only speed police.
 1. Of the [five largest Canadian law firms](https://www.investopedia.com/articles/active-trading/090315/5-biggest-canadian-law-firms.asp) (Borden Ladner Gervais, Gowling Lafleur Henderson, Fasken Martineau DuMoulin, Norton Rose Fulbright Canada, Blakes), you have heard of none of them.
 1. Canada and US had different switchover dates for daylight saving time [before 2007](https://www.timeanddate.com/news/time/canada-daylight-saving.html).
 1. [Lloydminster](https://en.wikipedia.org/wiki/Lloydminster), a town that lies right on the border between AB and SK, follows AB time. Residents get addresses in Lloydminster AB or Lloydminster SK based on which side of the city the live in. An Arby's can have the address "5019 44 St, Lloydminster, AB", while the Petro Canada across the street can have the address "4911 44 St, Lloydminster, SK".
@@ -152,3 +153,4 @@
 1. Donald's dominating, jerking-the-person-towards-him handshake can be mitigated by simply [resting on his own shoulder](https://imgur.com/0fvAaFe)
 1. The vast majority of [Canada's top paid positions](https://www.slice.ca/money/photos/jobs-in-canada-that-pay-300k/#!Anesthesiologist-Jobs-in-Canada-That-Pay-Over-300K) are doctors and company C*Os.
 1. [Hudson's Bay Company is a real estate company](http://business.financialpost.com/news/retail-marketing/u-s-activist-investor-urges-hudsons-bay-co-to-go-private), says activists.
+1. [Stephen Harper](https://en.wikipedia.org/wiki/Stephen_Harper) was the first prime minister to employ a personal stylist, [Michelle Muntean](http://www.ctvnews.ca/stephen-harper-s-stylist-no-longer-on-public-payroll-1.513467), whose duties range from coordinating his clothing to preparing his hair and makeup for speeches and television appearances.

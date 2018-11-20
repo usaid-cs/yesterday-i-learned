@@ -59,3 +59,4 @@
 1. Hillary Clinton once said [Pokemon Go to the polls](https://duckduckgo.com/?q=pokemon+go+to+the+polls) in an attempt to get young people to vote.
 1. [Matthew Fredrick "Matthias"](http://matthias.wikia.com/wiki/Matthias) is the CEO of Hi5 Studios. As it turns out, [half of everyone there is a C-something-O.](http://hi5studios.com/team/)
 1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.
+1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.

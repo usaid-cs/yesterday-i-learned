@@ -14,3 +14,6 @@
 1. [Switzerland does not have a capital city.](https://en.wikipedia.org/wiki/Switzerland#The_capital_or_Federal_City_issue) Bern is not a capital, but sure feels like one.1. [Sparta](https://en.wikipedia.org/wiki/Sparta_%28modern%29) is now the capital of the region of [Laconia](https://en.wikipedia.org/wiki/Laconia), an [unremarkable](https://goo.gl/maps/nXTVeBTRVN52) part of Greece.
 1. Guatemala is the country below Mexico.
 1. Reno NV is farther west than Los Angeles CA.
+1. [Jakarta is sinking](https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html?_r=0).
+1. Singapore has a latitude of ~1.28.
+1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.

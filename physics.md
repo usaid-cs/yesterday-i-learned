@@ -52,3 +52,5 @@
 1. No free (Android) app corrects fisheye images because [it's hard](https://www.lonelyspeck.com/defish/).
 1. By detecting the Earth's mass, magnetic field strength, and earthquake data, scientists conclude that the center of the Earth is made of solid iron, with liquid iron surrounding it.
 1. We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
+1. [Why does light travel?](http://www.reddit.com/r/explainlikeimfive/comments/22pi7o/eli5_why_does_light_travel) Because **spacetime** is a two-dimensional vector of a set length; an object can travel through space and time. In photons' case, they travel entirely through space, and not at all through time (which gives the impression that nothing can ever be "faster" than light). For ordinary, massive objects, they mainly travel through time.
+1. Snowflakes can in fact [be alike](http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html); the major factor is air turbulence, which can be controlled.

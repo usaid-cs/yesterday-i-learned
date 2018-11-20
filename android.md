@@ -85,3 +85,4 @@
 1. In Tasker, "top priority" is 50, not 1.
 1. The Samsung Galaxy Note II (Note 2) had a 5.5 inch screen, the size everyone has today. Nexus 6p, which was never sold as a phablet, share the same screen size with the Note 3, 4, 5, and 7.
 1. [Accelerometer readings can be used to reverse engineer what you were typing](https://www.youtube.com/watch?v=metkEeZvHTg), including passwords. Video was from 2011.
+1. People can totally downgrade your APK while preserving data with the 'adb -r -d' options.

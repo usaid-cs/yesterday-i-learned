@@ -151,3 +151,5 @@
 1. E162 [Betanin](https://en.wikipedia.org/wiki/Betanin) aka Beetroot red is the name of the red food dye. Betanin degrades when subjected to light, heat, and oxygen.
 1. Iridium is also the third least abundant rare earth element, so anything with iridium implies it being expensive.
 1. Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"
+1. The phytohemagglutinin in as few as 25 unsoaked kidney Beans can kill you. If they are slow cooked, the toxicity increases fivefold.
+1. Chloroform won't knock someone out in seconds. It takes minutes.

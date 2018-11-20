@@ -12,3 +12,4 @@
 1. The word Christ is derived from the Greek Χριστός (Christos), which is a translation of the Hebrew משיח (Meshiakh), meaning the "anointed", and usually transliterated into English as "Messiah". It is not part of Jesus' name.
 1. On at least one occasion, [God told two bears to maul 42 boys to death](https://biblehub.com/2_kings/2-24.htm), so it is within reason that God wants (some) people to die.
 1. There are two James and two Simons apostles.
+1. [God definitely pulled an Anakin](https://knowyourmeme.com/memes/i-killed-them-all) in 1 Samuel 15: ["Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys"](https://www.biblegateway.com/passage/?search=1+Samuel+15&version=NIV)

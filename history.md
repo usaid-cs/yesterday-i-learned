@@ -96,3 +96,9 @@
 1. Stalin (born "Ioseb Besarionis dze Jughashvili") read Marx. He came after Marx.
 1. Treadmills were a prison torture device, which also treaded grains (one of it uses). Prisoners did so for six hours a day, which led to malnutrition and death. Modern gyms typically allow you to stop jogging before the six hour mark. (ted.com)
 1. "Back in the 80ies and early 90ies disks were already shipped with bad sectors from the factory and had the bad sectors lists on their drive label. You would have to enter them when low-level formatting a drive." - /u/cbmuser
+1. [Alfred the Great](https://en.wikipedia.org/wiki/Alfred_the_Great) and [Cnut the Great](https://en.wikipedia.org/wiki/Cnut_the_Great) (actually Scandinavian) were the two English Monarchs that were given the title "the Great".
+1. [North Korea almost won the war.](https://www.reddit.com/r/MapPorn/comments/84ggqj/korean_war_19501953_640x640/)
+1. Latvia has plenty of potatoes. It was during the soviet times when they (reportedly) didn't have enough.
+1. At 150m, the [Old St paul's Church](https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral) showed us that people in the 1300s can build extraordinarily tall buildings.
+1. The first batch of volunteers from the Royal Hong Kong Regiment consisted of 99 European men.
+1. Nixon was the only US president to resign from office.
