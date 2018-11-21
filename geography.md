@@ -17,3 +17,4 @@
 1. [Jakarta is sinking](https://www.nytimes.com/interactive/2017/12/21/world/asia/jakarta-sinking-climate.html?_r=0).
 1. Singapore has a latitude of ~1.28.
 1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.
+1. Australia has over 10000 beaches.

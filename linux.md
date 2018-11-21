@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. If you add [`StrictHostKeyChecking no`](https://stackoverflow.com/questions/21383806/how-can-i-force-ssh-to-accept-a-new-host-fingerprint-from-the-command-line) to your `.ssh/config`, or run ssh as `ssh -o 'StrictHostKeyChecking no'`, then it will accept any host key without asking you (or your scripts) first.
 1. Tarsnap is a portmanteau (which is a portable all-in-one closet, by the way) of `tar`, and "snapshot", which tarsnap does.
 1. `inotify` watch limits appear to be put in to [limit memory use](https://stackoverflow.com/questions/535768/what-is-a-reasonable-amount-of-inotify-watches-with-linux), rather than to limit CPU use.
 1. To make KDE not hiccup while moving files to the trash, [uncheck the "Limit to maximum size" option](https://forum.kde.org/viewtopic.php?f=224&t=140002). Observe that trash operations become instant.

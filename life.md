@@ -21,3 +21,12 @@
 1. [If I am to change this image, I must first change myself.](http://thinkexist.com/quotation/sharks--reciting-i_am_a_nice_shark-not_a_mindless/340378.html)
 1. *Practice speaking with a pen in your mouth for a few minutes every day. It forces you to really enunciate what you're saying, ...* - 213Compton
 1. "Good at cooking" and "Good at washing dishes" are apparently very good things to put on dating site profiles (if you have one). Of course, liking to cook and liking to wash dishes are another story.
+1. [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
+1. Want to cancel something attached to your home? Just claim to be moving in with someone else.
+1. [Leaving your comfort zone](http://lifehacker.com/how-being-uncomfortable-helps-you-grow-1748360327) is the only way one can grow.
+1. Making yourself happy is not your wife's job. It is your own job. (You know what I mean)
+1. Whenever you meet someone for the first time every day, [wait a second, then do your best heartfelt smile on your face.](https://www.youtube.com/watch?v=R3UODz5O8zo) 😂😂😂
+1. One technique to get people to like you is called "the glove". When in a group, for a short period of time, pay your entire attention to that person.
+1. How to stop being the guy that rarely says anything: "[talk louder and don't mumble](http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/), it makes what you say seem more important and keeps you in the conversation more."
+1. Believing you are a winner [makes you a worse person](https://medicalxpress.com/news/2018-08-believing-youre-winner-men-testosterone.html) ("gives men a testosterone boost and promiscuous disposition"). Touching physical cash also gives you a similar testosterone boost.
+1. Doctors merely delay the inevitable.

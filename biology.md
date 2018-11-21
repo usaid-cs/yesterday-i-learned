@@ -1,3 +1,4 @@
+1. Any surgery involving the removal of your ovaries (if you were born with some) will render you "hormonally fucked for life" (/u/FinalDoom). In the case of hysterectomies (removal of the uterus), make sure the doctor leaves the ovaries there.
 1. The Achilles tendon can [rupture](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) simply by not stretching before bending up your foot. Rehab is long, and the recovery is awful. Chances of you getting it is 1 in 0.01%.
 1. [Resiniferatoxin](https://www.wired.com/story/resiniferatoxin/), an analog of capsaicin from the [resin spurge](https://en.wikipedia.org/wiki/Euphorbia_resinifera), is so hot on the Scoville scale that it permanently burns and damages taste buds. Resiniferatoxin is toxic and can inflict a chemical burn in microscopic quantities.
 1. [Breast milk can be bought online](http://www.onlythebreast.com/). It is contaminated with/by fecal matter, but since [babies benefit from fecal matter](http://thepowerofpoop.com/epatients/fecal-transplant-faqs/), the decision is arguably good for you.
@@ -775,3 +776,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. It takes three weeks for a "head and shoulders"-like shampoo with pyrithione zinc to treat dandruff, caused by the Malassezia fungus.
 1. There are [*a lot*](http://www.npr.org/sections/krulwich/2011/06/01/128389587/look-up-the-billion-bug-highway-you-cant-see) of bugs in the sky. Like billions in a square kilometre of sky.
 1. The *Guinea Worm* is a parasite that only infects humans. It enters through the digestive system, and reproduces by crawling out of the victim's foot. It will most likely be the first parasite to ever be eradicated.
+1. It's the cumin, more than other ingredients, that causes the classic curry body odour. Garlic and onion can, unrelatedly, cause breath problems.
+1. Egg-laying chickens are usually killed by the 130th week, when they are done producing around 200g of cholesterol.

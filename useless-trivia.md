@@ -60,3 +60,4 @@
 1. [Matthew Fredrick "Matthias"](http://matthias.wikia.com/wiki/Matthias) is the CEO of Hi5 Studios. As it turns out, [half of everyone there is a C-something-O.](http://hi5studios.com/team/)
 1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
+1. Spoiled bitches that have weddings are also called bridezillas.

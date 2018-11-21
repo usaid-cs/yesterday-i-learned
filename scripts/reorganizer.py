@@ -23,7 +23,7 @@ def remove_item(pattern):
     file_path = 'random.md'
     #Create temp file
     fh, abs_path = mkstemp()
-    with fdopen(fh,'w') as new_file:
+    with fdopen(fh, 'w') as new_file:
         with open(file_path) as old_file:
             for line in old_file:
                 if pattern not in line:

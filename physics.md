@@ -1,3 +1,5 @@
+1. Shutter *speed* and exposure *time*, being synonyms, are both units of time.
+1. Noise reduction by averaging two photos only reduces noise by [the square root of the number of measurements](https://en.wikipedia.org/wiki/Signal_averaging).
 1. The unit Kelvin does not come with the word "degrees" because it is considered absolute. Also, Since the triple point of water is at 273.16K but 0 degrees Celsius is 273.15K, [water actually boils at 99.974 degrees Celsius](https://www.youtube.com/watch?v=rjht4oAByCI).
 1. For paranoid people who think [people can see them through walls](https://www.youtube.com/watch?v=kBFMsY5ZP0o), [EMF shielding paints](https://lessemf.com/paint.html) is for you!
 1. [Cold fusion exists](https://www.youtube.com/watch?v=aDfB3gnxRhc). Muons ("heavy electrons") hold nuclei 200x closer together, making them much more likely to fuse, which means it can occur at room temperature. Unfortunately the input energy to generate a muon is still higher than the energy you get back from fusion, so it's still useless right now.
@@ -54,3 +56,5 @@
 1. We do not have enough nuclear weapons to blow up the moon. Even if we do, the moon would just clump back into a moon-size chunk.
 1. [Why does light travel?](http://www.reddit.com/r/explainlikeimfive/comments/22pi7o/eli5_why_does_light_travel) Because **spacetime** is a two-dimensional vector of a set length; an object can travel through space and time. In photons' case, they travel entirely through space, and not at all through time (which gives the impression that nothing can ever be "faster" than light). For ordinary, massive objects, they mainly travel through time.
 1. Snowflakes can in fact [be alike](http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html); the major factor is air turbulence, which can be controlled.
+1. [The HyperLoop doesn't work](https://www.youtube.com/watch?v=RNFesa01llk) because the vacuum required is never going to be happen with all the stupid people around. (Imagine a loser poking a hole in the loop and everyone is screwed, or a dude throwing a stone into a turbine or something)
+1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.

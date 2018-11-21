@@ -19,3 +19,8 @@
 1. You can [buy debt](https://www.youtube.com/watch?v=hxUAntt1z2c) for a fraction of the actual amount of the debt, in the hopes that the debt will eventually be paid back. This is also why banks sell debt: they don't think the debt will be paid back.
 1. Just like setting a price target for when to sell if a stock goes up, you are also supposed to set a target for when to sell if a stock goes down.
 1. At an annual interest rate of 2%, it takes 350 years to turn a dollar into a thousand dollars (or a hundred dollars in two hundred and thirty four years).
+1. The Swiss sell [negative yield bonds](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
+1. "The fact that 90% of people use [BitCoin] for speculation rather than as currency is all the proof you need that it's a bubble"
+1. A [hostile bid](https://www.investopedia.com/terms/h/hostile-bid.asp) is a takeover bid that is similar to a [hostile takeover bid](https://www.investopedia.com/terms/h/hostile-takeover-bid.asp)? In a hostile bid, you [convince](https://www.investopedia.com/terms/t/tenderoffer.asp) the shareholders to sell you shares, even if management doesn't like it.
+1. ["The Fed cut rates because it wanted corporations to be able to borrow money cheaply. It reasoned that cheap money would let corporations spend on new projects and take more risks, which would grow the economy out of the recession."](https://moneymorning.com/2017/02/17/warning-signs-a-stock-market-crash-is-coming/)
+1. It is illegal to pay your mortgage with loaned money, at least in the US.

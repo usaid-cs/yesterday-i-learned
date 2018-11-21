@@ -102,3 +102,6 @@
 1. At 150m, the [Old St paul's Church](https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral) showed us that people in the 1300s can build extraordinarily tall buildings.
 1. The first batch of volunteers from the Royal Hong Kong Regiment consisted of 99 European men.
 1. Nixon was the only US president to resign from office.
+1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.](https://www.reddit.com/r/AskHistorians/comments/2v0l8c/is_it_actually_true_that_benjamin_franklin_was/)
+1. The Romans cooked lettuce. They rarely ate it raw.
+1. Rice was Hong Kong's primary agricultural product. There were still rice farmers in Hong Kong in the 1960s and even the 1980s.
