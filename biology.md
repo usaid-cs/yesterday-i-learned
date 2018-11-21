@@ -1,3 +1,4 @@
+1. Euthanasia is neither a natural nor unnatural cause of death.
 1. Any surgery involving the removal of your ovaries (if you were born with some) will render you "hormonally fucked for life" (/u/FinalDoom). In the case of hysterectomies (removal of the uterus), make sure the doctor leaves the ovaries there.
 1. The Achilles tendon can [rupture](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) simply by not stretching before bending up your foot. Rehab is long, and the recovery is awful. Chances of you getting it is 1 in 0.01%.
 1. [Resiniferatoxin](https://www.wired.com/story/resiniferatoxin/), an analog of capsaicin from the [resin spurge](https://en.wikipedia.org/wiki/Euphorbia_resinifera), is so hot on the Scoville scale that it permanently burns and damages taste buds. Resiniferatoxin is toxic and can inflict a chemical burn in microscopic quantities.
