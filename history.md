@@ -1,3 +1,4 @@
+1. [In the 1960s and 1970s, Kuwait was the most developed country in the region](https://en.wikipedia.org/wiki/Kuwait#History), with its press described as one of the freest in the world.
 1. [Jingle Bells](https://www.cbc.ca/news/canada/british-columbia/jingle-bells-christmas-song-started-as-a-drinking-song-written-by-a-jerk-1.2874860) was a thanksgiving drinking song.
 1. Pizza ("putting things on bread") is such an old concept that [no one has any idea when exactly it was invented](https://en.wikipedia.org/wiki/History_of_pizza).
 1. [Leif Erikson](https://en.wikipedia.org/wiki/Leif_Erikson) the Norse explorer went to America long before Chris did.
@@ -105,3 +106,5 @@
 1. "Benjamin Franklin was not trusted to write the Declaration of Independence because he might hide a joke in it" is false. [He simply did not care to write it, disliking his work being edited by others.](https://www.reddit.com/r/AskHistorians/comments/2v0l8c/is_it_actually_true_that_benjamin_franklin_was/)
 1. The Romans cooked lettuce. They rarely ate it raw.
 1. Rice was Hong Kong's primary agricultural product. There were still rice farmers in Hong Kong in the 1960s and even the 1980s.
+1. People didn't move from the Bronze Age to the Iron Age because iron is better; rather, the [tin trade](https://en.wikipedia.org/wiki/Bronze) was disrupted, and that prevent production of bronze with copper.
+1. Bronze definitely existed during Jesus' times. Even Iron Age was over by 600 BC.

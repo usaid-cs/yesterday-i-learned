@@ -1,3 +1,4 @@
+1. Time dilation can also be thought of as [length contraction](https://www.youtube.com/watch?v=rVzDP8SMhPo). An object that is travelling at the speed of light towards you, also thinks you are travelling at light speed towards it. And you look just a fraction of your actual length dependent on your speed. This allows muons, which would normally only travel 500m before going away, to travel 10km worth of atmosphere.
 1. Shutter *speed* and exposure *time*, being synonyms, are both units of time.
 1. Noise reduction by averaging two photos only reduces noise by [the square root of the number of measurements](https://en.wikipedia.org/wiki/Signal_averaging).
 1. The unit Kelvin does not come with the word "degrees" because it is considered absolute. Also, Since the triple point of water is at 273.16K but 0 degrees Celsius is 273.15K, [water actually boils at 99.974 degrees Celsius](https://www.youtube.com/watch?v=rjht4oAByCI).
@@ -58,3 +59,4 @@
 1. Snowflakes can in fact [be alike](http://www.nytimes.com/2016/01/23/science/who-ever-said-no-two-snowflakes-were-alike.html); the major factor is air turbulence, which can be controlled.
 1. [The HyperLoop doesn't work](https://www.youtube.com/watch?v=RNFesa01llk) because the vacuum required is never going to be happen with all the stupid people around. (Imagine a loser poking a hole in the loop and everyone is screwed, or a dude throwing a stone into a turbine or something)
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
+1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.

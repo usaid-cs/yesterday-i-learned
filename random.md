@@ -1,3 +1,8 @@
+1. [Nine currencies](https://www.bookmyforex.com/blog/top-10-highest-currency-world-2018/) currently exist with a value higher than that of USD.
+1. People in Sichuan eat spiced rabbit heads ("麻辣兔頭") as beer food.
+1. An odd vector of attack is through Amazon purchases. By buying something from a Chinese seller, you will have given them a) your name, b) your address, and c) what you like to buy, which is more valuable than the discount they give you. (Paraphrased from bredren's comment)
+1. [Lexus made a real hoverboard.](https://www.youtube.com/watch?v=bvYUq6Ox0Hc) It contains cooled superconductors that allow the board to hover above a track. (That means it's not useful)
+1. Only [one out of seven chapters](https://www.youtube.com/watch?v=wvYeIfvtJM0) of the Kamasutra was about sex. The rest is about living a leisurely life.
 1. Cottage industries are businesses that are carried out at home.
 1. Terraform scripts *cannot* be imported based on the state alone (which would only update the `tfstate` file if you run `terraform import ...`). [You need to write your own scripts.](https://www.terraform.io/docs/providers/aws/r/s3_bucket.html)
 1. If you think Samoa swapping between UTC-11:00 and UTC+13:00 timezones isn't annoying enough, [they also have daylight savings](https://en.wikipedia.org/wiki/Time_in_Samoa), to a UTC+14:00, during summer in the *southern* hemisphere.
@@ -160,7 +165,6 @@
 1. ["I have zero trust in Proton<anything> after learning, that the free ProtonVPN service is provided by a data mining company from Eastern Europe."](https://news.ycombinator.com/item?id=17775326) ["The company that 'officially' operates ProtonVPN is ProtonVPN AG, a Switzerland based company. However, the business is in reality operated by PROTONVPN LT, UAB a Lithuania based company ... ultimately run by Tesonet ... operating a data mining operation out of Lithuania."](https://news.ycombinator.com/item?id=17258203)
 1. "Better half" means one's spouse.
 1. Magikarp is based on the [myth](http://www.egreenway.com/dragonsrealms/DT3.htm) that if a carp swims all the way upstream and up a waterfall it will turn into a dragon.
-1. Genesis 7:2 clearly says there are *seven* pairs of clean animals.
 1. The phrase is "turn on a dime", meaning "to turn with a small turning radius", because the dime was the smallest US coin in circulation.
 1. ["靠谱"](https://www.echineselearning.com/blog/chinese-slang-kaopu-reliable) means reliable.
 1. "[The 10 Plagues in Exodus are all attacks on Egyptian gods.](https://www.reddit.com/r/AskReddit/comments/9346j9/what_is_something_most_people_dont_know_about_the/e3aw2w6/) For example, turning the Nile to blood: The Nile was a god to the Egyptians, and then turning it to blood was imagery of killing said god. Frogs were also considered gods, and when frogs were going flipping everywhere (plague 6 or something), Egyptians would be horrified to step on one of their gods. Similar to the Nile, when God cast darkness upon Egypt, it was like killing the sun (Egyptian god Ra)." - /u/Azaziah
@@ -344,7 +348,6 @@
 1. [Ramen is a prison currency.](http://bigthink.com/laurie-vazquez/how-ramen-noodles-beat-cigarettes-to-become-a-prison-currency)
 1. "Love handles" are just waist fat.
 1. [A man named Denis](https://www.youtube.com/watch?v=5BT1ov-Pgm4) spent [over $800](https://www.roblox.com/upgrades/robux) on a fake snoplow in [a game where you shovel snow](https://www.roblox.com/games/1252559098/Snow-Shoveling-Simulator).
-1. A man named Clack claims to quit beer to reduce bloat and avoid empty calories.
 1. The interview rate of you after getting fired is equivalent to looking for a job alongside candidates with [5 years of experience fewer](https://talent.works/blog/2018/05/02/the-science-of-the-job-search-part-v-getting-fired-or-laid-off-costs-you-5-years-of-experience).
 1. The toilet paper patent shows it being in the "over" configuration.
 1. You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
@@ -355,7 +358,7 @@
 1. Those tiny bean things sometimes included in sandwiches are either broccoli or [alfalfa](https://en.wikipedia.org/wiki/Alfalfa) sprouts.
 1. To be awarded life insurance money early, use the word *mephitic* (foul smelling) to describe your wife's breath.
 1. Buzzcuts were originally given to prevent head lice.
-1. [An ounce of weed is a large volume](https://i0.wp.com/stuffstonerslike.com/wp-content/uploads/2015/06/ounce-of-weed.jpg?resize=1000%2C750). Clack suggests thinking in the form of fried spices.
+1. [An ounce of weed is a large volume](https://i0.wp.com/stuffstonerslike.com/wp-content/uploads/2015/06/ounce-of-weed.jpg?resize=1000%2C750). Clack suggests thinking in the form of dried spices.
 1. A "bump stock"... uses a gun's recoil to pull the trigger (with the distance between the action and the stock), making it effectively automatic.
 1. Directors for *Girls* finally found HBO's tolerance for (basically pornography on TV) when [they refused to air Adam Driver's ejaculation in fear of losing their licence](https://www.cinemablend.com/television/1620020/the-major-sex-scene-even-hbo-wasnt-comfortable-with).
 1. *Größereswasserloobereich Wassersicherheitsausschuss* probably means "greater waterloo region water safety committee".
@@ -393,7 +396,6 @@
 1. [OWASP](https://www.owasp.org/index.php/Main_Page) is a registered not-for-profit charitable organisation. This explains the crappy wiki being their actual home page.
 1. Those tied-up strings coming out of the ceiling in public washrooms are fall alarms, that should really be near the ground.
 1. IBM Model M keyboards are still membrane keyboards. They just use a "buckling spring" mechanism to give you a precise feedback when that spring hits the membrane. Later, [IBM sold the keyboard business to Lexmark](https://www.youtube.com/watch?v=D7wmMZmMinM), after which the Model M keyboards became straight-out rubber domes.
-1. Natalie went 100% nuts in [her rap 2.0 video](https://www.youtube.com/watch?v=B8K9jAJ3Ong) like Britney did.
 1. [Harry S Truman's "S" stood for nothing.](https://en.wikipedia.org/wiki/Harry_S._Truman#Early_life_and_career) The S was a common practice to honour two or more ancestors whose names start with S.
 1. [If you aren't the top 10% in a dating app, then you probably aren't getting likes](https://qz.com/1051462/these-statistics-show-why-its-so-hard-to-be-an-average-man-on-dating-apps/), says article. On a bell curve, that might translate to anyone on or below an 8.
 1. Nike *did* create [self-lacing shoes](https://sneakernews.com/2017/06/30/nike-announces-nike-hyperdapt-2-0-more-affordable/). [This video](https://www.youtube.com/watch?v=aXvcy6gp6mU) claims the application helps people who have spinal injuries and can't tie shoes, but these are running shoes.
@@ -525,7 +527,6 @@
 1. The Dolly Zoom can only be achieved by the camera also moving back and forth. [People (also) tend to look better in telephoto because their faces aren't stretched by the wider lens.](https://www.youtube.com/watch?v=u5JBlwlnJX0)
 1. There is no reason to pre-order anything that cannot run out, including online games, and especially online games with DLCs.
 1. Parmesan cheese is *imitation* [parmigiano-reggiano cheese](https://en.wikipedia.org/wiki/Parmigiano-Reggiano). Even the Italians rhyme parmesan with partisan (if either word gets to them). That makes pronouncing it as "Parma-john" even more pretentious than it was once thought to be.
-1. [Kanye West never beat a wheelchair basketball team](https://www.snopes.com/fact-check/ball-bearing/) in 2014.
 1. "Spicy bois" originally only referred to fire ants.
 1. A [poon](https://www.urbandictionary.com/define.php?term=poon) now means a little girl's vagina.
 1. 32-bit Windows, with [PAE](https://en.wikipedia.org/wiki/Physical_Address_Extension#Microsoft_Windows), definitely supported more than 4GB of RAM. Windows Server 2003 Enterprise went up to 64GB. It was only the licencing and driver compatibility that capped XP at 4, and Windows 7 Starter at 2.
@@ -555,7 +556,6 @@
 1. Groups of forex traders [sell different currencies in large quantities](https://www.youtube.com/watch?v=TxlTHZ0GmxU) so as to disguise the sale while the price remains constant.
 1. Brit Bro [Lawrence Oates](https://en.wikipedia.org/wiki/Lawrence_Oates), when his feet had become severely frostbitten at the South Pole, he said "I am just going outside and may be some time", left the tent, and sacrificed himself for others' chances of survival.
 1. [JWs believe in one god. Mormons believe in a three-part god.](https://classroom.synonym.com/mormon-religious-beliefs-versus-jehovah-witness-beliefs-12086665.html)
-1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
 1. [Tim Horton](https://en.wikipedia.org/wiki/Tim_Horton) was a Hockey player. He died crashing [his car](https://en.wikipedia.org/wiki/De_Tomaso_Pantera).
 1. There are many ["Game sevens"](https://en.wikipedia.org/wiki/Game_seven) before the [Stanley Cup playoffs](https://en.wikipedia.org/wiki/2018_Stanley_Cup_playoffs). Even if the Leafs won this "Game Seven" (first round 2018), what are they going to do, win the Cup? They haven't done that since 1967.
 1. There is [an entire website](https://www.succeedsocially.com/articlecategories) ("Succeed Socially") devoted to helping Asperger's patients (like you) to make friends, instead of posting deep fried memes on the Internet.
@@ -1367,8 +1367,6 @@
 1. [How to build a (gaming) PC](https://www.youtube.com/watch?v=3lrdDID3i7s). Remember, desktops have cables that connect the components.
 1. The alphabet song is the same as twinkle twinkle little star.
 1. "Riga Gold Sprats" is produced in Latvia. This gets more obvious when [Riga](https://en.wikipedia.org/wiki/Riga) is Latvia's capital.
-1. People didn't move from the Bronze Age to the Iron Age because iron is better; rather, the [tin trade](https://en.wikipedia.org/wiki/Bronze) was disrupted, and that prevent production of bronze with copper.
-1. Bronze definitely existed during Jesus' times. Even Iron Age was over by 600 BC.
 1. [Glenn](https://en.wikipedia.org/wiki/Glenn_%28name%29) came from Gaelic "Gleann". Therefore, anyone named *Glen* (with one N) are savages.
 1. Incidentally, Brian (Celtic) and Patricia (Latin) mean the same thing in different languages: noble.
 1. [Bullion](https://en.wikipedia.org/wiki/Bullion) ("Boolean") are the gold bars. [Bouillon](https://en.wikipedia.org/wiki/Bouillon_%28broth%29) ("Bui-yung") are the beef cubes.
@@ -1429,7 +1427,6 @@
 1. Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
 1. There is a German saying "I'm too poor to buy cheap" "Ich bin zu arm, um billig zu kaufen"
 1. A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
-1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.
 1. At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
 1. [Tile's batteries are not user-replaceable.](https://www.amazon.ca/Tile-Combo-Wallet-Finder-4-Pack/dp/B01MF9VQOP/ref=pd_sbs_107_1?_encoding=UTF8&psc=1&refRID=2FA6KEAHKFDTCX7H1ZDK) But [it's just a CR-2032.](https://www.youtube.com/watch?v=k-BTStjaxgw) So why don't they let you replace it yourself? Because it would break the waterproofing? No! Because fuck you, that's why.
 1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
@@ -1528,7 +1525,6 @@
 1. That mentally special ["air horn sound"](https://www.youtube.com/watch?v=QVw5mnRI8Zw) found in many new songs are from a rap trend in the 80s.
 1. [Asking potential employers "how do you reward tenure?" during an interview is very revealing about the company.](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 1. "HODL" is a typo of HOLD. It originated [here](https://bitcointalk.org/index.php?topic=375643.0).
-1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten). This is called the Lipstick Effect.
 1. Putting an employee on PIP (performance improvement plan), whether or not there is a performance issue, is [a great way to legally fire someone for no reason](https://www.thebalance.com/is-a-pip-the-first-step-in-firing-an-employee-3980663).
 1. Ask for directions from a dog walker. Dog walkers are likely local, likely walk a lot, and likely know the roads on which they walk.
 1. *Yinz* is Pittsburghers' unique version of *Y'all*.
@@ -1762,7 +1758,6 @@
 1. A [*charlotte*](http://imgur.com/nljKA2I) is "a large soft hat covering all of the hair and typically having a decorative frill, worn indoors by women in the 18th and early 19th centuries."
 1. Bud light is [so bad on ratebeer](https://www.ratebeer.com/beer/bud-light/474/), its overall rating of 0 turned into n/a.
 1. *[That](https://en.wikipedia.org/wiki/Eat,_Pray,_Love)'s that girl who [wrote that book based on that movie](https://youtu.be/_waBFUg_oT8?t=31s).*
-1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.
 1. People who like doing presentations often strategically choose awkward people to do group projects, do they don't need to do the projects themselves, just doing the presentation.
 1. [No current flag has only one colour.](https://en.wikipedia.org/wiki/List_of_flags_by_number_of_colors) And, as expected, [most flags are red and white](http://www.infocaptor.com/dashboard/color-and-pattern-analysis-on-flags-of-countries-simple-visualization-but-interesting-data), with blue being the third most popular colour, and [red, white, blue, green, yellow, black] covering the vast majority.
 1. [You can't just say cheese for pizza](https://www.youtube.com/watch?v=u5AZhjhbxf8&app=desktop): "*Just cheese* is one ingredient away from grilled cheese and two ingredients away from being just bread."
@@ -1938,7 +1933,6 @@
 1. ["Cowlick"](https://en.wikipedia.org/wiki/Cowlick) refers to the part of the haircut where it points at you, making it look like you have no hair there.
 1. "86ing a product is when you're all out, 86ing a customer is when they are banned from the business."
 1. "What's your poison" specifically refers to drinks.
-1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.
 1. [Every digit of pi is equally likely (at least it is, in the first 10 million digits).](http://blogs.sas.com/content/iml/2015/03/12/digits-of-pi.html)
 1. "Pizza dates" are a possible alternative to coffee dates. It helps establish pizza compatibility, which is a big part of relationships.
 1. [**Breakfast is not the most important meal of the day.**](https://www.reddit.com/r/explainlikeimfive/comments/5zby7f/eli5_why_is_breakfast_the_most_important_meal_of/) Kellogg marketing invented this dangerous myth. Eating breakfast increases hunger throughout the day, increasing overall calorie intake, and builds up insulin resistance, leading to diabetes. This doesn't mean "don't eat breakfast"; it just means don't eat a big breakfast.
@@ -2004,7 +1998,6 @@
 1. It gets warmer when it snows, not because snow makes the air warmer, but because the warm air that arrives causes the (otherwise airborne) condensation to arrive as snow.
 1. [Don't type "let me know"](http://letsworkshop.com/blog/the-email-line/) -- it doesn't work
 1. Use ~~SQS~~ queues to manage spikes in demand. Can't do something right now? Chuck the request to a queue. Take things off the queue at constant rate.
-1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
     * You're `tee`ing here to pipe the 3 into a root command. [Neat](http://www.linuxinsight.com/proc_sys_vm_drop_caches.html)!
 1. App engine admin: `--admin_port=8001`
 1. [RFC 2324](https://www.ietf.org/rfc/rfc2324.txt) for coffee pot communication (not HTTP 418; that's for tea pots)
@@ -2271,7 +2264,6 @@
 1. Because PhotoShop, printers, and scanners refuse to print/edit images with the Eurion Constellation on them, there is [a prank app](http://wildsparx.com/eurionize/) that adds it to an image you intend to "simple copy protect".
 1. [Soy sauce and wasabi are not meant to be used in sushi, unless they have already been added by the chef.](https://medium.com/gone/the-ten-commandments-of-sushi-4eac45192c7d) (See article for 9 other points). They are also lunch items, meant to be consumed immediately, ordered piecewise, and served with sake while half of the piece is in the mouth.
 1. [Horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) states that one extreme is just the same as the other extreme. Extreme right wings are similar to extreme left wings.
-1. [Growth like weeds](https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth) does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
 1. [Oxygen candles](http://en.wikipedia.org/wiki/Chemical_oxygen_generator) produce emergency oxygen.
 1. [Imprint the student newspaper is a play on words based on gosling imprinting](http://en.wikipedia.org/wiki/Imprinting)
 1. The [ten code list](http://everets.org/kevin/ten-codes.php) is used by public infrastructure to notify employees of emergencies without telling the public what exactly is happening. The most famous one is perhaps "10-4" (OK).

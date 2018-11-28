@@ -18,3 +18,4 @@
 1. Singapore has a latitude of ~1.28.
 1. China's version of ["Salt city"](https://goo.gl/maps/WE44fxjeRNJ2) is nowhere close to Salt lake city.
 1. Australia has over 10000 beaches.
+1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.

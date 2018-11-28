@@ -202,6 +202,7 @@ undefined
 * [`isNaN(...)` is not the same as `Number.isNaN(...)`](https://stackoverflow.com/questions/25176459/is-number-isnan-more-broken-than-isnan), where `Number.isNaN(undefined)` is false, but `isNaN(undefined)` is true. In other words, [`Number.isNaN()` is probably the one you want](https://stackoverflow.com/a/25176688/1558430).
 * Simply leaving out the [fractional part](https://en.wikipedia.org/wiki/Fractional_part) of a number, i.e. `123.` instead of `123.0`, is completely valid symtax.
 * Unicode is allowed as variable names; emojis are not.
+* In the line `var a = a || 5`, by the time the second `a` is accessed, `var a` has already run, so it will not throw ReferenceError.
 
 ## Deferred API
 

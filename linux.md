@@ -276,3 +276,4 @@ After press `Ctrl+B`, followed by
 [wikipedia]: https://en.wikipedia.org/wiki/Nohup
 [wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
 [winterdrake]: http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/
+1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.

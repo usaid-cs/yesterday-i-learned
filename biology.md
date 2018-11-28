@@ -779,3 +779,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. The *Guinea Worm* is a parasite that only infects humans. It enters through the digestive system, and reproduces by crawling out of the victim's foot. It will most likely be the first parasite to ever be eradicated.
 1. It's the cumin, more than other ingredients, that causes the classic curry body odour. Garlic and onion can, unrelatedly, cause breath problems.
 1. Egg-laying chickens are usually killed by the 130th week, when they are done producing around 200g of cholesterol.
+1. [Growth like weeds](https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth) does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
+1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.

@@ -30,3 +30,4 @@
 1. How to stop being the guy that rarely says anything: "[talk louder and don't mumble](http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/), it makes what you say seem more important and keeps you in the conversation more."
 1. Believing you are a winner [makes you a worse person](https://medicalxpress.com/news/2018-08-believing-youre-winner-men-testosterone.html) ("gives men a testosterone boost and promiscuous disposition"). Touching physical cash also gives you a similar testosterone boost.
 1. Doctors merely delay the inevitable.
+1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.

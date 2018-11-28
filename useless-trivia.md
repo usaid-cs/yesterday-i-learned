@@ -61,3 +61,4 @@
 1. [Giancarlo Esposito](https://en.wikipedia.org/wiki/Giancarlo_Esposito): father Italian, mother African American, born in Copenhagen.
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
 1. Spoiled bitches that have weddings are also called bridezillas.
+1. Natalie went 100% nuts in [her rap 2.0 video](https://www.youtube.com/watch?v=B8K9jAJ3Ong) like Britney did.

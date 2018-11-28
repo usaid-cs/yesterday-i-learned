@@ -1,3 +1,4 @@
+1. The English word "Merchant" came from Latin *mercatare*, to trade.
 1. [Mottainai!](https://en.wikipedia.org/wiki/Mottainai) 勿体無い, which means "What a waste!", is the Japanese version of reduce, reuse, recycle.
 1. [Jesus was born in a "manger"](https://www.biblegateway.com/passage/?search=Luke+2&version=NIV), aka feeding tub for animals. Manger comes from French *manger*, to eat.
 1. "Platform" is uninterestingly *plate-forme* in French.

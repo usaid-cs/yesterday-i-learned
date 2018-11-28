@@ -31,6 +31,12 @@
 1. It may be true that you can only communicate in English or French.
 1. According to the International telecommunication Union (ITU), you cannot talk to some countries. Check a list.
 
+## Electronics
+
+## Antennas
+1. Antenna traps "cut" the antenna so the place where you put the trap will cause the antenna to "not be there".
+1. A balun is an impedance transformer, to match two transmission lines of different impedances. You can flip a 6:1 balun to get a 1:6 balun.
+
 ## Links
 1. http://hamstudy.com/
 1. https://hamstudy.org/
