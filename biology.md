@@ -1,3 +1,21 @@
+1. [The world looks dimmer to you as you age](https://blog.humanscale.com/ergonomic-lighting-modern-workplace): "those in their mid-sixties require three times the amount of light to be able to read the same paper", compared to those in their twenties.
+1. [Western sea pigs](https://en.wikipedia.org/wiki/Scotoplanes) are remarkably different from [Eastern sea pigs](https://en.wikipedia.org/wiki/Dolphin).
+1. People in [the island of Icaria](https://en.wikipedia.org/wiki/Icaria) (Greece) live to 80, 90, and even 100 years old, with a healthy lifestyle and no access to GM and processed foods, but it suffers from 40% unemployment.
+1. Smokers who taper down often find it harder to quit than those who simply quit cold turkey. They inhaled more strongly and got more pleasure out of the fewer cigarettes.
+1. Going on diet weakens muscles before it does fat.
+1. Exercise benefits the mind too, so go do your exercises, like swimming and cycling.
+1. Men should be 10~13% fat by weight. That's one inch of skin fold.
+1. Exercise at least 3 times a week, each session between 65% and 85% max heart rate.
+1. Pain is not gain for sports.
+1. Rats born to alcohol-fed mothers show distinct female instead of male behaviour.
+1. Taking more than 2.5g of calcium a day interferes with iron absorption. but you need at least 1g a day.
+1. Bone density continues to build until age 35.
+1. Too much protein can stress the body, kidney in particular, with having to excrete more urea.
+1. More than 200mg/dL of total cholesterol is considered too high. Your caloric intake should be less than 30% from fat, and that should be mostly from plants.
+1. Pick soft margarine (55% non hydrogenated) instead of the hard ones.
+1. Eat steamed cold-water fish 3 times a week.
+1. One in seven Canadians develop skin cancer I their lifetime.
+1. Ringworm can cause hair loss.
 1. Euthanasia is neither a natural nor unnatural cause of death.
 1. Any surgery involving the removal of your ovaries (if you were born with some) will render you "hormonally fucked for life" (/u/FinalDoom). In the case of hysterectomies (removal of the uterus), make sure the doctor leaves the ovaries there.
 1. The Achilles tendon can [rupture](https://en.wikipedia.org/wiki/Achilles_tendon_rupture) simply by not stretching before bending up your foot. Rehab is long, and the recovery is awful. Chances of you getting it is 1 in 0.01%.

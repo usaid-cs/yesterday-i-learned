@@ -1,3 +1,4 @@
+1. Doubles the risk means nothing if the original risk is 1 out of 10 million.
 1. 'NP-hard [problems](https://www.quantamagazine.org/a-short-guide-to-hard-problems-20180716/) might be in NP, or in a much higher complexity class (as you can see from the Euler diagram), or they might not even be decidable problems. That's why people often say something like ["NP-hard means at least as hard as NP"](https://softwareengineering.stackexchange.com/a/308184/116811) when trying to explain this stuff informally.'
 1. [Tuple](https://en.wikipedia.org/wiki/Tuple) does not mean an element of two. The suffix "-tuple" starts at five, "quan*tuple*", and *n*-tuple is now used to describe a tuple of length n.
 1. If matrix multiplication means [placing the second matrix on top of the first one, and calculating the dot products successively](http://matrixmultiplication.xyz/), then in order to multiply two matrices, the number of columns of the first must equal to the number of rows of the second.
@@ -18,3 +19,4 @@
 1. The number of prime numbers decreases as the number goes up. However the number of prime numbers is still infinite.
 1. [It is not true that a billiards ball-sized earth is smoother than a billiards ball](https://www.youtube.com/watch?v=mxhxL1LzKww). The maximum allowed radius deviation of a billiards ball only concerns the width and height, not roughness.
 1. If something has never occurred (like finding no typos in the first 10 pages of a book doesn't mean the rest of the book has no typos either), then [this post](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/) says the probability of finding a typo in any page is `< 3/N`, where N is the number of pages you already looked at.
+1. A quart is called a quart because it is a quarter gallon, my dude. [The smallest crock pot](https://www.amazon.com/dp/B0000CCY14/) comes in at "16 ounces", which is "one half quarter gallon".

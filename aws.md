@@ -26,3 +26,4 @@
 1. ["Cloudfront only accepts certificates hosted in region us-east-1."](https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394) - Sebastian, in 2017
 1. You can't share (with another account) an RDS snapshot that was encrypted with the default RDS key.
 1. CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.
+1. `aws s3 cp` works similar to `cp`, except `-r` doesn't work, but `--recursive` does.

@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. Don't *want* to change. *Decide* to change.
 1. "Move to management. Fluff the resume a bit and put yourself out there as someone who can manage a decent term project and get stuff done. Job interviews, much like everything in life, comes down to 10% what you say, and 90% how you say it. Come across as wise not old, confident not down on yourself, and have an air of "If you don't hire me you're a f'in moron" without actually saying that, and you might be surprised what you get."
 1. [People don't like others who complain all the time.](https://www.reddit.com/r/socialskills/comments/59vdlf/15_glaring_signs_of_social_incompetence_you_want/)
 1. When in an argument, act like you are being recorded. In fact, forget about the argument altogether. Always act as if you are being recorded.
@@ -31,3 +32,5 @@
 1. Believing you are a winner [makes you a worse person](https://medicalxpress.com/news/2018-08-believing-youre-winner-men-testosterone.html) ("gives men a testosterone boost and promiscuous disposition"). Touching physical cash also gives you a similar testosterone boost.
 1. Doctors merely delay the inevitable.
 1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
+1. You need to meet [just half](https://talent.works/blog/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements) of a job posting's requirements to get the job [with the highest probability].
+1. Don't work somewhere before [asking people who work there](https://hharnisc.github.io/2018/11/25/twenty-questions-to-ask-before-joining-a-startup.html), "what about your role are you enjoying".

@@ -1,3 +1,11 @@
+1. [Shingled hard drives](https://en.wikipedia.org/wiki/Shingled_magnetic_recording) records data [partly over the adjacent tracks](http://abdulmoeez55.blogspot.com/2015/12/shingled-magnetic-recording-smr.html), which increases storage capacity but introduces write latency as well.
+1. The J in the phonetic alphabet is Juliett instead of Juliet, to prevent the French pronunciation from being different.
+1. The six needless injuries are car crashes, falls, fires, suffocation, poisoning, and drowning.
+1. It is absolutely legal to name your child [ABCDE](https://www.cnn.com/2018/11/30/us/abcde-southwest-apologizes-scli-intl/index.html). According to the mother, that name is pronounced "Ab-si-dee".
+1. There may be some merit to using emojis in git commit messages if [they have standardised semantic meanings](https://gitmoji.carloscuesta.me/).
+1. The Wu-Tang Clams were actually named after [武当](https://en.wikipedia.org/wiki/Wudang_quan)拳.
+1. In a store that is known to sell expensive stuff, [people are more likely to pay more for the products inside](https://philadelphia.cbslocal.com/2018/11/28/payless-palessi-opens-fake-luxury-store-experiment-sells-customers-expensive-shoes-luxury-adweek-marketing/).
+1. Installing a website "as an app" requires [icons](https://developers.google.com/web/fundamentals/app-install-banners/) in the manifest file.
 1. [Nine currencies](https://www.bookmyforex.com/blog/top-10-highest-currency-world-2018/) currently exist with a value higher than that of USD.
 1. People in Sichuan eat spiced rabbit heads ("麻辣兔頭") as beer food.
 1. An odd vector of attack is through Amazon purchases. By buying something from a Chinese seller, you will have given them a) your name, b) your address, and c) what you like to buy, which is more valuable than the discount they give you. (Paraphrased from bredren's comment)

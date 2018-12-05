@@ -203,6 +203,7 @@ undefined
 * Simply leaving out the [fractional part](https://en.wikipedia.org/wiki/Fractional_part) of a number, i.e. `123.` instead of `123.0`, is completely valid symtax.
 * Unicode is allowed as variable names; emojis are not.
 * In the line `var a = a || 5`, by the time the second `a` is accessed, `var a` has already run, so it will not throw ReferenceError.
+* [`assert` is not a thing](https://stackoverflow.com/a/15313435/1558430) but you can write your own in, like, one minute.
 
 ## Deferred API
 

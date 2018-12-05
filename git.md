@@ -106,6 +106,7 @@ Due to the unique way git is funded, the command is `git ls-remote --tags origin
 
 * Basic blame: `git blame HEAD -- file`
 * Blame with `sudo apt-get git-gui`: `git gui blame file`
+* Blame by pattern: `for file in $(git ls-files); do git blame $file | grep "ValueError"; done`
 
 #### Some idiot impersonated me
 
