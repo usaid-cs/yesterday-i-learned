@@ -1,3 +1,11 @@
+1. 1 out of 166 Americans are allergic to peanuts.
+1. [Bananas float in water](https://www.reference.com/food/bananas-float-water-5491aa8a0f6cc85c). Salt or fresh water.
+1. Women are more likely to have three biceps.
+1. Chamomile has been known to cause uterine contractions that can invoke miscarriage.
+1. The genus name for lentils is [*Lens*](https://en.wikipedia.org/wiki/Lens_%28plant%29).
+1. "To [prevent the hangover](https://www.theguardian.com/books/2018/nov/23/hangover-cure-book-shaughnessy-bishop-stall), (drink before you sleep:) milk thistle, for the liver; the amino acid and immune system aid N-acetylcysteine; vitamins B1, B6 and B12, which boost metabolism; and that famous gift to Jesus, frankincense – an anti-inflammatory."
+1. [Docking](https://en.wikipedia.org/wiki/Docking_%28dog%29) is the removal of a dog's tail. It is sometimes considered illegal and banned in some countries.
+1. [Bird lungs are powered by air sacs](https://www.youtube.com/watch?v=iigxJXFJF4U). Those air sacs push air through the real lung, which is not expandable, one way only. This makes all air going through the lungs oxygenated, making the lung more efficient. With the help of these air sacs, birds can also take in oxygen while they exhale.
 1. [The world looks dimmer to you as you age](https://blog.humanscale.com/ergonomic-lighting-modern-workplace): "those in their mid-sixties require three times the amount of light to be able to read the same paper", compared to those in their twenties.
 1. [Western sea pigs](https://en.wikipedia.org/wiki/Scotoplanes) are remarkably different from [Eastern sea pigs](https://en.wikipedia.org/wiki/Dolphin).
 1. People in [the island of Icaria](https://en.wikipedia.org/wiki/Icaria) (Greece) live to 80, 90, and even 100 years old, with a healthy lifestyle and no access to GM and processed foods, but it suffers from 40% unemployment.

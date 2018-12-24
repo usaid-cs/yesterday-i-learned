@@ -1,3 +1,7 @@
+1. Lead (element 82) is the heaviest element considered ["stable"](https://en.wikipedia.org/wiki/Island_of_stability), but Bismuth-209 (element 83) is not that radioactive either.
+1. Helium is called Helium because it was discovered while looking at the sun (absorption spectra).
+1. Because of the wintergreen oil inside, lifesavers glow (triboluminescence) when crushed.
+1. One gram of poppy seeds contains up to 33 micrograms of morphine and 14 micrograms of codeine.
 1. Tungsten is from Swedish *tung sten*, "heavy stone".
 1. [Billard balls](https://en.wikipedia.org/wiki/Billiard_ball) are made with some sort of phenolic resin, basically any "plastic materials that are strongly resistant to cracking and chipping".
 1. A [hydrometer](https://learn.kegerator.com/using-a-hydrometer/) (*hydromètre*) measures a liquid's density relative to water. A hydrometer does not measure water.

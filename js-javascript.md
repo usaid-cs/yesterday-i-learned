@@ -1,5 +1,6 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+1. [Your workers cannot see your local storage.](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 1. [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the *stack* is empty and there is something in the *task queue* (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.
 1. [Don't rely on setInterval for long-running tasks.](https://github.com/nodejs/node/issues/22149) They stop working after 2^31 milliseconds.
 1. jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.

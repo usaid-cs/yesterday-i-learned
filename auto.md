@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Using your wiper fluid for more than 10 seconds at a time [may](https://www.reddit.com/r/cars/comments/a4md3y/so_um_i_think_i_put_cooking_grease_in_my/ebg1gnf/) burn the pump.
 1. Mechanics may charge you extra if you decide to patch your tire with tire foam.
 1. Tire swaps have nothing to do with wheel alignment.
 1. The Lug Nut Rule: The vehicle that uses the most lug nuts to hold its wheels on will win the collision. (/u/anotherkeebler)

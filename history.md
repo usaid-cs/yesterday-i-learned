@@ -1,3 +1,4 @@
+1. "Heinrich" is just "Henry". When Hitler said "mein [Heinrich](https://en.wikipedia.org/wiki/Heinrich_Himmler)", it essentially meant "oh Henry".
 1. [In the 1960s and 1970s, Kuwait was the most developed country in the region](https://en.wikipedia.org/wiki/Kuwait#History), with its press described as one of the freest in the world.
 1. [Jingle Bells](https://www.cbc.ca/news/canada/british-columbia/jingle-bells-christmas-song-started-as-a-drinking-song-written-by-a-jerk-1.2874860) was a thanksgiving drinking song.
 1. Pizza ("putting things on bread") is such an old concept that [no one has any idea when exactly it was invented](https://en.wikipedia.org/wiki/History_of_pizza).

@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The Instant Pot is an invention from Ottawa that is made in China.
 1. A legislation exists where [the government can force people to go back to work](https://www.cbc.ca/news/canada/faq-back-to-work-legislation-1.1000525) if they are on strike for too long and it impacts other people's quality of life.
 1. [There are no speed cameras](https://en.wikipedia.org/wiki/Speed_limit_enforcement#Canada), only speed police.
 1. Of the [five largest Canadian law firms](https://www.investopedia.com/articles/active-trading/090315/5-biggest-canadian-law-firms.asp) (Borden Ladner Gervais, Gowling Lafleur Henderson, Fasken Martineau DuMoulin, Norton Rose Fulbright Canada, Blakes), you have heard of none of them.

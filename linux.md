@@ -1,5 +1,7 @@
 ![Dilbert][imgur]
 
+1. To extract a `.bz2` file that is *not* also a tarball, use `bzip2 -dk filename.bz2`.
+1. `tar vf` does not have the 'origin ... destination ...' syntax. The first argument is still the archive file name, and the rest of the arguments are always what you want to compress/extract.
 1. In 2004, [Ubuntu's boot image, among other things, were pictures of three people being naked](http://geekfeminism.wikia.com/wiki/Ubuntu_Warty_visual_theme/Image_archive).
 1. If you add [`StrictHostKeyChecking no`](https://stackoverflow.com/questions/21383806/how-can-i-force-ssh-to-accept-a-new-host-fingerprint-from-the-command-line) to your `.ssh/config`, or run ssh as `ssh -o 'StrictHostKeyChecking no'`, then it will accept any host key without asking you (or your scripts) first.
 1. Tarsnap is a portmanteau (which is a portable all-in-one closet, by the way) of `tar`, and "snapshot", which tarsnap does.
@@ -12,7 +14,7 @@
 1. [`tail *`](https://stackoverflow.com/a/7816490/1558430) is a viable alternative to `cat *` if you want to see the file names as well.
 1. There's [a script](https://github.com/Nyr/openvpn-install/blob/master/openvpn-install.sh) that installs openvpn for you.
 1. You can [unset expiry dates you place on your pgp keys](https://riseup.net/en/security/message-security/openpgp/best-practices#use-an-expiration-date-less-than-two-years), says that page. The purpose of the expiration date is to be a dead man's switch to prevent further uses of the key after you die. Same page also says not to sign someone else's key with no expiration date.
-1. [It is systemd's fault](https://askubuntu.com/a/723182) why your network interface is now called "wlp2s0" instead of "wlan0".
+1. [It is systemd's fault](https://askubuntu.com/a/723182) why your network interface is now called "wlp2s0" instead of "wlan0". "p2" is "PCI bus 2", and "s0" is "slot 0".
 1. The `ServerAdmin` directive in apache2 [doesn't work](https://stackoverflow.com/q/21798272/1558430).
 1. [`a2enssite` and `a2dissite`](https://manpages.debian.org/jessie/apache2/a2dissite.8.en.html) stand for "Apache2 enable site" and "Apache2 disable site", respectively.
 1. Simply using [`sort -`](https://stackoverflow.com/a/2434719/1558430) will allow you to paste in any number of lines to be sorted. If too lazy to paste, you can also use `xclip -o | sort -`.
@@ -246,6 +248,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. To decrypt a file, use `vim -X foo` right. But to *save* the file decrypted, use `:X` inside vim, and when it asks you for the password twice, just press enter twice for a blank password. Save normally with `:w`.
 1. Zombie processes cannot be **SIGKILL**ed.
 1. `grep -o` prints only the matched part of the string. This is useful for piping the output somewhere else, like `adb pull "/sdcard/Signal/Backups/$(adb ls '/sdcard/Signal/Backups/' | tail -n 1 | grep -oE 'signal-.+\.backup')"` (copying the last automatically-generated Signal backup).
+1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
+1. GNU `tar` provides compression arguments. [Solaris `tar` does not.](https://unix.stackexchange.com/questions/127169/does-tar-actually-compress-files-or-just-group-them-together) Also, tar stands for Tape ARchive.
 
 ## Tmux
 
@@ -277,4 +281,3 @@ After press `Ctrl+B`, followed by
 [wikipedia]: https://en.wikipedia.org/wiki/Nohup
 [wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
 [winterdrake]: http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/
-1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.

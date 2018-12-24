@@ -1,3 +1,4 @@
+1. If everyone produces four offsprings at the age of 12, then it is completely possible to end up with 7 billion people after 500 generations.
 1. Doubles the risk means nothing if the original risk is 1 out of 10 million.
 1. 'NP-hard [problems](https://www.quantamagazine.org/a-short-guide-to-hard-problems-20180716/) might be in NP, or in a much higher complexity class (as you can see from the Euler diagram), or they might not even be decidable problems. That's why people often say something like ["NP-hard means at least as hard as NP"](https://softwareengineering.stackexchange.com/a/308184/116811) when trying to explain this stuff informally.'
 1. [Tuple](https://en.wikipedia.org/wiki/Tuple) does not mean an element of two. The suffix "-tuple" starts at five, "quan*tuple*", and *n*-tuple is now used to describe a tuple of length n.

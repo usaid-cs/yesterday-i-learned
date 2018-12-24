@@ -1,3 +1,5 @@
+1. [Webview session storage](https://forums.adobe.com/thread/2350512) available was unlimited for Android versions 4.1 and 4.3, but not 4.2 and 4.4, which had 10MB.
+1. Your package id [must](https://developer.android.com/studio/build/application-id) have at least one dot in it, so it can't be `com`.
 1. `JobIntentService`. A "job intent service" whose "job" is to "serve job intents". Or does it "serve intent jobs"? Or "job service intents"? Oh well. But after all that, what does it enque? ["Work"](https://android.jlelse.eu/keep-those-background-services-working-when-targeting-android-oreo-sdk-26-cbf6cc2bdb7f). `JobIntentService.enqueueWork()`.
 1. You may track if a *specific* user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
 1. ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)

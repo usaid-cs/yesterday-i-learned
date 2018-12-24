@@ -454,6 +454,7 @@ bar
 1. `license()` (with an S) is a built-in function. It shows python's story and history in addition to the actual licence. Making a function called `license()` is usually harmless, except if you use pylint: `Redefining built-in 'license'`
 1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
 1. Comparing tuples with tuples, like `(1, 0) < (3, 0)` works how you think it would, but comparing tuples with lists that *look about the same* will not: `(1, 0) < [3, 0]` is false because the two types cannot be compared together.
+1. You can `os.path.join` a `PosixPath`, you can `Path('/') / 'home' / 'bob'`, but you can't `Path('/') + 'home/bob'`, because that'd be "unintuitive".
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
