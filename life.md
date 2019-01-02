@@ -35,3 +35,6 @@
 1. Hiring managers now send out [technical interview tasks that take *a week* to do](http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html). If you apply to 100 companies before you get a job, that's *two years* just in wasted time.
 1. You need to meet [just half](https://talent.works/blog/2018/11/27/the-science-of-the-job-search-part-vii-you-only-need-50-of-job-requirements) of a job posting's requirements to get the job [with the highest probability].
 1. Don't work somewhere before [asking people who work there](https://hharnisc.github.io/2018/11/25/twenty-questions-to-ask-before-joining-a-startup.html), "what about your role are you enjoying".
+1. Make sure a "smoke-free" clause applies to all apartment tenants in your building. Some of these tenants may be grandfathered from a contract that omits that clause. If not, smoke can travel into your apartment from someone else's.
+1. Before you buy a house... make sure it isn't over a known flight path. And make sure there isn't a party venue next to it.
+1. [Find yourself a big goal](https://raddevon.com/articles/8-things-i-learned-to-get-from-walmart-cashier-to-6-figure-web-developer/), one that you will need years to achieve. This is a good way to develop skills, and turn skills into $$.

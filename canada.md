@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. To make scavenging at people's trash cans illegal, the moment you put the bins at the curb, the contents become the property of the city, and scavenging would be stealing from the city.
+1. There's a "The Duke of Wellington" pub in Waterloo because that's who led the battle of Waterloo against Napoleon.
 1. The Instant Pot is an invention from Ottawa that is made in China.
 1. A legislation exists where [the government can force people to go back to work](https://www.cbc.ca/news/canada/faq-back-to-work-legislation-1.1000525) if they are on strike for too long and it impacts other people's quality of life.
 1. [There are no speed cameras](https://en.wikipedia.org/wiki/Speed_limit_enforcement#Canada), only speed police.

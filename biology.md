@@ -1,3 +1,6 @@
+1. Nitrites prevent spoilage [of meat] due to botulism bacteria. In the stomach, nitrites can be converted to nitrosamines, which are faintly carcinogenic. "Natural" alternatives like celery juice (source of nitrates) with lactobacillus (which converts nitrates into nitrites) are actually worse, with a final nitrite level higher than that of typical nitrite applications. "The bacteria also pre-prepare some carcinogenic nitrosamines, just because they can. Properly cured bacon contains zero nitrosamines."
+1. Women's version of [morning wood](https://en.wikipedia.org/wiki/Nocturnal_penile_tumescence) is [nocturnal clitoral tumescence](https://en.wikipedia.org/wiki/Nocturnal_clitoral_tumescence), aka morning dew. As of now, only women know if it's a thing. Related fun fact: having a full bladder gets you morning wood more often.
+1. The "motor theory of perception" tries to explain people tapping their feet when they listen to music, as the brain's way to make sense of the sound.
 1. 1 out of 166 Americans are allergic to peanuts.
 1. [Bananas float in water](https://www.reference.com/food/bananas-float-water-5491aa8a0f6cc85c). Salt or fresh water.
 1. Women are more likely to have three biceps.

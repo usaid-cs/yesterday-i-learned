@@ -1,3 +1,4 @@
+1. The C in Francois is actually an S?
 1. [Avarice](https://www.merriam-webster.com/dictionary/avarice): basically "greed".
 1. *Panzer* already means Tank in German, so a Panzer tank is a tank tank.
 1. [The Tironian sign "⁊" was often an abbreviation for "and" in medieval writings.](https://en.wikipedia.org/wiki/Scribal_abbreviation) It has nothing to do with why Shift+7 is &,

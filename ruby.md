@@ -118,3 +118,5 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 1. [Apparently](http://stackoverflow.com/questions/39988613/how-do-i-destructure-a-range-in-ruby) to get the first and last elements from a range (which is not an array for some reason), you just do `array.begin` and `array.end`. That will go through all elements in the range, but what do you know.
 1. It is tradition for Rails to [muck with builtin types](http://stackoverflow.com/a/15926695/1558430) so that the integer `1` can have the method `day`.
 1. `gem` is really nice, because `gem fetch abc` downloads the package, and `gem install abc.gem` (with the `.gem`) installs it.
+1. Arrays are pretty much operable as sets if you do it. `[1,2,3,4,5] | [2,4,6]` indeed gives you `[1,2,3,4,5,6]`, and `[1,2,3,4,5] - [2,4,6]` indeed gives you `[1,3,5]`.
+1. Ruby 2.6 introduces [endless ranges](https://anamaria.martinezgomez.name/2018/12/21/ruby2_6.html) like `(1..)` that goes to Infinity, sort of useful for things you would otherwise do with a while loop but don't like that.
