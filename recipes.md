@@ -121,6 +121,26 @@ Procedures:
 
 Potato + tomato + carrot + beef = baby, you've got a stew goin
 
+### Pork bone stew
+
+    **Ingredients:**
+
+    * Garlic
+    * Ginger
+    * Bayleaf
+    * One star anise
+    * Some Lotus roots or white radish
+    * Soy sauce
+    * A bit [of] vinegar
+    * Sugar
+    * Chili oil
+    * Green onion
+
+    **Method:**
+
+    * Pressure cook 20 mins on more.
+    * Mix anything below lotus roots as dipping sauce.
+
 ## Soup
 
 Potato + onion + carrot + pork = baby, you've got a soup goin

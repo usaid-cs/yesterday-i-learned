@@ -1,3 +1,11 @@
+1. [ISO 8601 week dates](https://en.wikipedia.org/wiki/ISO_8601#Week_dates) are prefixed with a `W`, so `2018-W52` is the last week of the year. Note: these are ISO year and week numbers.
+1. Only stew meat with fat. Don't stew lean meat.
+1. The Argentinian and Chilean governments sent pregnant women there to give birth in hopes that it'd would strengthen their claims to a piece of Antarctica.
+1. If a person is born on February 29, countries arbitrarily assign the person's legal birthday to either February 28 or March 1, depending on the law of that country.
+1. Rock the knife back and forth to chop garlic.
+1. Hold salt in your palm to sprinkle.
+1. You can boil potatoes, it's faster.
+1. Boil brussel sprouts to burn away the bitterness. Just throw them into the water and turn off the heat, wait a while, then pan fry with garlic and butter.
 1. Recipe delivery packages like HelloFresh and Blue Apron [have a gross amount of packaging waste](https://www.youtube.com/watch?v=mGK86tWMFjk), even excluding the box and the ice packs: recipe paper, insulation, boxes in boxes, thicker bags for vegetables, a separate bag for two olives...
 1. You're supposed to use a stack for checking whether a bunch of brackets match up with each other correctly. Alternatively, if you are skilled, prove that a `count('[') == count(']')` check is sufficient if the string starts with `[` and ends with `]`.
 1. [Arguing doesn't work. People just believe in whatever they believed in.](https://lifelessons.co/personal-development/howtogetsmarterpart5/) See also: lots of tips and tricks for arguing and learning in general.

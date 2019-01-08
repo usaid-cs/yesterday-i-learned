@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the Ben Franklin effect, the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
 1. Some wise redditor once posted, “Your success in life will be directly proportional to your willingness to have uncomfortable discussions.”
 1. Don't *want* to change. *Decide* to change.
 1. "Move to management. Fluff the resume a bit and put yourself out there as someone who can manage a decent term project and get stuff done. Job interviews, much like everything in life, comes down to 10% what you say, and 90% how you say it. Come across as wise not old, confident not down on yourself, and have an air of "If you don't hire me you're a f'in moron" without actually saying that, and you might be surprised what you get."

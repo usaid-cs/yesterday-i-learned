@@ -1,3 +1,5 @@
+1. Drywall isn't just anything white; drywall is gypsum (calcium sulphate).
+1. Hot water can carry much less CO2, so global warming *caused by CO2 levels* is a scary positive feedback loop.
 1. [Activated carbon](https://en.wikipedia.org/wiki/Activated_carbon) is charcoal with lots of holes.
 1. Lead (element 82) is the heaviest element considered ["stable"](https://en.wikipedia.org/wiki/Island_of_stability), but Bismuth-209 (element 83) is not that radioactive either.
 1. Helium is called Helium because it was discovered while looking at the sun (absorption spectra).
