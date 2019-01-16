@@ -64,10 +64,11 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 * Chop **onions** (thin strips, peel properly), **green onions**, **basil**, **tripe**, **beef balls**, and **brisket** while you wait.
 * Throw rice noodles into the water pot once boiling, then when the water boils again, throw tripe/ beef balls/brisket into the soup pot.
 * When ready, strain out and rince rice noodles.
-* Pour soup into bowl with tripe/beef balls/brisket.
 * Apply rice noodles into bowl.
 * Apply onions and green onions.
-* Apply beef.
+* Apply beef and tripe.
+* Pour soup over everything in the bowl.
+* Apply beef balls and brisket.
 * Serve with bean sprouts, basil, and **lime**.
 
 
