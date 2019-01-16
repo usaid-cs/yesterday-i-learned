@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You train the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you *don't* laugh at their broken English, because doing so will give them the idea to improve it.
 1. [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the Ben Franklin effect, the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
 1. Some wise redditor once posted, “Your success in life will be directly proportional to your willingness to have uncomfortable discussions.”
 1. Don't *want* to change. *Decide* to change.

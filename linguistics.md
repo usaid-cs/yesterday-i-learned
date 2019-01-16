@@ -1,7 +1,11 @@
+1. In Japan, [don't acknowledge a sneeze](https://en.wikipedia.org/wiki/Response_to_sneezing). But if someone sneezed multiple times in succession, perhaps you can say 大丈夫?.
+1. "Last but one" means "second last". "Last but two" means "third last".
+1. "Moisten" has a silent T. So does "hasten".
+1. [Hubba hubba](https://www.urbandictionary.com/define.php?term=Hubba%20hubba) means "approval".
 1. The C in Francois is actually an S?
 1. [Avarice](https://www.merriam-webster.com/dictionary/avarice): basically "greed".
 1. *Panzer* already means Tank in German, so a Panzer tank is a tank tank.
-1. [The Tironian sign "⁊" was often an abbreviation for "and" in medieval writings.](https://en.wikipedia.org/wiki/Scribal_abbreviation) It has nothing to do with why Shift+7 is &,
+1. [The Tironian sign "⁊" was often an abbreviation for "and" in medieval writings.](https://en.wikipedia.org/wiki/Scribal_abbreviation) It has nothing to do with why Shift+7 is &.
 1. The English word "Merchant" came from Latin *mercatare*, to trade.
 1. [Mottainai!](https://en.wikipedia.org/wiki/Mottainai) 勿体無い, which means "What a waste!", is the Japanese version of reduce, reuse, recycle.
 1. [Jesus was born in a "manger"](https://www.biblegateway.com/passage/?search=Luke+2&version=NIV), aka feeding tub for animals. Manger comes from French *manger*, to eat.

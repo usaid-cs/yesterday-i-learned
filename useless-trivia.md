@@ -1,3 +1,4 @@
+1. Jackie Chan named his own child [Jaycee](https://newrepublic.com/article/152848/painful-price-becoming-jackie-chan), after his own initials, JC.
 1. ["Statistically speaking, Oprah was probably the least likely person in America to ever become successful. An abused, molested, poor, black girl, runaway. Typically she wouldn't even find so much as a strenuous blue collar life. I don't agree with everything Oprah does, but she made herself, beating every odd there was."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eayr3zl/) ["She also got pregnant at 14, and her baby died. Terrible story. I’m sure no one expected her to be successful."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eaysiyo/)
 1. Nick Offerman is a carpenter.
 1. [Stephen Colbert](https://en.wikipedia.org/wiki/Stephen_Colbert#Early_life) was definitely pronounced KOL-bert at some point.

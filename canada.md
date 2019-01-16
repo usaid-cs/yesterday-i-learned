@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. At least according to [this list](https://en.wikipedia.org/wiki/Canada_Deposit_Insurance_Corporation#List_of_financial_collapses_since_1967), there has not been a "financial [company] collapse" in Canada since 1996.
 1. To make scavenging at people's trash cans illegal, the moment you put the bins at the curb, the contents become the property of the city, and scavenging would be stealing from the city.
 1. There's a "The Duke of Wellington" pub in Waterloo because that's who led the battle of Waterloo against Napoleon.
 1. The Instant Pot is an invention from Ottawa that is made in China.

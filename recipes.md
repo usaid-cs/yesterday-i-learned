@@ -55,6 +55,22 @@ Mix the following, in any ratio you want:
 
 Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 
+## Pho
+
+* Defrost or thaw beef, or otherwise close to room temperature just before cooking.
+* Keep **bean sprouts** as close to room temperature as possible.
+* Make soup (from a **soup cube**, or go find yourself a recipe for that) and keep on boil. If the soup base does not contain garlic, add some **garlic**.
+* Boil water in a separate pot (for the **rice noodles**).
+* Chop **onions** (thin strips, peel properly), **green onions**, **basil**, **tripe**, **beef balls**, and **brisket** while you wait.
+* Throw rice noodles into the water pot once boiling, then when the water boils again, throw tripe/ beef balls/brisket into the soup pot.
+* When ready, strain out and rince rice noodles.
+* Pour soup into bowl with tripe/beef balls/brisket.
+* Apply rice noodles into bowl.
+* Apply onions and green onions.
+* Apply beef.
+* Serve with bean sprouts, basil, and **lime**.
+
+
 # Dinner
 
 ## Stir fry

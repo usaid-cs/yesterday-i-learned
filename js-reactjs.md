@@ -3,3 +3,4 @@
 1. React is [the most flexible](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d), and therefore, the easiest to get wrong, among Angular2+, React, and Vue.
 1. Events like `onClick` accept handlers whose `this` is the class, so either of these will work: `onClick={this.classMethod.bind(this)}` (where `classMethod() {...}`), or `onClick={this.instanceMethod} (where `instanceMethod = () {...}`).
 1. In a `.jsx` file, any method can return JSX.
+1. Component tag names need to start with a capital letter.
