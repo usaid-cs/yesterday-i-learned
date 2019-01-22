@@ -1,3 +1,4 @@
+1. "Buoy" rhymes with GUI in America.
 1. In Japan, [don't acknowledge a sneeze](https://en.wikipedia.org/wiki/Response_to_sneezing). But if someone sneezed multiple times in succession, perhaps you can say 大丈夫?.
 1. "Last but one" means "second last". "Last but two" means "third last".
 1. "Moisten" has a silent T. So does "hasten".

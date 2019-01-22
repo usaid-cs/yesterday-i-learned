@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. [glogg](https://glogg.bonnefon.org/index.html) is a log file viewer UI, like somewhere between grep and less, maybe tail.
 1. To extract a `.bz2` file that is *not* also a tarball, use `bzip2 -dk filename.bz2`.
 1. `tar vf` does not have the 'origin ... destination ...' syntax. The first argument is still the archive file name, and the rest of the arguments are always what you want to compress/extract.
 1. In 2004, [Ubuntu's boot image, among other things, were pictures of three people being naked](http://geekfeminism.wikia.com/wiki/Ubuntu_Warty_visual_theme/Image_archive).

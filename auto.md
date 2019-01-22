@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The 2018 Camry uses [0W-16 oil](https://www.reddit.com/r/Justrolledintotheshop/comments/aibt1s/what_the_heck_toyota/). That thread suggests they have been testing 0W-16 oil in Japan for (two) decades now. [0W-8](https://www.youtube.com/watch?v=w7PYAWkscD4) oil... further lowers parasitic drag, which increases fuel efficiency, but also reduces protection to larger engines when working hard.
+1. The shitshow that is [Toyota (Corolla) Matrix](https://en.wikipedia.org/wiki/Toyota_Corolla#Alternative_versions), the collaboration between Toyota and GM, was also called the [Pontian Vibe](https://en.wikipedia.org/wiki/Pontiac_Vibe) in America. Well that in itself isn't a shitshow, but GM decided in sell the Vibe in Japan, which, still isn't the shitshow *per se*, but they've decided to sell the *Vibe* in *Japan*, which is a fuckin' *Corolla made by GM*, as the [Toyota Voltz](https://en.wikipedia.org/wiki/Toyota_Voltz)??? [WTF?](https://en.wikipedia.org/wiki/Toyota_Voltz#/media/File:Toyota_voltz_zze136_s_1_r.jpg)
+1. [Bryan Nesbitt](https://en.wikipedia.org/wiki/Bryan_Nesbitt), having worked at Chrysler and GM, personally designed the PT Cruiser and HHR, the two ugliest panel vans of all time.
 1. Whether or not the car creeps forward on idle, as with most cars with an automatic transmission, is *configurable* in the Tesla 3.
 1. Using your wiper fluid for more than 10 seconds at a time [may](https://www.reddit.com/r/cars/comments/a4md3y/so_um_i_think_i_put_cooking_grease_in_my/ebg1gnf/) burn the pump.
 1. Mechanics may charge you extra if you decide to patch your tire with tire foam.

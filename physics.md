@@ -1,3 +1,4 @@
+1. Cold water is audibly different from hot water. (That means you can hear the difference between the two being poured, and you know which is which.)
 1. At 194 dB or dBA (dB adjusted for the human ear), [sound waves become shock waves](https://www.noisehelp.com/noise-level-chart.html).
 1. Olber's Paradox: since there are lots of stars in the sky, can nothing stops photons from coming to us, we should see a bright sky. But it's not the case because the universe is not infinitely old, and the photons from these stars don't have time to arrive to us yet.
 1. Time dilation can also be thought of as [length contraction](https://www.youtube.com/watch?v=rVzDP8SMhPo). An object that is travelling at the speed of light towards you, also thinks you are travelling at light speed towards it. And you look just a fraction of your actual length dependent on your speed. This allows muons, which would normally only travel 500m before going away, to travel 10km worth of atmosphere.
