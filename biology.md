@@ -1,3 +1,5 @@
+1. If you trust the Daily Mail, [incense is more cancerous than cigarette smoke](https://www.dailymail.co.uk/health/article-3210400/Could-incense-toxic-cigarette-smoke-burn-sticks-release-compounds-linked-cancer.html).
+1. [Psychosis](https://en.wikipedia.org/wiki/Psychosis), the condition for people who are *psychotic* (*psychos*), have trouble knowing what is real and what is not.
 1. Malaria-infected blood cells are lighter than normal ones... so [a centrifuge can help you check if you have malaria](https://www.youtube.com/watch?v=Qf-D1Upn-KU).
 1. Asthma patients cannot breathe not because they cannot inhale, but because they cannot exhale air with all the fluids and bubbles in their lungs. The sound this makes is called *wheezing*.
 1. Weed inhibits REM sleep (read: dreams), making you unable to "process your experiences and make plans for the future".

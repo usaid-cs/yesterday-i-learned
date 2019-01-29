@@ -1,3 +1,5 @@
+1. Turns out 诊 has a *zh* sound, not *ch*.
+1. Quebec French is [more archaic than French French](https://www.youtube.com/watch?v=A9rh3lqdtT0), like a time capsule that was kept in the 1700s because of its language protectionism... except for some phrases.
 1. "Buoy" rhymes with GUI in America.
 1. In Japan, [don't acknowledge a sneeze](https://en.wikipedia.org/wiki/Response_to_sneezing). But if someone sneezed multiple times in succession, perhaps you can say 大丈夫?.
 1. "Last but one" means "second last". "Last but two" means "third last".

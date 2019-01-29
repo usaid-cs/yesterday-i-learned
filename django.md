@@ -1,5 +1,6 @@
 # Django tips
 
+* It is possible to filter by a date field's component, like `.filter(date__day=10)  # Look for dates on the 10th`.
 * [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 * `manage.py sqlmigrate` lets you see what queries a (schema) migration will run.
 * Specifying multiple identical query conditions do not cancel previous ones out. `Car.objects.filter(price__gt=100).filter(price__gt=0)` will still build a query similar to `SELECT * FROM tblCar WHERE price > 100 AND price > 0`.

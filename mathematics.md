@@ -1,3 +1,4 @@
+1. [9629, 8093, and 8068](https://brandongaille.com/least-used-4-digit-atm-pin-numbers/) are the least-used four-digit PINs.
 1. If everyone produces four offsprings at the age of 12, then it is completely possible to end up with 7 billion people after 500 generations.
 1. Doubles the risk means nothing if the original risk is 1 out of 10 million.
 1. 'NP-hard [problems](https://www.quantamagazine.org/a-short-guide-to-hard-problems-20180716/) might be in NP, or in a much higher complexity class (as you can see from the Euler diagram), or they might not even be decidable problems. That's why people often say something like ["NP-hard means at least as hard as NP"](https://softwareengineering.stackexchange.com/a/308184/116811) when trying to explain this stuff informally.'
@@ -21,3 +22,4 @@
 1. [It is not true that a billiards ball-sized earth is smoother than a billiards ball](https://www.youtube.com/watch?v=mxhxL1LzKww). The maximum allowed radius deviation of a billiards ball only concerns the width and height, not roughness.
 1. If something has never occurred (like finding no typos in the first 10 pages of a book doesn't mean the rest of the book has no typos either), then [this post](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/) says the probability of finding a typo in any page is `< 3/N`, where N is the number of pages you already looked at.
 1. A quart is called a quart because it is a quarter gallon, my dude. [The smallest crock pot](https://www.amazon.com/dp/B0000CCY14/) comes in at "16 ounces", which is "one half quarter gallon".
+1. The list of pangrams, or [self-referencing sentences](https://selfreferentialsentences.blogspot.com/) that count the number of each letter in itself, has a very limited number of valid answers.
