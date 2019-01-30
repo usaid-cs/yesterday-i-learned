@@ -1,3 +1,4 @@
+1. Glycerin, [glycerol](https://en.wikipedia.org/wiki/Glycerol), and propane-1,2,3-triol are all the same thing. [Glycerides](https://en.wikipedia.org/wiki/Glyceride) are however esters formed from glycerol and fatty acids, i.e. `H3C-(O-R)3`, assuming all functional groups are the same `R`.
 1. Drywall isn't just anything white; drywall is gypsum (calcium sulphate).
 1. Hot water can carry much less CO2, so global warming *caused by CO2 levels* is a scary positive feedback loop.
 1. [Activated carbon](https://en.wikipedia.org/wiki/Activated_carbon) is charcoal with lots of holes.

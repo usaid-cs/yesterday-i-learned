@@ -490,3 +490,5 @@ bar
 [wikipedia]: http://en.wikipedia.org/wiki/Coroutine
 [wikipedia 2]: http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions
 [youtu]: http://youtu.be/OSGv2VnC0go?t=31m39s
+1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
+1. Alembic is called Alembic because it works with SQL[Alchemy](https://en.wikipedia.org/wiki/Alembic).

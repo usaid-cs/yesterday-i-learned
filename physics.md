@@ -63,3 +63,5 @@
 1. [The HyperLoop doesn't work](https://www.youtube.com/watch?v=RNFesa01llk) because the vacuum required is never going to be happen with all the stupid people around. (Imagine a loser poking a hole in the loop and everyone is screwed, or a dude throwing a stone into a turbine or something)
 1. Steam can be used to light things on fire, simply by the definition of "steam is hot", if something is hot enough.
 1. Solar eclipses occur [pretty much anywhere](http://nationaleclipse.com/maps/images/map_usa_21stcentury.png) on the map. Any curvature. Any direction. Toronto might see one in 2024.
+1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
+1. The [Roche (Rosh) Limit](https://en.wikipedia.org/wiki/Roche_limit) is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.

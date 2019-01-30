@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Your particular device's fstab file is located at `/system/vendor/etc/fstab.qcom`. You can change your zram size there (if you enabled it).
 1. If your device is *not* encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or just delete `/data/system/locksettings.db`, which says you should have a PIN.
 1. To automate scrolling up a long list, use `while true; do input swipe 300 300 300 1500 100; done`.
 1. During the Pixel 3 announcement, [Google did not mention "Android" a single time](https://bgr.com/2018/10/12/android-vs-fuchsia-pixel-3-event-no-android-mention/).

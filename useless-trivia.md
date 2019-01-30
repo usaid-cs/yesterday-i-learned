@@ -64,3 +64,8 @@
 1. [James Cameron actually went to Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench#Descents) in 2012.
 1. Spoiled bitches that have weddings are also called bridezillas.
 1. Natalie went 100% nuts in [her rap 2.0 video](https://www.youtube.com/watch?v=B8K9jAJ3Ong) like Britney did.
+1. According to [John](https://en.wikipedia.org/wiki/J._R._R._Tolkien), [unless Elves "lose their will to live", they don't die.](http://tolkiengateway.net/wiki/Elven_Life_cycle)
+1. Walter Lewin, the professor known for drawing dotted lines on chalkboards, was charged for sexual harrassment.
+1. Elon Musk's mood could be predicted by looking at [Talulah Riley's hair colour](https://www.businessinsider.com/elon-musk-mood-talulah-riley-hair-color-2018-8), with the best mood being predicted if her hair is platinum. They married and divorced twice; she then moved on to star as Angela on Westworld.
+1. [The expiry date on every packet of crisps made in the UK is on a Saturday.](https://www.reddit.com/r/AskReddit/comments/56v9tr/whats_the_most_interesting_useless_fact_you_know/d8mmvfa)
+1. The [same guy](http://strangerthings.wikia.com/wiki/Bob_Newby) who tried to date Nancy's mom [lived in Hawaii](http://www.imdb.com/name/nm0000276/?ref_=tt_trv_qu), and was also part of [the crew who went to mordor](http://www.imdb.com/title/tt0167260/?ref_=nm_flmg_act_103).

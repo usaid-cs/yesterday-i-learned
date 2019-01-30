@@ -308,3 +308,5 @@
 1. Japanese for "pink" is really "pinku".
 1. "Discombobulate" is a verb that means exactly what it does, namely, to confuse.
 1. "Kudos" is a singular Greek word.
+1. [Japanese Sign Language for the word "brother" requires you to flip the bird, twice.](https://media.spreadthesign.com/video/mp4/7/81416.mp4)
+1. You don't shear a sheep; a sheep gets shorn.

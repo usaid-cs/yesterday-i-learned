@@ -161,3 +161,4 @@
 1. The vast majority of [Canada's top paid positions](https://www.slice.ca/money/photos/jobs-in-canada-that-pay-300k/#!Anesthesiologist-Jobs-in-Canada-That-Pay-Over-300K) are doctors and company C*Os.
 1. [Hudson's Bay Company is a real estate company](http://business.financialpost.com/news/retail-marketing/u-s-activist-investor-urges-hudsons-bay-co-to-go-private), says activists.
 1. [Stephen Harper](https://en.wikipedia.org/wiki/Stephen_Harper) was the first prime minister to employ a personal stylist, [Michelle Muntean](http://www.ctvnews.ca/stephen-harper-s-stylist-no-longer-on-public-payroll-1.513467), whose duties range from coordinating his clothing to preparing his hair and makeup for speeches and television appearances.
+1. Presto GO bus passengers need to tap on their way out.

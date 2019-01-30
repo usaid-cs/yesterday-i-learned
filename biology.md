@@ -815,3 +815,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Egg-laying chickens are usually killed by the 130th week, when they are done producing around 200g of cholesterol.
 1. [Growth like weeds](https://www.reddit.com/r/Damnthatsinteresting/comments/31ve8m/80_days_of_cannabis_growth) does NOT refer to how fast marijuana grows. Marijuana takes the average time for a plant to mature and flower.
 1. If you suspect your dog has a food allergy, one of the easiest ways to fix things is to try a food with a novel protein, like kangaroo meat.
+1. [Weevel](https://en.wikipedia.org/wiki/Weevil) (beetle) eggs can be found in [all bought grains](https://www.reddit.com/r/todayilearned/comments/4doi5h/til_weevil_eggs_are_in_most_grains_that_we_buy/). They grow in your rice.

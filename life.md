@@ -40,3 +40,9 @@
 1. Make sure a "smoke-free" clause applies to all apartment tenants in your building. Some of these tenants may be grandfathered from a contract that omits that clause. If not, smoke can travel into your apartment from someone else's.
 1. Before you buy a house... make sure it isn't over a known flight path. And make sure there isn't a party venue next to it.
 1. [Find yourself a big goal](https://raddevon.com/articles/8-things-i-learned-to-get-from-walmart-cashier-to-6-figure-web-developer/), one that you will need years to achieve. This is a good way to develop skills, and turn skills into $$.
+1. People spend more when their money isn't real, so [children should be taught what money is in a concrete way](https://www.youtube.com/watch?v=_VB39Jo8mAQ), like using real tokens.
+1. "You don't hire for skills, you hire for attitude. You can always teach skills."
+1. When the interviewer asks ["How badly do you want the job"](https://www.forbes.com/sites/lizryan/2017/02/24/how-to-answer-the-question-how-badly-do-you-want-the-job/#8ffa60a36741), you can't win. Try to answer instead the question "What got you interested in the job and the company".
+1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
+1. "It is better to wear out than rust out." - Richard Cumberland
+1. Washing your face easily yields higher returns than the cost of whatever $10 face wash you use every day.
