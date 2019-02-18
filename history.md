@@ -1,3 +1,6 @@
+1. The potato blight strunk the whole of europe; [Ireland alone starved](https://www.youtube.com/watch?v=gAnT21xGdSk), partly because the English considered the famine "an act of God", partly because English protestants at the time oppressed the Catholics---which the Irish mostly were---and party because Ireland was going through economic troubles caused by Napoleon's defeat. Video link mentions more reasons.
+1. Despite their vulnerablity to submarines, [no aircraft carrier has been sunk since world war 2](https://www.youtube.com/watch?v=c0pS3Zx7Fc8).
+1. Qianlong [once](http://academics.wellesley.edu/Polisci/wj/China/208/READINGS/qianlong.html) wrote a letter (or told someone to write a letter) to King George, basically [telling him to fuck off](https://www.youtube.com/watch?v=fgQahGsYokU).
 1. [Antarctica was discovered after Uranus was.](https://www.youtube.com/watch?v=HfLVYr38D0Q)
 1. Angela Merkel pushed Greece to pass huge spending cuts in exchange for loans from the EU and the IMF. Unpopular, but keeps the Eurozone together, and Greece's debt threatened that union. Nationalism is expected to rebound in her absence, and she is fully aware of it.
 1. Truman, in 1947, [accidentally](https://en.wikipedia.org/wiki/Truman_Doctrine) said something that might have unofficially cut the red tape on the cold war.

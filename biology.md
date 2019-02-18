@@ -1,3 +1,7 @@
+1. [牛黃](https://zh.wikipedia.org/zh-hk/%E7%89%9B%E9%BB%84) is 水牛膽結石.
+1. Social pain, aka rejections, might be an evolutionary response to ensure [the person sticks to the group, which enhances chances of survival](https://www.youtube.com/watch?v=n3Xv_g3g-mA). It just so happens that the response is so bad for the body that it is equivalent to smoking one pack of cigarettes a day. Loneliness is also self-reinforcing so the only way out is to recognise the problem, meet others, and embrace the pain.
+1. Sometimes boiling a seed (briefly) can make it easier to germinate. Botanists call it [sacrificing](https://en.wikipedia.org/wiki/Scarification_%28botany%29).
+1. There is [little evidence](https://www.youtube.com/watch?v=ZQ--scjcAZ4) that air ionisers do anything for health. Air ionisers are however good for removing pollutants from the air.
 1. If you trust the Daily Mail, [incense is more cancerous than cigarette smoke](https://www.dailymail.co.uk/health/article-3210400/Could-incense-toxic-cigarette-smoke-burn-sticks-release-compounds-linked-cancer.html).
 1. [Psychosis](https://en.wikipedia.org/wiki/Psychosis), the condition for people who are *psychotic* (*psychos*), have trouble knowing what is real and what is not.
 1. Malaria-infected blood cells are lighter than normal ones... so [a centrifuge can help you check if you have malaria](https://www.youtube.com/watch?v=Qf-D1Upn-KU).

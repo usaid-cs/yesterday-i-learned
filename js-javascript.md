@@ -208,6 +208,10 @@ undefined
 * [`assert` is not a thing](https://stackoverflow.com/a/15313435/1558430) but you can write your own in, like, one minute.
 * What people want from you when they ask you for ["design patterns"](https://github.com/fbeline/Design-Patterns-JS).
 * [Client-side password hashing is so uncommon](https://security.stackexchange.com/a/143857) because "An active MITM can tamper with the JavaScript and disable hashing" (which would cause the password to be sent over plain text, becoming visible), or: "Client-side hashing is rare because people use SSL instead."
+* Other people don't have the same problem as you ('wait for the device to be online before the app starts, so all the script tags in <head> are loaded') because their scripts were bundled with the app when built.
+* A [gulp task that returns](https://stackoverflow.com/questions/21699146/gulp-js-task-return-on-src) is a synchronous gulp task. If your task A returns nothing and some other task B depends on task A, task A will simply be run and not awaited. So you should probably return something.
+* The `{a, b, c} === {a: 'a', b: 'b', c: 'c'}` syntax is called [punning](https://reasonml.github.io/docs/en/record#syntax-shorthand).
+* Because JS is JS, `{b: undefined}` is perfectly valid, and defining `b` as `undefined` really defines `b`.
 
 ## Deferred API
 

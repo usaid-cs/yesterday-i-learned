@@ -7,6 +7,7 @@
 1. The [Big O Cheat Sheet](http://bigocheatsheet.com/) ranks everything except O(1), O(n), and O(log n) as "bad" or worse.
 1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
 1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
+1. [Decorators](https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators) appears to have come from python, which was in turn inspired by [Java annotations](https://en.wikipedia.org/wiki/Java_annotation); the generic term for a function-modifying function is called an [advice](https://en.wikipedia.org/wiki/Advice_%28programming%29). Depending on compiler setup, Java annotations don't necessarily have to do anything.
 
 # Being a developer
 

@@ -1,3 +1,4 @@
 1. Illiterate people cannot read or write. They can still speak.
 1. The [difference between dementia and normal aging](http://alzheimer.ca/en/Home/About-dementia/What-is-dementia/Normal-aging-vs-dementia) is *what* you forget; it is normal to forget what you did last year, but not if you forget what you just ate for breakfast.
 1. Concentrated sulphuric acid is [harmful to the body](https://imgur.com/a/g3poy) (nsfw).
+1. [Humans may have domesticated themselves](https://www.theatlantic.com/magazine/archive/2019/03/how-humans-tamed-themselves/580447/) by either killing, or refusing to mate, with violent males.

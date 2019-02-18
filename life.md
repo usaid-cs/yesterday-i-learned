@@ -1,5 +1,7 @@
 "Yesterday I learned how to live."
 
+1. Being a leader largely involves [gaining respect](https://www.thebalancecareers.com/tips-for-success-as-a-team-leader-1919252), which usually means doing the dirty work, making tough decisions, and having a backbone.
+1. The No Tech Magazine [once](https://www.notechmagazine.com/2019/01/the-complication-of-leisure.html) suggested that the tools used for hobbies ("boating, bicycling, skiing or backpacking") are being improved by manufacturer, so much so that we forget what we actually want out of the hobby. Doing traditional archery, for example, ["promotes a sense of fun and encourages a carefree spirit."](https://www.goodreads.com/book/show/720481.The_Traditional_Bowyer_s_Bible_Volume_1)
 1. [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You train the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you *don't* laugh at their broken English, because doing so will give them the idea to improve it.
 1. [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the Ben Franklin effect, the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
 1. Some wise redditor once posted, “Your success in life will be directly proportional to your willingness to have uncomfortable discussions.”
@@ -46,3 +48,4 @@
 1. [Present your strengths and weaknesses via short stories](https://www.linkedin.com/pulse/20130911212503-15454-10-things-job-seekers-must-do-to-get-a-better-job), in the "job hunting is 60% networking" that you have to do.
 1. "It is better to wear out than rust out." - Richard Cumberland
 1. Washing your face easily yields higher returns than the cost of whatever $10 face wash you use every day.
+1. Not saying your donation is useless, but it might be more worthwhile to donate to charities that help others get their own food, than to charities that give out food.

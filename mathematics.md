@@ -1,3 +1,4 @@
+1. In the world if statistics, the probability of something happening, and the probability of that something *not* happening, always combine to 1 (100%).
 1. [9629, 8093, and 8068](https://brandongaille.com/least-used-4-digit-atm-pin-numbers/) are the least-used four-digit PINs.
 1. If everyone produces four offsprings at the age of 12, then it is completely possible to end up with 7 billion people after 500 generations.
 1. Doubles the risk means nothing if the original risk is 1 out of 10 million.
@@ -23,3 +24,17 @@
 1. If something has never occurred (like finding no typos in the first 10 pages of a book doesn't mean the rest of the book has no typos either), then [this post](https://www.johndcook.com/blog/2010/03/30/statistical-rule-of-three/) says the probability of finding a typo in any page is `< 3/N`, where N is the number of pages you already looked at.
 1. A quart is called a quart because it is a quarter gallon, my dude. [The smallest crock pot](https://www.amazon.com/dp/B0000CCY14/) comes in at "16 ounces", which is "one half quarter gallon".
 1. The list of pangrams, or [self-referencing sentences](https://selfreferentialsentences.blogspot.com/) that count the number of each letter in itself, has a very limited number of valid answers.
+1. A Caesar cipher is literally a letter shifting algorithm. ROT13 is probably considered one of those. To break one, either a) just shift the letters for at most 25 times... or b) use the alphabet frequency ("fingerprint") to map the letters.
+1. A polyalphabetic cipher involves basically n caesar ciphers on repeat. If a password were "snake", then shift the first letter by 19 (S), second letter by 13 (N), and so on. But like the caesar cipher, it is basically crackable, as long as you know how to determine the length of the password.
+1. A one-time pad is a list of random shifts, that *must* be at least as long as the message itself. Because the cipher is never repeated, the shifts are impossible to find, because with the shifts never repeating itself, every shift is equally as likely.
+1. "Frequency stability" is demonstrated by a series of random coin flips. A true random sequence is equally likely to contain runs of any combination in any length, i.e. in a bunch of 1s and 0s, (count(000) == count(001) == count(010) == ...).
+1. The enigma machine was supposed to be automatic one-time pad makers. In order for two people to communicate, these enigma machines have the same initial states... the code breaking machine targeted the fact that the enigma will never convert one letter to the same letter.
+1. The "message space" is the number of possible messages, so if you are given the option to write a message four letters long, then the message space is 26^4.
+1. The "key space" is the number of possible keys. If you are to make a key that is four letters long, then the key space is also 26^4.
+1. The "ciphertext space" is the number of possible results after encryption.
+1. "Perfect secrecy" is, given unlimited computational power, some encryption scheme is so strong that guessing is the best someone can do to crack it. If the message space == cipher space, then every message is equally likely, and you can do nothing but guess.
+1. Pseudorandom numbers are seeded by a number (called a random seed). If a PRN generator repeats after 100 numbers, then the period is 100. All PRNs repeat eventually. If these numbers are used as cipher shifts, this massively lowers the key space compared to actual random numbers, due to the fact that they repeat eventually.
+1. Cipher vs code: a code is a mapping from some useful unit of word or phrase into something longer (like 67 -> apple). Ciphers don't have meaning. So, codes have semantic meaning, ciphers don't.
+1. Prime factorisation... all numbers decompose to a number of primes, these primes multiply to that number. No two different numbers share the same factorisation (because duh, they won't multiply together to different numbers).
+1. Prime factorisation comes into this because `{(some number) ^ (party 1's private key) ^ (party 2's private key)} mod (huge prime)` == `{(some number) ^ (party 2's private key) ^ (party 1's private key)} mod (huge prime)`. When used in Diffie-Hellman Key Exchange, neither private keys are exposed, and modular arithmetic is fast for people who do have their private keys.
+1. `(m^e) mod N = c` (where m is the private key?) is a one-way function because given e, N, and c, it is still hard to find m.

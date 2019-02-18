@@ -416,6 +416,14 @@ In vim, type [`:cq`](http://stackoverflow.com/a/28134068/1558430) to make the ed
 
 Throw a [`.gitkeep`](https://stackoverflow.com/questions/7229885/what-are-the-differences-between-gitignore-and-gitkeep) (or any other placeholder file).
 
+#### But I also want to ignore everything inside that empty directory
+
+Here's a recipe for you:
+
+```
+logs/
+!logs/.gitkeep
+```
 
 ### My fingers are YUUUGE
 

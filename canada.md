@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. According to [Global News](https://globalnews.ca/news/3828447/canada-middle-class-income-inequality/) ("$33-130k" is middle class income), anyone earning $20 an hour is middle class.
+1. [Restaurant workers don't always eat at the restaurant](https://www.cbc.ca/news/canada/kitchener-waterloo/andrew-coppolino-restaurant-staff-after-hours-food-choices-1.5002223).
 1. [Around 5000 houses burn down in Ontario every year.](https://www.mcscs.jus.gov.on.ca/english/FireMarshal/MediaRelationsandResources/FireStatistics/OntarioFires/FireLossesCausesTrendsIssues/stats_causes.html)
 1. On why selling sex is legal but buying sex is not: "Basically, more people are willing to buy sex legally than are willing to sell it. A LOT more. So when prostitution is legalized the demand shoots way up but the supply does not. This makes sex trafficking and forced prostitution very profitable. If you look at crime stats for human trafficking before and after prostitution is legalized, human trafficking actually goes up by a lot in countries where prostitution has been legalized. Legalizing selling sex while keeping it illegal to buy solves both problems. It doesn't increase demand, and it makes prostitution safer for everyone involved." - /u/The_Last_Mammoth
 1. At least according to [this list](https://en.wikipedia.org/wiki/Canada_Deposit_Insurance_Corporation#List_of_financial_collapses_since_1967), there has not been a "financial [company] collapse" in Canada since 1996.

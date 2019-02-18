@@ -12,6 +12,7 @@
 * [Django does not force you to put code at some specific place](http://stackoverflow.com/a/8590943/1558430). With that said, since MVC requires a service abstraction layer between M and C, which hardly anyone ever has, Django tends to recommend logic in either V or [M](http://stackoverflow.com/a/8591009/1558430), depending on whether the logic concerns requests.
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all langauges to have those translations in the same order.
+* The closest thing nodejs has to Django templates is [swig](https://github.com/paularmstrong/swig), but it is discontinued.
 
 ## Models
 * MongoDB [officially](https://code.djangoproject.com/wiki/NoSqlSupport) recommends [Djongo](https://github.com/nesdis/djongo) as the Mongo(NoSQL) adapter.
@@ -26,7 +27,7 @@
 * [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset already evaluated (for instance, when you actually use the whole set in a loop). With that said, the SQL `COUNT()` is very slow when you reach millions of rows, so [find some other way to do it](https://medium.com/squad-engineering/estimated-counts-for-faster-django-admin-change-list-963cbf43683e).
 * Model field defaults can be a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 * Django 1.8 apparently lets you aggregate by an expression now, e.g. `.aggregate(Min('price') + 1)`
-* [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that you cannot reuse, probably for the greater good.
+* [`QuerySet.iterator()`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#django.db.models.query.QuerySet.iterator) does exactly that: make a queryset that *does not cache* to save memory. Every call to loop the `.iterator()` will cause it to execute queries.
 * Instead of making another Query just to fetch the same object again, there already is an [`obj.refresh_from_db()`](https://docs.djangoproject.com/en/1.9/ref/models/instances/#django.db.models.Model.refresh_from_db) available.
 * If you filter by `id__in=queryset`, Django might make it a subquery. But if you do `id__in=list(queryset)`, no matter the size of the queryset, the queryset must be evaluated first, and the two-query version might be faster than the subquery version.
 * Django 1.7 got rid of the `--dry-run` option formerly available in South.

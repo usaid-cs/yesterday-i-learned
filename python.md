@@ -458,6 +458,9 @@ bar
 1. Re machine learning: [you should probably just go with tensorflow](https://deepsense.ai/keras-or-pytorch/), if it installs.
 1. The exception message for doing `max(0, None)` is different for python 3.5 (`TypeError: unorderable types: NoneType() > int()`) and 3.6 (`TypeError: '>' not supported between instances of 'NoneType' and 'int'`).
 1. Saying `raise`, without an exception to reraise in the context, will get you a `RuntimeError`.
+1. A python3 class method annotation that needs to specify itself (e.g. a `Time` class whose method returns a `Time`) needs to be [annotated with a string](https://stackoverflow.com/a/33533514/1558430) (e.g. `'Time'`). This is because of the evaluation order... `Time` is not defined until the class is entirely parsed (or something). This is resolved in Python 3.7 (with a future import) and 4.0 (just works).
+1. [Function annotations](https://www.bernat.tech/the-state-of-type-hints-in-python/) (PEP-3107) is Python 3.0+, and does not specify what the annotations needs to do. Type hints (PEP-483, PEP-484) define [how these annotations can be used for type checking](https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/). Variable annotations (PEP-526, e.g. `foo: int = 1`) is Python 3.6+.
+1. While `Dict` is preferred over `dict` when writing type hints, [`typing.Boolean` is not a thing](https://docs.python.org/3/library/typing.html), as are [other "primitives"](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html) such as `int`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

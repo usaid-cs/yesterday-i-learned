@@ -1,3 +1,4 @@
+1. An archipelago is just a group of islands.
 1. Pittsburgh is quite close to (40,-80).
 1. Spain almost touches Morocco.
 1. Oymyakon is the coldest place on Earth.

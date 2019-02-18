@@ -1,3 +1,7 @@
+1. It would appear that the ["terms"](https://en.wikipedia.org/wiki/Contractual_term) in "Terms and conditions" can be singular.
+1. For some reason, *Qu'est-ce que nous faisons* ("what do we do") doesn't make sense, so you need to say *Qu'est-ce qu'on fait* instead.
+1. The special term [菊花殘](https://evchk.fandom.com/wiki/%E8%8F%8A%E8%8A%B1%E6%AE%98) refers to a damaged anus, from either physical wear-and-tear, or from eating spicy foods.
+1. A [junk](https://www.merriam-webster.com/dictionary/junk) used to mean a Chinese ship (the touristy ones you see in Hong Kong). They have a high [poop](https://www.merriam-webster.com/dictionary/poop), an enclosed superstructure at the stern (rear end) of a ship above the main deck.
 1. Turns out 诊 has a *zh* sound, not *ch*.
 1. Quebec French is [more archaic than French French](https://www.youtube.com/watch?v=A9rh3lqdtT0), like a time capsule that was kept in the 1700s because of its language protectionism... except for some phrases.
 1. "Buoy" rhymes with GUI in America.
@@ -19,7 +23,7 @@
 1. "Jaywalking" was termed back when "jay" was equivalent to "redneck".
 1. *Sprechen Sie Englisch?* is not something you hear at the Kitchener-Waterloo Oktoberfest, because everyone speaks English there.
 1. [23333333](https://www.quora.com/Whats-the-meaning-of-23333-in-Chinese) means "can't stop laughing" because emoticon code 233 was "can't stop laughing" in some chat app.
-1. [啪啪啪](https://tw.18dao.net/%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8/%E5%95%AA), or just 啪, has come to mean sex.
+1. [啪啪啪](https://tw.18dao.net/%E6%BC%A2%E8%AA%9E%E8%A9%9E%E5%85%B8/%E5%95%AA), or just 啪, has come to mean sex. [为爱鼓掌](https://baike.baidu.com/item/%E4%B8%BA%E7%88%B1%E9%BC%93%E6%8E%8C/21271843) also means sex.
 1. Damper is technically more correct than dampener.
 1. [Most Anglo-Saxon names fell out of use after the medieval period](https://en.wikipedia.org/wiki/Edgar), except for Alfred and Edgar, which still exist. [Those names are ususally joined by two elements](https://en.wikipedia.org/wiki/Germanic_name), a prefix and a suffix.
 1. [Tea](https://i.redd.it/bgoe35wzayn11.png) is called Tea if the product was introduced by sea from Southern China, where it was pronounced *te*. Tea is called Cha if the product travelled from mainland China by land instead.

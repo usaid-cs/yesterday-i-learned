@@ -1,5 +1,12 @@
 ![Dilbert][imgur]
 
+1. 64-bit implementations of the linux epoch allows [292 billion years](https://en.wikipedia.org/wiki/9,223,372,036,854,775,807) to be represented in an integer.
+1. Linus' first rule of Linux development is "we don't break userspace". That means [never affect the user's applications negatively](https://stackoverflow.com/questions/25954270/what-does-it-mean-to-break-user-space).
+1. If the KDE display configuration messes up, delete your `.local/share/kscreen/` folder or move it somewhere else.
+1. Exclude a grep with `grep -v bad_word`.
+1. HTTPS is considered necessary [even if PGP signing is verified correctly](https://www.reddit.com/r/linux/comments/ahkur8/vlc_refuses_to_update_from_http_to_https_https/): a "version freeze attack" that MITMs unverified traffic, making the user believe what's being seen is true; and weak signing key.
+1. On multi-CPU systems, a load average less than or equal to the number of CPU cores (e.g. 3.7 < 4 CPUs) is [still considered healthy](http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages). Also, the load averages are listed with the last minute figure *first*.
+1. KDE might require `im-config -n ibus` (and a logout) for ibus to start working.
 1. [glogg](https://glogg.bonnefon.org/index.html) is a log file viewer UI, like somewhere between grep and less, maybe tail.
 1. To extract a `.bz2` file that is *not* also a tarball, use `bzip2 -dk filename.bz2`.
 1. `tar vf` does not have the 'origin ... destination ...' syntax. The first argument is still the archive file name, and the rest of the arguments are always what you want to compress/extract.
