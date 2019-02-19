@@ -1,3 +1,5 @@
+1. [Epiloque](https://en.wikipedia.org/wiki/Epilogue) is (sort of) Greek for "conclusion ... additional ... word".
+1. A [*blouse*](https://en.wikipedia.org/wiki/Blouse) used to mean a dust coat.
 1. It would appear that the ["terms"](https://en.wikipedia.org/wiki/Contractual_term) in "Terms and conditions" can be singular.
 1. For some reason, *Qu'est-ce que nous faisons* ("what do we do") doesn't make sense, so you need to say *Qu'est-ce qu'on fait* instead.
 1. The special term [菊花殘](https://evchk.fandom.com/wiki/%E8%8F%8A%E8%8A%B1%E6%AE%98) refers to a damaged anus, from either physical wear-and-tear, or from eating spicy foods.

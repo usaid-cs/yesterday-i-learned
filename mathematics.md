@@ -1,3 +1,5 @@
+1. [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) states that a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
+1. Regular expressions are called regular expressions because they are the expressions used to describe [regular languages](https://en.wikipedia.org/wiki/Regular_language).
 1. In the world if statistics, the probability of something happening, and the probability of that something *not* happening, always combine to 1 (100%).
 1. [9629, 8093, and 8068](https://brandongaille.com/least-used-4-digit-atm-pin-numbers/) are the least-used four-digit PINs.
 1. If everyone produces four offsprings at the age of 12, then it is completely possible to end up with 7 billion people after 500 generations.

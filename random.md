@@ -1,3 +1,7 @@
+1. Tanzania made almost [a million tonnes of sesame seeds](https://en.wikipedia.org/wiki/Sesame#Production_and_trade) in 2016.
+1. Taxidermists rarely agree to taxidermy a pet because [they don't have mannequins ("stuffing") of the right size and shape to make it look right for every pet](https://www.youtube.com/watch?v=L6S5amkCoyc).
+1. According to [some wiki thing](https://zh.wikipedia.org/wiki/%E4%BC%A0%E7%BB%9F), French traditions are much more influential to other cultures than other traditions, 50% more (according to some metric) than the English.
+1. A 时 is 2 hours long, and 刻 is 15 minutes long. [This system is derived from the position of the sun](https://en.wikipedia.org/wiki/Traditional_Chinese_timekeeping).
 1. One does not simply fly into Mordor [with an eagle] because [eagles are higher races in middle earth](https://www.youtube.com/watch?v=lMXX2YsrxsE), very powerful, and the ring attracts powerful creatures.
 1. A metric [carat](https://en.wikipedia.org/wiki/Carat_%28mass%29) is exactly 200mg. Before 1907, a carat ranges from 187 to 216mg, depending on which country you ask.
 1. The FSF once unironically pointed out that [dating is a free software issue](https://www.fsf.org/blogs/community/dating-is-a-free-software-issue), citing "Many restaurants run reservations entirely through Web sites, using software and JavaScript that is proprietary".
