@@ -90,6 +90,7 @@
 * You can query two like tables at the same time using `UNION`: `select (same columns) from table1 UNION select (same columns) from table2`. If you can handle duplicate rows, use [`UNION ALL`](https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all), which is faster (if bandwidth is free).
 * **Attempting to [remove nullable or add `NOT NULL` to a field during a zero downtime deployment](https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b#notes-on-adding-not-null-columns-in-very-large-tables) will cost a lot of time.**
 * `VACUUM ANALYZE VERBOSE;` is almost free to run. Run it every so often. There is also autovacuum that automates the automation away from you.
+* SSDs and HDDs have different `random_page_cost` (default 4) and `seq_page_cost` values (default 1). For SSDs, `random_page_cost` may well be set to 1, which often affects how the query planner decides how to make a query.
 
 ## Troubleshooting
 

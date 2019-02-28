@@ -1,3 +1,5 @@
+1. "Of course" is always two words, like ["alot"](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) is always one word.
+1. ["Hokkien" (福建)](https://en.wikipedia.org/wiki/Hokkien) and ["Min" (闽南语)](https://en.wikipedia.org/wiki/Southern_Min) (east of 福建) are said to be [mutually intelligible](https://en.wikipedia.org/wiki/Mutual_intelligibility). but only to a limited extent with ["Teochew" (潮州话)](https://en.wikipedia.org/wiki/Teochew_dialect) (Southwest of 福建).
 1. [Epiloque](https://en.wikipedia.org/wiki/Epilogue) is (sort of) Greek for "conclusion ... additional ... word".
 1. A [*blouse*](https://en.wikipedia.org/wiki/Blouse) used to mean a dust coat.
 1. It would appear that the ["terms"](https://en.wikipedia.org/wiki/Contractual_term) in "Terms and conditions" can be singular.
@@ -316,3 +318,7 @@
 1. "Kudos" is a singular Greek word.
 1. [Japanese Sign Language for the word "brother" requires you to flip the bird, twice.](https://media.spreadthesign.com/video/mp4/7/81416.mp4)
 1. You don't shear a sheep; a sheep gets shorn.
+1. ["靠谱"](https://www.echineselearning.com/blog/chinese-slang-kaopu-reliable) means reliable.
+1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
+1. "Improvisation" can be promounced "improvise-A-tion" - but only in British English it seems. Otherwise it is "im-PROV-VI-SA-tion".
+1. [Young swans are known as *swanlings* or *cygnets*](https://en.wikipedia.org/wiki/Swan), from Greek κύκνος, kýknos and from the Latin word cygnus ("swan") and the Old French suffix -et ("little"). An adult male is a *cob*, from Middle English cobbe (leader of a group); an adult female is a *pen*.

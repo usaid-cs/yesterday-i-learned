@@ -1,3 +1,8 @@
+1. [Argentina had five presidents in a little over a week](https://www.quora.com/Is-it-true-that-at-one-point-Argentina-had-five-different-Presidents-in-one-week) in 2001.
+1. [倭](https://en.wikipedia.org/wiki/Wa_%28Japan%29) (wa) is the oldest recorded name of Japan.
+1. Pope Gregory XIII (in 1582) commissioned the Gregorian calendar. The largest resistance at the time came from [the populace, who feared it was an attempt by landlords to cheat them out of a week and a half's rent](https://en.wikipedia.org/wiki/Pope_Gregory_XIII#The_Gregorian_calendar).
+1. The Republic of China had [five timezones](https://en.wikipedia.org/wiki/Historical_time_zones_of_China) at one point. Now just one.
+1. [三國演義](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89) is a 14th century novel, not a history book. [三國志](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97), however, *is* a history book from the third century ish.
 1. The potato blight strunk the whole of europe; [Ireland alone starved](https://www.youtube.com/watch?v=gAnT21xGdSk), partly because the English considered the famine "an act of God", partly because English protestants at the time oppressed the Catholics---which the Irish mostly were---and party because Ireland was going through economic troubles caused by Napoleon's defeat. Video link mentions more reasons.
 1. Despite their vulnerablity to submarines, [no aircraft carrier has been sunk since world war 2](https://www.youtube.com/watch?v=c0pS3Zx7Fc8).
 1. Qianlong [once](http://academics.wellesley.edu/Polisci/wj/China/208/READINGS/qianlong.html) wrote a letter (or told someone to write a letter) to King George, basically [telling him to fuck off](https://www.youtube.com/watch?v=fgQahGsYokU).
@@ -130,3 +135,8 @@
 1. Russian gulags are not as lethal as Nazi concentration camps, says [this guy](https://www.quora.com/Why-is-Russian-gulag-so-rarely-mentioned-vs-German-labor-camps-despite-the-fact-that-a-lot-more-people-died-in-the-gulag-system?share=1).
 1. The Life of Brian was considered [a blatant attack on Christianity](https://www.youtube.com/watch?v=hdU_6jUQI9s) when it was released. Now no one really cares. [Graham Chapman](https://en.wikipedia.org/wiki/Graham_Chapman), a gay boy at the time, was selected to play Brian. He was however an alcoholic, drank two bottles of gin a day, and died of tonsil cancer.
 1. All WWI veterans died [before 2013](https://en.wikipedia.org/wiki/List_of_last_surviving_World_War_I_veterans).
+1. [Upper-class Brit couples in the 18th century used to exchange pubes so they can put that stuff on their hats as a trophy.](https://en.wikipedia.org/wiki/Pubic_hair)
+1. *Helvetica* was the Latin name for Switzerland (technically *Confoederatio Helvetica*)
+1. Chile tried to claim Antarctica as its territory and failed because it once signed a [treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) saying no one lives there.
+1. [The state of Virginia](http://en.wikipedia.org/wiki/Virginia) (actually a commonwealth) was the most populous state during the 1800s, and was the state with the most presidents (7).
+1. Pythagoras knew that the Earth was round 500 years before Chris(t) was born.

@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. If you give up your own information then people know more about you, and that means they think they're close to you.
 1. Being a leader largely involves [gaining respect](https://www.thebalancecareers.com/tips-for-success-as-a-team-leader-1919252), which usually means doing the dirty work, making tough decisions, and having a backbone.
 1. The No Tech Magazine [once](https://www.notechmagazine.com/2019/01/the-complication-of-leisure.html) suggested that the tools used for hobbies ("boating, bicycling, skiing or backpacking") are being improved by manufacturer, so much so that we forget what we actually want out of the hobby. Doing traditional archery, for example, ["promotes a sense of fun and encourages a carefree spirit."](https://www.goodreads.com/book/show/720481.The_Traditional_Bowyer_s_Bible_Volume_1)
 1. [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You train the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you *don't* laugh at their broken English, because doing so will give them the idea to improve it.
@@ -49,3 +50,7 @@
 1. "It is better to wear out than rust out." - Richard Cumberland
 1. Washing your face easily yields higher returns than the cost of whatever $10 face wash you use every day.
 1. Not saying your donation is useless, but it might be more worthwhile to donate to charities that help others get their own food, than to charities that give out food.
+1. When resigning from a company, a) don't mention it to anyone until it is approved by the management, and b) never tell people why.
+1. [Don't be afraid to be wrong](https://ketanbhatt.com/2018/08/12/dont-be-the-alpha-geek-your-team-deserves-better/), accept new opinions, stop being defensive, because you aren't always right, and not forever.
+1. ["When you have a conversation with an idiot, nobody watching can tell which one of you is the idiot."](https://news.ycombinator.com/item?id=10929547)
+1. When things go bad at a job, good people leave first.

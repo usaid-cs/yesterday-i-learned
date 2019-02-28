@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. On [`supervisorctl` commands](http://supervisord.org/running.html): `supervisorctl reread` reloads the configs, `supervisorctl reload` restarts the daemon (you might see a trend here), `supervisorctl restart` restarts without reloading the config, and `supervisorctl update` is said to do both `reread` and `restart`.
 1. 64-bit implementations of the linux epoch allows [292 billion years](https://en.wikipedia.org/wiki/9,223,372,036,854,775,807) to be represented in an integer.
 1. Linus' first rule of Linux development is "we don't break userspace". That means [never affect the user's applications negatively](https://stackoverflow.com/questions/25954270/what-does-it-mean-to-break-user-space).
 1. If the KDE display configuration messes up, delete your `.local/share/kscreen/` folder or move it somewhere else.
@@ -289,3 +290,6 @@ After press `Ctrl+B`, followed by
 [wikipedia]: https://en.wikipedia.org/wiki/Nohup
 [wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
 [winterdrake]: http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/
+1. SSH got port 22 because... [the author sent IANA, the authority at the time](https://www.ssh.com/ssh/port).
+1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
+1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.

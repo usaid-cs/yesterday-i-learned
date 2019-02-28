@@ -8,6 +8,7 @@
 1. "Covariance" is just a fancy way of saying "if parent method returns `Number` then surely a subclass method can return `float`"
 1. In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 1. [Decorators](https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators) appears to have come from python, which was in turn inspired by [Java annotations](https://en.wikipedia.org/wiki/Java_annotation); the generic term for a function-modifying function is called an [advice](https://en.wikipedia.org/wiki/Advice_%28programming%29). Depending on compiler setup, Java annotations don't necessarily have to do anything.
+1. "25519" in ed25519 is 2^(255) - 19. A 256-bit elliptic curve key (which is what Curve 25519 is) is [weaker](https://wiki.openssl.org/index.php/Elliptic_Curve_Cryptography) than a 4096-bit asymmetric key, like RSA.
 
 # Being a developer
 

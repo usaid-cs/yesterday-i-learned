@@ -22,3 +22,9 @@
 1. Australia has over 10000 beaches.
 1. [Nastapoka arc](https://en.wikipedia.org/wiki/Nastapoka_arc), the near-perfect-circular crater-like thing in Hudson Bay, does not have properties commonly found in craters, such as [shatter cones](https://en.wikipedia.org/wiki/Shatter_cone) in the bedrock.
 1. The [Republic of Kiribati](https://en.wikipedia.org/wiki/Kiribati) has a number of settlements, among them are: [London](https://en.wikipedia.org/wiki/London,_Kiribati), [Paris](https://en.wikipedia.org/wiki/Paris,_Kiribati), [Poland](https://en.wikipedia.org/wiki/Poland,_Kiribati), and [Banana](https://en.wikipedia.org/wiki/Banana,_Kiribati).
+1. Understandably, [Easy Anglia](https://en.wikipedia.org/wiki/East_Anglia) is Eastern England. Before that, it wasn't immediately obvious that England had such a circular, cancerous bulge on the side.
+1. Interestingly, Nassau, the capital of the Bahamas, is on the smaller island.
+1. The Pakistani city of [Karachi is a top-10 city by population](https://www.worldatlas.com/articles/the-10-largest-cities-in-the-world.html), either 4th or 6th depending on where you check.
+1. New Zealand [literally means new sea land](http://i.imgur.com/ex6Zu.jpg). It is named after [Zeeland](https://en.wikipedia.org/wiki/Zeeland), a place in the Netherlands.
+1. [Yonaguni](https://goo.gl/maps/1WWTYei8jBU2) is lower down in latitude than Taipei is.
+1. Tobago rhymes with Potato.

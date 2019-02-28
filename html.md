@@ -46,6 +46,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 1. On `defer` vs `async`: `defer` [downloads scripts in parallel, and then waits for HTML parsing to finish, *and then* executes the script when HTML is done](https://developers.google.com/web/fundamentals/primers/modules). `async` downloads scripts in parallel, but executes the script as soon as it is downloaded, blocking HTML parsing.
 1. Progressive Web Apps must be served over HTTPS.
 1. `<input type="email">` allows empty strings because that's just how it is without `required="required"`.
+1. One advantage of [HAML](https://en.wikipedia.org/wiki/Haml) over HTML is the lack of closing tags. The disadvantage that came with that: long lines, because indentations are now used for nesting.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

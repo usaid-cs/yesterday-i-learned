@@ -57,6 +57,8 @@
 * [`authenticate()`](https://docs.djangoproject.com/en/1.6/topics/auth/default/#django.contrib.auth.authenticate) checks the credentials; `login()` actually logs the user in.
 * The act of initialising a `QueryDict` [already parses the query string](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.QueryDict.__init__). There is no need to use urlparse.
 * Expressions in `blocktrans {{ this thing }} endblocktrans` [must not have attribute/key access](http://stackoverflow.com/questions/11338098/why-in-i18n-blocktrans-django-a-object-dict-or-list-dont-work).
+* Doing a format with `ugettext` works [if you `.format()` the proxy object](https://stackoverflow.com/a/11001193/1558430), i.e. `ugettext_lazy('{foo}').format(foo='bar')`, rather than `ugettext_lazy('{foo}'.format(foo='bar'))`. So you don't actually need to stick with the `_(...) % (...)` operator.
+* You can do [`.values()` or `,values_list()` expressions](https://docs.djangoproject.com/en/1.11/ref/models/querysets/#values-list), e.g. `Entry.objects.values_list('id', Lower('headline'))`.
 
 ## REST Framework
 * A `Serializer` can validate `request.query_params` (especially query strings that have repeated keys), but once you convert the query params to a `dict`, it cannot do the same thing anymore.

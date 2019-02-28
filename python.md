@@ -461,6 +461,11 @@ bar
 1. A python3 class method annotation that needs to specify itself (e.g. a `Time` class whose method returns a `Time`) needs to be [annotated with a string](https://stackoverflow.com/a/33533514/1558430) (e.g. `'Time'`). This is because of the evaluation order... `Time` is not defined until the class is entirely parsed (or something). This is resolved in Python 3.7 (with a future import) and 4.0 (just works).
 1. [Function annotations](https://www.bernat.tech/the-state-of-type-hints-in-python/) (PEP-3107) is Python 3.0+, and does not specify what the annotations needs to do. Type hints (PEP-483, PEP-484) define [how these annotations can be used for type checking](https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/). Variable annotations (PEP-526, e.g. `foo: int = 1`) is Python 3.6+.
 1. While `Dict` is preferred over `dict` when writing type hints, [`typing.Boolean` is not a thing](https://docs.python.org/3/library/typing.html), as are [other "primitives"](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html) such as `int`.
+1. [`typing.Tuple[float, float]`](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc) means a tuple *exactly* 2 elements long, both of which being floats.
+1. [`.pyi` files](https://www.python.org/dev/peps/pep-0484/) are syntactically valid python files that are type *stubs*. By having a different extension, you cannot run pyi files directly (or import them?), and you can put the type stubs right beside your actuaal python file.
+1. `__slots__` might lower memory usage by 40% to 50%.
+1. GVR had already mentioned that [PEPs are not laws](https://github.com/PyCQA/pycodestyle/issues/466). PEPs are not intended to be laws. PEPs are "merely intended to guide humans, not to require them to follow it every time."
+1. `()` does not equal `(,)` because the latter is a syntax error.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

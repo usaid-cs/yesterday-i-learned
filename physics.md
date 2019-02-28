@@ -67,3 +67,4 @@
 1. [At least two solar and two lunar eclipses happen every year](https://www.android.com/eclipse/), but most of them are not spectacular enough to be called eclipses.
 1. The [Roche (Rosh) Limit](https://en.wikipedia.org/wiki/Roche_limit) is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.
 1. The answer to the question, ["immovable objects (a=0) vs unstoppable force (v=constant, so a=0)..."](https://www.youtube.com/watch?v=9eKc5kgPVrA), is "they are possible only if they pass right through each other".
+1. **Infrared thermometers** are (typically) calibrated for an emissivity of 0.95. If you use one on a material with a lower emissivity, it'll give inaccurate readings. This can be cheaply solved by sticking a piece of electrical tape on the surface, and measuring that.
