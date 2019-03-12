@@ -1,5 +1,9 @@
 "Yesterday I learned how to live."
 
+1. [Blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)... many perspectives can be correct at the same time. Don't disagree so readily.
+1. "Doubt is not a pleasant condition, but certainty is absurd." - someone named Voltaire
+1. When going to a house party, bring *specialty* food that the hosts could not have gotten themselves. This makes it clear to other guests that the food was not supplied by the hosts.
+1. Focusing on legacy tech like "ASP" and "ColdFusion" is a [surprisingly lucrative business](https://news.ycombinator.com/item?id=19268989): "The IT world has already more work in maintenance than in greenfield projects and that will grow every day", with a word of caution to junior devs because that is totally not the right thing to do at the beginning of one's career.
 1. If you give up your own information then people know more about you, and that means they think they're close to you.
 1. Being a leader largely involves [gaining respect](https://www.thebalancecareers.com/tips-for-success-as-a-team-leader-1919252), which usually means doing the dirty work, making tough decisions, and having a backbone.
 1. The No Tech Magazine [once](https://www.notechmagazine.com/2019/01/the-complication-of-leisure.html) suggested that the tools used for hobbies ("boating, bicycling, skiing or backpacking") are being improved by manufacturer, so much so that we forget what we actually want out of the hobby. Doing traditional archery, for example, ["promotes a sense of fun and encourages a carefree spirit."](https://www.goodreads.com/book/show/720481.The_Traditional_Bowyer_s_Bible_Volume_1)

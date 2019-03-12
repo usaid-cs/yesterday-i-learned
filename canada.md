@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The [spousal support advisory guideline](https://www.justice.gc.ca/eng/fl-df/spousal-epoux/ssag-ldfpae.html) is just that: a guideline. It is not law and judges do not have to calculate anything for spousal payments if you get divorced.
 1. According to [Global News](https://globalnews.ca/news/3828447/canada-middle-class-income-inequality/) ("$33-130k" is middle class income), anyone earning $20 an hour is middle class.
 1. [Restaurant workers don't always eat at the restaurant](https://www.cbc.ca/news/canada/kitchener-waterloo/andrew-coppolino-restaurant-staff-after-hours-food-choices-1.5002223).
 1. [Around 5000 houses burn down in Ontario every year.](https://www.mcscs.jus.gov.on.ca/english/FireMarshal/MediaRelationsandResources/FireStatistics/OntarioFires/FireLossesCausesTrendsIssues/stats_causes.html)
@@ -164,3 +165,4 @@
 1. [Hudson's Bay Company is a real estate company](http://business.financialpost.com/news/retail-marketing/u-s-activist-investor-urges-hudsons-bay-co-to-go-private), says activists.
 1. [Stephen Harper](https://en.wikipedia.org/wiki/Stephen_Harper) was the first prime minister to employ a personal stylist, [Michelle Muntean](http://www.ctvnews.ca/stephen-harper-s-stylist-no-longer-on-public-payroll-1.513467), whose duties range from coordinating his clothing to preparing his hair and makeup for speeches and television appearances.
 1. Presto GO bus passengers need to tap on their way out.
+1. A legal "blood THC concentration" limit actually exists, 2ng.

@@ -282,6 +282,7 @@ undefined
 * [Jeremy Ashkenas on semantic versioning](https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e): *"SemVer tries to compress a huge amount of information — the nature of the change, the percentage of users that will be affected by the change, the severity of the change, into a single number." "SemVer is a false promise that appeals to many developers — the promise of pain-free, don't-have-to-think-about-it, updates to dependencies. But it simply isn't true." "It's alright for robots, but bad for us."*
 * `0.1 + 0.2 = 0.30000000000000004` (over). `0.7 + 0.2 = 0.8999999999999999` (under).
 * [npm 5 is still worse than yarn](http://blog.scottlogic.com/2017/06/06/does-npm5-deprecate-yarn.html)
+* Node has its own "declaring which licence you use" syntax, called [SPDX](https://www.npmjs.com/package/spdx). `OR`, `AND`, and `WITH` are special keywords.
 
 ### Webpack
 

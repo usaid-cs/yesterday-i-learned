@@ -1,3 +1,4 @@
+1. [The Queen has a champion](https://www.historic-uk.com/CultureUK/The-Queens-Champion/), whose job was originally to "[throw] down his gauntlet and [challenge] any person who dared to deny the sovereign’s right to the throne", but since it doesn't happen today, he just carries [a flag](https://en.wikipedia.org/wiki/Royal_Standard_of_the_United_Kingdom).
 1. [Argentina had five presidents in a little over a week](https://www.quora.com/Is-it-true-that-at-one-point-Argentina-had-five-different-Presidents-in-one-week) in 2001.
 1. [倭](https://en.wikipedia.org/wiki/Wa_%28Japan%29) (wa) is the oldest recorded name of Japan.
 1. Pope Gregory XIII (in 1582) commissioned the Gregorian calendar. The largest resistance at the time came from [the populace, who feared it was an attempt by landlords to cheat them out of a week and a half's rent](https://en.wikipedia.org/wiki/Pope_Gregory_XIII#The_Gregorian_calendar).

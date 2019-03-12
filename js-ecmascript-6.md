@@ -86,6 +86,7 @@ array.reduce((p, q) => (p + q));  // example with two arguments
 `arguments` cannot be used inside arrow functions, much like `this` cannot be.
 
 * [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
+* Note: [arrow functions (basically) cannot have names](https://stackoverflow.com/questions/27977525/how-do-i-write-a-named-arrow-function-in-es2015).
 
 ```
 var a = (foo) => {

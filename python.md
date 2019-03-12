@@ -466,6 +466,10 @@ bar
 1. `__slots__` might lower memory usage by 40% to 50%.
 1. GVR had already mentioned that [PEPs are not laws](https://github.com/PyCQA/pycodestyle/issues/466). PEPs are not intended to be laws. PEPs are "merely intended to guide humans, not to require them to follow it every time."
 1. `()` does not equal `(,)` because the latter is a syntax error.
+1. Raymond's twitter pro tip: [Generally, lists are for looping; tuples for structs. Lists are homogeneous; tuples heterogeneous. Lists for variable length.](https://stackoverflow.com/a/16941245/1558430)
+1. If you want your coworker to kill you, use the ["Additional Unpacking Generalizations"](https://www.python.org/dev/peps/pep-0448/) (PEP 448) to write your tuple: `*(x for x in range(10)),`. In the same PEP: you can now unpack multiple things, multiple times, in the same function call. You can also first unpack some `*args`, and then add more after it to overwrite the stuff in `args`. *Guido* accepted this PEP.
+1. A `/` inside documentation like `sin(x, /)` means "all arguments are positional-only", and to be fair, [not that many people like it, or know what it is](https://twitter.com/raymondh/status/1103047432164696064).
+1. Child test classes that are tagged with `@attr(...)` also inherit that tag.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,3 +1,4 @@
+1. There is [no standard](https://en.wikipedia.org/wiki/Island#Differentiation_from_continents) (by size) that distinguishes islands from continents.
 1. An archipelago is just a group of islands.
 1. Pittsburgh is quite close to (40,-80).
 1. Spain almost touches Morocco.

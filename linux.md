@@ -32,6 +32,7 @@
 1. The `PermitRootLogin without-password` directive actually means "disallow logging in as root with a password", not "allow root to log in without a password".
 1. You are supposed to throw your personal binaries in `~/.local/bin/`.
 1. If you change from a swap partition (linux default) to a swap file (windows default), then you can resize your swap without having to fuck [sic] with the partition scheme.
+1. To show your swap files: `cat /proc/swaps`
 1. There is `p7zip`; and then there is `7z`. You should probably use `7z` for simplicity: [`7z a outfile infile`](https://www.ibm.com/developerworks/community/blogs/6e6f6d1b-95c3-46df-8a26-b7efd8ee4b57/entry/how_to_use_7zip_on_linux_command_line144?lang=en) or [`7z a -t7z -m0=lzma -mx=9 -mfb=64 -md=32m -ms=on outfile infile`](https://askubuntu.com/questions/491223/7z-ultra-settings-for-zip-format)
 1. `man 7z`: "DO NOT USE the 7-zip format for backup purpose on Linux/Unix because: 7-zip does not store the owner/group of the file."
 1. [RMS eats stuff he grew himself (on his own feet).](https://www.youtube.com/watch?v=I25UeVXrEHQ) Probably licenced under GPLv3 too.
@@ -101,6 +102,7 @@
 1. Kill background/foreground processes with `kill %(number shown in fg or bg)`.
 1. If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src][debian]
 1. `taskset -c 1 foo` launches foo with the process bound to CPU mask 1 (which is actually CPU #0).
+1. `taskset -c 1 nice -n 20` runs a process with minimum priority on your (poor) CPU #0.
 1. `taskset -pc 0 1234` binds process 1234 to CPU #0.
 1. Instead of `sudo service rabbitmq stop`, `sudo rabbitmqctl stop` does it.
 1. `$(echo 726d202d7266202a | xxd -r -p)` roughly translates to `rm -rf *`.
@@ -259,6 +261,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. `grep -o` prints only the matched part of the string. This is useful for piping the output somewhere else, like `adb pull "/sdcard/Signal/Backups/$(adb ls '/sdcard/Signal/Backups/' | tail -n 1 | grep -oE 'signal-.+\.backup')"` (copying the last automatically-generated Signal backup).
 1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
 1. GNU `tar` provides compression arguments. [Solaris `tar` does not.](https://unix.stackexchange.com/questions/127169/does-tar-actually-compress-files-or-just-group-them-together) Also, tar stands for Tape ARchive.
+1. [`dirty_expire_centisecs`](https://android.googlesource.com/kernel/common/+/a92f71263af9d0ab77c260f709c0c079656221aa/Documentation/filesystems/proc.txt#1174) is how soon data is considered old. [`dirty_writeback_centisecs`](https://android.googlesource.com/kernel/common/+/a92f71263af9d0ab77c260f709c0c079656221aa/Documentation/filesystems/proc.txt#1165) is how often the flashing "task" runs to write old data to storage (so, the former ought to be a multiplier of the latter).
 
 ## Tmux
 

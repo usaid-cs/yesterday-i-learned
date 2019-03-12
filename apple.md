@@ -1,7 +1,8 @@
+1. Your iOS app needs to be approved for *beta testing*.
 1. Apple's devices were once named in (incremental update, big update) ways because [AT&T had two-year contracts](https://www.androidpolice.com/2018/12/17/were-keeping-smartphones-longer-and-its-going-to-make-them-crazy-expensive/), so naming those devices like they were major upgrades every two years worked out for both of them.
 1. The guy who invented THX, which stands for [Tomlinson Holman](https://en.m.wikipedia.org/wiki/Tomlinson_Holman) something, went on to work at Apple. Apple's audio quality has been pretty good.
 1. [Phil Schiller's grand philosophical theory](http://fortune.com/2015/12/04/schiller-apple-theory/) is, essentially: the job of whichever Apple product that you have closest to you should do more and more things so you don't need to reach for the next closest Apple product so often. In the current case, the Apple Watch does more so you don't need the iPhone so much so you don't need the iPad so much so you don't need the Macbook so much so you don't need the Mac so much. And for the Mac, its job is to challenge what we can do with computers.
-1. The iOS launcher is called the springboard.
+1. The iOS launcher is called the [SpringBoard](https://en.wikipedia.org/wiki/SpringBoard).
 1. In the case of product red, since RED is superscripted and also what's trademarked, the actual logo is `(PRODUCT)^(RED^(TM))`, where TM is superscripted twice.
 1. So many people use iPhones, that when iOS 7 came out, [its parallax wallpapers caused enough people to get motion sickness to make the news](https://en.wikipedia.org/wiki/IOS_7).
 1. Macbook Pro fans don't spin up until [the CPU is 81 degrees C.](https://www.youtube.com/watch?v=wgeh7ZJRhZU)

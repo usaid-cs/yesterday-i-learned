@@ -28,6 +28,7 @@ Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.goo
 ```
 
 1. In Chrome, `<img>` tags with no `src` have a [grey border](http://stackoverflow.com/questions/10848722/google-chrome-images-have-border) that does not go away with any amount of CSS.
+1. [Void tags are `<foo>`](https://github.com/w3c/webcomponents/issues/624#issuecomment-385304654), and self-closing tags are `<foo />`.
 1. HTML5 allows closing tags to be omitted where the semantics are obvious, for example, `li` in `ul`, or `option` in `optgroup`. Then again, your colleagues will kill you, so it is not a usable part of the spec.
 1. However, [custom tags can never be self-closing in HTML5](http://stackoverflow.com/questions/23961178/do-custom-elements-require-a-close-tag).
 1. `disabled` prevents focus on the element, whereas `readonly` lets you focus on it, but not edit it. `readonly` elements also get `submit`ted.

@@ -1,3 +1,7 @@
+1. [99% of spiders have 8 eyes, but the other 1% have 4, 2, or no eyes at all](https://bugguide.net/node/view/84423/data). - paraphrasing /u/FillsYourNiche
+1. The G spot was named after [Dr Grafenberg](http://news.bbc.co.uk/2/hi/uk_news/magazine/8443465.stm). Not the first one to find it, but the first one to think it exists.
+1. Tilapia skin, which replaced pig skin, can be used to [treat burn victims](https://www.labroots.com/trending/clinical-and-molecular-dx/6078/fishy-business-tilapia-skin-saves-burn-victims).
+1. Each of a pineapple's ["nubs"](https://v.redd.it/em5w2q00w1l21) are individual berries that can be torn out and eaten.
 1. [Large dinosaurs are warm-blooded because their large bodies retain heat better](http://www.abc.net.au/science/articles/2010/11/23/3073903.htm), but they aren't necessarily endothermic. So we still aren't sure where along the line birds learned to generate its own body heat. We just know [mammals and birds became endothermic independently](https://www.jpost.com/Business-and-Innovation/Health-and-Science/New-Worlds-How-did-birds-and-mammals-become-warm-blooded-490642) through convergent evolution.
 1. Female [kleptons](https://en.wikipedia.org/wiki/Klepton) can reproduce without needing any genetic data from male kleptons, but may still require the presence of male sperm. Five species of Ambystoma salamanders undergo Kleptogenesis.
 1. [Diabetes patients often don't know they have a heart attack because of nerve damage.](https://go.ted.com/Co9e)

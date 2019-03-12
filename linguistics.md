@@ -1,3 +1,4 @@
+1. Some people... use "刀" as if it were "dollar".
 1. "Of course" is always two words, like ["alot"](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) is always one word.
 1. ["Hokkien" (福建)](https://en.wikipedia.org/wiki/Hokkien) and ["Min" (闽南语)](https://en.wikipedia.org/wiki/Southern_Min) (east of 福建) are said to be [mutually intelligible](https://en.wikipedia.org/wiki/Mutual_intelligibility). but only to a limited extent with ["Teochew" (潮州话)](https://en.wikipedia.org/wiki/Teochew_dialect) (Southwest of 福建).
 1. [Epiloque](https://en.wikipedia.org/wiki/Epilogue) is (sort of) Greek for "conclusion ... additional ... word".

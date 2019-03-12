@@ -68,3 +68,4 @@
 1. The [Roche (Rosh) Limit](https://en.wikipedia.org/wiki/Roche_limit) is the radius at which a large body can tear a smaller body apart, due to the effect of tidal forces on the smaller body.
 1. The answer to the question, ["immovable objects (a=0) vs unstoppable force (v=constant, so a=0)..."](https://www.youtube.com/watch?v=9eKc5kgPVrA), is "they are possible only if they pass right through each other".
 1. **Infrared thermometers** are (typically) calibrated for an emissivity of 0.95. If you use one on a material with a lower emissivity, it'll give inaccurate readings. This can be cheaply solved by sticking a piece of electrical tape on the surface, and measuring that.
+1. From a photon's perspective, [it takes exactly no time to travel from its source to its destination](https://www.forbes.com/sites/startswithabang/2016/09/30/how-do-photons-experience-time/#78392c93278d), no matter where the destination is. Even if something is a thousand lightyears away.

@@ -120,6 +120,8 @@ The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_desig
 ## Linked lists
 ## stacks
 ## queues
+## Priority Queues
+[Priority queues are typically implemented as heaps](https://stackoverflow.com/a/11093725/1558430). **Heaps**, in particular binary heaps, are binary trees whose topmost element is the smallest (in this case, highest priority). **Binary trees**, in turn, are typically implemented with arrays. We have come full circle.
 ## dicts
 ## trees
 ### binary search trees
@@ -150,11 +152,3 @@ No one knows what the B stands for.
 * [ ] Julia (science) 
 * [ ] I2P, or http://en.wikipedia.org/wiki/NAT_hole_punching
 * [ ] ETag tracking
-
-# Projects
-* [ ] json-template-based static site that gracefully degrades
-* [ ] preloaded image browser
-* [x] Jquery data binding
-* [ ] Your own drag and drop service
-* [ ] GAE load balancer
-* [ ] SQL Query Builder
