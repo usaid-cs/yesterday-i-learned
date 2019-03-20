@@ -1,3 +1,6 @@
+1. "Because information has to travel to your brain via neural pathways, everything you are experiencing actually happened 80 milliseconds in the past." Also: because the speed of light is instantaneous only relative to the photon, you never see anything at its present.
+1. Consciousness is theorised to be [various mechanisms to locate food](https://www.youtube.com/watch?v=H6u0VBqNBQ8). The theory does not explain whether clams, which eat through random filtration *but* can protect itself from danger, is considered conscious.
+1. Wood turned into coal because fungi didn't exist to break down the wood.
 1. [99% of spiders have 8 eyes, but the other 1% have 4, 2, or no eyes at all](https://bugguide.net/node/view/84423/data). - paraphrasing /u/FillsYourNiche
 1. The G spot was named after [Dr Grafenberg](http://news.bbc.co.uk/2/hi/uk_news/magazine/8443465.stm). Not the first one to find it, but the first one to think it exists.
 1. Tilapia skin, which replaced pig skin, can be used to [treat burn victims](https://www.labroots.com/trending/clinical-and-molecular-dx/6078/fishy-business-tilapia-skin-saves-burn-victims).
@@ -836,3 +839,16 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. "Baby foot" or other chemical foot peel products would recommend you to [not work out for a week](https://www.quora.com/Does-chemical-peeling-on-skin-have-any-side-effects?share=1).
 1. Three-toed sloths are mostly diurnal, while two-toed sloths are nocturnal. Sloths are also known to urinate once a week.
 1. [Marshmallow](https://en.wikipedia.org/wiki/Althaea_%28genus%29) is a plant.1. The process of cutting a ring around a tree has a name; it is called [girdling](https://en.wikipedia.org/wiki/Girdling). Girdling around the base kills the entire tree; girdling branches might make the tree bear larger fruit.
+1. You have this sinking feeling in your stomach when you are stressed because [blood is leaving it](http://www.reddit.com/r/explainlikeimfive/comments/2h3cr7/eli5_what_is_physically_causing_the_feeling_of/).
+1. Having long (wet) hair can make you lose a lot of body heat.
+1. Tilapia die in waters below 21 degrees C.
+1. On [water bug bites](https://en.wikipedia.org/wiki/Belostomatidae): "Their bite is considered one of the most painful that can be inflicted by any insect; however, though excruciatingly painful, it is of no medical significance."
+1. Every drug approved by the FDA must be tested by what they call the [Limulus amebocyte lysate test](http://m.theatlantic.com/technology/archive/2014/02/the-blood-harvest/284078/) (aka blue blood from horseshoe crabs)
+1. The average American (male or otherwise) weighs almost 200lbs.
+1. Voice is deeper in the morning because fluids move from your legs back to your neck and head while you sleep.
+1. A specific breed of dog, the [bloodhound](https://en.wikipedia.org/wiki/Bloodhound), can track a human's scent across different terrains.
+1. You don't smell the odor compounds when they are dissolved in the saliva. It is only when the saliva dries up, like when you lick the back of your hand, that you can smell them. That's why you tend to smell bad breath when someone talks; the moving air dries up the mouth and caries the compounds toward you
+1. "Herbs" are only from leaves of plants, and that "spices" are from everything *but* the leaves.
+1. "Blanchard and Klassen (1997) reported that each additional older brother increases the odds of a man being gay by 33%."
+1. When a person is near death, saliva accumulate near the throat, making noises known as the [death rattle](http://en.wikipedia.org/wiki/Death_rattle).
+1. [Fish yawn](http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s), aquatic animals yawn, [unborn babies yawn](http://www.tandfonline.com/doi/abs/10.3109/14722240500284070), all [known] vertebrates yawn.

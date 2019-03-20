@@ -296,3 +296,4 @@ After press `Ctrl+B`, followed by
 1. SSH got port 22 because... [the author sent IANA, the authority at the time](https://www.ssh.com/ssh/port).
 1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
 1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
+1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time.

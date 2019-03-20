@@ -212,6 +212,8 @@ undefined
 * A [gulp task that returns](https://stackoverflow.com/questions/21699146/gulp-js-task-return-on-src) is a synchronous gulp task. If your task A returns nothing and some other task B depends on task A, task A will simply be run and not awaited. So you should probably return something.
 * The `{a, b, c} === {a: 'a', b: 'b', c: 'c'}` syntax is called [punning](https://reasonml.github.io/docs/en/record#syntax-shorthand).
 * Because JS is JS, `{b: undefined}` is perfectly valid, and defining `b` as `undefined` really defines `b`.
+* Adding [`)]}\n`](https://groups.google.com/forum/#!topic/repo-discuss/uzr84ZGI62g) in front of every JSON request is a way to protect against XSSI, or cross-site script inclusion. This makes the payload impossible to execute if included as a script tag, but trivial to remove the prefix if the data was retrieved using XHR.
+* Use `nvm ls-remote` to find out what versions it has available to install.
 
 ## Deferred API
 

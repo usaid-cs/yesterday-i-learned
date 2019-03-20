@@ -1,3 +1,4 @@
+1. If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by *a + bi + cj + dk* rather than *a + bi* (complex). In this system, *j × k* somehow comes you *-i*.
 1. [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) states that a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 1. Regular expressions are called regular expressions because they are the expressions used to describe [regular languages](https://en.wikipedia.org/wiki/Regular_language).
 1. In the world if statistics, the probability of something happening, and the probability of that something *not* happening, always combine to 1 (100%).
@@ -40,3 +41,4 @@
 1. Prime factorisation... all numbers decompose to a number of primes, these primes multiply to that number. No two different numbers share the same factorisation (because duh, they won't multiply together to different numbers).
 1. Prime factorisation comes into this because `{(some number) ^ (party 1's private key) ^ (party 2's private key)} mod (huge prime)` == `{(some number) ^ (party 2's private key) ^ (party 1's private key)} mod (huge prime)`. When used in Diffie-Hellman Key Exchange, neither private keys are exposed, and modular arithmetic is fast for people who do have their private keys.
 1. `(m^e) mod N = c` (where m is the private key?) is a one-way function because given e, N, and c, it is still hard to find m.
+1. Factorials end up with lots of zeros at the end. That's because [every time the number reaches "10", an additional trailing zero is guaranteed.](http://www.purplemath.com/modules/factzero.htm) Every pair of 2 and 5 also add a zero.

@@ -46,6 +46,7 @@
 * Prefetching with `get_object_or_404` is possible with something like `get_object_or_404(Thing.prefetch_related(), id=4)`.
 * [Django-pandas](https://github.com/chrisdev/django-pandas/) does exactly what you think it'd do: convert a queryset into a dataframe. Basically, you are working with tables.
 * The difference between `get_user_model()` and `settings.AUTH_USER_MODEL` is, well, the latter is a string. (Being a string is still useful in situations where the actual model is not needed, like a foreign key reference, or type hinting.)
+* You cannot write a `unique_together` based on foreign key values, because [`unique_together` maps directly to columns](https://stackoverflow.com/a/4440189/1558430).
 
 ## Views / Templating
 * the `django_js` tag cannot be compressed!

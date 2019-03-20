@@ -1,3 +1,5 @@
+1. Empires central to the [bronze age](https://en.wikipedia.org/wiki/Bronze_Age) (Egypt, Anatolia, the Hittites) might have collapsed because their advanced civilisations could not tolerate a large-scale failure, [potentially](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjQm-TsuY7hAhVsw1kKHa3xA10QwqsBMAF6BAgCEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3HaqpSPVhW8&usg=AOvVaw2dTaqQ6rG7ekPEboDmoAcP) a famine in Europe, which brought many refugees to the region. That, or it could have been a form of [systems collapse](https://en.wikipedia.org/wiki/Societal_collapse#Systems_science), where the society grew so large that the cost to maintain it exceeds the "GDP" the civilisation could muster. The Roman empire is said to have failed that way.
+1. ["Newsgroups"](https://en.wikipedia.org/wiki/Usenet_newsgroup) are Usenet creations. Originally actually meant for news, they are now discussion groups. Google Groups is a gateway to actual Usenet groups, so, naturally, groups get the most spam from it.
 1. [The Queen has a champion](https://www.historic-uk.com/CultureUK/The-Queens-Champion/), whose job was originally to "[throw] down his gauntlet and [challenge] any person who dared to deny the sovereign’s right to the throne", but since it doesn't happen today, he just carries [a flag](https://en.wikipedia.org/wiki/Royal_Standard_of_the_United_Kingdom).
 1. [Argentina had five presidents in a little over a week](https://www.quora.com/Is-it-true-that-at-one-point-Argentina-had-five-different-Presidents-in-one-week) in 2001.
 1. [倭](https://en.wikipedia.org/wiki/Wa_%28Japan%29) (wa) is the oldest recorded name of Japan.
@@ -141,3 +143,9 @@
 1. Chile tried to claim Antarctica as its territory and failed because it once signed a [treaty](https://en.wikipedia.org/wiki/Antarctic_Treaty_System) saying no one lives there.
 1. [The state of Virginia](http://en.wikipedia.org/wiki/Virginia) (actually a commonwealth) was the most populous state during the 1800s, and was the state with the most presidents (7).
 1. Pythagoras knew that the Earth was round 500 years before Chris(t) was born.
+1. Vikings were still a thing in the eleventh century.
+1. The [Parthenon](https://en.wikipedia.org/wiki/Parthenon) was turned into a church, a mosque, and then blown up, when the Venetians accidentally set off an Ottoman ammo store inside (it was lit).
+1. You can't smoke on planes thanks to [Air Canada flight 797](https://en.wikipedia.org/wiki/Air_Canada_Flight_797), where smoking in the toilet caused the plane to smoke up and eventually burn.
+1. White wedding dresses weren't adopted as popular practice until Queen Victoria wore a white lace gown for her wedding to Prince Albert in 1840.
+1. The PG-13 rating was created [in response to "Indiana Jones and the Temple of Doom"](https://www.businessinsider.com/indiana-jones-and-the-temple-of-doom-created-pg-13-rating-2014-4), which was too violent for PG but not bad enough for R.
+1. During the holocaust, gays in concentration camps had a 60% death rate. When the war was over, they just went to another prison.

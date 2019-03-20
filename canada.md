@@ -165,4 +165,5 @@
 1. [Hudson's Bay Company is a real estate company](http://business.financialpost.com/news/retail-marketing/u-s-activist-investor-urges-hudsons-bay-co-to-go-private), says activists.
 1. [Stephen Harper](https://en.wikipedia.org/wiki/Stephen_Harper) was the first prime minister to employ a personal stylist, [Michelle Muntean](http://www.ctvnews.ca/stephen-harper-s-stylist-no-longer-on-public-payroll-1.513467), whose duties range from coordinating his clothing to preparing his hair and makeup for speeches and television appearances.
 1. Presto GO bus passengers need to tap on their way out.
-1. A legal "blood THC concentration" limit actually exists, 2ng.
+1. A legal "blood THC concentration" limit actually exists, 2ng.1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
+1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.

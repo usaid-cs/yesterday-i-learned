@@ -69,3 +69,5 @@
 1. The answer to the question, ["immovable objects (a=0) vs unstoppable force (v=constant, so a=0)..."](https://www.youtube.com/watch?v=9eKc5kgPVrA), is "they are possible only if they pass right through each other".
 1. **Infrared thermometers** are (typically) calibrated for an emissivity of 0.95. If you use one on a material with a lower emissivity, it'll give inaccurate readings. This can be cheaply solved by sticking a piece of electrical tape on the surface, and measuring that.
 1. From a photon's perspective, [it takes exactly no time to travel from its source to its destination](https://www.forbes.com/sites/startswithabang/2016/09/30/how-do-photons-experience-time/#78392c93278d), no matter where the destination is. Even if something is a thousand lightyears away.
+1. [The speed of gravity waves is the same as the speed of light.](https://en.wikipedia.org/wiki/Speed_of_gravity)
+1. On current: "Current is like rope, it can be pulled; but not pushed." - [Thread about shocking your own balls with a car battery](https://www.reddit.com/r/WTF/comments/8uen0t/i_found_a_homemade_electric_chair_while_exploring/e1fcy3r/)

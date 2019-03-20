@@ -1,3 +1,4 @@
+1. "If you are titrating a weak acid with a strong base, for example, the color indicator may change color at a pH that does not necessarily equate to the stoichiometric point." (presumably because you have a buffer solution)
 1. You can [knock bismuth (in the form of BiCl3 aq) out](https://www.youtube.com/watch?v=-_qpzFlpgpo) with aluminium foil.
 1. When it comes to orbitals, the periodic table could be considered incorrect when placing helium over neon. When placed over beryllium, which also has a full s shell, [the periodic table is made of neat blocks that map exactly to s, p, d, and f orbitals](https://cen.acs.org/unassigned/Reactions/97/i3).
 1. Adding sodium chloride to hard water [should](https://en.wikipedia.org/wiki/Water_softening) soften it. Adding [limewater](https://en.wikipedia.org/wiki/Lime_%28material%29) (mixture of CaCO3, CaO, and Ca(OH)2) through [Clark's process](https://en.wikipedia.org/wiki/Lime_softening), somehow also softens water by changing pH, making the existing calcium carbonate in the water precipitate out.
@@ -166,3 +167,4 @@
 1. Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"
 1. The phytohemagglutinin in as few as 25 unsoaked kidney Beans can kill you. If they are slow cooked, the toxicity increases fivefold.
 1. Chloroform won't knock someone out in seconds. It takes minutes.
+1. The [Bohr Effect](https://en.wikipedia.org/wiki/Bohr_effect) explains why increasing CO2 concentration makes hemoglobin release their oxygen (affinity curve).

@@ -4,6 +4,7 @@
 # Categories
 
 ## Information & general works
+* [home-ec.md](home-ec.md)
 * [random.md](random.md)
 * [useless-trivia.md](useless-trivia.md)
 

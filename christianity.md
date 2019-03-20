@@ -14,3 +14,7 @@
 1. There are two James and two Simons apostles.
 1. [God definitely pulled an Anakin](https://knowyourmeme.com/memes/i-killed-them-all) in 1 Samuel 15: ["Do not spare them; put to death men and women, children and infants, cattle and sheep, camels and donkeys"](https://www.biblegateway.com/passage/?search=1+Samuel+15&version=NIV)
 1. Genesis 7:2 clearly says there are *seven* pairs of clean animals.
+1. [The disciple whom Jesus loved](https://en.wikipedia.org/wiki/Disciple_whom_Jesus_loved) is not his wife like some moron said on Youtube. Jesus has no wife.
+1. The bible never said no to cannibalism. It more often said "do not murder", while never ruling out human sacrifice (Genesis 22). Since humans are neither shellfish nor hoofed, apart from superstition, the bible never really ruled out consumption of anyone who died in a way that drained out their own blood.
+1. God sends good and evil to us without respect to our righteousness [in the book of Job], said a [chill dude](https://np.reddit.com/r/news/comments/6yi7n0/white_christians_are_now_a_minority_of_the_us/dmoap3c/?context=3).
+1. "As a non religious individual I often consider the fact that a 'god' may very well exist, but considering the scope of both power and persuasion an individual of a god calibre would employ, it would be reasonable to assume that such an entity would view us as interesting and important as you would a single celled organism."

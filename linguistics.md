@@ -1,3 +1,4 @@
+1. The stress on "Constantinopole" is actually on the O.
 1. Some people... use "刀" as if it were "dollar".
 1. "Of course" is always two words, like ["alot"](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) is always one word.
 1. ["Hokkien" (福建)](https://en.wikipedia.org/wiki/Hokkien) and ["Min" (闽南语)](https://en.wikipedia.org/wiki/Southern_Min) (east of 福建) are said to be [mutually intelligible](https://en.wikipedia.org/wiki/Mutual_intelligibility). but only to a limited extent with ["Teochew" (潮州话)](https://en.wikipedia.org/wiki/Teochew_dialect) (Southwest of 福建).
@@ -323,3 +324,8 @@
 1. Despite being one of the two official languages, only 0.6% of the Macanese population speak Portuguese at home.
 1. "Improvisation" can be promounced "improvise-A-tion" - but only in British English it seems. Otherwise it is "im-PROV-VI-SA-tion".
 1. [Young swans are known as *swanlings* or *cygnets*](https://en.wikipedia.org/wiki/Swan), from Greek κύκνος, kýknos and from the Latin word cygnus ("swan") and the Old French suffix -et ("little"). An adult male is a *cob*, from Middle English cobbe (leader of a group); an adult female is a *pen*.
+1. The Latin *Kyrie*, KEAR-ee-ay, came from Greek Κύριε, or "Lord".
+1. The *schoen* in *Danke schoen* rhymes with *une*.
+1. Both ["bury the lead"](http://en.wiktionary.org/wiki/bury_the_lead) and "bury the lede" are used. There is no clear answer.
+1. [Telugu](https://en.wikipedia.org/wiki/Telugu_language) (probably sounds like "Telegoo") is the third most-spoken language in India, behind Hindi and English, which have official status. Telugu is spoken in what is considered [South Central](https://en.wikipedia.org/wiki/Dravidian_languages), whereas Tamil is the actual South, where the [Tamil boyes](https://en.wikipedia.org/wiki/Three_Crowned_Kings) lived.
+1. For a tongue twister, try "il y a eu une erreur".

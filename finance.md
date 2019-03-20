@@ -1,3 +1,4 @@
+1. Thinking about profitability is very easy. [If the cost of you acquiring the customer is less than how much the customer will pay you, then you've made a profit](https://www.youtube.com/watch?v=7bFFgrLSEXA). Selling bundles is great, because (a) people think they get deals, and (b) people pay monthly, and (c) they rarely use everything in their bundles, which means less operating cost per customer.
 1. Investment "Rule of 72"... 72/rate = investment doubles in n years
 1. Only a fool would look at fool.com/fool.ca. On the 24th: ["Why Home Capital Group Inc is the Stock of the Year"](http://www.fool.ca/2017/04/24/why-home-capital-group-inc-is-the-stock-of-the-year/). On the 26th: Home Capital Group Inc drops by 60%+.
 1. "[Circular economy](https://en.wikipedia.org/wiki/Circular_economy)" is a buzzword that means "nothing in manufacturing goes to waste".
@@ -25,3 +26,5 @@
 1. ["The Fed cut rates because it wanted corporations to be able to borrow money cheaply. It reasoned that cheap money would let corporations spend on new projects and take more risks, which would grow the economy out of the recession."](https://moneymorning.com/2017/02/17/warning-signs-a-stock-market-crash-is-coming/)
 1. It is illegal to pay your mortgage with loaned money, at least in the US.
 1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten). This is called the Lipstick Effect.
+1. The stock exchange is where people smarter than you get money off people less smart than them, like you. It is not a gambling table. It is an exchange. The smartest people win.
+1. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.

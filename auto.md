@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Tesla SEXY is not a rumour. [Elon Musk said it himself](https://www.youtube.com/watch?v=F6rp8ygaLgA). He also said, "Ford killed SEX."
 1. The Australian vehicle type called a "Ute" (YOOT) is short for "Utility".
 1. [Japanese cars actually have *higher* tolerances](https://news.ycombinator.com/item?id=19017495) (i.e. parts are worse). "U.S. car manufacturers have traditionally tended to spec tight tolerances at the component level, with the assumption that everything will fit when assembled... Japanese auto manufacturers however, ... paid more attention to assembly tolerances (functional build). They understood what tolerances needed to be tight and those that mattered less in the final build. They embraced natural imperfections, and made sure the rest of the system accepted the lower part tolerances. It turns out this led to higher overall quality at lower cost."
 1. The 2018 Camry uses [0W-16 oil](https://www.reddit.com/r/Justrolledintotheshop/comments/aibt1s/what_the_heck_toyota/). That thread suggests they have been testing 0W-16 oil in Japan for (two) decades now. [0W-8](https://www.youtube.com/watch?v=w7PYAWkscD4) oil... further lowers parasitic drag, which increases fuel efficiency, but also reduces protection to larger engines when working hard.

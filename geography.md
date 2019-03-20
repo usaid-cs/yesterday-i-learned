@@ -29,3 +29,10 @@
 1. New Zealand [literally means new sea land](http://i.imgur.com/ex6Zu.jpg). It is named after [Zeeland](https://en.wikipedia.org/wiki/Zeeland), a place in the Netherlands.
 1. [Yonaguni](https://goo.gl/maps/1WWTYei8jBU2) is lower down in latitude than Taipei is.
 1. Tobago rhymes with Potato.
+1. The Japanese walked to Japan. The sea that separated Korea and Japan did not exist.
+1. Bangalore is officially known as Bengaluru.
+1. Russia has an [exclave](https://en.wikipedia.org/wiki/Enclave_and_exclave) called [Kaliningrad Oblast](https://en.wikipedia.org/wiki/Kaliningrad_Oblast). It is named after [a Soviet somebody called Kalinin](https://en.wikipedia.org/wiki/Mikhail_Kalinin).
+1. The largest country in Europe is actually [Ukraine](https://en.wikipedia.org/wiki/List_of_European_countries_by_area), if you don't think Russia is a thing, because a country like [that](https://www.theguardian.com/technology/2018/jan/19/twitter-admits-far-more-russian-bots-posted-on-election-than-it-had-disclosed) doesn't deserve to participate in [any event](http://www.cbc.ca/sports/olympics/ioc-russia-doping-1.4432781).
+1. [Brittany](https://en.wikipedia.org/wiki/Brittany) is a place in France.
+1. [Earthquake lights](http://en.wikipedia.org/wiki/Earthquake_light) are visible near places before an earthquake happens. There is no concrete explanation so far.
+1. [All states in the US are divided into counties, with two exceptions: Louisiana, which consists of parishes, and Alaska, which uses boroughs.](https://www.reddit.com/r/todayilearned/comments/5amvuf/til_all_states_in_the_us_are_divided_into/)

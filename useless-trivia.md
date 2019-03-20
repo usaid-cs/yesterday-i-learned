@@ -74,3 +74,9 @@
 1. (RE: blind people wiping) They fold it. If it sticks together, they wipe again.
 1. The ["Is this...?" meme](http://knowyourmeme.com/memes/is-this-a-pigeon) originally said ["Is this a pigeon?"](https://www.youtube.com/watch?v=1IajfRTodPA)
 1. In the movie, Ares seeks the Amazon island, where the women lived. In the cartoon, Ares is already in the bloody island, sitting a jail. In both cases, the woman is called Diana, and a plane pilot crashes into the Amazon. You learned this the hard way when you searched for "Wonder Woman". Fun fact... in the movie, the Germans have a reverse D-Day (they land).
+1. BLU (the phone manufacturer) stands for Bold Like Us.
+1. In October 2017, [Tim bought a fidget spinner](https://www.youtube.com/watch?v=IzLvEdA0RX8) without knowing what it is.
+1. The Avengers was the one where a giant robot snake came out of the sky. You already saw it two times. You hated it all three times.
+1. Bruce Banner is the fictional character who turns into (the) Hulk. Bruce Jenner is almost completely different.
+1. Kumail Nanjiani was not an Uber driver like The Big Sick depicted. The partner app did not exist until 2011. He was an IT guy instead, like Silicon Valley depicted.
+1. Amy Schumer [is human plagiarism.](https://www.youtube.com/watch?v=4eDxjxVl8S0).
