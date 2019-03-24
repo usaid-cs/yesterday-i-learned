@@ -1,3 +1,4 @@
+1. [Lenovo's daughter had a MacBook, iPad, and iPhone when she was arrested.](https://www.theverge.com/tldr/2019/3/22/18278086/huawei-meng-wanzhou-had-a-macbook-iphone-and-ipad-when-she-was-arrested)
 1. Your iOS app needs to be approved for *beta testing*.
 1. Apple's devices were once named in (incremental update, big update) ways because [AT&T had two-year contracts](https://www.androidpolice.com/2018/12/17/were-keeping-smartphones-longer-and-its-going-to-make-them-crazy-expensive/), so naming those devices like they were major upgrades every two years worked out for both of them.
 1. The guy who invented THX, which stands for [Tomlinson Holman](https://en.m.wikipedia.org/wiki/Tomlinson_Holman) something, went on to work at Apple. Apple's audio quality has been pretty good.

@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Bloor Street is named after [Joseph Bloore](https://en.wikipedia.org/wiki/Joseph_Bloore), who founded Yorkville.
+1. In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year.
 1. The [spousal support advisory guideline](https://www.justice.gc.ca/eng/fl-df/spousal-epoux/ssag-ldfpae.html) is just that: a guideline. It is not law and judges do not have to calculate anything for spousal payments if you get divorced.
 1. According to [Global News](https://globalnews.ca/news/3828447/canada-middle-class-income-inequality/) ("$33-130k" is middle class income), anyone earning $20 an hour is middle class.
 1. [Restaurant workers don't always eat at the restaurant](https://www.cbc.ca/news/canada/kitchener-waterloo/andrew-coppolino-restaurant-staff-after-hours-food-choices-1.5002223).
@@ -167,3 +169,4 @@
 1. Presto GO bus passengers need to tap on their way out.
 1. A legal "blood THC concentration" limit actually exists, 2ng.1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
+1. According to the packaging for Prince Igor Vodka, Prince Igor lives in Grimsby Ontario.

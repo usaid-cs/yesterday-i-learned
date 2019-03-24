@@ -475,6 +475,8 @@ bar
 1. Tox is a meta test runner that manipulates the virtualenv. If you have a project that never changes virtualenv (read: supports only one python version), Tox is not the tool of choice.
 1. In a [list comprehension](https://www.python.org/dev/peps/pep-0202/#rationale) (formally PEP 202) in the form `[... for x... for y...]`, the last index varies fastest, just like nested for loops.
 1. If you need a reason not to use list comprehensions for looping, [here](https://github.com/PyCQA/pylint/issues/2380#issuecomment-411660809) it is, from Claudiu Popa, a member of the [Python Code Quality Authority](https://github.com/PyCQA): *"(...) you are creating a transient list that just gets thrown away after you're done with the iteration. It's more efficient to just use the for loop here, and it goes without saying that it helps with the readability of the code as well."*
+1. "Returns anything with superclass T" can supposedly be written as [`-> Type[T]`](https://docs.python.org/3/library/typing.html#typing.Type).
+1. Using [`super(self.__class__, self)`](https://stackoverflow.com/a/18208725/1558430) in subclass of the class that contains that line will not call the correct superclass method. To prevent that happening in your project, use [flake8-super-call](https://pypi.org/project/flake8-super-call/).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

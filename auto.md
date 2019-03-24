@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. Unless you live in the valley, where the temperature is constant, **any primarily electric vehicle with air-cooled batteries is not worth buying**.
 1. Tesla SEXY is not a rumour. [Elon Musk said it himself](https://www.youtube.com/watch?v=F6rp8ygaLgA). He also said, "Ford killed SEX."
 1. The Australian vehicle type called a "Ute" (YOOT) is short for "Utility".
 1. [Japanese cars actually have *higher* tolerances](https://news.ycombinator.com/item?id=19017495) (i.e. parts are worse). "U.S. car manufacturers have traditionally tended to spec tight tolerances at the component level, with the assumption that everything will fit when assembled... Japanese auto manufacturers however, ... paid more attention to assembly tolerances (functional build). They understood what tolerances needed to be tight and those that mattered less in the final build. They embraced natural imperfections, and made sure the rest of the system accepted the lower part tolerances. It turns out this led to higher overall quality at lower cost."

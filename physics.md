@@ -1,3 +1,5 @@
+1. The Earth is actually closer to the sun during the northern hemisphere's winter. Seasons are largely affected by the tilt. Also, most of Africa is in the southern hemisphere, if you haven't noticed already.
+1. Only rohots sink in lava. Humans don't sink into lava.
 1. Short gamma ray bursts are generated when (including) neutron stars merge. Long gamma ray bursts are generated when [supernovae collapse into a black hole](https://www.youtube.com/watch?v=RLykC1VN7NY). Theories even suggest maybe there isn't much more life in space because GRBs are killing lifeforms on a regular basis.
 1. Cold water is audibly different from hot water. (That means you can hear the difference between the two being poured, and you know which is which.)
 1. At 194 dB or dBA (dB adjusted for the human ear), [sound waves become shock waves](https://www.noisehelp.com/noise-level-chart.html).
@@ -38,7 +40,7 @@
 1. A knuckle ball moves erratically because [it *isn't* spinning](https://www.reddit.com/r/askscience/comments/50cg2n/hi_my_name_is_jack_im_14_years_old_and_i_love/d72zdj3).
 1. [Superluminal communication](https://en.wikipedia.org/wiki/Superluminal_communication) (communicating instantly through quantum entanglement) is believed to be impossible because, in a Lorentz-invariant theory, it could be used to [transmit information into the past](https://en.wikipedia.org/wiki/Tachyonic_antitelephone).
 1. Running in the rain: given `total rain rate = (rate from top * seconds outdoors) + (rate from side * seconds walking)`, you get less wet if you stand still from time A to time B, and less wet if you run from point A to point B.
-1. Space movies almost never depict explosions correctly. [There is no fire (or very little of it)](https://www.reddit.com/r/interestingasfuck/comments/90gkle/exploding_model_ships_cotton_balls_leds/e2qf461/), the fragments would travel at the same speed as the vehicle they came from, and it would quickly distinguish because there is no air.
+1. Space movies almost never depict explosions correctly. [There is no fire (or very little of it)](https://www.reddit.com/r/interestingasfuck/comments/90gkle/exploding_model_ships_cotton_balls_leds/e2qf461/), the fragments would travel at the same speed as the vehicle they came from, and it would quickly extinguish because there is no air.
 1. To the moon, the Earth is a thing in the sky that stays in position all the time.
 1. The ISS is set to retire in 2020. [Or 2024. Or 2028. Or...](https://www.google.com/search?q=The+ISS+is+set+to+retire+in)
 1. The reason [(microwaving your own fucking hand)](https://www.youtube.com/watch?v=WcOhd9ikNAw) is bad is because microwaves are primarily absorbed below the skin, thus bypassing the nerves. [You could be literally cooking your muscles without ever realizing it.](https://www.reddit.com/r/holdmybeaker/comments/3z2uoj/hmb_while_i_microwave_my_hand/cyiur98)

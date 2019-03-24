@@ -1,3 +1,7 @@
+1. Nutritionally, [cold water is absorbed more quickly than warm water](http://waterwiseguy.blogspot.com/2009/07/water-temperature-and-absorption.html) and therefore decreases risk of dehydration.
+1. "[OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) is the presence of obsessions and compulsions. [OCPD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_personality_disorder) is an excessive need for order, perfectionism, etc." - /u/shallowblue
+1. [Proprioception](https://en.wikipedia.org/wiki/Proprioception) is sensing one's own [movements]. Without it, you cannot move a muscle and know where the arm went. So you have more than five senses.
+1. [Second-hand smoke causes more deaths from heart disease than from lung disease](https://www.lung.org/stop-smoking/smoking-facts/health-effects-of-secondhand-smoke.html).
 1. "Because information has to travel to your brain via neural pathways, everything you are experiencing actually happened 80 milliseconds in the past." Also: because the speed of light is instantaneous only relative to the photon, you never see anything at its present.
 1. Consciousness is theorised to be [various mechanisms to locate food](https://www.youtube.com/watch?v=H6u0VBqNBQ8). The theory does not explain whether clams, which eat through random filtration *but* can protect itself from danger, is considered conscious.
 1. Wood turned into coal because fungi didn't exist to break down the wood.
@@ -852,3 +856,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. "Blanchard and Klassen (1997) reported that each additional older brother increases the odds of a man being gay by 33%."
 1. When a person is near death, saliva accumulate near the throat, making noises known as the [death rattle](http://en.wikipedia.org/wiki/Death_rattle).
 1. [Fish yawn](http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s), aquatic animals yawn, [unborn babies yawn](http://www.tandfonline.com/doi/abs/10.3109/14722240500284070), all [known] vertebrates yawn.
+1. [Phantom Orchid](https://en.wikipedia.org/wiki/Cephalanthera_austiniae) has no chlorophyll.
+1. [Beauty sleep](http://www.sleepdex.org/beautysleep.htm): skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.

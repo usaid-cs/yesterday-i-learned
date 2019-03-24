@@ -1,5 +1,9 @@
 "Yesterday I learned how to live."
 
+1. Try not to shower before you drink coffee.
+1. Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
+1. *Do* go to bed angry. Arguing while tired is not beneficial.
+1. Good things come to those who actively look for them. Waiting is like waiting for food to hit your mouth.
 1. [Blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)... many perspectives can be correct at the same time. Don't disagree so readily.
 1. "Doubt is not a pleasant condition, but certainty is absurd." - someone named Voltaire
 1. When going to a house party, bring *specialty* food that the hosts could not have gotten themselves. This makes it clear to other guests that the food was not supplied by the hosts.
@@ -7,7 +11,7 @@
 1. If you give up your own information then people know more about you, and that means they think they're close to you.
 1. Being a leader largely involves [gaining respect](https://www.thebalancecareers.com/tips-for-success-as-a-team-leader-1919252), which usually means doing the dirty work, making tough decisions, and having a backbone.
 1. The No Tech Magazine [once](https://www.notechmagazine.com/2019/01/the-complication-of-leisure.html) suggested that the tools used for hobbies ("boating, bicycling, skiing or backpacking") are being improved by manufacturer, so much so that we forget what we actually want out of the hobby. Doing traditional archery, for example, ["promotes a sense of fun and encourages a carefree spirit."](https://www.goodreads.com/book/show/720481.The_Traditional_Bowyer_s_Bible_Volume_1)
-1. [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You train the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you *don't* laugh at their broken English, because doing so will give them the idea to improve it.
+1. [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You practice the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you *don't* laugh at their broken English, because doing so will give them the idea to improve it.
 1. [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the Ben Franklin effect, the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
 1. Some wise redditor once posted, “Your success in life will be directly proportional to your willingness to have uncomfortable discussions.”
 1. Don't *want* to change. *Decide* to change.

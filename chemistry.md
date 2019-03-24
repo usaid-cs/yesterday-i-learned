@@ -1,3 +1,4 @@
+1. If contaminants are present, [(rotten) ice can form](https://en.wikipedia.org/wiki/Rotten_ice) in the shape of honeycombs.
 1. "If you are titrating a weak acid with a strong base, for example, the color indicator may change color at a pH that does not necessarily equate to the stoichiometric point." (presumably because you have a buffer solution)
 1. You can [knock bismuth (in the form of BiCl3 aq) out](https://www.youtube.com/watch?v=-_qpzFlpgpo) with aluminium foil.
 1. When it comes to orbitals, the periodic table could be considered incorrect when placing helium over neon. When placed over beryllium, which also has a full s shell, [the periodic table is made of neat blocks that map exactly to s, p, d, and f orbitals](https://cen.acs.org/unassigned/Reactions/97/i3).
