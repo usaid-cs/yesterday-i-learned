@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.
+1. VRTUCAR is owned by [Communauto](https://en.wikipedia.org/wiki/Communauto), a private company headquartered in Montreal. [It is not a co-op](https://www.cbc.ca/news/canada/kitchener-waterloo/vrtucar-communauto-community-careshare-kw-waterloo-hamilton-1.4594729).
 1. Bloor Street is named after [Joseph Bloore](https://en.wikipedia.org/wiki/Joseph_Bloore), who founded Yorkville.
 1. In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year.
 1. The [spousal support advisory guideline](https://www.justice.gc.ca/eng/fl-df/spousal-epoux/ssag-ldfpae.html) is just that: a guideline. It is not law and judges do not have to calculate anything for spousal payments if you get divorced.

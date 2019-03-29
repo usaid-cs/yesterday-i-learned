@@ -1,3 +1,7 @@
+1. [Facsimile](https://www.dictionary.com/browse/facsimile) (fak-SIM-uh-lee) means an *exact* copy, not just any imitation.
+1. 牛逼, cow vagina, means "super cool".
+1. [馬鹿野郎](https://en.wiktionary.org/wiki/%E9%A6%AC%E9%B9%BF%E9%87%8E%E9%83%8E): bakayaro.
+1. Detriot is a French word indeed (*Détroit*, strait). In 1701, Antoine de la Mothe Cadillac founded [Fort Pontchartrain du Détroit](https://en.wikipedia.org/wiki/Fort_Detroit).
 1. The stress on "Constantinopole" is actually on the O.
 1. Some people... use "刀" as if it were "dollar".
 1. "Of course" is always two words, like ["alot"](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) is always one word.
@@ -329,3 +333,6 @@
 1. Both ["bury the lead"](http://en.wiktionary.org/wiki/bury_the_lead) and "bury the lede" are used. There is no clear answer.
 1. [Telugu](https://en.wikipedia.org/wiki/Telugu_language) (probably sounds like "Telegoo") is the third most-spoken language in India, behind Hindi and English, which have official status. Telugu is spoken in what is considered [South Central](https://en.wikipedia.org/wiki/Dravidian_languages), whereas Tamil is the actual South, where the [Tamil boyes](https://en.wikipedia.org/wiki/Three_Crowned_Kings) lived.
 1. For a tongue twister, try "il y a eu une erreur".
+1. ["How about"](https://english.stackexchange.com/questions/13659/how-about-vs-what-about) is when you have a suggestion. "What about" is when you have a concern.
+1. The plural of *alma mater* (nournishing mother) is *almae matres* (nournishing mothers).
+1. Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)

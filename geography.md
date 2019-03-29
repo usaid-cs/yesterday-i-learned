@@ -36,3 +36,6 @@
 1. [Brittany](https://en.wikipedia.org/wiki/Brittany) is a place in France.
 1. [Earthquake lights](http://en.wikipedia.org/wiki/Earthquake_light) are visible near places before an earthquake happens. There is no concrete explanation so far.
 1. [All states in the US are divided into counties, with two exceptions: Louisiana, which consists of parishes, and Alaska, which uses boroughs.](https://www.reddit.com/r/todayilearned/comments/5amvuf/til_all_states_in_the_us_are_divided_into/)
+1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
+1. The [Bengal delta / Ganges delta](https://en.wikipedia.org/wiki/Ganges_Delta) is the largest delta on Earth.
+1. The [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) is 5000 times (rounded up) bigger than the [Dead Sea](https://en.wikipedia.org/wiki/Dead_Sea). More or less a lake, the Dead Sea is not really visible on a map unless you go looking for it. The average temperature at Dead Sea year round is 47 degrees Celsius.

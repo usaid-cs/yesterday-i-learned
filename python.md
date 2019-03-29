@@ -477,6 +477,11 @@ bar
 1. If you need a reason not to use list comprehensions for looping, [here](https://github.com/PyCQA/pylint/issues/2380#issuecomment-411660809) it is, from Claudiu Popa, a member of the [Python Code Quality Authority](https://github.com/PyCQA): *"(...) you are creating a transient list that just gets thrown away after you're done with the iteration. It's more efficient to just use the for loop here, and it goes without saying that it helps with the readability of the code as well."*
 1. "Returns anything with superclass T" can supposedly be written as [`-> Type[T]`](https://docs.python.org/3/library/typing.html#typing.Type).
 1. Using [`super(self.__class__, self)`](https://stackoverflow.com/a/18208725/1558430) in subclass of the class that contains that line will not call the correct superclass method. To prevent that happening in your project, use [flake8-super-call](https://pypi.org/project/flake8-super-call/).
+1. NumPy has its own PEP-like things, called [NEPs](https://www.numpy.org/neps/) ("NumPy Enhancement Proposals").
+1. Disable a named logger: `logging.getLogger('some name').propagate = False`
+1. If a function `yield`s, the function returns a `generator`, and any function that returns the return of that function also returns the same generator.
+1. [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` is optional.
+1. A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

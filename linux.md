@@ -1,5 +1,6 @@
 ![Dilbert][imgur]
 
+1. [Cursors that blink reportedly generated 2W worth of extra GPU load on average](https://lwn.net/Articles/317922/) back when it mattered.
 1. On [`supervisorctl` commands](http://supervisord.org/running.html): `supervisorctl reread` reloads the configs, `supervisorctl reload` restarts the daemon (you might see a trend here), `supervisorctl restart` restarts without reloading the config, and `supervisorctl update` is said to do both `reread` and `restart`.
 1. 64-bit implementations of the linux epoch allows [292 billion years](https://en.wikipedia.org/wiki/9,223,372,036,854,775,807) to be represented in an integer.
 1. Linus' first rule of Linux development is "we don't break userspace". That means [never affect the user's applications negatively](https://stackoverflow.com/questions/25954270/what-does-it-mean-to-break-user-space).

@@ -1,3 +1,8 @@
+1. *Too much* calcium can also [weaken your bones](https://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/syc-20355523).
+1. People with different blood types are susceptible to different diseases. [Sources 1](https://www.pnas.org/content/104/44/17471), [2](https://academic.oup.com/jid/article/181/4/1364/856946), [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497328/), [4](https://www.ejmanager.com/mnstemps/134/134-1525432693.pdf?t=1553438868).
+1. Someone with depression may see the world as [more grey](https://www.health.harvard.edu/press_releases/how-depression-makes-the-world-seem-gray) due to the decreased amount of retinal activity.
+1. [Babies have nipple radars](http://breastcrawl.org/science.shtml). They also have the [moro reflex](https://www.youtube.com/watch?v=PTz-iVI2mf4), which helps them grab into the parent if they feel they are falling.
+1. Some birds, in [this case](https://www.reddit.com/r/educationalgifs/comments/b4o11a/seagulls_stomping_on_grass_is_called_the_rain/) being a seagull, stomp on the grass to emulate the rain vibration that brings earthworms to the surface.
 1. Nutritionally, [cold water is absorbed more quickly than warm water](http://waterwiseguy.blogspot.com/2009/07/water-temperature-and-absorption.html) and therefore decreases risk of dehydration.
 1. "[OCD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) is the presence of obsessions and compulsions. [OCPD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_personality_disorder) is an excessive need for order, perfectionism, etc." - /u/shallowblue
 1. [Proprioception](https://en.wikipedia.org/wiki/Proprioception) is sensing one's own [movements]. Without it, you cannot move a muscle and know where the arm went. So you have more than five senses.
@@ -858,3 +863,15 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [Fish yawn](http://www.youtube.com/watch?v=bIv3fgZ7sR4&t=2m30s), aquatic animals yawn, [unborn babies yawn](http://www.tandfonline.com/doi/abs/10.3109/14722240500284070), all [known] vertebrates yawn.
 1. [Phantom Orchid](https://en.wikipedia.org/wiki/Cephalanthera_austiniae) has no chlorophyll.
 1. [Beauty sleep](http://www.sleepdex.org/beautysleep.htm): skin breaks down slower during sleep. So it's not that sleep makes you beautiful; it makes you less ugly.
+1. Sleep is when many of the adrenal hormones (glucocorticoids, epinephrine) are replenished. Without sleep there is a lack of these hormones. These hormones also police blood pressure, without enough the veins sag, causing the dark color (the blue combines w skin tone to create dark).
+1. Do push ups with elbows closer to your chest.
+1. REM sleep is not light sleep. [REM phase](http://blog.addapp.io/deep-sleep-much-need/) is when your brain is active but body is not.
+1. Onset of effects of THC starts [5 to 90 minutes after consumption](http://drug.addictionblog.org/how-long-does-marijuana-last/), and ends anywhere from 300 to 1440 minutes after consumption.
+1. Capsaicin does not affect birds. Hotness in Capsicum plants helps them spread their seeds because it makes them unpleasant for mammals, but still tasty for birds (which, you know, fly).
+1. Fecal popcorning are these minute particles of excrement that if you breath it (in addition to just being disgusting) can lead to very dangerous fungal infections in your lungs.
+1. To do honest pushups, ["just go all the way down"](http://vitals.lifehacker.com/this-trick-keeps-your-pushups-honest-1792488499) (Thanks)
+1. [90% of all male giraffes are homosexual. 1% of females are.](http://en.wikipedia.org/wiki/Homosexual_behavior_in_animals) [Over 200 species are seen to have homosexual behaviour at this point](https://en.wikipedia.org/wiki/List_of_mammals_displaying_homosexual_behavior#List).1. Three-toed sloths are reportedly much nicer than two-toed sloths.
+1. [Sleep deprivation can increase the risk of developing false memories](http://www.reddit.com/r/science/comments/2b21nw/sleep_deprivation_can_increase_the_risk_of/)
+1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
+1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
+1. Some drugs tell you not to lie down for 10 minutes after taking it.

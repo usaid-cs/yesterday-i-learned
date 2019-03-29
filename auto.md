@@ -196,3 +196,5 @@
 1. [You can buy back your own car after it is written off,](http://icandrive.ca/driving/my-vehicle-is-a-write-off-now-what-5-things-you-need-to-know/) and drive it, as long as it was never deemed "irreparable". Otherwise, your insurance will either be very high, or impossible to get for a salvage car.
 1. [Volkswagan made currywurst](https://de.wikipedia.org/wiki/Volkswagen-Currywurst), and it looks like they are still making it.
 1. [Tesla cars' screens can fucking crash while driving.](https://youtu.be/yynWADslt1E?t=358)
+1. Kia calls its grille design the "tiger nose". [Peter Schreyer](https://www.autocar.co.uk/car-news/industry/meeting-peter-schreyer-man-behind-kias-tiger-nose-grille) said he designed it.
+1. Something known as ["10mm"](https://www.amazon.com/TEKTON-14115-4-Inch-Shallow-6-Point/dp/B000NYA1XY/ref=pd_lpo_vtph_469_lp_t_3/132-1839096-9099206?_encoding=UTF8&psc=1&refRID=53N3J210BWNFHRNT9RFZ) is car mechanics' favourite lost item.

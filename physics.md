@@ -1,3 +1,5 @@
+1. An electron and positron spin together to form a [positronium](https://en.wikipedia.org/wiki/Positronium), an unstable state. When they annihilate each other, they turn into two or three photons, depending on their spin states.
+1. [Quantum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation) pull the universe apart. Assuming the theory holds true, specifically the [vacuum energy](https://en.wikipedia.org/wiki/Vacuum_energy) part of it, this explains why [galaxies are moving away from us faster and faster](https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe).
 1. The Earth is actually closer to the sun during the northern hemisphere's winter. Seasons are largely affected by the tilt. Also, most of Africa is in the southern hemisphere, if you haven't noticed already.
 1. Only rohots sink in lava. Humans don't sink into lava.
 1. Short gamma ray bursts are generated when (including) neutron stars merge. Long gamma ray bursts are generated when [supernovae collapse into a black hole](https://www.youtube.com/watch?v=RLykC1VN7NY). Theories even suggest maybe there isn't much more life in space because GRBs are killing lifeforms on a regular basis.
@@ -73,3 +75,7 @@
 1. From a photon's perspective, [it takes exactly no time to travel from its source to its destination](https://www.forbes.com/sites/startswithabang/2016/09/30/how-do-photons-experience-time/#78392c93278d), no matter where the destination is. Even if something is a thousand lightyears away.
 1. [The speed of gravity waves is the same as the speed of light.](https://en.wikipedia.org/wiki/Speed_of_gravity)
 1. On current: "Current is like rope, it can be pulled; but not pushed." - [Thread about shocking your own balls with a car battery](https://www.reddit.com/r/WTF/comments/8uen0t/i_found_a_homemade_electric_chair_while_exploring/e1fcy3r/)
+1. [Ultrasonic welding](http://s.hswstatic.com/gif/ultrasonic-welding-2.gif) uses ultrasound to heat up and weld two adjacent pieces of metal together. [Microsoft pulled that dick move once.](https://www.ifixit.com/Teardown/Microsoft+Surface+Laptop+Teardown/92915)
+1. The Sun undergoes spontaneous magnetic reversals every 9–12 years, where it increases in field strength.
+1. Pluto's satellite [Charon](https://en.wikipedia.org/wiki/Charon_%28moon%29) is massive enough to significantly affect pluto's center of orbit.
+1. A [5-gram black hole](https://www.youtube.com/watch?v=8nHBGFKLHZQ&list=UUsXVk37bltHxD1rDPwtNM8Q&index=38) will emit enough hawking radiation to kill everyone around you (450TJ, like a nuclear bomb).

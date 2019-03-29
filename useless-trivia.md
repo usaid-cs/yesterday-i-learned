@@ -81,3 +81,6 @@
 1. Kumail Nanjiani was not an Uber driver like The Big Sick depicted. The partner app did not exist until 2011. He was an IT guy instead, like Silicon Valley depicted.
 1. Amy Schumer [is human plagiarism.](https://www.youtube.com/watch?v=4eDxjxVl8S0).
 1. Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).
+1. Barack Obama is left-handed.
+1. Captain Crunch's full name is Horatio Magellan Crunch.
+1. Cobie Smulders' first name is actually Jacoba.

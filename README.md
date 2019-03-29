@@ -19,6 +19,7 @@
 * [anthropology.md](anthropology.md)
 * [business.md](business.md)
 * [finance.md](finance.md)
+* [psychology.md](psychology.md)
 
 ## Language
 * [french.md](french.md)
@@ -44,7 +45,6 @@
 * [cpp.md](cpp.md)
 * [cs.md](cs.md)
 * [css.md](css.md)
-* [django.md](django.md)
 * [docker.md](docker.md)
 * [erlang.md](erlang.md)
 * [flask.md](flask.md)
@@ -69,6 +69,7 @@
 * [php.md](php.md)
 * [predictionio.md](predictionio.md)
 * [python.md](python.md)
+* [python-django.md](python-django.md)
 * [ruby.md](ruby.md)
 * [rust.md](rust.md)
 * [scss.md](scss.md)

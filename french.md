@@ -18,6 +18,7 @@
 1. **Bâtiment**: building. *L'extérieur du bâtiment est sale*: The exterior of the building is dirty.
 1. **Beau-pere**: step father.
 1. **Belle-soeur**: step sister.
+1. **Besoin**: need. [Sometimes follows *avoir*](https://french.kwiziq.com/revision/grammar/how-to-express-to-need-with-avoir-besoin-de) (*a / as / avons / avez*). *Les camions ont besoin d'espace*: trucks need space.
 1. **Bientôt**: soon. Literally "good [and] early". *À bientôt*: see you soon.
 1. **des Bois**: of the woods, not "of drinking".
 1. **Boire**: to drink. *Je bois*: I drink.
@@ -184,6 +185,7 @@
 1. **Tout**: all. *Tous les hommes verront le salut de Dieu*: all men will see the salvation of god.
 1. **Trésor**: treasure.
 1. **Trompe l'oeil**: optical illusion. Literally "deceive the eye.
+1. [**Truc**](https://en.wiktionary.org/wiki/truc): slang for "thing". *Qu'est ce que c'est que ce truc?*: what (the heck) is this thing? [See also](https://french.stackexchange.com/a/8112): *Qu'est-ce?*, the formal version of "what is this".
 1. **Va-t-en**: go away. Literally "Get on with you". *Va-t-en d'ici*: go away (get out) of here.
 1. **Voici**: look here. *Le voici*: "look here", not "it looks here".
 1. **Voilà**: look there. See *Alors* for similar expression.

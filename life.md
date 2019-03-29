@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. "I am easily distracted" is an okay weakness to mention during an interview.
 1. Try not to shower before you drink coffee.
 1. Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
 1. *Do* go to bed angry. Arguing while tired is not beneficial.
@@ -71,3 +72,7 @@
 1. You can calculate how much you need to invest into your retirement by reverse calculating from how much you want every month (no taxes for simplicity). Say you want $10k in passive income every month in whichever currency. A year of that is $120k, and if you say you get that much from a 5% capital growth per year, then your actual investment is 120k / 5% = 2.4M. So you will have to figure out how to get this 2.4M in 20 years. 2.4M in 20 years is (interestingly enough) back to 120k per year. So unless you save 10k every month now, you aren't retiring.
 1. A fool-proof red flag when applying for a job is if the employer seems more interested in telling you about the company than it is interested in you.
 1. [Minimax](https://en.wikipedia.org/wiki/Minimax) is Minimizing Maximum Loss. Maximin is Maximizing Minimum Gain. For some reason, "[do NOT try to minimax this game](https://www.reddit.com/r/outside/comments/7c50r2/do_not_try_to_minimax_this_game/)" means "don't spend your life working". How is working minimaxing?
+1. Lining your boots with tinfoil might help with the winter times.
+1. Accepting your current employer's counter offer, when you tell them you have an offer elsewhere, [is](https://www.reddit.com/r/programming/comments/4rkoz7/most_programmers_are_underpaid_heres_what_you_can/d52bbtj/) a form of bridge burning.
+1. "If you can't handle me at my worst, you don't deserve me at my best" is a moronic phrase. See [what happens when the roles swap.](https://imgur.com/vKCsxOO)
+1. [Microsoft's "Alternative Interview Framework"](https://www.businessinsider.com/microsoft-new-developer-interview-process-2018-12) involves sharing interview questions with candidates can prepare, interviewing a junior and senior candidate together (to give the team an idea of how junior/senior differ), and withholding opinions about a candidate until after all interviews are complete.
