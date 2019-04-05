@@ -1,5 +1,8 @@
 ![Dilbert][imgur]
 
+1. `grep -E` is extended regex. `grep -P` is Perl's regex. You can't use both at the same time. Also `-E -e [expression]` can be used multiple times if you want to multiple any of these patterns.
+1. `awk` is figuratively a simpler `grep` for what you use it for. `awk '/.../' file` literally throws out any lines in the file that matches that regex. It even supports flags like `i`.
+1. Easiest way to [get the nth line of a file](https://leetcode.com/problems/tenth-line/): [`tail -n linenumber file | head -1`](https://stackoverflow.com/questions/6022384/bash-tool-to-get-nth-line-from-a-file). However they say it's slow and you should [`sed '123q;d' file`](https://stackoverflow.com/a/6022431/1558430) instead. Also, you first `tail` then `head`. If you first `head` then `tail`, the result is ambiguous if there file doesn't have an nth line.
 1. [Cursors that blink reportedly generated 2W worth of extra GPU load on average](https://lwn.net/Articles/317922/) back when it mattered.
 1. On [`supervisorctl` commands](http://supervisord.org/running.html): `supervisorctl reread` reloads the configs, `supervisorctl reload` restarts the daemon (you might see a trend here), `supervisorctl restart` restarts without reloading the config, and `supervisorctl update` is said to do both `reread` and `restart`.
 1. 64-bit implementations of the linux epoch allows [292 billion years](https://en.wikipedia.org/wiki/9,223,372,036,854,775,807) to be represented in an integer.

@@ -97,6 +97,16 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 
 * For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs).
 
+## Steamed pork
+
+* Soak the meat, and then wash it to remove the blood.
+* Put the garlic in a bowl with the meat
+* Put roughly the same amount of 豆豉 as garlic into the bowl
+* Put yet another portion of chopped beans into the bowl (use the knife rocking technique).
+* Put two three slices of ginger
+* Add big pinch of sugar
+* Steam until it looks done.
+
 ## Potatoes
 
 * Wash potatoes.

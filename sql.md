@@ -4,6 +4,10 @@
 * SQL is more than 40 years old and is still used today, not because it's great, but because [it just works, 90% of the time](http://blog.sqlizer.io/posts/sql-43/), makes [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) and SQL solved problems in computing.
 * You don't need to select any database to `SELECT 1;`. This is a poor man's way of checking if the database connection is working.
 * "Technically, PRIMARY KEY is merely a combination of UNIQUE and NOT NULL".
+* Turns out inverting values is pretty easy, even without intermediate values. `UPDATE table SET col = (CASE WHEN col = 0 THEN 1 ELSE 0 END);`
+* `SELECT (SELECT ...) as resultColumnName;` creates a [temp table](https://leetcode.com/problems/second-highest-salary/), which guarantees the select to return a row of `null` instead of no rows.
+* You can't [have `WHERE` clauses in a `GROUP BY` query](https://leetcode.com/problems/duplicate-emails/), but you *can* turn that into a temp table and have a `WHERE` clause filter on that. Note: **temp tables must have an alias**, i.e. `SELECT (SELECT ...) as alias`.
+* `%` is a thing, so selecting odd-numbered IDs is really `WHERE id % 2 = 1` or something like that.
 
 # MySQL
 
@@ -36,6 +40,7 @@
 * MySQL [does not](http://stackoverflow.com/a/10474104/1558430) support transactional schema alters at any time.
 * Amazon [does not](https://forums.aws.amazon.com/message.jspa?messageID=153017#) allow SSH into RDS instances.
 * [Why is MySQL's default collation latin1_swedish_ci?](http://stackoverflow.com/questions/6769901/why-is-mysqls-default-collation-latin1-swedish-ci)
+* [No `FULL (OUTER) JOIN` in MySQL?](https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql#4796911) WTF? (`LEFT JOIN` works as expected. )
 
 # PostgresQL
 
@@ -73,6 +78,7 @@
 * Apart from [preserving key order](https://www.postgresql.org/docs/9.4/static/datatype-json.html), there is [no real advantage to storing JSON as `JSON`](https://www.sisense.com/blog/postgres-vs-mongodb-for-storing-json-data/) rather than `JSONB`. Other `JSON` perks include: preserving whitespace. [Possibly faster writes](https://docs.djangoproject.com/en/1.10/ref/contrib/postgres/fields/#django.contrib.postgres.fields.JSONField).
 * See what queries are running: `SELECT now() - xact_start AS running_time, * FROM pg_stat_activity ORDER BY datname, query_start, client_addr;`
 * [Kill connections by pid](https://stackoverflow.com/a/5109190/1558430): `SELECT pg_terminate_backend(pid) FROM pg_stat_activity;`
+* [Selecting the nth row](https://stackoverflow.com/a/16777/1558430) with a non-standard query: `LIMIT y OFFSET n`
 
 ## Performance
 
@@ -150,10 +156,6 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
   * have an index on a field, and search for exactly that field, or
   * query with all keys when you build a multi-field index, or
   * never update anything. MongoDB misses documents if you update some while you read the same table (if they can be so called).
-
-# Redis
-
-Redis is also NoSQL. It is a KV Store, however.
 
 # SQLite3
 

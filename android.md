@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+1. Assuming a reasonable goal of owning a phone for $0.50 per day, and you aim to use it for 2 years, the maximum cost (before tax) of such a phone is ~$323, or, if you plan to keep it for 3 whole years, then ~$484. In contrast, your phone (~$700) needs ~3.5 years to pay itself off, and the earliest you can get a new phone is: *February 2021*. **Repair your devices.**
 1. Use [`monkey -p com.packagename 1`](https://stackoverflow.com/a/25398877/1558430) to launch an app without input.
 1. Your particular device's fstab file is located at `/system/vendor/etc/fstab.qcom`. You can change your zram size there (if you enabled it).
 1. If your device is *not* encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or just delete `/data/system/locksettings.db`, which says you should have a PIN.

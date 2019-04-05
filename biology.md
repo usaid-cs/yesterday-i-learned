@@ -1,3 +1,8 @@
+1. Compression stockings are used to get blood back to the heart easier.
+1. Death is not scary at all. "50% of heart attack patients have normal cholesterol levels. 68% had arteries that were not narrow." - LifeLabs
+1. [*Valonia ventricosa*](https://en.wikipedia.org/wiki/Valonia_ventricosa), the bubble algae, is among the world's largest unicellular organisms.
+1. Salmon is mostly seawater fish. Trout is mostly freshwater fish. Both are [oily fishes](https://en.wikipedia.org/wiki/Oily_fish), have oil in their tissues and in the belly.
+1. The [maple syrup urine disease](https://en.wikipedia.org/wiki/Maple_syrup_urine_disease)... not very descriptively relates to an autosomal recessive brain disease.
 1. *Too much* calcium can also [weaken your bones](https://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/syc-20355523).
 1. People with different blood types are susceptible to different diseases. [Sources 1](https://www.pnas.org/content/104/44/17471), [2](https://academic.oup.com/jid/article/181/4/1364/856946), [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497328/), [4](https://www.ejmanager.com/mnstemps/134/134-1525432693.pdf?t=1553438868).
 1. Someone with depression may see the world as [more grey](https://www.health.harvard.edu/press_releases/how-depression-makes-the-world-seem-gray) due to the decreased amount of retinal activity.
@@ -875,3 +880,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. [Grouper](https://en.wikipedia.org/wiki/Grouper) is literally 石斑.
 1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
 1. Some drugs tell you not to lie down for 10 minutes after taking it.
+1. [Men who like their meat well-done are (more) likely to get prostate cancer.](http://www.cnn.com/2011/11/23/health/well-done-red-meat-prostate-cancer/). Maybe not exactly twice as likely, but more likely.

@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. You should never feel obligated to pay for your in-laws' house.
 1. "I am easily distracted" is an okay weakness to mention during an interview.
 1. Try not to shower before you drink coffee.
 1. Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
@@ -76,3 +77,4 @@
 1. Accepting your current employer's counter offer, when you tell them you have an offer elsewhere, [is](https://www.reddit.com/r/programming/comments/4rkoz7/most_programmers_are_underpaid_heres_what_you_can/d52bbtj/) a form of bridge burning.
 1. "If you can't handle me at my worst, you don't deserve me at my best" is a moronic phrase. See [what happens when the roles swap.](https://imgur.com/vKCsxOO)
 1. [Microsoft's "Alternative Interview Framework"](https://www.businessinsider.com/microsoft-new-developer-interview-process-2018-12) involves sharing interview questions with candidates can prepare, interviewing a junior and senior candidate together (to give the team an idea of how junior/senior differ), and withholding opinions about a candidate until after all interviews are complete.
+1. CLM: Career-Limiting Move (something stupid you do that prevents new jobs and opportunities, such as being a douchebag or writing this line)1. [Never, under any circumstances, mention why you don't like your previous environment in an interview.](https://www.reddit.com/r/AskReddit/comments/5oyw4m/what_should_someone_not_discuss_during_a_job/dcn633x/) Just say you want more challenging work or develop new skills or something.

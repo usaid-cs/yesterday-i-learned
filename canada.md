@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The Waterloo region [can](https://en.wikipedia.org/wiki/Waterloo,_Ontario#Climate) reach "feels like 50 degrees" during the summer.
 1. When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.
 1. VRTUCAR is owned by [Communauto](https://en.wikipedia.org/wiki/Communauto), a private company headquartered in Montreal. [It is not a co-op](https://www.cbc.ca/news/canada/kitchener-waterloo/vrtucar-communauto-community-careshare-kw-waterloo-hamilton-1.4594729).
 1. Bloor Street is named after [Joseph Bloore](https://en.wikipedia.org/wiki/Joseph_Bloore), who founded Yorkville.

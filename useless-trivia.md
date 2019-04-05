@@ -84,3 +84,6 @@
 1. Barack Obama is left-handed.
 1. Captain Crunch's full name is Horatio Magellan Crunch.
 1. Cobie Smulders' first name is actually Jacoba.
+1. Annie (the one we try not to sexualise) is in The Disaster Artist.
+1. Boxxy (Catie Wayne) [does a video show now](http://youtube.com/watch?v=4gw6QnYx5-M). She got slightly less annoying.
+1. MKBHD's ultimate frisbee jersey number is 82.

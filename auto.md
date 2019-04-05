@@ -198,3 +198,4 @@
 1. [Tesla cars' screens can fucking crash while driving.](https://youtu.be/yynWADslt1E?t=358)
 1. Kia calls its grille design the "tiger nose". [Peter Schreyer](https://www.autocar.co.uk/car-news/industry/meeting-peter-schreyer-man-behind-kias-tiger-nose-grille) said he designed it.
 1. Something known as ["10mm"](https://www.amazon.com/TEKTON-14115-4-Inch-Shallow-6-Point/dp/B000NYA1XY/ref=pd_lpo_vtph_469_lp_t_3/132-1839096-9099206?_encoding=UTF8&psc=1&refRID=53N3J210BWNFHRNT9RFZ) is car mechanics' favourite lost item.
+1. Do not buy Honda Fits made before [2014-06-06](http://www.nytimes.com/2014/08/22/automobiles/2015-honda-fit-gets-second-chance-in-iihs-crash-test.html).

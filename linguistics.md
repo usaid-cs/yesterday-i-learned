@@ -1,3 +1,7 @@
+1. Google Translate says "叻沙" is pronounced le4 sha1 in mandarin.
+1. [*Concierge*](https://en.wikipedia.org/wiki/Concierge) actually came from Latin *conservus* "fellow slave", and refers to the people who take care of a building (like a hotel), not customer service in general.
+1. ["Kopi tiam"](https://en.wikipedia.org/wiki/Kopi_tiam) and 咖啡店 are the same thing.
+1. ["Bear" just meant "brown"](https://en.wikipedia.org/wiki/Bear#Etymology), [reportedly](https://www.reddit.com/r/todayilearned/comments/b8269h/til_the_original_word_for_bear_has_been_lost/) because the Germans were so scared of saying "ursus", they started saying "the brown one" instead.
 1. [Facsimile](https://www.dictionary.com/browse/facsimile) (fak-SIM-uh-lee) means an *exact* copy, not just any imitation.
 1. 牛逼, cow vagina, means "super cool".
 1. [馬鹿野郎](https://en.wiktionary.org/wiki/%E9%A6%AC%E9%B9%BF%E9%87%8E%E9%83%8E): bakayaro.
@@ -336,3 +340,4 @@
 1. ["How about"](https://english.stackexchange.com/questions/13659/how-about-vs-what-about) is when you have a suggestion. "What about" is when you have a concern.
 1. The plural of *alma mater* (nournishing mother) is *almae matres* (nournishing mothers).
 1. Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
+1. The Greek word "Kyrios" means "lord, Lord, master" in one word.

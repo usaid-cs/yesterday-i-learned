@@ -21,12 +21,14 @@
 * `manage.py sqlmigrate` lets you see what queries a (schema) migration will run.
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 * First you migrate, then you load fixtures. It is not strictly enforced, but in order to have a database set up, you must first run `migrate` to get your tables, so you should just stick to it.
+* Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.
 
 ### `ForeignKey`
 
 * Simply making a [`ForeignKey('self')`](https://stackoverflow.com/questions/15285626/django-self-referential-foreign-key) will make a foreign key to self.
 * If a class A has a `ForeignKey` to class B with `on_delete=CASCADE`, B does not get deleted when A is deleted, but if B is deleted, then A is.
 * `PROTECT` in `FK(foo, on_delete=PROTECT)` is supposed to mean "if you want to delete that foo, you must first delete every object referencing it".
+* `OneToOneField` is a subclass of `ForeignKey`, so the schema *should not* change if you change between the two.
 
 
 ### [`blank=True` or `null=True`](http://stackoverflow.com/a/8609425)?

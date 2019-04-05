@@ -1,3 +1,5 @@
+1. Holding cash pro: purchasing power. Holding cash con: inflation.
+1. When investing, doing nothing is sometimes, maybe even often, doing the right thing.
 1. Thinking about profitability is very easy. [If the cost of you acquiring the customer is less than how much the customer will pay you, then you've made a profit](https://www.youtube.com/watch?v=7bFFgrLSEXA). Selling bundles is great, because (a) people think they get deals, and (b) people pay monthly, and (c) they rarely use everything in their bundles, which means less operating cost per customer.
 1. Investment "Rule of 72"... 72/rate = investment doubles in n years
 1. Only a fool would look at fool.com/fool.ca. On the 24th: ["Why Home Capital Group Inc is the Stock of the Year"](http://www.fool.ca/2017/04/24/why-home-capital-group-inc-is-the-stock-of-the-year/). On the 26th: Home Capital Group Inc drops by 60%+.

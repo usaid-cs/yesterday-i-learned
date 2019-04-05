@@ -58,7 +58,7 @@ for k, v in six.iteritems(d):
 
 1. `dict`s have a `setdefault` method: avoids `KeyError`s.
 1. Instead of updating dictionaries with another dictionary, there is a `ChainMap` in Python 3 that handles the common "defaults" use case.
-1. [Use full kwargs everywhere, except in loops][youtu]
+1. [Use full kwargs everywhere, except in loops](http://youtu.be/OSGv2VnC0go?t=31m39s)
 1. `NamedTuple` is a subclass of `Tuple` that lets you express what the tuple values actually are.
 1. Built-in tuple unpacking (`a, b = (1, 2)`) is faster than loading them with indices.
 1. Always concatenate strings with `.join`.
@@ -92,10 +92,10 @@ for k, v in six.iteritems(d):
 1. `[:]` (aka `[None:None]`) [copies a list][stackoverflow 11] (Fast copy; Thanks Ford)
 1. `enumerate()`: returns tuples with index as the first value
 1. `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging][python 6].
-1. `yield`s are formally referred to as [coroutines][wikipedia] -- function with multiple entry/resume points.
+1. `yield`s are formally referred to as [coroutines](http://en.wikipedia.org/wiki/Coroutine) -- function with multiple entry/resume points.
 1. The `signal` package has an `alarm` method that can [timeout a long-running function][python 7].
 1. [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]. Interestingly, even if the same name existed outside the `except` block, [Python3 will remove the variable of the same name from the outer scope](http://www.wefearchange.org/2013/04/python-3-language-gotcha-and-short.html).
-1. Set generators are [already available in python2.7][wikipedia 2].
+1. Set generators are [already available in python2.7](http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions).
 1. The `set`'s `discard` method makes stupid things like `new_set = {x for x in old_set if x != 'foo'}` a little bit redundant.
 1. Lambda expressions can have parameter defaults, positional and keyword arguments!
 1. Django Foreign keys default to `None`.
@@ -482,6 +482,10 @@ bar
 1. If a function `yield`s, the function returns a `generator`, and any function that returns the return of that function also returns the same generator.
 1. [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` is optional.
 1. A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
+1. The 1.0 release of [html5lib](https://pypi.org/project/html5lib/) (you know, the first one after 0.9999999...) was a botched release.
+1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
+1. Alembic is called Alembic (a distillation apparatus) because it works with SQL[Alchemy](https://en.wikipedia.org/wiki/Alembic).
+1. Imports are done at most once per module. If you put a print statement inside a module, it is going to print just once, no matter how you `import` or `from... import` it again.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
@@ -511,8 +515,3 @@ bar
 [stackoverflow 9]: http://stackoverflow.com/questions/7996479/what-is-stringio-in-python-used-for-in-reality
 [toptal]: http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 [valuedlessons]: http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html
-[wikipedia]: http://en.wikipedia.org/wiki/Coroutine
-[wikipedia 2]: http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions
-[youtu]: http://youtu.be/OSGv2VnC0go?t=31m39s
-1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
-1. Alembic is called Alembic because it works with SQL[Alchemy](https://en.wikipedia.org/wiki/Alembic).

@@ -1,3 +1,5 @@
+![Bad maths](https://i.imgur.com/fZAsEYW.png)
+
 1. If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by *a + bi + cj + dk* rather than *a + bi* (complex). In this system, *j × k* somehow comes you *-i*.
 1. [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) states that a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 1. Regular expressions are called regular expressions because they are the expressions used to describe [regular languages](https://en.wikipedia.org/wiki/Regular_language).
