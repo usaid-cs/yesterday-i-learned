@@ -1,5 +1,7 @@
 ![Wat](http://i.imgur.com/IppKJ.jpg)
 
+The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
+
 1. There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
 1. [Your workers cannot see your local storage.](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 1. [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the *stack* is empty and there is something in the *task queue* (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.
@@ -214,6 +216,7 @@ undefined
 * Because JS is JS, `{b: undefined}` is perfectly valid, and defining `b` as `undefined` really defines `b`.
 * Adding [`)]}\n`](https://groups.google.com/forum/#!topic/repo-discuss/uzr84ZGI62g) in front of every JSON request is a way to protect against XSSI, or cross-site script inclusion. This makes the payload impossible to execute if included as a script tag, but trivial to remove the prefix if the data was retrieved using XHR.
 * Use `nvm ls-remote` to find out what versions it has available to install.
+* [`null == 0` is false, `null > 0` is false, but `null >= 0` is true.](https://github.com/denysdovhan/wtfjs#comparing-null-to-0) The short explanation is: `==` will not convert `null` to a number, but `>` will (to 0). So `null` is not 0, which is true; `+null` is 0, which is not greater than 0; and `>=`, which is internally just `<`, converts the expression to `!(+null < 0)`, which is `!false`, aka `true`.
 
 ## Deferred API
 
@@ -285,6 +288,8 @@ undefined
 * `0.1 + 0.2 = 0.30000000000000004` (over). `0.7 + 0.2 = 0.8999999999999999` (under).
 * [npm 5 is still worse than yarn](http://blog.scottlogic.com/2017/06/06/does-npm5-deprecate-yarn.html)
 * Node has its own "declaring which licence you use" syntax, called [SPDX](https://www.npmjs.com/package/spdx). `OR`, `AND`, and `WITH` are special keywords.
+* The point of `devDependencies` is, *if you're making a server*, the deployment setup should exclude your test tools. If you write static web apps or otherwise run your setups from your local machine, this makes no difference.
+* "Global" functions and/or variables in a node js file are only global for *that file*. If you want to make a function truly global, use `global.funcName = () => ...`.
 
 ### Webpack
 

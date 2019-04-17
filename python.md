@@ -472,7 +472,7 @@ bar
 1. Child test classes that are tagged with `@attr(...)` also inherit that tag.
 1. [`BaseException` still exists in python 3.](https://docs.python.org/3/library/exceptions.html#BaseException) All things `raise`d must be a subclass of `BaseException`.
 1. pydocstyle contains mutually exclusive rules, [D212](https://github.com/PyCQA/pydocstyle/blob/5add163ee56084b333c1071d19055a3780ba74e2/src/pydocstyle/violations.py#L204) ("Multi-line docstring summary should start at the first line") and [D213](https://github.com/PyCQA/pydocstyle/blob/5add163ee56084b333c1071d19055a3780ba74e2/src/pydocstyle/violations.py#L206) ("Multi-line docstring summary should start at the second line"). [You don't enable both at the same time](https://stackoverflow.com/a/45990465/1558430)
-1. Tox is a meta test runner that manipulates the virtualenv. If you have a project that never changes virtualenv (read: supports only one python version), Tox is not the tool of choice.
+1. [Tox](https://docs.python-guide.org/writing/tests/#tox) is a meta test runner that manipulates the virtualenv. If you have a project that never changes virtualenv (read: supports only one python version), Tox is not the tool of choice.
 1. In a [list comprehension](https://www.python.org/dev/peps/pep-0202/#rationale) (formally PEP 202) in the form `[... for x... for y...]`, the last index varies fastest, just like nested for loops.
 1. If you need a reason not to use list comprehensions for looping, [here](https://github.com/PyCQA/pylint/issues/2380#issuecomment-411660809) it is, from Claudiu Popa, a member of the [Python Code Quality Authority](https://github.com/PyCQA): *"(...) you are creating a transient list that just gets thrown away after you're done with the iteration. It's more efficient to just use the for loop here, and it goes without saying that it helps with the readability of the code as well."*
 1. "Returns anything with superclass T" can supposedly be written as [`-> Type[T]`](https://docs.python.org/3/library/typing.html#typing.Type).
@@ -480,12 +480,18 @@ bar
 1. NumPy has its own PEP-like things, called [NEPs](https://www.numpy.org/neps/) ("NumPy Enhancement Proposals").
 1. Disable a named logger: `logging.getLogger('some name').propagate = False`
 1. If a function `yield`s, the function returns a `generator`, and any function that returns the return of that function also returns the same generator.
-1. [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` is optional.
+1. [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` may be omitted.
 1. A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
 1. The 1.0 release of [html5lib](https://pypi.org/project/html5lib/) (you know, the first one after 0.9999999...) was a botched release.
 1. Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
 1. Alembic is called Alembic (a distillation apparatus) because it works with SQL[Alchemy](https://en.wikipedia.org/wiki/Alembic).
 1. Imports are done at most once per module. If you put a print statement inside a module, it is going to print just once, no matter how you `import` or `from... import` it again.
+1. [`typing.NoReturn`](https://docs.python.org/3/library/typing.html#typing.NoReturn) (a function that never returns, i.e. always raises) was new in python 3.5.4. Ubuntu ships python 3.5.2 though, because you're a joke. As an aside, `NoReturn` is not used when a function returns `None`.
+1. According to some kind of type theory, it is [preferred](https://docs.python.org/3/library/typing.html#typing.List) to annotate arguments with a abstract type, e.g. `Sequence`, `Iterable`, but annotate return values with a concrete type, e.g. `List`.
+1. Each item in a mock function's `call_args_list` is a list of [`call`s](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.call). Each `call` can be unpacked with `args, kwargs = call`. Then, as expected, `args` is a tuple and `kwargs` is a dict.
+1. `glob.glob()` is not sorted. You have to sort it yourself.
+1. To specify a version of python that pyenv will use for a project, put `2.5.0` inside a [`.python-version`](https://github.com/pyenv/pyenv#choosing-the-python-version) file at the project root. Then, `python` will map to whichever one pyenv thinks you want.
+1. [`raise AnError() from None`](https://stackoverflow.com/a/33822606/1558430) disables the "During handling of the above exception, another exception occurred" traceback.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

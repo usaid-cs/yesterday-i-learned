@@ -1,3 +1,4 @@
+1. George HW Bush [threw up](https://en.wikipedia.org/wiki/George_H._W._Bush_vomiting_incident) on the Japanese prime minister. They called it ブッシュする, doing the Bush thing.
 1. [Vengeful gods](https://www.smithsonianmag.com/smart-news/which-came-first-vengeful-gods-or-complex-civilizations-180971781/) might have been created (which the article argues against) to keep large societies civil.
 1. [Play-doh](https://en.wikipedia.org/wiki/Play-Doh) was originally a product to remove coal residue from wallpaper. After WW2 people stopped burning coal indoors, and wallpapers became vinyl and washable, so it became a toy.
 1. Britain handed India back to itself because [Britain had no more resources to manage India after WW2.](https://www.youtube.com/watch?v=OIVPi0bvmtI)
@@ -164,3 +165,4 @@
 1. According to an [uncited table](https://en.wikipedia.org/wiki/Universal_Time#Adoption_in_various_countries), it took Great Britain 32 years to introduce UTC to some other country.
 1. In Auschwitz there's [a camp called Canada](http://remember.org/jacobs/smallspoons), the land of plenty, where the dead's possessions (including gold teeth) are collected and recycled.
 1. Lincoln was assassinated some time between slavery was abolished and the civil war ended, and Kylo Ren was a [morse code (telegraph) boy](https://www.imdb.com/name/nm3485845/) for that guy.
+1. Vista and 7 are more or less the same thing under the hood. The problem was [nVidia, who needed to write new GPU drivers for Vista, botched it](https://youtu.be/TLgRryt2ZtE), and that accounted for 30% of Vista crashes. Crashes were resolved by the time 7 was released, so no one complained.

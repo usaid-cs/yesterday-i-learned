@@ -1,3 +1,4 @@
+1. 配 has a "qualification" connotation. 佩 just means "complement".
 1. Google Translate says "叻沙" is pronounced le4 sha1 in mandarin.
 1. [*Concierge*](https://en.wikipedia.org/wiki/Concierge) actually came from Latin *conservus* "fellow slave", and refers to the people who take care of a building (like a hotel), not customer service in general.
 1. ["Kopi tiam"](https://en.wikipedia.org/wiki/Kopi_tiam) and 咖啡店 are the same thing.

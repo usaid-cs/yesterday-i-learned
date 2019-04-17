@@ -79,6 +79,7 @@
 * See what queries are running: `SELECT now() - xact_start AS running_time, * FROM pg_stat_activity ORDER BY datname, query_start, client_addr;`
 * [Kill connections by pid](https://stackoverflow.com/a/5109190/1558430): `SELECT pg_terminate_backend(pid) FROM pg_stat_activity;`
 * [Selecting the nth row](https://stackoverflow.com/a/16777/1558430) with a non-standard query: `LIMIT y OFFSET n`
+* Did you know you can [inherit table schemas](https://www.postgresql.org/docs/9.2/ddl-inherit.html)?
 
 ## Performance
 

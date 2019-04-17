@@ -96,7 +96,6 @@
 1. `su` accepts arguments. And it is "switch" user, not "super" user.
 1. `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 1. `apt-get build-dep packagename` will *remove* packages in addition to installing new ones in order to force-meet package requirements.
-1. [`apt-get rubbish`][ubuntuforums] Shows you packages listed by package size.
 1. Diffing two directories: [`diff -bur dir1 dir2`][stackoverflow 3]
 1. `F4` brings up a terminal in Dolphin.
 1. [How to install Debian on Android][dyndns] (it's not that useful, however)
@@ -162,7 +161,9 @@ IdentityFile something.pem  # so you don't need to ssh foo -i something.pem all 
       * `if [ $0 == $BASH_SOURCE ]; then  # ok`
       * `if [$0 == $BASH_SOURCE ]; then  # "missing ]"`
       * `if [$0 == $BASH_SOURCE]; then  # does stupid things`
-1. `[ expression ]` and `[[ expression ]]` [have the same function](http://m.odul.us/blog/2015/8/12/stronger-shell), and in general, if you're writing bash scripts, you should just use the `[[ expression ]]` version; the single `[]` version is older and doesn't support as many operations.
+
+1. `[ expression ]` and `[[ expression ]]` [have the same functionality](http://m.odul.us/blog/2015/8/12/stronger-shell), and in general, if you're writing bash scripts, you should just use the `[[ expression ]]` version; the single `[]` version is older and doesn't support as many operations.
+1. Trivia: [`[` is a fucking command](https://stackoverflow.com/a/47576482/1558430). It just has a weird name. Furthermore, "`]` is just an argument of `[` that prevents further arguments from being used."
 1. However, `((1+2))` does math, and `$((1+1))` gets you the result of math.
 1. `[ ... ]` is an alias for `test`.
 1. In a function, to scope the variable to the function use the `local` keyword.
@@ -266,6 +267,12 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
 1. GNU `tar` provides compression arguments. [Solaris `tar` does not.](https://unix.stackexchange.com/questions/127169/does-tar-actually-compress-files-or-just-group-them-together) Also, tar stands for Tape ARchive.
 1. [`dirty_expire_centisecs`](https://android.googlesource.com/kernel/common/+/a92f71263af9d0ab77c260f709c0c079656221aa/Documentation/filesystems/proc.txt#1174) is how soon data is considered old. [`dirty_writeback_centisecs`](https://android.googlesource.com/kernel/common/+/a92f71263af9d0ab77c260f709c0c079656221aa/Documentation/filesystems/proc.txt#1165) is how often the flashing "task" runs to write old data to storage (so, the former ought to be a multiplier of the latter).
+1. SSH got port 22 because... [the author (Tatu) sent IANA, the authority at the time](https://www.ssh.com/ssh/port), an email. Then, well, a Joyce just gave it to Tatu.
+1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
+1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
+1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time.
+1. [Bash scripting convention](https://google.github.io/styleguide/shell.xml#Naming_Conventions): `function_name`, `variable_name`, `CONSTANT_NAME`, `file_name`.
+1. To [check if a variable is set or not](https://stackoverflow.com/a/13864829/1558430), use `[[ -z ${var+x} ]]`. To check if a variable is either empty or not set, which is often the correct thing to do, use `[[ -z "$var" ]]`.
 
 ## Tmux
 
@@ -293,11 +300,6 @@ After press `Ctrl+B`, followed by
 [stackoverflow 3]: http://stackoverflow.com/a/2019897/1558430
 [superuser]: http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file
 [tjll]: http://blog.tjll.net/ssh-kung-fu/
-[ubuntuforums]: http://ubuntuforums.org/showthread.php?t=599424
 [wikipedia]: https://en.wikipedia.org/wiki/Nohup
 [wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
 [winterdrake]: http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/
-1. SSH got port 22 because... [the author sent IANA, the authority at the time](https://www.ssh.com/ssh/port).
-1. [Vim can encrypt text files](http://vim.wikia.com/wiki/Encryption) using the `:X` option.
-1. The whole ["HJKL keys are on the home row!!!! BETTER!!@@@"](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/) argument only applies to vim users who do not use a mouse.
-1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time.

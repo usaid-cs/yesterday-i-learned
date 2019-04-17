@@ -1,3 +1,7 @@
+1. The Boeing 737 Max 8 crashes so much because, get this, [everything on a plane has multiple redundancies: engines, pilots, electrical systems... but there is only one angle-of-attack sensor used to counter that "big engine" design flaw.](https://www.reddit.com/r/videos/comments/bdfqm4/-/ekyltt7)
+1. [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox). Increasing efficiency in anything (like cars with better fuel economy) somehow increases overall usage (like, more people driving because it's efficient). To reduce overall environmental impact, simply increasing efficiency does not work, "however, governments and environmentalists generally assume that efficiency gains will lower resource consumption, ignoring the possibility of the paradox arising".
+1. A *5/8" wrench* can mean [two things](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/5-8_vs_5-8_003.jpg/517px-5-8_vs_5-8_003.jpg): one the exterior diameter of the nut, and the other, the interior of the nut.
+1. Every time you fuck up planning a terraform script (`terraform plan`), the serial number goes up by 1.
 1. Chansey and Blissey are the only two pokemon capable of naturally laying eggs in battle. (Mew can learn by TM, but that's also because it can learn anything.)
 1. [GameCube discs are not DVDs.](https://en.wikipedia.org/wiki/Nintendo_optical_discs#GameCube_Game_Disc) They are miniDVD-like discs. Nintendo chose it to prevent piracy of their games. We all know how well that works.
 1. IPAs are traditionally clear. The unfiltered/unfiltred thing is new development.
@@ -156,7 +160,6 @@
 1. The *Codex gigas* ("big book") is [the largest extant medieval illuminated manuscript in the world](https://en.wikipedia.org/wiki/Codex_Gigas), known for having lots of weird stuff in it, like a full page devil, and getting stolen a lot.
 1. Angel (An-hell/An-yell) is a boy name in Spanish.
 1. If a bolt is the exact same size as its nut, then the bolt will never go into the nut. [Fit clearances](https://youtu.be/cQFTBfkqE0U) allow an intentionally smaller component to go into another, while "interference fit" heats up one of the parts, expanding it, allowing two otherwise perfectly-sized parts to fit.
-1. Vista and 7 are more or less the same thing under the hood. The problem was [nVidia, who needed to write new GPU drivers for Vista, botched it](https://youtu.be/TLgRryt2ZtE), and that accounted for 30% of Vista crashes. Crashes were resolved by the time 7 was released, so no one complained.
 1. In the case of [过桥米线](https://en.wikipedia.org/wiki/Crossing_the_bridge_noodles), the tiny quail egg must be raw to be authentic. The noodles should be served cold but the soup served boiling hot, with the mixture being warm. Diners *must* place ingredients into the bowl in the order from raw to cooked: meat first, then quail eggs, and then vegetables. They *must* then "用筷子挑入米线，完成“过桥”的动作。"
 1. All notable persons with the name "Ciprian" are Romanian.
 1. Amazon owns Twitch.
@@ -226,7 +229,6 @@
 1. [Rodeo clowns](https://en.wikipedia.org/wiki/Rodeo_clown) are also known as rodeo protection athletes.
 1. "Like they say: People use statistics like a drunk man uses a lamp post - for support, not enlightenment"
 1. The name Coralie means, well, "Coral".
-1. [Holland](https://www.holland.com/global/tourism/information/netherlands-vs-holland.htm) is two of the provinces in the Netherlands (called North and South Holland, unsurprisingly).
 1. [Active noise cancelling does a poor job at cancelling voice](https://thewirecutter.com/reviews/best-noise-cancelling-in-ear-headphones/), instead being better at removing engine or airplane noises.
 1. Mark Zuckerberg has business cards that just say, "I'm CEO, Bitch."
 1. To drink something from a bottle faster, insert a straw and drink from the bottle as normal. This is known as a "strawpedo".
@@ -479,7 +481,7 @@
 1. A "bump stock"... uses a gun's recoil to pull the trigger (with the distance between the action and the stock), making it effectively automatic.
 1. Directors for *Girls* finally found HBO's tolerance for (basically pornography on TV) when [they refused to air Adam Driver's ejaculation in fear of losing their licence](https://www.cinemablend.com/television/1620020/the-major-sex-scene-even-hbo-wasnt-comfortable-with).
 1. A water ingress protection rating of 8 is not necessarily better than a 6 in real life (me irl). 6 provides resistance against powerful water jets, but 8 is an immersion test whose maximum pressure may be lower than the jet's. Some things have IP66 and IP68 separately certified.
-1. Thor's lastname is really Odinson, and his shield does not break Captain America's shield thingy. This was used in the Age of Ultron for a scattered thunderbolt.
+1. Thor's lastname is really Odinson, and his hammer does not break Captain America's shield thingy. This was used in the Age of Ultron for a scattered thunderbolt.
 1. [OPEC](https://en.wikipedia.org/wiki/OPEC) is a "textbook example of a cartel that cooperates to reduce market competition, but ... protected by ... international law".
 1. Glover's musical stage name, Childish Gambino, came from the Wu-Tang Clan's name generator.
 1. Burger King's Twitter "followers per tweet" index (80.6) is 10x higher than that of McDonald's (8.1), and 4x higher than that of Wendy's (20.6). Higher is better, unless they are bots. Personal research.
@@ -658,7 +660,6 @@
 1. Aaron Swartz didn't create RSS, but he did work a lot on it.
 1. [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams), the dude who wrote that book about dolphins wrapped in towels, also appeared in Monty Python as a surgeon.
 1. [This song](https://www.youtube.com/watch?v=mOYZaiDZ7BM) is called "Cotton Eye Joe".
-1. [Lake Kivu](https://en.wikipedia.org/wiki/Lake_Kivu) blows up from underwater CO2 pressure every thousand-or-so years, suffocating and killing everything around it. "Around the lake, geologists found evidence of massive biological extinctions about every thousand years, presumably caused by outgassing events."
 1. Mortgage brokers give you better deals.
 1. Consider it [impossible](https://stackoverflow.com/questions/131989/how-do-i-get-a-list-of-all-subdomains-of-a-domain#132014) to get all subdomains for a domain name, unless you own it.
 1. Locks that take master keys have [two sets of pins](https://unitedlocksmith.net/blog/how-master-key-systems-work). Having two levels of pins allows the key to turn at either level.
@@ -847,7 +848,6 @@
 1. "Running the gauntlet" involves a guilty person walking in between two rows of soldiers, who attack him as he crosses.
 1. Elon Musk did not waste time on anything that is impossible: ["The first step is to establish that something is possible; then probability will occur."](https://www.inc.com/peter-economy/11-elon-musk-quotes-that-will-push-you-to-achieve-impossible.html)
 1. JIRA's ["Impediment" flag](https://confluence.atlassian.com/jirasoftwareserver071/flagging-an-issue-800706915.html), or just "Flag", was a [leftover](https://community.atlassian.com/t5/Questions/JIRA-s-quot-Impediment-quot-Flag-vs-a-Custom-quot-Impeded-quot/qaq-p/29095) part from GreenHopper.
-1. Kids at the age of two are called [terrible twos](https://www.parents.com/toddlers-preschoolers/development/behavioral/tackle-terrible-twos/) for the tantrums they tend to release at around that age, when they start to learn the ability to be frustrated with something they cannot do.
 1. Finland is responsible for the [World Sauna Championships](https://en.wikipedia.org/wiki/World_Sauna_Championships#2010_incident), which caused one death at 110°C, [Mobile Phone Throwing World Championships](https://en.wikipedia.org/wiki/Mobile_phone_throwing), sponsored by Nokia obviously, and the [Wife Carrying World Championship](https://www.youtube.com/watch?v=974HCI4UV4A), which... seems normal in comparison.
 1. Rubbing alcohol might make some post-it notes sticky again.
 1. "I think I'm starting to understand the older people in my life. ... Imagine a tool you've used for 30 years, it's not even an extension of your hand any longer, it's a pure extension of your will. I wouldn't want to replace it either." - /r/Steavee
@@ -1180,7 +1180,6 @@
 1. Damned Daniel Craig [did](https://www.vanityfair.com/hollywood/photos/2015/12/star-wars-force-awakens-cameos-daniel-craig-ewan-mcgregor-kevin-smith) play a Stormtrooper in The Force Awakens.
 1. If you don't like watching half an hour worth of ads before your movie, then either a) pirate it, or b) reverse engineer the start time by looking at the movie's end time, less the movie duration.
 1. Corn husks (the skins) were once used as shipping padding.
-1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 1. CDMA is owned by Qualcomm. It is a piece of turd because phones can lock you to a carrier ("whitelisting") without even a SIM. GSM is a global (in particular, legally required in EU) standard.
 1. One CPU branching misprediction costs 5ns.
 1. If you keep sending emails to addresses that don't exist, that web server flags you down as spam.
@@ -1557,7 +1556,6 @@
 1. [This wiki article](https://en.wikipedia.org/wiki/Unisex_name#English) claims that Ashley, Beverly, Carol, Evelyn, Hillary, Joyce, Kelly, Lindsay, Shannon, Shirley, Tracy, and Vivian were all masculine names, before being popular among females.
 1. "Klismaphilia", the love for enemas. They even have [special aluminium nozzles](https://upload.wikimedia.org/wikipedia/commons/2/2e/Aluminium_Enema_Nozzle_01.jpg) for the job.
 1. [Drowning is a way to kill Wolverine.](https://scifi.stackexchange.com/questions/14347/how-to-kill-wolverine) Healing does not work after death. This is evident in his death in Logan (oh right spoilers). He had an X for his grave, marked by his ["daughter" Laura (X-23)](https://en.wikipedia.org/wiki/X-23).
-1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs
 1. How low you must have gotten if you are best known for [being punched in the face](https://en.wikipedia.org/wiki/Bart_Sibrel).
 1. [The Romanian flag is indistinguishable from Chad's flag](http://www.msn.com/en-au/travel/other/10-of-the-worlds-most-confusing-flags-and-how-to-figure-them-out/ar-BBvIfW5) under the sun. They are slightly different shades of blue, yellow, and (maybe even the same) red.
 1. [Cat litter](https://en.wikipedia.org/wiki/Litter_box) can be made of many materials, like clay, [zeolite, diatomite and sepiolite], calcium bentonite (clumping formula), silica gel, and all sorts of other biodegradable options. There are litter boxes that scoop up the poop automatically, apparently...
@@ -1808,7 +1806,6 @@
 1. Amazon was an online book store 20 years ago. It sold nothing else. [The boss looked like a book nerd.](https://i.imgur.com/BfZ6roy.jpg)
 1. The only Family Guy character that moves at a given time is the character that is talking (a side effect of animators being lazy/underpaid/both). After a few seasons, they also kill their own jokes by explaining them right after (a side effect of lengthening the show without adding substance).
 1. Justin [reportedly](http://www.thespec.com/news-story/5968652-justin-trudeau-out-of-his-father-s-shadow-and-into-power/) likes Labatt 50. He's just not ready.
-1. 56g of daily minimum of protein intakes is like a kilogram of food, give or take. Depends on what you eat, obviously (300g of beans or 2 kilos of spinach or...)
 1. Steve Job's biological father was a Syrian Muslim. His adoptive father was named Jobs.
 1. [大秦](https://en.wikipedia.org/wiki/Daqin) did not refer to the [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty); it referred to the Roman empire.
 1. [The Tale of Two Lovers](https://en.wikipedia.org/wiki/The_Tale_of_Two_Lovers), an erotic novel, was written by Pope Pius II. It was reportedly a popular best-seller.
@@ -2080,7 +2077,6 @@
 1. Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 1. [Mortgage](http://en.wikipedia.org/wiki/Mortgage_loan) is French for "death pledge".
 1. It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
-1. Mount K2 is the second tallest mountain in the world, and also the one with the second highest death rate. Everest is the tallest, but [Annapurna I](https://en.wikipedia.org/wiki/Annapurna_Massif#Annapurna_I) has the highest death rate.
 1. `pigz` is gzip, but with parallel processing (and slightly better compression).
 1. A [micromort](https://en.wikipedia.org/wiki/Micromort) is a measure of probability of death. It is (more or less) the amount associated with risk for each action a person is willing to pay to die doing that event. For example, for every 27km you walk, you get one micromort.
 1. [Bandy](https://en.wikipedia.org/wiki/Bandy) is an ice sport like hockey, except the puck is a ball. The Canadian Bandy headquarters is in Winnipeg, and it never wins Russia in their own game.
@@ -2653,7 +2649,6 @@
 1. Heckler & Koch are known for their [backwards rounds catalog in 2004](https://youtu.be/XiX2rb3cgzY). "Accuracy, Reliability - No Compromise." Anyone on the Internet inserting bullets backwards is actually paying them a homage, not being an idiot.
 1. That "It's got electrolytes, it's what plants crave" nonsense came from [Brawndo](https://www.youtube.com/watch?v=-Vw2CrY9Igs), the sports drink made up by movie [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy).
 1. Kansas City is not in Kansas. Kansas City was founded before Kansas, so Kansas was just running out of names (or something).
-1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".
 1. When buying furniture like couches, treat [bonded leather](https://www.reddit.com/r/pics/comments/5e85no/_/daai4n7?context=1000) as a no-go. Bonded leather is inferior and worthless.
 1. [`http://www.google.com/blank.html` and `http://clients3.google.com/generate_204`](http://webmasters.stackexchange.com/a/30689) are the urls hit by captive portal detection.
 1. [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
@@ -2679,7 +2674,7 @@
 1. There is both a president and prime minister for Russia, with the president being the higher one. Vladimir was the PM from 1999 to 2000, president from 2000 to 2008, prime minister from 2008 to 2012, and president from 2012 to forever.
 1. "In the event (...) where passengers have to cover their heads you do not 'lock' your fingers over head but place one hand on top of the other. If something falls on your hand/head, you'll still have one good hand to use."
 1. Usually when people realise that termites exist, it is already too late to learn from the mistake.
-1. The [american fuzzy lop](https://en.wikipedia.org/wiki/American_fuzzy_lop_%28fuzzer%29) (not to be confused with the rabbit by the name) is a genetic test fuzzer.
+1. The [american fuzzy lop](https://en.wikipedia.org/wiki/American_fuzzy_lop_%28fuzzer%29) (not to be confused with the rabbit by the name) is a genetic test fuzzer. A "fuzz test" is one that randomly mutates your function inputs to see if your function crashes (and it should, because the input is unexpected).
 1. Forearm crutches have a [natural advantage](https://www.youtube.com/watch?v=4TEfM5Y8S5M) when it comes to transporting bags hooped onto its handles. [Because so few people are prescribed forearm crutches](http://www.walkeasy.com/interact/board/default.asp?sub=show&action=posts&fid=6&tid=80), they tend to be [more expensive](http://canescanada.com/Loftstrand-Forearm-Crutches--Adult-and-Child_p_553.html).
 1. HSPA (HSDPA and HSUPA, for download/upload) is often called 3.5G.
 1. "Genuine leather" is rubbish. Get "Full-Grain Leather" instead.

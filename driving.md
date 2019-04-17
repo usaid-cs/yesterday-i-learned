@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/IGedhKP.jpg)
 
+1. If a car is tailgating you, you need double the braking distance in front of you, so you have enough time to slowly brake when *that* car brakes, so that the tailgater doesn't hit you.
 1. You need to put your foot on the brake before you can start a car with a push button.
 1. [Service roads](https://en.wikipedia.org/wiki/Frontage_road) are roads running parallel to highways. Living on a service road is often a poor idea, because service roads can only go one way.
 1. Before the second world war, [Europe had 50:50 mixed opinions about which side of the road to drive on](https://i.redd.it/zhaj9kiw5ha11.png), including driving on either side being an option in Italy.

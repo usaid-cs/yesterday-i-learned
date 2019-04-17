@@ -1,3 +1,4 @@
+1. Too much CO2 in the air makes it "stuffy".
 1. Did you know that [black plastic is rarely recycled](https://yle.fi/uutiset/osasto/news/finnish_tech_enables_recycling_of_black_plastic/10716818) (think electronics casings) but "normal near infrared (NIR) sensors at recycling plants are unable to detect the black pigment, so black plastics usually go unrecycled worldwide and contribute to climate change."
 1. If contaminants are present, [(rotten) ice can form](https://en.wikipedia.org/wiki/Rotten_ice) in the shape of honeycombs.
 1. "If you are titrating a weak acid with a strong base, for example, the color indicator may change color at a pH that does not necessarily equate to the stoichiometric point." (presumably because you have a buffer solution)

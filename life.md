@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. "He who has a why can bear almost any how." -Viktor Frankl
 1. You should never feel obligated to pay for your in-laws' house.
 1. "I am easily distracted" is an okay weakness to mention during an interview.
 1. Try not to shower before you drink coffee.
@@ -78,3 +79,4 @@
 1. "If you can't handle me at my worst, you don't deserve me at my best" is a moronic phrase. See [what happens when the roles swap.](https://imgur.com/vKCsxOO)
 1. [Microsoft's "Alternative Interview Framework"](https://www.businessinsider.com/microsoft-new-developer-interview-process-2018-12) involves sharing interview questions with candidates can prepare, interviewing a junior and senior candidate together (to give the team an idea of how junior/senior differ), and withholding opinions about a candidate until after all interviews are complete.
 1. CLM: Career-Limiting Move (something stupid you do that prevents new jobs and opportunities, such as being a douchebag or writing this line)1. [Never, under any circumstances, mention why you don't like your previous environment in an interview.](https://www.reddit.com/r/AskReddit/comments/5oyw4m/what_should_someone_not_discuss_during_a_job/dcn633x/) Just say you want more challenging work or develop new skills or something.
+1. [Constructive Dismissal](http://www.esdc.gc.ca/en/esdc/acts_regulations/labour/interpretations_policies/constructive_dismissal.page), i.e. making life hard for employees so they would quit on their own, so they don't get paid severance, is "mad illegal".

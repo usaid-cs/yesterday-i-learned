@@ -96,6 +96,11 @@
 
 #### If statements and tests
 
+        # Fun fact: `[` is aliased to a `test` command, which requires itself to
+        # be terminated with an argument `]`.
+        # `[[ ]]` is shell magic, not aliased to anything, and is better (safer)
+        # but not as portable.
+
         C='bash sucks balls';
 
         # Test if a string starts with something
@@ -122,7 +127,7 @@
 
         # Other fun ones:
         # https://devhints.io/bash
-        # [ -z STRING ]  # Empty string
+        # [[ -z "$STRING" ]]  # Empty string or unset
         # [ NUM -eq NUM ]  # Numbers equal
         # [ NUM -ne NUM ]  # Numbers not equal
         # [ NUM -lt NUM ]  # Less than
@@ -131,7 +136,7 @@
 
         # You can just use the word 'test' if you
         # hate the square bracket notation
-        if test -z $STRING; then
+        if test -z "$STRING"; then
             echo 'STRING is empty';
         fi
         echo '------'

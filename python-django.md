@@ -22,6 +22,7 @@
 * [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 * First you migrate, then you load fixtures. It is not strictly enforced, but in order to have a database set up, you must first run `migrate` to get your tables, so you should just stick to it.
 * Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.
+* [Deconstruction](https://docs.djangoproject.com/en/2.2/howto/custom-model-fields/#field-deconstruction), as far as Django fields are concerned, is the *opposite of construction*, or: how to turn a field instance into arguments that, when used to call `SomeField.__init__`, to recreate the field instance with the same values. (The other word choice is "Destruction".)
 
 ### `ForeignKey`
 
@@ -138,6 +139,7 @@ Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration its
 * You can do [`.values()` or `,values_list()` expressions](https://docs.djangoproject.com/en/1.11/ref/models/querysets/#values-list), e.g. `Entry.objects.values_list('id', Lower('headline'))`.
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all languages to have those translations in the same order.
 * The closest thing nodejs has to Django templates is [swig](https://github.com/paularmstrong/swig), but it is discontinued.
+* There's a [`django.template.Template`](https://github.com/django/django/blob/97e637a87fb45c4de970cca6cb783d93473c9d15/django/template/base.py#L141), and then there's a [`django.template.backends.django.Template`](https://github.com/django/django/blob/b9cf764be62e77b4777b3a75ec256f6209a57671/django/template/backends/django.py#L48), with the latter being a backend for the former.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

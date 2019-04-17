@@ -19,6 +19,9 @@
 [for (book of books) console.log(book.title, book.author)];
 ```
 
+* `[,].length` is 1. `[1,].length` is also 1. `[1,,].length`, which is new, is 2. For any array with [dangling commas](https://davidwalsh.name/es7-es8-features) (and only dangling commas), the length is equal to the number of commas. If not (for example, `[1,,,1].length` is 4), the length is increased by 1.
+* Also fun fact: the items stored in between dangling commas is `<x empty slots>` rather than `undefined`.
+
 ### New methods
 
 * The equivalent to `all()` is [`.every()`](https://zabanaa.github.io/notes/functional-programming-and-javascript-arrays.html): `let bar: boolean = array.every(x => isTrue(x))`
@@ -31,6 +34,8 @@
 ```
 var [m, d, y] = [3, 14, 1977];  // need to wrap both in array notation
 var [,,y] = [3, 14, 1977];  // can ignore variables you don't need
+var [a] = [];  // "Fail-soft": a is undefined rather than causing an error
+var [b = 1] = [];  // Defaults: b is 1 rather than undefined
 ```
 
 [Destructuring objects](https://github.com/DrkSephy/es6-cheatsheet#destructuring-objects)
@@ -83,9 +88,10 @@ array.map((p) => p * 2);
 array.reduce((p, q) => (p + q));  // example with two arguments
 ```
 
-`arguments` cannot be used inside arrow functions, much like `this` cannot be.
+[`arguments` cannot be used inside arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#No_binding_of_arguments).
+`this` can be used in an arrow function, and [it is the `this` of the scope containing it](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions#No_separate_this). rather than the usual craziness that comes with `bind`ing this and that and `self` and stuff.
 
-* [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary.
+* [Arrow functions can be multiline](http://ilikekillnerds.com/2015/01/a-guide-to-es6-arrow-functions/), but they also make the `return` statement compulsary (if you want to return something).
 * Note: [arrow functions (basically) cannot have names](https://stackoverflow.com/questions/27977525/how-do-i-write-a-named-arrow-function-in-es2015).
 
 ```
@@ -150,7 +156,7 @@ const obj = {
 
 ## Classes
 
-* Classes are not hoisted, even if they down-transpile to a function.
+* Classes are not hoisted, even if they down-transpile to a function. The reference is at the top of the scope, but the anonymous function is assigned to the reference on the line the class is declared.
 * Classes can be anonymous.
 * [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
 * If you have the balls to have a [class extends `null`](https://github.com/denysdovhan/wtfjs#function-is-not-function), be prepared to see unexpected behaviours ("function is not a function").
@@ -248,7 +254,7 @@ Importing the two named exports under the same names
 
 * `async function`s always return a promise. A `return 5` in an async function returns a promise that resolves with 5.
 * `async function`s always reject with the error if an error is thrown in it.
-* `await asyncFunction()` always returns the value that the function resolves.
+* `await asyncFunction()` always directly returns the value that the async function resolves.
 
 [Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html). An `await` in a non-`async function` throws a SyntaxError.
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
@@ -264,4 +270,4 @@ WeakMap allows [garbage collection](https://stackoverflow.com/questions/29413222
 
 ## Strings
 
-* [Functions can be called without parentheses if the argument is a template string](https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-%28what!%29.html). `hello ``Michele``` calls `hello` with `Michele` sure, but `hello ``Michele``, ``foo``` calls `hello` with `foo`, so it is not readable.
+* [Functions can be called without parentheses if the argument is a template string](https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-%28what!%29.html). This is called a [tagged template](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). `hello ``Michele``` calls `hello` with `Michele` sure, but `hello ``Michele``, ``foo``` calls `hello` with `foo`, so it is not readable.

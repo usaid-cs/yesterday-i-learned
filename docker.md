@@ -4,6 +4,14 @@
 * **Container**: Process in a box. The box contains everything the process needs to run, including the filesystem, shell, and libraries. They are not enabled by default.
 * **Commit**: Save changes made to the container.
 
+## When to use Docker
+
+## [When not to use Docker](https://www.reddit.com/r/docker/comments/982cag/docker_for_development_why_and_how/)
+
+* You application runs only on Windows or macOS.
+* Your application is tightly coupled to the OS (like needing direct access to CPU or memory).
+* Your application is a GUI.
+
 ## Get started
 
 * Docker has pre-built images; run `docker search (name)` to find them, and `docker pull (user)/(name)` get them.
@@ -24,3 +32,7 @@
 * Run `sudo docker run -p 4000:80 (your container name)` to run it. You access the container's port 80 from your own port 4000.
 * Alternatively, with `-d`, `sudo docker run -p 4000:80 (your container name)` runs the container in detached mode.
 * [There is no difference between `docker ps` and `docker container ls`.](https://stackoverflow.com/a/45254760/1558430) Both list your containers.
+
+## Docker compose
+
+* [While `Dockerfile`](https://stackoverflow.com/questions/29480099/docker-compose-vs-dockerfile-which-is-better) helps you *build* an image, docker [compose](https://docs.docker.com/glossary/?term=Compose) helps you run applications that use multiple containers.

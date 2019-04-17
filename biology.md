@@ -1,3 +1,7 @@
+1. Like other fungi that cause [candidiasis](https://en.wikipedia.org/wiki/Candidiasis), [*Candida auris*](https://en.wikipedia.org/wiki/Candida_auris) cannot reproduce in environments that do not contain a lot of carbohydrates. In other words, drink less beer.
+1. [Arugula](https://en.wikipedia.org/wiki/Eruca_sativa) or "rocket" is that bitter, peppery vegetable you see in salads.
+1. Athletes with spinal injuries can [boost](https://en.wikipedia.org/wiki/Boosting_%28doping%29) themselves by breaking a bone (like on a toe), triggering a fight-or-flight response without feeling it, that enhances ("boosts") performance. This is, of course, banned.
+1. Eggs develop in your mother before she was born, so you were actually inside your grandmother too.
 1. Compression stockings are used to get blood back to the heart easier.
 1. Death is not scary at all. "50% of heart attack patients have normal cholesterol levels. 68% had arteries that were not narrow." - LifeLabs
 1. [*Valonia ventricosa*](https://en.wikipedia.org/wiki/Valonia_ventricosa), the bubble algae, is among the world's largest unicellular organisms.
@@ -881,3 +885,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Rice is grown in water to deter weeds. It otherwise does not need that much water to grow.
 1. Some drugs tell you not to lie down for 10 minutes after taking it.
 1. [Men who like their meat well-done are (more) likely to get prostate cancer.](http://www.cnn.com/2011/11/23/health/well-done-red-meat-prostate-cancer/). Maybe not exactly twice as likely, but more likely.
+1. 56g of daily minimum of protein intakes is like a kilogram of food, give or take. Depends on what you eat, obviously (300g of beans or 2 kilos of spinach or...)

@@ -39,3 +39,6 @@
 1. New Hampshire is known as the granite state. Its capital city is [Concord](https://en.wikipedia.org/wiki/Concord,_New_Hampshire), a place you have never heard of.
 1. The [Bengal delta / Ganges delta](https://en.wikipedia.org/wiki/Ganges_Delta) is the largest delta on Earth.
 1. The [Black Sea](https://en.wikipedia.org/wiki/Black_Sea) is 5000 times (rounded up) bigger than the [Dead Sea](https://en.wikipedia.org/wiki/Dead_Sea). More or less a lake, the Dead Sea is not really visible on a map unless you go looking for it. The average temperature at Dead Sea year round is 47 degrees Celsius.
+1. [Holland](https://www.holland.com/global/tourism/information/netherlands-vs-holland.htm) is two of the provinces in the Netherlands (called North and South Holland, unsurprisingly).
+1. Mount K2 is the second tallest mountain in the world, and also the one with the second highest death rate. Everest is the tallest, but [Annapurna I](https://en.wikipedia.org/wiki/Annapurna_Massif#Annapurna_I) has the highest death rate.
+1. [Lake Kivu](https://en.wikipedia.org/wiki/Lake_Kivu) blows up from underwater CO2 pressure every thousand-or-so years, suffocating and killing everything around it. "Around the lake, geologists found evidence of massive biological extinctions about every thousand years, presumably caused by outgassing events."
