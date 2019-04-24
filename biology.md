@@ -1,3 +1,6 @@
+1. [Having a Y chromosome does not automatically qualify you as male.](http://www.isna.org/faq/y_chromosome) The [sex-determining region Y gene](https://en.wikipedia.org/wiki/Testis-determining_factor) may be incorrectly encoded, ending up with infants that have a Y chromosome, but look like females in most ways, except often with underdeveloped testes.
+1. [Breasts get 25% bigger on average after sex.](https://www.youtube.com/watch?v=ww_FFS8yjlc)
+1. [Each shot of a "five-hour energy" drink contains 4 Calories.](https://www.youtube.com/watch?v=uS99oFm33nM)
 1. Like other fungi that cause [candidiasis](https://en.wikipedia.org/wiki/Candidiasis), [*Candida auris*](https://en.wikipedia.org/wiki/Candida_auris) cannot reproduce in environments that do not contain a lot of carbohydrates. In other words, drink less beer.
 1. [Arugula](https://en.wikipedia.org/wiki/Eruca_sativa) or "rocket" is that bitter, peppery vegetable you see in salads.
 1. Athletes with spinal injuries can [boost](https://en.wikipedia.org/wiki/Boosting_%28doping%29) themselves by breaking a bone (like on a toe), triggering a fight-or-flight response without feeling it, that enhances ("boosts") performance. This is, of course, banned.
@@ -886,3 +889,12 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. Some drugs tell you not to lie down for 10 minutes after taking it.
 1. [Men who like their meat well-done are (more) likely to get prostate cancer.](http://www.cnn.com/2011/11/23/health/well-done-red-meat-prostate-cancer/). Maybe not exactly twice as likely, but more likely.
 1. 56g of daily minimum of protein intakes is like a kilogram of food, give or take. Depends on what you eat, obviously (300g of beans or 2 kilos of spinach or...)
+1. Once a jog exceeds [10km/h](https://en.wikipedia.org/wiki/Jogging), it becomes a run.
+1. BPA in cup noodles containers ("cups") is [already](https://www.ncbi.nlm.nih.gov/pubmed/24966409) known to cause cardiometabolic problems. [TBHQ](https://en.wikipedia.org/wiki/Tert-Butylhydroquinone) in the noodles is also known to be carcinogenic.
+1. The bauhinia, [Bauhinia × blakeana](https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana), is sterile. Someone has been planting it everywhere.
+1. An orthotic's "break in period" is for your foot, not for the orthotic itself.
+1. [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
+1. [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days.
+1. There is an entire [page](https://en.wikipedia.org/wiki/Comparative_foot_morphology) on how feet are evolved to have different shapes.
+1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
+1. It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).

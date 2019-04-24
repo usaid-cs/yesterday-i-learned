@@ -87,3 +87,6 @@
 1. Annie (the one we try not to sexualise) is in The Disaster Artist.
 1. Boxxy (Catie Wayne) [does a video show now](http://youtube.com/watch?v=4gw6QnYx5-M). She got slightly less annoying.
 1. MKBHD's ultimate frisbee jersey number is 82.
+1. [A man named Denis](https://www.youtube.com/watch?v=5BT1ov-Pgm4) spent [over $800](https://www.roblox.com/upgrades/robux) on a fake snoplow in [a game where you shovel snow](https://www.roblox.com/games/1252559098/Snow-Shoveling-Simulator).
+1. "Dickbuttery" is the term for putting dickbutts everywhere.
+1. Mariah Carey is half black, not incredibly tanned.

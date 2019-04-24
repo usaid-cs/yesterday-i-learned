@@ -81,6 +81,8 @@ function foo(a, b, ...rest) { /* rest is an array */ }
 foo(...[1,2,3,4,5]);
 ```
 
+(The `let { a } = {a: 2}` unpacking syntax is also called spreading.)
+
 * Arrow notation: only `=>`, no `->`, and no context binding.
 
 ```

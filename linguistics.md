@@ -1,3 +1,4 @@
+1. Unfortunately, "foot fetish" translates to [podophilia](https://en.wikipedia.org/wiki/Foot_fetishism) rather than pedophilia.
 1. 配 has a "qualification" connotation. 佩 just means "complement".
 1. Google Translate says "叻沙" is pronounced le4 sha1 in mandarin.
 1. [*Concierge*](https://en.wikipedia.org/wiki/Concierge) actually came from Latin *conservus* "fellow slave", and refers to the people who take care of a building (like a hotel), not customer service in general.
@@ -342,3 +343,4 @@
 1. The plural of *alma mater* (nournishing mother) is *almae matres* (nournishing mothers).
 1. Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
 1. The Greek word "Kyrios" means "lord, Lord, master" in one word.
+1. In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").

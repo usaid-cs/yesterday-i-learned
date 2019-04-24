@@ -201,3 +201,5 @@
 1. Something known as ["10mm"](https://www.amazon.com/TEKTON-14115-4-Inch-Shallow-6-Point/dp/B000NYA1XY/ref=pd_lpo_vtph_469_lp_t_3/132-1839096-9099206?_encoding=UTF8&psc=1&refRID=53N3J210BWNFHRNT9RFZ) is car mechanics' favourite lost item.
 1. Do not buy Honda Fits made before [2014-06-06](http://www.nytimes.com/2014/08/22/automobiles/2015-honda-fit-gets-second-chance-in-iihs-crash-test.html).
 1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs
+1. It is [possible](http://i.imgur.com/ulGwWxK.jpg) to sleep in a Prius C.
+1. The black piece of plastic between the hood and the windscreen is called the *wiper cowl*, not the taint.

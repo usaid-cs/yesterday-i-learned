@@ -67,7 +67,6 @@
 * [linux.md](linux.md)
 * [machine-learning.md](machine-learning.md)
 * [php.md](php.md)
-* [predictionio.md](predictionio.md)
 * [python.md](python.md)
 * [python-django.md](python-django.md)
 * [ruby.md](ruby.md)

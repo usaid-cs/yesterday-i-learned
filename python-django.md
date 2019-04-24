@@ -140,6 +140,7 @@ Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration its
 * Translated string substitutionss (e.g. `_('hello %(world)s')`) must be named because you don't necessarily want all languages to have those translations in the same order.
 * The closest thing nodejs has to Django templates is [swig](https://github.com/paularmstrong/swig), but it is discontinued.
 * There's a [`django.template.Template`](https://github.com/django/django/blob/97e637a87fb45c4de970cca6cb783d93473c9d15/django/template/base.py#L141), and then there's a [`django.template.backends.django.Template`](https://github.com/django/django/blob/b9cf764be62e77b4777b3a75ec256f6209a57671/django/template/backends/django.py#L48), with the latter being a backend for the former.
+* Rest framework's `Response` has inheritance of `Response -> django.template.response.SimpleTemplateResponse -> django.http.HttpResponse`. Django's built-in `JsonResponse` has inheritance of `JsonResponse -> django.http.HttpResponse`.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

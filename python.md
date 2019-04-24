@@ -492,6 +492,7 @@ bar
 1. `glob.glob()` is not sorted. You have to sort it yourself.
 1. To specify a version of python that pyenv will use for a project, put `2.5.0` inside a [`.python-version`](https://github.com/pyenv/pyenv#choosing-the-python-version) file at the project root. Then, `python` will map to whichever one pyenv thinks you want.
 1. [`raise AnError() from None`](https://stackoverflow.com/a/33822606/1558430) disables the "During handling of the above exception, another exception occurred" traceback.
+1. [This here](https://gist.github.com/sloria/7001839) tells you to: name something `audio.Controller` rather than `audio.AudioController`. It also tells you to `import a.module` rather than `from a.module import something` to prevent circular imports (no valid citation).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

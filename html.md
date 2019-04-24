@@ -1,3 +1,4 @@
+1. The `<small>` HTML tag is reserved for defining "smallprint" or legal text.
 1. A semantic tag called `<time>` allows you to enter it in ISO 8601 format and a human-readable one at the same time, [like this](https://zachholman.com/talk/utc-is-enough-for-everyone-right): `<time title="May 28, 2018, 3:47 PM PST" datetime="2018-05-28T15:47:57-08:00">six minutes ago</time>`
 1. W3C [might](https://www.w3.org/TR/html51/syntax.html#sec-comments) have removed the requirement that comments must have a space between `<!--` and the actual comment, so `<!--comment-->` is valid now.
 1. [Multiple `<tbody>` elements can exist in the same table.](https://stackoverflow.com/questions/3076708/can-we-have-multiple-tbody-in-same-table) Suspect the only reason for this is styling.

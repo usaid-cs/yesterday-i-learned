@@ -2,6 +2,8 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+1. Prettier (v1.17.0) outputs [spaces inside object literals](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEAzArlMMCW0AEqEEAFAJT7AA6U+hxJwAFnADasRL4DkA7hACdWAE24AaAEZcwAXzIBuGjJBiQEAA65oAZ2SgAhgIEReABUMJdKfQDcIOYSpASB+sAGs4MAMrq3OKABzZBgBdDhVJhgAW1YAdSYceG0-MDhvSyScGySAT2RwbV1VAO04ARhTV0Do-WRUfVYy1QArbQAPACFXDy9vfWi4ABkAuHrG5pA29u8AwNY4AEV0CHhxpoiQPwEygQKJfQlcjigndQEAmDiHGCZkAA4ABlVziDK413UC87hdmzHVABHFbwKoaKwgfTaAC0UDgcGECKcAjgwJwKKq+hqdSQDQ2qjK0RwITCm20cwWy1WY1xE02MEO12Et2QACZVKF9DhWHMAMIQaK1ApQaAAkDoMoAFUOVjxZRkMiAA) if the object is a one-liner.
+1. [`_.inRange`](https://github.com/lodash/lodash/issues/3147) is not inclusive on the end. `_.inRange(0.5, 0, 1)` checks `0 <= 0.5 < 1`, which is an interesting choice of inequalities.
 1. There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
 1. [Your workers cannot see your local storage.](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 1. [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the *stack* is empty and there is something in the *task queue* (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.

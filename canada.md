@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Landshark Lager is made by the brick brewery.
 1. The Waterloo region [can](https://en.wikipedia.org/wiki/Waterloo,_Ontario#Climate) reach "feels like 50 degrees" during the summer.
 1. When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.
 1. VRTUCAR is owned by [Communauto](https://en.wikipedia.org/wiki/Communauto), a private company headquartered in Montreal. [It is not a co-op](https://www.cbc.ca/news/canada/kitchener-waterloo/vrtucar-communauto-community-careshare-kw-waterloo-hamilton-1.4594729).
@@ -173,3 +174,5 @@
 1. A legal "blood THC concentration" limit actually exists, 2ng.1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
 1. All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
 1. According to the packaging for Prince Igor Vodka, Prince Igor lives in Grimsby Ontario.
+1. [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
+1. Telehealth is a triaging service.

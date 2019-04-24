@@ -30,3 +30,12 @@
 1. When people have less money for budget, [they buy more cheap things to compensate for not buying expensive things](https://www.theguardian.com/business/2017/jul/15/the-lipstick-effect-britons-treat-themselves-as-budgets-tighten). This is called the Lipstick Effect.
 1. The stock exchange is where people smarter than you get money off people less smart than them, like you. It is not a gambling table. It is an exchange. The smartest people win.
 1. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.
+1. [Indicators of low volatility (say VIX) are a sign that the tide is about to turn.](https://www.cnbc.com/2018/02/01/some-investors-are-worried-low-volatility-might-be-the-start-of-a-market-crash-heres-why.html)
+1. The [TD TDB900 Canadian Index Fund](https://www.tdassetmanagement.com/fundDetails.form?fundId=3261&lang=en) puts more money into Royal Bank than it does into itself.
+1. "The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
+1. "Trade surplus" is a good thing. It means exports > imports, not "exports did not meet or exceed quota".
+1. It doesn't hurt to buy stocks *after* it is done dropping. Buying before it's done dropping is called "catching a falling knife".
+1. The highest reward for lowest risk investments would be buying your own government bonds directly (1~5%). The highest reward, regardless of risk, would either be stocks or real estate, depending on many variables.
+1. [State Grid Corp of China](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) is a state-owned monopoly. It is not understood why Fortune Global 500 considers it a company (it's top 2, in fact).
+1. Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
+1. 套現 is literally "cash out".
