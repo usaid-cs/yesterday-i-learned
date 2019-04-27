@@ -86,7 +86,7 @@ foo(...[1,2,3,4,5]);
 * Arrow notation: only `=>`, no `->`, and no context binding.
 
 ```
-array.map((p) => p * 2);
+array.map(p => p * 2);
 array.reduce((p, q) => (p + q));  // example with two arguments
 ```
 
@@ -261,6 +261,8 @@ Importing the two named exports under the same names
 [Only in an `async`-marked function can you use `await`](http://masnun.com/2015/11/11/using-es7-asyncawait-today-with-babel.html). An `await` in a non-`async function` throws a SyntaxError.
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
 If an async function has multiple return points: since a promise can only resolve once, it will always resolve with the first value.
+
+* If you can't use `await` because you aren't in a function (for example, you're in a main script), then [wrap your script](https://stackoverflow.com/a/46515787/1558430) in `(async () => { ... })();` lol.
 
 ## WeakMap
 

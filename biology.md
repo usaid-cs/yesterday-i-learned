@@ -1,3 +1,4 @@
+1. The [alpha-gal syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608) makes you allergic to [the alpha-gal in] red meat.
 1. [Having a Y chromosome does not automatically qualify you as male.](http://www.isna.org/faq/y_chromosome) The [sex-determining region Y gene](https://en.wikipedia.org/wiki/Testis-determining_factor) may be incorrectly encoded, ending up with infants that have a Y chromosome, but look like females in most ways, except often with underdeveloped testes.
 1. [Breasts get 25% bigger on average after sex.](https://www.youtube.com/watch?v=ww_FFS8yjlc)
 1. [Each shot of a "five-hour energy" drink contains 4 Calories.](https://www.youtube.com/watch?v=uS99oFm33nM)
@@ -898,3 +899,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 1. There is an entire [page](https://en.wikipedia.org/wiki/Comparative_foot_morphology) on how feet are evolved to have different shapes.
 1. The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 1. It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).
+1. *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
