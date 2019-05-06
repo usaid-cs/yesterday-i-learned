@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. When someone asks "Where are you from" or "What do you do", try to respond the question with something that relates to the asker. For "What do you do", _you_ should not be asking it because not everyone is proud of what they do. If you are the one answering "What do you do", then attempt to add the word "help" into the response, i.e. ["I help people get the best Japanese candies the country has to offer,"](https://www.candyjapan.com/) rather than "I run a website that sells Japanese candies". A valid alternative to "What do you do" is "How do you spend most of your time".
 1. "Perseverance is the hard work you do after you get tired of doing the hard work you already did." - Newt Gingrich
 1. "It is the working man who is the happy man. It is the idle man who is the miserable man." - 
 Benjamin Franklin
