@@ -203,3 +203,4 @@
 1. "A classic car is like a pet dog. One day it's gonna let you down and die." - Clarkson on pet dogs
 1. It is [possible](http://i.imgur.com/ulGwWxK.jpg) to sleep in a Prius C.
 1. The black piece of plastic between the hood and the windscreen is called the *wiper cowl*, not the taint.
+1. Red to positive, red to positive, black to negative, [BLACK TO GROUND](https://www.reddit.com/r/WTF/comments/4gmejc/jump_starting_a_car_what_could_possibly_go_wrong/d2iujyp).

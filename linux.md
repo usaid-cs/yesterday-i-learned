@@ -1,5 +1,7 @@
 ![Dilbert][imgur]
 
+1. Find largest files: [`sudo du -a / 2>/dev/null | sort -n -r | head -n 20`](https://www.cyberciti.biz/faq/linux-find-largest-file-in-directory-recursively-using-find-du/). There is no way around needing the stderr redirect.
+1. To find and delete files older than (say 5) days, use [`find whatever*pattern -mtime +5 -exec rm {} \;`](https://askubuntu.com/questions/589210/removing-files-older-than-7-days/589224). No one will tell you [why the ` \;` (space and all) is required](https://unix.stackexchange.com/questions/12902/how-to-run-find-exec).
 1. `grep -E` is extended regex. `grep -P` is Perl's regex. You can't use both at the same time. Also `-E -e [expression]` can be used multiple times if you want to multiple any of these patterns.
 1. `awk` is figuratively a simpler `grep` for what you use it for. `awk '/.../' file` literally throws out any lines in the file that matches that regex. It even supports flags like `i`.
 1. Easiest way to [get the nth line of a file](https://leetcode.com/problems/tenth-line/): [`tail -n linenumber file | head -1`](https://stackoverflow.com/questions/6022384/bash-tool-to-get-nth-line-from-a-file). However they say it's slow and you should [`sed '123q;d' file`](https://stackoverflow.com/a/6022431/1558430) instead. Also, you first `tail` then `head`. If you first `head` then `tail`, the result is ambiguous if there file doesn't have an nth line.
@@ -113,7 +115,7 @@
 1. `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
 1. `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 1. `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
-1. Batch resize images: `for i in $(ls *.jpg); do convert -resize 800x800 $i re_$i; done`
+1. Batch resize and/or [optimise](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) images: `for i in $(ls *.jpg); do convert -resize 800x800 -quality 90 -gaussian-blur 0.001 -sampling-factor 4:2:0 -define jpeg:dct-method=float -interlace Plane $i re_$i; done`
 1. [Docker isn't for everyone][devopsu] but [you made a cheatsheet anyway](docker.md)
 1. `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.
 1. Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.

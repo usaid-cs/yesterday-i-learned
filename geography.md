@@ -1,3 +1,5 @@
+1. A woman who lives in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), Germany is a *Hamburgerin*.
+1. There are [seven transcontinental cities](https://en.wikipedia.org/wiki/Category:Transcontinental_cities), with the most well-known being Istanbul.
 1. There is [no standard](https://en.wikipedia.org/wiki/Island#Differentiation_from_continents) (by size) that distinguishes islands from continents.
 1. An archipelago is just a group of islands.
 1. Pittsburgh is quite close to (40,-80).
@@ -42,3 +44,4 @@
 1. [Holland](https://www.holland.com/global/tourism/information/netherlands-vs-holland.htm) is two of the provinces in the Netherlands (called North and South Holland, unsurprisingly).
 1. Mount K2 is the second tallest mountain in the world, and also the one with the second highest death rate. Everest is the tallest, but [Annapurna I](https://en.wikipedia.org/wiki/Annapurna_Massif#Annapurna_I) has the highest death rate.
 1. [Lake Kivu](https://en.wikipedia.org/wiki/Lake_Kivu) blows up from underwater CO2 pressure every thousand-or-so years, suffocating and killing everything around it. "Around the lake, geologists found evidence of massive biological extinctions about every thousand years, presumably caused by outgassing events."
+1. Easter Island belongs to Chile ("annexed in 1888"). It is at the middle of ~~nowhere~~ the Pacific ocean.

@@ -90,3 +90,5 @@
 1. [A man named Denis](https://www.youtube.com/watch?v=5BT1ov-Pgm4) spent [over $800](https://www.roblox.com/upgrades/robux) on a fake snoplow in [a game where you shovel snow](https://www.roblox.com/games/1252559098/Snow-Shoveling-Simulator).
 1. "Dickbuttery" is the term for putting dickbutts everywhere.
 1. Mariah Carey is half black, not incredibly tanned.
+1. A guy named [Michel](https://en.wikipedia.org/wiki/Michel_Lotito) ate 18 bicycles, 7 TVs, and a Cessna 150. He died at the age of 57 from natural causes.
+1. Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).

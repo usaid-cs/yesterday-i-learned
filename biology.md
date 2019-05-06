@@ -1,3 +1,5 @@
+1. Under ideal conditions, [a human body may turn into soap](http://muttermuseum.org/exhibitions/the-soap-lady/).
+1. *Helicobacter pylori* can be detected with a [breath test](https://www.cbc.ca/news/technology/diagnosing-stomach-problems-check-your-breath-1.851635) ("C-13" or "C-14" isotope urea breath test). "The patient ingests an isotope-labelled urea solution, which is broken down by the urease enzyme into carbon dioxide and ammonia. A high level of labelled CO2 in the patient's breath suggests H. pylori infection."
 1. The [alpha-gal syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608) makes you allergic to [the alpha-gal in] red meat.
 1. [Having a Y chromosome does not automatically qualify you as male.](http://www.isna.org/faq/y_chromosome) The [sex-determining region Y gene](https://en.wikipedia.org/wiki/Testis-determining_factor) may be incorrectly encoded, ending up with infants that have a Y chromosome, but look like females in most ways, except often with underdeveloped testes.
 1. [Breasts get 25% bigger on average after sex.](https://www.youtube.com/watch?v=ww_FFS8yjlc)

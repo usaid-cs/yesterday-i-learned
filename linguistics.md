@@ -1,3 +1,6 @@
+1. [Double-edged swords are actually great at cutting things](https://english.stackexchange.com/questions/60728/why-is-the-term-double-edged-sword-used-for-something-that-can-be-favorable-an). The saying is a distorted form of "cuts both ways", which is good *and* bad.
+1. In the war between ["supersede" and "supercede"](https://www.merriam-webster.com/dictionary/supercede), despite both having been around since the 17th century, "supercede" did not win.
+1. Paper that has been wet, dried, and now deformed is [cockled](https://english.stackexchange.com/questions/268765/what-is-the-correct-term-for-paper-that-has-become-wet-and-deformed-as-it-dried).
 1. Unfortunately, "foot fetish" translates to [podophilia](https://en.wikipedia.org/wiki/Foot_fetishism) rather than pedophilia.
 1. 配 has a "qualification" connotation. 佩 just means "complement".
 1. Google Translate says "叻沙" is pronounced le4 sha1 in mandarin.

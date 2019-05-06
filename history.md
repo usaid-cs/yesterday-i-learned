@@ -1,3 +1,4 @@
+1. [Instant noodles were a direct result of the second world war.](https://www.youtube.com/watch?v=s3sS6JVhnt8) Japan needed a non-perishable way to preserve noodles, which was made with wheat.
 1. [King George VI](https://en.wikipedia.org/wiki/George_VI) died because he was a smoker.
 1. In November 1999, the corporate name of [7-Eleven] was changed from The Southland Corporation to 7-Eleven Inc.
 1. George HW Bush [threw up](https://en.wikipedia.org/wiki/George_H._W._Bush_vomiting_incident) on the Japanese prime minister. They called it ブッシュする, doing the Bush thing.

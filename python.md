@@ -493,6 +493,10 @@ bar
 1. To specify a version of python that pyenv will use for a project, put `2.5.0` inside a [`.python-version`](https://github.com/pyenv/pyenv#choosing-the-python-version) file at the project root. Then, `python` will map to whichever one pyenv thinks you want.
 1. [`raise AnError() from None`](https://stackoverflow.com/a/33822606/1558430) disables the "During handling of the above exception, another exception occurred" traceback.
 1. [This here](https://gist.github.com/sloria/7001839) tells you to: name something `audio.Controller` rather than `audio.AudioController`. It also tells you to `import a.module` rather than `from a.module import something` to prevent circular imports (no valid citation).
+1. `NotImplemented` (not `NotImplementedError`) is *returned* exclusively by magic methods like [ `__eq__()`, `__lt__()`, `__add__()`, and `__rsub__()`](https://stackoverflow.com/questions/878943/why-return-notimplemented-instead-of-raising-notimplementederror) to indicate that the operation is not implemented for the other type.
+1. `dict` is a "subclass" of `MutableMapping`.
+1. Runtime complexity for dicts/lists/deque are [published](https://wiki.python.org/moin/TimeComplexity). Notably, lists are surprisingly faster than dicts in getting an item by index/key (O(1) vs O(n)) in the worst case.
+1. [`TestCase.addCleanup`](https://docs.python.org/3.5/library/unittest.html#unittest.TestCase.addCleanup) (noting the `up` is lower case, unlike that in `setUp`, because [peps sucked 20 years ago](https://www.reddit.com/r/Python/comments/p03k0/why_does_no_one_seem_to_care_that_unittest/c3lfxnf/) amirite) is an instance-only method. Class-level exceptions cannot be cleaned up like this.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

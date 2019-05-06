@@ -1,5 +1,13 @@
 "Yesterday I learned how to live."
 
+1. "Perseverance is the hard work you do after you get tired of doing the hard work you already did." - Newt Gingrich
+1. "It is the working man who is the happy man. It is the idle man who is the miserable man." - 
+Benjamin Franklin
+1. "If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
+1. "There is an unpanned gold in every soul you run into, no matter what walk of life they are from." - Robert Downey, Jr.
+1. "Change can be beautiful when we are brave enough to evolve with it, and change can be brutal when we fearfully resist." - Bryant McGill
+1. "A dream doesn't become reality through magic; it takes sweat, determination, and hard work." - Colin Powell
+1. "Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison
 1. "If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles." - Credited to Wayne Dyer
 1. "Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones." - not necessarily Marcus Aurelius, but attributed to him anyway
 1. ["I wish I could say you get used to people dying. I never did. I don't want to. It tears a hole through me whenever somebody I love dies, no matter the circumstances. But I don't want it to "not matter". I don't want it to be something that just passes. My scars are a testament to the love and the relationship that I had for and with that person. And if the scar is deep, so was the love. So be it. Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life. Scars are only ugly to people who can't see."](https://www.reddit.com/r/Assistance/comments/hax0t/-/c1u0rx2) - /u/GSnow
@@ -92,3 +100,4 @@
 1. [shitty link] [It is not illegal to ask interviewees if they have been *convicted* of a crime](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer), but illegal to ask if they have been *arrested*.
 1. The story of a 17yo man and [his encounter with a girl called Monica](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
 1. *Parroting* is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
+1. Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
