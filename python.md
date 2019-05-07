@@ -94,7 +94,7 @@ for k, v in six.iteritems(d):
 1. `re.sub(pattern, repl, string)` is technically `re.sub(pattern, lambda repl: repl, string)`, which allows [text munging][python 6].
 1. `yield`s are formally referred to as [coroutines](http://en.wikipedia.org/wiki/Coroutine) -- function with multiple entry/resume points.
 1. The `signal` package has an `alarm` method that can [timeout a long-running function][python 7].
-1. [Python3 exceptions are only accessible within the `except` block, for GC reasons][toptal]. Interestingly, even if the same name existed outside the `except` block, [Python3 will remove the variable of the same name from the outer scope](http://www.wefearchange.org/2013/04/python-3-language-gotcha-and-short.html).
+1. [Python3 exceptions are only accessible within the `except` block, for GC reasons](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make). Interestingly, even if the same name existed outside the `except` block, [Python3 will remove the variable of the same name from the outer scope](http://www.wefearchange.org/2013/04/python-3-language-gotcha-and-short.html).
 1. Set generators are [already available in python2.7](http://en.wikipedia.org/wiki/Python_syntax_and_semantics#Dictionary_and_set_comprehensions).
 1. The `set`'s `discard` method makes stupid things like `new_set = {x for x in old_set if x != 'foo'}` a little bit redundant.
 1. Lambda expressions can have parameter defaults, positional and keyword arguments!
@@ -497,6 +497,9 @@ bar
 1. `dict` is a "subclass" of `MutableMapping`.
 1. Runtime complexity for dicts/lists/deque are [published](https://wiki.python.org/moin/TimeComplexity). Notably, lists are surprisingly faster than dicts in getting an item by index/key (O(1) vs O(n)) in the worst case.
 1. [`TestCase.addCleanup`](https://docs.python.org/3.5/library/unittest.html#unittest.TestCase.addCleanup) (noting the `up` is lower case, unlike that in `setUp`, because [peps sucked 20 years ago](https://www.reddit.com/r/Python/comments/p03k0/why_does_no_one_seem_to_care_that_unittest/c3lfxnf/) amirite) is an instance-only method. Class-level exceptions cannot be cleaned up like this.
+1. A method in a class can be called by a line inside the class without receiving `self`. See [example](sources/0003.py). It's not going to pass PEP8, but it sure runs.
+1. There is an `assertIs` in addition to `assertEqual`, but [using `is` for numbers can potentially be incorrect](https://codeyarns.com/2012/05/01/integer-caching-in-python/) when the number is outside [-5, 256]... among other [strange situations](https://stackoverflow.com/a/15172182/1558430) where the compiler could not optimise the code ahead of time.
+1. Like [they said](https://docs.python.org/3/library/functions.html#breakpoint), `breakpoint()` is purely a convenience function.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project
@@ -524,5 +527,4 @@ bar
 [stackoverflow 7]: http://stackoverflow.com/a/1695250/1558430
 [stackoverflow 8]: http://stackoverflow.com/a/3422740/1558430
 [stackoverflow 9]: http://stackoverflow.com/questions/7996479/what-is-stringio-in-python-used-for-in-reality
-[toptal]: http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make
 [valuedlessons]: http://www.valuedlessons.com/2008/01/monads-in-python-with-nice-syntax.html

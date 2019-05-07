@@ -56,13 +56,13 @@
     </body>
 
     <script>
-        const base = 'https://cdn.rawgit.com/1337/yesterday-i-learned/master/';
+        const base = 'https://raw.githubusercontent.com/1337/yesterday-i-learned/master/';
         const resultsEl = document.getElementById('results');
-        let directory = `${base}README.md`;
+        const directory = `${base}README.md`;
         let facts;
         fetch(directory, {method: 'get'})
-            .then((response) => response.text())
-            .then((resp) => {
+            .then(response => response.text())
+            .then(resp => {
                 return resp
                     .split('\n')
                     .filter((line) => {
@@ -72,9 +72,9 @@
                         return line.match(/\((.+)\)/)[1];
                     });
             })
-            .then((fileNames) => {
-                let fullUrls = fileNames.map((fn) => `${base}${fn}`);
-                let requests = fullUrls.map((url) => {
+            .then(fileNames => {
+                const fullUrls = fileNames.map((fn) => `${base}${fn}`);
+                const requests = fullUrls.map((url) => {
                     return fetch(url).then((response) => response.text())
                 });
                 Promise.all(requests).then((tils) => {
@@ -89,10 +89,10 @@
         }
 
         function doSearch() {
-            let el = document.getElementById('keyword');
+            const el = document.getElementById('keyword');
             if (!el.value) return;
             if (el.value.length < 2) return;
-            let results = search(el.value);
+            const results = search(el.value);
             setTimeout(() => {
                 if (results && results.length) {
                     resultsEl.innerHTML = markdown.toHTML(results.join('\n'));
@@ -104,10 +104,10 @@
 
         function fillRandomFact() {
             if (!(facts && facts.length)) return;
-            let randomEl = document.getElementById('random');
-            let lines = facts.split('\n');
+            const randomEl = document.getElementById('random');
+            const lines = facts.split('\n');
 
-            let randomFact = lines[Math.floor(Math.random() * lines.length)];
+            const randomFact = lines[Math.floor(Math.random() * lines.length)];
             randomEl.innerHTML = markdown.toHTML(randomFact);
         }
     </script>

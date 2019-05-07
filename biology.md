@@ -1,3 +1,4 @@
+1. Prolactin tells your body to "switch off the dick" after orgasm.
 1. Under ideal conditions, [a human body may turn into soap](http://muttermuseum.org/exhibitions/the-soap-lady/).
 1. *Helicobacter pylori* can be detected with a [breath test](https://www.cbc.ca/news/technology/diagnosing-stomach-problems-check-your-breath-1.851635) ("C-13" or "C-14" isotope urea breath test). "The patient ingests an isotope-labelled urea solution, which is broken down by the urease enzyme into carbon dioxide and ammonia. A high level of labelled CO2 in the patient's breath suggests H. pylori infection."
 1. The [alpha-gal syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608) makes you allergic to [the alpha-gal in] red meat.
@@ -23,7 +24,7 @@
 1. [Proprioception](https://en.wikipedia.org/wiki/Proprioception) is sensing one's own [movements]. Without it, you cannot move a muscle and know where the arm went. So you have more than five senses.
 1. [Second-hand smoke causes more deaths from heart disease than from lung disease](https://www.lung.org/stop-smoking/smoking-facts/health-effects-of-secondhand-smoke.html).
 1. "Because information has to travel to your brain via neural pathways, everything you are experiencing actually happened 80 milliseconds in the past." Also: because the speed of light is instantaneous only relative to the photon, you never see anything at its present.
-1. Consciousness is theorised to be [various mechanisms to locate food](https://www.youtube.com/watch?v=H6u0VBqNBQ8). The theory does not explain whether clams, which eat through random filtration *but* can protect itself from danger, is considered conscious.
+1. Consciousness is theorised to be [various mechanisms to locate food](https://www.youtube.com/watch?v=H6u0VBqNBQ8), a subset of [chemotaxis](https://en.wikipedia.org/wiki/Chemotaxis), how an organism moves towards or away from a chemical. The theory does not explain whether clams, which eat through random filtration *but* can protect itself from danger, is considered conscious.
 1. Wood turned into coal because fungi didn't exist to break down the wood.
 1. [99% of spiders have 8 eyes, but the other 1% have 4, 2, or no eyes at all](https://bugguide.net/node/view/84423/data). - paraphrasing /u/FillsYourNiche
 1. The G spot was named after [Dr Grafenberg](http://news.bbc.co.uk/2/hi/uk_news/magazine/8443465.stm). Not the first one to find it, but the first one to think it exists.
