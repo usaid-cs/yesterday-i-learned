@@ -166,6 +166,8 @@ const obj = {
 - Classes can be anonymous.
 - [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
 - If you have the balls to have a [class extends `null`](https://github.com/denysdovhan/wtfjs#function-is-not-function), be prepared to see unexpected behaviours ("function is not a function").
+- Neither `a = 5` nor `a: 5` is/are valid syntax directly inside a class. Some compilers might interpret that as `constructor() {this.a = 5}` though.
+- You call a superclass's constructor method using `super()`, but you can only call a superclass's constructor like that in `constructor`s. You also cannot call a constructor by name, i.e. `SomeClass.constructor()`, or `new SomeClass.constructor()`. [See source](sources/0004.js). In other words, you can only use `super()` for `constructor`, and you can only use `super.foo()` for other methods.
 
 ## [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
 

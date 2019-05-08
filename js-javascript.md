@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+1. `array.slice()` (with no arguments) gives you a quick shallow copy of an array.
 1. ["Nobody loves what prettier does to their syntax. Everyone loves what prettier does to their coworkers' syntax."](https://www.reddit.com/r/javascript/comments/8as6ns/i_dont_like_prettier/dx14ag5/)
 1. 'use strict' is unnecessary inside of modules. (ESLint)
 1. Prettier (v1.17.0) outputs [spaces inside object literals](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEAzArlMMCW0AEqEEAFAJT7AA6U+hxJwAFnADasRL4DkA7hACdWAE24AaAEZcwAXzIBuGjJBiQEAA65oAZ2SgAhgIEReABUMJdKfQDcIOYSpASB+sAGs4MAMrq3OKABzZBgBdDhVJhgAW1YAdSYceG0-MDhvSyScGySAT2RwbV1VAO04ARhTV0Do-WRUfVYy1QArbQAPACFXDy9vfWi4ABkAuHrG5pA29u8AwNY4AEV0CHhxpoiQPwEygQKJfQlcjigndQEAmDiHGCZkAA4ABlVziDK413UC87hdmzHVABHFbwKoaKwgfTaAC0UDgcGECKcAjgwJwKKq+hqdSQDQ2qjK0RwITCm20cwWy1WY1xE02MEO12Et2QACZVKF9DhWHMAMIQaK1ApQaAAkDoMoAFUOVjxZRkMiAA) if the object is a one-liner. Also, ESLint looks for this.

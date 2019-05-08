@@ -275,6 +275,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 1. All Debian release version names since 1997 are based on Toy Story characters. Bruce Perens was working on both projects at the same time.
 1. [Bash scripting convention](https://google.github.io/styleguide/shell.xml#Naming_Conventions): `function_name`, `variable_name`, `CONSTANT_NAME`, `file_name`.
 1. To [check if a variable is set or not](https://stackoverflow.com/a/13864829/1558430), use `[[ -z ${var+x} ]]`. To check if a variable is either empty or not set, which is often the correct thing to do, use `[[ -z "$var" ]]`.
+1. Sort files in a directory, not by size, but by lines inside: `wc -l * | sort -n`
 
 ## Tmux
 

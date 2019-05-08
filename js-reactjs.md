@@ -4,3 +4,4 @@
 1. Events like `onClick` accept handlers whose `this` is the class, so either of these will work: `onClick={this.classMethod.bind(this)}` (where `classMethod() {...}`), or `onClick={this.instanceMethod} (where `instanceMethod = () {...}`).
 1. In a `.jsx` file, any method can return JSX.
 1. Component tag names need to start with a capital letter.
+1. [MobX 5.x](https://github.com/mobxjs/mobx#browser-support) dropped support for any browser that doesn't have [ES6 proxies](https://caniuse.com/#search=proxy).

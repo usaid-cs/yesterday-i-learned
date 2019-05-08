@@ -4,13 +4,12 @@
 # Categories
 
 ## Information & general works
-* [home-ec.md](home-ec.md)
 * [random.md](random.md)
 * [useless-trivia.md](useless-trivia.md)
 
 ## Philosophy & psychology
-* [agile.md](agile.md)
 * [life.md](life.md)
+* [psychology.md](psychology.md)
 
 ## Religion
 * [christianity.md](christianity.md)
@@ -19,7 +18,6 @@
 * [anthropology.md](anthropology.md)
 * [business.md](business.md)
 * [finance.md](finance.md)
-* [psychology.md](psychology.md)
 
 ## Language
 * [french.md](french.md)
@@ -55,11 +53,9 @@
 * [heroku.md](heroku.md)
 * [html.md](html.md)
 * [java.md](java.md)
-* [js-amd.md](js-amd.md)
 * [js-angularjs.md](js-angularjs.md)
 * [js-coffeescript.md](js-coffeescript.md)
 * [js-ecmascript-6.md](js-ecmascript-6.md)
-* [js-handlebars.md](js-handlebars.md)
 * [js-javascript.md](js-javascript.md)
 * [js-reactjs.md](js-reactjs.md)
 * [js-typescript.md](js-typescript.md)
@@ -80,7 +76,6 @@
 * [recipes.md](recipes.md)
 
 ## Literature
-* [answering-machine.md](answering-machine.md)
 * [women.md](women.md)
 
 ## History & geography

@@ -81,7 +81,7 @@ for k, v in six.iteritems(d):
 1. Keys can be pretty much anything, and they are not stringified: `{None: 'b', 1: 5, <function __main__.<lambda>>: 4, '1': 6}`
 1. Taking that right back, [lists cannot be dictionary keys][python 2].
 1. "You don't mock out any part of our system, you mock out other people's code"
-1. [`assertEquals` is deprecated][python 3]
+1. [`assertEquals` is deprecated](http://docs.python.org/2/library/unittest.html#deprecated-aliases)
 1. If `assertEqual` receives two `dict`s, it automatically calls `assertDictEqual`.
 1. [`itertools.cycle`][python 4]: for when you want to loop over something, over and over
 1. Django's `QueryDict` can be converted to a dict by calling `.dict()`.
@@ -507,7 +507,6 @@ bar
 [google]: https://www.google.ca/search?q=python+bidirectional+generator&oq=python+bidirectional+generator&aqs=chrome..69i57.4705j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=0&ie=UTF-8
 [python]: http://docs.python.org/2/library/functions.html#apply
 [python 2]: https://wiki.python.org/moin/DictionaryKeys
-[python 3]: http://docs.python.org/2/library/unittest.html#deprecated-aliases
 [python 4]: http://docs.python.org/2/library/itertools.html#itertools.cycle
 [python 5]: http://docs.python.org/2/library/stringio.html
 [python 6]: https://docs.python.org/2/library/re.html#text-munging

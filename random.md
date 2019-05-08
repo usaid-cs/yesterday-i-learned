@@ -1,3 +1,5 @@
+1. It turns out "Arbys", while [it is true that came from "RB"](https://en.wikipedia.org/wiki/Arby%27s), the RB stands for "Raffel Brothers" rather than "roast beef". (The founders were the Forrest and Leroy Raffel)
+1. The project manager turns the product manager's vision of the product (which may be one or more projects) into bite-sized tasks that belongs to their project. Products may be internal or external.
 1. [GraphQL](https://en.wikipedia.org/wiki/GraphQL). A thing [between a database and an API](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77). The major selling point is the client defines the structure of the data that the server returns, so it always gets what it wants. The major disadvantage is, well, if the client can make calls like that, then the server can't cache these results efficiently.
 1. On using assertions on production: ["(A good) approach is to leave the assertions in the code when you ship, and to automatically file a bug report on behalf of the end user and perhaps to try to re-start the application every time an assertion fails. At that same startup I mentioned above I had a boss who insisted that we not do this. I pointed out to him that an assertion failure meant that something in the program was very wrong and that it was likely that the program would produce the wrong result. ... *He said it was more important that the company avoid the appearance of having done something wrong than that we stop before producing an incorrect result.* I left the company."](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf) Takeaway: write assertions when assertions will do, and unit tests when assertions will not.
 1. ["Despite being called the god of thunder, it is electricity that Thor controls"](https://www.youtube.com/watch?v=ovNJpzbAXK8)
@@ -2643,7 +2645,7 @@
 1. HSPA (HSDPA and HSUPA, for download/upload) is often called 3.5G.
 1. "Genuine leather" is rubbish. Get "Full-Grain Leather" instead.
 1. The right fist of Lenin's dead corpse is intentionally made clenched.
-1. The traces of cocaine left on paper money is often enough to set off customs detectors.
+1. [The traces of cocaine left on paper money is often enough to set off customs detectors.](http://www.cnn.com/2009/HEALTH/08/14/cocaine.traces.money/)
 1. The bicycle seat should be level with the waist.
 1. ["Grey Goose made their bottles so skinny and tall so they would have to be placed on the top shelf."](https://www.reddit.com/r/AskReddit/comments/5oi03n/what_strange_idea_worked_because_people_are_weird/dckccru/) (Or you can just lie them down, you know? Like all other items in this list, this is not verified information)
 1. [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
