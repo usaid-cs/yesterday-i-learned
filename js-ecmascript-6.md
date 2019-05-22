@@ -87,7 +87,8 @@ foo(...[1,2,3,4,5]);
 (The `let { a } = {a: 2}` unpacking syntax is also called spreading.)
 
 - Arrow notation: only `=>`, no `->`, and no context binding.
-- You can't unpack in a return statement because that's what square brackets are for: `(() => ({a: 4}))(){a}  // won't work`
+- An arrow function that has only one argument should not have parens, i.e. `.then(foo => foo.bar)`, but it so happens that you cannot have an arrow function like that, that also accepts an argument called `async`, i.e. `.then(async => async.bar) // won't work`. What you can do is: `.then((async) => async.bar)`. Either way, if you merge something like that, I will kill you.
+- You can't unpack in a return statement because that's what square brackets are for: `(() => ({a: 4}))(){a} // won't work`
 
 ```
 array.map(p => p * 2);

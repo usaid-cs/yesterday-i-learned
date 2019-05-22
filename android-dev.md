@@ -1,7 +1,7 @@
 1. [Webview session storage](https://forums.adobe.com/thread/2350512) available was unlimited for Android versions 4.1 and 4.3, but not 4.2 and 4.4, which had 10MB.
 1. Your package id [must](https://developer.android.com/studio/build/application-id) have at least one dot in it, so it can't be `com`.
 1. `JobIntentService`. A "job intent service" whose "job" is to "serve job intents". Or does it "serve intent jobs"? Or "job service intents"? Oh well. But after all that, what does it enque? ["Work"](https://android.jlelse.eu/keep-those-background-services-working-when-targeting-android-oreo-sdk-26-cbf6cc2bdb7f). `JobIntentService.enqueueWork()`.
-1. You may track if a *specific* user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
+1. You may track if a _specific_ user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
 1. ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)
 1. `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
 1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
@@ -11,7 +11,7 @@
 1. Strings are put inside `project_root/app/src/main/res/values/strings.xml`, because nested folders are the best.
 1. [The plus thing in the XML](http://developer.android.com/training/basics/firstapp/building-ui.html), like `android:id="@+id/edit_message"`, is required only for the line that defines it.
 1. `android:hint` are placeholder texts.
-1. [`layout_weight` is a relative number](http://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean). A `layout_weight` of 1 means 100% of the width *IF* the control happens to be the only control inside a `LinearView` with the weight specified. If two controls have the weight specified (say 1, 1), then each control shares 50% of the width.
+1. [`layout_weight` is a relative number](http://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean). A `layout_weight` of 1 means 100% of the width _IF_ the control happens to be the only control inside a `LinearView` with the weight specified. If two controls have the weight specified (say 1, 1), then each control shares 50% of the width.
 1. If `layout_weight` is given, [then](http://developer.android.com/training/basics/firstapp/building-ui.html) `layout_width` is useless (irrelevant), and should be set to 0dp or 0px.
 1. The back button does ["back navigation"](http://developer.android.com/design/patterns/navigation.html) (whichever activity shown in reverse chronological order); the in-app backs do "up navigation". The term "up" refers to the hierarchical parent of the current activity, a hierarchy you declare in `AndroidManifest.xml`.
 1. Putting a library into `libs/` seems to do it.
@@ -45,3 +45,4 @@
 1. It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
 1. The API level of a [pre-release](https://developer.android.com/studio/releases/platforms#P_preview) version of Android is not a number. For P preview, the API level is just "P".
+1. The `R` class is [a public static final class that only contains resource-related attributes](https://stackoverflow.com/questions/6804053/understand-the-r-class-in-android) for your code to use.

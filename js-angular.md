@@ -1,0 +1,6 @@
+(Angular 2+)
+
+- [Angular "zones"](https://github.com/angular/zone.js/) are actually inspired by [Dart's zones](https://api.dartlang.org/stable/2.3.0/dart-async/Zone-class.html). "A zone represents an environment that remains stable across asynchronous calls." "You can think of it as thread-local storage for JavaScript VMs." tl;dr: _it's an execution context_. [`zone.run()` is equivalent to the old `$digest()`.](https://medium.com/@MertzAlertz/what-the-hell-is-zone-js-and-why-is-it-in-my-angular-2-6ff28bcf943e).
+- [Only classes marked as `@Injectable()` can be services](https://angular.io/guide/styleguide).
+- You don't make a service by hand. You make a service by calling [`ionic generate service foo/bar`](https://ionicframework.com/docs/cli/commands/generate) or the underlying [`ng generate service foo/bar`](https://medium.freecodecamp.org/how-to-build-your-first-ionic-4-app-with-api-calls-f6ea747dc17a). See what else you can generate by running `npx ng g --help`.
+- A "component" is what was once a controller, handling views and stuff. Actually, the concept of a component already existed in AngularJS 1.5. [A "module" is a collection of component, services, directives, and so on](https://stackoverflow.com/a/52138193/1558430), which is the same as the original definition.

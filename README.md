@@ -1,87 +1,97 @@
-[yesterday-i-learned](https://1337.github.io/yesterday-i-learned/)
-===================
+# [yesterday-i-learned](https://1337.github.io/yesterday-i-learned/)
 
 # Categories
 
 ## Information & general works
-* [random.md](random.md)
-* [useless-trivia.md](useless-trivia.md)
+
+- [random.md](random.md)
+- [useless-trivia.md](useless-trivia.md)
 
 ## Philosophy & psychology
-* [life.md](life.md)
-* [psychology.md](psychology.md)
+
+- [life.md](life.md)
+- [psychology.md](psychology.md)
 
 ## Religion
-* [christianity.md](christianity.md)
+
+- [christianity.md](christianity.md)
 
 ## Social sciences
-* [anthropology.md](anthropology.md)
-* [business.md](business.md)
-* [finance.md](finance.md)
+
+- [anthropology.md](anthropology.md)
+- [business.md](business.md)
+- [finance.md](finance.md)
 
 ## Language
-* [french.md](french.md)
-* [korean.md](korean.md)
-* [linguistics.md](linguistics.md)
+
+- [french.md](french.md)
+- [korean.md](korean.md)
+- [linguistics.md](linguistics.md)
 
 ## Science
-* [biology.md](biology.md)
-* [chemistry.md](chemistry.md)
-* [chemistry-batteries.md](chemistry-batteries.md)
-* [mathematics.md](mathematics.md)
-* [physics.md](physics.md)
+
+- [biology.md](biology.md)
+- [chemistry.md](chemistry.md)
+- [chemistry-batteries.md](chemistry-batteries.md)
+- [mathematics.md](mathematics.md)
+- [physics.md](physics.md)
 
 ## Technology
-* [android.md](android.md)
-* [android-dev.md](android-dev.md)
-* [ansible.md](ansible.md)
-* [apple.md](apple.md)
-* [auto.md](auto.md)
-* [aws.md](aws.md)
-* [bash.md](bash.md)
-* [c.md](c.md)
-* [cpp.md](cpp.md)
-* [cs.md](cs.md)
-* [css.md](css.md)
-* [docker.md](docker.md)
-* [erlang.md](erlang.md)
-* [flask.md](flask.md)
-* [git.md](git.md)
-* [go.md](go.md)
-* [ham-radio.md](ham-radio.md)
-* [haskell.md](haskell.md)
-* [heroku.md](heroku.md)
-* [html.md](html.md)
-* [java.md](java.md)
-* [js-angularjs.md](js-angularjs.md)
-* [js-coffeescript.md](js-coffeescript.md)
-* [js-ecmascript-6.md](js-ecmascript-6.md)
-* [js-javascript.md](js-javascript.md)
-* [js-reactjs.md](js-reactjs.md)
-* [js-typescript.md](js-typescript.md)
-* [kotlin.md](kotlin.md)
-* [linux.md](linux.md)
-* [machine-learning.md](machine-learning.md)
-* [php.md](php.md)
-* [python.md](python.md)
-* [python-django.md](python-django.md)
-* [ruby.md](ruby.md)
-* [rust.md](rust.md)
-* [scss.md](scss.md)
-* [sql.md](sql.md)
+
+- [android.md](android.md)
+- [android-dev.md](android-dev.md)
+- [ansible.md](ansible.md)
+- [apple.md](apple.md)
+- [auto.md](auto.md)
+- [aws.md](aws.md)
+- [bash.md](bash.md)
+- [c.md](c.md)
+- [cpp.md](cpp.md)
+- [cs.md](cs.md)
+- [css.md](css.md)
+- [docker.md](docker.md)
+- [erlang.md](erlang.md)
+- [flask.md](flask.md)
+- [git.md](git.md)
+- [go.md](go.md)
+- [ham-radio.md](ham-radio.md)
+- [haskell.md](haskell.md)
+- [heroku.md](heroku.md)
+- [html.md](html.md)
+- [java.md](java.md)
+- [js-angular.md](js-angular.md)
+- [js-angularjs.md](js-angularjs.md)
+- [js-coffeescript.md](js-coffeescript.md)
+- [js-ecmascript-6.md](js-ecmascript-6.md)
+- [js-javascript.md](js-javascript.md)
+- [js-reactjs.md](js-reactjs.md)
+- [js-typescript.md](js-typescript.md)
+- [kotlin.md](kotlin.md)
+- [linux.md](linux.md)
+- [machine-learning.md](machine-learning.md)
+- [php.md](php.md)
+- [python.md](python.md)
+- [python-django.md](python-django.md)
+- [ruby.md](ruby.md)
+- [rust.md](rust.md)
+- [scss.md](scss.md)
+- [sql.md](sql.md)
 
 ## Arts & recreation
-* [archery.md](archery.md)
-* [driving.md](driving.md)
-* [recipes.md](recipes.md)
+
+- [archery.md](archery.md)
+- [driving.md](driving.md)
+- [recipes.md](recipes.md)
 
 ## Literature
-* [women.md](women.md)
+
+- [women.md](women.md)
 
 ## History & geography
-* [canada.md](canada.md)
-* [geography.md](geography.md)
-* [history.md](history.md)
+
+- [canada.md](canada.md)
+- [geography.md](geography.md)
+- [history.md](history.md)
 
 # Contributing
 

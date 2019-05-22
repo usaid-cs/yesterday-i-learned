@@ -1,3 +1,4 @@
+1. No one builds [jello pools](https://www.youtube.com/watch?v=DPZzrlFCD_I) because, firstly, the temperature required (first boil a pool's worth of jello... and then cool it, but not freeze it) is hard to control; and secondly, after all that effort, jello breaks.
 1. An electron and positron spin together to form a [positronium](https://en.wikipedia.org/wiki/Positronium), an unstable state. When they annihilate each other, they turn into two or three photons, depending on their spin states.
 1. [Quantum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation) pull the universe apart. Assuming the theory holds true, specifically the [vacuum energy](https://en.wikipedia.org/wiki/Vacuum_energy) part of it, this explains why [galaxies are moving away from us faster and faster](https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe).
 1. The Earth is actually closer to the sun during the northern hemisphere's winter. Seasons are largely affected by the tilt. Also, most of Africa is in the southern hemisphere, if you haven't noticed already.
@@ -80,3 +81,4 @@
 1. Pluto's satellite [Charon](https://en.wikipedia.org/wiki/Charon_%28moon%29) is massive enough to significantly affect pluto's center of orbit.
 1. A [5-gram black hole](https://www.youtube.com/watch?v=8nHBGFKLHZQ&list=UUsXVk37bltHxD1rDPwtNM8Q&index=38) will emit enough hawking radiation to kill everyone around you (450TJ, like a nuclear bomb).
 1. ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
+1. On most bikes, [the pedals never move backwards with respect to the ground](https://www.youtube.com/watch?v=72DCj3BztG4), except if the lowest gear is chosen, in which case it *might* be possible.

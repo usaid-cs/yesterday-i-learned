@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. [It goes without saying that it takes energy to make your tires spin](https://www.youtube.com/watch?v=-RjJtO51ykY). The smaller/fewer wheels you have, the less energy you need.
 1. There is no good evidence for the legend that [Henry Ford directed his suppliers to build packing crates in such a way that the boards could be reused as floorboards in the Model T](https://www.hemmings.com/blog/article/dont-let-the-facts-get-in-the-way-of-a-good-story/).
 1. Unless you live in the valley, where the temperature is constant, **any primarily electric vehicle with air-cooled batteries is not worth buying**.
 1. Tesla SEXY is not a rumour. [Elon Musk said it himself](https://www.youtube.com/watch?v=F6rp8ygaLgA). He also said, "Ford killed SEX."
@@ -141,7 +142,7 @@
 1. [Almost all modern cars have synchromesh, if you don't have it fitted you will need to 'double declutch'](http://www.drivingfast.net/car-control/rev-matching.htm) ("to change to a lower gear in a motor vehicle by first placing the gear lever into the neutral position before engaging the desired gear, at the same time releasing the clutch pedal and increasing the engine speed")
 1. Diesel fuel systems cannot contain air. If a diesel car runs empty, the system needs to be "bled" of air before refuelling.
 1. All countries, except USA and Canada, follow UNECE standards (United Nations Economic Commission for Europe) for cars. This is why we get so few car models.
-1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). ~~Automatic cars don't have a clutch (they have torque converters)~~.
+1. [Manual cars don't have park.](http://boards.straightdope.com/sdmb/archive/index.php/t-152702.html). Automatic cars don't have a clutch *per se*, but they may have torque converters that [lock up](https://itstillruns.com/torque-converter-lockup-5071140.html), also known as torque converter clutches.
 1. Diesel engines somehow need to be made from steel (except when VW makes them, in which case they are made in aluminium)
 1. The higher the tire's [aspect ratio number](https://www.google.com/search?q=tire+aspect+ratio+chart), the smoother the ride you can expect the car to be. For example, 100/90R15 would be smoother than 100/50R15.
 1. It is also true that the lower the aspect ratio is, the less likely the tire would distort, improving handling.

@@ -27,15 +27,15 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 1. Python does not raise a rounding exception when a large number is used. The typical check is `n + 1 == n`.
 1. To speed up a read-only query, try adding `.values_list(fields...)` to a QuerySet, which returns simple tuples.
 1. It is absolutely possible that django `loaddata` is a douchebag.
-  Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`,
-  which provides all references before inserting.
+   Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`,
+   which provides all references before inserting.
 1. Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 1. `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
 1. There is such thing as a [for else][stackoverflow 2] condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
 1. `for` also runs `else` if the loop is never run (e.g. has 0 items).
 1. There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
 1. [Django creates the project for you.][djangoproject]
-1. Variables can be *accessed* from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
+1. Variables can be _accessed_ from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
 1. `*args` is of type tuple, not list.
 1. Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
 1. `dict(a dict)` clones the dict (for one level).
@@ -120,7 +120,7 @@ for k, v in six.iteritems(d):
 1. `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
 1. `if` statements do NOT have any kind of `for...else`-type block that is run whenever any one or more conditions above are run.
 1. Python does not optimise tail calls.
-1. `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen) This is *only* a thing in python2.
+1. `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen) This is _only_ a thing in python2.
 1. Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
 1. [Certain evidence](http://programmers.stackexchange.com/a/187471) points to recommend importing just a module (`import module` instead of `from module import func1, func2`) if a lot of things are used from that module. (Then again, how you can live with writing `module.func1` and `module.func2` all the time is beyond me.)
 1. `()` is a thing, and `(this,)` is a thing. A trailing comma is required only if the tuple contains exactly one item.
@@ -137,7 +137,7 @@ for k, v in six.iteritems(d):
 1. [`simplejson` is subjectively better than `json`](http://stackoverflow.com/questions/712791/what-are-the-differences-between-json-and-simplejson-python-modules) -- to use either, `import simplejson as json`.
 1. It is [an insanely stupid idea](http://stackoverflow.com/questions/6031584/python-importing-from-builtin-library-when-module-with-same-name-exists) to have a folder that has the same name as one of the built-in libraries.
 1. It wasn't possible to `import (many things with brackets)` [until python 2.7](http://legacy.python.org/dev/peps/pep-0328/).
-1. `range()` can actually be faster in some cases - eg. if iterating over the same sequence multiple times.  `xrange()` has to reconstruct the integer object every time, but `range()` will have real integer objects. (It will always perform worse in terms of memory however, and there is no such thing as Python2's `range()` in Python3.)
+1. `range()` can actually be faster in some cases - eg. if iterating over the same sequence multiple times. `xrange()` has to reconstruct the integer object every time, but `range()` will have real integer objects. (It will always perform worse in terms of memory however, and there is no such thing as Python2's `range()` in Python3.)
 1. If you aren't being code reviewed or anything, you can subclass `namedtuple` like this:
 
 ```
@@ -157,19 +157,19 @@ c
 ```
 
 1. If a function is decorated with `contextlib.contextmanager`, then [it can be used as a `with` statement](https://docs.python.org/2/library/contextlib.html). The function must contain exactly one `yield`, where things that happen before the `yield` works like `__enter__`, and what happens after the `yield` is treated like `__exit__`.
-1. Eloborating on `contextmanager`, the `yield` must be *run* only once; the statement cannot be in a loop.
+1. Eloborating on `contextmanager`, the `yield` must be _run_ only once; the statement cannot be in a loop.
 1. [`contextlib.suppress(BaseException)`](https://docs.python.org/3/library/contextlib.html#contextlib.suppress) is basically the `never_fail` decorator. And oops, it is only for Python 3.
 1. `random.seed()` is better than `random.seed(0)`, because [the parameter default is the system time](https://docs.python.org/2/library/random.html#random.seed).
 1. `hash(-2)` is the same as `hash(-1)`.
-1. Objects that have an overridden __eq__ cannot be hashed, unless their __hash__ are also defined.
+1. Objects that have an overridden **eq** cannot be hashed, unless their **hash** are also defined.
 1. Python2 does [float multiplications](https://github.com/python/cpython/blob/10d5f4d9b6279945ba8062fd04c0314e5ead0a53/Objects/intobject.c#L533) internally to compute results of integer multiplications, presumably to find out of two numbers multiplying each other will cause an overflow.
 1. It is possible to [`__import__('python-module-with-dashes-in-the-filename'`](http://stackoverflow.com/questions/761519/is-it-ok-to-use-dashes-in-python-files-when-trying-to-import-them), but if you create a file such as this, you deserve to be shot.
 1. `os.getenv('HOME')` works, only because `$HOME` is populated by the shell.
 1. [You can compare tuples](http://stackoverflow.com/a/5292332/1558430)! `(1,2)` is less than `(3, 4)`.
 1. You can assign to spliced arrays: `arr[:4] = [9,9]` replaces the first 4 items of the array with `[9,9]`.
-1. `round()` doesn't work on `Decimal`s. To round a `Decimal` to certain digits, do: `Decimal(123.456789).quantize(Decimal("0.001"))  # 3 decimal points`
-1. `Decimal.quantize` is called that because it also makes up more decimal points if you ask it to: `Decimal(1234.56789).quantize(Decimal("0.000000000000000001"))  # Decimal('1234.567890000000033979')`
-1. You *can* `def foo(bar=NamedTupleAsDefaultValue())`, but would you...?
+1. `round()` doesn't work on `Decimal`s. To round a `Decimal` to certain digits, do: `Decimal(123.456789).quantize(Decimal("0.001")) # 3 decimal points`
+1. `Decimal.quantize` is called that because it also makes up more decimal points if you ask it to: `Decimal(1234.56789).quantize(Decimal("0.000000000000000001")) # Decimal('1234.567890000000033979')`
+1. You _can_ `def foo(bar=NamedTupleAsDefaultValue())`, but would you...?
 1. `arrow.replace()` accepts singluar nouns like `hour` that replaces the component, or plural forms like `hours` that shifts the value relatively, instead.
 1. [Guido](https://mail.python.org/pipermail/python-dev/2010-April/099459.html) doesn't like `merged_dict = dict(some_dict, **another_dict)`, and nor do you. (it only handles string keys)
 1. In Python3, arguments can be [forced named](http://stackoverflow.com/a/14298976/1558430): with `def foo(a, * must_use_kwargs_for_this_arg)`.
@@ -246,7 +246,7 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 ```
 
 1. [An `Enum`'s class attributes have itself as its own class](https://docs.python.org/3/library/enum.html). `isinstance(Color.green, Color) is True`.
-1. But with every `Enum` having every attribute in its own class, they don't have access to other attributes: `Color.red.blue  # AttributeError`
+1. But with every `Enum` having every attribute in its own class, they don't have access to other attributes: `Color.red.blue # AttributeError`
 1. Depending on version, [Python2 and 3 raise different errors](http://stackoverflow.com/a/23703899/1558430) when an `object()` is asked if it is equal to another `object()`.
 1. Exploiting the tuple syntax can make multidimentional "arrays" very easy to work with:
 
@@ -270,7 +270,7 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 1. Splicing indices don't have to be integers... at least not now. `[1,2,3][:None]` returns a copy of `[1,2,3]`, just as `[1,2,3][:]` would.
 1. Python's `foo = set()` has an `update(bar)`, too. It just adds what's in `bar` into `foo`.
 1. Comparing any integer outside [-5, 256] with `is` is [incorrect](http://stackoverflow.com/a/306353/1558430): "The current implementation keeps an array of integer objects for all integers between -5 and 256, when you create an int in that range you actually just get back a reference to the existing object."
-1. Returning inside a `try` *or* an `except` block will still run the `finally` block, if one exists.
+1. Returning inside a `try` _or_ an `except` block will still run the `finally` block, if one exists.
 
 ```
 >>> def foo():
@@ -294,7 +294,7 @@ bar
 1. As far as SQLAlchemy is concerned, [there is no difference between `== true()` and `.is_(True)`](https://groups.google.com/forum/#!msg/sqlalchemy/T2bKLjzO6KA/1EwA6spA9QsJ). Howveer, pep8 and co. will complain about the former, so you should use the latter.
 1. `__all__` only concerns `import *` statements. It carries no weight anywhere else.
 1. `{}` is [definitely](https://www.reddit.com/r/learnpython/comments/42ymhl/returning_is_faster_than_returning_dict_even/) faster than `dict()`. This is also why you should always use literals where possible.
-1. Django's [`TransactionTestCase`](https://docs.djangoproject.com/en/1.9/topics/testing/tools/#django.test.TransactionTestCase) is different from its `TestCase` in that while `TestCase` uses a transaction to roll back the database after each test, and--get this--`TransactionTestCase` does *not* use transactions. It just truncates all the tables.
+1. Django's [`TransactionTestCase`](https://docs.djangoproject.com/en/1.9/topics/testing/tools/#django.test.TransactionTestCase) is different from its `TestCase` in that while `TestCase` uses a transaction to roll back the database after each test, and--get this--`TransactionTestCase` does _not_ use transactions. It just truncates all the tables.
 1. `list` is a type.
 1. You can test if a function was called with anything using [`mock.assert_called_once_with('foo', bar=ANY)`](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.ANY)
 1. [Welcome to unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/), where `e < f < é`:
@@ -310,7 +310,7 @@ bar
 1. `ModelA.query.join(ModelB)` does a JOIN on whichever `db.relationship(ModelB)` ModelA defines. Don't ask what happens if there are multiple relationships right now.
 1. The `entry_points` thing in setup.py installs scripts inside your `(venv path)/bin/` directory.
 1. SQLAlchemy's equivalent of `.values_list('id', flat=True)` is `.options(load_only('id'))`. I have not tested this.
-1. [Putting code in the `try-else` block](http://stackoverflow.com/a/855764/1558430) is meant to *avoid* catching the same exception in the `else` block, while still running a `finally` if the `else` block fails; basically, syntactic sugar for two try blocks.
+1. [Putting code in the `try-else` block](http://stackoverflow.com/a/855764/1558430) is meant to _avoid_ catching the same exception in the `else` block, while still running a `finally` if the `else` block fails; basically, syntactic sugar for two try blocks.
 1. `sys.modules` contains an import, e.g. `datetime`, only after you import it.
 1. You can `''.join([u'a', u'\u3000', 'bunch', 'of', u'unicode', 'strings'])`, but not `'{}'.format(u'a unicode \u3000 string')`, because reasons. (python2)
 1. `dict()` unzips iterables of iterables. `dict( (('a', 'b'), ('c', 'd')) ) == {'a': 'b', 'c': 'd'}` (and if there are key conflicts, keys with a higher list index prevails)
@@ -354,12 +354,12 @@ bar
 1. If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
 1. The `cPickle` module in PyPy is written in pure python.
 1. `a_string.replace('foo', '')` can obviously still contain `foo`, if `'ffoooo'.replace('foo', '')`
-1. *Thus spake the Lord: Thou shalt indent with four spaces. No more, no less. Four shall be the number of spaces thou shalt indent, and the number of thy indenting shall be four. Eight shalt thou not indent, nor either indent thou two, excepting that thou then proceed to four. Tabs are right out.* -- Georg Brandl
+1. _Thus spake the Lord: Thou shalt indent with four spaces. No more, no less. Four shall be the number of spaces thou shalt indent, and the number of thy indenting shall be four. Eight shalt thou not indent, nor either indent thou two, excepting that thou then proceed to four. Tabs are right out._ -- Georg Brandl
 1. The imports you write assume you run these scripts from the [top level of the project](http://stackoverflow.com/questions/43498467/python-importerror-of-my-own-module). Imports don't magically work simply because there is an `__init__.py` in the directory.
 1. [The backspace character](https://en.wikipedia.org/wiki/Backspace) (`chr(8)`) is a caret shifting mechanism. One backspace moves the caret one character to the left, and the next character replaces the character that is already in that position. For example, `print 'A' + chr(8) + 'B'` prints just `B` (because the B replaced the A), and `'A' + chr(8)` prints just `A` (because nothing replaced the A yet). `print 'A' + 'B' + chr(8) + chr(8) + 'C'` prints `CB`, because the caret is moved two characters back, and the C replaces the A.
 1. The `a, *_, b = [...]` unpacking thing raises a ValueError if the list is fewer than two elements long. `a, b = foo[0], foo[-1]` does not do that.
 1. [`type('', (), {})()` will create an object that can have arbitrary attributes.](http://stackoverflow.com/a/24448351/1558430)
-1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
+   1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
 1. A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value. [Expressions can be combined “horizontally” into larger expressions using operators, while statements can only be combined “vertically” by writing one after another, or with block constructs.](https://www.quora.com/Whats-the-difference-between-a-statement-and-an-expression-in-Python)
 1. [`sets.Set`](http://stackoverflow.com/a/32108276/1558430) is deprecated (removed in 3, even); `set` is not.
 1. `json.dumps(float('inf'))` should fail because `Infinity` is not valid JSON. Yet, using `simplejson`, it succeeds. So if your python code generates any JSON that contains an `Infinity` in it, your JS will get rekt.
@@ -372,11 +372,11 @@ bar
 1. You can have `exit(0)` anywhere, in globals, in a function or in a list comprehension, and the script will exit with 0. In a generator, `exit(0)` takes effect whenever that generator outputs its first item.
 1. Python3 has the `raise from` syntax, where given an exception (e.g. `except ValueError as e`), you can [re-raise a different exception](https://stackoverflow.com/questions/24752395/python-raise-from-usage) while noting what the original cause was, i.e. `raise TypeError(...) from e`. Default is to show the previous errors anyway. To supress it, `raise ... from None` (no context).
 1. [Sometimes `%.0f` rounds up. Sometimes `%.0f` rounds down.](https://stackoverflow.com/a/24121342/1558430) Try 10.5 (becomes 10) and 1.5 (becomes 2).
-1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
+   1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
 1. Given `[1,2,3,4,5,6,7]`, `bisect.bisect_left(that array, 4)` will give you the index of 4, to the left of `4`, and `bisect.bisect_right(that array, 4)` will give you the index of 5, to the right of `4`.
 1. Destructured additions cannot be done. That is, `(a, b) += 1` ("add 1 to each of a and b") and `(a, b) += (3, 4)` ("add 3 to a and add 4 to b") will not work. You can still do `a, b = a + 3, b + 4`, though.
 1. `inspect.getfile(obj)` works only on a class, so `inspect.getfile(obj.__class__)`.
-1. *Almost* everything in python has a `__module__` attribute that tells you which module it came from. Primitives don't have it. Literals don't have it (because only primitives have literals). If you make a function or class in a REPL, then the module is `__main__`. The module for `type` is `__builtin__`, as is the case for other builtins, like `min` and even `function`. The module for built-in exceptions are `exceptions`, though, because that is where they are located. And, of course, if you attempt to inspect the builtin stuff, like `inspect.getfile(type(None))`, then you get a big fat `TypeError: <module '__builtin__' (built-in)> is a built-in class`.
+1. _Almost_ everything in python has a `__module__` attribute that tells you which module it came from. Primitives don't have it. Literals don't have it (because only primitives have literals). If you make a function or class in a REPL, then the module is `__main__`. The module for `type` is `__builtin__`, as is the case for other builtins, like `min` and even `function`. The module for built-in exceptions are `exceptions`, though, because that is where they are located. And, of course, if you attempt to inspect the builtin stuff, like `inspect.getfile(type(None))`, then you get a big fat `TypeError: <module '__builtin__' (built-in)> is a built-in class`.
 1. Assuming because python wants only one (obvious) way to do something, John Roth [once](https://www.python.org/dev/peps/pep-0327/#why-floating-point) recommanded removing the `/` operator altogether, presumably replaced with the multiplying inverse. The community didn't like that.
 1. [Gunicorn is a WSGI server.](http://docs.gunicorn.org/en/stable/deploy.html) You will still need Nginx.
 1. If you [don't pickle anything or parse any XML](http://igordavydenko.com/talks/by-pycon-2017/#slide-19), python 3.6 isn't that slow compared to python 2.7.
@@ -390,7 +390,7 @@ bar
 1. Keras specifically implements neural networks. It does not implement other kinds of machine learning.
 1. It is completely possible for `pip` and `pip3` to install something into `.local/pip` and have absolutely no effect, other than to make it impossible to install the package as root. First `pip uninstall the-thing`, and then reinstall it with `sudo`.
 1. Just use [`sys.version_info >= (3, 0)`](http://sweetme.at/2013/10/21/how-to-detect-python-2-vs-3-in-your-python-script/) to check if you are running python3, but some `basestring NameError` business.
-1. Unlike JS, python does not have "dict unpacking", i.e. `{foo, bar} = {'foo': 1, 'bar': 2}`. You *can* write `foo, bar = {'foo': 1, 'bar': 2}`, but the result is random from an unsorted dict.
+1. Unlike JS, python does not have "dict unpacking", i.e. `{foo, bar} = {'foo': 1, 'bar': 2}`. You _can_ write `foo, bar = {'foo': 1, 'bar': 2}`, but the result is random from an unsorted dict.
 1. [Running synchronous tasks in celery is not recommended](http://docs.celeryproject.org/en/latest/userguide/tasks.html#task-synchronous-subtasks) (i.e. `.get()` in a `@task`)
 1. Alembic uses the `env.py` that you generated with `init` to detect models. This file must import all the models that you want to manage.
 1. Django ORM is considered "active record" (i.e. each row is an object), whereas SQLAlchemy is a "data mapper" (i.e. objects and rows don't necessarily map one to one). This forces many things to be manually configured in SQLAlchemy, for better or for worse.
@@ -398,13 +398,13 @@ bar
 1. In a SQLAlchemy column definition, [there is no difference between an `Integer` and an `Integer()` instance.](http://docs.sqlalchemy.org/en/latest/core/type_basics.html)
 1. Every return value of `float(a: float)` is just `a`, the same float object.
 1. [You cannot `partial` a class'es method from inside the class.](https://stackoverflow.com/questions/16626789/functools-partial-on-class-method) At least you cannot do that [without a stub](https://gist.github.com/carymrobbins/8940382), or until python 3.4's `partialmethod()` is introduced.
-1. [Number range filters like `df[10 < df.column < 20]` does not work in pandas.](https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas#31617974) You *need* to do a double condition like `df[(10 < df.column) & (df.column < 20)]`.
+1. [Number range filters like `df[10 < df.column < 20]` does not work in pandas.](https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas#31617974) You _need_ to do a double condition like `df[(10 < df.column) & (df.column < 20)]`.
 1. To pick multiple columns off a dataframe, you can't do `df['a', 'b', 'c']` because that's intuitive and pythonic. You [need](https://stackoverflow.com/a/48584948/1558430) to do `df[['a', 'b', 'c']]` instead...
 1. Importing `matplotlib.pyplot` as `plt` is [a standard convention](https://pandas.pydata.org/pandas-docs/stable/visualization.html).
 1. [Celery beat is a process that just puts tasks into queues in regular intervals](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html). You still need a separate worker to listen to that queue.
 1. Alembic [`stamp`](http://alembic.zzzcomputing.com/en/latest/api/commands.html#alembic.command.stamp) is the SQLAlchemy equivalent of faking a migration. Example: `stamp fc34a1fc6e7d`. You might need to get dirty anyway, as there is no unstamping.
 1. [`.get(something)` is just `.filter(primary key == something).first()`](https://stackoverflow.com/questions/34299704/when-to-use-sqlalchemy-get-vs-filterfoo-id-primary-key-id-first).
-1. On celery workers: "pre-fork for CPU instensive, eventlet/gevent for IO bound work   ya prefork would block the workers while making long HTTP requests, preventing other work from being done. Async lets IO things happen more concurrently" - a guy who types "ya" instead of "yeah"
+1. On celery workers: "pre-fork for CPU instensive, eventlet/gevent for IO bound work ya prefork would block the workers while making long HTTP requests, preventing other work from being done. Async lets IO things happen more concurrently" - a guy who types "ya" instead of "yeah"
 1. Alembic is worse than Django migrations in [various ways](http://alembic.zzzcomputing.com/en/latest/autogenerate.html#what-does-autogenerate-detect-and-what-does-it-not-detect). First, it does not auto detect table OR column renames. Second, it does not detect changes in contraints. Third, I'll make something up later.
 1. [`mailbox`](https://docs.python.org/2/library/mailbox.html) is a standard library. It manipulates mailbox files (like `.mbox`).
 1. Comparing with `None` using `<` or `>` in python3 raises a `TypeError`. `None` was previously just "less than everything".
@@ -445,7 +445,7 @@ bar
 1. There is a handy [`contextlib.closing`](https://docs.python.org/2/library/contextlib.html#contextlib.closing)`(some_connection()) as connection` thing that you can use to make sure a thing closes when the block exits.
 1. A return statement in the `finally` block will return before a return statement in your `try` block returns.
 1. PEP 515 describes underscores in numerals. `1_000_000` is really a million.
-1. PEP 526 introduces the first syntax that is *not* an expression. Variable type annotation `variable: int`, bearing in mind that doesn't assign anything to the variable, is not an expression.
+1. PEP 526 introduces the first syntax that is _not_ an expression. Variable type annotation `variable: int`, bearing in mind that doesn't assign anything to the variable, is not an expression.
 1. Guido and friend actually tried to distance their project from actual snakes, because the entire thing was supposed to be a Monty Python joke instead of a zoo, but finally [gave up when O'Reilly printed a snake in front of their first python book](https://www.youtube.com/watch?v=gJ4duC-V6Xw).
 1. A `finally` clause could not contain a `continue` [until python3.8](https://docs.python.org/3.8/whatsnew/3.8.html#other-language-changes).
 1. To get your query string from an SQLAlchemy expression, do [`str(the_expression.statement.compile())`](https://stackoverflow.com/a/25563491/1558430).
@@ -453,7 +453,7 @@ bar
 1. Through the act `baz = foo + bar`, where all of these are `list`s, will create an entirely new list for `baz`. If `foo` were `[1,2,3]` and you modify `baz[0] = 'haha'`, `foo` will remain `[1,2,3]`.
 1. `license()` (with an S) is a built-in function. It shows python's story and history in addition to the actual licence. Making a function called `license()` is usually harmless, except if you use pylint: `Redefining built-in 'license'`
 1. [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
-1. Comparing tuples with tuples, like `(1, 0) < (3, 0)` works how you think it would, but comparing tuples with lists that *look about the same* will not: `(1, 0) < [3, 0]` is false because the two types cannot be compared together.
+1. Comparing tuples with tuples, like `(1, 0) < (3, 0)` works how you think it would, but comparing tuples with lists that _look about the same_ will not: `(1, 0) < [3, 0]` is false because the two types cannot be compared together.
 1. You can `os.path.join` a `PosixPath`, you can `Path('/') / 'home' / 'bob'`, but you can't `Path('/') + 'home/bob'`, because that'd be "unintuitive".
 1. Re machine learning: [you should probably just go with tensorflow](https://deepsense.ai/keras-or-pytorch/), if it installs.
 1. The exception message for doing `max(0, None)` is different for python 3.5 (`TypeError: unorderable types: NoneType() > int()`) and 3.6 (`TypeError: '>' not supported between instances of 'NoneType' and 'int'`).
@@ -461,20 +461,20 @@ bar
 1. A python3 class method annotation that needs to specify itself (e.g. a `Time` class whose method returns a `Time`) needs to be [annotated with a string](https://stackoverflow.com/a/33533514/1558430) (e.g. `'Time'`). This is because of the evaluation order... `Time` is not defined until the class is entirely parsed (or something). This is resolved in Python 3.7 (with a future import) and 4.0 (just works).
 1. [Function annotations](https://www.bernat.tech/the-state-of-type-hints-in-python/) (PEP-3107) is Python 3.0+, and does not specify what the annotations needs to do. Type hints (PEP-483, PEP-484) define [how these annotations can be used for type checking](https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/). Variable annotations (PEP-526, e.g. `foo: int = 1`) is Python 3.6+.
 1. While `Dict` is preferred over `dict` when writing type hints, [`typing.Boolean` is not a thing](https://docs.python.org/3/library/typing.html), as are [other "primitives"](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html) such as `int`.
-1. [`typing.Tuple[float, float]`](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc) means a tuple *exactly* 2 elements long, both of which being floats.
-1. [`.pyi` files](https://www.python.org/dev/peps/pep-0484/) are syntactically valid python files that are type *stubs*. By having a different extension, you cannot run pyi files directly (or import them?), and you can put the type stubs right beside your actuaal python file.
+1. [`typing.Tuple[float, float]`](https://stackoverflow.com/questions/39458193/using-list-tuple-etc-from-typing-vs-directly-referring-type-as-list-tuple-etc) means a tuple _exactly_ 2 elements long, both of which being floats.
+1. [`.pyi` files](https://www.python.org/dev/peps/pep-0484/) are syntactically valid python files that are type _stubs_. By having a different extension, you cannot run pyi files directly (or import them?), and you can put the type stubs right beside your actuaal python file.
 1. `__slots__` might lower memory usage by 40% to 50%.
 1. GVR had already mentioned that [PEPs are not laws](https://github.com/PyCQA/pycodestyle/issues/466). PEPs are not intended to be laws. PEPs are "merely intended to guide humans, not to require them to follow it every time."
 1. `()` does not equal `(,)` because the latter is a syntax error.
 1. Raymond's twitter pro tip: [Generally, lists are for looping; tuples for structs. Lists are homogeneous; tuples heterogeneous. Lists for variable length.](https://stackoverflow.com/a/16941245/1558430)
-1. If you want your coworker to kill you, use the ["Additional Unpacking Generalizations"](https://www.python.org/dev/peps/pep-0448/) (PEP 448) to write your tuple: `*(x for x in range(10)),`. In the same PEP: you can now unpack multiple things, multiple times, in the same function call. You can also first unpack some `*args`, and then add more after it to overwrite the stuff in `args`. *Guido* accepted this PEP.
+1. If you want your coworker to kill you, use the ["Additional Unpacking Generalizations"](https://www.python.org/dev/peps/pep-0448/) (PEP 448) to write your tuple: `*(x for x in range(10)),`. In the same PEP: you can now unpack multiple things, multiple times, in the same function call. You can also first unpack some `*args`, and then add more after it to overwrite the stuff in `args`. _Guido_ accepted this PEP.
 1. A `/` inside documentation like `sin(x, /)` means "all arguments are positional-only", and to be fair, [not that many people like it, or know what it is](https://twitter.com/raymondh/status/1103047432164696064).
 1. Child test classes that are tagged with `@attr(...)` also inherit that tag.
 1. [`BaseException` still exists in python 3.](https://docs.python.org/3/library/exceptions.html#BaseException) All things `raise`d must be a subclass of `BaseException`.
 1. pydocstyle contains mutually exclusive rules, [D212](https://github.com/PyCQA/pydocstyle/blob/5add163ee56084b333c1071d19055a3780ba74e2/src/pydocstyle/violations.py#L204) ("Multi-line docstring summary should start at the first line") and [D213](https://github.com/PyCQA/pydocstyle/blob/5add163ee56084b333c1071d19055a3780ba74e2/src/pydocstyle/violations.py#L206) ("Multi-line docstring summary should start at the second line"). [You don't enable both at the same time](https://stackoverflow.com/a/45990465/1558430)
 1. [Tox](https://docs.python-guide.org/writing/tests/#tox) is a meta test runner that manipulates the virtualenv. If you have a project that never changes virtualenv (read: supports only one python version), Tox is not the tool of choice.
 1. In a [list comprehension](https://www.python.org/dev/peps/pep-0202/#rationale) (formally PEP 202) in the form `[... for x... for y...]`, the last index varies fastest, just like nested for loops.
-1. If you need a reason not to use list comprehensions for looping, [here](https://github.com/PyCQA/pylint/issues/2380#issuecomment-411660809) it is, from Claudiu Popa, a member of the [Python Code Quality Authority](https://github.com/PyCQA): *"(...) you are creating a transient list that just gets thrown away after you're done with the iteration. It's more efficient to just use the for loop here, and it goes without saying that it helps with the readability of the code as well."*
+1. If you need a reason not to use list comprehensions for looping, [here](https://github.com/PyCQA/pylint/issues/2380#issuecomment-411660809) it is, from Claudiu Popa, a member of the [Python Code Quality Authority](https://github.com/PyCQA): _"(...) you are creating a transient list that just gets thrown away after you're done with the iteration. It's more efficient to just use the for loop here, and it goes without saying that it helps with the readability of the code as well."_
 1. "Returns anything with superclass T" can supposedly be written as [`-> Type[T]`](https://docs.python.org/3/library/typing.html#typing.Type).
 1. Using [`super(self.__class__, self)`](https://stackoverflow.com/a/18208725/1558430) in subclass of the class that contains that line will not call the correct superclass method. To prevent that happening in your project, use [flake8-super-call](https://pypi.org/project/flake8-super-call/).
 1. NumPy has its own PEP-like things, called [NEPs](https://www.numpy.org/neps/) ("NumPy Enhancement Proposals").
@@ -493,13 +493,15 @@ bar
 1. To specify a version of python that pyenv will use for a project, put `2.5.0` inside a [`.python-version`](https://github.com/pyenv/pyenv#choosing-the-python-version) file at the project root. Then, `python` will map to whichever one pyenv thinks you want.
 1. [`raise AnError() from None`](https://stackoverflow.com/a/33822606/1558430) disables the "During handling of the above exception, another exception occurred" traceback.
 1. [This here](https://gist.github.com/sloria/7001839) tells you to: name something `audio.Controller` rather than `audio.AudioController`. It also tells you to `import a.module` rather than `from a.module import something` to prevent circular imports (no valid citation).
-1. `NotImplemented` (not `NotImplementedError`) is *returned* exclusively by magic methods like [ `__eq__()`, `__lt__()`, `__add__()`, and `__rsub__()`](https://stackoverflow.com/questions/878943/why-return-notimplemented-instead-of-raising-notimplementederror) to indicate that the operation is not implemented for the other type.
+1. `NotImplemented` (not `NotImplementedError`) is _returned_ exclusively by magic methods like [ `__eq__()`, `__lt__()`, `__add__()`, and `__rsub__()`](https://stackoverflow.com/questions/878943/why-return-notimplemented-instead-of-raising-notimplementederror) to indicate that the operation is not implemented for the other type.
 1. `dict` is a "subclass" of `MutableMapping`.
 1. Runtime complexity for dicts/lists/deque are [published](https://wiki.python.org/moin/TimeComplexity). Notably, lists are surprisingly faster than dicts in getting an item by index/key (O(1) vs O(n)) in the worst case.
 1. [`TestCase.addCleanup`](https://docs.python.org/3.5/library/unittest.html#unittest.TestCase.addCleanup) (noting the `up` is lower case, unlike that in `setUp`, because [peps sucked 20 years ago](https://www.reddit.com/r/Python/comments/p03k0/why_does_no_one_seem_to_care_that_unittest/c3lfxnf/) amirite) is an instance-only method. Class-level exceptions cannot be cleaned up like this.
 1. A method in a class can be called by a line inside the class without receiving `self`. See [example](sources/0003.py). It's not going to pass PEP8, but it sure runs.
 1. There is an `assertIs` in addition to `assertEqual`, but [using `is` for numbers can potentially be incorrect](https://codeyarns.com/2012/05/01/integer-caching-in-python/) when the number is outside [-5, 256]... among other [strange situations](https://stackoverflow.com/a/15172182/1558430) where the compiler could not optimise the code ahead of time.
 1. Like [they said](https://docs.python.org/3/library/functions.html#breakpoint), `breakpoint()` is purely a convenience function.
+1. [PEP 420](https://www.python.org/dev/peps/pep-0420/#specification): It is no longer necessarily the case that a folder needs an `__init__.py` (making it a package) for files to be imported, but the rules are still confusing enough that you will want to continue having these files.
+1. According to [this guy](https://stackoverflow.com/questions/2903827/why-are-python-exceptions-named-error), exception classes should not end with `Exception` because we don't write normal classes ending with `Class` or variables ending with `_variable` either. As for *what* exceptions are not errors, examples include `SystemExit`, `KeyboardInterrupt`, and exceptions that are called `Warning`s instead of `Error`s.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

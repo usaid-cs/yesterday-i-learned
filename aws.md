@@ -13,7 +13,7 @@
 1. From within an instance, get its hostname: [`curl http://169.254.169.254/latest/meta-data/public-hostname`](http://serverfault.com/questions/403440/print-external-host-name-of-ec2-instance)
 1. [Blue-green deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html) involves spinning up a new version of the application, waiting for deployment to complete and its state verified, then replacing green (current) instances in the load balancer with the ones you just spun up (blue).
 1. Load balancers send your requests to different servers (perhaps evenly, perhaps not). Auto scaling groups tell the thingy how many servers you want to have. Launch configurations tell the bois how big you want each server to be.
-1. Sections in the `~/.aws/config` file, apart from `[default]`, [need to be prefixed with `profile `](http://boto3.readthedocs.io/en/latest/guide/configuration.html#aws-config-file), i.e. `[profile whatever]`. However, sections in the `~/.aws/credentials` file [must not be prefixed with `profile `](http://boto3.readthedocs.io/en/latest/guide/configuration.html#shared-credentials-file), so only `[whatever]` will work.
+1. Sections in the `~/.aws/config` file, apart from `[default]`, [need to be prefixed with `profile`](http://boto3.readthedocs.io/en/latest/guide/configuration.html#aws-config-file), i.e. `[profile whatever]`. However, sections in the `~/.aws/credentials` file [must not be prefixed with `profile`](http://boto3.readthedocs.io/en/latest/guide/configuration.html#shared-credentials-file), so only `[whatever]` will work.
 1. You make an instance so you can make an AMI with it.
 1. You make an AMI so you can specify one in a Launch Configuration (LC).
 1. You make a Launch Configurations because Auto Scaling Groups (ASGs) need one to know what to launch and scale up/down.
@@ -27,3 +27,4 @@
 1. You can't share (with another account) an RDS snapshot that was encrypted with the default RDS key.
 1. CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.
 1. `aws s3 cp` works similar to `cp`, except `-r` doesn't work, but `--recursive` does.
+1. To use async/await in the JS SDK, you can just [add `.promise()`](https://stackoverflow.com/questions/51328292/how-to-use-async-and-await-with-aws-sdk-javascript) after most functions calls.
