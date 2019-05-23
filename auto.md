@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+1. The *2019* Toyota Tundra uses the same airvents as a specific 2013 vehicle.
 1. [It goes without saying that it takes energy to make your tires spin](https://www.youtube.com/watch?v=-RjJtO51ykY). The smaller/fewer wheels you have, the less energy you need.
 1. There is no good evidence for the legend that [Henry Ford directed his suppliers to build packing crates in such a way that the boards could be reused as floorboards in the Model T](https://www.hemmings.com/blog/article/dont-let-the-facts-get-in-the-way-of-a-good-story/).
 1. Unless you live in the valley, where the temperature is constant, **any primarily electric vehicle with air-cooled batteries is not worth buying**.

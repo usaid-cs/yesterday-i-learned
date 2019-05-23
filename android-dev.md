@@ -46,3 +46,9 @@
 1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
 1. The API level of a [pre-release](https://developer.android.com/studio/releases/platforms#P_preview) version of Android is not a number. For P preview, the API level is just "P".
 1. The `R` class is [a public static final class that only contains resource-related attributes](https://stackoverflow.com/questions/6804053/understand-the-r-class-in-android) for your code to use.
+1. `Drawable` can be [lots of things](https://developer.android.com/guide/topics/resources/drawable-resource). PNG, JPG, GIF, XML... unfornately none of those XML formats are SVG.
+1. You can create a vector asset inside `File -> New -> Vector Asset`.
+1. Whether your activity has a certain theme doesn't get set in your layout xml (`res/layout/*.xml`), but in [`AndroidManifest.xml`](https://stackoverflow.com/a/25863690/1558430), because FUCK you.
+1. [You can display a downloaded image without first saving it somewhere](https://stackoverflow.com/a/6407554/1558430).
+1. "`@aar` is Gradle’s “Artifact only” notation that excludes dependencies by default."
+1. `setContentView(R.layout.main)` controls which activity shows which layout. In this case, it shows `res/layout/main.xml`. [You call it inside `onCreate` usually](https://www.quora.com/In-Android-we-are-using-setContentView-function-in-almost-all-java-classes-What-does-it-do-to-our-application). Interestingly, [that "view" can also be a button](https://stackoverflow.com/a/24706566/1558430).

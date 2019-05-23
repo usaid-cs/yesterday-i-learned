@@ -123,3 +123,4 @@ groovy:000> Boolean.valueOf('true')
 1. [Google's style guide](https://google.github.io/styleguide/javaguide.html#s6.3-static-members) allows static methods to be called only through the class, not `anInstance.aStaticMethod()`. The same guide also says [`XmlHttpRequest` is correct and `XMLHTTPRequest` is not](https://google.github.io/styleguide/javaguide.html#s5.3-camel-case), for which [python's PEP8](https://www.python.org/dev/peps/pep-0008/#descriptive-naming-styles) argues for the exact opposite.
 1. `==` compares the two sides by address. `.equals()` compares the two objects by however the hell they decide to, in the implementation of `.equals()`, usually being an equivalence check.
 1. JavaFX is a UI library.
+1. Despite Java's verbosity, [recommended line length is still under 80 characters](https://www.oracle.com/technetwork/java/javase/documentation/codeconventions-136091.html#313).

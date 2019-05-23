@@ -1,6 +1,7 @@
+1. A martinet (sounds like *martinette*) is a person who follows rules strictly, even if the rules are stupid.
 1. Each piece of McNugget contains 40~45 calories.
 1. [Arnold doesn't lift for himself. He lifts for the sport. He needed to promote the sport.](https://m.youtube.com/watch?v=niQbE1XrhAg)
-1. It is not true that the embassy is a building outside the host country; [an embassy is the people inside the building, called a chancery](https://www.youtube.com/watch?v=SUsqnD9-42g), who cannot be persecuted for crimes committed in the host country. If the embassy commits a crine, what the host country can instead is *kick them out*.
+1. It is not true that the embassy is a building outside the host country; [an embassy is the people inside the building, called a chancery](https://www.youtube.com/watch?v=SUsqnD9-42g), who cannot be persecuted for crimes committed in the host country. If the embassy commits a crime, what the host country can instead is *kick them out*.
 1. The top flood risk is sewer backup rather than natural flooding.
 1. The [Spirit](https://en.wikipedia.org/wiki/Spirit_%28rover%29) and [Opportunity](https://en.wikipedia.org/wiki/Opportunity_%28rover%29) rovers were twins. They landed on opposite sides of the planet. Spirit lasted 2208 sols, while Opportunity lasted 5352 sols. Interestingly, Spirit was MER-A (first) but MER-2 (second), whereas Opportunity was MER-B (second), yet also MER-1 (first).
 1. Dexter's ratings went from an average of 8.5 (season 1 to 7) to the final episode of [4.7](https://i.imgur.com/WUbuXx7.png).

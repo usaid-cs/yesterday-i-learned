@@ -1,4 +1,5 @@
 1. Kotlin was *invented* by JetBrains, the people who made Android Studio. It is impossible not to get first-class support for it.
+1. There is a repl (called `kotlinc-jvm`), but it's hella slow. [Install with instructions.](https://kotlinlang.org/docs/tutorials/command-line.html)
 1. [Kotlin has longer compilation times compared to Java](https://medium.com/keepsafe-engineering/kotlin-vs-java-compilation-speed-e6c174b39b5d), with the exception of incremental builds, which may match Java's compile time. So, while developer efficiency goes up (with less boilerplate code), machine efficiency goes down. A fair tradeoff.
 1. [`f() ?: g()`](https://en.wikipedia.org/wiki/Elvis_operator) is `f() ? f() : g()`, except `f` doesn't get called twice.
 1. Apparently, one of Kotlin's big selling points is [null safety](https://kotlinlang.org/docs/reference/null-safety.html), where normal variables can never point to a `null`. But [`null` is still a thing](https://kotlinlang.org/docs/reference/null-safety.html) and can be explicitly checked and/or allowed (by adding `?` after the variable name declaration). [Saying "no more `NullPointerException`" is **not** true](https://clearbridgemobile.com/java-vs-kotlin-which-is-the-better-option-for-android-app-development/).
@@ -23,3 +24,4 @@
 1. ALL functions with blocks, i.e. not a one-liner, need an explicit `return` statement.
 1. Because you need to declare parameter types now, the type of a lambda is usually `() -> Unit`, unless they take arguments.
 1. The function that accepts a lambda specifies what types the lambda needs to take. The lambdas themselves do not need to (but can) do that.
+1. ["In most cases, Kotlin follows the Java coding conventions"](https://kotlinlang.org/docs/reference/coding-conventions.html#formatting), where the [official Oracle Java convention](https://www.oracle.com/technetwork/java/codeconventions-150003.pdf) says "Avoid lines longer than 80 characters ... Examples for use in documentation should have a shorter line length—generally nomore than 70 characters."
