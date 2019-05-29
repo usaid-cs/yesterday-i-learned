@@ -70,6 +70,7 @@
 1. **Erreur**: error. *Nous avons rejoint ce meetup par erreur*: we joined this meetup by mistake (automatic translation).
 1. **Est-ce que...**: (literally Is it that...) magic way to turn a statement into a question. Informal. *Est-ce que tu es une pomme?*: Are you an apple?
 1. [**Être**](https://en.wiktionary.org/wiki/%C3%AAtre): to be. *Vous êtes des idiots*: you are idiots.
+1. **Eux**: them. *Avec eux*: with them. (Usually not *avec ils*, "with they", it seems.)
 1. **Façon**: way. *La même façon*: the same way.
 1. **Faim**: hunger. *Avez vous faim*: Are you hungry? (Do you have hunger)
 1. **Faire**: do OR make. *Que faisons-nous*: what do we do/make?

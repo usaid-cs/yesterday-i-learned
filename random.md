@@ -1,3 +1,4 @@
+1. Nazis don't call themselves Nazis. Even Hitler didn't call himself a Nazi, because "Nazi" was a hypocorism of *Ignatz*, which can also mean a farmer, peasant, awkward and clumsy person, but Joseph Goebbel *did* call themselves "Der Nazi-Sozi".
 1. A martinet (sounds like *martinette*) is a person who follows rules strictly, even if the rules are stupid.
 1. Each piece of McNugget contains 40~45 calories.
 1. [Arnold doesn't lift for himself. He lifts for the sport. He needed to promote the sport.](https://m.youtube.com/watch?v=niQbE1XrhAg)
@@ -205,7 +206,7 @@
 1. The _Codex gigas_ ("big book") is [the largest extant medieval illuminated manuscript in the world](https://en.wikipedia.org/wiki/Codex_Gigas), known for having lots of weird stuff in it, like a full page devil, and getting stolen a lot.
 1. Angel (An-hell/An-yell) is a boy name in Spanish.
 1. If a bolt is the exact same size as its nut, then the bolt will never go into the nut. [Fit clearances](https://youtu.be/cQFTBfkqE0U) allow an intentionally smaller component to go into another, while "interference fit" heats up one of the parts, expanding it, allowing two otherwise perfectly-sized parts to fit.
-1. In the case of [过桥米线](https://en.wikipedia.org/wiki/Crossing_the_bridge_noodles), the tiny quail egg must be raw to be authentic. The noodles should be served cold but the soup served boiling hot, with the mixture being warm. Diners _must_ place ingredients into the bowl in the order from raw to cooked: meat first, then quail eggs, and then vegetables. They _must_ then "用筷子挑入米线，完成“过桥”的动作。"
+1. In the case of authentic [过桥米线](https://en.wikipedia.org/wiki/Crossing_the_bridge_noodles), the tiny quail eggs _must_ be raw, and the number must be either 1 or 2. The meat _must_ be thinly-sliced pork, but there must also be ham, and it must be 金华火腿, not any other of ham. Along with the soup must come tofu skin, fish flakes, and _never_ seafood. The noodles should be served cold but the soup (chicken soup, covered with a layer of oil) served boiling hot, with the mixture being warm. Diners _must_ place ingredients into the bowl in the order from raw to cooked: meat first, then quail eggs, and then vegetables. They _must_ then "用筷子挑入米线，完成“过桥”的动作。"
 1. All notable persons with the name "Ciprian" are Romanian.
 1. Amazon owns Twitch.
 1. "Galloway said that Bezos was always going to pick one of the coastal cities where he has a second/third home [for the new Amazon HQ]. By doing this 'contest' Amazon was able to get cities to compete with each other to provide tax incentives to Amazon and was also able to get valuable private information on the cities that Amazon can use in their business strategy. Galloway told cities not to participate."

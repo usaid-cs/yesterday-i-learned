@@ -7,7 +7,8 @@
 1. "Other people's money" and "Other people's time" are proven ways to make yourself richer. That's why companies exist. That's why you shouldn't be working for others purely for the money.
 1. A security is a tradable financial asset of any kind, but [BitCoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset). Which can be tangible or intangible. Not sure.
 1. "Bluechips" are large companies with huge market caps. They are usually safe, and don't move up and down much.
-1. ["Save 25X your annual spending and you can retire. If you invest to earn 7%/yr (on avg), you can withdraw 4% forever."](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Attributed to a comment [here](https://news.ycombinator.com/item?id=18128477)1. "Gig economy" means people are always doing short-term work. [40% of jobs are expected to be one of those by 2020.](https://whatis.techtarget.com/definition/gig-economy)
+1. ["Save 25X your annual spending and you can retire. If you invest to earn 7%/yr (on avg), you can withdraw 4% forever."](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) - Attributed to a comment [here](https://news.ycombinator.com/item?id=18128477)
+1. "Gig economy" means people are always doing short-term work. [40% of jobs are expected to be one of those by 2020.](https://whatis.techtarget.com/definition/gig-economy)
 1. [Nest Egg](http://www.investopedia.com/terms/n/nestegg.asp) means savings (for a purpose).
 1. [Credit monitoring a ripoff](https://www.youtube.com/watch?v=3DKnHgsyeS8): that's like hiring a guard that calls you whenever your house was broken into. What you want are credit freezes (assuming you don't want it to get higher, either.)
 1. [Candlestick *sharts*](https://en.wikipedia.org/wiki/Candlestick_chart) show the same things as OHLC (open-high-low-close) charts. If it's green then it went up during the day, and if it's red then it went down during the day. OHLC because ["open is on the left, close is on the right"](https://static.incrediblecharts.com/images/png_images/bar.png) requires a higher screen resolution, and you cannot see the general trend of whether a period of time is mostly green or red.
@@ -39,3 +40,4 @@
 1. [State Grid Corp of China](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China) is a state-owned monopoly. It is not understood why Fortune Global 500 considers it a company (it's top 2, in fact).
 1. Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 1. 套現 is literally "cash out".
+1. "Drop by 1% everyday" has a lower bound. "Rise by 1% everyday" does not. A 1% drop after a 1% rise results in less than before.

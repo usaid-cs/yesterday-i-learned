@@ -84,6 +84,7 @@
 ## Performance
 
 - When in doubt: use `EXPLAIN ANALYZE (your query here);` to help you out. If it doesn't work: [look at the full list of things to do](https://wiki.postgresql.org/wiki/SlowQueryQuestions).
+- [Tool for EXPLAIN ANALYZE](https://tatiyants.com/pev/): first prefix your query with `EXPLAIN (ANALYZE, COSTS, VERBOSE, BUFFERS, FORMAT JSON)`, and then run `psql -h host db usuer -A -f some_query.sql`.
 - `EXPLAIN` returns whatever the engine _thinks_ about a query. `EXPLAIN ANALYZE` actually runs the query, which requires data in actual scale.
 - Selecting an indexed column, but while using a function-wrapped parameter (e.g. `WHERE SOMETHING(ROW) == 1`) disables the index.
 - [There are function-based indices](http://use-the-index-luke.com/sql/where-clause/functions) but it is discouraged for their own performance reasons.

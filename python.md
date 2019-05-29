@@ -502,6 +502,9 @@ bar
 1. Like [they said](https://docs.python.org/3/library/functions.html#breakpoint), `breakpoint()` is purely a convenience function.
 1. [PEP 420](https://www.python.org/dev/peps/pep-0420/#specification): It is no longer necessarily the case that a folder needs an `__init__.py` (making it a package) for files to be imported, but the rules are still confusing enough that you will want to continue having these files.
 1. According to [this guy](https://stackoverflow.com/questions/2903827/why-are-python-exceptions-named-error), exception classes should not end with `Exception` because we don't write normal classes ending with `Class` or variables ending with `_variable` either. As for *what* exceptions are not errors, examples include `SystemExit`, `KeyboardInterrupt`, and exceptions that are called `Warning`s instead of `Error`s.
+1. You have never used F strings because they are python 3.6 and up, but you're stuck on 3.5.
+1. [If a class declares `__slots__`, all of its subclasses need to declare `__slots__` individually](https://stackoverflow.com/a/28059785/1558430), but only attributes introduced by that particular subclass.
+1. Only python3 classes with `__slots__` defined will raise `AttributeError` when something not inside `__slots__` is assigned to it. It does not do that in python2. See also: [source](0005.py)
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

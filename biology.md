@@ -1,3 +1,4 @@
+1. The most common styles of canes are single point, and quad or three-point canes. Ramage says [most people with arthritis need only single-point canes](https://www.arthritis.org/living-with-arthritis/pain-management/joint-protection/cane-tips.php), and those with a neurological impairment are best suited to quad canes, because they can put more weight on them.
 1. [Do not take aspirin for no reason](https://www.reuters.com/article/us-health-heart-aspirin/without-heart-disease-daily-aspirin-may-be-too-risky-idUSKCN1SJ275). It might make your brain bleed in the long term.
 1. Humans can subliminally detect the magnetic field, but [really not much](https://www.youtube.com/watch?v=dg3pza4y2ws).
 1. [Dogs prefer to poop along the magnetic North and South.](https://www.sciencealert.com/dogs-prefer-to-poo-along-a-north-south-axis)
