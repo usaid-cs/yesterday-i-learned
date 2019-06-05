@@ -1,3 +1,6 @@
+1. If you invite someone to do something, you're supposed to plan that something.
+1. No matter how convoluted it is, any UI that requires a button with a mandatory user action ought to have the [button text start with an imperative verb](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/).
+1. To handle (Gmail) emails you never plan to read, search for `older_than:3m in:unread` and mark them all as read / archive them.
 1. Nazis don't call themselves Nazis. Even Hitler didn't call himself a Nazi, because "Nazi" was a hypocorism of *Ignatz*, which can also mean a farmer, peasant, awkward and clumsy person, but Joseph Goebbel *did* call themselves "Der Nazi-Sozi".
 1. A martinet (sounds like *martinette*) is a person who follows rules strictly, even if the rules are stupid.
 1. Each piece of McNugget contains 40~45 calories.

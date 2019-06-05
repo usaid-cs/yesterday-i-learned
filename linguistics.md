@@ -1,3 +1,4 @@
+1. [*Mandarin*](https://en.wikipedia.org/wiki/Mandarin_Chinese) came from Portuguese *mandarim*, from Malay *menteri*, from Sanskrit *mantrin*, originally meant an official from the Ming and Qing dynasties.
 1. *Sofort die nötigen Vollmachten ausstellen*: "Immediately issue the necessary powers".
 1. 小器 is the right word. 小气 is the more common, but less correct word.
 1. "Blammo" is the American "Voila".

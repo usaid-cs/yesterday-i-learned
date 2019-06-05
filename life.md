@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. Blogs ideally teach others what you learned, not just rambling. (But you can... it's your own blog, I'm not the police)
 1. "Never grow up, just learn to be an adult." - [Frazer271009's Dad](https://www.reddit.com/r/AskReddit/comments/bq7pbb/what_is_something_someone_said_to_you_that_hit/eo1v1m6/)
 1. "When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up." - C. S. Lewis
 1. One of the happiest moments in life is when you find the courage to let go of what you cannot change.

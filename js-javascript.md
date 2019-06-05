@@ -220,6 +220,7 @@ undefined
 - Adding [`)]}\n`](https://groups.google.com/forum/#!topic/repo-discuss/uzr84ZGI62g) in front of every JSON request is a way to protect against XSSI, or cross-site script inclusion. This makes the payload impossible to execute if included as a script tag, but trivial to remove the prefix if the data was retrieved using XHR.
 - Use `nvm ls-remote` to find out what versions it has available to install.
 - [`null == 0` is false, `null > 0` is false, but `null >= 0` is true.](https://github.com/denysdovhan/wtfjs#comparing-null-to-0) The short explanation is: `==` will not convert `null` to a number, but `>` will (to 0). So `null` is not 0, which is true; `+null` is 0, which is not greater than 0; and `>=`, which is internally just `<`, converts the expression to `!(+null < 0)`, which is `!false`, aka `true`.
+- If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
 
 ## Deferred API
 

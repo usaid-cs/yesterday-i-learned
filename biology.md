@@ -1,3 +1,7 @@
+1. Eating plants apparently [prevents Alzheimer's](https://www.pcrm.org/health-topics/alzheimers).
+1. "Perennial" just means "through the years". Perennial plants live for two years or more.
+1. [It is possible to build resistance to venom](https://www.youtube.com/watch?v=myh94hpFmJY) by shooting it into yourself every so often, but it's probably not the best for you.
+1. Spearmint is *really, really* not an indoor plant.
 1. The most common styles of canes are single point, and quad or three-point canes. Ramage says [most people with arthritis need only single-point canes](https://www.arthritis.org/living-with-arthritis/pain-management/joint-protection/cane-tips.php), and those with a neurological impairment are best suited to quad canes, because they can put more weight on them.
 1. [Do not take aspirin for no reason](https://www.reuters.com/article/us-health-heart-aspirin/without-heart-disease-daily-aspirin-may-be-too-risky-idUSKCN1SJ275). It might make your brain bleed in the long term.
 1. Humans can subliminally detect the magnetic field, but [really not much](https://www.youtube.com/watch?v=dg3pza4y2ws).
@@ -7,7 +11,7 @@
 1. On [whether fevers should be treated](https://www.reddit.com/r/askscience/comments/bnbnlp/if_fevers_are_the_immune_systems_response_to/en4838h/): YES when the fever is out of control (too high). YES when caused by viral/bacterial infection. NO when it's from a cold, which is viral, but you know a normal person can fight it off, as long as it is not out of control.
 1. Prolactin tells your body to "switch off the dick" after orgasm.
 1. Under ideal conditions, [a human body may turn into soap](http://muttermuseum.org/exhibitions/the-soap-lady/).
-1. *Helicobacter pylori* can be detected with a [breath test](https://www.cbc.ca/news/technology/diagnosing-stomach-problems-check-your-breath-1.851635) ("C-13" or "C-14" isotope urea breath test). "The patient ingests an isotope-labelled urea solution, which is broken down by the urease enzyme into carbon dioxide and ammonia. A high level of labelled CO2 in the patient's breath suggests H. pylori infection."
+1. *Helicobacter pylori* can be detected with a [breath test](https://www.cbc.ca/news/technology/diagnosing-stomach-problems-check-your-breath-1.851635) ("C-13" or "C-14" isotope urea breath test). "The patient ingests an isotope-labelled urea solution, which is broken down by the urease enzyme into carbon dioxide and ammonia. A high level of labelled CO2 in the patient's breath suggests H. pylori infection." But they don't. They just do blood tests.
 1. The [alpha-gal syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608) makes you allergic to [the alpha-gal in] red meat.
 1. [Having a Y chromosome does not automatically qualify you as male.](http://www.isna.org/faq/y_chromosome) The [sex-determining region Y gene](https://en.wikipedia.org/wiki/Testis-determining_factor) may be incorrectly encoded, ending up with infants that have a Y chromosome, but look like females in most ways, except often with underdeveloped testes.
 1. [Breasts get 25% bigger on average after sex.](https://www.youtube.com/watch?v=ww_FFS8yjlc)

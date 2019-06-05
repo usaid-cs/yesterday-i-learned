@@ -30,6 +30,7 @@
 * If a class A has a `ForeignKey` to class B with `on_delete=CASCADE`, B does not get deleted when A is deleted, but if B is deleted, then A is.
 * `PROTECT` in `FK(foo, on_delete=PROTECT)` is supposed to mean "if you want to delete that foo, you must first delete every object referencing it".
 * `OneToOneField` is a subclass of `ForeignKey`, so the schema *should not* change if you change between the two.
+* There wasn't a real reason for handling cascade deletes in Django (code) rather than the DB (data) other than that [it happened](https://stackoverflow.com/a/32793838/1558430).
 
 
 ### [`blank=True` or `null=True`](http://stackoverflow.com/a/8609425)?

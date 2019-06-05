@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. The Canadian equivalent to the fifth amendment ("right not to self-incriminate") is [the "right to silence"](https://en.wikipedia.org/wiki/Right_to_silence#Canada), under section 7 and [section 11(c)](https://en.wikipedia.org/wiki/Section_11_of_the_Canadian_Charter_of_Rights_and_Freedoms) of the [Canadian Charter of Rights and Freedoms](https://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms).
 1. Landshark Lager is made by the brick brewery.
 1. The Waterloo region [can](https://en.wikipedia.org/wiki/Waterloo,_Ontario#Climate) reach "feels like 50 degrees" during the summer.
 1. When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.

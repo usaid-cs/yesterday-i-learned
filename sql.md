@@ -8,6 +8,8 @@
 - `SELECT (SELECT ...) as resultColumnName;` creates a [temp table](https://leetcode.com/problems/second-highest-salary/), which guarantees the select to return a row of `null` instead of no rows.
 - You can't [have `WHERE` clauses in a `GROUP BY` query](https://leetcode.com/problems/duplicate-emails/), but you _can_ turn that into a temp table and have a `WHERE` clause filter on that. Note: **temp tables must have an alias**, i.e. `SELECT (SELECT ...) as alias`.
 - `%` is a thing, so selecting odd-numbered IDs is really `WHERE id % 2 = 1` or something like that.
+- If a foreign key field is [unique and nullable at the same time](https://stackoverflow.com/questions/7573590/can-a-foreign-key-be-null-and-or-duplicate), it can contain at most one `NULL`. If you really want to avoid that null, and can afford having an M2M relationship rather than an O2M relationship, you can [use an intersection table](https://softwareengineering.stackexchange.com/questions/335284/disadvantages-of-using-a-nullable-foreign-key-instead-of-creating-an-intersectio), where an intermediary table links up two other tables.
+- [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29) is putting different rows in the "same" table in different database nodes. Horizontal [partitioning](https://en.wikipedia.org/wiki/Partition_%28database%29) puts different rows in different tables in the same database.
 
 # MySQL
 
@@ -43,6 +45,8 @@
 
 # PostgreSQL
 
+- Get client version: `psql --version`
+- [Get server version](https://stackoverflow.com/a/13733884/1558430): `pg_config --version`, or `SELECT version();`
 - Logging into `psql`: `psql dbname username`
 - Logging into `psql` to a specific DB: `psql -h somedb.com dbname username`
 - [`~/.pgpass`](https://stackoverflow.com/a/16791494/1558430) is activated only if you also specify the username and database name.
@@ -55,9 +59,12 @@
 - [Postgres does not take performance hits from string lengths.](http://www.postgresql.org/docs/8.2/static/datatype-character.html) Putting it in reverse, it also means it cannot be sped up by shortening strings.
 - [`varying` string type has no length limit](http://stackoverflow.com/questions/2904991/postgresql-character-varying-length-limit)
 - `\c`: show the current user and database. `\c dbname` also switches to that database.
-- `\d`: list tables.
+- `\d`: list tables (and indexes!)
 - [`\d+ tablename`](http://stackoverflow.com/a/109334/1558430): describe the table.
 - `\l`: list databases.
+- Create an index: `create index concurrently if not exists index_name on table_name (ordered_fields);`
+- Drop an index: `drop index concurrently if exists index_name;`
+- Rename an index: `alter index old_index_name rename to new_index_name;`
 - Monitoring psql: `sudo tail -n 50 -f /var/log/postgresql/postgresql-9.1-main.log`
 - Setting monitoring flags: [`log_min_duration_statement = 0`, and `log_statement = all`](http://stackoverflow.com/a/12670828/1558430)
 - Running a SQL file: [`psql -U username -d myDataBase -a -f myInsertFile`](http://stackoverflow.com/a/12085561/1558430)
@@ -75,11 +82,13 @@
 - There is no good way to [monitor your indexing progress](https://dba.stackexchange.com/questions/11329/monitoring-progress-of-index-construction-in-postgresql). The closest you have is a giant query [here](https://dba.stackexchange.com/a/161992/41651).
 - [`timestamp without time zone AT TIME ZONE zone`](https://www.postgresql.org/docs/9.6/static/functions-datetime.html#FUNCTIONS-DATETIME-ZONECONVERT) obviously gives you a timestamp _with_ time zone. `timestamp with time zone AT TIME ZONE zone` obviously gives you a timestamp _without_ time zone. Doing `at timezone utc at timezone utc at timezone utc...` also [switches between UTC and not UTC](https://twitter.com/garybernhardt/status/1011388486190968832), depending on how many times you repeat it. [By design.](https://www.postgresql.org/message-id/CAKFQuwYeHxefXOWmF_fXOM%3DMfR%3DQOz%3DUas-HNz5_fA%3DR-koUfw%40mail.gmail.com) Obviously.
 - Apart from [preserving key order](https://www.postgresql.org/docs/9.4/static/datatype-json.html), there is [no real advantage to storing JSON as `JSON`](https://www.sisense.com/blog/postgres-vs-mongodb-for-storing-json-data/) rather than `JSONB`. Other `JSON` perks include: preserving whitespace. [Possibly faster writes](https://docs.djangoproject.com/en/1.10/ref/contrib/postgres/fields/#django.contrib.postgres.fields.JSONField).
-- See what queries are running: `SELECT now() - xact_start AS running_time, * FROM pg_stat_activity ORDER BY datname, query_start, client_addr;`
+- See what queries are running: `SELECT pid, now() - xact_start AS running_time, usename, substr(query, 0, 120) as query_str FROM pg_stat_activity WHERE query <> 'DISCARD ALL' ORDER BY running_time DESC, datname, query_start, client_addr;`
 - [Kill connections by pid](https://stackoverflow.com/a/5109190/1558430): `SELECT pg_terminate_backend(pid) FROM pg_stat_activity;`
 - [Selecting the nth row](https://stackoverflow.com/a/16777/1558430) with a non-standard query: `LIMIT y OFFSET n`
 - Did you know you can [inherit table schemas](https://www.postgresql.org/docs/9.2/ddl-inherit.html)?
 - [The auto-incrementing `SERIAL` type only goes up to 2 billion ish.](https://www.postgresql.org/docs/9.1/datatype-numeric.html)
+- Index creation is locking, not `CONCURRENTLY` by default, because [concurrent indexes need more work](https://www.postgresql.org/docs/9.1/sql-createindex.html#SQL-CREATEINDEX-CONCURRENTLY), are significantly slower, and are much more prone to error arising from transactions. Regular index builds can take place inside a transaction, but concurrent ones cannot.
+- There are three kinds of "views": [temporary views](https://www.postgresql.org/docs/9.4/sql-createview.html), [materialized views](http://www.postgresqltutorial.com/postgresql-materialized-views/), and "tables with different names". [Materialized views](https://www.postgresql.org/docs/9.4/sql-creatematerializedview.html) saves the data at the time the query is run, and calling `REFRESH MATERIALIZED VIEW` locks the entire table. Use `CONCURRENTLY`.
 
 ## Performance
 
@@ -99,8 +108,10 @@
 - Postgres transparently breaks up large field values into multiple rows for performance reasons. They call this ["TOAST"](https://www.postgresql.org/docs/8.3/static/storage-toast.html).
 - You can query two like tables at the same time using `UNION`: `select (same columns) from table1 UNION select (same columns) from table2`. If you can handle duplicate rows, use [`UNION ALL`](https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all), which is faster (if bandwidth is free).
 - **Attempting to [remove nullable or add `NOT NULL` to a field during a zero downtime deployment](https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b#notes-on-adding-not-null-columns-in-very-large-tables) will cost a lot of time.**
-- `VACUUM ANALYZE VERBOSE;` is almost free to run. Run it every so often. There is also autovacuum that automates the automation away from you.
+- `VACUUM ANALYZE VERBOSE;` is almost free to run. Run it every so often (it vacuums all tables). There is also autovacuum that automates the automation away from you.
 - SSDs and HDDs have different `random_page_cost` (default 4) and `seq_page_cost` values (default 1). For SSDs, `random_page_cost` may well be set to 1, which often affects how the query planner decides how to make a query.
+- An ordered index (one where you specify `field_name DESC`) [hardly matters](https://dba.stackexchange.com/a/39599) except if you perform range queries over multiple columns.
+- Non-material views are [as fast as the query you put inside it](https://dba.stackexchange.com/a/151220).
 
 ## Troubleshooting
 
