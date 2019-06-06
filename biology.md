@@ -1,3 +1,4 @@
+1. While [the Beyond Meat burger is not any healthier than normal burgers](https://www.cbc.ca/news/health/meatsplainer-beyond-burgers-1.5125971), the number of animals killed during manufacture is most likely fewer.
 1. Eating plants apparently [prevents Alzheimer's](https://www.pcrm.org/health-topics/alzheimers).
 1. "Perennial" just means "through the years". Perennial plants live for two years or more.
 1. [It is possible to build resistance to venom](https://www.youtube.com/watch?v=myh94hpFmJY) by shooting it into yourself every so often, but it's probably not the best for you.

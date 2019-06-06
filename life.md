@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. /u/Festivearea2's psychiatrist, Dr Murphy: "No one gives a shit about you." He meant and explained it as, in life there are very very very few people who will be there for you all the time, and drop everything. No one cares about what you're doing because everyone is selfish. That's just how life is. Do what YOU want to do, because it's YOUR life.
 1. Blogs ideally teach others what you learned, not just rambling. (But you can... it's your own blog, I'm not the police)
 1. "Never grow up, just learn to be an adult." - [Frazer271009's Dad](https://www.reddit.com/r/AskReddit/comments/bq7pbb/what_is_something_someone_said_to_you_that_hit/eo1v1m6/)
 1. "When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up." - C. S. Lewis
@@ -14,7 +15,7 @@
 1. "Change can be beautiful when we are brave enough to evolve with it, and change can be brutal when we fearfully resist." - Bryant McGill
 1. "A dream doesn't become reality through magic; it takes sweat, determination, and hard work." - Colin Powell
 1. "Opportunity is missed by most people because it is dressed in overalls and looks like work." - Thomas Edison
-1. "If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles." - Credited to Wayne Dyer
+1. "If you believe it will work out, you'll see opportunities. If you believe it won't, you will see obstacles." - Credited to Wayne Dyer
 1. "Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones." - not necessarily Marcus Aurelius, but attributed to him anyway
 1. ["I wish I could say you get used to people dying. I never did. I don't want to. It tears a hole through me whenever somebody I love dies, no matter the circumstances. But I don't want it to "not matter". I don't want it to be something that just passes. My scars are a testament to the love and the relationship that I had for and with that person. And if the scar is deep, so was the love. So be it. Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life. Scars are only ugly to people who can't see."](https://www.reddit.com/r/Assistance/comments/hax0t/-/c1u0rx2) - /u/GSnow
 1. "If you are more fortunate than others, build a longer table, not a taller fence." - Canadian Memorial Centre for Peace

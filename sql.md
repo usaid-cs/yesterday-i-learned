@@ -88,7 +88,7 @@
 - Did you know you can [inherit table schemas](https://www.postgresql.org/docs/9.2/ddl-inherit.html)?
 - [The auto-incrementing `SERIAL` type only goes up to 2 billion ish.](https://www.postgresql.org/docs/9.1/datatype-numeric.html)
 - Index creation is locking, not `CONCURRENTLY` by default, because [concurrent indexes need more work](https://www.postgresql.org/docs/9.1/sql-createindex.html#SQL-CREATEINDEX-CONCURRENTLY), are significantly slower, and are much more prone to error arising from transactions. Regular index builds can take place inside a transaction, but concurrent ones cannot.
-- There are three kinds of "views": [temporary views](https://www.postgresql.org/docs/9.4/sql-createview.html), [materialized views](http://www.postgresqltutorial.com/postgresql-materialized-views/), and "tables with different names". [Materialized views](https://www.postgresql.org/docs/9.4/sql-creatematerializedview.html) saves the data at the time the query is run, and calling `REFRESH MATERIALIZED VIEW` locks the entire table. Use `CONCURRENTLY`.
+- There are three kinds of "views": [temporary views](https://www.postgresql.org/docs/9.4/sql-createview.html), [materialized views](http://www.postgresqltutorial.com/postgresql-materialized-views/), and ["new tables"](https://www.postgresql.org/docs/8.1/sql-createtableas.html). [Materialized views](https://www.postgresql.org/docs/9.4/sql-creatematerializedview.html) saves the data at the time the query is run, and calling `REFRESH MATERIALIZED VIEW` locks the entire table. Use `CONCURRENTLY`. In the case of `CREATE TABLE ... AS SELECT ...`, the data is not changed after that initial population.
 
 ## Performance
 

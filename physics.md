@@ -1,8 +1,9 @@
+1. [An incandescent lamp's lifetime](https://en.wikipedia.org/wiki/Incandescent_light_bulb#Light_output_and_lifetime) is roughly proportional to its operating voltage V ^{-16}. "This means that a 5% reduction in operating voltage will more than double the life of the bulb, at the expense of reducing its light output by about 16%."
 1. No one builds [jello pools](https://www.youtube.com/watch?v=DPZzrlFCD_I) because, firstly, the temperature required (first boil a pool's worth of jello... and then cool it, but not freeze it) is hard to control; and secondly, after all that effort, jello breaks.
 1. An electron and positron spin together to form a [positronium](https://en.wikipedia.org/wiki/Positronium), an unstable state. When they annihilate each other, they turn into two or three photons, depending on their spin states.
 1. [Quantum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation) pull the universe apart. Assuming the theory holds true, specifically the [vacuum energy](https://en.wikipedia.org/wiki/Vacuum_energy) part of it, this explains why [galaxies are moving away from us faster and faster](https://en.wikipedia.org/wiki/Accelerating_expansion_of_the_universe).
 1. The Earth is actually closer to the sun during the northern hemisphere's winter. Seasons are largely affected by the tilt. Also, most of Africa is in the southern hemisphere, if you haven't noticed already.
-1. Only rohots sink in lava. Humans don't sink into lava.
+1. Only robots sink in lava. Humans don't sink into lava.
 1. Short gamma ray bursts are generated when (including) neutron stars merge. Long gamma ray bursts are generated when [supernovae collapse into a black hole](https://www.youtube.com/watch?v=RLykC1VN7NY). Theories even suggest maybe there isn't much more life in space because GRBs are killing lifeforms on a regular basis.
 1. Cold water is audibly different from hot water. (That means you can hear the difference between the two being poured, and you know which is which.)
 1. At 194 dB or dBA (dB adjusted for the human ear), [sound waves become shock waves](https://www.noisehelp.com/noise-level-chart.html).

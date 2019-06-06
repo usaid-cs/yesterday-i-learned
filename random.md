@@ -1,3 +1,4 @@
+1. ["Code rot resistance"](https://blog.heroku.com/the_new_heroku_4_erosion_resistance_explicit_contracts) is having your code specify the environment in which it wants to run, where the environment is what rots your code, *and* having the code specify what it does. Examples include: dependency locks like `package-lock.json` and `Gemfile`, and binding only to the ports that it declares to need.
 1. If you invite someone to do something, you're supposed to plan that something.
 1. No matter how convoluted it is, any UI that requires a button with a mandatory user action ought to have the [button text start with an imperative verb](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/).
 1. To handle (Gmail) emails you never plan to read, search for `older_than:3m in:unread` and mark them all as read / archive them.

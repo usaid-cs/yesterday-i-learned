@@ -276,6 +276,16 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 * 落半斤芥蘭炒
 * 落鹽落一湯勺酒
 
+## Stir "fried" fish
+
+* Cut basa fish into small pieces.
+* Spray oil into pan.
+* Sauté garlic with oil.
+* Put fish in.
+* Put in some soy sauce and sugar.
+* Put tofu in.
+* Put in starch water.
+
 # Ingredients
 
 ## Hollandaise
