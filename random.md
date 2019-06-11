@@ -1,3 +1,10 @@
+1. On why phones are getting [a 48MP camera sensor with binning, instead of a 12MP one with 4x larger pixels](https://www.gsmarena.com/quad_bayer_sensors_explained-news-37459.php): recovering more information from noise, and faster HDR. "If one of the four pixels on a Quad Bayer sensor captures noise ... that’s only 25% of the information lost ..." "Alternatively, the sensor can be split up into two logical sensors -- one that captures a short exposure and one a long exposure (... HDR ...)"
+1. A "travesty" is actually a misrepresentation. Saying "it is a misrepresentation" implies that the something is a misrepresentation *of something*.
+1. Harley Davidson tried to patent its engine sound. [It did not work.](https://www.youtube.com/watch?v=rZOpDve8ARA)
+1. [Raped poutine](https://en.wikipedia.org/wiki/Poutine_r%C3%A2p%C3%A9e), basically mashed potato balls with pork filling, is a specific Acadian dish, not what Tim Horton's passes off as poutine.
+1. The "Linus Tech Tips" opening is called [Laszlo - Supernova](https://www.youtube.com/watch?v=PKfxmFU3lWY).
+1. IP ratings apply to fresh water only. In other words, your everyday smartphone has zero resistance against corrosive seawater.
+1. On web frameworks, and "choosing the right framework": [* Once upon a time, we were focused on the important things - problem-solving, domain data, and business logic. But now we're almost entirely focused on abstraction, generics, and boilerplate while the important objective-related stuff that pays the bills just gets whatever scraps of time are leftover (if any).*](https://news.ycombinator.com/item?id=16725492)
 1. ["Code rot resistance"](https://blog.heroku.com/the_new_heroku_4_erosion_resistance_explicit_contracts) is having your code specify the environment in which it wants to run, where the environment is what rots your code, *and* having the code specify what it does. Examples include: dependency locks like `package-lock.json` and `Gemfile`, and binding only to the ports that it declares to need.
 1. If you invite someone to do something, you're supposed to plan that something.
 1. No matter how convoluted it is, any UI that requires a button with a mandatory user action ought to have the [button text start with an imperative verb](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/).
@@ -9,7 +16,7 @@
 1. It is not true that the embassy is a building outside the host country; [an embassy is the people inside the building, called a chancery](https://www.youtube.com/watch?v=SUsqnD9-42g), who cannot be persecuted for crimes committed in the host country. If the embassy commits a crime, what the host country can instead is *kick them out*.
 1. The top flood risk is sewer backup rather than natural flooding.
 1. The [Spirit](https://en.wikipedia.org/wiki/Spirit_%28rover%29) and [Opportunity](https://en.wikipedia.org/wiki/Opportunity_%28rover%29) rovers were twins. They landed on opposite sides of the planet. Spirit lasted 2208 sols, while Opportunity lasted 5352 sols. Interestingly, Spirit was MER-A (first) but MER-2 (second), whereas Opportunity was MER-B (second), yet also MER-1 (first).
-1. Dexter's ratings went from an average of 8.5 (season 1 to 7) to the final episode of [4.7](https://i.imgur.com/WUbuXx7.png).
+1. Dexter's ratings went from an average of 8.5 (season 1 to 7) to the final episode of [4.7](https://i.imgur.com/WUbuXx7.png). Game of Thrones' ratings went from an average of 9.1 (season 1 to 7) to the final episode of [4.5](https://www.nytimes.com/interactive/2019/05/17/upshot/game-of-thrones-imdb-ratings.html). (Same list: shows you should watch. Community, Friends, Parks and Rec, The Office, 30 Rock, Veep, Breaking Bad, Downton Abbey, Friday Night Lights, Six Feet Under, The Americans, The Shield)
 1. [Recycling doesn't work](https://thewalrus.ca/why-recycling-doesnt-work/). The New York times has published [one](https://www.nytimes.com/1996/06/30/magazine/recycling-is-garbage.html), [two](https://www.nytimes.com/2015/10/04/opinion/sunday/the-reign-of-recycling.html), [three](https://www.nytimes.com/2018/05/29/climate/recycling-landfills-plastic-papers.html), and [four](https://www.nytimes.com/2019/03/16/business/local-recycling-costs.html) articles about it, and I have read none of them.
 1. You want keyboards with more key ["rollovers"](https://steelseries.com/blog/choose-the-right-gaming-keyboard-17), the number of keys it can register at once. To test, Hold Q and W, and then see if the keyboard can type E and F when you press them.
 1. [Cabals](https://en.wikipedia.org/wiki/Cabal) are people who promote their secret ideologies ("conspiracies").
@@ -1934,7 +1941,7 @@
 1. ["Molotov Cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail#Name) was coined by the Finns, which came from "Molotov Bread Baskets", a nickname for Soviet cluster bombs.
 1. To train vocals, talk with a pencil in your mouth for a few minutes.
 1. To train vocals, sing through your closed lips for a few minutes.
-1. If objects have infinite density, then the [Banach–Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
+1. If objects have infinite density, then the [Banach--Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
 1. [Pavers](https://en.wikipedia.org/wiki/Pavement_%28architecture%29) are bricks with no holes, meant for paving. [Cinder blocks](https://en.wikipedia.org/wiki/Concrete_masonry_unit) are bricks with big holes.
 1. 李時珍 happened only 500 odd years ago.
 1. [Deaf-from-birth schizophrenics see disembodied hands signing to them rather than hearing voices.](https://www.ucl.ac.uk/news/news-articles/0707/07070303).
@@ -1992,7 +1999,7 @@
 1. 41-year-old [tluyben2](https://nl.linkedin.com/in/tluyben) recommends all programmers hang out with non-developers _a lot_.
 1. If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost \$1.
 1. [`/32`](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing) is one IPv4 address, `/24` is all of 1.2.3.x, `/16` all of 1.2.x.x, `/8` all of 1.x.x.x. Occasionally you get [`/20`](https://answers.yahoo.com/question/index?qid=20071115104737AAQxeRg) blocks...
-1. [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1–4). Jesus was not a Nazirite; He was a "Nazarene," a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
+1. [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1--4). Jesus was not a Nazirite; He was a "Nazarene," a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
 1. Not only have we gone through the phase of youtube influencers (like that guy Pew-die-pie), we are already into "micro influencers"---people with fewer than 1000 subscribers---whose videos seem more convincing due to the smaller audience. Also lower cost.
 1. To run Java in your (debian) browser, you need both `openjdk-7-jre` and `icedtea-7-plugin` packages.
 1. The Korean blood cake is also called _sundae_: https://en.wikipedia.org/wiki/Sundae_(Korean_food)
@@ -2061,7 +2068,7 @@
 1. Chena Hot Springs, Alaska - constructed an ice hotel... entirely out of ice and snow. [It was shut down by the building inspector due to lack of smoke detectors](https://top5icehotels.weebly.com/aurora-ice-hotel.html).
 1. ["Feminine-named hurricanes (vs. masculine-named hurricanes) cause significantly more deaths, apparently because they lead to lower perceived risk and consequently less preparedness"](http://www.pnas.org/content/early/2014/05/29/1402786111)
 1. [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory): "learning" is done by associations done from the presynaptic cell to the postsynaptic cell; cells that fire together wire together.
-1. "JavaScript legend Douglas Crockford once said that [monads are cursed – that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
+1. "JavaScript legend Douglas Crockford once said that [monads are cursed -- that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
 1. There _is_ a way to pull changes from the parent repository once you've forked it. Create a PR, swap base and HEAD branches, and submit the PR to yourself.
 1. [XSS evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 1. "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
@@ -2092,7 +2099,7 @@
 1. Poor man's [Laksa](http://en.wikipedia.org/wiki/Laksa) can be imitated with [coconut whatever](http://en.wikipedia.org/wiki/Kerisik), curry, beef broth, chili oil, and cheese. A slightly less poor man can add fishballs instead of fish cake, and pho instead of spaghetti. The working man may even buy bean sprouts for the occasion, and use actual tofu puff instead of pretending tofu is okay.
 1. It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
 1. Hitler was Catholic.
-1. On learning [F# for fun and profit](https://fsharpforfunandprofit.com/about/): >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry–Howard correspondence" and worst of all, the five letter word beginning with "m".
+1. On learning [F# for fun and profit](https://fsharpforfunandprofit.com/about/): >These [banned] words include: "endofunctor", "anamorphism", "existential quantification", "beta reduction", "category theory", "final coalgebra", "Kleisli arrows", "Curry--Howard correspondence" and worst of all, the five letter word beginning with "m".
 1. Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
 1. To give scrapy two keyword arguments, have multiple `-a`s.
 1. "won't touch x with a 10-foot pole" means "won't dare interfering with x".
@@ -2130,7 +2137,7 @@
 1. People are "in cahoots" means that they are conspiring on something.
 1. Authentic _chili con carne_ does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
 1. Cheese-crusted pizza is patented by someone who did not ask for royalties.
-1. With a population density of 406 people per km² – 497 if water is excluded – the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
+1. With a population density of 406 people per km² -- 497 if water is excluded -- the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
 1. A cousin, twice _removed_ means something like a grandaunt. Each `removed` means one generation apart.
 1. [Mocks vs Stubs](http://stackoverflow.com/questions/3459287/whats-the-difference-between-a-mock-stub): "Stub is simple fake object. It just makes sure test runs smoothly. Mock is smarter stub. You verify Your test passes through it." In other words, mocks have expectations of what happens when it is run.
 1. [Agile is a philosophy; Scrum is an approach.](http://stackoverflow.com/questions/1586928/how-different-is-scrum-practice-from-agile-practice)
@@ -2563,7 +2570,7 @@
 1. [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ&feature=youtu.be) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
 1. [The Big Lebowski's throwing-underwear-suitcase-out-of-the-car scene was shot in reverse](<http://www.shortlist.com/entertainment/films/50-things-you-(probably)-didnt-know-about-the-big-lebowski#gallery-15>).
 1. Despite being part of the bowling team, The Dude is never seen bowling during the movie.
-1. Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007–2008 world food price crisis.
+1. Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007--2008 world food price crisis.
 1. "Oil pulling" is rinsing the mouth with sesame oil to remove toxins and things. It doesn't work, but some people do it anyway.
 1. The Big Ben is also leaning over.
 1. Uncle Ben's (not related to the point above) [90 second rice](https://www.unclebens.com/products/ready-rice/jasmine), through whatever magic, manages to be wet and edible without adding any preservatives.

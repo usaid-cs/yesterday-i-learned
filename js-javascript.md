@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+1. If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never *write* ECMAScript.
 1. The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
 1. `array.slice()` (with no arguments) gives you a quick shallow copy of an array.
 1. ["Nobody loves what prettier does to their syntax. Everyone loves what prettier does to their coworkers' syntax."](https://www.reddit.com/r/javascript/comments/8as6ns/i_dont_like_prettier/dx14ag5/)

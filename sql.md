@@ -10,6 +10,8 @@
 - `%` is a thing, so selecting odd-numbered IDs is really `WHERE id % 2 = 1` or something like that.
 - If a foreign key field is [unique and nullable at the same time](https://stackoverflow.com/questions/7573590/can-a-foreign-key-be-null-and-or-duplicate), it can contain at most one `NULL`. If you really want to avoid that null, and can afford having an M2M relationship rather than an O2M relationship, you can [use an intersection table](https://softwareengineering.stackexchange.com/questions/335284/disadvantages-of-using-a-nullable-foreign-key-instead-of-creating-an-intersectio), where an intermediary table links up two other tables.
 - [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29) is putting different rows in the "same" table in different database nodes. Horizontal [partitioning](https://en.wikipedia.org/wiki/Partition_%28database%29) puts different rows in different tables in the same database.
+- If you want to `UPDATE` something with values from another tables, those tables need to be declared [using `FROM tablename` after the `SET` statement](http://www.postgresqltutorial.com/postgresql-update-join/).
+- `<> NUL`, `!= NULL`, ... is actually `IS NOT NULL`.
 
 # MySQL
 
@@ -112,6 +114,9 @@
 - SSDs and HDDs have different `random_page_cost` (default 4) and `seq_page_cost` values (default 1). For SSDs, `random_page_cost` may well be set to 1, which often affects how the query planner decides how to make a query.
 - An ordered index (one where you specify `field_name DESC`) [hardly matters](https://dba.stackexchange.com/a/39599) except if you perform range queries over multiple columns.
 - Non-material views are [as fast as the query you put inside it](https://dba.stackexchange.com/a/151220).
+- Check timing with `\timing`
+- Echo with `\echo` (lol)
+- Avoid ["cross joins"](https://www.w3resource.com/PostgreSQL/postgresql-cross-join.php) or cartesian product joins, aka `SELECT ... FROM more,than,one,table`, which produces a massive queryset of size `more x than x one x table`. Nevertheless, in some cases, a cross join might reference an index that an inner join does not, ending up being faster.
 
 ## Troubleshooting
 

@@ -226,6 +226,14 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 * Slowly pour in the egg and stir.
 * Add some salt and white pepper to taste.
 
+### Wonton soup
+
+* Devein the shrimp (both sides).
+* Chop shrimp into small pieces.
+* Mix with 3 Shrimp : 2 ground pork. Add soy sauce, salt, and sesame oil.
+* Wrap wonton. First fold in half (meat does not move), fold the meat up (meat is flipped), and fold the two sides *up* and stick.
+* Boil with seaweed and serve.
+
 ## 炒麵
 
 * Add ½ water to stove and heat stove to max

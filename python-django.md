@@ -56,8 +56,10 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 * You might have to use the related name of the actual thing you want to count, rather than the thing itself, like `Foo.objects.annotate(d=Count('related_key')).order_by('-d').values_list('d')  # Usually the one you want`
 * Prefetching with `get_object_or_404` is possible with something like `get_object_or_404(Thing.prefetch_related(), id=4)`.
 * [Django-pandas](https://github.com/chrisdev/django-pandas/) does exactly what you think it'd do: convert a queryset into a dataframe. Basically, you are working with tables.
+* It is [not possible](https://stackoverflow.com/questions/21439031/django-f-expressions-joined-field?lq=1) to write an update statement based on `F(a__nested__field)`.
+* `shell_plus` has a [`shell_plus --print-sql`](https://stackoverflow.com/a/31450706/1558430) option, which allows you to steal the query from an update().
 
-#### Don't know what select_related and prefetch_related do
+#### Don't know what `select_related` and `prefetch_related` do
 According to onymous internet sources,
 
 `select_related`

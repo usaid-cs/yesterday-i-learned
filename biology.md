@@ -1,3 +1,10 @@
+1. [*Pissenlit* means "pee the bed"](https://www.cbc.ca/news/canada/manitoba/nine-interesting-facts-about-dandelions-1.3597918). Dandelion roots are highly diuretic.
+1. [Human feet are dumb.](https://youtu.be/kd-FZptfGUE) The thing that was meant for grasping turns into this thing we call a foot, which doesn't grab anything, is duct-taped together by tendons to increase strength, and still hurts all the time.
+1. There is [no](https://en.wikipedia.org/wiki/Whey_protein) evidence supporting whey protein being better than other kinds of protein.
+1. A [teratoma](https://en.wikipedia.org/wiki/Teratoma) is a tumour with hair and teeth and stuff inside; stuff that don't belong in a tumour.
+1. [Energy-dense plant foods](https://www.naturalbalancefoods.co.uk/community/fitness/vegan-foods-for-energy/) are typically: seeds, nuts, and grains (which are usually, if not always, seeds).
+1. Nitrates and nitrites cause cancer by destroying DNA of the cells in the digestive tract. [Each extra 50 grams of processed meat per day increases your risk of cancer by 18 percent](https://www.youtube.com/watch?v=ouAccsTzlGU), the risk of which is in line with plutonium, asbestos, and smoking.
+1. [Honey is actually also half glucose and half fructose](https://foodwatch.com.au/blog/carbs-sugars-and-fibres/item/honey-is-it-healthier-than-sugar.html), not as healthy as you think. Among [low-fructose foods](https://www.mngi.com/sites/default/files/Low%20Fructose%20Diet%209.2012.pdf), apricots and strawberries are sweet (rather than acidic).
 1. While [the Beyond Meat burger is not any healthier than normal burgers](https://www.cbc.ca/news/health/meatsplainer-beyond-burgers-1.5125971), the number of animals killed during manufacture is most likely fewer.
 1. Eating plants apparently [prevents Alzheimer's](https://www.pcrm.org/health-topics/alzheimers).
 1. "Perennial" just means "through the years". Perennial plants live for two years or more.

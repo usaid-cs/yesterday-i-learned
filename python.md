@@ -505,6 +505,7 @@ bar
 1. You have never used F strings because they are python 3.6 and up, but you're stuck on 3.5.
 1. [If a class declares `__slots__`, all of its subclasses need to declare `__slots__` individually](https://stackoverflow.com/a/28059785/1558430), but only attributes introduced by that particular subclass.
 1. Only python3 classes with `__slots__` defined will raise `AttributeError` when something not inside `__slots__` is assigned to it. It does not do that in python2. See also: [source](0005.py)
+1. `set1.isdisjoint(set2)` is a very verbose way to check if the two sets have no common items, aka `not (set1 & set2)`. The only difference is [short-circuiting](https://stackoverflow.com/questions/45112928/python-isdisjoint-runtime). And yes, [a set is disjoint with an empty set](https://python-reference.readthedocs.io/en/latest/docs/sets/isdisjoint.html).
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

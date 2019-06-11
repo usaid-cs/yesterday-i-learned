@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+1. Happiness is what happens when what you think, what you say, and what you do are the same thing.
 1. /u/Festivearea2's psychiatrist, Dr Murphy: "No one gives a shit about you." He meant and explained it as, in life there are very very very few people who will be there for you all the time, and drop everything. No one cares about what you're doing because everyone is selfish. That's just how life is. Do what YOU want to do, because it's YOUR life.
 1. Blogs ideally teach others what you learned, not just rambling. (But you can... it's your own blog, I'm not the police)
 1. "Never grow up, just learn to be an adult." - [Frazer271009's Dad](https://www.reddit.com/r/AskReddit/comments/bq7pbb/what_is_something_someone_said_to_you_that_hit/eo1v1m6/)

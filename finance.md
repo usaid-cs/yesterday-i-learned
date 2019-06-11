@@ -1,3 +1,4 @@
+1. A [double-entry bookkeeping system](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system) insists that money has to go from one place to another. Every dollar has to come from somewhere, and go somewhere. That way if you try to do "rounding error"-type tricks, one side (either you or the store) will get less money.
 1. Holding cash pro: purchasing power. Holding cash con: inflation.
 1. When investing, doing nothing is sometimes, maybe even often, doing the right thing.
 1. Thinking about profitability is very easy. [If the cost of you acquiring the customer is less than how much the customer will pay you, then you've made a profit](https://www.youtube.com/watch?v=7bFFgrLSEXA). Selling bundles is great, because (a) people think they get deals, and (b) people pay monthly, and (c) they rarely use everything in their bundles, which means less operating cost per customer.

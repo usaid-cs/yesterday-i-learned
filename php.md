@@ -67,3 +67,4 @@
 * Since PHP cannot have an array with `""` as its key (["you can't have empty strings as property names on an object"](https://www.reddit.com/r/lolphp/comments/42gxxd/decodes_to_empty_but_encodes_to_empty_so_you_cant/) ), [a valid JSON of `{"": ""}` is converted to `{"_empty_": ""}`](https://3v4l.org/Tg6GB).
 * [PSR-8](https://stackoverflow.com/questions/30762644/huggableinterface-in-php-and-psr-8) ("Huggable interface") is a joke.
 * Inexplicably, `echo 'foo: ' . 1+1 . ' bar';` echos `1 bar`. [Sources](https://stackoverflow.com/a/1105565/1558430) cite, "non-industry-standard operator precedence," but PHP's order of precedence is still inexplicable.
+* [psych](https://psysh.org/) is a [modern](https://www.freecodecamp.org/news/this-is-what-modern-php-looks-like-769192a1320/) PHP REPL.

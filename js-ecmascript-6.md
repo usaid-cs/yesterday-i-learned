@@ -164,11 +164,12 @@ const obj = {
 ## Classes
 
 - Classes are not hoisted, even if they down-transpile to a function. The reference is at the top of the scope, but the anonymous function is assigned to the reference on the line the class is declared.
-- Classes can be anonymous.
+- [Classes can be anonymous.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Class_expressions)
 - [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
 - If you have the balls to have a [class extends `null`](https://github.com/denysdovhan/wtfjs#function-is-not-function), be prepared to see unexpected behaviours ("function is not a function").
 - Neither `a = 5` nor `a: 5` is/are valid syntax directly inside a class. Some compilers might interpret that as `constructor() {this.a = 5}` though.
 - You call a superclass's constructor method using `super()`, but you can only call a superclass's constructor like that in `constructor`s. You also cannot call a constructor by name, i.e. `SomeClass.constructor()`, or `new SomeClass.constructor()`. [See source](sources/0004.js). In other words, you can only use `super()` for `constructor`, and you can only use `super.foo()` for other methods.
+- Classes can have [`#staticMembers`](https://www.sitepoint.com/javascript-private-class-fields/). You haven't used it because it is supposed to come out in ES2019.
 
 ## [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
 
