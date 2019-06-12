@@ -12,6 +12,7 @@
 - [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29) is putting different rows in the "same" table in different database nodes. Horizontal [partitioning](https://en.wikipedia.org/wiki/Partition_%28database%29) puts different rows in different tables in the same database.
 - If you want to `UPDATE` something with values from another tables, those tables need to be declared [using `FROM tablename` after the `SET` statement](http://www.postgresqltutorial.com/postgresql-update-join/).
 - `<> NUL`, `!= NULL`, ... is actually `IS NOT NULL`.
+- [Some expert](https://www.cybertec-postgresql.com/en/a-beginners-guide-to-postgresqls-update-and-autovacuum/) suggests inserting (and no updating) partitioned tables, where the most recent one is the active record. When it comes to cleaning up, you drop the oldest table. Not sure how this works with foreign keys, or unique constraints.
 
 # MySQL
 
@@ -85,12 +86,14 @@
 - [`timestamp without time zone AT TIME ZONE zone`](https://www.postgresql.org/docs/9.6/static/functions-datetime.html#FUNCTIONS-DATETIME-ZONECONVERT) obviously gives you a timestamp _with_ time zone. `timestamp with time zone AT TIME ZONE zone` obviously gives you a timestamp _without_ time zone. Doing `at timezone utc at timezone utc at timezone utc...` also [switches between UTC and not UTC](https://twitter.com/garybernhardt/status/1011388486190968832), depending on how many times you repeat it. [By design.](https://www.postgresql.org/message-id/CAKFQuwYeHxefXOWmF_fXOM%3DMfR%3DQOz%3DUas-HNz5_fA%3DR-koUfw%40mail.gmail.com) Obviously.
 - Apart from [preserving key order](https://www.postgresql.org/docs/9.4/static/datatype-json.html), there is [no real advantage to storing JSON as `JSON`](https://www.sisense.com/blog/postgres-vs-mongodb-for-storing-json-data/) rather than `JSONB`. Other `JSON` perks include: preserving whitespace. [Possibly faster writes](https://docs.djangoproject.com/en/1.10/ref/contrib/postgres/fields/#django.contrib.postgres.fields.JSONField).
 - See what queries are running: `SELECT pid, now() - xact_start AS running_time, usename, substr(query, 0, 120) as query_str FROM pg_stat_activity WHERE query <> 'DISCARD ALL' ORDER BY running_time DESC, datname, query_start, client_addr;`
-- [Kill connections by pid](https://stackoverflow.com/a/5109190/1558430): `SELECT pg_terminate_backend(pid) FROM pg_stat_activity;`
+- [Kill connections by pid](https://stackoverflow.com/a/5109190/1558430): `SELECT pg_cancel_backend(pid);`, or `SELECT pg_terminate_backend(pid) FROM pg_stat_activity;`. [The first one is less mean than the second](https://serverfault.com/a/35344/523754): [cancel active queries, terminate idle sessions](https://community.pivotal.io/s/article/How-to-Cancel-Running-Queries-or-Idle-Sessions). If neither work, you can SIGQUIT the whole server in an emergency.
 - [Selecting the nth row](https://stackoverflow.com/a/16777/1558430) with a non-standard query: `LIMIT y OFFSET n`
 - Did you know you can [inherit table schemas](https://www.postgresql.org/docs/9.2/ddl-inherit.html)?
 - [The auto-incrementing `SERIAL` type only goes up to 2 billion ish.](https://www.postgresql.org/docs/9.1/datatype-numeric.html)
 - Index creation is locking, not `CONCURRENTLY` by default, because [concurrent indexes need more work](https://www.postgresql.org/docs/9.1/sql-createindex.html#SQL-CREATEINDEX-CONCURRENTLY), are significantly slower, and are much more prone to error arising from transactions. Regular index builds can take place inside a transaction, but concurrent ones cannot.
 - There are three kinds of "views": [temporary views](https://www.postgresql.org/docs/9.4/sql-createview.html), [materialized views](http://www.postgresqltutorial.com/postgresql-materialized-views/), and ["new tables"](https://www.postgresql.org/docs/8.1/sql-createtableas.html). [Materialized views](https://www.postgresql.org/docs/9.4/sql-creatematerializedview.html) saves the data at the time the query is run, and calling `REFRESH MATERIALIZED VIEW` locks the entire table. Use `CONCURRENTLY`. In the case of `CREATE TABLE ... AS SELECT ...`, the data is not changed after that initial population.
+- Adding a [`DEFERRABLE` constraint](https://hashrocket.com/blog/posts/deferring-database-constraints) allows that same constraint to be changed within a transaction. A `DEFERRABLE` constraint can also be `DEFERRABLE INITIALLY IMMEDIATE`, which means the constraint will be enforced right after that statement, or `DEFERRABLE INITIALLY DEFERRED`, which means the constraint will not check anything until the transaction is committed.
+- To update only some of the objects you select, use a subselect: `UPDATE your_table ... WHERE (conditions) AND your_table.id = ANY(SELECT id from your_table ORDER BY random() WHERE (same conditions outside) LIMIT 10000)`. Now you only update 10000 of your rows.
 
 ## Performance
 
@@ -177,5 +180,5 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 # SQLite3
 
-- Open database: `attach "some_file_name.db" as db;`
+- Open database: `attach "some_file_name.db" as db;` or `.open db`
 - Show tables: `.tables`

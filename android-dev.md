@@ -1,65 +1,65 @@
-1. Being confusing is [recommended](https://stackoverflow.com/a/14932717/1558430).
-1. Before you truly understand what it is, [`Fragment`](https://developer.android.com/reference/android/app/Fragment) is already deprecated. Fragments may have been [the separate panes in tablet mode](https://developer.android.com/guide/components/fragments), for example. Layouts can contain Fragments.
-1. [Webview session storage](https://forums.adobe.com/thread/2350512) available was unlimited for Android versions 4.1 and 4.3, but not 4.2 and 4.4, which had 10MB.
-1. Your package id [must](https://developer.android.com/studio/build/application-id) have at least one dot in it, so it can't be `com`.
-1. `JobIntentService`. A "job intent service" whose "job" is to "serve job intents". Or does it "serve intent jobs"? Or "job service intents"? Oh well. But after all that, what does it enque? ["Work"](https://android.jlelse.eu/keep-those-background-services-working-when-targeting-android-oreo-sdk-26-cbf6cc2bdb7f). `JobIntentService.enqueueWork()`.
-1. You may track if a _specific_ user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
-1. ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)
-1. `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
-1. Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
-1. Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
-1. For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.
-1. Do know what these mean: activity/fragment lifecycles, device rotation, services, broadcasts, background tasks, asynchronous tasks, views, adapters, recyclerview, "view holder pattern"
-1. Strings are put inside `project_root/app/src/main/res/values/strings.xml`, because nested folders are the best.
-1. [The plus thing in the XML](http://developer.android.com/training/basics/firstapp/building-ui.html), like `android:id="@+id/edit_message"`, is required only for the line that defines it.
-1. `android:hint` are placeholder texts.
-1. [`layout_weight` is a relative number](http://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean). A `layout_weight` of 1 means 100% of the width _IF_ the control happens to be the only control inside a `LinearView` with the weight specified. If two controls have the weight specified (say 1, 1), then each control shares 50% of the width.
-1. If `layout_weight` is given, [then](http://developer.android.com/training/basics/firstapp/building-ui.html) `layout_width` is useless (irrelevant), and should be set to 0dp or 0px.
-1. The back button does ["back navigation"](http://developer.android.com/design/patterns/navigation.html) (whichever activity shown in reverse chronological order); the in-app backs do "up navigation". The term "up" refers to the hierarchical parent of the current activity, a hierarchy you declare in `AndroidManifest.xml`.
-1. Putting a library into `libs/` seems to do it.
-1. There are project (`./build.gradle`) and app-level (`./app/build.gradle`) gradle files. The former defines dependencies, and the latter uses them.
-1. If gradle is too old, update the `classpath 'com.android.tools.build:gradle:2.1.2'`... in the gradle file. Gradle will update itself. [True fact.](http://stackoverflow.com/questions/17634708/android-studio-upgraded-from-0-1-9-to-0-2-0-causing-gradle-build-errors-now/17648742#17648742)
-1. Order in the layout xml files matters.
-1. The project's JDK settings is in File > Project Structure, which is not in Settings for studio.
-1. If you don't know what fresh hell you are doing, [here is a layouts cheat sheet](http://labs.udacity.com/images/Layout-Cheat-Sheet.pdf).
-1. Accessing the Internet on the main thread, get this, raises the `NetworkOnMainThreadException`.
-1. [AsyncTask](http://stackoverflow.com/questions/3921816/can-i-pass-different-types-of-parameters-to-an-asynctask-in-android) takes just one type of parameter, but you can use "the setter" (?) to use additional types, or simply [pass in an `Object`](http://stackoverflow.com/a/9077177) and re-cast from there.
-1. ["The difference between Handler and AsyncTask is: Use AsyncTask when Caller thread is a UI Thread."](http://stackoverflow.com/a/9800870)
-1. It is near impossible to [conjure a popup from a non-activity class](http://stackoverflow.com/a/31221646).
-1. `(an AsyncTask).get()` [immediately gets the value from its execute()](http://stackoverflow.com/a/10972142). Then again, that is a synchronous move.
-1. Activity [apparently](http://stackoverflow.com/a/9192916/1558430) extends Context.
-1. Find your dependency versions on [this website](http://search.maven.org/#search%7Cga%7C1%7Cio.reactivex.rxjava). It only searches on mavenCentral, I think.
-1. [Two-way binding is **not** natively supported](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.pfcgcnfo5) by the designer thing, but there are lots of [one-way binding libraries](https://developer.android.com/topic/libraries/data-binding/index.html) available.
-1. To use that `com.android.databinding` plugin, the layout file must have `<Layout>` as the root, not anything else, like `<LinearLayout>`.
-1. [Java 8 must be explicitly enabled](http://stackoverflow.com/a/37004259/1558430)
-1. The superclass of your activity has a [`setTitle()`](http://stackoverflow.com/questions/3975550/android-how-to-change-the-application-title) that does what you think it does.
-1. [Loser answered the wrong base64 question](http://stackoverflow.com/a/29383697/1558430), but it works. [This should work.](http://stackoverflow.com/a/15683305/1558430)
-1. Two apps signed with the same key can [securely share code and data](https://developer.android.com/studio/publish/app-signing.html#considerations).
-1. adbd cannot run as root in production builds.
-1. The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
-1. Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
-1. In some cases, [`onDestroy` is never called when an activity is destroyed.](https://academy.realm.io/posts/sf-fabien-davos-modern-android-ditching-activities-fragments/)
-1. Sometimes you might want to check if you can run code based on the SDK version with which your app is built (like `Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB_MR2`). Actually, I don't think you'll ever need to do that.
-1. [try-with-resources is only supported if your minSdkVersion is set to 19 or higher.](https://stackoverflow.com/a/24290875/1558430) It looks like `try (foo = new SomeResourceLikeAFile()) { foo... }`. Multiple resources can be tried by separating with a `;`.
-1. `startActivity` accepts an `Intent` rather than `Activity` because reasons.
-1. If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
-1. IDs are under_scored. Variables are camelCased, As always, because reasons.
-1. It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
-1. "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
-1. The API level of a [pre-release](https://developer.android.com/studio/releases/platforms#P_preview) version of Android is not a number. For P preview, the API level is just "P".
-1. The `R` class is [a public static final class that only contains resource-related attributes](https://stackoverflow.com/questions/6804053/understand-the-r-class-in-android) for your code to use.
-1. `Drawable` can be [lots of things](https://developer.android.com/guide/topics/resources/drawable-resource). PNG, JPG, GIF, XML... unfornately none of those XML formats are SVG.
-1. You can create a vector asset inside `File -> New -> Vector Asset`.
-1. Whether your activity has a certain theme doesn't get set in your layout xml (`res/layout/*.xml`), but in [`AndroidManifest.xml`](https://stackoverflow.com/a/25863690/1558430), because FUCK you.
-1. [You can display a downloaded image without first saving it somewhere](https://stackoverflow.com/a/6407554/1558430).
-1. "`@aar` is Gradle’s “Artifact only” notation that excludes dependencies by default."
-1. `setContentView(R.layout.main)` controls which activity shows which layout. In this case, it shows `res/layout/main.xml`. [You call it inside `onCreate` usually](https://www.quora.com/In-Android-we-are-using-setContentView-function-in-almost-all-java-classes-What-does-it-do-to-our-application). Interestingly, [that "view" can also be a button](https://stackoverflow.com/a/24706566/1558430).
-1. A notification has no actions by default. To have it, say, bring the app back up, [you need to give it an intent that's equivalent to one where the user tapped on the icon from the launcher](https://stackoverflow.com/a/18426787/1558430), and then `setContentIntent` to the builder.
-1. When the docs say a method "is deprecated", it doesn't necessarily mean all methods with that name are deprecated. It just means a method with that name *and signature* is deprecated.
-1. [The fused location provider is part of google play services.](https://medium.com/@ssaurel/getting-gps-location-on-android-with-fused-location-provider-api-1001eb549089)
-1. If you are absolutely sure that you requested a permission using the `<uses-permission android:name="android.permission.INTERNET "/>` tag, but it isn't working for some reason, notice there should be no space after the word `INTERNET`. Idiot.
-1. The "builder" pattern appears to create new objects, whose instances have successively more attributes added (hence "building"), and the final `build()` command returns the thing you have been trying to build all along. This allows a developer to call flexible methods in a strict language like Java, without overloading a method with a different number of parameters.
-1. The [`m` and `s` variable prefixes](https://stackoverflow.com/questions/2092098/why-do-most-fields-class-members-in-android-tutorial-start-with-m) actually only concern apps that are to be contributed to the AOSP project, and should not be used in your personal projects.
-1. You can catch fatal exceptions (they are `Throwable`s), but [they should only be caught at the topmost layer](https://softwareengineering.stackexchange.com/questions/167242/where-should-i-handle-fatal-exceptions).
-1. A [`SharedPreferences`](https://developer.android.com/reference/android/content/SharedPreferences) lets you `getString()`, but it doesn't let you `putString()`. Classic Android. [You need to get the prefs' "editor" through `prefs.edit()`](https://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin), which *then* has a `putString()`.
-1. Android Go editions may have unexpected restrictions, such as [launching an activity from a service using the `SYSTEM_ALERT_WINDOW` permission](https://developer.android.com/preview/privacy/background-activity-starts).
+- Being confusing is [recommended](https://stackoverflow.com/a/14932717/1558430).
+- Before you truly understand what it is, [`Fragment`](https://developer.android.com/reference/android/app/Fragment) is already deprecated. Fragments may have been [the separate panes in tablet mode](https://developer.android.com/guide/components/fragments), for example. Layouts can contain Fragments.
+- [Webview session storage](https://forums.adobe.com/thread/2350512) available was unlimited for Android versions 4.1 and 4.3, but not 4.2 and 4.4, which had 10MB.
+- Your package id [must](https://developer.android.com/studio/build/application-id) have at least one dot in it, so it can't be `com`.
+- `JobIntentService`. A "job intent service" whose "job" is to "serve job intents". Or does it "serve intent jobs"? Or "job service intents"? Oh well. But after all that, what does it enque? ["Work"](https://android.jlelse.eu/keep-those-background-services-working-when-targeting-android-oreo-sdk-26-cbf6cc2bdb7f). `JobIntentService.enqueueWork()`.
+- You may track if a _specific_ user uninstalls your app by setting up a silent push notification (or alarm, or scheduled task) that asks the app to ping your own server with your (semi-unique) Google advertising ID. When your app no longer pings back, the user uninstalled your app.
+- ["If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, the notification does not appear and the system logs an error."](https://developer.android.com/training/notify-user/channels)
+- `minSdkVersion=x` prevents the APK from being installed on anything less than. `targetSdkVersion=x` disables extra compatibility code that is run to keep the APK compatible with version x.
+- Android Studio 0.80 beta is, by default, [broken](http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk).
+- Handling menu clicks is as stupid as you want it to be, but [here is a simpler one](http://stackoverflow.com/a/7480103/1558430)
+- For whatever reason, [it is impossible to set a negative value on a NumberPicker](http://stackoverflow.com/questions/20968561/android-numberpicker-negative-values). You can only subtract the value by a negative number after the fact.
+- Do know what these mean: activity/fragment lifecycles, device rotation, services, broadcasts, background tasks, asynchronous tasks, views, adapters, recyclerview, "view holder pattern"
+- Strings are put inside `project_root/app/src/main/res/values/strings.xml`, because nested folders are the best.
+- [The plus thing in the XML](http://developer.android.com/training/basics/firstapp/building-ui.html), like `android:id="@+id/edit_message"`, is required only for the line that defines it.
+- `android:hint` are placeholder texts.
+- [`layout_weight` is a relative number](http://stackoverflow.com/questions/3995825/what-does-androidlayout-weight-mean). A `layout_weight` of 1 means 100% of the width _IF_ the control happens to be the only control inside a `LinearView` with the weight specified. If two controls have the weight specified (say 1, 1), then each control shares 50% of the width.
+- If `layout_weight` is given, [then](http://developer.android.com/training/basics/firstapp/building-ui.html) `layout_width` is useless (irrelevant), and should be set to 0dp or 0px.
+- The back button does ["back navigation"](http://developer.android.com/design/patterns/navigation.html) (whichever activity shown in reverse chronological order); the in-app backs do "up navigation". The term "up" refers to the hierarchical parent of the current activity, a hierarchy you declare in `AndroidManifest.xml`.
+- Putting a library into `libs/` seems to do it.
+- There are project (`./build.gradle`) and app-level (`./app/build.gradle`) gradle files. The former defines dependencies, and the latter uses them.
+- If gradle is too old, update the `classpath 'com.android.tools.build:gradle:2.1.2'`... in the gradle file. Gradle will update itself. [True fact.](http://stackoverflow.com/questions/17634708/android-studio-upgraded-from-0-1-9-to-0-2-0-causing-gradle-build-errors-now/17648742#17648742)
+- Order in the layout xml files matters.
+- The project's JDK settings is in File > Project Structure, which is not in Settings for studio.
+- If you don't know what fresh hell you are doing, [here is a layouts cheat sheet](http://labs.udacity.com/images/Layout-Cheat-Sheet.pdf).
+- Accessing the Internet on the main thread, get this, raises the `NetworkOnMainThreadException`.
+- [AsyncTask](http://stackoverflow.com/questions/3921816/can-i-pass-different-types-of-parameters-to-an-asynctask-in-android) takes just one type of parameter, but you can use "the setter" (?) to use additional types, or simply [pass in an `Object`](http://stackoverflow.com/a/9077177) and re-cast from there.
+- ["The difference between Handler and AsyncTask is: Use AsyncTask when Caller thread is a UI Thread."](http://stackoverflow.com/a/9800870)
+- It is near impossible to [conjure a popup from a non-activity class](http://stackoverflow.com/a/31221646).
+- `(an AsyncTask).get()` [immediately gets the value from its execute()](http://stackoverflow.com/a/10972142). Then again, that is a synchronous move.
+- Activity [apparently](http://stackoverflow.com/a/9192916/1558430) extends Context.
+- Find your dependency versions on [this website](http://search.maven.org/#search%7Cga%7C1%7Cio.reactivex.rxjava). It only searches on mavenCentral, I think.
+- [Two-way binding is **not** natively supported](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.pfcgcnfo5) by the designer thing, but there are lots of [one-way binding libraries](https://developer.android.com/topic/libraries/data-binding/index.html) available.
+- To use that `com.android.databinding` plugin, the layout file must have `<Layout>` as the root, not anything else, like `<LinearLayout>`.
+- [Java 8 must be explicitly enabled](http://stackoverflow.com/a/37004259/1558430)
+- The superclass of your activity has a [`setTitle()`](http://stackoverflow.com/questions/3975550/android-how-to-change-the-application-title) that does what you think it does.
+- [Loser answered the wrong base64 question](http://stackoverflow.com/a/29383697/1558430), but it works. [This should work.](http://stackoverflow.com/a/15683305/1558430)
+- Two apps signed with the same key can [securely share code and data](https://developer.android.com/studio/publish/app-signing.html#considerations).
+- adbd cannot run as root in production builds.
+- The default support library already supports [automatic day/night theming](https://android-developers.googleblog.com/2016/02/android-support-library-232.html). You just need to specify `AppCompatDelegate.MODE_NIGHT_AUTO` and it will be themed for you.
+- Burak says [`Serializable` is a form of reflection, and has poor performance.](https://android.jlelse.eu/yet-another-awesome-kotlin-feature-parcelize-5439718ba220)
+- In some cases, [`onDestroy` is never called when an activity is destroyed.](https://academy.realm.io/posts/sf-fabien-davos-modern-android-ditching-activities-fragments/)
+- Sometimes you might want to check if you can run code based on the SDK version with which your app is built (like `Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB_MR2`). Actually, I don't think you'll ever need to do that.
+- [try-with-resources is only supported if your minSdkVersion is set to 19 or higher.](https://stackoverflow.com/a/24290875/1558430) It looks like `try (foo = new SomeResourceLikeAFile()) { foo... }`. Multiple resources can be tried by separating with a `;`.
+- `startActivity` accepts an `Intent` rather than `Activity` because reasons.
+- If even one of your neurons fire up, you would have noticed that `new Intent(CurrentActivity.this, ...)` and `new Intent(this, ...)` are identical statements.
+- IDs are under_scored. Variables are camelCased, As always, because reasons.
+- It is possible to name your package using someone else's domain, like `com.microsoft.lol`.
+- "Target SDK version" is the level at which you can use the SDK's features. ["Min SDK version"][stackoverflow 14] is the level at which you, the developer, have made sure the app still works by handling missing features properly.
+- The API level of a [pre-release](https://developer.android.com/studio/releases/platforms#P_preview) version of Android is not a number. For P preview, the API level is just "P".
+- The `R` class is [a public static final class that only contains resource-related attributes](https://stackoverflow.com/questions/6804053/understand-the-r-class-in-android) for your code to use.
+- `Drawable` can be [lots of things](https://developer.android.com/guide/topics/resources/drawable-resource). PNG, JPG, GIF, XML... unfornately none of those XML formats are SVG.
+- You can create a vector asset inside `File -> New -> Vector Asset`.
+- Whether your activity has a certain theme doesn't get set in your layout xml (`res/layout/*.xml`), but in [`AndroidManifest.xml`](https://stackoverflow.com/a/25863690/1558430), because FUCK you.
+- [You can display a downloaded image without first saving it somewhere](https://stackoverflow.com/a/6407554/1558430).
+- "`@aar` is Gradle’s “Artifact only” notation that excludes dependencies by default."
+- `setContentView(R.layout.main)` controls which activity shows which layout. In this case, it shows `res/layout/main.xml`. [You call it inside `onCreate` usually](https://www.quora.com/In-Android-we-are-using-setContentView-function-in-almost-all-java-classes-What-does-it-do-to-our-application). Interestingly, [that "view" can also be a button](https://stackoverflow.com/a/24706566/1558430).
+- A notification has no actions by default. To have it, say, bring the app back up, [you need to give it an intent that's equivalent to one where the user tapped on the icon from the launcher](https://stackoverflow.com/a/18426787/1558430), and then `setContentIntent` to the builder.
+- When the docs say a method "is deprecated", it doesn't necessarily mean all methods with that name are deprecated. It just means a method with that name _and signature_ is deprecated.
+- [The fused location provider is part of google play services.](https://medium.com/@ssaurel/getting-gps-location-on-android-with-fused-location-provider-api-1001eb549089)
+- If you are absolutely sure that you requested a permission using the `<uses-permission android:name="android.permission.INTERNET "/>` tag, but it isn't working for some reason, notice there should be no space after the word `INTERNET`. Idiot.
+- The "builder" pattern appears to create new objects, whose instances have successively more attributes added (hence "building"), and the final `build()` command returns the thing you have been trying to build all along. This allows a developer to call flexible methods in a strict language like Java, without overloading a method with a different number of parameters.
+- The [`m` and `s` variable prefixes](https://stackoverflow.com/questions/2092098/why-do-most-fields-class-members-in-android-tutorial-start-with-m) actually only concern apps that are to be contributed to the AOSP project, and should not be used in your personal projects.
+- You can catch fatal exceptions (they are `Throwable`s), but [they should only be caught at the topmost layer](https://softwareengineering.stackexchange.com/questions/167242/where-should-i-handle-fatal-exceptions).
+- A [`SharedPreferences`](https://developer.android.com/reference/android/content/SharedPreferences) lets you `getString()`, but it doesn't let you `putString()`. Classic Android. [You need to get the prefs' "editor" through `prefs.edit()`](https://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin), which _then_ has a `putString()`.
+- Android Go editions may have unexpected restrictions, such as [launching an activity from a service using the `SYSTEM_ALERT_WINDOW` permission](https://developer.android.com/preview/privacy/background-activity-starts).

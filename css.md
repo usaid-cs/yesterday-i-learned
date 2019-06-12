@@ -1,51 +1,51 @@
-1. The original "web colours" came from [X11](https://news.ycombinator.com/item?id=20137446). Netscape literally gave the colour codes to X11, which then renders the colours. Netscape got colour support for free. "Because X11 shipped with a suite of pre-defined colour names, Netscape supported those pre-defined colour names. Because X11 supported custom colours in #RGB, #RRGGBB and #RRRRGGGGBBBB syntax, Netscape supported those too."
-1. [Attributes beginning with `--`](https://stackoverflow.com/a/40055702), for example `--main-color: #000`, are custom properties used elsewhere, for example a computation. [Ionic components use custom properties](https://ionicframework.com/docs/api/menu#css-custom-properties).
-1. Class names are `dash-separated` because [it allows for a selector like `[class^="foo-"]`](https://stackoverflow.com/a/20811902/1558430) to target `foo-bar`, which starts with `foo`, but not target `fooBar`, which also starts with `foo`.
-1. Styling for the iPhone X basically means messing with the platform-specific [`safe-area-inset-top`](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html) value right after your normal rules, which will not be overridden by your `inset-` thing because it is invalid on any other platform, and is 0 on any iOS device that is not the iPhone X.
-1. [`normalize.css`](https://github.com/necolas/normalize.css/blob/master/normalize.css) is a ~350 line CSS file, more than half of which are comments.
-* CSS3 has `background-size`, whose most useful values are `cover` (scaled and cropped) and `contain` (scaled to fit).
-* `text-overflow` allows [custom truncation characters][mozilla]. It is CSS3. For everything else, there's [mastercard](http://dotdotdot.frebsite.nl/).
-* Chrome doesn't support two-valued text-overflows, e.g. `clip ellipsis`.
-* Relative paths in an external CSS file is [relative to the file][stackoverflow].
-* A `:before` selector with `content: "|";` solves many problems, including stupid site menu separators.
-* Web components ([decorators][w3]): basically, js templating without the js. Dayum.
-* [The lamest jQuery UI theme](http://jqueryui.com/themeroller/#!zThemeParams=5d000001005a09000000000000003d8888d844329a8dfe02723de3e56fef6f394c7b9c2dcae86fd46a4522d8ce7f4c4ece283da2a0cd205a5a6995b4b03b22e4da76864efd1aaab86290b5d53a6638eea5899160f19f4bcf9cc97eb703db374372ecbc4a1700b03ec54426a82393ca871997be542a299753e3a7aa112a37d68de7ebc5e0a4b421336ada9f0cdc09a45691c68e44edadf588481a8e65505c2a7076fa0062595485585478461c72a8fccd5fac8e09d72ee5e48aa5c425f397e6b5fed846357fdf50e7d28ccb6874a1913279c3be3dbe13160d2d7b41dec59fc18cae93ee21deeb54f845b60a487cf3b8dfb74b6bc7267c4d1e87f17c70c918dd2f340a9414c70cd13c25e48ab39f1e8940db674f85023fc4e2453bc5d9b093c124d701b71ecf369ab48fc1b663b1d84f900bbdd2731bb82ecd40b164e5b73ce53bcda3b64cf1864c4055db6771e82d869b3ad94514879145b3c8d8f3d298d171be10dc8a272853035bb569a5790fd4a49bda81ef59f45336c712111b7b69a9b1c1f7acee9fbce612aa0fe2f2b0323a021b72fe864b5083a0f09591c02739ad82d6c4efcc02b7475532f8d9818b052c3694d4b40585d7d66cd7635542cf5e3ced335147e968ac1b8ce77a9ce0b90876b05d9136ad06768c001021a0e2d8d380dd8d00e54ef2fae94b69e9537c6d6def958713ebb0661c73a12c019898e0917de6e31cfd7518a112524f688bfdd983ec0a702c7043a8695af73f5e32b4530d0dc54ade94bed9db8d3b87e4c318a12a01e1fbb0b68dd184faf5ee643e6c303b2c14777989085fe5d4c1bc9b17407ae7668bd0cb7d54d2c941c0e95c412a80847b9d96843664168139ede3ec69839b76120246e3f2717bbaa3e3d1713f9abc0ce77418e110e915146d6ed9f0b7ac49d977c92c26981d26f1744b86940b2409c4629593b3d194458bd426241449d50e66afbd474a61b76e2c1526a202b9691217010be51b3d5d1b773a5786eda5c5637bc4b6cb380a3708fd8f07843a7946f0ee0a16c737bfa93b613fe17e465848217429d93bad7a58d882d60f5e4c91ed23c45df351ca8c69b8360e947c1089b91e2b2cac275e2b87a6134b763705ea729e4a2a1ce9f3013a46ba2a94bf891f4872bf8ca68e9096f4c05b13efdd76edcd63d0d4660765274a8b394b3e99bc13c22ca92a9e1ca063e52d17bf96b57ffc4de0a40a8529f64ca4987a1487701cd9cf1d94f849448098afefcb17d50ba134185cd669c902cc6e9ddabdb08d30ef99dff70e6d15416ca98d200c3f29c12326872b6d236b40274b44dd239bd0455eff0d74f5aac551d25fa7267100aaeddbf4abaf64521da4adb552b45bc55ce34d41d3cca01a11971290f8fef8e30005)
-* All you need to make an oval subtraction is `border-radius: 50%;`.
-* CSS pseudo elements [do not exist in the DOM][stackoverflow 2].
-* For the geeky: `ul { list-style-type: binary; }`
-* `calc` (`calc(100% - 40px);`) works in [IE9+, prefix-free][tutorialzine].
-* [You can already][tutorialzine] use expressions like `content:attr(data-title)` for `:before` selectors that have a `data-title`.
-* Everyone except IE8 supports [multiple background images](http://caniuse.com/#feat=multibackgrounds), in the format `background:url('abc.png') repeat x y, url('def.png') repeat x y`.
-* It was apparently agreed upon that webapp buttons be used in conjunction with [a normal cursor][stackoverflow 3] instead of a hand.
-* Can't set a container's width and height based on the ratio of its background image? [Have an invisible image tag inside the container][stackoverflow 4] so the container displays its background image according to the shrunk ratio of its invisible children.
-* There is something called the [`rem` size unit][snook] in CSS3, which stands for "root em". It is the em size multiplied by its parents' size values (e.g. 10rem in a 80% parent is effective 8em)
-* [CSS triangles -- a tragedy in five acts][stackoverflow 5] (essentially, three sides of borders combined with something with neither width nor height)
-* Can you use scoped css (`<style scoped>`)? [No](http://caniuse.com/style-scoped), you cannot use scoped CSS.
-* [`:visited`][mozilla 2] can only change `color`.
-* [`:visited`][mozilla 2] cannot be read by JavaScript.
-* `transform: translate/scale/rotate/skew/matrix npx npx` and `opacity` apparently [do not trigger repaints](http://aerotwist.com/blog/pixels-are-expensive/) and are thus CPU-friendly. (This does not apply to non-px animations)
-* iOS 6/7 support `position: sticky`, which is like `fixed` except dependent on where the element is relative to the viewport.
-* IE8 and under have a 4095-CSS-selector limit in any given page.
-* There is a [`text-rendering: optimizeLegibility`](http://aestheticallyloyal.com/public/optimize-legibility/) flag that makes kerning look "normal" according to what the browser. However, page rendering is (slightly) slower, text will sometimes disappear if combined with `text-transform: small-caps`, and disappear completely in WebOS.
-* Transforms and translates [*will* mess with z-indices](http://dabblet.com/gist/2463684) by [creating a different stacking context](http://stackoverflow.com/a/10814448), so use these optimisations only when necessary.
-* `backface-visibility: hidden` means that, if you flip an object by the z-axis (revealing its back, or *backface*), the object will be hidden instead of inverted.
-* `local('☺')` means ["never use the local font"](http://stackoverflow.com/q/3698319/1558430).
-* [Uncommon selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048):
-    * `a:link` (never clicked) and `a:visited` (clicked)
-    * `div + p`: only `p`s immediately after a div
-    * `div ~ p`: only `p`s immediately before a div
-    * `a[href]`: `a`s with any `href`. See also: `a[href^="foo"]` (starts with), `a[href$="foo"]` (ends with),  `a[href*="foo"]` (anywhere), and `a[href~="foo"]` (if `href`, a space-separated value, contains `foo`).
-* [Pull and exact amount left and right opposite to each other](http://stackoverflow.com/questions/20979062/bootstrap-right-column-on-top-on-mobile-view) to have a bootstrap left column to appear at the bottom in mobile view.
-* Specificity are defined in sets; `(0,0,999,0)` (999 classes) is never greater than `(0,1,0,0)` (one id).
-* [Flexbox](http://caniuse.com/#feat=flexbox) is in fact already usable in all reasonable browsers (that is, not IE).
-* Flexbox isn't the end-all, either. It has a [known list of Flexbox bugs](https://github.com/philipwalton/flexbugs) across supported browsers that you should know about.
-* Set a dummy whose top margin is "100%" to have an element [whose height is the same as its width](http://jsfiddle.net/ansciath/B8FU8/).
-* Such a font as [OpenDyslexic](http://opendyslexic.org/) exists.
-* A [tracking](http://www.presslabs.com/blog/web-typography-for-non-designers/) of 100 is [0.1em](http://stackoverflow.com/a/10376142/1558430). Also, 1em is simply 1000.
-* Gradient generators are [discouraged](http://codepen.io/thebabydino/full/pjxVWp) because they generate `-ms-` attributes that never worked in the first place.
-* [`@font-face`](https://www.reddit.com/r/netsec/comments/3py3f2/css_based_attack_abusing_unicoderange_of_fontface/) can be used to leak characters in a secure text field. The workaround is specifying a [content security policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) whitelist.
-* [Enforce HTML semantics](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/) by only using semantic selectors.
-* A `::selection` pseudoselector may be effective against text selection on your website:
+- The original "web colours" came from [X11](https://news.ycombinator.com/item?id=20137446). Netscape literally gave the colour codes to X11, which then renders the colours. Netscape got colour support for free. "Because X11 shipped with a suite of pre-defined colour names, Netscape supported those pre-defined colour names. Because X11 supported custom colours in #RGB, #RRGGBB and #RRRRGGGGBBBB syntax, Netscape supported those too."
+- [Attributes beginning with `--`](https://stackoverflow.com/a/40055702), for example `--main-color: #000`, are custom properties used elsewhere, for example a computation. [Ionic components use custom properties](https://ionicframework.com/docs/api/menu#css-custom-properties).
+- Class names are `dash-separated` because [it allows for a selector like `[class^="foo-"]`](https://stackoverflow.com/a/20811902/1558430) to target `foo-bar`, which starts with `foo`, but not target `fooBar`, which also starts with `foo`.
+- Styling for the iPhone X basically means messing with the platform-specific [`safe-area-inset-top`](https://www.quirksmode.org/blog/archives/2017/10/safeareainset_v.html) value right after your normal rules, which will not be overridden by your `inset-` thing because it is invalid on any other platform, and is 0 on any iOS device that is not the iPhone X.
+- [`normalize.css`](https://github.com/necolas/normalize.css/blob/master/normalize.css) is a ~350 line CSS file, more than half of which are comments.
+- CSS3 has `background-size`, whose most useful values are `cover` (scaled and cropped) and `contain` (scaled to fit).
+- `text-overflow` allows [custom truncation characters][mozilla]. It is CSS3. For everything else, there's [mastercard](http://dotdotdot.frebsite.nl/).
+- Chrome doesn't support two-valued text-overflows, e.g. `clip ellipsis`.
+- Relative paths in an external CSS file is [relative to the file][stackoverflow].
+- A `:before` selector with `content: "|";` solves many problems, including stupid site menu separators.
+- Web components ([decorators][w3]): basically, js templating without the js. Dayum.
+- [The lamest jQuery UI theme](http://jqueryui.com/themeroller/#!zThemeParams=5d000001005a09000000000000003d8888d844329a8dfe02723de3e56fef6f394c7b9c2dcae86fd46a4522d8ce7f4c4ece283da2a0cd205a5a6995b4b03b22e4da76864efd1aaab86290b5d53a6638eea5899160f19f4bcf9cc97eb703db374372ecbc4a1700b03ec54426a82393ca871997be542a299753e3a7aa112a37d68de7ebc5e0a4b421336ada9f0cdc09a45691c68e44edadf588481a8e65505c2a7076fa0062595485585478461c72a8fccd5fac8e09d72ee5e48aa5c425f397e6b5fed846357fdf50e7d28ccb6874a1913279c3be3dbe13160d2d7b41dec59fc18cae93ee21deeb54f845b60a487cf3b8dfb74b6bc7267c4d1e87f17c70c918dd2f340a9414c70cd13c25e48ab39f1e8940db674f85023fc4e2453bc5d9b093c124d701b71ecf369ab48fc1b663b1d84f900bbdd2731bb82ecd40b164e5b73ce53bcda3b64cf1864c4055db6771e82d869b3ad94514879145b3c8d8f3d298d171be10dc8a272853035bb569a5790fd4a49bda81ef59f45336c712111b7b69a9b1c1f7acee9fbce612aa0fe2f2b0323a021b72fe864b5083a0f09591c02739ad82d6c4efcc02b7475532f8d9818b052c3694d4b40585d7d66cd7635542cf5e3ced335147e968ac1b8ce77a9ce0b90876b05d9136ad06768c001021a0e2d8d380dd8d00e54ef2fae94b69e9537c6d6def958713ebb0661c73a12c019898e0917de6e31cfd7518a112524f688bfdd983ec0a702c7043a8695af73f5e32b4530d0dc54ade94bed9db8d3b87e4c318a12a01e1fbb0b68dd184faf5ee643e6c303b2c14777989085fe5d4c1bc9b17407ae7668bd0cb7d54d2c941c0e95c412a80847b9d96843664168139ede3ec69839b76120246e3f2717bbaa3e3d1713f9abc0ce77418e110e915146d6ed9f0b7ac49d977c92c26981d26f1744b86940b2409c4629593b3d194458bd426241449d50e66afbd474a61b76e2c1526a202b9691217010be51b3d5d1b773a5786eda5c5637bc4b6cb380a3708fd8f07843a7946f0ee0a16c737bfa93b613fe17e465848217429d93bad7a58d882d60f5e4c91ed23c45df351ca8c69b8360e947c1089b91e2b2cac275e2b87a6134b763705ea729e4a2a1ce9f3013a46ba2a94bf891f4872bf8ca68e9096f4c05b13efdd76edcd63d0d4660765274a8b394b3e99bc13c22ca92a9e1ca063e52d17bf96b57ffc4de0a40a8529f64ca4987a1487701cd9cf1d94f849448098afefcb17d50ba134185cd669c902cc6e9ddabdb08d30ef99dff70e6d15416ca98d200c3f29c12326872b6d236b40274b44dd239bd0455eff0d74f5aac551d25fa7267100aaeddbf4abaf64521da4adb552b45bc55ce34d41d3cca01a11971290f8fef8e30005)
+- All you need to make an oval subtraction is `border-radius: 50%;`.
+- CSS pseudo elements [do not exist in the DOM][stackoverflow 2].
+- For the geeky: `ul { list-style-type: binary; }`
+- `calc` (`calc(100% - 40px);`) works in [IE9+, prefix-free][tutorialzine].
+- [You can already][tutorialzine] use expressions like `content:attr(data-title)` for `:before` selectors that have a `data-title`.
+- Everyone except IE8 supports [multiple background images](http://caniuse.com/#feat=multibackgrounds), in the format `background:url('abc.png') repeat x y, url('def.png') repeat x y`.
+- It was apparently agreed upon that webapp buttons be used in conjunction with [a normal cursor][stackoverflow 3] instead of a hand.
+- Can't set a container's width and height based on the ratio of its background image? [Have an invisible image tag inside the container][stackoverflow 4] so the container displays its background image according to the shrunk ratio of its invisible children.
+- There is something called the [`rem` size unit][snook] in CSS3, which stands for "root em". It is the em size multiplied by its parents' size values (e.g. 10rem in a 80% parent is effective 8em)
+- [CSS triangles -- a tragedy in five acts][stackoverflow 5] (essentially, three sides of borders combined with something with neither width nor height)
+- Can you use scoped css (`<style scoped>`)? [No](http://caniuse.com/style-scoped), you cannot use scoped CSS.
+- [`:visited`][mozilla 2] can only change `color`.
+- [`:visited`][mozilla 2] cannot be read by JavaScript.
+- `transform: translate/scale/rotate/skew/matrix npx npx` and `opacity` apparently [do not trigger repaints](http://aerotwist.com/blog/pixels-are-expensive/) and are thus CPU-friendly. (This does not apply to non-px animations)
+- iOS 6/7 support `position: sticky`, which is like `fixed` except dependent on where the element is relative to the viewport.
+- IE8 and under have a 4095-CSS-selector limit in any given page.
+- There is a [`text-rendering: optimizeLegibility`](http://aestheticallyloyal.com/public/optimize-legibility/) flag that makes kerning look "normal" according to what the browser. However, page rendering is (slightly) slower, text will sometimes disappear if combined with `text-transform: small-caps`, and disappear completely in WebOS.
+- Transforms and translates [_will_ mess with z-indices](http://dabblet.com/gist/2463684) by [creating a different stacking context](http://stackoverflow.com/a/10814448), so use these optimisations only when necessary.
+- `backface-visibility: hidden` means that, if you flip an object by the z-axis (revealing its back, or _backface_), the object will be hidden instead of inverted.
+- `local('☺')` means ["never use the local font"](http://stackoverflow.com/q/3698319/1558430).
+- [Uncommon selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048):
+  - `a:link` (never clicked) and `a:visited` (clicked)
+  - `div + p`: only `p`s immediately after a div
+  - `div ~ p`: only `p`s immediately before a div
+  - `a[href]`: `a`s with any `href`. See also: `a[href^="foo"]` (starts with), `a[href$="foo"]` (ends with), `a[href*="foo"]` (anywhere), and `a[href~="foo"]` (if `href`, a space-separated value, contains `foo`).
+- [Pull and exact amount left and right opposite to each other](http://stackoverflow.com/questions/20979062/bootstrap-right-column-on-top-on-mobile-view) to have a bootstrap left column to appear at the bottom in mobile view.
+- Specificity are defined in sets; `(0,0,999,0)` (999 classes) is never greater than `(0,1,0,0)` (one id).
+- [Flexbox](http://caniuse.com/#feat=flexbox) is in fact already usable in all reasonable browsers (that is, not IE).
+- Flexbox isn't the end-all, either. It has a [known list of Flexbox bugs](https://github.com/philipwalton/flexbugs) across supported browsers that you should know about.
+- Set a dummy whose top margin is "100%" to have an element [whose height is the same as its width](http://jsfiddle.net/ansciath/B8FU8/).
+- Such a font as [OpenDyslexic](http://opendyslexic.org/) exists.
+- A [tracking](http://www.presslabs.com/blog/web-typography-for-non-designers/) of 100 is [0.1em](http://stackoverflow.com/a/10376142/1558430). Also, 1em is simply 1000.
+- Gradient generators are [discouraged](http://codepen.io/thebabydino/full/pjxVWp) because they generate `-ms-` attributes that never worked in the first place.
+- [`@font-face`](https://www.reddit.com/r/netsec/comments/3py3f2/css_based_attack_abusing_unicoderange_of_fontface/) can be used to leak characters in a secure text field. The workaround is specifying a [content security policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) whitelist.
+- [Enforce HTML semantics](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/) by only using semantic selectors.
+- A `::selection` pseudoselector may be effective against text selection on your website:
 
 ```
 *::selection {
@@ -53,22 +53,22 @@
 }
 ```
 
-* `content: ...` (or any attribute, really) can be set to the [content of some other attribute](https://github.com/chinchang/hint.css/blob/master/hint.css#L65), using something like `content: attr(data-some-other-attribute);`.
-* `font-weight: strong` is not a thing. The correct alias is `font-weight: bold`.
-* Style a `<path>` with `stroke-dasharray: 5` to make it a dashed line (5px step). `5,10` would have dashes that are 10px spaced out.
-* [w3schools](http://www.w3fools.com/) says that [`pt` (in/72), `px` (in/96), and `pc` (in/6) should not be used on screen](https://www.w3schools.com/cssref/css_units.asp) because their absolute sizing means different-sized screens show them differently, and "the em and rem units are practical in creating perfectly scalable layout!"
+- `content: ...` (or any attribute, really) can be set to the [content of some other attribute](https://github.com/chinchang/hint.css/blob/master/hint.css#L65), using something like `content: attr(data-some-other-attribute);`.
+- `font-weight: strong` is not a thing. The correct alias is `font-weight: bold`.
+- Style a `<path>` with `stroke-dasharray: 5` to make it a dashed line (5px step). `5,10` would have dashes that are 10px spaced out.
+- [w3schools](http://www.w3fools.com/) says that [`pt` (in/72), `px` (in/96), and `pc` (in/6) should not be used on screen](https://www.w3schools.com/cssref/css_units.asp) because their absolute sizing means different-sized screens show them differently, and "the em and rem units are practical in creating perfectly scalable layout!"
 
 ## XPath
 
-* `//` is *root* if used at the start, or *any descendant* if used anywhere else.
-* `/` is *from anywhere* if used at the start, or *direct descendant* if used anywhere else.
-* `img[@src="wat"]` filters `img` tags by `src`. The same works for data attributes.
+- `//` is _root_ if used at the start, or _any descendant_ if used anywhere else.
+- `/` is _from anywhere_ if used at the start, or _direct descendant_ if used anywhere else.
+- `img[@src="wat"]` filters `img` tags by `src`. The same works for data attributes.
 
 ## Design
 
-* "This redesign incorporates two of the worst design trends today: *very low contrast text* and *gratuitously, obnoxiously large fixed headers.*"
-    
-    Takeaway: *Use high-contrast text*. **Don't use fixed headers**.
+- "This redesign incorporates two of the worst design trends today: _very low contrast text_ and _gratuitously, obnoxiously large fixed headers._"
+
+  Takeaway: _Use high-contrast text_. **Don't use fixed headers**.
 
 [mozilla]: https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow
 [mozilla 2]: https://blog.mozilla.org/security/2010/03/31/plugging-the-css-history-leak/

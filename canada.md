@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [It is legal for a person to be between 16 to 18 years old, and also get married with parental consent](https://en.wikipedia.org/wiki/Child_marriage#Canada). These people make child marriage legal in Canada.
 1. The Canadian equivalent to the fifth amendment ("right not to self-incriminate") is [the "right to silence"](https://en.wikipedia.org/wiki/Right_to_silence#Canada), under section 7 and [section 11(c)](https://en.wikipedia.org/wiki/Section_11_of_the_Canadian_Charter_of_Rights_and_Freedoms) of the [Canadian Charter of Rights and Freedoms](https://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms).
 1. Landshark Lager is made by the brick brewery.
 1. The Waterloo region [can](https://en.wikipedia.org/wiki/Waterloo,_Ontario#Climate) reach "feels like 50 degrees" during the summer.

@@ -1,195 +1,195 @@
 # Dictionnaire français pour des analphabètes
 
-1. **À la carte**: to the... map? card? To order menu items individually, rather than set courses.
-1. **À peu près**: more or less.
-1. **Aimer**: to like, or to love. *Je t'aime plus*: "I don't love you anymore" (if S is silent), "I love you more" (if S is not silent). Also, *aimer bien* is like, but *aimer* is love.
-1. **Aller**: to go. *Nous y allons*, *Allons-y*, *On y va*: all roughly mean "let's go".
-1. **Alors**: so/then. See *donc* for another "so/therefore". Sometimes used in itself to mean "here".
-1. **Appareil**: apparatus. [The L is silent](https://www.lawlessfrench.com/pronunciation/silent-letters/).
-1. **Appartenir**: belong (to). *Il appartient à mon oncle*: it (he) belongs to my uncle.
-1. **Arrêt**: stop.
-1. **Au moins aussi bien que**: as well as. From *au moins* "at least", *aussi bien* "equally".
-1. **Aucun**: No. [*Aucun problème*](https://www.thoughtco.com/no-in-french-1371322): no problem.
-1. **Aujourd'hui**: Today. *au + jour + de + hui*: on the day of today.
-1. **d'Abord**: First. *Viens d'abord faire tes devoirs, tu joueras ensuite*: first do your homework, then play. *Premier* also means first.
-1. **Baiser**: to fuck.
-1. **Baisser**: to lower.
-1. **Banlieue**: suburbs. *J'habite en banlieue* (no *une*): I live in the suburbs.
-1. **Bâtiment**: building. *L'extérieur du bâtiment est sale*: The exterior of the building is dirty.
-1. **Beau-pere**: step father.
-1. **Belle-soeur**: step sister.
-1. **Besoin**: need. [Sometimes follows *avoir*](https://french.kwiziq.com/revision/grammar/how-to-express-to-need-with-avoir-besoin-de) (*a / as / avons / avez*). *Les camions ont besoin d'espace*: trucks need space.
-1. **Bientôt**: soon. Literally "good [and] early". *À bientôt*: see you soon.
-1. **des Bois**: of the woods, not "of drinking".
-1. **Boire**: to drink. *Je bois*: I drink.
-1. **Bronze**: to tan. *Nous bronzons ensemble*: we tan together.
-1. **Calme**: calm.
-1. **Ça**: it. [Short for cela.](https://en.wiktionary.org/wiki/%C3%A7a) *Ça va*: it is going. *Ça va bien*: it is going well.
-1. **Cadeau**: gift. See also: *gâteau* (cake), *château* (castle), *chapeau* (hat), and *manteau* (coat).
-1. **C'est**: is used when the noun has an article (*le, la, l', un* or *une*) or a possessive before it. Say: *C'est ma femme*, not: *Elle est ma femme*.
-1. **Ce**: This. *Cet* is used if the noun starts in a vowel.
-1. **Celui**: the ones. *Et que celui qui a de quoi manger partage ce qu'il la*: and whoever has enough to eat shares what he has. Or something like that.
-1. **Chante**: sing.
-1. **Chat**: cat.
-1. **Chaque**: every. *Chaque jour*: every day.
-1. **Chaud**: hot. *Il fait chaud*: the weather is hot.
-1. **Chiffre**: digit.
-1. **Chose**: thing.
-1. **Cinquante-cinquante**: Fifty-fifty.
-1. **Client**: customer. *Cette magasin a beaucoup de clients*: this shop has a lot of customers.
-1. **Cocu**: cuckhold. *Nous [baiserons](http://www.wordsense.eu/baiser/) vos femmes et vous serez cocus*: We will fuck your wives and you will be cuckolds.
-1. **Coeur**: heart.
-1. **Confiture**: jam.
-1. **Comme**: like. *Comme ça*: like this/that.
-1. **Commence**: start. *Juin commence demain*: June starts tomorrow.
-1. **Comment**: how. *Comment t'appelles-tu*: how (comment) t' (you) appelles (call) tu (you), "how do you call yourself".
-1. **Copain**: boyfriend. [Sometimes just friend.](http://dictionary.reverso.net/french-english/copain) Use: *petit ami* when talking to old people.
-1. [**Copine**](https://www.reddit.com/r/French/comments/3r0djp/ami_vs_copain/cwjvqzs/): girlfriend. Use: *petite amie* when talking to old people.
-1. **Coq**: cock. [*Le coq sportif*](https://en.wikipedia.org/wiki/Le_Coq_Sportif): the athletic phallus.
-1. **Couches**: diapers. Pronounced KOOSH rather than whatever it is in English.
-1. **Couple**: couple, except masculine, because it ends with an E so obviously a rule like that needs exceptions. *Le couple*: the couple.
-1. **Couteau**: knife. See also: *couverts* (cutlery).
-1. **Couverts**: cutlery.
-1. [**Croire**](https://www.thoughtco.com/croire-to-believe-1370044): to believe. *J'le crois pas* (not *Je ne le crois pas*): I can't believe it.
-1. **Croissant**: crescent, or rolled-up triangles.
-1. **Écrire**: to write. [*J'écris une lettre*](https://mymemory.translated.net/en/French/English/j%27%C3%A9cris-une-lettre): I write a letter.
-1. **Cuillère**: spoon.
-1. **Demi-**: half. *Demi-frere*: step brother.
-1. **Dehors**: outside. *Oh putain, il fait froid dehors*: oh fuck it's cold outside.
-1. **Depuis**: since. *Depuis ma jeunesse, j'ai obéi à tous ces commandements*: since I was young I have obeyed all these commandments.
-1. **Difficile**: difficult. *Le français est très difficile à apprendre*: French is very difficult to learn.
-1. **Donc**: so, therefore. *Donc-quoi*: nothing. Use *et alors* ("and then") for "so what".
-1. **Douter**: to doubt. *L'homme doute*: the man doubts.
-1. **En bas**: below. See also: *en haut*, above.
-1. **En haut**: above. Note the H is completely silent. See also: *en bas*, below. *Regarder en haut*: look up.
-1. **Enfant**: child.
-1. [**Enfuir**](http://la-conjugaison.nouvelobs.com/du/verbe/s_enfuir.php): to run away/flee. *Je m'enfuis*: I run away. *Nous nous enfuyons*: we run away.
-1. **Entretien d'embauche**: job interview. ("interview of hiring")
-1. **Environ**: about. Usually used in software menus.
-1. **des Environs**: from around.
-1. **Erreur**: error. *Nous avons rejoint ce meetup par erreur*: we joined this meetup by mistake (automatic translation).
-1. **Est-ce que...**: (literally Is it that...) magic way to turn a statement into a question. Informal. *Est-ce que tu es une pomme?*: Are you an apple?
-1. [**Être**](https://en.wiktionary.org/wiki/%C3%AAtre): to be. *Vous êtes des idiots*: you are idiots.
-1. **Eux**: them. *Avec eux*: with them. (Usually not *avec ils*, "with they", it seems.)
-1. **Façon**: way. *La même façon*: the same way.
-1. **Faim**: hunger. *Avez vous faim*: Are you hungry? (Do you have hunger)
-1. **Faire**: do OR make. *Que faisons-nous*: what do we do/make?
-1. **Femme**: woman. *Ma femme*: my wife.
-1. **Fil**: wire. *Sans-fil*: wireless.
-1. **Fille**: girl. *Ma fille*: my daughter.
-1. **Fils**: son. Say with a hard S.
-1. **Foi**: faith.
-1. **Fois**: time (occurrence). See also: *temps*, time (length). *C'est ta première fois ?*: is this your first time?
-1. **Foncé**: dark. *La biere est foncée*: the beer is dark.
-1. **Fourchette**: fork.
-1. **Foyer**: home. See also: *maison*, house.
-1. [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
-1. **Fromage**: cheese. [*Omelette du fromage*](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
-1. **Fumier**: manure. *J'avais des éclairs de chez nous, de l'étable, du fumier.*
-1. **Gamins**: kids. *Nous comprenons ces gamins*: we understand these kids.
-1. **Garçons**: A Catholic church staple.
-1. **Gâteau**: cake.
-1. **Gendre**: son in law.
-1. [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. *Je te hais*: I hate you (probably).
-1. **Happy Hour**: [happy hour](https://www.collinsdictionary.com/dictionary/english-french/happy-hour). Not *l'heure d'heur*.
-1. **Haut**: high (in the height sense).
-1. **Heur**: happyness. Usually *Bonheur* or *heureuse*. *Je suis heurreux*: I am happy.
-1. **Heure**: hour.
-1. **Homme**: man. *Mon homme*: probably "my man". See *Mon mari* for "my husband".
-1. **I grec**: Y. Literally "Greek I".
-1. **Ici**: here.
-1. **d'Impôts**: taxes. *Nous sommes collecteurs d'impôts*: we are tax collectors.
-1. **Incroyable**: incredible.
-1. **Jamais**: never.
-1. **Jardin**: garden. *Elle fait un pas dans le jardin*: she steps into the garden.
-1. **Journal**: newspaper.
-1. **Jupe**: skirt.
-1. **Là**: either Here or There. [*Je suis là*](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
-1. **Laver**: to wash. *Ne te laves pas*: do not wash (take a bath).
-1. **Lire**: to read. *Nous lisons le journal*: we read the newspaper.
-1. **Lit**: bed. *Il lit au lit*: he reads in bed.
-1. **Livre**: book.
-1. **Longtemps**: long time. *Pas très longtemps*: not a very long time.
-1. **Mademoiselle**: Miss. Literally *Ma Demoiselle*, "my damsel" (unwed young woman).
-1. **Magasin**: shop.
-1. **Magazine**: magazine. See also: *journal*, newspaper.
-1. **Maître**: master. Or "teacher" if referring to Jesus.
-1. **Manger**: to eat. *Je vais te manger*: I am going to eat you.
-1. **Manquer**: to miss, or to be a lack of. *Tu me manques*: I miss you, not you miss me. Literally "You lack me". *Le manque d’eau*: the lack of water.
-1. **Marché**: market.
-1. **Marcher**: to walk.
-1. **Mari**: husband.
-1. **Médecin**: doctor. Sounds like MED-sun.
-1. **Mémoire**: memory (mind). See also: *souvenir*, also memory.
-1. **Merveilleux**: wonderful.
-1. **Mettre**: to put. *J'ai mis ma chemise*: I put on my shirt.
-1. **Miracle**: miracle, except sounds funny.
-1. **Montréal**: a city where the letter T is never pronounced.
-1. **Nots clés**: Keywords.
-1. **Mourir**: to die. *Nous allons tous mourir* (tous with hard S): we are all gonna die.
-1. **Ne**: Not. *Ne pas*: not not ("do not").
-1. **Nettoyer**: to clean.
-1. **Nouveau**: new. *Je veux voir à nouveau*: I want to see again.
-1. **On**: informal way to say **nous**. Not useful. *On va s'en sortir*: we will get out of this.
-1. **l'Ouest**: the west. *Je vais vers l'ouest*: I go towards the west.
-1. **Paix**: peace. *Je vis en paix*: I live in peace.
-1. **Parler**: to speak. *Parle-nous*: speak to us.
-1. **Partager**: to share, or to divide. The word implies sharing has an element of giving up something.
-1. **Partir**: to leave. *Je pars*: I am leaving. *Nous devons partir*: we must leave.
-1. **Partout**: everywhere, all over. *Je veux te suivre partout*: I want to follow you everywhere.
-1. **Pas**: not. *Ne pas*: not not ("do not"). Also means "step".
-1. **Passe**: pass. *Qu'est ce passe-t-il*: what is happening.
-1. **Pêcheur**: fisherman.
-1. [**Pécheur**](https://www.collinsdictionary.com/dictionary/english-french/sinner): sinner.
-1. **Personne**: no one. *Personne*: nobody. [*Une personne*](https://french.kwiziq.com/revision/grammar/how-to-say-no-one-nobody-ne-personne-negative-expressions): one person.
-1. [**Peser**](http://la-conjugaison.nouvelobs.com/du/verbe/peser.php): to weigh. *Combien tu pèses*: how much do you weigh.
-1. [**Peu**](http://dictionary.reverso.net/french-english/peu): little. *Un peu plus de lait*: a little more milk.
-1. **Pièces**: Either rooms or coins. Or whatever you feel like it should mean. [*Pièces de résistance*](https://www.merriam-webster.com/dictionary/pi%C3%A8ce%20de%20r%C3%A9sistance): the chief dish of a meal.
-1. **Poivre**: pepper. *Poivrière*: pepper shaker.
-1. [**Portables**](https://fr.wikipedia.org/wiki/Ordinateur_portable): Laptops. Outside of Canada you may need to call it an *ordinateur portables*.
-1. **Pomme**: apple.
-1. **Portefeuille**: wallet. Literally ["Door leaf"](http://www.french-linguistics.co.uk/grammar/french_spelling_reform_hyphen.shtml).
-1. **Pourquoi**: why/for what.
-1. **Pouvoir**: can/may. *Je peux aller aux toilettes*: I can go to the toilet (I'm a big boy now).
-1. **Prêt**: loan. *Avez vous besoin d'un prêt?*: Do you need [a loan](https://www.google.ca/search?q="a+loan+to+eating")?
-1. **Proche**: close/near. *la fin du Canada est proche*: the end of Canada is near.
-1. **Punis**: punish. *Ne te punis pas*: do not punish me.
-1. **Quartier**: neighbourhood or district. *Le marché du quartier*: the neighbourhood market.
-1. **Que est ce que, ce est*: [what is this that](https://en.wiktionary.org/wiki/qu%27est-ce_que#French) this is?
-1. [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From *quel que un*, "some one". *Il y a quelqu’un ici qui parle français*: Is there anyone here who speaks French.
-1. **Recevoir**: to receive. *Elle reçoit des cadeaux*: she receives gifts. *Vous recevez*: you receive.
-1. [**Réduire**](http://dictionary.reverso.net/french-english/r%C3%A9duire): to reduce.
-1. **Remercier**: to thank. *Ils la remercient*: they thank her.
-1. **Rentre**: to return. *Rentre chez toi*: go back to your house.
-1. **Repas**: a meal. *Je repas à zéro* probably means "I have a meal at zero".
-1. **Repars**: restart. *Je repars à zéro*: I restart at zero.
-1. **Reposer** to rest. *Durant la nuit, je me repose*: during the night, I rest.
-1. **Revenir**: to return. One of the conjugates is *revenue*.
-1. **Riche**: rich.
-1. **Robe**: robe, or dress.
-1. **Roi**: king. See also: *reine* (queen).
-1. **Rouge**: red.
-1. **Sauve**: to save. *Sauve-moi*: save me.
-1. [**Savoir**](http://dictionary.reverso.net/french-english/saivoir): to know. *Je sais*: I know.
-1. **Sel**: salt. *Salière*: salt shaker.
-1. **Sentir**: to sense, often by [smell](https://www.collinsdictionary.com/dictionary/english-french/smell). *Je ne me sens pas bien*: I don't feel good. *Il sent mauvais*: he smells bad. *Il sent mal*: he senses poorly.
-1. **Servir**: to serve. *Celui que commande comme celui qui sert*: the one that commands as the one that serves.
-1. **Si**: If. [Sometimes also "Yes"](https://french.yabla.com/lessons.php?lesson_id=268) only when used to contradict a *non* said by someone else. [*S'il vous plaît*](https://en.wiktionary.org/wiki/s%27il_vous_pla%C3%AEt): "if it pleases you".
-1. **Sinon**: Otherwise. Literally *si non*, "if not".
-1. **Soupe**: soup.
-1. **Souvenir**, to remember, or a (uh) souvenir. *Je ne m'en je suis pas souvenu*: I did not remember it.
-1. **Soyez prêt**: be ready.
-1. **le Sud**: the south.
-1. **Suivre**: to follow. *Suis-moi*: follow me.
-1. **-t-**: To use to invert questions whose pronouns [end with a vowel](https://www.thoughtco.com/uses-of-french-inversion-4086442). For other types of pronouns, invert as usual. *Comment va-t-il?*: How is he doing? *Ou sera-t-il*: Where will he be? **The most formal way of asking a question is to use an inversion**.
-1. **Toujours**: always. [*Toujours frais*](http://timhortons.com/ca/fr/index.php): always shit.
-1. **Tout**: all. *Tous les hommes verront le salut de Dieu*: all men will see the salvation of god.
-1. **Trésor**: treasure.
-1. **Trompe l'oeil**: optical illusion. Literally "deceive the eye.
-1. [**Truc**](https://en.wiktionary.org/wiki/truc): slang for "thing". *Qu'est ce que c'est que ce truc?*: what (the heck) is this thing? [See also](https://french.stackexchange.com/a/8112): *Qu'est-ce?*, the formal version of "what is this".
-1. **Va-t-en**: go away. Literally "Get on with you". *Va-t-en d'ici*: go away (get out) of here.
-1. **Voici**: look here. *Le voici*: "look here", not "it looks here".
-1. **Voilà**: look there. See *Alors* for similar expression.
-1. **Voir**: to see. *Je vous vois tous cornus*: I see you all horned.
-1. **Voiture**: car.
-1. **Voix**: voice. Sounds *exactly* the same as *voi* and *vois*.
+- **À la carte**: to the... map? card? To order menu items individually, rather than set courses.
+- **À peu près**: more or less.
+- **Aimer**: to like, or to love. _Je t'aime plus_: "I don't love you anymore" (if S is silent), "I love you more" (if S is not silent). Also, _aimer bien_ is like, but _aimer_ is love.
+- **Aller**: to go. _Nous y allons_, _Allons-y_, _On y va_: all roughly mean "let's go".
+- **Alors**: so/then. See _donc_ for another "so/therefore". Sometimes used in itself to mean "here".
+- **Appareil**: apparatus. [The L is silent](https://www.lawlessfrench.com/pronunciation/silent-letters/).
+- **Appartenir**: belong (to). _Il appartient à mon oncle_: it (he) belongs to my uncle.
+- **Arrêt**: stop.
+- **Au moins aussi bien que**: as well as. From _au moins_ "at least", _aussi bien_ "equally".
+- **Aucun**: No. [_Aucun problème_](https://www.thoughtco.com/no-in-french-1371322): no problem.
+- **Aujourd'hui**: Today. _au + jour + de + hui_: on the day of today.
+- **d'Abord**: First. _Viens d'abord faire tes devoirs, tu joueras ensuite_: first do your homework, then play. _Premier_ also means first.
+- **Baiser**: to fuck.
+- **Baisser**: to lower.
+- **Banlieue**: suburbs. _J'habite en banlieue_ (no _une_): I live in the suburbs.
+- **Bâtiment**: building. _L'extérieur du bâtiment est sale_: The exterior of the building is dirty.
+- **Beau-pere**: step father.
+- **Belle-soeur**: step sister.
+- **Besoin**: need. [Sometimes follows _avoir_](https://french.kwiziq.com/revision/grammar/how-to-express-to-need-with-avoir-besoin-de) (_a / as / avons / avez_). _Les camions ont besoin d'espace_: trucks need space.
+- **Bientôt**: soon. Literally "good [and] early". _À bientôt_: see you soon.
+- **des Bois**: of the woods, not "of drinking".
+- **Boire**: to drink. _Je bois_: I drink.
+- **Bronze**: to tan. _Nous bronzons ensemble_: we tan together.
+- **Calme**: calm.
+- **Ça**: it. [Short for cela.](https://en.wiktionary.org/wiki/%C3%A7a) _Ça va_: it is going. _Ça va bien_: it is going well.
+- **Cadeau**: gift. See also: _gâteau_ (cake), _château_ (castle), _chapeau_ (hat), and _manteau_ (coat).
+- **C'est**: is used when the noun has an article (_le, la, l', un_ or _une_) or a possessive before it. Say: _C'est ma femme_, not: _Elle est ma femme_.
+- **Ce**: This. _Cet_ is used if the noun starts in a vowel.
+- **Celui**: the ones. _Et que celui qui a de quoi manger partage ce qu'il la_: and whoever has enough to eat shares what he has. Or something like that.
+- **Chante**: sing.
+- **Chat**: cat.
+- **Chaque**: every. _Chaque jour_: every day.
+- **Chaud**: hot. _Il fait chaud_: the weather is hot.
+- **Chiffre**: digit.
+- **Chose**: thing.
+- **Cinquante-cinquante**: Fifty-fifty.
+- **Client**: customer. _Cette magasin a beaucoup de clients_: this shop has a lot of customers.
+- **Cocu**: cuckhold. _Nous [baiserons](http://www.wordsense.eu/baiser/) vos femmes et vous serez cocus_: We will fuck your wives and you will be cuckolds.
+- **Coeur**: heart.
+- **Confiture**: jam.
+- **Comme**: like. _Comme ça_: like this/that.
+- **Commence**: start. _Juin commence demain_: June starts tomorrow.
+- **Comment**: how. _Comment t'appelles-tu_: how (comment) t' (you) appelles (call) tu (you), "how do you call yourself".
+- **Copain**: boyfriend. [Sometimes just friend.](http://dictionary.reverso.net/french-english/copain) Use: _petit ami_ when talking to old people.
+- [**Copine**](https://www.reddit.com/r/French/comments/3r0djp/ami_vs_copain/cwjvqzs/): girlfriend. Use: _petite amie_ when talking to old people.
+- **Coq**: cock. [_Le coq sportif_](https://en.wikipedia.org/wiki/Le_Coq_Sportif): the athletic phallus.
+- **Couches**: diapers. Pronounced KOOSH rather than whatever it is in English.
+- **Couple**: couple, except masculine, because it ends with an E so obviously a rule like that needs exceptions. _Le couple_: the couple.
+- **Couteau**: knife. See also: _couverts_ (cutlery).
+- **Couverts**: cutlery.
+- [**Croire**](https://www.thoughtco.com/croire-to-believe-1370044): to believe. _J'le crois pas_ (not _Je ne le crois pas_): I can't believe it.
+- **Croissant**: crescent, or rolled-up triangles.
+- **Écrire**: to write. [_J'écris une lettre_](https://mymemory.translated.net/en/French/English/j%27%C3%A9cris-une-lettre): I write a letter.
+- **Cuillère**: spoon.
+- **Demi-**: half. _Demi-frere_: step brother.
+- **Dehors**: outside. _Oh putain, il fait froid dehors_: oh fuck it's cold outside.
+- **Depuis**: since. _Depuis ma jeunesse, j'ai obéi à tous ces commandements_: since I was young I have obeyed all these commandments.
+- **Difficile**: difficult. _Le français est très difficile à apprendre_: French is very difficult to learn.
+- **Donc**: so, therefore. _Donc-quoi_: nothing. Use _et alors_ ("and then") for "so what".
+- **Douter**: to doubt. _L'homme doute_: the man doubts.
+- **En bas**: below. See also: _en haut_, above.
+- **En haut**: above. Note the H is completely silent. See also: _en bas_, below. _Regarder en haut_: look up.
+- **Enfant**: child.
+- [**Enfuir**](http://la-conjugaison.nouvelobs.com/du/verbe/s_enfuir.php): to run away/flee. _Je m'enfuis_: I run away. _Nous nous enfuyons_: we run away.
+- **Entretien d'embauche**: job interview. ("interview of hiring")
+- **Environ**: about. Usually used in software menus.
+- **des Environs**: from around.
+- **Erreur**: error. _Nous avons rejoint ce meetup par erreur_: we joined this meetup by mistake (automatic translation).
+- **Est-ce que...**: (literally Is it that...) magic way to turn a statement into a question. Informal. _Est-ce que tu es une pomme?_: Are you an apple?
+- [**Être**](https://en.wiktionary.org/wiki/%C3%AAtre): to be. _Vous êtes des idiots_: you are idiots.
+- **Eux**: them. _Avec eux_: with them. (Usually not _avec ils_, "with they", it seems.)
+- **Façon**: way. _La même façon_: the same way.
+- **Faim**: hunger. _Avez vous faim_: Are you hungry? (Do you have hunger)
+- **Faire**: do OR make. _Que faisons-nous_: what do we do/make?
+- **Femme**: woman. _Ma femme_: my wife.
+- **Fil**: wire. _Sans-fil_: wireless.
+- **Fille**: girl. _Ma fille_: my daughter.
+- **Fils**: son. Say with a hard S.
+- **Foi**: faith.
+- **Fois**: time (occurrence). See also: _temps_, time (length). _C'est ta première fois ?_: is this your first time?
+- **Foncé**: dark. _La biere est foncée_: the beer is dark.
+- **Fourchette**: fork.
+- **Foyer**: home. See also: _maison_, house.
+- [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
+- **Fromage**: cheese. [_Omelette du fromage_](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
+- **Fumier**: manure. _J'avais des éclairs de chez nous, de l'étable, du fumier._
+- **Gamins**: kids. _Nous comprenons ces gamins_: we understand these kids.
+- **Garçons**: A Catholic church staple.
+- **Gâteau**: cake.
+- **Gendre**: son in law.
+- [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. _Je te hais_: I hate you (probably).
+- **Happy Hour**: [happy hour](https://www.collinsdictionary.com/dictionary/english-french/happy-hour). Not _l'heure d'heur_.
+- **Haut**: high (in the height sense).
+- **Heur**: happyness. Usually _Bonheur_ or _heureuse_. _Je suis heurreux_: I am happy.
+- **Heure**: hour.
+- **Homme**: man. _Mon homme_: probably "my man". See _Mon mari_ for "my husband".
+- **I grec**: Y. Literally "Greek I".
+- **Ici**: here.
+- **d'Impôts**: taxes. _Nous sommes collecteurs d'impôts_: we are tax collectors.
+- **Incroyable**: incredible.
+- **Jamais**: never.
+- **Jardin**: garden. _Elle fait un pas dans le jardin_: she steps into the garden.
+- **Journal**: newspaper.
+- **Jupe**: skirt.
+- **Là**: either Here or There. [_Je suis là_](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
+- **Laver**: to wash. _Ne te laves pas_: do not wash (take a bath).
+- **Lire**: to read. _Nous lisons le journal_: we read the newspaper.
+- **Lit**: bed. _Il lit au lit_: he reads in bed.
+- **Livre**: book.
+- **Longtemps**: long time. _Pas très longtemps_: not a very long time.
+- **Mademoiselle**: Miss. Literally _Ma Demoiselle_, "my damsel" (unwed young woman).
+- **Magasin**: shop.
+- **Magazine**: magazine. See also: _journal_, newspaper.
+- **Maître**: master. Or "teacher" if referring to Jesus.
+- **Manger**: to eat. _Je vais te manger_: I am going to eat you.
+- **Manquer**: to miss, or to be a lack of. _Tu me manques_: I miss you, not you miss me. Literally "You lack me". _Le manque d’eau_: the lack of water.
+- **Marché**: market.
+- **Marcher**: to walk.
+- **Mari**: husband.
+- **Médecin**: doctor. Sounds like MED-sun.
+- **Mémoire**: memory (mind). See also: _souvenir_, also memory.
+- **Merveilleux**: wonderful.
+- **Mettre**: to put. _J'ai mis ma chemise_: I put on my shirt.
+- **Miracle**: miracle, except sounds funny.
+- **Montréal**: a city where the letter T is never pronounced.
+- **Nots clés**: Keywords.
+- **Mourir**: to die. _Nous allons tous mourir_ (tous with hard S): we are all gonna die.
+- **Ne**: Not. _Ne pas_: not not ("do not").
+- **Nettoyer**: to clean.
+- **Nouveau**: new. _Je veux voir à nouveau_: I want to see again.
+- **On**: informal way to say **nous**. Not useful. _On va s'en sortir_: we will get out of this.
+- **l'Ouest**: the west. _Je vais vers l'ouest_: I go towards the west.
+- **Paix**: peace. _Je vis en paix_: I live in peace.
+- **Parler**: to speak. _Parle-nous_: speak to us.
+- **Partager**: to share, or to divide. The word implies sharing has an element of giving up something.
+- **Partir**: to leave. _Je pars_: I am leaving. _Nous devons partir_: we must leave.
+- **Partout**: everywhere, all over. _Je veux te suivre partout_: I want to follow you everywhere.
+- **Pas**: not. _Ne pas_: not not ("do not"). Also means "step".
+- **Passe**: pass. _Qu'est ce passe-t-il_: what is happening.
+- **Pêcheur**: fisherman.
+- [**Pécheur**](https://www.collinsdictionary.com/dictionary/english-french/sinner): sinner.
+- **Personne**: no one. _Personne_: nobody. [_Une personne_](https://french.kwiziq.com/revision/grammar/how-to-say-no-one-nobody-ne-personne-negative-expressions): one person.
+- [**Peser**](http://la-conjugaison.nouvelobs.com/du/verbe/peser.php): to weigh. _Combien tu pèses_: how much do you weigh.
+- [**Peu**](http://dictionary.reverso.net/french-english/peu): little. _Un peu plus de lait_: a little more milk.
+- **Pièces**: Either rooms or coins. Or whatever you feel like it should mean. [_Pièces de résistance_](https://www.merriam-webster.com/dictionary/pi%C3%A8ce%20de%20r%C3%A9sistance): the chief dish of a meal.
+- **Poivre**: pepper. _Poivrière_: pepper shaker.
+- [**Portables**](https://fr.wikipedia.org/wiki/Ordinateur_portable): Laptops. Outside of Canada you may need to call it an _ordinateur portables_.
+- **Pomme**: apple.
+- **Portefeuille**: wallet. Literally ["Door leaf"](http://www.french-linguistics.co.uk/grammar/french_spelling_reform_hyphen.shtml).
+- **Pourquoi**: why/for what.
+- **Pouvoir**: can/may. _Je peux aller aux toilettes_: I can go to the toilet (I'm a big boy now).
+- **Prêt**: loan. _Avez vous besoin d'un prêt?_: Do you need [a loan](https://www.google.ca/search?q="a+loan+to+eating")?
+- **Proche**: close/near. _la fin du Canada est proche_: the end of Canada is near.
+- **Punis**: punish. _Ne te punis pas_: do not punish me.
+- **Quartier**: neighbourhood or district. _Le marché du quartier_: the neighbourhood market.
+- \*_Que est ce que, ce est_: [what is this that](https://en.wiktionary.org/wiki/qu%27est-ce_que#French) this is?
+- [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From _quel que un_, "some one". _Il y a quelqu’un ici qui parle français_: Is there anyone here who speaks French.
+- **Recevoir**: to receive. _Elle reçoit des cadeaux_: she receives gifts. _Vous recevez_: you receive.
+- [**Réduire**](http://dictionary.reverso.net/french-english/r%C3%A9duire): to reduce.
+- **Remercier**: to thank. _Ils la remercient_: they thank her.
+- **Rentre**: to return. _Rentre chez toi_: go back to your house.
+- **Repas**: a meal. _Je repas à zéro_ probably means "I have a meal at zero".
+- **Repars**: restart. _Je repars à zéro_: I restart at zero.
+- **Reposer** to rest. _Durant la nuit, je me repose_: during the night, I rest.
+- **Revenir**: to return. One of the conjugates is _revenue_.
+- **Riche**: rich.
+- **Robe**: robe, or dress.
+- **Roi**: king. See also: _reine_ (queen).
+- **Rouge**: red.
+- **Sauve**: to save. _Sauve-moi_: save me.
+- [**Savoir**](http://dictionary.reverso.net/french-english/saivoir): to know. _Je sais_: I know.
+- **Sel**: salt. _Salière_: salt shaker.
+- **Sentir**: to sense, often by [smell](https://www.collinsdictionary.com/dictionary/english-french/smell). _Je ne me sens pas bien_: I don't feel good. _Il sent mauvais_: he smells bad. _Il sent mal_: he senses poorly.
+- **Servir**: to serve. _Celui que commande comme celui qui sert_: the one that commands as the one that serves.
+- **Si**: If. [Sometimes also "Yes"](https://french.yabla.com/lessons.php?lesson_id=268) only when used to contradict a _non_ said by someone else. [_S'il vous plaît_](https://en.wiktionary.org/wiki/s%27il_vous_pla%C3%AEt): "if it pleases you".
+- **Sinon**: Otherwise. Literally _si non_, "if not".
+- **Soupe**: soup.
+- **Souvenir**, to remember, or a (uh) souvenir. _Je ne m'en je suis pas souvenu_: I did not remember it.
+- **Soyez prêt**: be ready.
+- **le Sud**: the south.
+- **Suivre**: to follow. _Suis-moi_: follow me.
+- **-t-**: To use to invert questions whose pronouns [end with a vowel](https://www.thoughtco.com/uses-of-french-inversion-4086442). For other types of pronouns, invert as usual. _Comment va-t-il?_: How is he doing? _Ou sera-t-il_: Where will he be? **The most formal way of asking a question is to use an inversion**.
+- **Toujours**: always. [_Toujours frais_](http://timhortons.com/ca/fr/index.php): always shit.
+- **Tout**: all. _Tous les hommes verront le salut de Dieu_: all men will see the salvation of god.
+- **Trésor**: treasure.
+- **Trompe l'oeil**: optical illusion. Literally "deceive the eye.
+- [**Truc**](https://en.wiktionary.org/wiki/truc): slang for "thing". _Qu'est ce que c'est que ce truc?_: what (the heck) is this thing? [See also](https://french.stackexchange.com/a/8112): _Qu'est-ce?_, the formal version of "what is this".
+- **Va-t-en**: go away. Literally "Get on with you". _Va-t-en d'ici_: go away (get out) of here.
+- **Voici**: look here. _Le voici_: "look here", not "it looks here".
+- **Voilà**: look there. See _Alors_ for similar expression.
+- **Voir**: to see. _Je vous vois tous cornus_: I see you all horned.
+- **Voiture**: car.
+- **Voix**: voice. Sounds _exactly_ the same as _voi_ and _vois_.

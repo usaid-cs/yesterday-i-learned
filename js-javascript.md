@@ -2,22 +2,22 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
-1. If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never *write* ECMAScript.
-1. The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
-1. `array.slice()` (with no arguments) gives you a quick shallow copy of an array.
-1. ["Nobody loves what prettier does to their syntax. Everyone loves what prettier does to their coworkers' syntax."](https://www.reddit.com/r/javascript/comments/8as6ns/i_dont_like_prettier/dx14ag5/)
-1. 'use strict' is unnecessary inside of modules. (ESLint)
-1. Prettier (v1.17.0) outputs [spaces inside object literals](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEAzArlMMCW0AEqEEAFAJT7AA6U+hxJwAFnADasRL4DkA7hACdWAE24AaAEZcwAXzIBuGjJBiQEAA65oAZ2SgAhgIEReABUMJdKfQDcIOYSpASB+sAGs4MAMrq3OKABzZBgBdDhVJhgAW1YAdSYceG0-MDhvSyScGySAT2RwbV1VAO04ARhTV0Do-WRUfVYy1QArbQAPACFXDy9vfWi4ABkAuHrG5pA29u8AwNY4AEV0CHhxpoiQPwEygQKJfQlcjigndQEAmDiHGCZkAA4ABlVziDK413UC87hdmzHVABHFbwKoaKwgfTaAC0UDgcGECKcAjgwJwKKq+hqdSQDQ2qjK0RwITCm20cwWy1WY1xE02MEO12Et2QACZVKF9DhWHMAMIQaK1ApQaAAkDoMoAFUOVjxZRkMiAA) if the object is a one-liner. Also, ESLint looks for this.
-1. [`_.inRange`](https://github.com/lodash/lodash/issues/3147) is not inclusive on the end. `_.inRange(0.5, 0, 1)` checks `0 <= 0.5 < 1`, which is an interesting choice of inequalities.
-1. There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
-1. [Your workers cannot see your local storage.](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
-1. [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the _stack_ is empty and there is something in the _task queue_ (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.
-1. [Don't rely on setInterval for long-running tasks.](https://github.com/nodejs/node/issues/22149) They stop working after 2^31 milliseconds.
-1. jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.
-1. "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
-1. JavaScript is one of the few languages, [if not the only language](https://en.wikipedia.org/wiki/Undefined_variable#Examples), to have a concept of `undefined`, but whose result from `1/0` is `Infinity`, rather than `undefined`.
-1. The "moo" in [MooTools](https://en.wikipedia.org/wiki/MooTools) stands for "My object-oriented".
-1. npm 5.2 gets [a new "npx" thing](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that is meant to execute one-off things (like `npx create-react-app blablabla`), running something with another version of node (`npx -p node@6 something`), or execute something installed in the relative path (`npx bower`, _`npx which bower`_, `npx mocha`) without needing that PATH line.
+- If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never _write_ ECMAScript.
+- The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
+- `array.slice()` (with no arguments) gives you a quick shallow copy of an array.
+- ["Nobody loves what prettier does to their syntax. Everyone loves what prettier does to their coworkers' syntax."](https://www.reddit.com/r/javascript/comments/8as6ns/i_dont_like_prettier/dx14ag5/)
+- 'use strict' is unnecessary inside of modules. (ESLint)
+- Prettier (v1.17.0) outputs [spaces inside object literals](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEAzArlMMCW0AEqEEAFAJT7AA6U+hxJwAFnADasRL4DkA7hACdWAE24AaAEZcwAXzIBuGjJBiQEAA65oAZ2SgAhgIEReABUMJdKfQDcIOYSpASB+sAGs4MAMrq3OKABzZBgBdDhVJhgAW1YAdSYceG0-MDhvSyScGySAT2RwbV1VAO04ARhTV0Do-WRUfVYy1QArbQAPACFXDy9vfWi4ABkAuHrG5pA29u8AwNY4AEV0CHhxpoiQPwEygQKJfQlcjigndQEAmDiHGCZkAA4ABlVziDK413UC87hdmzHVABHFbwKoaKwgfTaAC0UDgcGECKcAjgwJwKKq+hqdSQDQ2qjK0RwITCm20cwWy1WY1xE02MEO12Et2QACZVKF9DhWHMAMIQaK1ApQaAAkDoMoAFUOVjxZRkMiAA) if the object is a one-liner. Also, ESLint looks for this.
+- [`_.inRange`](https://github.com/lodash/lodash/issues/3147) is not inclusive on the end. `_.inRange(0.5, 0, 1)` checks `0 <= 0.5 < 1`, which is an interesting choice of inequalities.
+- There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
+- [Your workers cannot see your local storage.](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
+- [The event loop is very simple](https://www.youtube.com/watch?v=8aGhZQkoFbQ). If the _stack_ is empty and there is something in the _task queue_ (the stuff you put in with `setTimeout` or `setInterval`), then it puts the first task in the stack, and the stack runs your task.
+- [Don't rely on setInterval for long-running tasks.](https://github.com/nodejs/node/issues/22149) They stop working after 2^31 milliseconds.
+- jQuery 3 recommends this form of ready: `jQuery(function($) { ... })`, where `$` is the jquery object for sure.
+- "[It turns out JavaScript engines are very good at iterating flat arrays and running small, highly optimized functions](https://news.ycombinator.com/item?id=14050625) and that's what Glimmer is doing at its core."
+- JavaScript is one of the few languages, [if not the only language](https://en.wikipedia.org/wiki/Undefined_variable#Examples), to have a concept of `undefined`, but whose result from `1/0` is `Infinity`, rather than `undefined`.
+- The "moo" in [MooTools](https://en.wikipedia.org/wiki/MooTools) stands for "My object-oriented".
+- npm 5.2 gets [a new "npx" thing](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that is meant to execute one-off things (like `npx create-react-app blablabla`), running something with another version of node (`npx -p node@6 something`), or execute something installed in the relative path (`npx bower`, _`npx which bower`_, `npx mocha`) without needing that PATH line.
 
 - The TC in TC39 stands for [technical committee](https://www.ecma-international.org/memento/TCs&TGs.htm). [TC39](https://www.ecma-international.org/memento/TC39.htm) happens to be the committee that works on ECMAScript.
 - If you really want to see Jesus weep, you can force `getElementById` to return multiple elements by [changing the element's id, and then calling `getElementById`, rince and repeat, until no elements by that id can be found](https://stackoverflow.com/a/3607436/1558430).

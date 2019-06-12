@@ -1,5 +1,5 @@
-1. Usually "fast flight" type strings need to be an inch longer than Dacron because they stretch less.
-1. [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
-1. "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
-1. There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
-1. > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... [continued](http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8)
+- Usually "fast flight" type strings need to be an inch longer than Dacron because they stretch less.
+- [Lars Andersen is full of shit](https://youtube.com/watch?v=rDbqz_07dW4)
+- "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
+- There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
+- > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... [continued](http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8)
