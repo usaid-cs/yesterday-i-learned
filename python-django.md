@@ -178,6 +178,7 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 - [`prop.boolean = True`](http://stackoverflow.com/questions/12842095/how-to-display-a-boolean-property-in-the-django-admin) in django admin turns the display of that method into a checkbox, rather than just saying 'True'.
 - The Django admin lists fields in the order the fields themselves are declared in your models file. For example, `class Foo: bar = ..., baz = ...` actually shows `bar` before `baz` in the admin.
 - [`list_filter` can contain `admin.(...)Filter`s](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/), not just field names.
+- An admin page's `short_description` will show only for instance methods.
 
 ## WSGI
 

@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. Raptors' NBA win in 2019 was in fact [Canada's first NBA win](https://www.theglobeandmail.com/sports/basketball/video-raptors-win-canadas-first-nba-championship/), but not the team that had won from the highest latitude---that was Oregon's [Portland Trail Blazers](https://www.cbc.ca/news/canada/toronto/we-the-north-the-raptors-slogan-mocked-by-the-portland-trail-blazers-1.2887500), at lat=45.52.
 1. [It is legal for a person to be between 16 to 18 years old, and also get married with parental consent](https://en.wikipedia.org/wiki/Child_marriage#Canada). These people make child marriage legal in Canada.
 1. The Canadian equivalent to the fifth amendment ("right not to self-incriminate") is [the "right to silence"](https://en.wikipedia.org/wiki/Right_to_silence#Canada), under section 7 and [section 11(c)](https://en.wikipedia.org/wiki/Section_11_of_the_Canadian_Charter_of_Rights_and_Freedoms) of the [Canadian Charter of Rights and Freedoms](https://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms).
 1. Landshark Lager is made by the brick brewery.
@@ -178,3 +179,4 @@
 1. According to the packaging for Prince Igor Vodka, Prince Igor lives in Grimsby Ontario.
 1. [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
 1. Telehealth is a triaging service.
+- When Jagmeet Singh won the NDP leadership race, Justin Trudeau became the oldest major party leader at 45 years old.

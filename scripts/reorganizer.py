@@ -13,7 +13,7 @@ def get_item():
     items = []
     with open('random.md', 'r') as f:
         for line in f:
-            if line.startswith('* ') or line.startswith('1.'):
+            if line.startswith('- ') or line.startswith('1.'):
                 items.append(line.strip())
     line = random.choice(list(items))
     return line
@@ -38,7 +38,7 @@ def main():
     while True:
         # This reads the file over and over but oh well
         line = get_item()
-        print(line)
+        print('\n' + line)
         new_file = input('Move to which file? Or (s)kip (d)elete e(x)it) ')
         if new_file == 's':
             continue
@@ -48,8 +48,9 @@ def main():
             remove_item(line)
         elif len(new_file) > 1:
             if not new_file.endswith('.md'):
-                print('Warning: appending .md to {}'.format(new_file))
                 new_file = new_file + '.md'
+            if not os.path.isfile(new_file):
+                print('Warning: {} does not exist; creating'.format(new_file))
             with open(new_file, 'a') as myfile:
                 myfile.write(line + '\n')
             remove_item(line)

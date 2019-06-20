@@ -31,8 +31,8 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
    which provides all references before inserting.
 - Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 - `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
-- There is such thing as a [for else][stackoverflow 2] condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
-- `for` also runs `else` if the loop is never run (e.g. has 0 items).
+- There is such thing as a [for-else][stackoverflow 2] condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
+- `for-else` also runs `else` if the loop is never run (e.g. has 0 items).
 - There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
 - [Django creates the project for you.][djangoproject]
 - Variables can be _accessed_ from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`][stackoverflow 3] to change the outer value.
@@ -117,8 +117,8 @@ for k, v in six.iteritems(d):
 - Trick from the Internet: "To automatically unpack a list containing a single item, append a trailing comma to the variable name on the left of the assignment operation."
 - Tastypie allows only GET by default. `authorization = Authorization()` is required in the `Meta` class to allow insecure PATCHes.
 - An instance's class [can be changed][stackoverflow 14] dynamically, restricted to user-defined classes only; it's unadvisable to do so regardless.
-- `if` statements do NOT have an `else` equivalent of `for...else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
-- `if` statements do NOT have any kind of `for...else`-type block that is run whenever any one or more conditions above are run.
+- `if` statements do NOT have an `else` equivalent of `for-else`, i.e. if [none of the branches are completely run](http://stackoverflow.com/q/21612910/1558430), because `if` statements don't have `break`s.
+- `if` statements do NOT have any kind of `for-else`-type block that is run whenever any one or more conditions above are run.
 - Python does not optimise tail calls.
 - `def foo(a, (b, c), d)` destructures the second tuple. (Thanks @sboparen) This is _only_ a thing in python2.
 - Django `TestCase` has a `@skip` decorator that, if added to any `def test_` methods, will disable the test. (`from django.utils.unittest.case import skip`)
@@ -506,6 +506,12 @@ bar
 - [If a class declares `__slots__`, all of its subclasses need to declare `__slots__` individually](https://stackoverflow.com/a/28059785/1558430), but only attributes introduced by that particular subclass.
 - Only python3 classes with `__slots__` defined will raise `AttributeError` when something not inside `__slots__` is assigned to it. It does not do that in python2. See also: [source](0005.py)
 - `set1.isdisjoint(set2)` is a very verbose way to check if the two sets have no common items, aka `not (set1 & set2)`. The only difference is [short-circuiting](https://stackoverflow.com/questions/45112928/python-isdisjoint-runtime). And yes, [a set is disjoint with an empty set](https://python-reference.readthedocs.io/en/latest/docs/sets/isdisjoint.html).
+- In python 2, `range()` a function. In python3, it is a class. Its instance type is `range`.
+- An [iterable](https://docs.python.org/3/glossary.html) is an object that can return its members one at a time. A "sequence" is an iterable that supports indexing. If you need to remember one thing, remember: **the `list` is the built-in sequence**. `dict`s are iterables but not sequences.
+- A generator that outputs nothing can be truthy. [There is no good way to tell if a generator is empty](https://stackoverflow.com/questions/661603/how-do-i-know-if-a-generator-is-empty-from-the-start).
+- `random.choice` cannot choose from an empty list.
+- Docstrings cannot be assigned literally. If you have a `foo = """string"""`, and a `class Bar:\nfoo`, the class does not have a docstring. You can assign it to `__doc__` though.
+- `Arrow` is not an instance of `datetime`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

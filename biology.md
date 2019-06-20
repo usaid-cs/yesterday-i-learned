@@ -1,3 +1,8 @@
+- Food pockets can lead to [tooth loss](https://www.colgate.com/en-us/oral-health/conditions/gum-disease/what-are-periodontal-pockets-0315). Colgate® recommends the  Colgate® TotalSF Advanced Deep Clean toothpaste, obviously.
+- Teeth fall out because not enough [collagen](https://en.wikipedia.org/wiki/Gingival_fibers) is holding it in.
+- Basa fillets are cheap because [basa fish eat plants](https://en.wikipedia.org/wiki/Basa_%28fish%29). Despite campaigns that suggest otherwise, people prefer Vietnamese catfish over American catfish, 3 to 1.
+- Making marijuana legal [does not](https://gizmodo.com/legal-cannabis-may-not-lower-opioid-overdose-deaths-aft-1835415788) appear to lower opioid use. You can interpret it as marijuana not being "strong enough" to contend with opioids.
+- [Domesticated animals (like pigs) are tamed animals (like elephants) that make our lives better](https://www.youtube.com/watch?v=wOmjnioNulo). There aren't many domesticated animals because they are hard to come by: doesn't kill you, cheap to feed, wants to make babies all the time. Very few animals out there have evolved to have all these exploitable traits at the same time.
 - [*Pissenlit* means "pee the bed"](https://www.cbc.ca/news/canada/manitoba/nine-interesting-facts-about-dandelions-1.3597918). Dandelion roots are highly diuretic.
 - [Human feet are dumb.](https://youtu.be/kd-FZptfGUE) The thing that was meant for grasping turns into this thing we call a foot, which doesn't grab anything, is duct-taped together by tendons to increase strength, and still hurts all the time.
 - There is [no](https://en.wikipedia.org/wiki/Whey_protein) evidence supporting whey protein being better than other kinds of protein.
@@ -922,3 +927,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 - It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).
 - *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
+- [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.

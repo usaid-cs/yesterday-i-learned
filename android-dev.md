@@ -63,3 +63,4 @@
 - You can catch fatal exceptions (they are `Throwable`s), but [they should only be caught at the topmost layer](https://softwareengineering.stackexchange.com/questions/167242/where-should-i-handle-fatal-exceptions).
 - A [`SharedPreferences`](https://developer.android.com/reference/android/content/SharedPreferences) lets you `getString()`, but it doesn't let you `putString()`. Classic Android. [You need to get the prefs' "editor" through `prefs.edit()`](https://blog.teamtreehouse.com/making-sharedpreferences-easy-with-kotlin), which _then_ has a `putString()`.
 - Android Go editions may have unexpected restrictions, such as [launching an activity from a service using the `SYSTEM_ALERT_WINDOW` permission](https://developer.android.com/preview/privacy/background-activity-starts).
+- Apparently if your device supports P, it can potentially [just boot off an image](https://developer.android.com/topic/generic-system-image) called the generic system image (GSI). YMMV.

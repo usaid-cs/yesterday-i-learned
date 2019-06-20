@@ -1,1 +1,1 @@
-* [Foo](https://your-primary-source.com/page.html)
+- [Foo](https://your-primary-source.com/page.html)

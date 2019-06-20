@@ -1,3 +1,10 @@
+- Ham radio operators call their dead pals "silent keys" (because they can no longer be heard).
+- [SAP](https://en.wikipedia.org/wiki/SAP_SE) is German. They have one employee for every five customers.
+- According to [Deviant Ollam](https://www.youtube.com/watch?v=rnmcRTnTNC8), the physical pen tester in "I'll let myself in": get security hinges or "jamb pins" to make sure a door can't be unlocked by simply taking the hinges off. Don't get IR REX sensors that unlock your door simply by a change in temperature or smoke. Have in your keychain, some keys (all legal): FEO-K1, C415A, CH751, 1284X, 16120, and 222343. Won't hurt to have a paper clip, as well.
+- To use the [RabbitMQ management interface](https://www.rabbitmq.com/management.html#permissions), you must first enable it with `(sudo) rabbitmq-plugins enable rabbitmq_management`.
+- It was [CGI](https://www.youtube.com/watch?v=WqrCnVAkLIo) that introduced the idea of invoking a script, and making it generate a response, instead of giving that file to the user. The downside was the script is *always* restarted for every request. WSGI involves running a permanent server instead, that handles these requests.
+- Eating ["lye fish"](https://en.wikipedia.org/wiki/Lutefisk) on "silver silverware" ruins the silver. Ware.
+- Smack the bottom of a milk dispenser to get the bag in.
 - Sitting on one's own hands means preventing oneself from acting on something.
 - There are [five positions](https://en.wikipedia.org/wiki/Point_guard) in a basketball team: the point guard (the "leader"), shooting guard (defender, who also happens to be responsible for three-pointers), small forward (dude on the size), power forward (blocking), and center (the most important person?).
 - The correct way to exclude files from a PyCharm search box is something like `!*test*.py`.
@@ -8,7 +15,7 @@
 - [Raped poutine](https://en.wikipedia.org/wiki/Poutine_r%C3%A2p%C3%A9e), basically mashed potato balls with pork filling, is a specific Acadian dish, not what Tim Horton's passes off as poutine.
 - The "Linus Tech Tips" opening is called [Laszlo - Supernova](https://www.youtube.com/watch?v=PKfxmFU3lWY).
 - IP ratings apply to fresh water only. In other words, your everyday smartphone has zero resistance against corrosive seawater.
-- On web frameworks, and "choosing the right framework": [* Once upon a time, we were focused on the important things - problem-solving, domain data, and business logic. But now we're almost entirely focused on abstraction, generics, and boilerplate while the important objective-related stuff that pays the bills just gets whatever scraps of time are leftover (if any).*](https://news.ycombinator.com/item?id=16725492)
+- On web frameworks, and "choosing the right framework": [*Once upon a time, we were focused on the important things - problem-solving, domain data, and business logic. But now we're almost entirely focused on abstraction, generics, and boilerplate while the important objective-related stuff that pays the bills just gets whatever scraps of time are leftover (if any).*](https://news.ycombinator.com/item?id=16725492)
 - ["Code rot resistance"](https://blog.heroku.com/the_new_heroku_4_erosion_resistance_explicit_contracts) is having your code specify the environment in which it wants to run, where the environment is what rots your code, *and* having the code specify what it does. Examples include: dependency locks like `package-lock.json` and `Gemfile`, and binding only to the ports that it declares to need.
 - If you invite someone to do something, you're supposed to plan that something.
 - No matter how convoluted it is, any UI that requires a button with a mandatory user action ought to have the [button text start with an imperative verb](https://uxmovement.com/buttons/5-rules-for-choosing-the-right-words-on-button-labels/).
@@ -677,7 +684,6 @@
 - You have github's fourth most starred repository with the ["women"](https://github.com/topics/women) tag.
 - If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, [approach in small pieces](https://www.martinfowler.com/bliki/StranglerApplication.html). And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 - The Chinese workforce call it [the 996](http://www.bbc.com/capital/story/20180508-young-chinese-are-sick-of-working-overtime): work from 9am to 9pm for 6 days a week.
-- The [last emperor of China](https://en.wikipedia.org/wiki/Puyi) 溥儀/宣統帝 looked like a normal dude. The red guards got him (indirectly) in 1967.
 - When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
 - Each "capsule" of the London Eye looks like a chicken testis.
 - The Dolly Zoom can only be achieved by the camera also moving back and forth. [People (also) tend to look better in telephoto because their faces aren't stretched by the wider lens.](https://www.youtube.com/watch?v=u5JBlwlnJX0)
@@ -1294,7 +1300,6 @@
 - You wasted around three years of your life on [Battle City](https://en.wikipedia.org/wiki/Battle_City_%28video_game%29), some tank game.
 - At least [one man](https://www.reddit.com/r/sadcringe/comments/73j53h/) in the universe has the face of a porn star tattooed on his leg.
 - Quite a few [state flags](https://i.pinimg.com/originals/2c/69/93/2c69933a9c10f32c9a09a91ad09f61d0.gif) have years on them.
-- When Jagmeet Singh won the NDP leadership race, Justin Trudeau became the oldest major party leader at 45 years old.
 - Cod also has a great fibrous texture. It shrinks a lot when cooking though (usually only a sign for overcooking, but not this fish), so it is very expensive by dry weight.
 - Not entirely sure what "colour space" means, but it would seem that [it doesn't really matter which one you pick, as long as the display is showing your content in the same colour space that you originally used to capture/create the content](https://www.anandtech.com/show/10836/the-oneplus-3t-mini-review/2). If you do that, then "the display is accurate".
 - South Korea is `.kr`. North Korea is `.kp`.
@@ -1668,7 +1673,6 @@
 - The [Anker 20100 mAh battery pack](https://www.amazon.com/dp/B00X5RV14Y/) is just six of [these](https://www.amazon.com/Panasonic-NCR18650B-3400mAh-Rechargeable-Battery-Green/dp/B00DHXY72O) NCR18650B cells packed together. If the $42 battery pack has six of these, and two of these cost $15, You can take one of those packs apart for cheap cells.
 - /r/fakenews existed before it was cool. It has nothing to do with that guy who keeps making up fake news.
 - If you can't [draw a clock](https://www.littlethings.com/brain-on-fire/?utm_source=iqx6&utm_medium=Facebook), you might [have](http://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180) [issues](http://www.alzheimersreadingroom.com/2009/12/alzheimers-clock-draw-test-detect-signs.html).
-- Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
 - The basement is cooler in the summer, and colder in the winter.
 - [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
 - Excel's SUMPRODUCT(row1, row1...) multiplies two rows together and gives you a sum. Good for weighted tallies.
@@ -1745,7 +1749,6 @@
 - To find the core value of housing in a market while in a bubble, just take the prices before the bubble, extrapolate using the inflation rate, and you'll know.
 - DON'T PUT GROUND WASP NEST ON YOUR VAGINA TO TIGHTEN MUSCLES, WARNS GYNAECOLOGIST: ["Here's a pro-tip, if something burns when you apply it to the vagina it is generally bad for the vagina" - Dr Gunter](http://www.independent.co.uk/life-style/ground-wasp-nest-vagina-tighten-warn-gynaecologist-painful-sex-bacteria-hiv-a7766376.html)
 - [Fishwives](https://en.wikipedia.org/wiki/Fishwife), also known as fish fags, are women who sell, rather than marry, fish.
-- When going to Hawaii, worry about getting hit in the head by a coconut, rather than getting bitten by a shark.
 - When [Yoshito Usui](https://en.wikipedia.org/wiki/Yoshito_Usui) (the [蠟筆小新](https://en.wikipedia.org/wiki/Crayon_Shin-chan) guy) fell off a cliff and died, the Chinese media incorrectly reported his death with the picture of [this bloke](http://www.magazine9.jp/interv/kuroda/images/photo.jpg) (黒田征太郎). More than 100 million copies of the Crayon Shin-chan manga have been sold worldwide.
 - [Noyes](https://en.wikipedia.org/wiki/Noyes) is a real name, say the Internets.
 - As of [the article](http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency)'s time of writing, AMOLED can beat IPS in efficiency (with a sample size of 2) if the screen contents are less than 60% white.
@@ -2402,7 +2405,6 @@
 - By twisted American logic, 'one half hour' means half an hour, not (one + half) hour.
 - [368,000 people drown every year](https://en.wikipedia.org/wiki/Drowning), slightly less than falling (556,000).
 - Apparently that's not enough, [1.4 million people die from car accidents each year](https://en.wikipedia.org/wiki/Traffic_collision).
-- [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
 - In Japan, crab sticks are literally ground meat ("Surimi").
 - [Design a thing before building it.](https://18f.gsa.gov/2015/11/17/choose-design-over-architecture/) Also in the link: software design tips
 - Jews call meatloaf "Klops", the German word for meatball.
@@ -2632,7 +2634,6 @@
 - [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 - `m3u8`s are `m3u`s with UTF-8 encoding.
 - When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
-- Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 - Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
 - What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
 - Dry-aged beef is typically not sold by most supermarkets (...) because it takes time and there is a significant loss of weight during the aging process.

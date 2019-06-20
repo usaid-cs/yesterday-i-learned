@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+- "Challenges are gifts that force us to search for a new center of gravity. Don't fight them, just find a new way to stand." - Oprah
 - Happiness is what happens when what you think, what you say, and what you do are the same thing.
 - /u/Festivearea2's psychiatrist, Dr Murphy: "No one gives a shit about you." He meant and explained it as, in life there are very very very few people who will be there for you all the time, and drop everything. No one cares about what you're doing because everyone is selfish. That's just how life is. Do what YOU want to do, because it's YOUR life.
 - Blogs ideally teach others what you learned, not just rambling. (But you can... it's your own blog, I'm not the police)
@@ -108,4 +109,5 @@
 - [shitty link][it is not illegal to ask interviewees if they have been *convicted* of a crime](http://www.omgfacts.com/lists/21015/If-You-re-Asked-Any-Of-These-8-Questions-In-A-Job-Interview-You-Don-t-Have-To-Answer), but illegal to ask if they have been _arrested_.
 - The story of a 17yo man and [his encounter with a girl called Monica](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
 - _Parroting_ is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
-- Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones are in the way.
+- Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones get in the way.
+- Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.

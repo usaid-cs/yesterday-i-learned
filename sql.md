@@ -1,7 +1,7 @@
 # Any SQL
 
-- `TRUNCATE some table` differs from `DELETE * FROM some table` in that the `TRUNCATE` statement does not leave behind transaction logs, and thus cannot be rolled back. (Here's a trivia you will never use again)
 - SQL is more than 40 years old and is still used today, not because it's great, but because [it just works, 90% of the time](http://blog.sqlizer.io/posts/sql-43/), makes [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) and SQL solved problems in computing.
+- `TRUNCATE some table` differs from `DELETE * FROM some table` in that ~~the `TRUNCATE` statement does not leave behind transaction logs, and thus cannot be rolled back.~~ [`TRUNCATE` requires the `TRUNCATE` privilege, fires `ON TRUNCATE` triggers rather than `ON DELETE`](https://www.postgresql.org/docs/9.1/sql-truncate.html), and does so immediately, rather than a `DELETE`, which only marks rows as deleted, to actually be deleted later by a background process. (Here's a trivia you will never use again)
 - You don't need to select any database to `SELECT 1;`. This is a poor man's way of checking if the database connection is working.
 - "Technically, PRIMARY KEY is merely a combination of UNIQUE and NOT NULL".
 - Turns out inverting values is pretty easy, even without intermediate values. `UPDATE table SET col = (CASE WHEN col = 0 THEN 1 ELSE 0 END);`
@@ -13,6 +13,7 @@
 - If you want to `UPDATE` something with values from another tables, those tables need to be declared [using `FROM tablename` after the `SET` statement](http://www.postgresqltutorial.com/postgresql-update-join/).
 - `<> NUL`, `!= NULL`, ... is actually `IS NOT NULL`.
 - [Some expert](https://www.cybertec-postgresql.com/en/a-beginners-guide-to-postgresqls-update-and-autovacuum/) suggests inserting (and no updating) partitioned tables, where the most recent one is the active record. When it comes to cleaning up, you drop the oldest table. Not sure how this works with foreign keys, or unique constraints.
+- [DDL changes the data structures, e.g. `CREATE TABLE`, `ALTER TABLE`, ...](https://stackoverflow.com/a/2578207/1558430) DML manipulates the data itself, e.g. `SELECT`, `INSERT`, ... `TRUNCATE` is DDL, while `DELETE` is DML.
 
 # MySQL
 
