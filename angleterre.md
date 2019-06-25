@@ -1,3 +1,7 @@
 - Brits call people who go on a vacation "holidaymakers", Holidaygoers would be too logical.
 - In the UK, white walking canes are for blind people, and white/red striped canes are for blind _and_ deaf people. This convention does not exist elsewhere. (Also: deaf people don't need canes.)
 - A [Continental breakfast](http://www.wisegeek.org/what-is-a-continental-breakfast.htm#didyouknowout) is called that to distinguish from English breakfast, which is also part of the continent but you know. Continental breakfasts are lighter, have less _stuff_, and are easier for hotels to prepare.
+- Raichu7 claims that suicide is illegal in England, only because police can only enter private property without a warrant if they have reason to believe a crime is being committed.
+- Baked beans are stewed. Apparently [they go on toast](https://en.wikipedia.org/wiki/Full_breakfast#England).
+- [_Annus Horribilis_](https://en.wikipedia.org/wiki/Annus_horribilis): a horrible year. The queen said it once when her daughter died.
+- The queen still sends out "how's it going commonwealth" Christmas greetings every year, [now in full HD](https://www.youtube.com/watch?v=IjTBcqpl2kc). In 2017, she talked about how she was doing the same thing six decades ago. "I didn't know that anyone had invented the term _platinum_ for a 70th wedding anniversary when I was born. You won't expect it to be around that long."

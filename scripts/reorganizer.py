@@ -6,15 +6,29 @@ import random
 import re
 from tempfile import mkstemp
 from shutil import move
+from optparse import OptionParser
 from os import fdopen, remove
+
+parser = OptionParser()
+parser.add_option('--keyword', action='store', dest='keyword',
+                  help='Reorganize only fun facts with a keyword.', default='')
+(options, args) = parser.parse_args()
+if args:
+    parser.print_help()
+    exit(1)
 
 
 def get_item():
     items = []
     with open('random.md', 'r') as f:
         for line in f:
-            if line.startswith('- ') or line.startswith('1.'):
-                items.append(line.strip())
+            if not (line.startswith('- ') or line.startswith('1.')):
+                continue
+            if not (not options.keyword or options.keyword in line.lower()):
+                continue
+            items.append(line.strip())
+    if not items:
+        return None
     line = random.choice(list(items))
     return line
 
@@ -38,6 +52,10 @@ def main():
     while True:
         # This reads the file over and over but oh well
         line = get_item()
+        if not line:
+            print('There are no facts.')
+            exit(1)
+
         print('\n' + line)
         new_file = input('Move to which file? Or (s)kip (d)elete e(x)it) ')
         if new_file == 's':

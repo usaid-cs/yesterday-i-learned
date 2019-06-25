@@ -73,7 +73,6 @@
 - Since SMS delivery is best-effort, it has a 5% probability of losing your messages. You can request a receipt on many phones now though, and presumably the phone will try again if the message is lost.
 - Do use HTTP status codes to represent the problem (i.e. don't send `200 BOOKING FAILED`). [Don't use HTTP status codes to represent specific business logic errors](https://softwareengineering.stackexchange.com/questions/341732/should-http-status-codes-be-used-to-represent-business-logic-errors-on-a-server). Some responses are meant to come with a body explaining why.
 - "Autoboxing" is the compiler understanding a primitive value (e.g. `int a = 1`) can also be interpreted as the wrapper that wraps it, i.e. [`Integer b = a`](https://stackoverflow.com/a/27647719/1558430).
-- [_Annus Horribilis_](https://en.wikipedia.org/wiki/Annus_horribilis): a horrible year. The queen said it once when her daughter died.
 - [microSD cards are deliberately designed to be different than SIM cards](https://beebom.com/heres-everything-you-need-to-know-about-nano-memory-cards/) to prevent users from getting confused. [Huawei's NanoMemory](https://www.theverge.com/circuitbreaker/2018/10/16/17985578/huawei-nano-memory-cards-nm-microsd-replacement-mate-20-pro) is deliberately designed to be the same as SIM cards.
 - "Turkish coffee", no matter what it is, tastes like _even more concentrated_ espresso.
 - On ["Any use of (non-docstring) comments is a code smell"](https://softwareengineering.stackexchange.com/q/1) and "Superfluous comment as (it) is clear from reading the code": ['Categorically defining a method or process as a "code smell" is a "zealotry smell". The term is becoming the new "considered harmful".'](https://softwareengineering.stackexchange.com/a/2787) ["If (you) feel your code is too complex to understand without comments, your code is probably just bad. Rewrite it until it doesn't need comments any more. If, at the end of that effort, you still feel comments are necessary, then by all means, add comments. Carefully."](http://www.codeodor.com/index.cfm/2008/6/18/Common-Excuses-Used-To-Comment-Code-and-What-To-Do-About-Them/2293)
@@ -641,7 +640,6 @@
 - A [euchrist](https://en.wikipedia.org/wiki/Eucharist) is just a communion.
 - [Libation](https://en.wikipedia.org/wiki/Libation) is when you offer a liquid to a god. The Egyptians had huge milk bowls for that.
 - Espresso is a pressure-derived coffee that can contain a blend of beans. Filter coffee is a gravity-derived coffee that can only contain one kind of bean. [Diluted to the same volume, filter coffee is better than americano](https://coffeeinfo.wordpress.com/americano-or-filter-coffee/).
-- Baked beans are stewed. Apparently [they go on toast](https://en.wikipedia.org/wiki/Full_breakfast#England).
 - The back of the [1p coin](https://en.wikipedia.org/wiki/Coins_of_the_pound_sterling) says penny, not pence (because pence is the plural of penny). When you have two of those pennies, you call it _tuppens_, and when you have three of them, [_thruppens_](https://en.wikipedia.org/wiki/Threepence_%28British_coin%29).
 - Gastropubs are just pubs with better food and drinks.
 - Any book containing the book of psalms can technically be called a [psalter](https://en.wikipedia.org/wiki/Psalter). Usually it requires the book of psalms to be the main book in the volume, though.
@@ -1028,7 +1026,6 @@
 - On 2012-11-07, [you won](http://www.bulletin.uwaterloo.ca/2012/nov/07we.html) what was remembered as a chocolate bar.
 - [Dolly](https://imgur.com/ZGdQJ5K) refers to camera movement along the Z axis (towards/away from the cameraman). Going from side to side is called Truck left/right.
 - The [best-selling video game](https://en.wikipedia.org/wiki/List_of_best-selling_video_games) is Tetris. Not surprising. The second best-selling video game is Minecraft. Very surprising.
-- The queen still sends out "how's it going commonwealth" Christmas greetings every year, [now in full HD](https://www.youtube.com/watch?v=IjTBcqpl2kc). In 2017, she talked about how she was doing the same thing six decades ago. "I didn't know that anyone had invented the term _platinum_ for a 70th wedding anniversary when I was born. You won't expect it to be around that long."
 - 110V water kettles boil slower than 220V water kettles, [scientists say](http://www.businessinsider.com/why-americans-dont-use-electric-kettles-stove-top-2015-12).
 - The skull in the Pirate Bay's logo is the same logo from [Home Taping Is Killing Music](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music).
 - Minute was called the "prime minute", and Second was called the "second minute". So that's where the symbols in [`0:50' 23"`](https://images-na.ssl-images-amazon.com/images/I/61YppX03DOL._SY355_.jpg) come from.
@@ -1790,7 +1787,6 @@
 - The last courses in a Chinese cuisine are usually the ones they also pack up and let you bring home.
 - Home alarm monitoring service (the thing that calls your house when someone breaks in) is useless. Thieves usually leave in 5-10 minutes. Phone calls start at 5 minutes.
 - Mr Rohit's advice to reading code is to try to understand it.
-- Raichu7 claims that suicide is illegal in England, only because police can only enter private property without a warrant if they have reason to believe a crime is being committed.
 - No one ever said the protagonists in Rick and Morty are the same Rick and Morty every episode, but the story so far has been consistent, even though [the default universe is no longer C-137](http://rickandmorty.wikia.com/wiki/Dimension_C-137).
 - [Tabling](https://en.wikipedia.org/wiki/Table_%28parliamentary_procedure%29) means "place on the side of the table" aka halt consideration in the US, or "lay on the table" aka begin consideration for everywhere else in the world. (Clarke)
 - [Ted](https://en.wikipedia.org/wiki/Ted_Cruz) is Calgarian. His names are also "Rafael Edward", Ted being short for Edward. To run for presidency, one must either be born in America, or one parent must be American.
