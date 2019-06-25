@@ -87,3 +87,4 @@
 - A [5-gram black hole](https://www.youtube.com/watch?v=8nHBGFKLHZQ&list=UUsXVk37bltHxD1rDPwtNM8Q&index=38) will emit enough hawking radiation to kill everyone around you (450TJ, like a nuclear bomb).
 - ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 - On most bikes, [the pedals never move backwards with respect to the ground](https://www.youtube.com/watch?v=72DCj3BztG4), except if the lowest gear is chosen, in which case it _might_ be possible.
+- The more alien life we find, the more likely it is for the great filter to be [ahead of us](https://www.youtube.com/watch?v=UjtOGPJ0URM), something that destroys all civilisations. Us not finding any alien life means _we might have passed the great filter_.

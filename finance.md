@@ -1,3 +1,4 @@
+- [The average tech guy in Toronto earns $100k a year](https://www.theglobeandmail.com/business/careers/article-tech-salary-growth-in-toronto-outpaces-most-global-hubs/). That is lower than global averages.
 - A [double-entry bookkeeping system](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system) insists that money has to go from one place to another. Every dollar has to come from somewhere, and go somewhere. That way if you try to do "rounding error"-type tricks, one side (either you or the store) will get less money.
 - Holding cash pro: purchasing power. Holding cash con: inflation.
 - When investing, doing nothing is sometimes, maybe even often, doing the right thing.
@@ -42,3 +43,4 @@
 - Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 - 套現 is literally "cash out".
 - "Drop by 1% everyday" has a lower bound. "Rise by 1% everyday" does not. A 1% drop after a 1% rise results in less than before.
+- Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.

@@ -1,3 +1,4 @@
+- Aspirin (acetylsalicylic acid) [does not remove stains from clothes](https://www.mcgill.ca/oss/article/can-aspirin-help-remove-stains-and-keep-your-whites-white). Use bleach. Don't waste your money.
 - Gold comes straight from the sun, so it is older than the Earth.
 - Contrary to [popular belief], [shade balls in reservoirs do not reduce evaporation](https://www.youtube.com/watch?v=uxPdPpi5W4o). These _black_ balls (first hint that it isn't for _reducing_ evaporation) block light from turning aqueous "bromide" (Br-) and "chlorine" (Cl2) into "bromate" (BrO3-), which is carcinogenic. (No... the equations don't balance.) The black balls do absorb more energy than just water, but the balls contain air, which is a heat insulator. Even though these balls are black, they reduce reservoir evaporation by 80%.
 - Brass knobs that are shiny are lacquered, making them useless at [disinfection](https://en.wikipedia.org/wiki/Oligodynamic_effect).

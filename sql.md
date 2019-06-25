@@ -14,6 +14,7 @@
 - `<> NUL`, `!= NULL`, ... is actually `IS NOT NULL`.
 - [Some expert](https://www.cybertec-postgresql.com/en/a-beginners-guide-to-postgresqls-update-and-autovacuum/) suggests inserting (and no updating) partitioned tables, where the most recent one is the active record. When it comes to cleaning up, you drop the oldest table. Not sure how this works with foreign keys, or unique constraints.
 - [DDL changes the data structures, e.g. `CREATE TABLE`, `ALTER TABLE`, ...](https://stackoverflow.com/a/2578207/1558430) DML manipulates the data itself, e.g. `SELECT`, `INSERT`, ... `TRUNCATE` is DDL, while `DELETE` is DML.
+- A ["columnar database"](https://searchdatamanagement.techtarget.com/definition/columnar-database) is just a database with rows and columns transposed. Word has it that aggregation is much faster to do (becausse if your columns are rows, a single "row" contains all your values). It is not clear how that's any different from selecting a single column from your everyday [RDBMS](https://en.wikipedia.org/wiki/Relational_database), with or without vertical partitioning.
 
 # MySQL
 

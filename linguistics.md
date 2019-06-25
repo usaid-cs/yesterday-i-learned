@@ -1,3 +1,4 @@
+- Given the word "developer" [originates](https://en.wiktionary.org/wiki/develop) from old French *vloper* "to wrap", your job is the same as that of a Burrito Boyz employee.
 - ["Compulsory"](https://www.quora.com/Mandatory-compulsory-obligatory-essential-necessary-required-For-what-situations-are-each-if-these-words-best-suited) is a requirement that came from higher up. Compulsory: the government told you. Mandatory: your company told you. Obligatory: you told yourself. Essential: common sense told you.
 - WTF? "Upend" is really "up end"?
 - [_Mandarin_](https://en.wikipedia.org/wiki/Mandarin_Chinese) came from Portuguese _mandarim_, from Malay _menteri_, from Sanskrit _mantrin_, originally meant an official from the Ming and Qing dynasties.

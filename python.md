@@ -512,6 +512,10 @@ bar
 - `random.choice` cannot choose from an empty list.
 - Docstrings cannot be assigned literally. If you have a `foo = """string"""`, and a `class Bar:\nfoo`, the class does not have a docstring. You can assign it to `__doc__` though.
 - `Arrow` is not an instance of `datetime`.
+- [pydocstyle](https://github.com/PyCQA/pydocstyle) has a rule, [D401](http://www.pydocstyle.org/en/stable/error_codes.html), that says examples from [PEP 257](https://www.python.org/dev/peps/pep-0257/) are invalid. All docstrings need to start with a verb in imperative mood, even for functions that return a boolean.
+- To run a script in a virtualenv, you just need to run it with _that_ python (usually `~/virtualenvs/blah/bin/python`). You can even put it in the script's shebang if it doesn't need to be portable.
+- [Adding `Counter()` to another `Counter()`](https://docs.python.org/2/library/collections.html#collections.Counter) removes all zeros and negative counts.
+- [`json` raises `ValueError` but `simplejson` raises `JSONDecodeError`](https://stackoverflow.com/questions/712791/what-are-the-differences-between-json-and-simplejson-python-modules#comment20589523_712799), which is a subclass of `ValueError`. To be compatible with both (if that's your goal) you can only catch `ValueError`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

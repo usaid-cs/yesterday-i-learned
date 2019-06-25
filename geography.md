@@ -46,3 +46,4 @@
 - [Lake Kivu](https://en.wikipedia.org/wiki/Lake_Kivu) blows up from underwater CO2 pressure every thousand-or-so years, suffocating and killing everything around it. "Around the lake, geologists found evidence of massive biological extinctions about every thousand years, presumably caused by outgassing events."
 - Easter Island belongs to Chile ("annexed in 1888"). It is at the middle of ~~nowhere~~ the Pacific ocean.
 - Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
+- 九龍仔, 九龍塘, 九龍灣, and 九龍城 are all in Kowloon, but 九龍坑 is not.

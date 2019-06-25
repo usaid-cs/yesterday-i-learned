@@ -1,5 +1,8 @@
 ![](https://imgur.com/AGoopEY)
 
+1. If you make about [300 kCAD/year](https://www.huffingtonpost.ca/2018/03/14/top-one-per-cent-canada_a_23385825/), you are the top 1%. (Stats Canada says it's 400k, while HuffPost says it's 300k. Either way, since you work for free, you aren't the top 1%.)
+1. Women can (also) legally be topless in public in the Waterloo region.
+1. [Bombardier's founder invented the snowmobile](https://en.wikipedia.org/wiki/Bombardier_Inc.). His name? [Bombardier](https://en.wikipedia.org/wiki/Joseph-Armand_Bombardier).
 1. Raptors' NBA win in 2019 was in fact [Canada's first NBA win](https://www.theglobeandmail.com/sports/basketball/video-raptors-win-canadas-first-nba-championship/), but not the team that had won from the highest latitude---that was Oregon's [Portland Trail Blazers](https://www.cbc.ca/news/canada/toronto/we-the-north-the-raptors-slogan-mocked-by-the-portland-trail-blazers-1.2887500), at lat=45.52.
 1. [It is legal for a person to be between 16 to 18 years old, and also get married with parental consent](https://en.wikipedia.org/wiki/Child_marriage#Canada). These people make child marriage legal in Canada.
 1. The Canadian equivalent to the fifth amendment ("right not to self-incriminate") is [the "right to silence"](https://en.wikipedia.org/wiki/Right_to_silence#Canada), under section 7 and [section 11(c)](https://en.wikipedia.org/wiki/Section_11_of_the_Canadian_Charter_of_Rights_and_Freedoms) of the [Canadian Charter of Rights and Freedoms](https://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms).
@@ -180,3 +183,7 @@
 1. [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
 1. Telehealth is a triaging service.
 - When Jagmeet Singh won the NDP leadership race, Justin Trudeau became the oldest major party leader at 45 years old.
+- Thomas Chapais on [Je me souviens](https://en.wikipedia.org/wiki/Je_me_souviens): "Yes, we remember. We remember the past and its lessons, the past and its misfortunes, the past and its glories," sort of like "lest we forget."
+- UBC has a campus newspaper called [The Ubyssey](https://www.ubyssey.ca/), and no one could top it.
+- Marrying a native [North] American man for tax credit is [not really worth it](http://www.cbc.ca/news/business/taxes/first-nations-pay-more-tax-than-you-think-1.2971040), particularly if for tax credit alone. You also have to suffer the consequences of marrying a man (if you are heterosexual). Said native man also loses the perpetual tax exemption if he marries a non-native man (or other hipster kins, such as women).
+- Kathleen [O'Day](https://en.wikipedia.org/wiki/Kathleen_Wynne) "0-day" Wynne was the first LGBT premier to sell off Hydro One.

@@ -1,0 +1,3 @@
+- Brits call people who go on a vacation "holidaymakers", Holidaygoers would be too logical.
+- In the UK, white walking canes are for blind people, and white/red striped canes are for blind _and_ deaf people. This convention does not exist elsewhere. (Also: deaf people don't need canes.)
+- A [Continental breakfast](http://www.wisegeek.org/what-is-a-continental-breakfast.htm#didyouknowout) is called that to distinguish from English breakfast, which is also part of the continent but you know. Continental breakfasts are lighter, have less _stuff_, and are easier for hotels to prepare.

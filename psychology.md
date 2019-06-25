@@ -22,3 +22,6 @@
 - Even when [pretending to play the piano](http://steponerehab.com/how-you-can-rewire-your-brain/), the group had motor skills improve despite not having played the piano. This shows the brain's mental training has the ability to change the physical properties of itself.
 - "Fear of losing something" is why free trials work (on normal people). You give them something for free. They are so scared of having it taken away from them that they will pay to keep it.
 - [People view losses around twice as important as wins](https://www.youtube.com/watch?v=vBX-KulgJ1o). This is called loss aversion. That means people don't tend to take risks to engage in a series of wins that are 1.9x more likely. Lesson: take risks even if you think (not you know) are 1:1 likely to lose.
+- Referral programs work only if it makes the referrer _feels smart_ about sharing a deal.
+- If you want to control someone, [look at her forehead](https://m.imgur.com/gallery/HAn3e). If you want to marry someone, make sure she's a female (or whatever), then look at her chin.
+- None of the people who successfully committed suicide report regretting their decision. This is called suvivorship bias.

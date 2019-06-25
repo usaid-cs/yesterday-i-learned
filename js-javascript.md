@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+- "JavaScript legend Douglas Crockford once said that [monads are cursed -- that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
 - If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never _write_ ECMAScript.
 - The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
 - `array.slice()` (with no arguments) gives you a quick shallow copy of an array.

@@ -1,5 +1,7 @@
 "Yesterday I learned how to live."
 
+- For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
+- "Empty your mind, be formless, shapeless - like water. Now you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend." - Bruce Lee, in a show called "Longstreet"
 - "Challenges are gifts that force us to search for a new center of gravity. Don't fight them, just find a new way to stand." - Oprah
 - Happiness is what happens when what you think, what you say, and what you do are the same thing.
 - /u/Festivearea2's psychiatrist, Dr Murphy: "No one gives a shit about you." He meant and explained it as, in life there are very very very few people who will be there for you all the time, and drop everything. No one cares about what you're doing because everyone is selfish. That's just how life is. Do what YOU want to do, because it's YOUR life.
@@ -111,3 +113,5 @@
 - _Parroting_ is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
 - Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones get in the way.
 - Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
+- [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you _don't_ have to pay them.
+- ["The nice thing about IKEA is that you pretty much get what you pay for."](https://www.quora.com/How-easily-does-IKEA-furniture-fall-apart)

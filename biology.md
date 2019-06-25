@@ -1,3 +1,6 @@
+- To improve sleep, not only do you need to reduce light exposure during the night, you also need to [increase light exposure during the day](https://www.healthline.com/nutrition/17-tips-to-sleep-better#section1). Other tips: nap no more than 30 minutes during the day. Exercise during the day. Eat carbs four hours before bed but don't eat anything right before bed. Don't drink at night. Take 2mg of melatonin an hour before bed (and drink water at the same time, I suppose).
+- Human flesh is very sweet [^1](https://www.youtube.com/watch?v=vw_tClcS6To) [^2](http://www.huffingtonpost.com/2014/04/29/what-does-human-taste-like_n_5233724.html)
+- See also: humans should not eat humans, because diseases can transmit freely between members of the same species.
 - Food pockets can lead to [tooth loss](https://www.colgate.com/en-us/oral-health/conditions/gum-disease/what-are-periodontal-pockets-0315). Colgate® recommends the  Colgate® TotalSF Advanced Deep Clean toothpaste, obviously.
 - Teeth fall out because not enough [collagen](https://en.wikipedia.org/wiki/Gingival_fibers) is holding it in.
 - Basa fillets are cheap because [basa fish eat plants](https://en.wikipedia.org/wiki/Basa_%28fish%29). Despite campaigns that suggest otherwise, people prefer Vietnamese catfish over American catfish, 3 to 1.
@@ -928,3 +931,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).
 - *Coprinopsis atramentaria*, a kind of mushroom, is toxic only when alcohol is ingested at the same time.
 - [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
+- Blood THC level does not strongly correlate with impairment. Detecting THC in the blood means almost nothing when it comes to how well a person drives.
+- To maximise the effects of your completely legal marijuana, [supposedly](https://forum.grasscity.com/threads/first-pass-metabolism-why-its-not-working.685049/) you should: neither undereat nor overeat, eat greasy foods, not drink anything sweet, and drink alcohol instead.

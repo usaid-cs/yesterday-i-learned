@@ -31,6 +31,7 @@
 - `PROTECT` in `FK(foo, on_delete=PROTECT)` is supposed to mean "if you want to delete that foo, you must first delete every object referencing it".
 - `OneToOneField` is a subclass of `ForeignKey`, so the schema _should not_ change if you change between the two.
 - There wasn't a real reason for handling cascade deletes in Django (code) rather than the DB (data) other than that [it happened](https://stackoverflow.com/a/32793838/1558430).
+- [Abstract `related_name` can contain string substitutes](https://docs.djangoproject.com/en/dev/topics/db/models/#be-careful-with-related-name-and-related-query-name) like `%(class)s` (the class name of a subclassed model) and `%(app_label)s` (the app of the subclassed model).
 
 ### [`blank=True` or `null=True`](http://stackoverflow.com/a/8609425)?
 
@@ -57,6 +58,7 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 - [Django-pandas](https://github.com/chrisdev/django-pandas/) does exactly what you think it'd do: convert a queryset into a dataframe. Basically, you are working with tables.
 - It is [not possible](https://stackoverflow.com/questions/21439031/django-f-expressions-joined-field?lq=1) to write an update statement based on `F(a__nested__field)`.
 - `shell_plus` has a [`shell_plus --print-sql`](https://stackoverflow.com/a/31450706/1558430) option, which allows you to steal the query from an update().
+- You can't `.first().values_list(...)` (because `.first()` converts the thing into an instance), but you can `.values_list(...).first()`.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
