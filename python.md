@@ -516,6 +516,7 @@ bar
 - To run a script in a virtualenv, you just need to run it with _that_ python (usually `~/virtualenvs/blah/bin/python`). You can even put it in the script's shebang if it doesn't need to be portable.
 - [Adding `Counter()` to another `Counter()`](https://docs.python.org/2/library/collections.html#collections.Counter) removes all zeros and negative counts.
 - [`json` raises `ValueError` but `simplejson` raises `JSONDecodeError`](https://stackoverflow.com/questions/712791/what-are-the-differences-between-json-and-simplejson-python-modules#comment20589523_712799), which is a subclass of `ValueError`. To be compatible with both (if that's your goal) you can only catch `ValueError`.
+- To make an ordered counter (a blend of `Counter()` and `OrderedDict()`), you [really](https://stackoverflow.com/a/35448557/1558430) make `class OrderedCounter(Counter, OrderedDict)`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

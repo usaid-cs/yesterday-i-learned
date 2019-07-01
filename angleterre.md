@@ -5,3 +5,7 @@
 - Baked beans are stewed. Apparently [they go on toast](https://en.wikipedia.org/wiki/Full_breakfast#England).
 - [_Annus Horribilis_](https://en.wikipedia.org/wiki/Annus_horribilis): a horrible year. The queen said it once when her daughter died.
 - The queen still sends out "how's it going commonwealth" Christmas greetings every year, [now in full HD](https://www.youtube.com/watch?v=IjTBcqpl2kc). In 2017, she talked about how she was doing the same thing six decades ago. "I didn't know that anyone had invented the term _platinum_ for a 70th wedding anniversary when I was born. You won't expect it to be around that long."
+- [London Bridge in 1682 had loads of buildings on it.](https://en.wikipedia.org/wiki/London_Bridge) The bridge was demolished more often than it was collapsed.
+- Londoners eat what they call [jellied eels](https://en.wikipedia.org/wiki/Jellied_eels), as eels are cheap, nutritious, and all over River Thames.
+- London airports: London City (east) Heathrow (west), Gatwick (south), Stansted (northeast), Luton (northwest). You rarely get London City airport flights because its runway(s) are too narrow for wide-body planes.
+- Each "capsule" of the London Eye looks like a chicken testis.

@@ -1,5 +1,6 @@
 "Yesterday I learned how to live."
 
+- You can't blame your parents (or the boomers) for everything: "... the final forming of a person's character lies in their own hands" - Anne Frank
 - For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 - "Empty your mind, be formless, shapeless - like water. Now you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend." - Bruce Lee, in a show called "Longstreet"
 - "Challenges are gifts that force us to search for a new center of gravity. Don't fight them, just find a new way to stand." - Oprah

@@ -1,3 +1,4 @@
+- iPad OS treats mice as an assistive touch accessory. Since its job is to emulate a finger, it does not handle scrolling or right clicking.
 - Siri came _before_ Google Assistant.
 - [Lenovo's daughter had a MacBook, iPad, and iPhone when she was arrested.](https://www.theverge.com/tldr/2019/3/22/18278086/huawei-meng-wanzhou-had-a-macbook-iphone-and-ipad-when-she-was-arrested)
 - Your iOS app needs to be approved for _beta testing_.

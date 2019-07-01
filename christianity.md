@@ -1,3 +1,4 @@
+- There are many covenants ("agreements"). The one that they talked about in the old testament, was about [offerings](https://www.mechon-mamre.org/p/pt/pt0220.htm#22) in exchange for getting the people out of Egypt.
 - The Vatican ruled that [their daily bread must contain at least some gluten](https://www.rt.com/viral/395810-gluten-free-holy-bread/), just as their wine must be made from unsoured grapes, both for reasons they can probably explain.
 - The [Criterion of embarrassment][wikipedia 129] says that the author (God/Jesus) wouldn't write something embarrassing about himself, therefore the Bible's accounts are probably true.
 - God didn't tell anyone to ["be fruitful and multiply"](https://en.wikipedia.org/wiki/Cultural_mandate) when the Earth had seven bilion people in it.

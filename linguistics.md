@@ -1,3 +1,5 @@
+- Among four (!) theories why "things" are called [东西](https://baike.baidu.com/item/%E4%B8%9C%E8%A5%BF/26739) ("east-west") instead of any other thing, such as south-north, there is one that says east-west corresponds to wood and gold, which can be bought; and south-north corresponds to fire and water, which, for some reason, cannot be bought. Another theory is that it's just a shortened version of 东西南北中, which contextually carries a meaning of "everything".
+- "Gaang6 du1" is actually 戆大 in Shanghainese.
 - Given the word "developer" [originates](https://en.wiktionary.org/wiki/develop) from old French *vloper* "to wrap", your job is the same as that of a Burrito Boyz employee.
 - ["Compulsory"](https://www.quora.com/Mandatory-compulsory-obligatory-essential-necessary-required-For-what-situations-are-each-if-these-words-best-suited) is a requirement that came from higher up. Compulsory: the government told you. Mandatory: your company told you. Obligatory: you told yourself. Essential: common sense told you.
 - WTF? "Upend" is really "up end"?

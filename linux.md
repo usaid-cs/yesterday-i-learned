@@ -279,6 +279,8 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - Sort files in a directory, not by size, but by lines inside: `wc -l * | sort -n`
 - Bash string variables are multiline by default.
 - If you are completely certain a pattern exists, you can technically fudge-cd using `cd "$(ls -1 | grep pattern)"`. Perhaps not safe to use in directories that contains a file called `robert; rm -rf ~`.
+- Remove lines in a file with `sed -i '/foo/d' file` (`-i` being inline; you don't need to use it').
+- `ssh -f ...` is like `ssh ... &` (a fork), except it goes to the background only after it connects, allowing you to enter passwords and other things if you need to.
 
 ## Tmux
 
