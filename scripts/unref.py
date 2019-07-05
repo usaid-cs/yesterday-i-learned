@@ -10,7 +10,7 @@ from os import fdopen, remove
 
 
 def get_lines():
-    with open('js-javascript.md', 'r') as f:
+    with open('linux.md', 'r') as f:
         return [line for line in f]
 
 
@@ -26,7 +26,7 @@ def get_link(lines, ref):
 
 def main():
     lines = get_lines()
-    with open('js-javascript.md', 'w') as f:
+    with open('linux2.md', 'w') as f:
         for line in lines:
             if line.startswith('[') and ']:' in line:
                 continue

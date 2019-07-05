@@ -1,3 +1,8 @@
+- Oleuropein in olives make them bitter and hard to eat. "In the wild, olives are dispersed by birds, who avoid the bitterness issue by swallowing them whole."
+- Since facial recognition works less well on dark-skinned people (good), [they get checked more often in airports](https://www.wired.com/story/opt-out-of-facial-recognition-at-the-airport/) (bad).
+- Spinal adjustments [may not](https://nationalpost.com/news/this-hurts-babies-doctors-alarmed-at-weekend-courses-teaching-chiropractors-how-to-adjust-newborn-spines) be performed on babies.
+- [Radiosynthesis](https://en.wikipedia.org/wiki/Radiosynthesis_%28metabolism%29) is absorbing ionising radiation as an energy source. Sunlight (the visible spectrum) is not ionising radiation, but UV is; Chernobyl stuff is; cosmic rays are as well. Some high-altitude fungi are [radiotrophs](https://en.wikipedia.org/wiki/Radiotrophic_fungus).
+- Drinking hot liquids often causes [esophageal stricture](https://en.wikipedia.org/wiki/Esophageal_stricture), narrowing of the oesophagus. It also eventuawlly causes cancer there.
 - To improve sleep, not only do you need to reduce light exposure during the night, you also need to [increase light exposure during the day](https://www.healthline.com/nutrition/17-tips-to-sleep-better#section1). Other tips: nap no more than 30 minutes during the day. Exercise during the day. Eat carbs four hours before bed but don't eat anything right before bed. Don't drink at night. Take 2mg of melatonin an hour before bed (and drink water at the same time, I suppose).
 - Human flesh is very sweet [^1](https://www.youtube.com/watch?v=vw_tClcS6To) [^2](http://www.huffingtonpost.com/2014/04/29/what-does-human-taste-like_n_5233724.html)
 - See also: humans should not eat humans, because diseases can transmit freely between members of the same species.
@@ -933,3 +938,10 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Pterosaurs](https://en.wikipedia.org/wiki/Pterosaur) are not dinosaurs. They may be lizards, but they are parallel with dinosaurs.
 - Blood THC level does not strongly correlate with impairment. Detecting THC in the blood means almost nothing when it comes to how well a person drives.
 - To maximise the effects of your completely legal marijuana, [supposedly](https://forum.grasscity.com/threads/first-pass-metabolism-why-its-not-working.685049/) you should: neither undereat nor overeat, eat greasy foods, not drink anything sweet, and drink alcohol instead.
+- Fake cheeses are orange because [it was once the trait that healthy cows make carotene-rich milk](http://www.onebigfluke.com/2013/12/dyeing-cheese-orange-beware-of.html). (The article itself is also interesting.)
+- [People chronically on blood thinners might not be able to own cats.](http://pets.webmd.com/cats/guide/declawing-cats-positives-negatives-alternatives#2) Bacteria on claws.
+- [This one guy on the Internet](https://www.reddit.com/r/WTF/comments/4grnx9/bee_removes_nail_to_get_into_wall/d2k6swz) claims that [bees undo nails](http://i.imgur.com/AJoxtZi.gifv) all the time.
+- [Pomskies](https://animalso.com/breeds/pomsky/) are tiny huskies bred from normal huskies and tiny [Pomeranians](http://www.akc.org/dog-breeds/pomeranian/). According to the pomsky page, being cute is all it does.
+- Hair grown to deliberately irritate is called [Urticating hair](http://en.wikipedia.org/wiki/Urticating_hair).
+- [For best results](https://blog.cardiogr.am/2016/02/12/do-you-really-need-10000-steps-a-day-2/), do 45 minutes of high-intensity exercise per _week_. Benefits plateau beyond that.
+- Dyslexia is genetic.

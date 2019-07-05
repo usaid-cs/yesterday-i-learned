@@ -9,3 +9,5 @@
 - Londoners eat what they call [jellied eels](https://en.wikipedia.org/wiki/Jellied_eels), as eels are cheap, nutritious, and all over River Thames.
 - London airports: London City (east) Heathrow (west), Gatwick (south), Stansted (northeast), Luton (northwest). You rarely get London City airport flights because its runway(s) are too narrow for wide-body planes.
 - Each "capsule" of the London Eye looks like a chicken testis.
+- The UK charges [5 levels of VAT](https://en.wikipedia.org/wiki/Value-added_tax_in_the_United_Kingdom), from 20% (your usual amount) to [two kinds of 0%](http://www.taxpolicycenter.org/briefing-book/what-difference-between-zero-rating-and-exempting-good-vat), "zero-rated" and "exempt", having no difference for the consumer.
+- The Big Ben is also leaning over.

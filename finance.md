@@ -1,3 +1,4 @@
+- **Sales are proof-of-concept**. Sales are the fact that you can make up your opinion, but you can't make up your own facts. Your opinion is, "I think I have something." **Sales is, "I know I have something."** - Daymond, same kind of shark
 - [The average tech guy in Toronto earns $100k a year](https://www.theglobeandmail.com/business/careers/article-tech-salary-growth-in-toronto-outpaces-most-global-hubs/). That is lower than global averages.
 - A [double-entry bookkeeping system](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system) insists that money has to go from one place to another. Every dollar has to come from somewhere, and go somewhere. That way if you try to do "rounding error"-type tricks, one side (either you or the store) will get less money.
 - Holding cash pro: purchasing power. Holding cash con: inflation.
@@ -44,3 +45,5 @@
 - 套現 is literally "cash out".
 - "Drop by 1% everyday" has a lower bound. "Rise by 1% everyday" does not. A 1% drop after a 1% rise results in less than before.
 - Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
+- [Insolvency](https://en.wikipedia.org/wiki/Insolvency) (inability to pay back) happens before you really go bankrupt. Because you can have a house and not \$10 at the same time, you can be very rich and still _cash-flow insolvent_.
+- [Apparently](https://www.reddit.com/r/AskReddit/comments/3y6hbd/what_is_totally_worth_its_risk/cyb3z33), as you grow/age, you are supposed to move to more stable investments.

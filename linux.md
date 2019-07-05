@@ -1,5 +1,6 @@
-![Dilbert][imgur]
+![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- Convert youtube to mp3 without relying on anyone else: get `youtube-dl` from pip (`sudo pip install -U youtube-dl`), NOT your package manager. Then get the file with `youtube-dl -x --embed-thumbnail --audio-format mp3 https://www.youtube.com/watch?v=foobarbazqux`.
 - Find largest files: [`sudo du -a / 2>/dev/null | sort -n -r | head -n 20`](https://www.cyberciti.biz/faq/linux-find-largest-file-in-directory-recursively-using-find-du/). There is no way around needing the stderr redirect.
 - To find and delete files older than (say 5) days, use [`find whatever*pattern -mtime +5 -exec rm {} \;`](https://askubuntu.com/questions/589210/removing-files-older-than-7-days/589224). No one will tell you [why the `\;` (space and all) is required](https://unix.stackexchange.com/questions/12902/how-to-run-find-exec).
 - `grep -E` is extended regex. `grep -P` is Perl's regex. You can't use both at the same time. Also `-E -e [expression]` can be used multiple times if you want to multiple any of these patterns.
@@ -61,10 +62,10 @@
 - `git --amen` works!
 - The command for displaying `ls` like a tree is literally [`tree`](http://stackoverflow.com/a/3455675/1558430), as an optional install for some distros.
 - `yum` is managed by a list of repository configs in `/etc/yum.repos.d/`, each being an ini file.
-- EC2 has [Extra Packages for Enterprise Linux][amazon] (EPEL).
-- [Adding a new yum repository][cyberciti]
-- yum can be used in conjunction with [package priorities][serverfault] to determine which version of a package to install, if many repositories provide the same package.
-- Processing getting killed across SSH? [`nohup something &`][wikipedia]. This took way too long.
+- EC2 has [Extra Packages for Enterprise Linux](http://aws.amazon.com/amazon-linux-ami/faqs/#epel) (EPEL).
+- [Adding a new yum repository](http://www.cyberciti.biz/tips/rhel5-fedora-core-add-new-yum-repository.html)
+- yum can be used in conjunction with [package priorities](http://serverfault.com/questions/312472/what-does-that-mean-packages-excluded-due-to-repository-priority-protections) to determine which version of a package to install, if many repositories provide the same package.
+- Processing getting killed across SSH? [`nohup something &`](https://en.wikipedia.org/wiki/Nohup). This took way too long.
 - `-f` for `tail` autoscrolls it. Because `-f` is `--follow`. Because screw `-f` being `--file`.
 - Count instances of `foo`: `foo | grep -c .`
 - Log in as someone else: `(sudo) su - username`
@@ -76,7 +77,7 @@
   ```
 - `cat * > new_file` overwrites contents in `new_file` with everything else in the folder. However, [`cat anything`](http://porkmail.org/era/unix/award.html#backticks) (with the backticks) is dangerous.
 - And then there's [this](http://stackoverflow.com/a/876242/1558430), for _appending_ both stdout (1) and stderr (2) to the same file: `cmd >> file.txt 2> &1` (send output to file.txt, then also send errors to wherever the output is going)
-- [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`][jovicailic]
+- [Obscure restart keyboard command: `Ctrl + Alt + PrtSc (SysRq) + reisub`](http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/)
 
   - R: Switch the keyboard from raw mode to [XLATE mode](https://unix.stackexchange.com/questions/16530/what-is-raw-keyboard-mode) ("translate", i.e. not raw)
   - E: Send the SIGTERM signal to all processes except init
@@ -85,12 +86,12 @@
   - U: Remount all mounted filesystems in read-only mode
   - B: Immediately reboot the system, without unmounting partitions or syncing
 
-- [`Xvfb`][wikipedia 2]: the screenless screen
+- [`Xvfb`](http://en.wikipedia.org/wiki/Xvfb): the screenless screen
 - To remove a ppa, add `--remove` to the `apt-add-repository foo` command.
 - `ps x` is probably the command you are looking for.
-- `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`][stackoverflow 2]
-- [(Almost) all distributions have `ssh-copy-id` preinstalled][tjll] that copies your _local_ key to the remote user's list of `authorized_keys`.
-- SSH supports [elliptic curve][tjll] key pairs as well! No particular reason to use it (other than fewer bits)
+- `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`](http://stackoverflow.com/a/821889/1558430)
+- [(Almost) all distributions have `ssh-copy-id` preinstalled](http://blog.tjll.net/ssh-kung-fu/) that copies your _local_ key to the remote user's list of `authorized_keys`.
+- SSH supports [elliptic curve](http://blog.tjll.net/ssh-kung-fu/) key pairs as well! No particular reason to use it (other than fewer bits)
 - Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
 - Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, _provided that `network.proxy.socks_remote_dns` is set to `true`_.
 - Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
@@ -98,14 +99,14 @@
 - `su` accepts arguments. And it is "switch" user, not "super" user.
 - `apt-get install --only-upgrade jenkins`: upgrade only if already installed
 - `apt-get build-dep packagename` will _remove_ packages in addition to installing new ones in order to force-meet package requirements.
-- Diffing two directories: [`diff -bur dir1 dir2`][stackoverflow 3]
+- Diffing two directories: [`diff -bur dir1 dir2`](http://stackoverflow.com/a/2019897/1558430)
 - `F4` brings up a terminal in Dolphin.
-- [How to install Debian on Android][dyndns] (it's not that useful, however)
-- `ksplice` allows [kernel upgrades without rebooting][askubuntu]. Then again, why?
+- [How to install Debian on Android](http://sven-ola.dyndns.org/repo/debian-kit-en.html) (it's not that useful, however)
+- `ksplice` allows [kernel upgrades without rebooting](http://askubuntu.com/questions/193069/how-can-i-upgrade-my-servers-kernel-without-rebooting). Then again, why?
 - Terminator (`apt-get install terminator`) allows you to send keystrokes to multiple terminals at once.
-- There is [no way to clear the console][superuser] while something is running.
+- There is [no way to clear the console](http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file) while something is running.
 - Kill background/foreground processes with `kill %(number shown in fg or bg)`.
-- If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src][debian]
+- If your (debian) system has the UTC time set to the same value as your alternate time zone, run `dpkg-reconfigure tzdata` and reboot. [src](http://wiki.debian.org/TimeZoneChanges)
 - `taskset -c 1 foo` launches foo with the process bound to CPU mask 1 (which is actually CPU #0).
 - `taskset -c 1 nice -n 20` runs a process with minimum priority on your (poor) CPU #0.
 - `taskset -pc 0 1234` binds process 1234 to CPU #0.
@@ -116,7 +117,7 @@
 - `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 - `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
 - Batch resize and/or [optimise](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) images: `for i in $(ls *.jpg); do convert -resize 800x800 -quality 90 -gaussian-blur 0.001 -sampling-factor 4:2:0 -define jpeg:dct-method=float -interlace Plane $i re_$i; done`
-- [Docker isn't for everyone][devopsu] but [you made a cheatsheet anyway](docker.md)
+- [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/) but [you made a cheatsheet anyway](docker.md)
 - `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.
 - Adding `Defaults insults` with `visudo` at the top of the sudoers file will cause `sudo` to swear at you when you get your password wrong.
 - Besides `!!`, there is also `!!:n`, which selects the nth argument in the last command.
@@ -125,10 +126,10 @@
 - Want to write your own file deduper? Unfortunately, it is already made and preinstalled as `fdupes`.
 - Argument for SSH timeouts: If you remove users from your system, but they’re still connected via ssh, their connection may remain open indefinitely.
 - While `Ctrl+R` is backwards search, `Ctrl+S` is forward search (almost exclusively for when you press `Ctrl+R` too many times).
-- [The `last` command][askubuntu 2] will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
+- [The `last` command](http://askubuntu.com/a/297637) will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
 - `readlink (path to link)` outputs where the link is pointing.
 - `sudo -s` turns you into root and keeps whichever shell you're using.
-- [`cd -`][winterdrake] gets you back to the previous directory. To make a directory called `-`, `mkdir '-'`. To go to that directory, use `cd ./-`, because `cd '-'` will not work.
+- [`cd -`](http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/) gets you back to the previous directory. To make a directory called `-`, `mkdir '-'`. To go to that directory, use `cd ./-`, because `cd '-'` will not work.
 - Press `Shift+PgUp` and `Shift+PgDn` to scroll up and down.
 - If you cannot run a program with sudo because "Could not open X display", even though DISPLAY is already something like `:0`, then try running `xhost +` first.
 - To do a port scan on anything, run `nc -vz example.com 1-65535 2>&1 | grep succeeded`
@@ -281,6 +282,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - If you are completely certain a pattern exists, you can technically fudge-cd using `cd "$(ls -1 | grep pattern)"`. Perhaps not safe to use in directories that contains a file called `robert; rm -rf ~`.
 - Remove lines in a file with `sed -i '/foo/d' file` (`-i` being inline; you don't need to use it').
 - `ssh -f ...` is like `ssh ... &` (a fork), except it goes to the background only after it connects, allowing you to enter passwords and other things if you need to.
+- One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 
 ## Tmux
 
@@ -292,22 +294,4 @@ After press `Ctrl+B`, followed by
 - `0` to `9`: select that window (tab).
 - `%`: make a new pane.
 - `left` or `right`: select that pane.
-- `Alt+1`: evenly resize the panes.
-
-[amazon]: http://aws.amazon.com/amazon-linux-ami/faqs/#epel
-[askubuntu]: http://askubuntu.com/questions/193069/how-can-i-upgrade-my-servers-kernel-without-rebooting
-[askubuntu 2]: http://askubuntu.com/a/297637
-[cyberciti]: http://www.cyberciti.biz/tips/rhel5-fedora-core-add-new-yum-repository.html
-[debian]: http://wiki.debian.org/TimeZoneChanges
-[devopsu]: https://devopsu.com/blog/docker-misconceptions/
-[dyndns]: http://sven-ola.dyndns.org/repo/debian-kit-en.html
-[imgur]: http://i.imgur.com/CGJ67gv.gif
-[jovicailic]: http://www.jovicailic.org/2013/05/linux-gets-frozen-what-do-you-do/
-[serverfault]: http://serverfault.com/questions/312472/what-does-that-mean-packages-excluded-due-to-repository-priority-protections
-[stackoverflow 2]: http://stackoverflow.com/a/821889/1558430
-[stackoverflow 3]: http://stackoverflow.com/a/2019897/1558430
-[superuser]: http://superuser.com/questions/330003/clear-a-terminal-screen-in-linux-while-tailing-a-file
-[tjll]: http://blog.tjll.net/ssh-kung-fu/
-[wikipedia]: https://en.wikipedia.org/wiki/Nohup
-[wikipedia 2]: http://en.wikipedia.org/wiki/Xvfb
-[winterdrake]: http://winterdrake.com/unixlinux-trick-cd-back-to-the-previous-directory/
+- `Alt+1`: evenly resize the panes.- The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).

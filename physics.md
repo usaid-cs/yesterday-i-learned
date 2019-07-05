@@ -89,3 +89,6 @@
 - ["Optical bonding"](http://slideplayer.com/slide/3399128/), à la filling the air gap(s) with special glue, makes your screens reflect less.
 - On most bikes, [the pedals never move backwards with respect to the ground](https://www.youtube.com/watch?v=72DCj3BztG4), except if the lowest gear is chosen, in which case it _might_ be possible.
 - The more alien life we find, the more likely it is for the great filter to be [ahead of us](https://www.youtube.com/watch?v=UjtOGPJ0URM), something that destroys all civilisations. Us not finding any alien life means _we might have passed the great filter_.
+- _Why_ [dark mode is less easy to read and causes eye strain](https://www.youtube.com/watch?v=bCaFRN3aaP8) _long term_: eyes are dilated when viewing light text on dark backgrounds, making it hard and taking more energy to focus (think large aperture cameras). Bright text also scatters light, bleeding light onto the dark background. This does not happen on black on white screens. The best contrast for _reading_ is white on dark blue. If you don't stare at your screen for hours, none of this matters.
+- You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
+- A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.

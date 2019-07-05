@@ -68,7 +68,7 @@
 - `\d`: list tables (and indexes!)
 - [`\d+ tablename`](http://stackoverflow.com/a/109334/1558430): describe the table.
 - `\l`: list databases.
-- Create an index: `create index concurrently if not exists index_name on table_name (ordered_fields);`
+- Create an index: `create index concurrently if not exists index_name on table_name (ordered_fields);` Creating an index non-concurrently will block out writes, but not reads.
 - Drop an index: `drop index concurrently if exists index_name;`
 - Rename an index: `alter index old_index_name rename to new_index_name;`
 - Monitoring psql: `sudo tail -n 50 -f /var/log/postgresql/postgresql-9.1-main.log`
@@ -97,6 +97,7 @@
 - There are three kinds of "views": [temporary views](https://www.postgresql.org/docs/9.4/sql-createview.html), [materialized views](http://www.postgresqltutorial.com/postgresql-materialized-views/), and ["new tables"](https://www.postgresql.org/docs/8.1/sql-createtableas.html). [Materialized views](https://www.postgresql.org/docs/9.4/sql-creatematerializedview.html) saves the data at the time the query is run, and calling `REFRESH MATERIALIZED VIEW` locks the entire table. Use `CONCURRENTLY`. In the case of `CREATE TABLE ... AS SELECT ...`, the data is not changed after that initial population.
 - Adding a [`DEFERRABLE` constraint](https://hashrocket.com/blog/posts/deferring-database-constraints) allows that same constraint to be changed within a transaction. A `DEFERRABLE` constraint can also be `DEFERRABLE INITIALLY IMMEDIATE`, which means the constraint will be enforced right after that statement, or `DEFERRABLE INITIALLY DEFERRED`, which means the constraint will not check anything until the transaction is committed.
 - To update only some of the objects you select, use a subselect: `UPDATE your_table ... WHERE (conditions) AND your_table.id = ANY(SELECT id from your_table ORDER BY random() WHERE (same conditions outside) LIMIT 10000)`. Now you only update 10000 of your rows.
+- You can [restrict a column's contents to a set of enumerated values](https://stackoverflow.com/questions/7250939/in-postgres-how-do-you-restrict-possible-values-for-a-particular-column) using `ALTER TABLE foo ADD CONSTRAINT check_name CHECK (column IN ('bar', 'baz'));`.
 
 ## Performance
 

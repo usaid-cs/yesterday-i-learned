@@ -92,3 +92,5 @@
 - Mariah Carey is half black, not incredibly tanned.
 - A guy named [Michel](https://en.wikipedia.org/wiki/Michel_Lotito) ate 18 bicycles, 7 TVs, and a Cessna 150. He died at the age of 57 from natural causes.
 - Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).
+- The only answer to [the "shabooya roll call" nonsense](https://www.reddit.com/r/videos/comments/6evkks/workplace_of_my_nightmares/) is [My name is Kevin, that is my name. They call me Kevin, cuz that's my name](https://www.youtube.com/watch?v=kAdVAbOtVK4).
+- In [this video](https://www.youtube.com/watch?v=qvkZ8sCd5EI), Cinema Sins gives Cinema Sins infinite sins.

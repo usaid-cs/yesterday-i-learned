@@ -1,0 +1,32 @@
+- 1kg of flour can become 2,852km of noodles, if you try hard enough.
+- "French food on tiny plates" is called [_Haute cuisine_](https://en.wikipedia.org/wiki/Haute_cuisine), or "high cuisine". _Haute cuisine_ focuses on the cost of making elaborate preparations (as costly as possible) rather than the amount or value.
+- Garlic makes most main courses taste better.
+- Good grilled cheese involve sppreading butter on the pan sides of the bread.
+- When you bake a pizza, the toppings should already have been cooked.- The difference between vanilla and French vanilla, as it turns out, is [eggs](https://www.seattletimes.com/life/food-drink/whats-the-difference-between-vanilla-and-french-vanilla/).
+- Mass-produced dry pasta is yellow because [it was dried quickly and that's no good](https://www.lifegate.com/people/lifestyle/pasta), if you trust that sort of thing. Dark spots in dry pasta are impurities, not some fancy whole wheat component.
+- [Slow cookers are good at nothing.](http://www.seriouseats.com/2016/10/why-pressure-cookers-are-better-than-slow-cookers.html) [Pressure cookers aren't that great, either.](https://news.ycombinator.com/item?id=13809891)
+- Cooked rice has only 2g of protein per 100g. Quinoa 4g. Your everyday pasta, 6g. Carbs are similar (30g), except for quinoa, at 20g.
+- [Pumpkin spice](https://en.wikipedia.org/wiki/Pumpkin_pie_spice) is 56% cinnamon, 12% nutmeg, 12% ginger, 10% cloves, 10% allspice, and **0% pumpkin**.
+- Boil brussel sprouts to burn away the bitterness. Just throw them into the water and turn off the heat, wait a while, then pan fry with garlic and butter.
+- When cooking meat, remove the ["silver skin"](http://www.genuineideas.com/ArticlesIndex/silverskin.html) (mostly fat and collagen) that wraps the tissue. They make meat harder to chew.
+- ["To check whether the pasta is cooked, flicking it at the wall and waiting for it to stick is pointless. You just end up with a messy wall."](https://www.thelocal.it/20170717/ten-golden-rules-how-to-cook-pasta-like-the-italians-al-dente-chef)
+- [Refried beans](https://en.wikipedia.org/wiki/Refried_beans) is cooked and mashed, not fried. _In this dish, after being boiled and then mashed into a paste, the beans are sometimes then fried or baked, though usually neither, thus making the term "refried" even more misleading._
+- [You can microwave quinoa like oatmeal](https://www.reddit.com/r/EatCheapAndHealthy/comments/42ykrn/friendly_reminder_that_you_can_microwave_quinoa/) but [you can't microwave rice and beat the rice cooker in both quality and time](http://www.mennonitegirlscancook.ca/2017/05/microwave-rice.html)
+- Almost universally, [people add cheese to the _top_ of a patty](https://www.youtube.com/watch?v=ERUugjLmwuY) to melt it, before putting the patty inside the burger bun. Salt the patty only right before cooking.
+- Mix yogurt with (cooked) oatmeal to make oatmeal taste less like gruel.
+- Some people out there [season their stainless steel pans](https://wholelifestylenutrition.com/health/how-to-cook-on-season-a-stainless-steel-pan-to-create-a-non-stick-surface/).
+- [If you buy tofu in a tub or tin, you should pour out the water every day, and replace with cold water to keep the tofu fresh.](https://www.eatrightontario.ca/en/Articles/Cooking-Food-Preparation/Everything-You-Need-to-Know-About-Tofu!.aspx) Tofu is spoiled if the liquid in the tub or tin is cloudy.
+- [Oil fondue](https://www.atelierdeschefs.fr/fr/recette/13686-fondue-bourguignonne.php) (no cheese) is a thing. You dip raw meat in hot oil to cook it.
+- Cook 1 part quinoa in 2 parts water for 15 minutes and rest for 5. ["No matter how you cook it, let the quinoa rest for at least 5 minutes in a covered cooking vessel before eating it. This will allow the water to evenly permeate the body of the quinoa seeds."](http://www.iheartkeenwah.com/blog/2015/10/31/the-food-lab-examining-the-best-way-to-cook-quinoa-rice-cooker-stove-top-or-pre-roast)
+- "Braising" is cooking something _partially_ submerged in a cooking liquid, like broth or milk. "Country-fried" is frying something _partially_ submerged in oil, rather than entirely submerged (which would be deep frying) or not at all (which would just be frying).
+- Avoid cooking duck eggs the "creamy" style. They are already guaranteed creamy. Don't make them any richer.
+- When cooking a steak with cast iron, use oil, and [don't try to move the meat until it comes off the pan by itself](https://youtube.com/watch?feature=youtu.be&v=KLGSLCaksdY).
+- ["Over easy"](https://i.pinimg.com/736x/e2/9b/cf/e29bcf23c343c5d5e8a029ff5ec8f89b--fried-eggs-cooking-tips.jpg) is the medium rare of egg frying. "Over medium" is medium, "Over well" is well done, and "Over hard" is the same as ruining a steak, breaking the yolk. "Sunny side up" is probably rare. ["Eggs in the basket"](https://en.wikipedia.org/wiki/Egg_in_the_basket) is when you decide to put an egg inside a loaf of bread for some reason.
+- In South Carolina, pulled pork is prepared by slow cooking the whole hog.
+- Ricotta cheese is made by coagulating proteins out of whey, the byproduct of cheesemaking. Even the name _Ricotta_ says the cheese is recooked.
+- In-N-Out [cook beef patties with mustard](http://muslimeater.com/2015/05/29/how-to-make-halal-in-n-out-double-double-animal-style-burgers-at-home/).
+- You can have pasta for lunch if you either a) [pre-soak pasta for 90 minutes, and cook for just a minute](https://food-hacks.wonderhowto.com/how-to/one-minute-pasta-plus-more-revolutionary-pasta-cooking-hacks-you-need-know-0156659/); b) parboil the night before; or c) bring lunch, homie. See same article: cooking pasta with cold-water start saves water, but not time.
+- Season cast iron cookware with [flaxseed oil](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/), apparently.
+- Press on sausages to make them cook faster.
+- Cook long pasta (like spaghetti) in olive oil or light cream-based sauces, tube-like ones in meat sauces, and spiral ones in some light textured sauces, like [pesto](http://www.taste.com.au/recipes/pesto-sauce/5df0b426-e19b-463d-bab5-0bc165c502c1).
+- Fettuccine is known as ["Tagliatelle"](https://www.popsugar.com/food/Difference-Between-Fettuccine-Tagliatelle-41945041) in Northern Italy, where it can be wider (or thinner, but on average there's no difference).

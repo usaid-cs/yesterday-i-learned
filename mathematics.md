@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
 - [Not having any boarding groups at all](https://www.youtube.com/watch?v=oAHbLRjF0vo) makes boarding faster than if the airlines do nothing at all, which they now do.
 - If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by _a + bi + cj + dk_ rather than _a + bi_ (complex). In this system, _j × k_ somehow comes you _-i_.
 - [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) states that a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
@@ -49,3 +50,8 @@
 - The [pigeonhole principle](https://en.wikipedia.org/wiki/Pigeonhole_principle) paraphrases that "if you have 10 things and 9 holes to put them in, then 1 of the holes must have more than 1 thing". The first semi-useful example given was "if you have a drawer of socks, half black half blue, you can get a pair of the same colour by taking out at most 3 socks".
 - The [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) is reached when all players know all the other players' strategies, and find no reason (nothing to gain) to change their own strategy.
 - [`∀x ∃!y ∋ f(x)=y`](https://news.realm.io/news/altconf-daniel-steinberg-what-the-functor-monad/) = "(For every) x (There exists a unique) y (such that) f(x) equals y". More useful symbols [here](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm).
+- [Every digit of pi is equally likely (at least it is, in the first 10 million digits).](http://blogs.sas.com/content/iml/2015/03/12/digits-of-pi.html)
+- In the year of 1997, you had solved the rubik's cube (keychain), by random chance, while ~~concentrating on taking a shit~~in the bathroom. You had double-checked and triple-checked the cube, and, indeed, it had been solved. And no one would believe you, because you were ~~taking a shit~~in the bathroom, no one saw you.
+- The result of a [Modulo operation (%)](https://en.wikipedia.org/wiki/Modulo_operation) varies highly across languages. The sign of the result can follow the divisor (Lua, Excel, Perl, ...), dividend (bash, C#, Erlang, ...), always positive or negative (algol, dart, maple, ...), or undefined (C, C++, Forth, ...). What's more, if the numbers aren't integers, you may get different signs back, too!
+- If objects have infinite density, then the [Banach--Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
+- If you do cube roots a lot, [there is a way to calculate it quickly](http://www.mindmagician.org/cubert.aspx).

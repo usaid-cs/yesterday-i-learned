@@ -9,6 +9,3 @@ class Solution:
 
         square_roots_to_use = 1
         total = sum(ps(x) for x in range(square_roots_to_use))
-
-
-print(Solution().numSquares(12))

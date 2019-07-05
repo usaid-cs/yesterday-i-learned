@@ -1,3 +1,6 @@
+- More Americans speak Spanish as their first language (41M), more than Canada has people, total (37M).
+- Learn [English, French, and Spanish](https://en.wikipedia.org/wiki/World_language), and baby you got a world language stew going. To target the most people instead, Hindi and Mandarin might be more useful than French.
+- The UK *licenses* (verb) *licences* (noun) to people. They don't *licence* (verb) anything.
 - Among four (!) theories why "things" are called [东西](https://baike.baidu.com/item/%E4%B8%9C%E8%A5%BF/26739) ("east-west") instead of any other thing, such as south-north, there is one that says east-west corresponds to wood and gold, which can be bought; and south-north corresponds to fire and water, which, for some reason, cannot be bought. Another theory is that it's just a shortened version of 东西南北中, which contextually carries a meaning of "everything".
 - "Gaang6 du1" is actually 戆大 in Shanghainese.
 - Given the word "developer" [originates](https://en.wiktionary.org/wiki/develop) from old French *vloper* "to wrap", your job is the same as that of a Burrito Boyz employee.
@@ -20,7 +23,7 @@
 - [Facsimile](https://www.dictionary.com/browse/facsimile) (fak-SIM-uh-lee) means an _exact_ copy, not just any imitation.
 - 牛逼, cow vagina, means "super cool".
 - [馬鹿野郎](https://en.wiktionary.org/wiki/%E9%A6%AC%E9%B9%BF%E9%87%8E%E9%83%8E): bakayaro.
-- Detriot is a French word indeed (_Détroit_, strait). In 1701, Antoine de la Mothe Cadillac founded [Fort Pontchartrain du Détroit](https://en.wikipedia.org/wiki/Fort_Detroit).
+- Detriot is a French word indeed (_Détroit_, or "strait"). In 1701, Antoine de la Mothe Cadillac founded [Fort Pontchartrain du Détroit](https://en.wikipedia.org/wiki/Fort_Detroit).
 - The stress on "Constantinopole" is actually on the O.
 - Some people... use "刀" as if it were "dollar".
 - "Of course" is always two words, like ["alot"](http://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) is always one word.
@@ -357,3 +360,5 @@
 - Ampersand = ["and per se, And (the now-removed alphabet)"](http://blog.dictionary.com/ampersand/)
 - The Greek word "Kyrios" means "lord, Lord, master" in one word.
 - In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").
+- "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
+- Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).

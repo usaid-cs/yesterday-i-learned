@@ -1,5 +1,9 @@
 "Yesterday I learned how to live."
 
+- "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa
+- There isn't a purpose in life. Your purpose in life is what you make it, [and that will keep you busy until it is time for you to exit the stage.](https://www.reddit.com/r/TrueAskReddit/comments/c7oj0c/how_do_you_not_question_the_point_of_life_all_the/)
+- If you do your day job properly, and you happen to be good at doing screener tests, you don't really need personal projects to back up your skills. Since personal projects are personal, you rarely reach the required depth of knowledge that people expect, anyway.
+- I was told you can prank your colleagues, but you can't prank your boss.
 - You can't blame your parents (or the boomers) for everything: "... the final forming of a person's character lies in their own hands" - Anne Frank
 - For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 - "Empty your mind, be formless, shapeless - like water. Now you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend." - Bruce Lee, in a show called "Longstreet"
@@ -116,3 +120,12 @@
 - Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
 - [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you _don't_ have to pay them.
 - ["The nice thing about IKEA is that you pretty much get what you pay for."](https://www.quora.com/How-easily-does-IKEA-furniture-fall-apart)
+- "An adult couch is one you buy (new, instead of inheriting from someone else)"
+- In an argument, try to determine _what_ is right, rather than _who_ is right.
+- If you invite someone to do something, you're supposed to plan that something.
+- Children who were taught to [wait for things](https://conferences.morressier.com/delay-gratification-for-higher-income/) often become high earners.
+- At the start of a new job, you are not meant to blend in; instead, find the problems related to the workplace to make sure your next job search includes them as a requirement.
+- "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375
+- The feeling of suddenly not knowing yourself is called [depersonalisation](http://en.wikipedia.org/wiki/Depersonalization). It is the most common psychological disorder after anxiety and depression.
+- Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard](https://www.reddit.com/r/AskReddit/comments/4dx953/what_is_it_that_nobody_tells_you_about_having/d1v4msv).
+- "Recipes are useless if you don't cook. To-do lists are useless if you don't do." - Me

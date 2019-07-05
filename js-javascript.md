@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+- Large objects [that conform to the JSON spec] can actually improve performance if you [sent it as a string, and `JSON.parse()` it afterwards](https://v8.dev/blog/cost-of-javascript-2019), because the JSON spec is smaller than the JS spec, and can be parsed more efficiently.
 - "JavaScript legend Douglas Crockford once said that [monads are cursed -- that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
 - If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never _write_ ECMAScript.
 - The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
@@ -268,6 +269,7 @@ undefined
 - Consider WebAssembly, which is "closer to binary". Files are also sent as binary rather than text, which is faster to load.
 - A major con about VueJS was said to be that [they use the chat for everything](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684) instead of documenting it, making it impossible for others to learn from what was already said.
 - [Strict mode functions have `this` set to `undefined`](https://mathiasbynens.be/notes/globalthis)... except getters and setters. They have `this`.
+- [`requestAnimationFrame` is never called when a tab is in the background.](https://developers.google.com/web/updates/2017/03/background_tabs)
 
 ## [Riot.js](https://muut.com/riotjs/)
 

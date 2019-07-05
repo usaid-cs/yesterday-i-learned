@@ -174,6 +174,10 @@ Fetch the repository first. Then, the hash of the commit can be cherry picked.
 #### Want to search for a change in history
 `git grep <regex> $(git rev-list --all)`
 
+#### Cherry-picking had a merge conflict, so it asks me to resolve the conflicts then `git cherry-pick --continue`, but then my [`pre-commit` hook kicks in and says I can't commit](http://web-dev.wirt.us/info/git-drupal/git-continue-vs-no-verify)
+
+Make your pre-commit hook not run. Rename your pre-commit hook from `.git/hooks/pre-commit` to something else, commit, and rename it back.
+
 
 ## Errors
 

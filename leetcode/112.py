@@ -33,9 +33,3 @@ class Solution:
 
         return sums_up(root.val, sub_root=root.left) or \
              sums_up(root.val, sub_root=root.right)
-
-
-runner = Solution()
-assert runner.hasPathSum(None, 0)
-assert runner.hasPathSum(None, 1) == False
-assert runner.hasPathSum(TreeNode(), 1) == False

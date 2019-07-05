@@ -19,7 +19,3 @@ class Solution:
             new_row = lst[row_idx * c:row_idx * c + c]
             new_matrix.append(new_row)
         return new_matrix
-
-
-nums = [[1, 2], [3, 4]]
-print(json.dumps(Solution().matrixReshape(nums, 1, 4)))

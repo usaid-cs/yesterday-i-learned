@@ -25,3 +25,8 @@
 - Referral programs work only if it makes the referrer _feels smart_ about sharing a deal.
 - If you want to control someone, [look at her forehead](https://m.imgur.com/gallery/HAn3e). If you want to marry someone, make sure she's a female (or whatever), then look at her chin.
 - None of the people who successfully committed suicide report regretting their decision. This is called suvivorship bias.
+- [People make extremely poor decisions](https://www.youtube.com/watch?v=c-4flnuxNV4). When presented with a three-year income graph, they would rather pick one with a rising pay, rather than one with falling pay, even if the total pay is higher for the latter.
+- It is [impossible to look at a scene and take a picture of it at the same time](http://www.psychologicalscience.org/index.php/news/releases/no-pictures-please-taking-photos-may-impede-memory-of-museum-tour.html) while still enjoying either.
+- [The least tolerant _person_ wins](http://c2.com/cgi/wiki?LeastFlexibleProtocolWins) as the highest common denominator.
+- Children who did chores (have responsibility in general) [end up being more successful.](http://www.reddit.com/r/todayilearned/comments/58fgrg/_/)
+- Amazon Mechnical Turk is an (unintended) [excellent source of social science research participants](https://daily.jstor.org/amazons-mechanical-turk-has-reinvented-research/).

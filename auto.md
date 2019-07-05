@@ -207,3 +207,5 @@
 - The black piece of plastic between the hood and the windscreen is called the _wiper cowl_, not the taint.
 - Red to positive, red to positive, black to negative, [BLACK TO GROUND](https://www.reddit.com/r/WTF/comments/4gmejc/jump_starting_a_car_what_could_possibly_go_wrong/d2iujyp).
 - It is possible to fill tires with foam so they never go flat, but [the tires will be heavy and the ride will be hard](http://www.bowentire.com/about-us/news/articletype/articleview/articleid/152/foam-filled-tires-and-run-flats-there-is-a-difference.aspx).
+- [Tesla Model 3's pricing is rubbish.](https://www.youtube.com/watch?v=9O5PhuW927w) starts at 35k, but replacing the battery with a long-range ("proper") one is another 9k, and _enabling_ autopilot is another 1k, even though all the sensors are installed on every car.
+- Harley Davidson tried to patent its engine sound. [It did not work.](https://www.youtube.com/watch?v=rZOpDve8ARA)

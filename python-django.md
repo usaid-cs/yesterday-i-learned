@@ -59,6 +59,9 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 - It is [not possible](https://stackoverflow.com/questions/21439031/django-f-expressions-joined-field?lq=1) to write an update statement based on `F(a__nested__field)`.
 - `shell_plus` has a [`shell_plus --print-sql`](https://stackoverflow.com/a/31450706/1558430) option, which allows you to steal the query from an update().
 - You can't `.first().values_list(...)` (because `.first()` converts the thing into an instance), but you can `.values_list(...).first()`.
+- Like the name almost suggests, `defer('a', 'b', 'c')` fetches all columns except a, b, and c. And like the name suggests, `only('a', 'b', 'c')` only fetches columns a, b, and c. The `related__name` syntax is also supported.
+- If you `annotate(a='foo__bar__baz')` a queryset that evaluates to objects (i.e. the default kind of queryset), then each object gets an attribute `a`.
+- It is possible to map-annotate a (one or many)-to-many relationship using `annotate(singular_relation=F('plurals_relation'))`; each object gets at most one plurals relation annotated.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
@@ -151,6 +154,7 @@ Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration its
 - The closest thing nodejs has to Django templates is [swig](https://github.com/paularmstrong/swig), but it is discontinued.
 - There's a [`django.template.Template`](https://github.com/django/django/blob/97e637a87fb45c4de970cca6cb783d93473c9d15/django/template/base.py#L141), and then there's a [`django.template.backends.django.Template`](https://github.com/django/django/blob/b9cf764be62e77b4777b3a75ec256f6209a57671/django/template/backends/django.py#L48), with the latter being a backend for the former.
 - Rest framework's `Response` has inheritance of `Response -> django.template.response.SimpleTemplateResponse -> django.http.HttpResponse`. Django's built-in `JsonResponse` has inheritance of `JsonResponse -> django.http.HttpResponse`.
+- Django class-based views have a `as_view()` method that turns the class into a function (more or less). It is decorated by an in-house [`@classonlymethod` decorator](https://stackoverflow.com/questions/8133312/what-is-the-difference-between-django-classonlymethod-and-python-classmethod), which makes `as_view` callable only in a class, but not in any of its instances. As for what `as_view()` does to convert the class into a function: [it's just a dispatcher](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) that diverts the request to the class's `get`, `post`, and whatever else methods, depending on the request's type.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 
@@ -215,7 +219,7 @@ Instead of `from app.models import Foo`, you might need to use [`Foo = apps.get_
 
 Add a `class Meta` that contains `abstract = True`.
 
-<!-- This has a downside of no longer allowing the class to be referenced (as foreign keys) directly. -->
+This has a downside of no longer allowing the class to be referenced (as foreign keys) directly.
 
 ### `RelatedObjectDoesNotExist` when you try to access an attribute by `related_name`
 

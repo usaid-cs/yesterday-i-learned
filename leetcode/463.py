@@ -38,7 +38,3 @@ class Solution:
             for x in range(len(row)):
                 edges += point_perimeter(x, y)
         return edges
-
-
-grid = [[0, 1, 0, 0], [1, 1, 1, 0], [0, 1, 0, 0], [1, 1, 0, 0]]
-print(Solution().islandPerimeter(grid))
