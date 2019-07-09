@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+1. [Nova Scotia felt forced into confederation.](https://beta.canada.com/news/canada/whats-in-a-name-how-canadas-national-birthday-as-we-know-it-came-to-be/wcm/f851b72d-be45-4b94-8e56-c134302760f0/amp/) Canada Day celebrations did not take place until 12 years after.
+1. In Canada, [you can](https://www.todaysparent.com/family/family-life/myths-about-getting-a-divorce/): cheat and still win a court case, get divorced without signing (with due process), split assets with your gay partner, and move out of the house and still keep it after the divorce. Your properties and pension also get split, usually evenly.
 1. On [women poking holes in condoms](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13511/index.do) to get themselves pregnant, the supreme court says: it is sexual assault (since it invalidates the partner's consent) but not fraud (since unwanted fatherhood is not serious bodily harm to the man). On [*men* poking holes in their own condoms](https://www.ctvnews.ca/canada/man-s-refusal-to-wear-condom-after-agreeing-to-cancels-out-consent-judge-1.4492602): it is fraud and sexual assault at the same time.
 1. After you crash into someone while drunk driving, [it is illegal to go home to drink some more to potentially mask the fact that you drove drunk](https://www.reddit.com/r/Roadcam/comments/9rfwjh/canada_drunk_guy_drinks_some_more_beer_after_rear/e8gqx0n/).
 1. It is legal to [jaywalk at an uncontrolled crossing (aka a place without a marked crossing)](https://en.wikipedia.org/wiki/Jaywalking#Canada), provided [they yield to traffic](http://spacing.ca/toronto/2007/11/20/pedestrians-crossing-mid-block-in-toronto-the-definitive-guide/), in Ontario.
@@ -195,3 +197,6 @@
 - [_Collegiate institutes_](https://en.wikipedia.org/wiki/Collegiate_institute) offered arts and humanities education (...) for university-bound students. _High schools_ offered vocational and science programs for those planning to enter the workforce upon graduation. (...) It was quite quickly realized that this division did not work very well. (...) Eventually the two systems were merged in to a single secondary school system.
 - The [entire northwest of Toronto](https://en.wikipedia.org/wiki/Jane_and_Finch) is terrible.
 - [Papa and Mama don't have lettuce, but the Uncle and Teen do.](https://www.reddit.com/r/canada/comments/4ee6cw/til_aw_canada_no_longer_has_any_corporate/) Uncle and Teen also share the same L nose, while the rest of the family all have round noses.
+- The [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal) is the mathematics equivalent of the Nobel Prize. [Mr Fields](https://en.wikipedia.org/wiki/John_Charles_Fields) is Canadian, and his prizes are \$15k each.
+- [Hockey rink ice is painted white.](https://youtu.be/7hT3yfuLPIU)
+- The Niagara Falls are made up of three waterfalls: the Horseshoe Falls (largest), the American Falls, and the Bridal Veil Falls (smallest).

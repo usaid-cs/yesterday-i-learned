@@ -54,3 +54,4 @@
 - CarrotPop makes an iPhone app, called ["Send Me to Heaven"](http://www.huffingtonpost.ca/entry/send-me-to-heaven-throw-phone-apple_n_3720888), that scores how high you throw the phone into the air. The app was banned.
 - The Safari responsive design mode straight out [denies other ecosystems exist](http://imgur.com/TYfG7DN).
 - When you take an elevator ride with Steve Jobs and tell him what you do, results may vary. You either [get fired](https://www.quora.com/Who-did-Steve-Jobs-actually-fire-in-an-elevator), or [you don't](https://www.reddit.com/r/apple/comments/6wsmub/did_steve_jobs_make_much_smalltalk_with_his/) ("That's what I heard. I hope it gets better.") It depends on what you say (said).
+- Siri's voice actress is [Susan Bennett](https://www.youtube.com/watch?v=z2bTymnb1uE), and she's lovely.

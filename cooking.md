@@ -30,3 +30,12 @@
 - Press on sausages to make them cook faster.
 - Cook long pasta (like spaghetti) in olive oil or light cream-based sauces, tube-like ones in meat sauces, and spiral ones in some light textured sauces, like [pesto](http://www.taste.com.au/recipes/pesto-sauce/5df0b426-e19b-463d-bab5-0bc165c502c1).
 - Fettuccine is known as ["Tagliatelle"](https://www.popsugar.com/food/Difference-Between-Fettuccine-Tagliatelle-41945041) in Northern Italy, where it can be wider (or thinner, but on average there's no difference).
+- Poor man's [Laksa](http://en.wikipedia.org/wiki/Laksa) can be imitated with [coconut whatever](http://en.wikipedia.org/wiki/Kerisik), curry, beef broth, chili oil, and cheese. A slightly less poor man can add fishballs instead of fish cake, and pho instead of spaghetti. The working man may even buy bean sprouts for the occasion, and use actual tofu puff instead of pretending tofu is okay.
+- Halibut is delicious if lightly fried.
+- Only stew meat with fat. Don't stew lean meat.
+- The single-bone part of the chicken wing is called the [drumette](http://www.thekitchn.com/the-small-but-mighty-chicken-wing-223119) (i.e. mini drumsticks).
+- Restaurants don't have secret non stick pans. They just spray concentrated pan coating (and lots of it) every so often.
+- In the case of authentic [过桥米线](https://en.wikipedia.org/wiki/Crossing_the_bridge_noodles), the tiny quail eggs _must_ be raw, and the number must be either 1 or 2. The meat _must_ be thinly-sliced pork, but there must also be ham, and it must be 金华火腿, not any other of ham. Along with the soup must come tofu skin, fish flakes, and _never_ seafood. The noodles should be served cold but the soup (chicken soup, covered with a layer of oil) served boiling hot, with the mixture being warm. Diners _must_ place ingredients into the bowl in the order from raw to cooked: meat first, then quail eggs, and then vegetables. They _must_ then "用筷子挑入米线，完成“过桥”的动作。"
+- Coriander _is_ [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
+- Local Yunnan food called "乳扇" is made by mixing milk with fermenting papaya juice, wrapping the elastic product around two pieces of bamboo, and then deep-frying the dried cheese.
+- Tempura shrimp are stretched out by [cutting muscles on the underside](https://www.quora.com/Why-is-tempura-shrimp-longer-than-other-shrimps?share=1) to allow them to lie flat.

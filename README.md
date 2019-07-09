@@ -2,33 +2,33 @@
 
 # Categories
 
-## Information & general works
+## 000 Information & general works
 
 - [random.md](random.md)
 - [useless-trivia.md](useless-trivia.md)
 
-## Philosophy & psychology
+## 100 Philosophy & psychology
 
 - [life.md](life.md)
 - [psychology.md](psychology.md)
 
-## Religion
+## 200 Religion
 
 - [christianity.md](christianity.md)
 
-## Social sciences
+## 300 Social sciences
 
 - [anthropology.md](anthropology.md)
 - [business.md](business.md)
 - [finance.md](finance.md)
 
-## Language
+## 400 Language
 
 - [french.md](french.md)
 - [korean.md](korean.md)
 - [linguistics.md](linguistics.md)
 
-## Science
+## 500 Pure Science
 
 - [biology.md](biology.md)
 - [chemistry.md](chemistry.md)
@@ -36,7 +36,7 @@
 - [mathematics.md](mathematics.md)
 - [physics.md](physics.md)
 
-## Technology
+## 600 Technology
 
 - [android.md](android.md)
 - [android-dev.md](android-dev.md)
@@ -77,22 +77,29 @@
 - [scss.md](scss.md)
 - [sql.md](sql.md)
 
-## Arts & recreation
+## 700 Arts & recreation
 
 - [archery.md](archery.md)
+- [cooking.md](cooking.md)
 - [driving.md](driving.md)
 - [recipes.md](recipes.md)
+- [vexillology.md](vexillology.md)
 
-## Literature
+## 800 Literature
 
 - [women.md](women.md)
 
-## History & geography
+## 900 History & geography
 
 - [angleterre.md](angleterre.md)
 - [canada.md](canada.md)
+- [europe.md](europe.md)
 - [geography.md](geography.md)
 - [history.md](history.md)
+
+# Stats
+
+    find . -name '*.md' | xargs wc -l | sort -n
 
 # Contributing
 

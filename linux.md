@@ -92,6 +92,7 @@
 - `ps -fp (pid)` will span the screen. If a command line is longer than, say, 80 characters, use [`cat /proc/(pid)/cmdline`](http://stackoverflow.com/a/821889/1558430)
 - [(Almost) all distributions have `ssh-copy-id` preinstalled](http://blog.tjll.net/ssh-kung-fu/) that copies your _local_ key to the remote user's list of `authorized_keys`.
 - SSH supports [elliptic curve](http://blog.tjll.net/ssh-kung-fu/) key pairs as well! No particular reason to use it (other than fewer bits)
+- A device running Ubuntu 14.04 LTS will only tell you there is a new Ubuntu update after the first point release goes live.
 - Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
 - Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, _provided that `network.proxy.socks_remote_dns` is set to `true`_.
 - Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .

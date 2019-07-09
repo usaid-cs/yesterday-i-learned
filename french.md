@@ -84,6 +84,7 @@
 - **Fourchette**: fork.
 - **Foyer**: home. See also: _maison_, house.
 - [**Frapper**](http://www.linternaute.fr/dictionnaire/fr/definition/frapper/): to hit/strike.
+- **Frigo**: fridge.
 - **Fromage**: cheese. [_Omelette du fromage_](https://www.youtube.com/watch?v=8C-hQleMFhY): French is the language of love.
 - **Fumier**: manure. _J'avais des éclairs de chez nous, de l'étable, du fumier._
 - **Gamins**: kids. _Nous comprenons ces gamins_: we understand these kids.

@@ -1,3 +1,4 @@
+- The ["French conditional" mood](https://www.thoughtco.com/french-conditional-mood-1368824) cannot be used after another "if", so [*si vous voudriez*](https://www.thoughtco.com/si-vous-voudriez-french-mistake-1369491) ("if you would like") is incorrect; you can only say *si vous voulez* no matter how polite you want to be.
 - More Americans speak Spanish as their first language (41M), more than Canada has people, total (37M).
 - Learn [English, French, and Spanish](https://en.wikipedia.org/wiki/World_language), and baby you got a world language stew going. To target the most people instead, Hindi and Mandarin might be more useful than French.
 - The UK *licenses* (verb) *licences* (noun) to people. They don't *licence* (verb) anything.

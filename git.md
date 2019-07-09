@@ -178,6 +178,7 @@ Fetch the repository first. Then, the hash of the commit can be cherry picked.
 
 Make your pre-commit hook not run. Rename your pre-commit hook from `.git/hooks/pre-commit` to something else, commit, and rename it back.
 
+(This also applies to `git revert --continue`.)
 
 ## Errors
 

@@ -74,6 +74,10 @@ for data in datas:
     return means
 ```
 
+## "Space-time tradeoff"
+
+[Space-time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff) is usually "trade space for speed", rather than "trade speed for space". You frequently see things like caches (space for speed) and hashes (space for speed). There are occasions where space is limited (like in firmware), but they are comparatively rare.
+
 # Patterns
 
 The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29): "one class does one simple thing, and the subclasses of this class also does the same thing."

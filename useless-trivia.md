@@ -94,3 +94,25 @@
 - Starbucks may appreciate it if [you call yourself Glarbstentenford](https://www.youtube.com/watch?v=u3CCo3X5yVA).
 - The only answer to [the "shabooya roll call" nonsense](https://www.reddit.com/r/videos/comments/6evkks/workplace_of_my_nightmares/) is [My name is Kevin, that is my name. They call me Kevin, cuz that's my name](https://www.youtube.com/watch?v=kAdVAbOtVK4).
 - In [this video](https://www.youtube.com/watch?v=qvkZ8sCd5EI), Cinema Sins gives Cinema Sins infinite sins.
+- There are [745 T-shirt designs about gender pronouns](https://www.redbubble.com/shop/pronouns+t-shirts) on a single e-commerce site.
+- [John Nolte is a divwad.](http://www.dailywire.com/news/12572/proof-cnn-knows-climate-change-big-fat-hoax-john-nolte#)
+- You have more stack overflow points than [frosty](https://en.wikipedia.org/wiki/Ross_Ulbricht), the boi who wanted to [use curl in php](https://stackoverflow.com/questions/15445285/how-can-i-connect-to-a-tor-hidden-service-using-curl-in-php).
+- Travis once called his ridesharing app [Boob-er](https://www.gq.com/story/uber-cab-confessions?currentPage=1).
+- The Thai boys and coach went to the Tham Luang cave [intentionally](https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue) to celebrate one of the boys' (Peerapat Sompiangjai) birthday.
+- Glass is the perfect material for laptop touchpads and palm rests.
+- That hip-looking woman holding the Ryzen 7 1800x CPU happened to be [Lisa Su](https://en.wikipedia.org/wiki/Lisa_Su), the CEO of AMD.
+- "11" is the only English number ending with 1 that is not postfixed with "st".
+- The term _Django Boys_ has a a very low rate of occurrence on the Internet. [This](http://ghostlessmachine.com/en/2016/03/why-django-girls/) is one of the occurrences.
+- "[There are phones that bend in half, and there are phones that don't bend in half.](https://www.youtube.com/watch?v=r3cWVdLqXCg)" - Jerry, from Zack's Rig
+- Singleton is where people are born. They move out of Singleton when they enter A Relationship.
+- Ray Chan, one of the co-founders, refused to admit that [9gag](https://en.wikipedia.org/wiki/9GAG) comes from "爛 gag".
+- [Spamming a blog with Facebook](http://www.reddit.com/r/netsec/comments/23xhmo/using_facebooks_bandwidth_to_generate_900_mbps)
+- _Election_ and _Erection_ are spelled almost exactly the same. They both mean the same thing too. A dick rising to power.
+- Reddit's most downvoted comment goes to [EA](https://www.reddit.com/r/ListOfComments/wiki/downvoted), for ripping players off.
+- AlphaBay founder Alexandre Cazes decided it would be cool to end his own life when the site got shut down.
+- Over the years, more useless elements have been added to TF2. This slows down the game. In response, [Valve made the game look even worse](https://www.youtube.com/watch?v=w1W5DU4zmAA) so as to maintain a decent framerate.
+- Deadmau5 is [this guy](https://www.youtube.com/watch?v=5LZQOAKYVLI).
+- Google Now responds to _Lumos_ and _Nox_.
+- You need your passport to renew your health card. And you need your drivers licence to renew your passport. And you need your health card to renew your passport. (just kidding)
+- WOSIB stands for "Women Opposing Shitting In Bags", the same people in Women Aginst [Colectomies](https://en.wikipedia.org/wiki/Colectomy) and Proctocolectomies (WACAP).
+- Some time between 2016 and 2017, Reddit swapped the `/r/foo` and `/u/foo` notation with `r/foo` and `u/foo`, without the prefixing slash.

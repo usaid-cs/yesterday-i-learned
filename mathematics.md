@@ -55,3 +55,4 @@
 - The result of a [Modulo operation (%)](https://en.wikipedia.org/wiki/Modulo_operation) varies highly across languages. The sign of the result can follow the divisor (Lua, Excel, Perl, ...), dividend (bash, C#, Erlang, ...), always positive or negative (algol, dart, maple, ...), or undefined (C, C++, Forth, ...). What's more, if the numbers aren't integers, you may get different signs back, too!
 - If objects have infinite density, then the [Banach--Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
 - If you do cube roots a lot, [there is a way to calculate it quickly](http://www.mindmagician.org/cubert.aspx).
+- Exponential growth === geometric growth. The one that grows linearly is just called linear growth.

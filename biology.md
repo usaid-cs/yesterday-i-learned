@@ -1,3 +1,8 @@
+- [This video](https://www.youtube.com/watch?v=tTHMBjyzgEU) says you pee 20 swimming pools worth in your lifetime.
+- [Artichoke](https://en.wikipedia.org/wiki/Artichoke) is a kind of [thistle](https://en.wikipedia.org/wiki/Thistle). Italy is the leading supplier of artichokes.
+- Although only moulds producing mycotoxins are immediately harmful, [you should just kill all moulds](https://moldmanusa.com/the-truth-about-toxic-black-mold-its-probably-not-what-you-think/). There is often no point checking if a type of mould is harmful (see exceptions in article, such as if you're selling the hosue).
+- Only 5% of the population gets shingles the second time, but that's probably just because people get their first shingles when they are old and weak and might die from other causes.
+- Watermelons came from (West) Africa.
 - Oleuropein in olives make them bitter and hard to eat. "In the wild, olives are dispersed by birds, who avoid the bitterness issue by swallowing them whole."
 - Since facial recognition works less well on dark-skinned people (good), [they get checked more often in airports](https://www.wired.com/story/opt-out-of-facial-recognition-at-the-airport/) (bad).
 - Spinal adjustments [may not](https://nationalpost.com/news/this-hurts-babies-doctors-alarmed-at-weekend-courses-teaching-chiropractors-how-to-adjust-newborn-spines) be performed on babies.
@@ -945,3 +950,8 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Hair grown to deliberately irritate is called [Urticating hair](http://en.wikipedia.org/wiki/Urticating_hair).
 - [For best results](https://blog.cardiogr.am/2016/02/12/do-you-really-need-10000-steps-a-day-2/), do 45 minutes of high-intensity exercise per _week_. Benefits plateau beyond that.
 - Dyslexia is genetic.
+- > A defibrillator forcefully stops the heart temporarily in an effort to correct a heart in fibrillation. Using a defibrillator on a dead person is like hitting the reset button on an unplugged machine.
+- Nutmeg is toxic with no pleasant overdose effects.
+- [Cold FX](http://news.nationalpost.com/news/canada/class-action-lawsuit-reveals-company-sat-on-2004-study-indicating-cold-fx-does-nothing-to-fight-colds) does not fight colds.
+- Re: burning to death, "it's fine the nerves die quickly anyway" is rubbish. By the time the nerves die you are already half dead.
+- [Datura](http://en.wikipedia.org/wiki/Datura) makes you delirious, not high.

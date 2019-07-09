@@ -39,6 +39,40 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 
 `null=True` is not required for `TEXT` or `CHAR` fields.
 
+### [`SeparateDatabaseAndState`](https://docs.djangoproject.com/en/2.2/ref/migration-operations/#separatedatabaseandstate)
+
+`SeparateDatabaseAndState` actually isn't that mysterious.
+
+Inside a `SeparateDatabaseAndState`, `database_operations` are the SQL statements that the migration makes, while `state_operations` are the things that Django thinks changed before and after this migration.
+
+So if you were to have an autodetected migration that looks like:
+
+    class Migration(migrations.Migration):
+
+        operations = [
+            migrations.AddField(...),
+        ]
+
+and you want to run SQL *different from what Django would run to add that field*, you can do
+
+    class Migration(migrations.Migration):
+
+        database_operations = [
+            migrations.RunSQL(sql='DROP TABLE...', reverse_sql='DROP TABLE ANYWAY...')
+        ]
+
+        state_operations = [
+            migrations.AddField(...),
+        ]
+
+        operations = [
+            migrations.SeparateDatabaseAndState(
+                database_operations=database_operations,
+                state_operations=state_operations),
+        ]
+
+Now, when this migration is run, it drops a table instead of creating a new column, all while thinking that the migration results in the desired schema.
+
 ### Querying models
 
 - If you filter by `id__in=queryset`, Django might make it a subquery. But if you do `id__in=list(queryset)`, no matter the size of the queryset, the queryset must be evaluated first, and the two-query version might be faster than the subquery version.

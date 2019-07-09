@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Apps that don't need to read phone state, but request that permission anyway, are reading your IMEI number. [To uniquely track you.](https://developer.android.com/preview/privacy/data-identifiers)
 - [Verify your adb RSA key](https://android.stackexchange.com/questions/50922/how-can-i-see-the-fingerprint-of-my-adbkey) with `awk '{print $1}' < ~/.android/adbkey.pub | openssl base64 -A -d -a | openssl md5 -c`
 - If you don't have a phone app (say you adb disabled it) and someone calls you, the device will still ring, but you will have no way to answer.
 - Assuming a reasonable goal of owning a phone for $0.50 per day, and you aim to use it for 2 years, the maximum cost (before tax) of such a phone is around $323, or, if you plan to keep it for 3 whole years, then around $484. In contrast, your phone (around $700) needs around 3.5 years to pay itself off, and the earliest you can get a new phone is: _February 2021_. **Repair your devices.**
@@ -92,3 +93,4 @@
 - [Accelerometer readings can be used to reverse engineer what you were typing](https://www.youtube.com/watch?v=metkEeZvHTg), including passwords. Video was from 2011.
 - People can totally downgrade your APK while preserving data with the 'adb -r -d' options.
 - `accessibility_display_daltonizer` controls which colour space to use (monochromacy = 0, deuteranomaly = 1, protanomaly = 2, tritanomaly = 3), while `accessibility_display_daltonizer_enabled` controls whether it is active (0 = disabled, 1 = enabled).
+- TWRP doesn't have password protection on purpose; [they didn't want to guarantee safety](https://twrp.me/faq/securetwrp.html).

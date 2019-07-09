@@ -1,3 +1,4 @@
+- Portable air conditioners with two hoses (instead of one or zero) are more efficient. Those with zero hoses are just useless, one pipe takes cool air from the inside, which requires it to work harder.
 - Apart from personal preference, there is [no](https://www.anandtech.com/show/9394/analysing-amoled-power-efficiency) [point](https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/) setting your phone UI to pure black instead of dark grey, in the name of saving energy on an AMOLED screen.
 - Circular floaters (in the eye) are brighter in the middle because of [Poisson's bright spot](https://en.wikipedia.org/wiki/Arago_spot), something [Poisson didn't even believe in](https://www.youtube.com/watch?v=y9c8oZ49pFc), says that light (as a wave) constructively interferes with light diffracting around each side of a circular object.
 - Glass is an amorphous solid. So no, it is not a liquid. You can tell glass doesn't "flow" or eventually distort by looking at hundred-year-old optical instruments, which still work.
@@ -92,3 +93,4 @@
 - _Why_ [dark mode is less easy to read and causes eye strain](https://www.youtube.com/watch?v=bCaFRN3aaP8) _long term_: eyes are dilated when viewing light text on dark backgrounds, making it hard and taking more energy to focus (think large aperture cameras). Bright text also scatters light, bleeding light onto the dark background. This does not happen on black on white screens. The best contrast for _reading_ is white on dark blue. If you don't stare at your screen for hours, none of this matters.
 - You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
 - A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.
+- You don't [pump air into your own scuba gear](https://www.youtube.com/watch?v=pZYWO0ylFoQ) because (a) it's hard, and (b) the pump adds oils and lubricants into the air you breathe.

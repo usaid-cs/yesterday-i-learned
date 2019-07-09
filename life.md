@@ -129,3 +129,5 @@
 - The feeling of suddenly not knowing yourself is called [depersonalisation](http://en.wikipedia.org/wiki/Depersonalization). It is the most common psychological disorder after anxiety and depression.
 - Having a child is not hard; [having a child and doing the chores that you are already doing, on the other hand, is hard](https://www.reddit.com/r/AskReddit/comments/4dx953/what_is_it_that_nobody_tells_you_about_having/d1v4msv).
 - "Recipes are useless if you don't cook. To-do lists are useless if you don't do." - Me
+- The difference between a good day and a bad day is how much alcohol you want to consume, versus how much you need to consume. ~Rob
+- An implicit acceptance criterion for everything you do ought to be: "do/make something people want."
