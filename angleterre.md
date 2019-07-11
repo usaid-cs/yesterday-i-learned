@@ -18,3 +18,13 @@
 - [Lisa Windsor](https://en.wikipedia.org/wiki/Elizabeth_II) has been stuck in her dead end job since 1952.
 - UK is in [no-deal](https://www.youtube.com/watch?v=agZ0xISi40E) Brexit position because it basically wants complete autonomy in its jurisdiction (no free movement of people, goods, financial contribution to the union, and trade policies), which is not a thing even for the most basic EU partners, like Turkey.
 - There is a prison room in the Big Ben.
+- The inside of [Regency Cafe](https://en.wikipedia.org/wiki/Regency_Caf%C3%A9) is full of pictures of itself in films and things.
+- Kings Cross station has only platforms 9a and 9b. Platform 9.75 is a shop outside the fare paid zone.
+- The [Isle of Man](https://en.m.wikipedia.org/wiki/List_of_Snaefell_Mountain_Course_fatalities) racecourse is the most fatal racecourse _in the wurld_, with multiple deaths every year except 2012.
+- [MI5](https://en.wikipedia.org/wiki/MI5) defends the state from spying. [MI6](https://en.wikipedia.org/wiki/Secret_Intelligence_Service) spies on other countries. [James](https://en.wikipedia.org/wiki/James_Bond) is in MI6.
+- A [scotch egg](https://en.wikipedia.org/wiki/Scotch_egg) is a (no shell duh) egg wrapped in sausage meat and deep-fried breading.
+- Once Markle [(suddenly)](https://www.youtube.com/watch?v=fC8SRkGlHzk) becomes a royal member, she can no longer vote. And act. And show her bare legs.
+- Non-royal descendants of the Queen and her husband Philip can use the last name Mountbatten-Windsor.
+- [The Queen has two birthdays](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) The ruling person always has two birthdays: [one on the real day, and one in Spring, in the form of a military parade, known as Trooping the Colour.](http://www.telegraph.co.uk/news/0/why-does-the-queen-have-two-birthdays/) King George II started that tradition because he was born in cold weather.
+- [Gibraltar](https://www.google.ca/maps/place/Gibraltar/@36.1354446,-5.3472065,14z/data=!4m5!3m4!1s0xd0cbf762714be35:0x384e25263600870f!8m2!3d36.140751!4d-5.353585), while clearly part of Spain, is part of Britain.
+- The two-colour pound coin came out in 2016, so it is not part of [the shield thing](https://en.wikipedia.org/wiki/Coins_of_the_pound_sterling#Royal_Shield_reverse).

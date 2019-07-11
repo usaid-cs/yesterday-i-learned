@@ -55,3 +55,5 @@
 - The Safari responsive design mode straight out [denies other ecosystems exist](http://imgur.com/TYfG7DN).
 - When you take an elevator ride with Steve Jobs and tell him what you do, results may vary. You either [get fired](https://www.quora.com/Who-did-Steve-Jobs-actually-fire-in-an-elevator), or [you don't](https://www.reddit.com/r/apple/comments/6wsmub/did_steve_jobs_make_much_smalltalk_with_his/) ("That's what I heard. I hope it gets better.") It depends on what you say (said).
 - Siri's voice actress is [Susan Bennett](https://www.youtube.com/watch?v=z2bTymnb1uE), and she's lovely.
+- The Kinect/iPhone X use randomised dots for depth recognition, rather than a grid. "If you use a regular repetitive grid you will have a periodicity in the observed pattern, if an observed object moves closer to the camera the reflected laser shifts further to the side until it would overlap with a different point at a different depth in the 2D image." (which is bad)
+- iPad and iPad Pro have different "air gap" sizes (thickness between glass and display).

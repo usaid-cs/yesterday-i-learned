@@ -1,3 +1,4 @@
+- Alcohol metabolism depends on weight, fitness, gender, -age, exercise, and tolerance.
 - [This video](https://www.youtube.com/watch?v=tTHMBjyzgEU) says you pee 20 swimming pools worth in your lifetime.
 - [Artichoke](https://en.wikipedia.org/wiki/Artichoke) is a kind of [thistle](https://en.wikipedia.org/wiki/Thistle). Italy is the leading supplier of artichokes.
 - Although only moulds producing mycotoxins are immediately harmful, [you should just kill all moulds](https://moldmanusa.com/the-truth-about-toxic-black-mold-its-probably-not-what-you-think/). There is often no point checking if a type of mould is harmful (see exceptions in article, such as if you're selling the hosue).
@@ -955,3 +956,9 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Cold FX](http://news.nationalpost.com/news/canada/class-action-lawsuit-reveals-company-sat-on-2004-study-indicating-cold-fx-does-nothing-to-fight-colds) does not fight colds.
 - Re: burning to death, "it's fine the nerves die quickly anyway" is rubbish. By the time the nerves die you are already half dead.
 - [Datura](http://en.wikipedia.org/wiki/Datura) makes you delirious, not high.
+- "In a traditional push-up the number is about 69% in the up position" "and 75% in the down position". For the half push-up it is "54% in the up position and 62% in the down position".
+- Small dogs behave like they do because [they are spoiled](https://www.dogbreedinfo.com/articles/smalltoydogs.htm).
+- A bowl of oatmeal a day could be the secret to a longer and healthier life, say scientists.
+- Ringworm itches the jock; [Schistosomatidae](https://en.wikipedia.org/wiki/Schistosomatidae) itches the [swim](https://en.wikipedia.org/wiki/Swimmer%27s_itch).
+- [Crows (meaning Corvus, not just the crows with the common name "crow") pull tails.](http://corvidblog.tumblr.com/post/37622242234/tail-pulling) It's like they can't help themselves.
+- [Weight lifting is not bad for your joints](https://www.webmd.com/osteoarthritis/features/knee-hip-exercises). Any activity where you have both feet off the ground is probably bad (except obvious stuff like sitting on a high chair).

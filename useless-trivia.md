@@ -116,3 +116,37 @@
 - You need your passport to renew your health card. And you need your drivers licence to renew your passport. And you need your health card to renew your passport. (just kidding)
 - WOSIB stands for "Women Opposing Shitting In Bags", the same people in Women Aginst [Colectomies](https://en.wikipedia.org/wiki/Colectomy) and Proctocolectomies (WACAP).
 - Some time between 2016 and 2017, Reddit swapped the `/r/foo` and `/u/foo` notation with `r/foo` and `u/foo`, without the prefixing slash.
+- Bud light is [so bad on ratebeer](https://www.ratebeer.com/beer/bud-light/474/), its overall rating of 0 turned into n/a.
+- In Twitch Plays Pokemon Crystal, RED owns the winning team (aaabaaajss, AA-J, ...) from the original Twitch Plays Pokemon.
+- You don't see Wenger knives anymore because Victorinox bought it back in 2005.
+- [Some cocoa growers don't even know what chocolate is.](https://www.youtube.com/watch?v=zEN4hcZutO0)
+- Kellyanne Conway's debate strategy is to deflect the question by simply going off on a tangent using one or two words from the question. Her answers don't have to do with anything. Then, she expects the interviewer to stop asking the same question after repeating it for a few times. Essentially, she doesn't answer questions.
+- You [probably](https://www.quora.com/Can-you-legally-change-your-name-to-have-emojis) can name your American child after an emoji. Prince changed his name to an unpronounceable symbol that one time and it was allowed; a Californian mother named her baby [😍😍😍](https://prettycoolsite.com/california-newborn-baby-name-emoji-smiley-heart/), with its formal pronunciation being "Hearteyesemojiheartesemojihearteyesemoji".
+- Burger King's Twitter "followers per tweet" index (80.6) is 10x higher than that of McDonald's (8.1), and 4x higher than that of Wendy's (20.6). Higher is better, unless they are bots. Personal research.
+- None of Bill Gates' children are called Bill.
+- [Once it's on your social media, you can see other people seeing you see something wonderful, and that'll bring you real joy.](https://www.youtube.com/watch?v=S1zJPuow8ps)
+- "Cortana" the AI name came from Halo.
+- Glover's musical stage name, Childish Gambino, came from the Wu-Tang Clan's name generator.
+- [Rich people drink more.](https://www.theguardian.com/society/2018/may/01/wealthy-professionals-most-likely-to-drink-alcohol-regularly-figures-show) Who knew?
+- JetBrains is headquartered in Prague.
+- BFRocket = Big Fucking Rocket. Elon Musk is planning to launch a few of those to Mars.
+- "USS" in Star Trek was United _Space_ Ship.
+- A skinny latte is a latte with fat free milk and sugar free sweetener.
+- Nixon died in 1994, just around the time ("mid 1990s") Matt Groening began conceiving Futurama.
+- Aunt Irma can also be Aunt Flo.
+- Հայաստան, which is how Armenians write Armenia in Armenian, looks like how you write "minimum".
+- An [aerogarden](https://www.bedbathandbeyond.ca/store/brand/aerogarden/3989) is not a levitating greenhouse. An aerogarden is a pot with a light propped up by a stem. Disappointing.
+- In Age of Empires 2, long bowmen in towers do extra damage to ships, and for some reason [the same extra damage to camels](https://www.youtube.com/watch?v=msr27PwObVM), making them the same thing.
+- "Rogue one is hit" came from Avatar (2009), not Rogue One (2016).
+- The ugliest website for a "sovereign state" goes to [THE PRINCIPALITY OF HUTT RIVER](http://www.principality-hutt-river.com/) [~image~](http://imgur.com/bdCbteq), not [North Korea](http://www.korea-dpr.com/), which looks great by comparison.
+- [Harrison Ford just wanted to be done with the Star Wars franchise. He has always wanted the franchise to kill him off and be left alone.](http://www.reddit.com/r/funny/comments/7vys0s/-/dtwi9ro) Carrie Fisher also thought the same, but was less brutally honest than he is.
+- A [poon](https://www.urbandictionary.com/define.php?term=poon) now means a little girl's vagina.
+- 4060 is the grocery code for broccoli.
+- Feridun Hamdullahpur has [that same face](https://i.imgur.com/INk6lmq.jpg) regardless of what he does, even when loading laundry detergent into his trunk.
+- A bat [held onto a rocket](http://imgur.com/gallery/bwP6u) once. And only once.
+- At least [one](https://hellopoetry.com/poem/1807954/chicken-leg-fibula-for-a-toothpick/) randomly-generated page on the Internet suggested using the chicken fibula as a toothpick.
+- "Meat and Great" doesn't work as a slogan.
+- There is [no reference](https://en.wikipedia.org/wiki/Wizard_%28software%29) who first started calling software walkthroughs, 'wizards'.
+- At the height of fidget spinner madness, ["fidget spinner porn" got to top 10](http://www.menshealth.com/sex-women/fidget-spinner-porn-pornhub) among pornhub searches.
+- Brian's Point Inflation Hypothesis states that, for any given Reddit user, no matter how useless or controversial its comments are, it is still more likely for its karma to be net positive than negative.
+- Emma Watson was in a film with Tom Hanks, called "The Circle". Never seen the movie, but some of the soundtracks were good.

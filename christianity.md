@@ -1,3 +1,4 @@
+- Any book containing the book of psalms can technically be called a [psalter](https://en.wikipedia.org/wiki/Psalter). Usually it requires the book of psalms to be the main book in the volume, though.
 - There are many covenants ("agreements"). The one that they talked about in the old testament, was about [offerings](https://www.mechon-mamre.org/p/pt/pt0220.htm#22) in exchange for getting the people out of Egypt.
 - The Vatican ruled that [their daily bread must contain at least some gluten](https://www.rt.com/viral/395810-gluten-free-holy-bread/), just as their wine must be made from unsoured grapes, both for reasons they can probably explain.
 - The [Criterion of embarrassment][wikipedia 129] says that the author (God/Jesus) wouldn't write something embarrassing about himself, therefore the Bible's accounts are probably true.
@@ -34,3 +35,7 @@
 - [Janissaries](http://en.wikipedia.org/wiki/Janissaries#Revolts_and_disbandment) are Christian slaves in the Ottoman empire. They were subject to multiple types of abuse before gaining enough attention to be taken seriously.
 - When Jesus said ["Destroy this temple, and I will raise it again in three days"](http://biblehub.com/john/2-19.htm) during his temple rampage, he meant his body (his resurrection), not the temple he was at.
 - The pope's official stance on evolution and the big bang is: [he actually believes it](https://www.smithsonianmag.com/smart-news/pope-would-you-accept-evolution-and-big-bang-180953166/).
+- [Hallelujah](http://biblehub.com/text/psalms/115-17.htm) is a breakup of yə-hal-lū- (praise, probably) and yāh (the Lord).
+- [There is only one group of people who are explicitly told in the Bible to never drink wine/alcohol, and that is the Nazirites](https://www.gotquestions.org/did-Jesus-drink-wine.html) (Numbers 6:1--4). Jesus was not a Nazirite; He was a "Nazarene," a native of the town of Nazareth (Luke 18:37). Jesus never took the Nazirite vow.
+- With All Saints' Day and All Souls' Day, it is obvious that the Roman Catholic Church knows who went to heaven and who went to hell, but has no information about life after death.
+- _Gospel_ doesn't just mean any book in the New Testament; a gospel is an account describing the life, death, and resurrection of Jesus of Nazareth.

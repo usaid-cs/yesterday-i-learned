@@ -39,3 +39,14 @@
 - Coriander _is_ [cilantro](https://en.wikipedia.org/wiki/Coriander), and is a leafy herb that [Mexicans poop on](https://www.reddit.com/r/explainlikeimfive/comments/4a05qr/eli5_since_norovirus_is_not_a_foodborne_illness/d0wagc9).
 - Local Yunnan food called "乳扇" is made by mixing milk with fermenting papaya juice, wrapping the elastic product around two pieces of bamboo, and then deep-frying the dried cheese.
 - Tempura shrimp are stretched out by [cutting muscles on the underside](https://www.quora.com/Why-is-tempura-shrimp-longer-than-other-shrimps?share=1) to allow them to lie flat.
+- There is a fancy word for cutting into thin strips, called [julienning](https://en.wikipedia.org/wiki/Julienning).
+- A fool-proof way to poach an egg is to [strain away all of the egg white](http://www.seriouseats.com/2013/03/how-to-poach-eggs-easy-way-poached-breakfast-video.html), says mister López-Alt.
+- Moroccans ferment butter to make [smen](https://www.npr.org/sections/thesalt/2014/10/09/353510171/smen-is-moroccos-funky-fermented-butter-that-lasts-for-years). Fermenting the butter keeps the butter safe, they say.
+- Tilapia was a symbol of rebirth in Egyptian art. Tilapia is a muddy-tasting bottom feeder with [no nutrition](https://en.wikipedia.org/wiki/Tilapia#As_food) and high omega-6.
+- Rock the knife back and forth to chop garlic.
+- Soaking pasta for an hour or more before boiling saves a lot of time.
+- Chicken goes up to A. Chicken eggs go up to AA. Beef goes up to AAA.
+- Dry-aged beef is typically not sold by most supermarkets (...) because it takes time and there is a significant loss of weight during the aging process.
+- Beefsteak are good for sandwiches... cherry are good for salads... plum are good for sauces
+- [Boil chicken bones](https://www.livestrong.com/article/125236-glucosamine-naturally/) to get the glucosamine out of it/them.
+- Cod also has a great fibrous texture. It shrinks a lot when cooking though (usually only a sign for overcooking, but not this fish), so it is very expensive by dry weight.

@@ -56,3 +56,6 @@
 - If objects have infinite density, then the [Banach--Tarski paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox) can turn any ball into an infinite number of balls, by taking the first one apart and putting the pieces back together.
 - If you do cube roots a lot, [there is a way to calculate it quickly](http://www.mindmagician.org/cubert.aspx).
 - Exponential growth === geometric growth. The one that grows linearly is just called linear growth.
+- "x% of y = y% of x". Not very useful as a concept, since you'll be multiplying x and y anyway, then dividing by 100.
+- [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
+- [Fourier series visual](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif)

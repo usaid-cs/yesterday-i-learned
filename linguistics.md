@@ -363,3 +363,4 @@
 - In 1984, the thought police [removed and reconstructed words](https://en.wikipedia.org/wiki/Newspeak) from the language to make expressions harder ("freedom") or impossible ("god").
 - "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 - Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).
+- ["suh dude"](http://knowyourmeme.com/memes/suh-dude) just means "what's up dude".

@@ -94,3 +94,7 @@
 - You can make a huge natural snowball only near the belt where the temperature is fluctuating close to 0°C.
 - A solar eclipse looks like a [vague dark spot](http://time.com/4908949/total-solar-eclipse-space-view/) from space.
 - You don't [pump air into your own scuba gear](https://www.youtube.com/watch?v=pZYWO0ylFoQ) because (a) it's hard, and (b) the pump adds oils and lubricants into the air you breathe.
+- The looping time machine episode of Futurama, where Fry _et al._ travel to the same universe after the universe dies and recreates itself, came from [the Big Bounce theory](https://en.wikipedia.org/wiki/Big_Bounce).
+- The sun's diameter is pretty close to 400 times that of the moon's (400.5).
+- Voyager I is analogue. It takes pictures like a fax machine, and sends them back like a radio.
+- In 2015, the definition of a parsec changed from "the distance at which one astronomical unitsubtends an angle of one arcsecond" to "648000/π astronomical units", which is about 3.26 light-years.

@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+1. In Ontario, [black on yellow licence plates](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ontario) are non-passenger, removable "service plates", for anyone who repairs, customizes, modifies, manufactures or transports motor vehicles. Drunk drivers do not have a separate plate style.
 1. [Nova Scotia felt forced into confederation.](https://beta.canada.com/news/canada/whats-in-a-name-how-canadas-national-birthday-as-we-know-it-came-to-be/wcm/f851b72d-be45-4b94-8e56-c134302760f0/amp/) Canada Day celebrations did not take place until 12 years after.
 1. In Canada, [you can](https://www.todaysparent.com/family/family-life/myths-about-getting-a-divorce/): cheat and still win a court case, get divorced without signing (with due process), split assets with your gay partner, and move out of the house and still keep it after the divorce. Your properties and pension also get split, usually evenly.
 1. On [women poking holes in condoms](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/13511/index.do) to get themselves pregnant, the supreme court says: it is sexual assault (since it invalidates the partner's consent) but not fraud (since unwanted fatherhood is not serious bodily harm to the man). On [*men* poking holes in their own condoms](https://www.ctvnews.ca/canada/man-s-refusal-to-wear-condom-after-agreeing-to-cancels-out-consent-judge-1.4492602): it is fraud and sexual assault at the same time.
@@ -200,3 +201,9 @@
 - The [Fields Medal](https://en.wikipedia.org/wiki/Fields_Medal) is the mathematics equivalent of the Nobel Prize. [Mr Fields](https://en.wikipedia.org/wiki/John_Charles_Fields) is Canadian, and his prizes are \$15k each.
 - [Hockey rink ice is painted white.](https://youtu.be/7hT3yfuLPIU)
 - The Niagara Falls are made up of three waterfalls: the Horseshoe Falls (largest), the American Falls, and the Bridal Veil Falls (smallest).
+- Justin [reportedly](http://www.thespec.com/news-story/5968652-justin-trudeau-out-of-his-father-s-shadow-and-into-power/) likes Labatt 50. He's just not ready.
+- Montreal is the [fourth largest Francophone community](http://www.touristmaker.com/blog/what-are-the-largest-french-speaking-cities-in-the-world/), after Paris (obviously), [Kinshasa](https://en.wikipedia.org/wiki/Kinshasa) Congo, and Abidjan Ivory Coast.
+- The fun thing about RRSPs is that if you have been poor, you can put the money you just got from a tax refund right back into the same RRSP for extra refund next year.
+- GO trains are powered by diesel. Some professor guy recommends against sitting in the car right behind the locomotive.
+- Montreal is the third largest porn-producing city in the world after Los Angeles and Amsterdam.
+- [Saint-Louis-du-Ha! Ha!, QC](https://en.wikipedia.org/wiki/Saint-Louis-du-Ha!_Ha!) has two exclamation marks in its name. It is, along with the rivers that flow near it, the only places on Earth with two exclamation marks in their names.

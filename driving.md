@@ -31,3 +31,4 @@
 - One round left until 45 degrees, Mirror slow turn leftright
 - All except uphill with curb, steer to the right
 - The [zipper merge](http://www.dot.state.mn.us/zippermerge/) reduces queuing traffic by knowing merging should be done at the last minute. But apparently the zipper merge doesn't work because, and I quote, "only takes one dick to stop a zipper."
+- Emergency vehicles can pass a schoolbus only if the bus'es stop signs are folded in.

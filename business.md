@@ -121,15 +121,6 @@ Further reading: [0001.md](sources/0001.md)
 
 [Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
 
-## Bitcoins
-
-Bitcoins are a great vehicle for investing your money, and then getting none back in return. To invest in Bitcoins, simply:
-
-- Wait until the price is \$18000.
-- Buy a ton.
-- Wait until the price goes down to \$1.
-- Rinse and repeat.
-
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 
 - Don't attempt to manage unmotivated people.

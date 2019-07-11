@@ -49,3 +49,7 @@
 - Bethlehem is in West Bank now. The [Gaza Strip](https://en.wikipedia.org/wiki/Gaza_Strip) is the tiny thing that is neither Israel nor the West Bank. Together, West Bank and Gaza Strip make up [Palestine](https://en.wikipedia.org/wiki/State_of_Palestine).
 - 九龍仔, 九龍塘, 九龍灣, and 九龍城 are all in Kowloon, but 九龍坑 is not.
 - [Pulau Satumu](https://en.wikipedia.org/wiki/Pulau_Satumu) is an island in Singapore. Its name means "one tree", but the island has more than one tree.
+- With a population density of 406 people per km² -- 497 if water is excluded -- the Netherlands is a very densely populated country for its size. Only Bangladesh, South Korea and Taiwan have both a larger population and a higher population density. Nevertheless, the Netherlands is the world's second largest exporter of food and agriculture products, after the United States.
+- Naval Maps are centered at America, [cutting Asia in half](http://i.imgur.com/iF89Wxe.jpg).
+- Both the [six-continent and seven-continent models of the Earth](https://en.wikipedia.org/wiki/Continent) list Tel Aviv as being in Asia.
+- [Trinidad](https://en.wikipedia.org/wiki/Trinidad) isn't in Asia, dumbass.

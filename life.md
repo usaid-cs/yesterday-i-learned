@@ -131,3 +131,15 @@
 - "Recipes are useless if you don't cook. To-do lists are useless if you don't do." - Me
 - The difference between a good day and a bad day is how much alcohol you want to consume, versus how much you need to consume. ~Rob
 - An implicit acceptance criterion for everything you do ought to be: "do/make something people want."
+- You are [supposed](https://www.reddit.com/r/LifeProTips/comments/9lx87k/lpt_be_respectful_of_haunted_house_actors_theyre/) to act scared in a haunted house out of courtesy.
+- [Arguing doesn't work. People just believe in whatever they believed in.](https://lifelessons.co/personal-development/howtogetsmarterpart5/) See also: lots of tips and tricks for arguing and learning in general.
+- [Work is not life](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/).
+- 41-year-old [tluyben2](https://nl.linkedin.com/in/tluyben) recommends all programmers hang out with non-developers _a lot_.
+- If you are indispensable, you cannot be promoted, but you can sometimes get a raise.
+- Don't eat out. But ["When you do eat out, make it count"](https://www.reddit.com/r/minimalism/comments/6p1zw1/spartan_living_will_make_your_life_easier/)
+- ["Be a person that you like and people will flock to you"](https://www.reddit.com/r/socialskills/comments/2t7f38/how_do_you_move_past_the_good_acquaintance_stage/) first requires you to know yourself.
+- Start a meaningful conversation with strongly opinionated topics and open-ended questions, like music and movies.
+- No significant other should stand between you and [your values, goals, and dreams](https://www.huffpost.com/entry/7-reasons-it-may-be-a-good-idea-to-stay-single_b_7515690).
+- Basically [everything is sexual harrassment](https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-14) if you aren't attractive.
+- "Lisa, if you don't like your job you don't strike. You just go in every day and do it really half-assed. That's the American way." - Homer Simpson
+- The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)

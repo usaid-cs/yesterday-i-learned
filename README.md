@@ -96,6 +96,7 @@
 - [europe.md](europe.md)
 - [geography.md](geography.md)
 - [history.md](history.md)
+- [murica.md](murica.md)
 
 # Stats
 

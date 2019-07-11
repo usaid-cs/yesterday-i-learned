@@ -94,3 +94,6 @@
 - People can totally downgrade your APK while preserving data with the 'adb -r -d' options.
 - `accessibility_display_daltonizer` controls which colour space to use (monochromacy = 0, deuteranomaly = 1, protanomaly = 2, tritanomaly = 3), while `accessibility_display_daltonizer_enabled` controls whether it is active (0 = disabled, 1 = enabled).
 - TWRP doesn't have password protection on purpose; [they didn't want to guarantee safety](https://twrp.me/faq/securetwrp.html).
+- Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
+- The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter. Both settings are emulated.
+- Tasker's `%DATE` format will change depending on the system locale.
