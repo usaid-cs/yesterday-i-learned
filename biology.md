@@ -962,3 +962,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Ringworm itches the jock; [Schistosomatidae](https://en.wikipedia.org/wiki/Schistosomatidae) itches the [swim](https://en.wikipedia.org/wiki/Swimmer%27s_itch).
 - [Crows (meaning Corvus, not just the crows with the common name "crow") pull tails.](http://corvidblog.tumblr.com/post/37622242234/tail-pulling) It's like they can't help themselves.
 - [Weight lifting is not bad for your joints](https://www.webmd.com/osteoarthritis/features/knee-hip-exercises). Any activity where you have both feet off the ground is probably bad (except obvious stuff like sitting on a high chair).
+- It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.

@@ -21,6 +21,9 @@
                 font-family: sans-serif;
                 margin: 10px 0;
             }
+            .heading {
+                font-weight: bold;
+            }
             #keyword {
                 background: white;
                 width: 100%;
@@ -38,6 +41,7 @@
                 margin: 15px 0;
                 background-color: rgba(0,0,0,0.05);
                 border-radius: 10px;
+                padding: 0 15px;
             }
             #results {
                 font-family: sans-serif;
@@ -45,8 +49,10 @@
                 word-wrap: break-word;
                 line-height: 1.68;
                 margin: 15px 0;
+                white-space: pre-wrap;
             }
         </style>
+         <base target="_blank">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown.js/0.5.0/markdown.min.js"></script>
     </head>
     <body>
@@ -55,60 +61,5 @@
         <div id="results"></div>
     </body>
 
-    <script>
-        const base = 'https://raw.githubusercontent.com/1337/yesterday-i-learned/master/';
-        const resultsEl = document.getElementById('results');
-        const directory = `${base}README.md`;
-        let facts;
-        fetch(directory, {method: 'get'})
-            .then(response => response.text())
-            .then(resp => {
-                return resp
-                    .split('\n')
-                    .filter((line) => {
-                        if (line.indexOf('-') === 0) return line;
-                    })
-                    .map((line) => {
-                        return line.match(/\((.+)\)/)[1];
-                    });
-            })
-            .then(fileNames => {
-                const fullUrls = fileNames.map((fn) => `${base}${fn}`);
-                const requests = fullUrls.map((url) => {
-                    return fetch(url).then((response) => response.text())
-                });
-                Promise.all(requests).then((tils) => {
-                    facts = ''.concat(...tils);
-                    fillRandomFact();
-                });
-            });
-
-        function search(str) {
-            if (!facts) return;
-            return facts.match(new RegExp(`^.*${str}.*$`, 'igm'));
-        }
-
-        function doSearch() {
-            const el = document.getElementById('keyword');
-            if (!el.value) return;
-            if (el.value.length < 2) return;
-            const results = search(el.value);
-            setTimeout(() => {
-                if (results && results.length) {
-                    resultsEl.innerHTML = markdown.toHTML(results.join('\n'));
-                } else {
-                    resultsEl.innerHTML = 'No results';
-                }
-            }, 0);
-        }
-
-        function fillRandomFact() {
-            if (!(facts && facts.length)) return;
-            const randomEl = document.getElementById('random');
-            const lines = facts.split('\n');
-
-            const randomFact = lines[Math.floor(Math.random() * lines.length)];
-            randomEl.innerHTML = markdown.toHTML(randomFact);
-        }
-    </script>
+    <script src="scripts/til.js"></script>
 </html>

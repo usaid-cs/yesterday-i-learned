@@ -20,3 +20,4 @@
 - [The number of flags behind a government announcement](http://www.theguardian.com/news/datablog/2015/jun/24/10-flag-announcement-brings-government-flag-count-to-all-time-high?CMP=soc_567) has meaning, apparently.
 - [The flag of the red cross](https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement#Emblems_in_use) (which is a red cross) was said to be the reverse of the flag of Switzerland, to dispel the argument from the Ottoman Empire that the flag had Christian roots. There is no proof either way.
 - There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
+- The "confederate flag" is actually the confederate's flag [none of the time](https://www.youtube.com/watch?v=ULBCuHIpNgU&list=PLqs5ohhass_TWuJqc36II6McLxqLcRJfO&index=2). It was a central design in the actual battle flag, but the battle flag was never *just* the stars and cross.
