@@ -50,3 +50,4 @@
 - Beefsteak are good for sandwiches... cherry are good for salads... plum are good for sauces
 - [Boil chicken bones](https://www.livestrong.com/article/125236-glucosamine-naturally/) to get the glucosamine out of it/them.
 - Cod also has a great fibrous texture. It shrinks a lot when cooking though (usually only a sign for overcooking, but not this fish), so it is very expensive by dry weight.
+- According to Alex, "schnitzel" is usually made with beef.

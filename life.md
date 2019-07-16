@@ -1,4 +1,4 @@
-"Yesterday I learned how to live."
+> "Life is an improvisation. You have no idea what's going to happen next and you are mostly making things up as you go along." - Stephen Colbert
 
 - "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa
 - There isn't a purpose in life. Your purpose in life is what you make it, [and that will keep you busy until it is time for you to exit the stage.](https://www.reddit.com/r/TrueAskReddit/comments/c7oj0c/how_do_you_not_question_the_point_of_life_all_the/)
@@ -143,3 +143,6 @@
 - Basically [everything is sexual harrassment](https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-14) if you aren't attractive.
 - "Lisa, if you don't like your job you don't strike. You just go in every day and do it really half-assed. That's the American way." - Homer Simpson
 - The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
+- Fingerprint scanners work when you are asleep. Face unlock doesn't. If you have a jealous spouse, don't trust the finger.
+- [Go to Glassdoor and answer every basic question.](https://www.glassdoor.ca/Interview/programming-interview-questions-SRCH_KT0,11.htm?countryRedirect=true)
+- If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.

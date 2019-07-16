@@ -1,10 +1,12 @@
-- The ["French conditional" mood](https://www.thoughtco.com/french-conditional-mood-1368824) cannot be used after another "if", so [*si vous voudriez*](https://www.thoughtco.com/si-vous-voudriez-french-mistake-1369491) ("if you would like") is incorrect; you can only say *si vous voulez* no matter how polite you want to be.
+- [Mayday](https://en.wikipedia.org/wiki/Mayday) might have come from French _m'aider_, "help me".
+- [Sidereal](https://en.wikipedia.org/wiki/Sidereal_time) turns out to be pronounced si-DEH-re-oh. It means "relative to the stars". Sidereal time is the time it takes for the Earth to make one rotation relative to the stars (23 hours 56 minutes ish), while Solar time is the time it takes for the Earth to make one rotation and have the sun go to the same place, which takes 4 minutes longer because the Earth rotates around the sun, and the angle it makes is slightly bigger than 360 degrees.
+- The ["French conditional" mood](https://www.thoughtco.com/french-conditional-mood-1368824) cannot be used after another "if", so [_si vous voudriez_](https://www.thoughtco.com/si-vous-voudriez-french-mistake-1369491) ("if you would like") is incorrect; you can only say _si vous voulez_ no matter how polite you want to be.
 - More Americans speak Spanish as their first language (41M), more than Canada has people, total (37M).
 - Learn [English, French, and Spanish](https://en.wikipedia.org/wiki/World_language), and baby you got a world language stew going. To target the most people instead, Hindi and Mandarin might be more useful than French.
-- The UK *licenses* (verb) *licences* (noun) to people. They don't *licence* (verb) anything.
+- The UK _licenses_ (verb) _licences_ (noun) to people. They don't _licence_ (verb) anything.
 - Among four (!) theories why "things" are called [东西](https://baike.baidu.com/item/%E4%B8%9C%E8%A5%BF/26739) ("east-west") instead of any other thing, such as south-north, there is one that says east-west corresponds to wood and gold, which can be bought; and south-north corresponds to fire and water, which, for some reason, cannot be bought. Another theory is that it's just a shortened version of 东西南北中, which contextually carries a meaning of "everything".
 - "Gaang6 du1" is actually 戆大 in Shanghainese.
-- Given the word "developer" [originates](https://en.wiktionary.org/wiki/develop) from old French *vloper* "to wrap", your job is the same as that of a Burrito Boyz employee.
+- Given the word "developer" [originates](https://en.wiktionary.org/wiki/develop) from old French _vloper_ "to wrap", your job is the same as that of a Burrito Boyz employee.
 - ["Compulsory"](https://www.quora.com/Mandatory-compulsory-obligatory-essential-necessary-required-For-what-situations-are-each-if-these-words-best-suited) is a requirement that came from higher up. Compulsory: the government told you. Mandatory: your company told you. Obligatory: you told yourself. Essential: common sense told you.
 - WTF? "Upend" is really "up end"?
 - [_Mandarin_](https://en.wikipedia.org/wiki/Mandarin_Chinese) came from Portuguese _mandarim_, from Malay _menteri_, from Sanskrit _mantrin_, originally meant an official from the Ming and Qing dynasties.
@@ -364,3 +366,5 @@
 - "[Dude](https://www.reddit.com/r/todayilearned/comments/384gf5/til_the_word_dude_was_first_used_in_the_late/)" was the term for hipster: an insult towards young men who were overly concerned with keeping up with the latest fashions.
 - Level of language proficiency can [now](http://www.deutsch-als-fremdsprache.org/en/faq/323-what-does-language-level-a1-a2-b1-b2-c1-and-c2-mean.html) be split into A (understand), B (operate), C (communicate).
 - ["suh dude"](http://knowyourmeme.com/memes/suh-dude) just means "what's up dude".
+- _Yinz_ is Pittsburghers' unique version of _Y'all_.
+- Legend has it that OK came from "Oll Korrect."

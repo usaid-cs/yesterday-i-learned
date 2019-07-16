@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/IGedhKP.jpg)
 
+- The Geneva Convention says [a country must have a uniform driving direction](https://www.youtube.com/watch?v=JoYNhX15w4k). This causes remote territories to have the same driving direction, even if that territory is surrounded by other places that drive on the opposite side.
 - If a car is tailgating you, you need double the braking distance in front of you, so you have enough time to slowly brake when _that_ car brakes, so that the tailgater doesn't hit you.
 - You need to put your foot on the brake before you can start a car with a push button.
 - [Service roads](https://en.wikipedia.org/wiki/Frontage_road) are roads running parallel to highways. Living on a service road is often a poor idea, because service roads can only go one way.

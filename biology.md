@@ -963,3 +963,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Crows (meaning Corvus, not just the crows with the common name "crow") pull tails.](http://corvidblog.tumblr.com/post/37622242234/tail-pulling) It's like they can't help themselves.
 - [Weight lifting is not bad for your joints](https://www.webmd.com/osteoarthritis/features/knee-hip-exercises). Any activity where you have both feet off the ground is probably bad (except obvious stuff like sitting on a high chair).
 - It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
+- [The fact that smoke calms bees has been known since ancient times](https://en.wikipedia.org/wiki/Bee_smoker); however, the scientific explanation was unknown until the 20th century and is still not fully understood.

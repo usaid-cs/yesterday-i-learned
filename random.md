@@ -1,3 +1,8 @@
+- Iran and Germany have one thing in common: they both dial 110 to get to the police.
+- Comforters are washable duvets with patterns. You can put a comforter inside a duvet cover (if the size is right).
+- Airports have not dropped their "2 hour early for domestic flights" thing because [they turned the airport into a mall](https://www.youtube.com/watch?v=L-GFqOWLVmU), where making you stay in the clearance area is simply pure capital. The food court is almost robbery, while duty-free shops are designed to make you spend your leftover foreign currency.
+- If someone is born in an aircraft or spacecraft, the child inherits the nationality of its parents. If that is not possible, [the child inherits the nationality of the country in which the vessel is registered](https://www.youtube.com/watch?v=h6AWAoc_Lr0).
+- When you launch a product, [not everyone is going to appreciate it](https://news.ycombinator.com/item?id=20426682). When Dropbox appeared on Show-HN, [a comment](https://news.ycombinator.com/item?id=9224) said: "you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem."
 - The Chinese version of The Looper has [15 extra minutes of scenes shot in Shanghai](https://www.youtube.com/watch?v=8R-FQTY4KJk).
 - The one (and only one) advantage that MongoDB has over Postgres is [it has a built-in sharding mechanism](https://www.mongodb.com/compare/mongodb-postgresql). It is easy to do because MongoDB doesn't have a real schema to enforce. [At least they have ACID after v4](https://stackoverflow.com/questions/7149890/what-did-mongodb-not-being-acid-compliant-before-v4-really-mean).
 - To configure your prometheus admin, modify a `prometheus.yml`, and edit which instances (instance names, actually) the admin should poll stats from. These instances must each have a prometheus exporter of some sort, that exposes related stats from the server.
@@ -172,7 +177,6 @@
 - The background noise in VOIP calls is [deliberately added](https://en.m.wikipedia.org/wiki/Comfort_noise), nothing to do with the noise from traditional phone calls.
 - [ETOPS](https://www.youtube.com/watch?v=HSxSgbNQi-g) certification is a number of minutes under which an aircraft can continue flying (to a diversion/emergency airport) when one of the two engines (specifically for twin-engine aircraft) fails. Before ETOPS existed, planes must have three or four engines to cross the Atlantic, making many flight paths economically infeasible.
 - "Marine One" is [the callsign of the helicopter operator that is carrying the president](https://www.youtube.com/watch?v=YJRqB1xtIxg), not a particular aircraft.
-- In the latest GitHub [diversity report](https://github.com/about/diversity), none ("We don't have enough self-reported data") of the users reported as non-binary. 40% of the users even get laid (as evident of them being parents, excepting those who adopt, were virgin Mary, or otherwise inherited children by unconventional means).
 - It's always new moon during Chinese New year... It's not a coincidence... Dumbass...
 - [Good mayo is supposed to have a high calorie count](https://www.youtube.com/watch?v=gsNeLX0Pd7M).
 - When buying tea, [full leaf is obviously the best choice](https://www.youtube.com/watch?v=O_VsxGdECYI). Tiny chunks they collect afterwards are sold in tea bags, but it doesn't mean it's bad, it just means the flavour comes out quicker because the surface area is greater, and the flavour is not as nuanced.
@@ -481,7 +485,6 @@
 - Zero didn't appear in historical texts until [1500 years ago](https://www.youtube.com/watch?v=-4vUklg2lCc). Same video describes other numbers having a sensory equivalent, i.e. you can see "1" of something. Same argument does not explain "-1".
 - Make plastic collar inserts with old gift cards (as long as they are white).
 - Tech [enthusiasts are the worst](https://www.youtube.com/watch?v=FJgTKx-rg18) over the long term: they want the lowest price, the pickiest of requirements, and there are so few of them that you can't make the product at scale. To cater to these people, the company must make the best product at the lowest cost. Alternatively, those companies can simply not cater to enthusiasts. Which is why it is common to see, that the moment you get into anything, the same company starts making shit.
-- [The sun and the moon were created on the fourth day](https://www.biblegateway.com/passage/?search=genesis+1&version=NIV): "... God set them in the vault of the sky to give light on the earth, to govern the day and the night ..." So, for [whatever reason the authors wrote it that way](https://en.wikipedia.org/wiki/Genesis_creation_narrative#Fourth_day), and however well we can explain it by making loads of assumptions, it wasn't really well thought out.
 - [Paprika](https://en.wikipedia.org/wiki/Paprika) is ground-up bell peppers.
 - People hate Star Wars I because a) Jar Jar Binks, b) people not looking at CG characters where they are, and c) Jedi can't swim, enter a giant air bubble, and immediately get dry hair and clothes.
 - Brazil exports lots of granite to the US. Having granite countertops was a status symbol back when only the Italians exported granite.
@@ -574,14 +577,12 @@
 - Whether taxes work before or after discounts can depend on [what type of discount it is](https://www.quora.com/Is-tax-applied-before-or-after-discount).
 - Spain invented the idea of adding one part coke to one part wine, and then calling it [Kalimotxo](https://en.wikipedia.org/wiki/Kalimotxo) (calimocho). See the [list of IBA official cocktails](https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails) for what to actually order.
 - You might have invented the word ["newspapoid"](https://www.google.com/search?q=%22newspapoid%22) to describe tabloid-quality newspapers. There are currently absolutely no search results.
-- Chinese government apparently obfuscates corodinates of their maps and street view stuff using something called [GCJ-02](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#Coordinate_systems) in the name of national security, but their algorithm is leaked so much that the reverse code it is just on wikipedia.
 - ["Andre Geim ... was ... the first to win, as an individual, both a Nobel Prize ... and an Ig Nobel Prize."](https://www.improbable.com/2010/10/05/geim-becomes-first-nobel-ig-nobel-winner/)
 - [Positive rights](https://www.quora.com/What-are-positive-rights-and-negative-rights) are your rights to do/get something, and negative rights are your rights to not have something done to you. Since "right to life" (positive) is the same as "right to not be killed" (negative), [some people don't think this distinction matters](https://en.wikipedia.org/wiki/Negative_and_positive_rights).
 - Modern chili is closer to [feijoada](https://en.wikipedia.org/wiki/Feijoada) (beans, beef) than [chili con carne](https://en.wikipedia.org/wiki/Chili_con_carne) (chili, beef).
 - Katniss ever died in the books, at least not according to [this](http://thehungergames.wikia.com/wiki/Katniss_Everdeen), perhaps because the author's first name is not George.
 - In VB6, a `Function Foo` returns a value by [assigning the value to the function](http://www.vb6.us/tutorials/understanding-subroutines-and-functions-vb), i.e. `Foo = "Bar"`. They fixed crazy by introducing the [`Return` statement in VB.NET](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/how-to-return-a-value-from-a-procedure).
 - Wikipedia says [WinSxS was introduced in Windows 98 SE](https://en.wikipedia.org/wiki/Side-by-side_assembly).
-- [Twitter has a follow limit.](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/) (currently 5000)
 - "Mind how you go" is apparently a form of greeting for when someone else leaves an informal gathering.
 - Github users "1" to "5" are a waste of user names.
 - [Roughly one in four suicides come with a note.](https://en.wikipedia.org/wiki/Suicide_note)
@@ -670,7 +671,6 @@
 - A stone (weight) is exactly 14 pounds.
 - One of the prayers in French: _Béni sois-tu, Seigneur notre Dieu, qui règne sur l'univers, qui fait sortir le pain de la terre._
 - Groups of forex traders [sell different currencies in large quantities](https://www.youtube.com/watch?v=TxlTHZ0GmxU) so as to disguise the sale while the price remains constant.
-- Brit Bro [Lawrence Oates](https://en.wikipedia.org/wiki/Lawrence_Oates), when his feet had become severely frostbitten at the South Pole, he said "I am just going outside and may be some time", left the tent, and sacrificed himself for others' chances of survival.
 - [JWs believe in one god. Mormons believe in a three-part god.](https://classroom.synonym.com/mormon-religious-beliefs-versus-jehovah-witness-beliefs-12086665.html)
 - [Tim Horton](https://en.wikipedia.org/wiki/Tim_Horton) was a Hockey player. He died crashing [his car](https://en.wikipedia.org/wiki/De_Tomaso_Pantera).
 - There are many ["Game sevens"](https://en.wikipedia.org/wiki/Game_seven) before the [Stanley Cup playoffs](https://en.wikipedia.org/wiki/2018_Stanley_Cup_playoffs). Even if the Leafs won this "Game Seven" (first round 2018), what are they going to do, win the Cup? They haven't done that since 1967.
@@ -720,7 +720,6 @@
 - The four flat pins on the sides of some DVI cables carry analogue signals. They are optional when digital signals are used (which is usually).
 - Dryer sheets and fabric softeners reduce static by addng wax to laundry. Do not use dryer sheets and fabric softeners with towels, which makes them dry less well.
 - [Clapperboards](https://en.wikipedia.org/wiki/Clapperboard) are meant to help synchronise picture and sound in later editing.
-- ["damn girl, are you a girl, because damn"](https://www.reddit.com/r/Jokes/comments/7kb78u/damn_girl_are_you_a_newspaper/drdaonj/)
 - The S in [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis) is Staples. Clive Staples.
 - When asked to choose a random number between 1 and 10, [people pick 7](https://i.imgur.com/bCaheF1.png). Start picking 1 instead.
 - The period in braille is made of [three dots](http://www.brailleauthority.org/ueb/symbols_list.pdf).
@@ -1018,8 +1017,7 @@
 - "But I'll argue that Accessibility is actually more important than Security because dialing Accessibility to zero means you have no product at all, whereas dialing Security to zero can still get you a reasonably successful product such as the Playstation Network." - [Steve](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) "BIG disconnect in what "hardening" means for (security people, developers, and users), and in particular, the number one rule of kernel development is that 'we don't break users'. Because **without users, your program is pointless, and all the development work you've done over decades is pointless.** .. and security is pointless too, in the end." - [Linus](https://lkml.org/lkml/2017/11/21/356)
 - PM Jean Chrétien was known for personally choking a protester. Since he was born in Shawinigan QC and he loved calling himself the "little guy from Shawinigan", they called it the [Shawinigan Handshake](https://en.m.wikipedia.org/wiki/Shawinigan_Handshake).
 - It is the Japanese who liked [rubbing dirt into smooth balls](https://en.wikipedia.org/wiki/Dorodango), calling it Dorodango.
-- You don't need to sleep 12 hours apart to work night shift. If you are to work from 9pm to 5am, then you can sleep from 6pm to 2am, only 6 hours different from your normal cycle.
-- It was a [black woman named China](https://m.huffpost.com/us/entry/3948106) who cooked her baby in the microwave. The story is real.
+- You don't need to sleep 12 hours apart to work night shift. If you are to work from 9pm to 5am, then you can sleep from 6am to 2pm, only 6 hours different from your normal cycle.
 - [Flash pasteurization](https://en.wikipedia.org/wiki/Flash_pasteurization) doesn't boil anything. The liquid is heated to 71.5 °C (160 °F) to 74 °C (165 °F) for about 15 to 30 seconds. UHT (ultra-heat-treating), however, does boil your liquid at 140 °C (284 °F) for four seconds.
 - There are [no](https://zh-yue.wikipedia.org/wiki/%E4%BA%94%E9%A6%99%E8%82%89%E4%B8%81) alternate pages for 五香肉丁.
 - Nikki Minaj is 3/4 Afro-Trinidad and 1/4 Indo-Trinidad. When she went to the US, she became African-American. She is clearly in Wikipedia's list of [African-American female rappers](https://en.wikipedia.org/wiki/Category:African-American_female_rappers).
@@ -1047,7 +1045,6 @@
 - The tie clip goes between the third and fourth button of the shirt, and should never be longer than 3/4 of the tie's width.
 - Mr.T (Tureaud) was a wrestler.
 - _Two_ fast elevators/lifts go a long way when searching for an apartment. Also, don't rent the apartment next to the garbage/rubbish chute. Even if it doesn't smell, you'll hear things tumbling down it every other minute.
-- Fingerprint scanners work when you are asleep. Face unlock doesn't. If you have a jealous spouse, don't trust the finger.
 - Washing jeans only when they smell is [apparently](http://www.businessinsider.com/how-often-you-should-wash-jeans-2016-3) the actual best way to treat them.
 - You can go around signing people's PGP public keys, _and_ upload your signing of the key to the keyserver anonymously. This is because no one forces you to do it, and [people tend to trust whichever key is more signed than others.](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x79BE3E4300411886)
 - To understand why [the automotive equivalent of Sears](http://www.canadiantire.ca/en.html) is still going up, you have to know why people shop there. To know why people shop there, you have to know where else they can get new tires these days. Not a lot of places really. Dealerships rip you off, Tire shops are questionable sometimes, eBay takes a long time, stuff like that. You also want to know why people even buy those things. The answer is: winter.
@@ -1086,7 +1083,6 @@
 - Angostura bitters labels are too big for the bottles because they [accidentally did it that one time](http://www.alcademics.com/2011/03/the-history-and-production-of-angostura-bitters.html), and then kept doing it.
 - If you hit/run over someone else's dog, driving away counts as "damaging someone's property and fleeing the scene".
 - _Baker_, _Boulanger_, and _Panettiere_ are all the same last name for people who used to bake.
-- [Italians didn't really speak Italian](https://history.stackexchange.com/questions/14712/in-1861-few-italians-spoke-italian) when Italy was unified in 1861. The French didn't speak much French either. More people spoke Occitan than French back then.
 - [Wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) is an analogy that if a person's livelihood depends on wages or a salary, then the person is a slave to the wage or salary, and therefore the company/corporation. "The salaried [are] only free-ranged slave[s] that [are] nothing but just a tool to create wealth for [the rich]."
 - UMTS is based on GSM, but HSDPA is based on WCDMA. The "band 4" that wind mobile always talks about is [UMTS band 4, 1700/2100MHz](https://www.frequencycheck.com/carriers/wind-canada). Somehow, "Supported UMTS protocols" _includes_ HSPA+, which is WCDMA. Not confusing enough? They will be using band 66 for LTE (GSM), except East Ontario, which will use the same AWS band 4 (WCDMA) for LTE (GSM??). Both LTE [band 4](https://www.frequencycheck.com/bands/lte-band-4-aws-1) and [band 66](https://www.frequencycheck.com/bands/lte-band-66-1700-2100) use 1700/2100MHz. [Band 66 includes the entirety of band 4 in terms of frequency](http://www.phonescoop.com/glossary/term.php?gid=570): band 4 goes from blocks A to F, while band 66 includes blocks from A to J. After all that, what's the ultimate the bummer? [You might need special code on the phone to support band 66.](https://mobilesyrup.com/2017/07/11/oneplus-5-other-unlocked-band-66-devices-may-be-incompatible-freedom-lte/)
 - Even the strongest "maximum strength" "repairing" Vaseline lotion "for men" is less strong than just Vaseline, the petroleum jelly. Vaseline [says](http://www.vaseline.us/skin-health-care/does-vaseline-clog-pores.html) it doesn't clog pores so it must be true.
@@ -1094,7 +1090,6 @@
 - People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
 - [Austin Evans had his house burn down once.](https://www.youtube.com/watch?v=PGqZkOveLb8) [It was not his heater.](https://twitter.com/austinnotduncan/status/428747620354236416?lang=en)
 - If someone is watching you, then if you yawn, they might as well.
-- If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.
 - Cigarette filters are made of fiberglass.
 - Zack says the name "BlackBerry" was coined by marketing company Lexicon Branding, due to the resemblance of the keyboard's buttons to that of the [drupelets](https://en.wikipedia.org/wiki/Drupe) that compose the blackberry fruit.
 - To [determine the week day of any date](http://gmmentalgym.blogspot.ca/2011/03/day-of-week-for-any-date-revised.html#ndatebasics): (Sunday=0 ~ Saturday=6) + (Map your months to 6 or 5,2 or 1,2,5,0,3,5,1,4,6,2,4) + (Some really, really weird rules regarding years).
@@ -1109,7 +1104,6 @@
 - One CPU branching misprediction costs 5ns.
 - If you keep sending emails to addresses that don't exist, that web server flags you down as spam.
 - If you don't set up some default mailboxes (like webmaster@, abuse@) required by [RFC 2142](https://www.ietf.org/rfc/rfc2142.txt), then [RFC-Clueless](http://rfc-clueless.org/) will add you to their blacklist, and you will no longer send/receive mail.
-- Uncle from Jackie Chan Adventures says "妖魔鬼怪快啲走" all the time.
 - The Frito Company merged with H.W. Lay & Co. in 1961. They kept making Lays chips all while being owned by PepsiCo. Fun Fact: Lays chips are PepsiCo's third largest brand, after Pepsi and Mountain Dew.
 - Foam rings around the [beer] glass are a sign that the glass was cleaned properly.
 - To ["curve someone"](https://i.redd.it/xdu6i6ypy9sz.jpg) is to reject someone.
@@ -1127,7 +1121,7 @@
 - The dead skin and stuff you may accumulate between your toes, they call it "toe jam".
 - If you get two tens at blackjack, [don't split them into two separate bets.](https://www.youtube.com/watch?v=vdbhpDkhh9E)
 - Planes are very dry places. [Drink 250mL of water every single hour.](https://www.cntraveler.com/story/this-is-how-much-water-you-should-drink-on-a-plane)
-- To be fair, "49,95€" sounds like "forty-nine, ninety-five euro" when you say it out loud. "\$49.95" would be "dollar forty-nine point nine five", which is less similar to "forty-nine ninety-five". The [Euro](https://en.wikipedia.org/wiki/Currency_symbol#Usage) is one of the currencies that have the symbol either before or after.
+- To be fair, "49,95€" sounds like "forty-nine, ninety-five euro" when you say it out loud. "\$49.95" would be "dollar forty-nine point nine five", which is less similar to "forty-nine ninety-five". The [Euro](https://en.wikipedia.org/wiki/Currency_symbol#Usage) is one of the currencies that have the symbol either before or after, while the [Cape Verdean escudo](https://en.wikipedia.org/wiki/Cape_Verdean_escudo) places its symbol in the decimal separator position (i.e., 20$00).
 - If you find soda cans in an airport, congrats! [You can make weapons with them!](https://vimeo.com/channels/terminalcornucopia)
 - No such thing as [corinthian leather](https://en.wikipedia.org/wiki/Corinthian_leather). Just a term made up by Chrysler advertising.
 - "Hick town" means "redneck town". Rednecks themselves all their towns hick towns. Example: _"Are y'all gay looking to see how long it takes to get beat up in a hick town? NASCAR sucks?' 'Country and Western is rubbish?' Guess what, you're in a hick town man."_
@@ -1169,7 +1163,7 @@
 - In the autotuned degeneracy that is "I'm The One", DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, _and_ Lil Wayne all claim to be the one.
 - Cap'n Crunch is a commander-class officer. Luckily, [since the commanding officer of any vessel is always called the captain](https://www.reddit.com/r/funny/comments/4ulaeh/commander_crunch/d5qs3wy/), calling it Captain Crunch is still correct.
 - [Toad from Nintendo](https://www.youtube.com/watch?v=4FaRP12ck7k) has three strands of hair. [That mushroom top is _not_ its head.](https://www.mariowiki.com/Toad_%28species%29#Mushroom_caps) Also, in the same video, cereals in photoshoots are often placed in white glue or [wildroot hair tonic](http://www.peachpit.com/articles/article.aspx?p=1964563&seqNum=2) instead of real milk.
-- According to Mozilla, [i18n differs from l10n](https://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/) in that i18n enables l10n.
+- According to Mozilla, [i18n differs from l10n](https://blog.mozilla.org/l10n/2011/12/14/i18n-vs-l10n-whats-the-diff/) in that i18n enables l10n. [L10n is the adaptation of the software to a local market ("locale")](https://www.w3.org/International/questions/qa-i18n), while i18n is the groundwork, like using unicode and separating content from code, that eventually enables l10n. So, in a way, i18n is the prepping, while l10n is actually doing it.
 - "Petit a petit" translates to "little by little" rather than "small by small".
 - Single quotes don't work in `COUNTIFS` conditions. Well, in general, strings in Excel should/must be written in double quotes.
 - The juicero "bag squeezer" is useless, but [very well made.](https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50)
@@ -1179,7 +1173,6 @@
 - Not entirely sure what "colour space" means, but it would seem that [it doesn't really matter which one you pick, as long as the display is showing your content in the same colour space that you originally used to capture/create the content](https://www.anandtech.com/show/10836/the-oneplus-3t-mini-review/2). If you do that, then "the display is accurate".
 - South Korea is `.kr`. North Korea is `.kp`.
 - During the Cold War, the Russians spotted fake passports made by USA by the [staples](http://news.bbc.co.uk/2/hi/europe/2065020.stm). "(Staples in) fake Soviet passports were made of good US, non-corrosive, stainless steel. Genuine Russian passports had staples made of metal that began to rust as soon as the passports were issued."
-- [Evil Rick](http://rickandmorty.wikia.com/wiki/Evil_Rick) might be the one from [dimension 0716-A](https://i.redd.it/jj3xbua9tqlz.jpg).
 - A man named Ben [replaces Christian Bale](http://screenrant.com/batman-v-superman-christian-bale/) in Batman vs Superman.
 - Both Superman and Batman came from DC comics, but the people inside it believe in a higher power other than the two. And Batman vs Superman is poorly received because Christian Bale wasn't in it.
 - [The Nintendo Switch uses a plastic screen](https://www.youtube.com/watch?v=XJP6gERPmMk) on purpose: so kids can't crack it. The whole exterior is plastic; the device is designed for abuse. Which smartphones aren't. This is why these console things still have an enormous market.
@@ -1192,7 +1185,6 @@
 - George Orwell believes tea from China is inferior to tea from India.
 - For any UI popup confirming if ["Are you sure you want to foo bar?"](https://ux.stackexchange.com/questions/756/what-are-some-alternatives-to-the-phrase-are-you-sure-you-want-to-xyz-in-confi), you can remove the "Are you sure you want to" and still have a popup that makes sense.
 - Tan is more commonly [陳](https://www.quora.com/Where-is-the-origins-of-Tan-%E9%99%B3-surname) rather than 譚 in Singapore.
-- Legend has it that OK came from "Oll Korrect."
 - Corked wine tastes better than bottled wine because people enjoy the sound it makes when opened.
 - [Even professors can be homeless too](https://www.theguardian.com/us-news/2017/sep/28/adjunct-professors-homeless-sex-work-academia-poverty), if you study English/Literature, an oversupplied field...
 - [HP employs the industry's oldest IT workers on average.](http://www.businessinsider.com/stressful-lives-of-older-tech-workers-2015-11?_lrsc=e525de47-81f1-48b4-bc62-2a1e336af828) None of the listed companies had an average tech worker age higher than 40. This means: **kill yourself when you reach 40 years old.**
@@ -1259,7 +1251,6 @@
 - Transvestism is just crossdressing. No dicks are cut off or sewn on by transvestism.
 - [Documentation is like a hand job.](https://www.reddit.com/r/ProgrammerHumor/comments/70bral/one_of_my_cs_teachers_dropped_this_the_other_day/) You're better at it yourself, but you want someone else to do it.
 - Sasquatch is literally Bigfoot.
-- Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
 - If a colleague asks you "what's for lunch,'" reply with _So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'_ (Matthew 6:31), best without context.
 - [Double IPA _is_ Imperial IPA](http://beergraphs.com/bg/182-whats-a-triple-ipa/). Triple IPA is something like that, with even more hops.
 - reCAPTCHA is [extremely accessible](https://news.ycombinator.com/item?id=15224199) for obvious reasons.
@@ -1268,7 +1259,6 @@
 - "What do we eat" "Que-mangeons nous" is "What eats us?"?
 - The ["eat"](http://pocketcultures.com/topicsoftheworld/files/2011/09/Copia-de-acomer2-425x318.jpg) gesture and the "fuck off" gesture differ only by whether the fingers point toward the mouth.
 - [AM is in the 0.5~1.6MHz range. FM is in the 88.1~108.1MHz range.](http://hyperphysics.phy-astr.gsu.edu/hbase/Audio/radio.html) Short wave radio is in between the two bands.
-- Google Translate pronounces your name "correctly" in both the US and UK accents.
 - [(long, lat) maps to the x-y axis better.](https://stackoverflow.com/questions/18636564/lat-long-or-long-lat) However, [ISO-6709](https://en.wikipedia.org/wiki/ISO_6709#Items) "Standard representation of geographic point location by coordinates" wants (lat, long) instead, which has the first vertical coordinate at the front.
 - The moon is 38% of a billion metres away.
 - The [revolving door](https://en.wikipedia.org/wiki/Revolving_door_%28politics%29): Governments hire industry professionals for their private sector experience. Industry, in turn, hires people out of government positions to gain personal access to government officials.
@@ -1354,7 +1344,6 @@
 - A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
 - At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
 - [Tile's batteries are not user-replaceable.](https://www.amazon.ca/Tile-Combo-Wallet-Finder-4-Pack/dp/B01MF9VQOP/ref=pd_sbs_107_1?_encoding=UTF8&psc=1&refRID=2FA6KEAHKFDTCX7H1ZDK) But [it's just a CR-2032.](https://www.youtube.com/watch?v=k-BTStjaxgw) So why don't they let you replace it yourself? Because it would break the waterproofing? No! Because fuck you, that's why.
-- [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
 - "Tommy and Gina" were referenced in both Bon Jovi's [Livin' on a Prayer](https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer) in 1986, and [It's my life](https://en.wikipedia.org/wiki/It%27s_My_Life_%28Bon_Jovi_song%29) in 2000.
 - Weevils can be killed by either frying your rice at 60 degrees Celsius for 15 minutes, or freezing at -18 degrees for 3 days.
 - REIT stands for real estate investment trust. It is a way to [invest in real estate](https://www.google.com/finance?q=TSE%3ACAR.UN) without buying houses.
@@ -1437,7 +1426,6 @@
 - "HODL" is a typo of HOLD. It originated [here](https://bitcointalk.org/index.php?topic=375643.0).
 - Putting an employee on PIP (performance improvement plan), whether or not there is a performance issue, is [a great way to legally fire someone for no reason](https://www.thebalance.com/is-a-pip-the-first-step-in-firing-an-employee-3980663).
 - Ask for directions from a dog walker. Dog walkers are likely local, likely walk a lot, and likely know the roads on which they walk.
-- _Yinz_ is Pittsburghers' unique version of _Y'all_.
 - French stop signs say "ARRET\nSTOP". Quebec signs just say "ARRET".
 - By total length, Birmingham has more canals than Venice.
 - T-Mobile was/is owned by Deutsche Telekom.
@@ -1523,7 +1511,6 @@
 - [Suicide tourism](https://en.wikipedia.org/wiki/Suicide_tourism) is a thing. People travel to Zurich to legally end themselves all the time.
 - ["Right to Hire"](http://emersongroupinc.com/employment-definitions/) in the States is hiring a temporary position that might be retained as permanent later on. This is in contrast with direct hire, which is your stereotypical full-time job.
 - Sears was founded in 1886. [Sears Holdings](https://en.wikipedia.org/wiki/Sears_Holdings) is actually [Kmart](https://en.wikipedia.org/wiki/Kmart). When Kmart bought Sears in 2005, Kmart named itself Sears Holdings, then spun off the remainder into Kmart again.
-- [But why male models](https://www.youtube.com/watch?v=WHrn_pHW2so) is a Zoolander reference.
 - A tachometer measures rotations per minute. A [tacometer](http://www.urbandictionary.com/define.php?term=tacometer%20%28Tm%29) measures the number of tacos per minute.
 - [Hot weather seriously degrades aircrafts' ability to take off.](http://www.bbc.com/news/world-us-canada-40339730) air is thinner when hot.
 - Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating, soft-soiled, "shaving-cream-in-a-can" business.
@@ -1546,7 +1533,6 @@
 - When attempting to change a project's configuration, Gerrit will save a draft of the config for you.
 - [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr)'s real name is Richard Starkey.
 - [Honey nut cheerios don't contain almond anymore](https://consumerist.com/2014/06/09/heres-why-honey-nut-cheerios-dont-contain-nuts/). The flavour is now from peaches[' pits], which are a relative of almonds.
-- When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
 - Realtors don't do the lawyer stuff; lawyers do the lawyer stuff. You can (if you want) buy and sell houses without a realtor. "The real work in a real estate transaction is done by the lawyers... title searches, transfer of funds, lien registrations, signing of documents, and more... Real estate agents show the house, and very little more. They write the offer, but anyone can do that, the forms are pre-printed."
 - [Bruce Wayne talked to Batman once.](https://www.youtube.com/watch?v=tgCkmUS1IYI)
 - "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the "add to cart" action to never fail)."
@@ -1585,7 +1571,6 @@
 - [Database normalisation](https://en.wikipedia.org/wiki/Database_normalization) refers to making tables and columns that make sense (to reduce redundancy). It comes in many normal forms; [here is the first normal form.](https://en.wikipedia.org/wiki/First_normal_form)
 - Bonds have had an incredible bull run over the last 20 years due to falling interest rates. Very unlikely that continues.
 - ["Your mother was a hamster and your father smelt of elderberries!"](https://www.youtube.com/watch?v=cAy4zULKFDU) meant "your mother is a whore / makes many babies and your father is a drunk".
-- "Dabbing" is supposed to be you sneezing into your shoulder (because you smoked cannibis oil, i.e. dabbing), and also handing the dab to the next person. Information provided by /u/submortimer.
 - [Sloe gin](https://en.wikipedia.org/wiki/Sloe_gin) is not slow gin. Sloe gin is made by soaking sloes (a fruit like plums) in gin.
 - A police from [where's the little girl](http://www.huffingtonpost.com/2011/11/11/save-miranda-police-video_n_1088723.html) video was once fired for being involved in inappropriate humour.
 - [Religion websites see the most expensive phone users, and Adult and pornography websites see the least expensive phone users.](https://www.scientiamobile.com/page/smartphone-price-website-category) Conclusion: if you want a cheaper phone, you should masturbate furiously.
@@ -1622,7 +1607,6 @@
 - Duct tape does not protect windows against the wind in a storm; duct tape does not protect anything during a storm. It ensures glass shrapnels do not fly everywhere.
 - Maple Syrup molds. Honey doesn't.
 - The majority of "Kingdom Hall of Jehovah's Witnesses" on Google Maps are/were rated 5.0 stars by fewer than 3 users.
-- [Beers are traditionally sour.](https://en.wikipedia.org/wiki/Sour_beer) It was when people started sterilising the vessels that beers stopped having that sour taste.
 - If vacation days cannot be carried forward over New Year, suspect you can convert all of them into pay, and then simply not getting paid for the future days you don't go to work, netting \$0.
 - Amazon was an online book store 20 years ago. It sold nothing else. [The boss looked like a book nerd.](https://i.imgur.com/BfZ6roy.jpg)
 - The only Family Guy character that moves at a given time is the character that is talking (a side effect of animators being lazy/underpaid/both). After a few seasons, they also kill their own jokes by explaining them right after (a side effect of lengthening the show without adding substance).
@@ -1664,7 +1648,6 @@
 - At programming meetups, just like your experience, have [Wi-Fi that never work](https://python.sh/2017/4/why-i-stopped-attending-programming-meetups).
 - _As a recovering \${drug} addict, I get seriously offended when a website or a piece of software still calls me a "user."_
 - 70% of Japanese people like natto, and 29.8% don't. Compared to durians, its whole deal about "powerful smell, strong flavor, and slimy texture" are a walk in the park.
-- [Go to Glassdoor and answer every basic question.](https://www.glassdoor.ca/Interview/programming-interview-questions-SRCH_KT0,11.htm?countryRedirect=true)
 - "If you want someone to come to you, tell them to meet you halfway at X location whilst you are there already. They will be more likely to come to you if they think you are doing the same amount of walking you are." [This also works for Craigslist pickups](https://www.reddit.com/r/SocialEngineering/comments/65i5gv/fairly_harmless_se_trick_i_made/).
 - If you are extremely paranoid about letting people who mail you things know where you live (which are usually the same place), or just homeless, [get a PO box](https://www.reddit.com/r/LifeProTips/comments/65j5nr/lpt_if_youre_starting_out_in_a_new_city_and_dont/).
 - Emma Morano, the last surviving person from the 1800s, ate [two raw eggs](http://www.bbc.co.uk/news/amp/39610937) a day.
@@ -1678,7 +1661,6 @@
 - In braille, one dot means "capitalise the first letter of the next word", and two dots means "capitalise the whole word".
 - The girl statue on Wall Street is advertisement for a fund.
 - There has not been a single occasion (at least until S03E01) where Rick travelled to the past from the present. Maybe it is not possible.
-- The Google Maps street view man is called [Pegman](https://vulcanpost.com/350661/google-maps-yellow-man-pegman/), not Pinman.
 - All [Reddit engineering jobs](https://about.reddit.com/careers/) are located in San Francisco.
 - Some weight lifters attach chains to their weights, so as the weights are lifted, the chains add weight proportional to how high it is off the ground. "A muscle fiber is weakest when all of its contractile units are either fully extended or fully contracted and strongest at some point in between."
 - [Sand is a finite resource...?](https://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html) Not because silicon dioxide is rare, but because crushing rock is costly, desert sand is round and smooth no good for construction, and a use rate of 40 billion tons per year is a lot to come up with.
@@ -1687,7 +1669,6 @@
 - [John](https://en.wikipedia.org/wiki/John_%28given_name%29) (Hebrew), Hans (German), Ian (Scottish), Evan (Welsh), and Ivan (Cyrillic) are all the same name.
 - The [Cheshire Cat](https://en.wikipedia.org/wiki/Cheshire_Cat) with that stupid grin came from Alice[ Kingsleigh]'s Adventures in Wonderland, one of the first things mentioned. That stupid ass-smile (Stephen Fry) was popularised by [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice_in_Wonderland_%282010_film%29), the movie. In the movie, you can fall for a whole minute and hit a roof without dying.
 - 5cm is the difference between being warm, and having your shoulders stuck out of the sleeping bag because you were cheap.
-- The Spartan [Gerousia](https://en.wikipedia.org/wiki/Gerousia) performed a common form of eugenics (which is also a Greek word), whereby babies that are weak or abnormal are left for dead. Adolf Hitler considered Sparta to be the first "[Völkisch](https://en.wikipedia.org/wiki/V%C3%B6lkisch_movement) State", whatever folkish means.
 - It is unclear whether or not Jack Layton used the [Jack Layton Ferry Terminal](https://en.wikipedia.org/wiki/Jack_Layton_Ferry_Terminal) before it was called the Jack Layton Ferry Terminal.
 - Pokemon evolved (heh) from [Capsule Monsters](http://bulbapedia.bulbagarden.net/wiki/Capsule_Monsters), featuring at least Nidorino, Gengar, and Lapras. It was drawn by Satoshi Tajiri (田尻 智), who is now CEO of Game Freak.
 - Incidentally, [尻](https://ja.wikipedia.org/wiki/%E5%B0%BB) (haau) is definitely buttocks.
@@ -1889,7 +1870,6 @@
 - Ansible has an [Ansible Galaxy](https://galaxy.ansible.com/intro) service, which is a playbook repository for never making the same playbook someone else has already made.
 - A [trie](http://en.wikipedia.org/wiki/Trie) is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
 - [Compact prefix trees](http://en.wikipedia.org/wiki/Compact_prefix_tree) are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
-- According to Alex, "schnitzel" is usually made with beef.
 - [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.
 - People are "in cahoots" means that they are conspiring on something.
 - Authentic _chili con carne_ does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
@@ -2032,7 +2012,6 @@
 - [Not supporting unicode in your app can cost lives](http://languagelog.ldc.upenn.edu/nll/?p=73)
 - The name "Pineapple" was first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
 - We use 10% of the brain like we use 33% of a stoplight.
-- [Plus codes](http://www.androidpolice.com/2015/08/14/plus-codes-are-an-easier-and-more-accurate-way-of-locating-people-and-businesses-in-places-with-no-specific-street-address/): Google Plus Codes
 - If a house is near Japanese Knotweed, it has already taken its foundation. cannot be sold.
 - Star-Spangled Banner was a rip of [To Anacreon in Heaven](http://www.bbc.com/news/magazine-34052000).
 - Rebasing someone else's signed commit, understandably, removes the signature.
@@ -2047,7 +2026,6 @@
 - Kazakhstan has the largest and strongest performing economy in Central Asia. It is not a Russian dirt ground with no money.
 - There is a bunch of paperwork involved when a firearm is discharged, including the exact number of rounds expended.
 - [SSLv3 has been obsolete for over 16 years and is so full of known problems that the IETF has decided that it must no longer be used.](http://googleonlinesecurity.blogspot.ca/2015/09/disabling-sslv3-and-rc4.html?m=1)
-- There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
 - [Bleach](http://m.nursingtimes.net/5022735.article) might kill warts.
 - [White noise backup trucks](https://youtube.com/watch?v=fa28lIGuxq8) sound more directional than beeping trucks.
 - "Invariance" is just a fancy way of saying "the subclass method takes the same stuff as the base class method".
@@ -2094,7 +2072,6 @@
 - Crab sticks are also called [seafood extenders](https://google.com/search?q=seafood+extender)
 - "According to the United States Department of Agriculture National Nutrient Database, (crab sticks) contains about 76% water, 15% protein, 6.85% carbohydrate, and 0.9% fat."
 - Toyota is [still making sewing machines](http://gb.home-sewing.com/en_gb/). Toyoda started it in 1946, after the motor corporation.
-- [The fact that smoke calms bees has been known since ancient times](https://en.wikipedia.org/wiki/Bee_smoker); however, the scientific explanation was unknown until the 20th century and is still not fully understood.
 - [The Nash Equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): in Game Theory, if all players have nothing to gain by changing their strategies. Bitcoin achieved such an equilibrium with its miners.
 - Korea is named after [高麗](https://en.wikipedia.org/wiki/Goryeo), in turn from [高句麗](https://zh.wikipedia.org/zh-hk/%E9%AB%98%E5%8F%A5%E4%B8%BD), pronounced "GOlia".
 - North Korea, on the other hand, calls itself [朝鮮](https://en.wikipedia.org/wiki/Joseon) ("JIUsan"), the dynasty after 高麗.
@@ -2115,7 +2092,6 @@
 - Jews call meatloaf "Klops", the German word for meatball.
 - In USA: ["The term "dog" has been used as a synonym for sausage since 1884 and accusations that sausage makers used dog meat date to at least 1845."](https://en.wikipedia.org/wiki/Dog_meat#United_States_of_America)
 - To combat lactose intolerance, drink milk with a meal.
-- Having people ask ["why do Star Wars laser guns shoot slower than light"](http://scifi.stackexchange.com/questions/13702/why-are-blaster-bolts-in-star-wars-moving-slower-than-speed-of-light), the guns were changed to plasma rifles.
 - The AKM is [strikingly similar](http://i.imgur.com/cWz7YIG.jpg) to the AK-47, with AK-47 having a larger sight.
 - Carrie Fisher had a close relationship with James Blunt, as his post-war therapist.
 - Always buy LCD monitors in pairs or triplets. It is unlikely to be able to get the same monitor again when you want a dual monitor setup.
@@ -2144,7 +2120,6 @@
 - Mushrooms are 90%+ water by volume. Besides Vitamin B (and D, if grown in the sun), there is no significant value in consuming them.
 - A "noose" is the way the rope is tied when you try to hang yourself.
 - [Elton John](https://en.wikipedia.org/wiki/Elton_John) was born Reginald Kenneth Dwight, with neither Elton nor John in his name. Elton and John came from Bluesology saxophonist Elton Dean and Long John Baldry.
-- [50 Cent](https://en.wikipedia.org/wiki/50_Cent) was born Curtis James Jackson III, with neither 50 nor Cent in his name.
 - Manboobs feel the same as woman boobs.
 - Grated cheese can apparently [contain cellulose](http://www.bloomberg.com/news/articles/2016-02-24/wal-mart-sued-over-parmesan-cheese-with-wood-pulp-filler).
 - [1 out of 4](http://www.internetworldstats.com/stats7.htm) top 10 Internet languages is right to left.
@@ -2177,7 +2152,6 @@
 - [Common sense](https://www.reddit.com/r/AskReddit/comments/4c2hat/fast_food_workerswhat_should_we_never_order_from/) is ordering things from a fast food restaurant only if the ingredients appear in more than one item, which makes sure they are fresh.
 - Moscow, in its native tongue, sounds like "MOSKva".
 - A [perennial plant](https://en.wikipedia.org/wiki/Perennial_plant) is a plant that lives for more than two years. Other terms are annuals (one year) and biennials (two years).
-- [Homeless people are still eligible for OHIP](https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y), but you should talk to Salvation Army about this, who supposedly helps with homeless matters.
 - [Ragu](https://en.wikipedia.org/wiki/Rag%C3%B9) is meant to be made with fettuccine. That makes spaghetti and meatballs fettuccine and meatballs.
 - The event that killed the dinosaurs was only [the third largest extinction event](http://www.bbc.co.uk/nature/extinction_events). The [Permian mass extinction](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event), instead, was the only mass extinction of insects, and killed off 96% of the species.
 - busybox is just [a bunch of hardlinks](https://www.reddit.com/r/askscience/comments/4d1w8x/why_can_you_rename_or_change_the_path_of_an_open/d1njoxz) to the same file. This saves space.
@@ -2200,7 +2174,6 @@
 - DDR4 RAM is not backwards compatible with DDR3 slots.
 - _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 - Charisma is essentially the ability to tell good stories.
-- Quirrell stuttered because he was tormented by the back of his head.
 - [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 - The [Beaufort scale](https://en.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
 - [Women always scream, often while doing nothing, it is a global phenomenon](https://www.reddit.com/r/videos/comments/4ju3ip/still_one_of_the_eeriest_videos_ive_seen_the/d39un1a).
@@ -2250,7 +2223,6 @@
 - Despite being part of the bowling team, The Dude is never seen bowling during the movie.
 - Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007--2008 world food price crisis.
 - "Oil pulling" is rinsing the mouth with sesame oil to remove toxins and things. It doesn't work, but some people do it anyway.
-- Uncle Ben's (not related to the point above) [90 second rice](https://www.unclebens.com/products/ready-rice/jasmine), through whatever magic, manages to be wet and edible without adding any preservatives.
 - Lemmings, apparently a small rodent, [do not commit mass suicide](http://io9.gizmodo.com/lemming-suicide-is-a-myth-that-was-perpetuated-by-disne-1549040246). Disney people pushed them down a cliff and made them drown.
 - Iran now accounts for approximately 90% of the world production of saffron.
 - People [used to wake up at night as a matter of fact.](http://lifehacker.com/try-a-bi-modal-sleeping-pattern-if-you-frequently-wake-1783439757) It is LifeHacker, however, so what it says might just be wildly incorrect.
@@ -2371,7 +2343,6 @@
 - ["Tax deductible"](https://familyshare.com/200/what-does-it-mean-to-be-tax-deductible-and-why-does-it-matter) means something reduces your taxable income, often in the form of tax credits. A non-tax deductible expense is therefore one that does not give you tax credits.
 - A Baptist U research found that a conspiracy gets worse if the government tries to dispute it. This stems from people's distrust of the government. To dispel the conspiracy, let a famous scholar do the job.
 - "Military grade" is not that great. "Aircraft grade" isn't all that great either. What you want is [Toyota grade or 3M grade](https://en.wikipedia.org/wiki/List_of_Six_Sigma_companies).
-- ["On Inauguration Day, Trump apparently filed his candidacy for 2020. Beyond being unusual, this opens up the ability for him to start accepting "campaign contributions" right away. Given that a sizable fraction of the campaign funds from the previous cycle were paid directly to the Trump organization in exchange for building leases, etc., at inflated rates, you can assume that those campaign coffers are a mechanism by which US nationals can easily give cash bribes directly to Trump."](https://medium.com/@yonatanzunger/trial-balloon-for-a-coup-e024990891d5#.fop83h2ew) (same article: there is a very tight group of people running the [Trump](https://np.reddit.com/r/politics/comments/5s4r9r/socalled_judge_criticized_by_trump_is_known_as_a/ddcfc3o/) government, intending to test the limits of the American administration, to see how much they can get away with before the people stage a coup.)
 - Black boxes are called [flight recorders](https://en.wikipedia.org/wiki/Flight_recorder). They are always orange, never black.
 - "Mass murder of the political opposition is not genocide" was said to be an important distinction because _genocide_ is dedicated to "mass murder of a particular ethnic group or nation." Therefore, the [mass killings](http://www.bbc.com/news/world-middle-east-38885901) taking place during the Syrian conflict are not genocides.
 - The baseball referee is called the umpire. The tennis referee might also be called the umpire.

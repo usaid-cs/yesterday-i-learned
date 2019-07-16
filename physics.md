@@ -98,3 +98,4 @@
 - The sun's diameter is pretty close to 400 times that of the moon's (400.5).
 - Voyager I is analogue. It takes pictures like a fax machine, and sends them back like a radio.
 - In 2015, the definition of a parsec changed from "the distance at which one astronomical unitsubtends an angle of one arcsecond" to "648000/π astronomical units", which is about 3.26 light-years.
+- When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.

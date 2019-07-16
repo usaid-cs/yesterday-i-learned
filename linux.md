@@ -94,6 +94,7 @@
 - SSH supports [elliptic curve](http://blog.tjll.net/ssh-kung-fu/) key pairs as well! No particular reason to use it (other than fewer bits)
 - A device running Ubuntu 14.04 LTS will only tell you there is a new Ubuntu update after the first point release goes live.
 - Not all programs support the `scp://` protocol. For example, `vim scp://ohai.ca/poop` works but `nano scp://ohai.ca/poop` doesn't.
+- [`rsync -avz` is faster than `scp -Cr`](https://superuser.com/questions/193952/why-is-rsync-avz-faster-than-scp-r), both recursively copy a directory from one machine to another.
 - Running `ssh -D 9090 user@host` on your local computer, then asking your browser (e.g. firefox) to use that localhost port as a SOCKS proxy, will turn port 9090 into a proxy, _provided that `network.proxy.socks_remote_dns` is set to `true`_.
 - Bash defines functions using `function something {}`; sh uses `something () {}`. Parameters remain `$1`, `$2`, ... .
 - `alias ll='ls -al'` is present in _many_ distros.

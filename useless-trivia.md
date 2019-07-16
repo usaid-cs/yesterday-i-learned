@@ -1,3 +1,4 @@
+- [Chuck Norris](https://en.wikipedia.org/wiki/Chuck_Norris) is (currently) 79, and, at 2015, still had a lot of hair.
 - Guido van Rossum has a brother, Just van Rossum. (His first name is just Just.)
 - On Bill Murray's 20th birthday, he was arrested. For smuggling 10lbs of marijuana in a luggage. Which he intended to sell. Because he was joking about the luggage being a bomb. While on a plane. **He got off with a probation.**
 - Jackie Chan named his own child [Jaycee](https://newrepublic.com/article/152848/painful-price-becoming-jackie-chan), after his own initials, JC.
@@ -152,3 +153,17 @@
 - Emma Watson was in a film with Tom Hanks, called "The Circle". Never seen the movie, but some of the soundtracks were good.
 - /r/fakenews existed before it was cool. It has nothing to do with that guy who keeps making up fake news.
 - Since who-knows-when, Google started listing results as ["Page 3 of about 3,520 results"](https://www.google.ca/search?q=%22seats+are+rubbish%22), like some sort of joke about Americans mixing ounces with yards.
+- "Dabbing" is supposed to be you sneezing into your shoulder (because you smoked cannibis oil, i.e. dabbing), and also handing the dab to the next person. Information provided by /u/submortimer.
+- It was a [black woman named China](https://m.huffpost.com/us/entry/3948106) who cooked her baby in the microwave. The story is real.
+- [Twitter has a follow limit.](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/) (currently 5000)
+- In the latest GitHub [diversity report](https://github.com/about/diversity), none ("We don't have enough self-reported data") of the users reported as non-binary. 40% of the users even get laid (as evident of them being parents, excepting those who adopt, were virgin Mary, or otherwise inherited children by unconventional means).
+- Google Translate pronounces your name "correctly" in both the US and UK accents.
+- Quirrell stuttered because he was tormented by the back of his head.
+- Both Stephen King and Robert Downey Jr had addiction problems. King took cocaine, wrote [The Tommyknockers](https://en.wikipedia.org/wiki/The_Tommyknockers), and couldn't remember writing it. Robert had multiple cocaine arrests.
+- [Evil Rick](http://rickandmorty.wikia.com/wiki/Evil_Rick) might be the one from [dimension 0716-A](https://i.redd.it/jj3xbua9tqlz.jpg).
+- [50 Cent](https://en.wikipedia.org/wiki/50_Cent) was born Curtis James Jackson III, with neither 50 nor Cent in his name.
+- Uncle from Jackie Chan Adventures says "妖魔鬼怪快啲走" all the time.
+- [But why male models](https://www.youtube.com/watch?v=WHrn_pHW2so) is a Zoolander reference.
+- [Plus codes](http://www.androidpolice.com/2015/08/14/plus-codes-are-an-easier-and-more-accurate-way-of-locating-people-and-businesses-in-places-with-no-specific-street-address/): Google Plus Codes
+- The Google Maps street view man is called [Pegman](https://vulcanpost.com/350661/google-maps-yellow-man-pegman/), not Pinman.
+- Having people ask ["why do Star Wars laser guns shoot slower than light"](http://scifi.stackexchange.com/questions/13702/why-are-blaster-bolts-in-star-wars-moving-slower-than-speed-of-light), the guns were changed to plasma rifles.
