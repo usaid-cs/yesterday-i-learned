@@ -1,3 +1,4 @@
+- [Streamed install](https://stackoverflow.com/questions/55524302/what-is-performing-streamed-install) (with `cmd package`) installs an APK without having adb save the file somewhere on the device first, which `pm` used to do.
 - Being confusing is [recommended](https://stackoverflow.com/a/14932717/1558430).
 - Before you truly understand what it is, [`Fragment`](https://developer.android.com/reference/android/app/Fragment) is already deprecated. Fragments may have been [the separate panes in tablet mode](https://developer.android.com/guide/components/fragments), for example. Layouts can contain Fragments.
 - [Webview session storage](https://forums.adobe.com/thread/2350512) available was unlimited for Android versions 4.1 and 4.3, but not 4.2 and 4.4, which had 10MB.

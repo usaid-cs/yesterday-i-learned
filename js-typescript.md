@@ -1,14 +1,15 @@
 # TypeScript
 
-* Basic syntax: `function name(variable: type): type`
+- Basic syntax: `function name(variable: type): type`
 
 ## Types
-* Numbers: `number` (according to [the handbook](http://www.typescriptlang.org/Handbook), it is to be in lower case)
-* Strings: `string`
-* Typed arrays: `number[]`
-* The `any` type literally means anything. It may well be omitted; the only use of it is to prevent errors when interacting with JS code.
-* `void` is *only* used to denote that a function returns nothing (`undefined` or `null`).
-* `abcDef() as SomeType` [asserts the type of the result to a certain type](https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md#type-assertions) when you know better than the static checker. TypeScript typically won't allow you to assert unless the function returns `any`, or has no definite return type, like [if a random function is involved](http://www.typescriptlang.org/play/#src=function%20foo()%20%7B%0D%0A%20%20%20%20if%20(Math.random()%20%3E%200.5)%20%7B%0D%0A%20%20%20%20%20%20%20%20return%205%3B%0D%0A%20%20%20%20%7D%20else%20%7B%0D%0A%20%20%20%20%20%20%20%20return%20'5'%3B%0D%0A%20%20%20%20%7D%0D%0A%7D%0D%0A%0D%0Afunction%20bar(baz%3A%20string)%20%7B%0D%0A%20%20%20%20console.log(baz)%3B%0D%0A%7D%0D%0A%0D%0Abar(foo()%20as%20string)%3B).
+
+- Numbers: `number` (according to [the handbook](http://www.typescriptlang.org/Handbook), it is to be in lower case)
+- Strings: `string`
+- Typed arrays: `number[]`
+- The `any` type literally means anything. It may well be omitted; the only use of it is to prevent errors when interacting with JS code.
+- `void` is _only_ used to denote that a function returns nothing (`undefined` or `null`).
+- `abcDef() as SomeType` [asserts the type of the result to a certain type](https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md#type-assertions) when you know better than the static checker. TypeScript typically won't allow you to assert unless the function returns `any`, or has no definite return type, like [if a random function is involved](<http://www.typescriptlang.org/play/#src=function%20foo()%20%7B%0D%0A%20%20%20%20if%20(Math.random()%20%3E%200.5)%20%7B%0D%0A%20%20%20%20%20%20%20%20return%205%3B%0D%0A%20%20%20%20%7D%20else%20%7B%0D%0A%20%20%20%20%20%20%20%20return%20'5'%3B%0D%0A%20%20%20%20%7D%0D%0A%7D%0D%0A%0D%0Afunction%20bar(baz%3A%20string)%20%7B%0D%0A%20%20%20%20console.log(baz)%3B%0D%0A%7D%0D%0A%0D%0Abar(foo()%20as%20string)%3B>).
 
 ## Interfaces
 
@@ -70,6 +71,7 @@ function foo(bar: Bar): number {
 
 Interfaces are good for catching typos.
 It can also be used this way, on function expressions:
+
 ```
 interface FuncSignature {
     (foo: string, bar: string): number;
@@ -107,6 +109,7 @@ y = x; x = y;
 ```
 
 ### Array interfaces
+
 If for some reason you need to make an interface for an already-typed array, you may:
 
 ```
@@ -122,6 +125,7 @@ Like classes, interfaces can be extended using the `extends` keyword.
 If you use `extends` as a variable name in your existing JS files, you are an idiot.
 
 ### Abstract interfaces
+
 Interfaces do not need to be used by any class before it is used. This example shows an interface `Foo` simply being used to check the ways the variable `c` is used. There is no `C` class.
 
 ```
@@ -154,12 +158,38 @@ class Foo {
 }
 ```
 
+Unlike ES6, [it is valid syntax to set an instance's property directly inside the class](https://stackoverflow.com/a/35212197/1558430), outside of any method. The compiler appears to convert it to a constructor, with the `constructor` _at the end_ of everything else.
+
+```
+// TypeScript
+class Foo {
+    bar = 1;
+
+	constructor() {
+     	this.bar = 2;
+    }
+
+	bar = 3;
+}
+
+// Transpiled code
+var Foo = (function () {
+    function Foo() {
+        this.bar = 1;
+        this.bar = 3;
+        this.bar = 2;  // Notice the constructor body is now last
+    }
+    return Foo;
+})();
+
+// The effect is every (new Foo) has a bar of 2
+```
+
 Classes can be extended with multiple superclasses, aka. **Mixins**; but, for some reason, we use the keyword `implements` instead of `extends`.
 
 > This treats the classes as interfaces, and only uses the types behind [the mixin classes] rather than the implementation.
 
 ### Classes as interfaces
-
 
 Classes with only static variables can be interfaces.
 

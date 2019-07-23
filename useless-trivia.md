@@ -167,3 +167,8 @@
 - [Plus codes](http://www.androidpolice.com/2015/08/14/plus-codes-are-an-easier-and-more-accurate-way-of-locating-people-and-businesses-in-places-with-no-specific-street-address/): Google Plus Codes
 - The Google Maps street view man is called [Pegman](https://vulcanpost.com/350661/google-maps-yellow-man-pegman/), not Pinman.
 - Having people ask ["why do Star Wars laser guns shoot slower than light"](http://scifi.stackexchange.com/questions/13702/why-are-blaster-bolts-in-star-wars-moving-slower-than-speed-of-light), the guns were changed to plasma rifles.
+- Machines may be better than humans at almost everything, but humans are still better at ["picking up pieces of fluff"](https://www.cbc.ca/news/technology/tesla-model-3-sedan-automation-robots-manufacturing-delay-1.4734829), at least for now.
+- There has not been a single occasion (at least until S03E01) where Rick travelled to the past from the present. Maybe it is not possible.
+- It takes just 11 years at 5000/day to produce 20,000,000 ass pennies.
+- [Tomica](https://en.wikipedia.org/wiki/Tomica) has a disproportionate number of Toyota and Nissan models.
+- In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celsius.

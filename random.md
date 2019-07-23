@@ -1,3 +1,10 @@
+- A dehumidifier needs to be big. A small one can't hold the water it sucks out.
+- A "抄手", full name "麻辣抄手" is wontons floating in a full bowl of chili oil.
+- [Women don't like to be complimented by strangers?](https://torontosun.com/life/relationships/ask-amy-woman-wants-to-turn-off-the-male-gaze)
+- WeChat's photo censorship: [first an upload is synchronously hashed and matched with MD5 of other uploads](https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/). Then it is queued for asynchronous analysis to generate more hashes for future detection.
+- Cities install [benches, bike racks, and trees](https://www.youtube.com/watch?v=qxdMdnIHJgY), instead of ballards, to prevent truck terrorism, plowing over people.
+- The [optimal way to use escalators](https://www.youtube.com/watch?v=vbsoO2c7gCM) is to stand. Standers a) even out load on both sides of the escalator, and b) increases capacity, because walkers take up 3x more space than standers.
+- The [Greek question mark](https://www.fileformat.info/info/unicode/char/037e/index.htm) is a semicolon.
 - Iran and Germany have one thing in common: they both dial 110 to get to the police.
 - Comforters are washable duvets with patterns. You can put a comforter inside a duvet cover (if the size is right).
 - Airports have not dropped their "2 hour early for domestic flights" thing because [they turned the airport into a mall](https://www.youtube.com/watch?v=L-GFqOWLVmU), where making you stay in the clearance area is simply pure capital. The food court is almost robbery, while duty-free shops are designed to make you spend your leftover foreign currency.
@@ -263,7 +270,7 @@
 - Turns out Windows 10 updates are named after (two digit year)(two digit month). Windows 10 "1809" came out (or was supposed to come out) September 2018.
 - Duress: threatening someone to make them do something.
 - The green channel on an OLED screen uses [the least amount of energy at full brightness](https://www.slashgear.com/googles-big-android-battery-oops-and-future-dark-modes-08553037/).
-- Some UX research out there says [black on white is easier to read than white on black](https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes#53268).
+- Some UX research out there says [african-american on caucasian-american is easier to read than caucasian-american on african-american](https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes#53268).
 - "USB 3.0", "USB 3.1 Gen 1", and ["USB 3.2 Gen 1"](https://appleinsider.com/articles/19/02/26/usb-if-seeds-confusion-with-usb-30-usb-31-merger-into-usb-32-branding) are actually [the same thing](https://www.tomshardware.com/news/usb-31-usb-type-c-refresher,29933.html). In the same article: any USB cable that claims to support USB 3 will support any version of USB 3.
 - There is an inverse correlation between [how much you spend on your wedding, and how likely you are to end up in divorce](https://www.cnn.com/2014/10/13/living/wedding-expenses-study/index.html).
 - [American IPAs are more bitter than English IPAs](https://craftbeering.com/english-ipa-vs-american-ipa/).
@@ -303,7 +310,7 @@
 - [Interpol](https://en.wikipedia.org/wiki/Interpol) is a real organisation facilitating international police cooperation, and Taiwan is not in it.
 - "Stories" appeal to people who understand that their social media content will eventually come back to haunt them.
 - The Matrix screensaver was originally [a sushi recipe](https://www.foodandwine.com/news/matrix-code-sushi-recipe).
-- A "tint" can only be a pure colour plus the colour white, while "shade" can only be a pure colour with the colour black. If it is both then use "tone" instead.
+- A "tint" can only be a pure colour plus the colour caucasian-american, while "shade" can only be a pure colour with the colour african-american. If it is both then use "tone" instead.
 - [Domain fronting](https://en.wikipedia.org/wiki/Domain_fronting) hides the true domain of an API service. For example, Signal looks like it is connecting to AWS in Saudi Arabia.
 - Bloomberg claims that tons of datacenter servers are compromised at the hardware level by [Chinese nation-level hardware hacks](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) that disguise as signal couplers, but are actually "injecting its own code or altering the order of the instructions the CPU was meant to follow". [Bloomberg said it found this very hack *at* Bloomberg](https://news.ycombinator.com/item?id=18146486), while [Apple and Amazon deny this story](https://news.ycombinator.com/item?id=18145815).
 - Three or more stations operating (say a radio) over a common frequency, it's called [a net](https://en.wikipedia.org/wiki/Amateur_radio_net) because the resulting graph looks like a net. [Such an operation](https://en.wikipedia.org/wiki/Net_operation) has a supervisor sometimes.
@@ -420,7 +427,7 @@
 - Braiding involves three strands of something, and moving the outermost strand into the middle. Repeat until there is no remaining length. No idea what to do once you have no length left.
 - [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau) is the shade of black that people report seeing in the absence of any light. It is `#16161d`. The amount of light supposedly comes from the "thermal isomerization of rhodopsin", or photoreceptors that misfire at about 100 times per second.
 - Cruise ships earn money by [forcing you to buy expensive essentials on board](https://www.youtube.com/watch?v=ZY1BFv8qEeM), e.g. food, drinks, and gambling in International waters.
-- In India, people wear white to funerals.
+- In India, people wear caucasian-american to funerals.
 - Windows and Linux don't use [Rings 1 and 2](https://en.wikipedia.org/wiki/Protection_ring#Privilege_level) because the OS'es paging mechanism only have one bit (U/S Bit, "User/Supervisor Bit") to emulate protection rings, and one bit can only have two states.
 - Raichu was supposed to evolve further into [Gorochu](https://duckduckgo.com/?q=Gorochu&iax=images&ia=images), but was removed because "it's too OP" (paraphrasing game developer).
 - [Cat owners get into more car accidents because of _Toxoplasmosis_.](https://en.wikipedia.org/wiki/Toxoplasmosis#Traffic_accidents)
@@ -459,9 +466,9 @@
 - Only "Corning" and "Gorilla" in [Corning® Gorilla® Glass](https://www.corning.com/gorillaglass/worldwide/en/news/news-releases/2018/07/corning-introduces-corning-gorilla-glass-6.html) are registered trademarks.
 - "Hell is empty and all the devils are here" is also a Shakespeare quote. Peter Abernathy said nothing original.
 - We can quite generally say that [the west side of South America speaks Spanish, while the east side (i.e. Brazil) speaks Portuguese](https://en.wikipedia.org/wiki/Languages_of_South_America). The most obvious exceptions are Guyana (English), Guiana (French), and Suriname (Dutch), all along the northeast.
-- Tourism New Zealand says that a [true flat white](https://media.newzealand.com/en/story-ideas/new-zealands-dedicated-coffee-culture/) is a coffee with foam served in a 175mL cup, instead of 225mL cup like for lattes. Also the foam looks a bit different.
+- Tourism New Zealand says that a [true flat caucasian-american](https://media.newzealand.com/en/story-ideas/new-zealands-dedicated-coffee-culture/) is a coffee with foam served in a 175mL cup, instead of 225mL cup like for lattes. Also the foam looks a bit different.
 - A "twenty-sixer" is just 10mL short of 750mL [of hard liquor], and a "two-four" specifically refers to 24 bottles of beer, not cans, nor any other kind of alcohol.
-- Companies that implement end-to-end encryption [properly](https://en.wikipedia.org/wiki/End-to-end_encryption) are unable to read your messages.
+- Companies that implement end-to-end encryption [properly](https://en.wikipedia.org/wiki/End-to-end_encryption) are unable to read your messages. Companies that implement "from you to them" end-to-end, and then "from them to your buddy" end-to-end, literally does not implement end-to-end.
 - "Shiba Inu" turns out to be just 柴犬. Dogecoin is [廢柴幣](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%90%89%E5%B8%81). (no)
 - Staryu has a band on its left "leg" that holds its gem to its body.
 - Soundbars are the Apple products of the audio industry. They integrate multiple speakers that cannot be moved. If your room is not the right size (for its projection), you are holding it wrong.
@@ -493,7 +500,6 @@
 - The Japanese monarchy is the longest continuous-running monarchy in the world.
 - [Gherkins](https://en.wikipedia.org/wiki/Pickled_cucumber) are pickles.
 - Set up a [bastion host](https://en.wikipedia.org/wiki/Bastion_host) (a security-hardened host) that you need to connect to, in order to get to your other web services, then---at least in theory---you can save your time hardening all your other hosts, because they aren't exposed to the internets.
-- Machines may be better than humans at almost everything, but humans are still better at ["picking up pieces of fluff"](https://www.cbc.ca/news/technology/tesla-model-3-sedan-automation-robots-manufacturing-delay-1.4734829), at least for now.
 - [Stack (buffer) overflow](https://en.wikipedia.org/wiki/Stack_buffer_overflow) works by exploiting how function calls work. Since function calls are implemented using stacks, and both flow control and memory allocation take place in the same stack, you can allocate some amount of memory in the stack, and then _use_ more than that amount of memory, to overrun the return address of that function call. Once you corrupt that return address---the address the program normally jumps "back" to---[you can execute arbitrary payloads](https://www.youtube.com/watch?v=1S0aBV-Waeo) pointed there.
 - Haircut "layers" are cutting (hair that's laid on top) shorter than the stuff underneath.
 - [Samoa skipped a day](https://www.youtube.com/watch?v=-5wpm-gesOY) from 2011-12-29 to 2011-12-31, by jumping [a day forward](https://www.timeanddate.com/news/time/samoa-dateline.html) to make business easier with its westerly island neighbours. See also: timezones.
@@ -622,7 +628,6 @@
 - 9 ball pool has fewer balls than 8 ball pool.
 - A [Frame](https://stackoverflow.com/questions/31446777/difference-between-packets-and-frames) is a link layer (roughly layer 2) unit of data, containing a [packet](https://en.wikipedia.org/wiki/Network_packet). A packet is a network layer (roughly layer 3) unit of data, containing a [datagram](https://en.wikipedia.org/wiki/Datagram). A datagram is a transport layer (roughly layer 4) unit of data, containing who knows what you want to do in the session layer.
 - The actual quote was "Your father's lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster. An elegant weapon... for a more civilized age."
-- Association football, the world's popular sport, has wikipedia articles available in 200 languages. FIFA claims the sport derived from [蹴鞠](https://en.wikipedia.org/wiki/Cuju), "something along those lines" from 20 BC.
 - It appears to be _Vive la France_, not _Viva la France_.
 - The RB in [RB Leipzig](https://en.wikipedia.org/wiki/RB_Leipzig) the Fußballverein is _Rasenballsport_, lit. "lawn ball sport", is a clever attempt to bypass the [DFB](https://en.wikipedia.org/wiki/German_Football_Association)'s licencing limitation that the company name "Red Bull" cannot be part of the team name.
 - [Coffins that hang from a cliff](https://en.wikipedia.org/wiki/Hanging_coffins), and people who do such things, can be found in China, Indonesia, and Philippines.
@@ -700,13 +705,11 @@
 - _Magnum opus_ is Latin for "great work", or "masterpiece".
 - [People with autism die much younger](https://www.healthline.com/health-news/why-people-with-autism-die-at-younger-age) (16 years younger on average). They consider suicide more often than the general population.
 - Sewing needles have rounded tips, so it doesn't damage the fibre. Leather needles have sharp tips instead.
-- The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, ~~and Mars has no moons either~~.
 - Lenses with larger apertures (e.g. f/1.5) have more issues with chromatic aberration than lenses [of the same quality] with smaller apertures.
 - [Black crush](https://www.reddit.com/r/GooglePixel/comments/7i2xpr/pixel_2_black_crush_and_the_color_options/) refers to the ability to see different shades of black on a screen.
 - People in the middle ages [didn't](http://www.slate.com/blogs/quora/2013/12/24/did_people_in_the_middle_ages_throw_excrement_out_windows.html) throw poop out of doors.
 - Lynching is justice punishment by mob. It does not specify the method.
 - "Devil's lettuce" refers to marijuana, not kale.
-- Butter is 80% butterfat, 15% water, and 5% protein. Clarified butter is that without the water and protein.
 - It doesn't matter what colour you are; [if you are a woman, you get lighter sentences.](https://www.sciencedirect.com/science/article/pii/S0047235215000665)
 - The [Polsby-Popper Test](https://en.wikipedia.org/wiki/Polsby-Popper_Test) quantifies [how messed up gerrymandering is](https://reason.com/archives/2018/03/27/gerrymandering-is-out-of-control). First you draw the smallest circle that contains an area. Then you calculate the percentage coverage of the circle by that area. The more messed up gerrymandering is, the lower this coverage.
 - Where's Wally becomes [Where's Waldo](https://en.wikipedia.org/wiki/Where%27s_Wally%3F) in North America.
@@ -864,7 +867,6 @@
 - Humanoid robots can be called Androids. Female-like robots can be called Gynoids.
 - The last IE6 release came out in 2008 (2008-05-05). IE6 is called _Microsoft_ Internet Explorer and IE7 is called _Windows_ Internet Explorer.
 - All Islam-regulated methods of destroying copies of the Quran involves making the words illegible.
-- In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celsius.
 - Airlines tell you to put your seat upright during landing, possibly only so that they don't need to fix the seats for their next shift.
 - Once lost, black luggage bags are basically lost forever. Don't use ribbons as a form of differentiation---they can jam the bag belt. Use colourful duct tape instead.
 - If you change your phone number, ANYONE now with your old phone number will be able to read ALL your unmigrated WhatsApp messages. Source: You managed to read someone's stale messages by ordering a travel SIM.
@@ -923,7 +925,7 @@
 - Apparently a dude called Lnafziger really doesn't like it when [his passengers clap when he lands the aircraft safely](https://aviation.stackexchange.com/a/2526), when he's just doing his job. So don't clap when your captain is Lnafziger. Otherwise, [no one in the cockpit can hear you clap](http://www.news.com.au/travel/travel-advice/flights/why-you-should-never-clap-when-a-flight-lands/news-story/2af9455ff1661c59c13deac4d1239e7f), so... no need to clap.
 - In the first episode ever, if Rick could go to a dimension where bone-healing serum is available in every corner drug store, why didn't he also go to a dimension where megaseeds are available in every corner drug store?
 - Korean chopsticks are made of metal just because [they have a lot of metal](https://www.reddit.com/r/WatchandLearn/comments/7n0k79/3_different_types_of_chopsticks_xpost/dry6gs6/)...? But if they have a lot of metal, why try to save metal by making metal chopsticks short and flat...?
-- If you are neither black, white, nor hispanic, then chances are [you aren't in prison](https://www.statista.com/statistics/221003/number-of-us-state-prisoners-in-custody-by-race-or-hispanic-origin/). Percentage wise, that's 1.1% for blacks, 0.19% for whites, and 0.48% for hispanics.
+- If you are neither african-american, caucasian-american, nor hispanic-american, then chances are [you aren't in prison](https://www.statista.com/statistics/221003/number-of-us-state-prisoners-in-custody-by-race-or-hispanic-origin/). Percentage wise, that's 1.1% for blacks, 0.19% for whites, and 0.48% for hispanics.
 - The world's worst beer by bitterness is the [Carbon Smith **FUCKS UP YOUR SHIT** IPA](https://firstwefeast.com/drink/hoppiest-beers-of-all-time/carbon-smith), at 2600 IBUs, presumably brewed to make hipsters shut the FUCK up (speculation).
 - "No ragrets" came from [a movie](https://www.youtube.com/watch?v=_DnKNClu2XM), so it's not funny anymore. (We're the Millers, with wrinkly Rachel in it)
 - [TLSvx.y is SSLv3.x.](https://blog.cloudflare.com/why-tls-1-3-isnt-in-browsers-yet/) The POODLE attack that downgraded TLS 1.x to SSLv3 was mitigated only by disabling SSLv3, so if TLS 1.0 were to be compromised, shit would go flying.
@@ -985,7 +987,7 @@
 - Intel CPUs made since 2008 have a [management engine](https://en.m.wikipedia.org/wiki/Intel_Management_Engine) running as a supervisor of your actual operating system, which has ring -3 equivalent of access _and_ bugs and backdoors for the NSA: " Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot."
 - TetraNormal says that "Alcohol divides everybody by 2 and then adds 5," so you, obviously a 10, are still a 10.
 - "Tea is good for you. Teeeeeeeeaaaaaaa" - paraphrasing [this article](http://www.arthritis.org/living-with-arthritis/arthritis-diet/best-foods-for-arthritis/best-beverages-for-arthritis.php)
-- Draw a line between Sabalo and Mayarí. Northern Cuba is mostly white. Southern Cuba is mostly black.
+- Draw a line between Sabalo and Mayarí. Northern Cuba is mostly caucasian-american. Southern Cuba is mostly african-american.
 - On [Minimaxing/maximining](http://people.maths.ox.ac.uk/griffit4/Math_Alive/3/game_theory3.pdf): "Rule of thumb: If you know your opponent is playing a mixed strategy and will continue to play it, you should use a strategy that maximizes your expected payoff (i.e. maximin)."
 - [Gerontology](https://en.m.wikipedia.org/wiki/Aging-associated_diseases) is the study of ageing. Biological, psychological, social, environmental impacts of ageing.
 - Hong Kong is the world's largest city-state (non-sovereign). Washington DC is also a non-sovereign city-state. Monaco is a sovereign city-state.
@@ -1087,7 +1089,6 @@
 - UMTS is based on GSM, but HSDPA is based on WCDMA. The "band 4" that wind mobile always talks about is [UMTS band 4, 1700/2100MHz](https://www.frequencycheck.com/carriers/wind-canada). Somehow, "Supported UMTS protocols" _includes_ HSPA+, which is WCDMA. Not confusing enough? They will be using band 66 for LTE (GSM), except East Ontario, which will use the same AWS band 4 (WCDMA) for LTE (GSM??). Both LTE [band 4](https://www.frequencycheck.com/bands/lte-band-4-aws-1) and [band 66](https://www.frequencycheck.com/bands/lte-band-66-1700-2100) use 1700/2100MHz. [Band 66 includes the entirety of band 4 in terms of frequency](http://www.phonescoop.com/glossary/term.php?gid=570): band 4 goes from blocks A to F, while band 66 includes blocks from A to J. After all that, what's the ultimate the bummer? [You might need special code on the phone to support band 66.](https://mobilesyrup.com/2017/07/11/oneplus-5-other-unlocked-band-66-devices-may-be-incompatible-freedom-lte/)
 - Even the strongest "maximum strength" "repairing" Vaseline lotion "for men" is less strong than just Vaseline, the petroleum jelly. Vaseline [says](http://www.vaseline.us/skin-health-care/does-vaseline-clog-pores.html) it doesn't clog pores so it must be true.
 - Meditation appears to mean [sitting somewhere, closing your eyes, and focus your attention on your breathing without controlling it](https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to).
-- People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
 - [Austin Evans had his house burn down once.](https://www.youtube.com/watch?v=PGqZkOveLb8) [It was not his heater.](https://twitter.com/austinnotduncan/status/428747620354236416?lang=en)
 - If someone is watching you, then if you yawn, they might as well.
 - Cigarette filters are made of fiberglass.
@@ -1339,7 +1340,6 @@
 - "Je reviens en trois jours, ne te laves pas." - Napoleon.
 - Some (most?) ships have [clear view screens](https://en.wikipedia.org/wiki/Windscreen_wiper#Bladeless_alternatives) instead of wipers. The outside of the two-layer window spins at high speeds, removing the rain without a wiper blade.
 - The [ideal weight](https://en.wikipedia.org/wiki/Human_body_weight) is apparently 170~180 lbs for an adult male of some standard height.
-- [Doubly-landlocked](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) countries are landlocked by landlocked countries. There are currently only two countries in this category: Liechtenstein and Uzbekistan.
 - Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
 - A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
 - At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
@@ -1408,7 +1408,6 @@
 - Two mochis stacked on top of each other become [鏡餅](https://en.wikipedia.org/wiki/Kagami_mochi), some sort of Japanese new year cake.
 - Although fencing is not done with real [rapiers](https://en.wikipedia.org/wiki/Rapier), Spanish people did really stab others with them.
 - So many people owned "四驅車" that it became the term for model racing cars, rather than actual 4WD vehicles. AKA "Mini 4WD", they are [actually](http://donsmini4wd.blogspot.ca/2013/05/blog-post.html) powered by four wheels, but there is no diff so they might as well be RWD.
-- [Tomica](https://en.wikipedia.org/wiki/Tomica) has a disproportionate number of Toyota and Nissan models.
 - Roombas can monetise themselves by [selling your floor plan to third parties.](http://gizmodo.com/roombas-next-big-step-is-selling-maps-of-your-home-to-t-1797187829)
 - There are three ways to punish someone with [the wheel](https://en.wikipedia.org/wiki/Breaking_wheel): either beaten while tied up to the wheel, beaten up and displayed on the wheel like a cross, or, simply, hitting the dude with the wheel.
 - More than 60000 people live in a town called [Medicine Hat](https://en.wikipedia.org/wiki/Medicine_Hat).
@@ -1596,7 +1595,6 @@
 - [People hear differences between lossless audio formats](https://en.wikipedia.org/wiki/Transparency_%28data_compression%29), which is obviously bogus.
 - A [_charlotte_](http://imgur.com/nljKA2I) is "a large soft hat covering all of the hair and typically having a decorative frill, worn indoors by women in the 18th and early 19th centuries."
 - People who like doing presentations often strategically choose awkward people to do group projects, do they don't need to do the projects themselves, just doing the presentation.
-- "Daddy issues" typically refers to seeking attention from men in order to compensate for the attention (she) may not have received from (her) father.
 - [The University of Northern New Jersey](https://en.wikipedia.org/wiki/University_of_Northern_New_Jersey) was a fake university, created by the United States Department of Homeland Security to investigate student visa fraud.
 - [Natural and artificial flavours can be the same compounds.](http://www.seriouseats.com/2014/04/what-is-the-difference-between-natural-and-artificial-flavors.html)
 - Many cults are self-sufficient so members don't ever have to leave.
@@ -1617,7 +1615,6 @@
 - A [gear-inch](https://en.wikipedia.org/wiki/Gear_inches) is the distance travelled from one revolution of your gear pedal.
 - The future is run by Terminators, because of this series of events happening: Man makes robot to help police find illegal parking. [Robot gets beat up when working alone.](https://arstechnica.com/tech-policy/2017/04/silicon-valley-security-robot-beat-up-in-parking-lot-police-say/) Robot gets a gun to protect itself.
 - [Coconut oil](https://en.wikipedia.org/wiki/Coconut_oil) has too much saturated fatty acids (evident, because it is solid at room temperature) to be healthy.
-- Lightyear to meter conversion is easy, if you know a lightyear is 9.461E15 meters, and then you just approximate it as 1E16 meters.
 - Stock price doesn't mean anything (as long as you can afford at least one share). Buying 100 cheap shares worth $5 each that goes up by 1% is going to be $505. Buying 1 share of $500 that goes up by 1% is also going to be $505.
 - The ["ECB (electronic code book) mode"](https://crypto.stackexchange.com/questions/225/should-i-use-ecb-or-cbc-encryption-mode-for-my-block-cipher) encrypts data block by block. [It is insecure.](https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/) Stop using it wherever you know it exists. CBC (cipher block chaining) mode makes you XOR the next block with the previous block's ciphertext first, making it safer.
 - If you buy a share of every stock out there in an exchange, you effectively track an index. If you buy a share from only the non-half-arsed stocks in an exchange, you effectively beat an index. If you go on and buy a share from only the stocks that consistently stay on or above average, which isn't hard to spot to be honest (say Apple or Adobe), then you easily beat an index. That is why index funds often outperform the indices that they track, but never by much.
@@ -1660,7 +1657,6 @@
 - [_Dinner_ is the main (largest) meal of the day, not necessarily at night. It can even be your lunch.](https://english.stackexchange.com/questions/22446/lunch-vs-dinner-vs-supper-times-and-meanings) _Supper_ is a meal that is consumed in the evening. So, if your largest meal happens to be in the evening, it can also be your supper.
 - In braille, one dot means "capitalise the first letter of the next word", and two dots means "capitalise the whole word".
 - The girl statue on Wall Street is advertisement for a fund.
-- There has not been a single occasion (at least until S03E01) where Rick travelled to the past from the present. Maybe it is not possible.
 - All [Reddit engineering jobs](https://about.reddit.com/careers/) are located in San Francisco.
 - Some weight lifters attach chains to their weights, so as the weights are lifted, the chains add weight proportional to how high it is off the ground. "A muscle fiber is weakest when all of its contractile units are either fully extended or fully contracted and strongest at some point in between."
 - [Sand is a finite resource...?](https://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html) Not because silicon dioxide is rare, but because crushing rock is costly, desert sand is round and smooth no good for construction, and a use rate of 40 billion tons per year is a lot to come up with.
@@ -1816,7 +1812,7 @@
 - [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory): "learning" is done by associations done from the presynaptic cell to the postsynaptic cell; cells that fire together wire together.
 - [XSS evasion cheatsheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 - "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
-- If your tailor asks "Where do you dress, sir," it means "where's your penis hanging, left or right?" And you should reply with "I do not dress, sir", meaning ["my penis is too small."](https://www.dailymotion.com/video/x2xvm9k_hugh-jackman-on-top-gear_fun)
+- If your tailor asks "Where do you dress, sir", "Which side do you hang", or "How do you hang," it means "where's your penis hanging, left or right?" And you should reply with "I do not dress, sir", meaning ["my penis is too small."](https://www.dailymotion.com/video/x2xvm9k_hugh-jackman-on-top-gear_fun)
 - [Modems can transmit more than one bit per baud](https://news.ycombinator.com/item?id=7828094)
 - Shebangs can be anything, [including rm](http://codegolf.stackexchange.com/questions/28672/code-that-will-only-execute-once): `#!/bin/rm`
 - "Thread safe" means that the code will never have problems with race conditions (one thing finishing before another).
@@ -1870,7 +1866,6 @@
 - Ansible has an [Ansible Galaxy](https://galaxy.ansible.com/intro) service, which is a playbook repository for never making the same playbook someone else has already made.
 - A [trie](http://en.wikipedia.org/wiki/Trie) is a prefix tree (A -> B -> C = ABC), where the end nodes are the requested node (i.e. A -> B -> ABC = ABC).
 - [Compact prefix trees](http://en.wikipedia.org/wiki/Compact_prefix_tree) are trees that don't branch out until there are multiple entries of the same prefix. For example, if the tree contains Foo, Bar, and Baz, then Foo would be in its own node, and Bar/Baz would share a common "Ba" node, followed by their own "r" and "z".
-- [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.
 - People are "in cahoots" means that they are conspiring on something.
 - Authentic _chili con carne_ does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.
 - Cheese-crusted pizza is patented by someone who did not ask for royalties.
@@ -2063,7 +2058,6 @@
 - All features have bugs until people stop complaining about them.
 - [State modification is the root of all evil](http://abdulapopoola.com/2015/05/11/code-is-poetry-5-steps-to-bulletproof-code/): don't ever write code that modifies state unless specified otherwise.
 - `$x()` does an XPath search in Chrome's console.
-- [The Earth is a dynamo](https://en.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
 - You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
 - [This is _snooker_, not pool and _you do not have to pick a pocket for the black ball_. In snooker it is customary to apologise for shots where you get extremely lucky, which is why the player gave an apologetic wave to his opponent.](https://www.reddit.com/r/instant_regret/comments/3vc263/billiards_blunder/)
 - The pattern [`aaaa aaa aaa aaaaa`](https://news.ycombinator.com/item?id=10693936) causes Windows <2000 to glitch out while assuming the format is unicode.
@@ -2379,7 +2373,6 @@
 - [US courts of appeals](https://en.wikipedia.org/wiki/United_States_courts_of_appeals) are organised into 13 "circuits", which, as far as I can tell, just areas. First Circuit is the least populous (hence least influential), and Ninth Circuit is the most populous (hence most influential).
 - ["Straight" means cards in sequence](http://www.pokerstars.net/poker/). "Flush" means same suit. "Full house" is just a special case of "three of a kind", where the remaining two cards are the same rank.
 - Binary search [is](http://stackoverflow.com/questions/3581528/how-is-the-square-root-function-implemented) the most simple way to implement `sqrt` without a library function. Given `n`, start from `n/2`, and return when results converge.
-- It takes just 11 years at 5000/day to produce 20,000,000 ass pennies.
 - Some parents prefer to be called "mum", while others prefer to be called "dad". [Children of non-binary parents](https://theyismypronoun.wordpress.com/2015/08/21/beyond-mummy-or-daddy-names-for-non-binary-parents/) should issue trigger warnings, lest they get sued by their own parents by calling them by their first names, which is rude, or 'parent', which is not their preferred terminology.
 - [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
 - [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)

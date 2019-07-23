@@ -167,7 +167,7 @@ const obj = {
 - [Classes can be anonymous.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#Class_expressions)
 - [Class definitions are block-scoped, and cannot be redeclared in the same scope.](https://stackoverflow.com/a/36420130/1558430)
 - If you have the balls to have a [class extends `null`](https://github.com/denysdovhan/wtfjs#function-is-not-function), be prepared to see unexpected behaviours ("function is not a function").
-- Neither `a = 5` nor `a: 5` is/are valid syntax directly inside a class. Some compilers might interpret that as `constructor() {this.a = 5}` though.
+- Neither `a = 5` nor `a: 5` is/are valid syntax directly inside a class. Some compilers might interpret that as `constructor() {this.a = 5}` though. (But `a = 5` is valid syntax for TypeScript...)
 - You call a superclass's constructor method using `super()`, but you can only call a superclass's constructor like that in `constructor`s. You also cannot call a constructor by name, i.e. `SomeClass.constructor()`, or `new SomeClass.constructor()`. [See source](sources/0004.js). In other words, you can only use `super()` for `constructor`, and you can only use `super.foo()` for other methods.
 - Classes can have [`#staticMembers`](https://www.sitepoint.com/javascript-private-class-fields/). You haven't used it because it is supposed to come out in ES2019.
 

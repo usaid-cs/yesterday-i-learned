@@ -59,3 +59,4 @@
 - "x% of y = y% of x". Not very useful as a concept, since you'll be multiplying x and y anyway, then dividing by 100.
 - [Benford's Law](http://en.wikipedia.org/wiki/Benford's_law): statistically speaking, the occurrence of base-10 digits is inverse proportional to its size.
 - [Fourier series visual](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fourier_series_square_wave_circles_animation.gif)
+- If you have 6 3-choice questions and you answer at random, your chance of getting each question right is 1/3, the expected value from your test is also 1/3 (from 2/6), but the probability of you getting exactly 2 out of 6 questions right is [32.9%](sources/image2.png) instead of 1/6... because of something in [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution#Related_distributions)? Also you can get 0 to 6 questions right (7 possibilities), so at least it's easy to explain why it isn't 1/6.

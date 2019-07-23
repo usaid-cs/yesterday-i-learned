@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- To start the device with adb already enabled, edit `build.prop` with a new line: `persist.sys.usb.config=mtp,adb`
 - Apps that don't need to read phone state, but request that permission anyway, are reading your IMEI number. [To uniquely track you.](https://developer.android.com/preview/privacy/data-identifiers)
 - [Verify your adb RSA key](https://android.stackexchange.com/questions/50922/how-can-i-see-the-fingerprint-of-my-adbkey) with `awk '{print $1}' < ~/.android/adbkey.pub | openssl base64 -A -d -a | openssl md5 -c`
 - If you don't have a phone app (say you adb disabled it) and someone calls you, the device will still ring, but you will have no way to answer.

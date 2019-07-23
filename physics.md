@@ -99,3 +99,6 @@
 - Voyager I is analogue. It takes pictures like a fax machine, and sends them back like a radio.
 - In 2015, the definition of a parsec changed from "the distance at which one astronomical unitsubtends an angle of one arcsecond" to "648000/π astronomical units", which is about 3.26 light-years.
 - When a helicopter or quadcopter descends vertically, (according to /u/eaterofdog) the vehicle may lose lift to the phenomenon called "prop wash". However, when researched online, prop wash seems to generate a leftward torque, rather than a downward force.
+- Lightyear to meter conversion is easy, if you know a lightyear is 9.461E15 meters, and then you just approximate it as 1E16 meters.
+- [The Earth is a dynamo](https://en.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
+- The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, ~~and Mars has no moons either~~.

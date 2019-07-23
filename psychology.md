@@ -40,3 +40,4 @@
 - Contrary to popular belief that liars don't look at you, [they look at you more than the average person](https://www.youtube.com/watch?v=P_6vDLq64gE) to compensate for that myth.
 - Compared to printed book readers, [it is less likely for an ebook reader to recall what was in the book.](http://www.huffingtonpost.com/the-national-book-review/drop-that-kindle-10-reaso_b_8234890.html)
 - [If](http://www.xda-developers.com/the-paradox-of-choice-and-why-oems-dont-listen/) a democracy would have an overwhelming amount of individuals with low capability quotients, [simulations](http://maxwellsci.com/print/crjss/v2-255-261.pdf) suggest that such a population would choose low capability quotient Heads of State.
+- "Daddy issues" typically refers to seeking attention from men in order to compensate for the attention (she) may not have received from (her) father.

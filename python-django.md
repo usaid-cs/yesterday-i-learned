@@ -2,6 +2,7 @@
 
 ## Models
 
+- Once you set a primary key on something, it can't really be changed if a foreign key references it (and it applies to any constrained FK field in RDBMS in general, not just Django): `update or delete on table "foo_foo" violates foreign key constraint "bar_bar_foo_id_b6840f2a_fk_foo_foo_id" on table "bar_bar" ... DETAIL:  Key (id)=(1) is still referenced from table "bar_bar".`
 - MongoDB [officially](https://code.djangoproject.com/wiki/NoSqlSupport) recommends [Djongo](https://github.com/nesdis/djongo) as the Mongo(NoSQL) adapter.
 - `Model(id)` is NOT the same as `Model.objects.get(id=id)`. You can save the object from `Model.objects.get(id=id)`, but not `Model(id)`: `ValidationError: {u'id': [u'Model with this ID already exists.']}`. [`Model(id)` is undocumented](https://docs.djangoproject.com/en/2.1/ref/models/instances/#django.db.models.Model) and should never be used.
 - Every `<Model>.objects` is just a [subclass of] `models.Manager()`. And you can extend `models.Manager`. Make your own `objects` by subclassing it.
@@ -53,7 +54,7 @@ So if you were to have an autodetected migration that looks like:
             migrations.AddField(...),
         ]
 
-and you want to run SQL *different from what Django would run to add that field*, you can do
+and you want to run SQL _different from what Django would run to add that field_, you can do
 
     class Migration(migrations.Migration):
 
@@ -96,6 +97,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - Like the name almost suggests, `defer('a', 'b', 'c')` fetches all columns except a, b, and c. And like the name suggests, `only('a', 'b', 'c')` only fetches columns a, b, and c. The `related__name` syntax is also supported.
 - If you `annotate(a='foo__bar__baz')` a queryset that evaluates to objects (i.e. the default kind of queryset), then each object gets an attribute `a`.
 - It is possible to map-annotate a (one or many)-to-many relationship using `annotate(singular_relation=F('plurals_relation'))`; each object gets at most one plurals relation annotated.
+- In an M2M field, it doesn't matter how many things you have there... if you do `print(foo.bars)` instead of `print(foo.bars.all())`, it's always going to print `Bar.None`.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
@@ -189,6 +191,7 @@ Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration its
 - There's a [`django.template.Template`](https://github.com/django/django/blob/97e637a87fb45c4de970cca6cb783d93473c9d15/django/template/base.py#L141), and then there's a [`django.template.backends.django.Template`](https://github.com/django/django/blob/b9cf764be62e77b4777b3a75ec256f6209a57671/django/template/backends/django.py#L48), with the latter being a backend for the former.
 - Rest framework's `Response` has inheritance of `Response -> django.template.response.SimpleTemplateResponse -> django.http.HttpResponse`. Django's built-in `JsonResponse` has inheritance of `JsonResponse -> django.http.HttpResponse`.
 - Django class-based views have a `as_view()` method that turns the class into a function (more or less). It is decorated by an in-house [`@classonlymethod` decorator](https://stackoverflow.com/questions/8133312/what-is-the-difference-between-django-classonlymethod-and-python-classmethod), which makes `as_view` callable only in a class, but not in any of its instances. As for what `as_view()` does to convert the class into a function: [it's just a dispatcher](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) that diverts the request to the class's `get`, `post`, and whatever else methods, depending on the request's type.
+- You always avoid translating variables (i.e. `_(variable)`) because [`makemessages` won't detect them](https://docs.djangoproject.com/en/2.2/topics/i18n/translation/#standard-translation).
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/6Lf1OXl.jpg)
 
+- [SDK man](https://sdkman.io/sdks) supports only Java-related SDKs.
 - ["Type inference"](https://softwareengineering.stackexchange.com/a/184183) in Java means `public <T> T foo(T t) { return t; }` returns whatever type you throw at it. It doesn't do more than that because Java devs really really like typing things out: "...the redundant type serves as valuable documentation..."
 - Annotations can be put in function arguments, like `public void foo(@NonNull int[] bar)`. NonNull is from `android.support.annotation`.
 - "Reflection" from Java's point of view is just [the ability to inspect and dynamically call classes, methods, attributes, etc. at runtime.](https://stackoverflow.com/a/37638/1558430) Simple things like calling a method by name counts as reflection.

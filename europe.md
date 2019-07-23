@@ -15,3 +15,4 @@
 - The "coat of arms of [the German Emperor](https://en.wikipedia.org/wiki/William_I,_German_Emperor) with crest" of 1871 had a shocking [**58**](https://upload.wikimedia.org/wikipedia/commons/d/d6/Wappen_Deutsches_Reich_-_Wappen_des_Kaisers_mit_Helmkleinod.svg) black eagles on it.
 - [Speibecken](http://de.wikipedia.org/wiki/Speibecken) are German Oktoberfest puke sinks. They are not only used during Oktoberfest. Speibecken conveniently translates on Google to "dining room".
 - Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
+- [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.

@@ -28,3 +28,4 @@
 - CloudWatch is a hypervisor. It can tell how much CPU an EC2 instance is using, and how much network traffic goes in and out of it, but it does not know the instance's internals, e.g. memory, process count, ?.
 - `aws s3 cp` works similar to `cp`, except `-r` doesn't work, but `--recursive` does.
 - To use async/await in the JS SDK, you can just [add `.promise()`](https://stackoverflow.com/questions/51328292/how-to-use-async-and-await-with-aws-sdk-javascript) after most functions calls.
+- RDS instances that are stopped go back online after 7 days.
