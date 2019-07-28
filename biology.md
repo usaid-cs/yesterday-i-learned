@@ -1,3 +1,6 @@
+- [Swimming with a light scrape is probably okay](https://www.youtube.com/watch?v=ugRc5jx80yg). Sharks can't smell a drop of blood every 4 seconds.
+- [Even if black widows bite, they rarely inject its venom. When they do release venom, it causes mild muscle pain that can last several days, but contrary to popular belief, is fatal in only rare circumstances.](https://www.ctvnews.ca/canada/the-most-dangerous-spiders-found-in-canada-and-what-you-need-to-know-1.3559697)
+- [Borrelia burgdorferi](https://en.wikipedia.org/wiki/Borrelia_burgdorferi) causes [Lyme disease](https://en.wikipedia.org/wiki/Lyme_disease#Signs_and_symptoms). Left untreated, [symptoms](https://www.canada.ca/en/public-health/services/diseases/lyme-disease/symptoms-lyme-disease.html) are: severe headaches, facial paralysis, arthritis, brain disorders, and heart disorders (which leads to death).
 - Alcohol metabolism depends on weight, fitness, gender, -age, exercise, and tolerance.
 - [This video](https://www.youtube.com/watch?v=tTHMBjyzgEU) says you pee 20 swimming pools worth in your lifetime.
 - [Artichoke](https://en.wikipedia.org/wiki/Artichoke) is a kind of [thistle](https://en.wikipedia.org/wiki/Thistle). Italy is the leading supplier of artichokes.

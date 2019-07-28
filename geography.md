@@ -55,3 +55,4 @@
 - [Trinidad](https://en.wikipedia.org/wiki/Trinidad) isn't in Asia, dumbass.
 - Chinese government apparently obfuscates corodinates of their maps and street view stuff using something called [GCJ-02](https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#Coordinate_systems) in the name of national security, but their algorithm is leaked so much that the reverse code it is just on wikipedia.
 - [Doubly-landlocked](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) countries are landlocked by landlocked countries. There are currently only two countries in this category: Liechtenstein and Uzbekistan.
+- [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) and [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates) are not the same countries. Saudi Arabia is the big one. UAE is a bit more to the east. Both are a huge expanse of almost nothing.

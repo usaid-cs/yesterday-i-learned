@@ -1,3 +1,9 @@
+- Paying for a $720 phone as $30 * 24 months saves you around $30 in inflation.
+- [The government wants to know your spotify data](https://www.youtube.com/watch?v=qHHbqEhU0gc) because there is a correlation between the economic climate (actually, your sentiment of it), and the kinds of songs you listen to. During an economic downturn, people enjoy songs with anger, digust, fear, sadness, and anticipation. Inversely, if you know people enjoy happy and dancing songs, *then the stock markets go up*.
+- The plastic sleeves you put in between the wall and the screw are called anchors. You need it only if the wall is brick or concrete (or hard stuff). You don't need it if you have drywall or wood.
+- "Double dutch" is either [Dutch (incomprehensible) on top of Dutch (extra incomprehensible)](https://idioms.thefreedictionary.com/double+Dutch), [jumping two ropes at the same time](https://en.wikipedia.org/wiki/Double_Dutch_%28jump_rope%29), or [using both condom and pills](https://www.urbandictionary.com/define.php?term=double%20dutch). The Dutch do a lot of doubles.
+- When it comes to choosing companies, developers in all walks of life [prefer professional growth over anything else](https://triplebyte.com/blog/want-hire-best-programmers-offer-growth) by a large margin. Then you offer salary and work/life balance.
+- A print shop charges [$15](https://www.printninja.com/printing-resource-center/printing-options/custom-game-printing/sample-pricing) in materials per typical card game.
 - A dehumidifier needs to be big. A small one can't hold the water it sucks out.
 - A "抄手", full name "麻辣抄手" is wontons floating in a full bowl of chili oil.
 - [Women don't like to be complimented by strangers?](https://torontosun.com/life/relationships/ask-amy-woman-wants-to-turn-off-the-male-gaze)
@@ -649,7 +655,7 @@
 - Coffee is frequently used by drug smugglers to overwhelm the smell of the drugs themselves.
 - The only reference to "book" on [yellow pages](https://www.yellowpages.ca/) is faceBOOK.
 - Did you know that devices like Siri listen for [ultrasound instructions](https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html)?
-- You have github's fourth most starred repository with the ["women"](https://github.com/topics/women) tag.
+- You have github's ~~fourth~~sixth most starred repository with the ["women"](https://github.com/topics/women) tag.
 - If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, [approach in small pieces](https://www.martinfowler.com/bliki/StranglerApplication.html). And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 - The Chinese workforce call it [the 996](http://www.bbc.com/capital/story/20180508-young-chinese-are-sick-of-working-overtime): work from 9am to 9pm for 6 days a week.
 - When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
@@ -899,7 +905,6 @@
 - Ninjas don't traditionally wear black. Ninjas wore black only in the theatres, to blend in with the black backdrop.
 - Ticketmaster [owns](http://www.livenationentertainment.com/map/venues) many of the venues from which they extort money from ticket sales.
 - The chocolate-in-a-bun thing the French do is called [pain au chocolat](https://en.wikipedia.org/wiki/Pain_au_chocolat), or, if you are an infidel, chocolatine.
-- Users think that [skeleton loading screens are worse than not having one at all](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens), and loading spinners make things load faster.
 - A "two-way" sometimes means expelling diarrhea and vomiting simultaneously.
 - Look for regulated travel plans from tico.ca.
 - So the bathrobe is worn either over your pyjamas (an Indian term), or over nothing, for either going from the bathroom to the bedroom, or if you want to entertain your guests without showing your pyjamas. It fell out of favour because it's bloody useless.
@@ -1090,7 +1095,6 @@
 - Even the strongest "maximum strength" "repairing" Vaseline lotion "for men" is less strong than just Vaseline, the petroleum jelly. Vaseline [says](http://www.vaseline.us/skin-health-care/does-vaseline-clog-pores.html) it doesn't clog pores so it must be true.
 - Meditation appears to mean [sitting somewhere, closing your eyes, and focus your attention on your breathing without controlling it](https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to).
 - [Austin Evans had his house burn down once.](https://www.youtube.com/watch?v=PGqZkOveLb8) [It was not his heater.](https://twitter.com/austinnotduncan/status/428747620354236416?lang=en)
-- If someone is watching you, then if you yawn, they might as well.
 - Cigarette filters are made of fiberglass.
 - Zack says the name "BlackBerry" was coined by marketing company Lexicon Branding, due to the resemblance of the keyboard's buttons to that of the [drupelets](https://en.wikipedia.org/wiki/Drupe) that compose the blackberry fruit.
 - To [determine the week day of any date](http://gmmentalgym.blogspot.ca/2011/03/day-of-week-for-any-date-revised.html#ndatebasics): (Sunday=0 ~ Saturday=6) + (Map your months to 6 or 5,2 or 1,2,5,0,3,5,1,4,6,2,4) + (Some really, really weird rules regarding years).
@@ -1486,7 +1490,6 @@
 - At 300 million emails a day, Gmail might have real issues with regular hash collisions, not numerically, but by [the way entropy is gathered](https://stackoverflow.com/questions/1155008/how-unique-is-uuid).
 - The [Anker 20100 mAh battery pack](https://www.amazon.com/dp/B00X5RV14Y/) is just six of [these](https://www.amazon.com/Panasonic-NCR18650B-3400mAh-Rechargeable-Battery-Green/dp/B00DHXY72O) NCR18650B cells packed together. If the $42 battery pack has six of these, and two of these cost $15, You can take one of those packs apart for cheap cells.
 - The basement is cooler in the summer, and colder in the winter.
-- [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
 - Excel's SUMPRODUCT(row1, row1...) multiplies two rows together and gives you a sum. Good for weighted tallies.
 - [This converter](http://www.kylesconverter.com/frequency/hertz-to-frames-per-second) claims that display FPS and refresh rate Hz are equivalent units (30 FPS = 30 Hz).
 - Modern train/subway platforms have [stations that are higher than the rest of the track](http://www.gizmodo.co.uk/2017/05/its-official-the-bakerloo-is-the-hottest-london-underground-line/), so they naturally slow down when they enter the station, and naturally gain kinetic energy when they leave the station. This makes the station less hot, and need less ventilation.
@@ -1600,7 +1603,6 @@
 - Many cults are self-sufficient so members don't ever have to leave.
 - ["Trust but verify"](https://en.wikipedia.org/wiki/Trust,_but_verify) is a Russian quote.
 - [2.5% of the US workforce are professional software developers](https://en.wikipedia.org/wiki/Software_engineering_demographics). There are 21 million software developers in the world.
-- Bob Ross [painted rocks like nothing](https://www.reddit.com/r/interestingasfuck/comments/682pif/bob_ross_effortlessly_painting_rocks/).
 - Even in toys, [sacrificial gears](https://en.wikipedia.org/wiki/Gear#Gear_materials) are put in between real gears to make sure neither components get damaged if either side goes wrong.
 - Duct tape does not protect windows against the wind in a storm; duct tape does not protect anything during a storm. It ensures glass shrapnels do not fly everywhere.
 - Maple Syrup molds. Honey doesn't.
@@ -1744,13 +1746,12 @@
 - From a nurse: "If it's wet and it didn't come from you, don't touch it."
 - People who sweep chimneys used to get [giant ball cancers](https://en.wikipedia.org/wiki/Chimney_sweeps%27_carcinoma) from soot irritation. Microwaving your own balls in a cartoon [also](https://en.wikipedia.org/wiki/Medicinal_Fried_Chicken) gives you giant ball cancers.
 - [Peter](http://www.diamandis.com/blog/success-experimentation) says: you _can_ do too many experiments with your customers. Before you do an experiment, you need to make sure 1) you don't already know the outcome, and 2) you are willing to change what you are doing once you get the results from the experiment.
-- [Vanna White](https://www.wheeloffortune.com/vanna-white), Wheel of Fortune letter turner, has never worn the same dress twice (on TV).
+- [Vanna ~~White~~Caucasian-American](https://www.wheeloffortune.com/vanna-white), Wheel of Fortune letter turner, has never worn the same dress twice (on TV).
 - [Goal bounding](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than) identifies which directions to skip going (jump point search goes in all directions.) Problem mainly is O(n^2) runtme on precomputation, and _needing_ precomputation.
 - You can make a hash function `f` such that `f(s) = sha1(s) + sha2(s) + sha3(s)`, no problem. Just know [it does not give the collision resistance proportional to the number of bits that it produces](http://crypto.stackexchange.com/questions/270/guarding-against-cryptanalytic-breakthroughs-combining-multiple-hash-functions), which makes it a sloppy hash function.
 - [Berkshire Hathaway](https://www.google.com/finance?q=NYSE%3ABRK.A) trades at \$254,900 a share (right now).
 - When seasoned investors use the phrase "beat the market", they prefix it with ["attempt to"](http://stockcharts.com/school/doku.php?id=chart_school:overview:why_analyze_securities).
 - It takes only a 50% loss to take back 100% of your gains.
-- [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) and [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates) are not the same countries. Saudi Arabia is the big one. UAE is a bit more to the east. Both are a huge expanse of almost nothing.
 - [Some muslim women choose to fast during pregnancy](http://www.bbc.com/news/health-10927611), even though [there are exceptions specifically for the pregnant and ill](https://en.wikipedia.org/wiki/Ramadan). "But I wasn't worried about my health or my baby's. I think Allah gives you strength and he protects your unborn child." It is not a _huge_ deal because they get to eat at night anyway. For other Muslims intending to cheat the system by living in places with no sunlight, they "should follow the timetable of Mecca".
 - If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost \$1.
 - [`/32`](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing) is one IPv4 address, `/24` is all of 1.2.3.x, `/16` all of 1.2.x.x, `/8` all of 1.x.x.x. Occasionally you get [`/20`](https://answers.yahoo.com/question/index?qid=20071115104737AAQxeRg) blocks...
@@ -2263,7 +2264,7 @@
 - [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 - `m3u8`s are `m3u`s with UTF-8 encoding.
 - Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
-- What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified.
+- What's fun about languages and locales is that the starting weekday for `fr` can be Monday or Sunday, depending on whether `-CA` is specified. What's fun about locales... is the currency symbol € ("euro") can go either before or after the number, depending on the country transacting it. If that's not fun enough, $ ("CAD") can either go before or after the number, *in the same country*, depending on the region of transaction.
 - [Erdinger non-alcoholic beer](http://singletrackworld.com/forum/topic/erdinger-alcohol-free-beer-recovery-drink) is sold as a sports drink.
 - Before you move, make sure the home insurance insurer covers your new address.
 - _Temperature arithmetic is not a trivial task. If I told you to multiple '10 degrees C' by 2, what would you get: 20 degrees C, or 293 degrees K _ 2?\* (Solution is akin to `timedelta`, where the units are always specified.)

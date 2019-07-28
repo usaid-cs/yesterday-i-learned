@@ -1,5 +1,7 @@
 ![](https://imgur.com/AGoopEY)
 
+- Canada [did](https://globalnews.ca/news/5664050/japanese-canadians-bc-government-apology/) send Japanese Canadians to "internment camps or forced into labour because of racist policies during the Second World War".
+- The Canadian TSA is [CA...TSA](https://www.catsa-acsta.gc.ca/en/liquids-non-solid-food-personal-items)
 - In Ontario, [black on yellow licence plates](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ontario) are non-passenger, removable "service plates", for anyone who repairs, customizes, modifies, manufactures or transports motor vehicles. Drunk drivers do not have a separate plate style.
 - [Nova Scotia felt forced into confederation.](https://beta.canada.com/news/canada/whats-in-a-name-how-canadas-national-birthday-as-we-know-it-came-to-be/wcm/f851b72d-be45-4b94-8e56-c134302760f0/amp/) Canada Day celebrations did not take place until 12 years after.
 - In Canada, [you can](https://www.todaysparent.com/family/family-life/myths-about-getting-a-divorce/): cheat and still win a court case, get divorced without signing (with due process), split assets with your gay partner, and move out of the house and still keep it after the divorce. Your properties and pension also get split, usually evenly.
@@ -210,3 +212,4 @@
 - There is a two-level LCBO in Ottawa (75 Rideau St.). The lower level is for vintage only.
 - "Foreign property" by CRA standards [includes](https://business.financialpost.com/personal-finance/taxes/have-foreign-property-the-cra-issues-harsh-penalties-if-you-dont-file-this-form) US stocks, and if you have more than \$100000 worth of those in a non-registered account, you need to file a T1135.
 - [Homeless people are still eligible for OHIP](https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y), but you should talk to Salvation Army about this, who supposedly helps with homeless matters.
+- [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)

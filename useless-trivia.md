@@ -172,3 +172,4 @@
 - It takes just 11 years at 5000/day to produce 20,000,000 ass pennies.
 - [Tomica](https://en.wikipedia.org/wiki/Tomica) has a disproportionate number of Toyota and Nissan models.
 - In the film The Day After Tomorrow, the main protagonist had no gloves on during the majority of the film, grabbing frozen metal ladders with ease, even as the temperature dropped to -150 degrees Celsius.
+- Bob Ross [painted rocks like nothing](https://www.reddit.com/r/interestingasfuck/comments/682pif/bob_ross_effortlessly_painting_rocks/).

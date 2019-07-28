@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- If you have a prop shaft, [you need to balance it](https://www.youtube.com/watch?v=EQNwcUAGRf4).
 - The _2019_ Toyota Tundra uses the same airvents as a specific 2013 vehicle.
 - [It goes without saying that it takes energy to make your tires spin](https://www.youtube.com/watch?v=-RjJtO51ykY). The smaller/fewer wheels you have, the less energy you need.
 - There is no good evidence for the legend that [Henry Ford directed his suppliers to build packing crates in such a way that the boards could be reused as floorboards in the Model T](https://www.hemmings.com/blog/article/dont-let-the-facts-get-in-the-way-of-a-good-story/).

@@ -1,3 +1,5 @@
+- It is [almost always](http://www.learnersdictionary.com/qa/is-it-correct-to-say-on-the-list-or-in-the-list) correct to say "on the list" rather than "in the list". Notable exceptions are 1] if the word "included" is used, and 2] if you're talking python.
+- According to the constitution, Malay is the ["national language" of Singapore](https://en.wikipedia.org/wiki/Languages_of_Singapore). Its "official languages" are English, Malay, Chinese, and Tamil, not in that order. In RFC5646, Singapore has a local version of Chinese, but not Malay, English, or Tamil.
 - US English speakers believe that the symbol "!" is a [point](https://en.wikipedia.org/wiki/Exclamation_mark) rather than a mark. According to that page, the exclamation mark came from the latin word for joy ("io"), where the I moved above the O, and the O got smaller.
 - [Coming undone](https://english.stackexchange.com/questions/6383/what-does-to-come-undone-actually-mean) means something (often abstract, e.g. a plan) is falling apart.
 - [Mayday](https://en.wikipedia.org/wiki/Mayday) might have come from French _m'aider_, "help me".

@@ -98,6 +98,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - If you `annotate(a='foo__bar__baz')` a queryset that evaluates to objects (i.e. the default kind of queryset), then each object gets an attribute `a`.
 - It is possible to map-annotate a (one or many)-to-many relationship using `annotate(singular_relation=F('plurals_relation'))`; each object gets at most one plurals relation annotated.
 - In an M2M field, it doesn't matter how many things you have there... if you do `print(foo.bars)` instead of `print(foo.bars.all())`, it's always going to print `Bar.None`.
+- To order a queryset's related fields (like if you are querying users and their products, with products sorted by name), do a `Prefetch()` on those products, with `queryset=` being an ordered set of products.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
@@ -192,6 +193,7 @@ Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration its
 - Rest framework's `Response` has inheritance of `Response -> django.template.response.SimpleTemplateResponse -> django.http.HttpResponse`. Django's built-in `JsonResponse` has inheritance of `JsonResponse -> django.http.HttpResponse`.
 - Django class-based views have a `as_view()` method that turns the class into a function (more or less). It is decorated by an in-house [`@classonlymethod` decorator](https://stackoverflow.com/questions/8133312/what-is-the-difference-between-django-classonlymethod-and-python-classmethod), which makes `as_view` callable only in a class, but not in any of its instances. As for what `as_view()` does to convert the class into a function: [it's just a dispatcher](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) that diverts the request to the class's `get`, `post`, and whatever else methods, depending on the request's type.
 - You always avoid translating variables (i.e. `_(variable)`) because [`makemessages` won't detect them](https://docs.djangoproject.com/en/2.2/topics/i18n/translation/#standard-translation).
+- [`MIDDLEWARE_CLASSES` got deprecated in 1.10; it is `MIDDLEWARE` now](https://docs.djangoproject.com/en/1.11/ref/settings/#std:setting-MIDDLEWARE). The major difference is: `MIDDLEWARE_CLASSES` short-circuits to a 500 if a middleware throws an exception, while for `MIDDLEWARE`, all subsequent middlewares see a 500 response.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 
