@@ -172,6 +172,20 @@ If you want to alter a table (like for real, not just `help_text` on a field), y
 
 Note that a `CREATE INDEX CONCURRENTLY` index will still block the migration itself. It is not asynchronous.
 
+#### `AttributeError: module 're' has no attribute 'RegexFlag'`
+
+Did you know? Creating a migration with `all(`in Django, with one of the fields using `RegexValidator`, which has at least one flag, while running python3.6`)` will result in a migration file that says
+
+    validators=[RegexValidator('^ ... $', flags=2)]
+
+rather than
+
+    validators=[RegexValidator('^ ... $', flags=re.RegexFlag(2))]
+
+But `re.RegexFlag` was added in python3.6, so you cannot run this migration in python3.5 anymore.
+
+Just replace `re.RegexFlag(...)` with the number inside (in this case, `2`).
+
 ## Views / Templating
 
 - [Django does not force you to put code at some specific place](http://stackoverflow.com/a/8590943/1558430). With that said, since MVC requires a service abstraction layer between M and C, which hardly anyone ever has, Django tends to recommend logic in either V or [M](http://stackoverflow.com/a/8591009/1558430), depending on whether the logic concerns requests.

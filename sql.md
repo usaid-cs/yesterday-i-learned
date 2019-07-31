@@ -40,14 +40,15 @@
 - Show last `InnoDB` foreign key error: [`SHOW ENGINE INNODB STATUS;`](http://stackoverflow.com/a/179501/1558430)
 - `SET unique_checks=0;` and `SET foreign_key_checks = 0;` does not help you drop a foreign key constraint.
 
-* Create a user: `CREATE USER 'ebroot'@'localhost' [IDENTIFIED BY 'some_pass'];` (different from `CREATE USER 'ebroot';` and `CREATE USER 'ebroot'@'*';`)
-* Create a user using a pre-hashed password: `CREATE USER 'ebroot'@'localhost' IDENTIFIED BY PASSWORD 'abcdef123456';`
-* Give a user privileges: `GRANT ALL ON ebdb.* TO 'ebroot'@'localhost';`
+- Create a user: `CREATE USER 'ebroot'@'localhost' [IDENTIFIED BY 'some_pass'];` (different from `CREATE USER 'ebroot';` and `CREATE USER 'ebroot'@'*';`)
+- Create a user using a pre-hashed password: `CREATE USER 'ebroot'@'localhost' IDENTIFIED BY PASSWORD 'abcdef123456';`
+- Give a user privileges: `GRANT ALL ON ebdb.* TO 'ebroot'@'localhost';`
 
-* MySQL [does not](http://stackoverflow.com/a/10474104/1558430) support transactional schema alters at any time.
-* Amazon [does not](https://forums.aws.amazon.com/message.jspa?messageID=153017#) allow SSH into RDS instances.
-* [Why is MySQL's default collation latin1_swedish_ci?](http://stackoverflow.com/questions/6769901/why-is-mysqls-default-collation-latin1-swedish-ci)
-* [No `FULL (OUTER) JOIN` in MySQL?](https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql#4796911) WTF? (`LEFT JOIN` works as expected. )
+- MySQL [does not](http://stackoverflow.com/a/10474104/1558430) support transactional schema alters at any time.
+- Amazon [does not](https://forums.aws.amazon.com/message.jspa?messageID=153017#) allow SSH into RDS instances.
+- [Why is MySQL's default collation latin1_swedish_ci?](http://stackoverflow.com/questions/6769901/why-is-mysqls-default-collation-latin1-swedish-ci)
+- [No `FULL (OUTER) JOIN` in MySQL?](https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql#4796911) WTF? (`LEFT JOIN` works as expected.)
+- It's not that DDL statements don't work in a transaction, but [an implied `COMMIT` is run whenever you run DDL statements](https://stackoverflow.com/a/22806756/1558430), so any DML statements run before that DDL statement (like `INSERT; ALTER TABLE;`) will have been committed as well.
 
 # PostgreSQL
 

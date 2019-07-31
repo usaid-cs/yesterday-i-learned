@@ -1,3 +1,4 @@
+- A [flint cone](https://en.wikipedia.org/wiki/Hostile_architecture) is a stone (flint) structure at the bottom of a corner of building, that discourages patrons (mostly men) from urinating there.
 - Paying for a $720 phone as $30 * 24 months saves you around $30 in inflation.
 - [The government wants to know your spotify data](https://www.youtube.com/watch?v=qHHbqEhU0gc) because there is a correlation between the economic climate (actually, your sentiment of it), and the kinds of songs you listen to. During an economic downturn, people enjoy songs with anger, digust, fear, sadness, and anticipation. Inversely, if you know people enjoy happy and dancing songs, *then the stock markets go up*.
 - The plastic sleeves you put in between the wall and the screw are called anchors. You need it only if the wall is brick or concrete (or hard stuff). You don't need it if you have drywall or wood.

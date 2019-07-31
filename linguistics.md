@@ -1,3 +1,5 @@
+- A [wild card](https://en.wiktionary.org/wiki/wild_card#English) can also be a person who is allowed to compete in a tournament despite not being qualified for inclusion.
+- [Most](https://en.wiktionary.org/wiki/most#Etymology_1) means "the comparatively largest number" if used as "_the_ most", or "more than half of" if not.
 - It is [almost always](http://www.learnersdictionary.com/qa/is-it-correct-to-say-on-the-list-or-in-the-list) correct to say "on the list" rather than "in the list". Notable exceptions are 1] if the word "included" is used, and 2] if you're talking python.
 - According to the constitution, Malay is the ["national language" of Singapore](https://en.wikipedia.org/wiki/Languages_of_Singapore). Its "official languages" are English, Malay, Chinese, and Tamil, not in that order. In RFC5646, Singapore has a local version of Chinese, but not Malay, English, or Tamil.
 - US English speakers believe that the symbol "!" is a [point](https://en.wikipedia.org/wiki/Exclamation_mark) rather than a mark. According to that page, the exclamation mark came from the latin word for joy ("io"), where the I moved above the O, and the O got smaller.
@@ -128,7 +130,7 @@
 - The root of the word "royal" can be traced back to a reconstructed proto-indo-european word, [_h₃reǵ-_](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h%E2%82%83re%C7%B5-), for "right" or "just".
 - One 叮 for microwave, two 叮 s for a tram.
 - Germans call their teams "Mannschaft".
-- _L'occitane_ should probably be _l'ocçitane_, "LOC see tan".
+- _L'occitane_ should probably be _l'ocçitane_, "LOC see tan", but [has never been](https://fr.wikipedia.org/wiki/Occitanie_%28r%C3%A9gion_culturelle%29).
 - The [difference between _dans_ and _en_](https://forum.duolingo.com/comment/887393/En-vs-Dans) varies depending on where you are, so it is basically "memorise it".
 - You see so many "sorry for my bad english" posts because you can't read comments in other languages. (Though no one says that in Chinese for some reason)
 - _Sean_ came from John, but _Shawn_ and _Shaun_ came from German _schön_ (beautiful).

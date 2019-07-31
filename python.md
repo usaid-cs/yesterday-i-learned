@@ -27,8 +27,8 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 - Python does not raise a rounding exception when a large number is used. The typical check is `n + 1 == n`.
 - To speed up a read-only query, try adding `.values_list(fields...)` to a QuerySet, which returns simple tuples.
 - It is absolutely possible that django `loaddata` is a douchebag.
-   Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`,
-   which provides all references before inserting.
+  Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`,
+  which provides all references before inserting.
 - Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
 - `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
 - There is such thing as a [for-else][stackoverflow 2] condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
@@ -359,7 +359,7 @@ bar
 - [The backspace character](https://en.wikipedia.org/wiki/Backspace) (`chr(8)`) is a caret shifting mechanism. One backspace moves the caret one character to the left, and the next character replaces the character that is already in that position. For example, `print 'A' + chr(8) + 'B'` prints just `B` (because the B replaced the A), and `'A' + chr(8)` prints just `A` (because nothing replaced the A yet). `print 'A' + 'B' + chr(8) + chr(8) + 'C'` prints `CB`, because the caret is moved two characters back, and the C replaces the A.
 - The `a, *_, b = [...]` unpacking thing raises a ValueError if the list is fewer than two elements long. `a, b = foo[0], foo[-1]` does not do that.
 - [`type('', (), {})()` will create an object that can have arbitrary attributes.](http://stackoverflow.com/a/24448351/1558430)
-   1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
+  1, Up until python 3.7, [it was impossible](https://docs.python.org/3.7/whatsnew/3.7.html) to have a function with more than 255 parameters, but a function name of more than 255 parameters is ok (you tested 100,000 characters).
 - A statement is a complete line of code that performs some action, while an expression is any section of the code that evaluates to a value. [Expressions can be combined “horizontally” into larger expressions using operators, while statements can only be combined “vertically” by writing one after another, or with block constructs.](https://www.quora.com/Whats-the-difference-between-a-statement-and-an-expression-in-Python)
 - [`sets.Set`](http://stackoverflow.com/a/32108276/1558430) is deprecated (removed in 3, even); `set` is not.
 - `json.dumps(float('inf'))` should fail because `Infinity` is not valid JSON. Yet, using `simplejson`, it succeeds. So if your python code generates any JSON that contains an `Infinity` in it, your JS will get rekt.
@@ -372,7 +372,7 @@ bar
 - You can have `exit(0)` anywhere, in globals, in a function or in a list comprehension, and the script will exit with 0. In a generator, `exit(0)` takes effect whenever that generator outputs its first item.
 - Python3 has the `raise from` syntax, where given an exception (e.g. `except ValueError as e`), you can [re-raise a different exception](https://stackoverflow.com/questions/24752395/python-raise-from-usage) while noting what the original cause was, i.e. `raise TypeError(...) from e`. Default is to show the previous errors anyway. To supress it, `raise ... from None` (no context).
 - [Sometimes `%.0f` rounds up. Sometimes `%.0f` rounds down.](https://stackoverflow.com/a/24121342/1558430) Try 10.5 (becomes 10) and 1.5 (becomes 2).
-   1 The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
+- The `set` literal happily accepts repeated items, like `{1,1,1}`. It just comes out as `{1}`.
 - Given `[1,2,3,4,5,6,7]`, `bisect.bisect_left(that array, 4)` will give you the index of 4, to the left of `4`, and `bisect.bisect_right(that array, 4)` will give you the index of 5, to the right of `4`.
 - Destructured additions cannot be done. That is, `(a, b) += 1` ("add 1 to each of a and b") and `(a, b) += (3, 4)` ("add 3 to a and add 4 to b") will not work. You can still do `a, b = a + 3, b + 4`, though.
 - `inspect.getfile(obj)` works only on a class, so `inspect.getfile(obj.__class__)`.
@@ -501,7 +501,7 @@ bar
 - There is an `assertIs` in addition to `assertEqual`, but [using `is` for numbers can potentially be incorrect](https://codeyarns.com/2012/05/01/integer-caching-in-python/) when the number is outside [-5, 256]... among other [strange situations](https://stackoverflow.com/a/15172182/1558430) where the compiler could not optimise the code ahead of time.
 - Like [they said](https://docs.python.org/3/library/functions.html#breakpoint), `breakpoint()` is purely a convenience function.
 - [PEP 420](https://www.python.org/dev/peps/pep-0420/#specification): It is no longer necessarily the case that a folder needs an `__init__.py` (making it a package) for files to be imported, but the rules are still confusing enough that you will want to continue having these files.
-- According to [this guy](https://stackoverflow.com/questions/2903827/why-are-python-exceptions-named-error), exception classes should not end with `Exception` because we don't write normal classes ending with `Class` or variables ending with `_variable` either. As for *what* exceptions are not errors, examples include `SystemExit`, `KeyboardInterrupt`, and exceptions that are called `Warning`s instead of `Error`s.
+- According to [this guy](https://stackoverflow.com/questions/2903827/why-are-python-exceptions-named-error), exception classes should not end with `Exception` because we don't write normal classes ending with `Class` or variables ending with `_variable` either. As for _what_ exceptions are not errors, examples include `SystemExit`, `KeyboardInterrupt`, and exceptions that are called `Warning`s instead of `Error`s.
 - You have never used F strings because they are python 3.6 and up, but you're stuck on 3.5.
 - [If a class declares `__slots__`, all of its subclasses need to declare `__slots__` individually](https://stackoverflow.com/a/28059785/1558430), but only attributes introduced by that particular subclass.
 - Only python3 classes with `__slots__` defined will raise `AttributeError` when something not inside `__slots__` is assigned to it. It does not do that in python2. See also: [source](0005.py)
@@ -519,8 +519,10 @@ bar
 - To make an ordered counter (a blend of `Counter()` and `OrderedDict()`), you [really](https://stackoverflow.com/a/35448557/1558430) make `class OrderedCounter(Counter, OrderedDict)`.
 - The G in Gunicorn stands for Green. It uses a pre-fork worker model. ["pre-fork" means the worker is forked before a request comes in](https://stackoverflow.com/a/25894770/1558430), and ["worker" means the master process spins up workers, but doesn't know what the workers are doing](http://docs.gunicorn.org/en/stable/design.html).
 - `max([])` would complain about being an empty sequence, but `max([], default=5)` will not.
-- In 2018, a PEP that [allows an expression to also assign shit](https://www.python.org/dev/peps/pep-0572/) (i.e. `y0 = (y1 := f(x))`) was accepted. [GVR *rage quit*.](https://www.python.org/dev/peps/pep-0401/) He left because [people hated him for the decision he makes in *his* language](https://mail.python.org/pipermail/python-committers/2018-July/005664.html). He left because he's tired [of having to fight to have his project the way to wants it].
+- In 2018, a PEP that [allows an expression to also assign shit](https://www.python.org/dev/peps/pep-0572/) (i.e. `y0 = (y1 := f(x))`) was accepted. [GVR _rage quit_.](https://www.python.org/dev/peps/pep-0401/) He left because [people hated him for the decision he makes in _his_ language](https://mail.python.org/pipermail/python-committers/2018-July/005664.html). He left because he's tired [of having to fight to have his project the way to wants it].
 - [The contents of a lambda is never called on initialisation](sources/0006.py), even if it looks like it will, like `a = lambda: foo()`. In this case, `foo` is not called until the lambda is.
+- Yes, you can redefine the `print()` function in python3.
+- `"abcd".split()` will only split it to `["abcd"]`, which is useless. `"abcd".split('')` will complain about "empty separator" instead, which is also useless. To get `['a', 'b', 'c', 'd']`, do `list("abcd")`.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

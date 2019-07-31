@@ -1,5 +1,7 @@
 > "Life is an improvisation. You have no idea what's going to happen next and you are mostly making things up as you go along." - Stephen Colbert
 
+- "**If you don't go after what you want, you'll never have it.** If you don't ask, the answer is always no. If you don't step forward, you're always in the same place." - Nora Roberts
+- "Working as hard as you can" doesn't mean not resting and burning out. It means putting maximum sustained load on yourself.
 - [People are waiting for you to fail](https://seekingmyutopia.com/2019/01/22/people-are-waiting-for-you-to-fail/). They will bring you down. The only person you can trust to keep you positive, all the time, is _yourself_. As an aside, you are not anyone else's responsibility. You and you alone are responsible for your physical, mental, and social wellbeing.
 - "Never let an animal see you as 'the path of least resistance.'" - /u/Quinn_tEskimo's grandpa
 - There isn't a purpose in life. Your purpose in life is what you make it, [and that will keep you busy until it is time for you to exit the stage.](https://www.reddit.com/r/TrueAskReddit/comments/c7oj0c/how_do_you_not_question_the_point_of_life_all_the/)

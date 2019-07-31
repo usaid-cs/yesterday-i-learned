@@ -1,5 +1,6 @@
 ![](https://imgur.com/AGoopEY)
 
+- [Raymond Hill](https://github.com/gorhill) (the uBlock Origin guy) is Canadian? He says he lives in Québec. "Québec" means "where the river narrows".
 - Canada [did](https://globalnews.ca/news/5664050/japanese-canadians-bc-government-apology/) send Japanese Canadians to "internment camps or forced into labour because of racist policies during the Second World War".
 - The Canadian TSA is [CA...TSA](https://www.catsa-acsta.gc.ca/en/liquids-non-solid-food-personal-items)
 - In Ontario, [black on yellow licence plates](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ontario) are non-passenger, removable "service plates", for anyone who repairs, customizes, modifies, manufactures or transports motor vehicles. Drunk drivers do not have a separate plate style.
