@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- If you anticipate an event where your new vehicle might get totalled, get [GAP insurance](https://www.thinkinsure.ca/insurance-help-centre/gap-insurance.html). GAP insurance pays off the difference between (how much you still need to pay off the car) and (how much your insurance says your car is worth, which is less). For example, if you buy a $50000 car, and you drive it off the lot (which makes it worth $30000) but totalled it right outside the dealership, GAP insurance pays you that $20000, and you end up with no car and no debt.
 - If you have a prop shaft, [you need to balance it](https://www.youtube.com/watch?v=EQNwcUAGRf4).
 - The _2019_ Toyota Tundra uses the same airvents as a specific 2013 vehicle.
 - [It goes without saying that it takes energy to make your tires spin](https://www.youtube.com/watch?v=-RjJtO51ykY). The smaller/fewer wheels you have, the less energy you need.

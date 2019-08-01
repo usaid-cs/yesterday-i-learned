@@ -1,5 +1,8 @@
-![](https://imgur.com/AGoopEY)
+🇨🇦
 
+- It is ["strongly discouraged, but it is not illegal"](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) for private-sector organisations to ask for your SIN, for stuff like looking for a new lease on an apartment or a car.
+- [Canadians cannot do a "credit freeze"](https://globalnews.ca/news/5706918/capital-one-breach-new-social-insurance-number-sin/). The concept is American-only. Replacing your SIN does not erase your old one, and any debt incurred by the old one is still going to be paid by you, so getting a new SIN is not useful for fraud protection, and is [not entertained by the government](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) unless the SIN has _already_ been used for fraud.
+- [Canola oil](https://en.wikipedia.org/wiki/Canola_oil#Origin) came from CAN- (Canada) and -OLA (suffix for other oil products). It is a variant of rapeseed oil, so not all rapeseed oil is canola oil, but all canola oil is rapeseed oil.
 - [Robin's](http://www.robinsdonuts.com/) call their version of timbits, "Robin's eggs". Dunkin Donuts call them "munchkins". Regardless of brand, they are all donut holes.
 - [Raymond Hill](https://github.com/gorhill) (the uBlock Origin guy) is Canadian? He says he lives in Québec. "Québec" means "where the river narrows".
 - Canada [did](https://globalnews.ca/news/5664050/japanese-canadians-bc-government-apology/) send Japanese Canadians to "internment camps or forced into labour because of racist policies during the Second World War".
@@ -151,7 +154,7 @@
 - Canadians have been detained before for [not giving out their phone passwords at customs](http://www.theverge.com/2015/3/6/8162337/iphone-unlock-border-agents-canada).
 - Unlike their counterparts in America, Canadian Slurpees do not contain yucca extract, which gives it the airy consistency American Slurpees are known for.
 - "20% of the LCBO's customers bring in 80% of the revenue" - [this one guy on Reddit](http://www.reddit.com/r/canada/comments/4o9e4o/-/d4b82dm)
-- Canada used to have "Athabasca" and "Assiniboia" [districts](https://en.wikipedia.org/wiki/Districts_of_the_Northwest_Territories). They are now various parts of the west.
+- Canada used to have "Athabasca" and "Assiniboia" [districts](https://en.wikipedia.org/wiki/Districts_of_the_Northwest_Territories). They are now various parts of the west. Athabasca is Cree for "grass or [reeds](https://en.wikipedia.org/wiki/Reed_%28plant%29) here and there".
 - U Lethbridge's motto is Fiat Lux.
 - "[Perth, Ontario](https://en.wikipedia.org/wiki/Perth,_Ontario) was the site of the last fatal duel in Upper Canada. Robert Lyon, a law student, was killed on June 13, 1833 after fighting over a woman (Elizabeth Hughes) with a former friend, John Wilson."
 - [Ontario][subletters cannot rent out the place for more than its original rent.](https://www.ontario.ca/laws/statute/06r17#s134s3)

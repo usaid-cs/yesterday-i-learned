@@ -90,6 +90,7 @@
 - **Gamins**: kids. _Nous comprenons ces gamins_: we understand these kids.
 - **Garçons**: A Catholic church staple.
 - **Gâteau**: cake.
+- **Gazeuse**: sparkling? _l'eau gazeuse_: sparkling water.
 - **Gendre**: son in law.
 - [**Haïr**](http://la-conjugaison.nouvelobs.com/du/verbe/hair.php): hate. _Je te hais_: I hate you (probably).
 - **Happy Hour**: [happy hour](https://www.collinsdictionary.com/dictionary/english-french/happy-hour). Not _l'heure d'heur_.
@@ -111,6 +112,7 @@
 - **Lit**: bed. _Il lit au lit_: he reads in bed.
 - **Livre**: book.
 - **Longtemps**: long time. _Pas très longtemps_: not a very long time.
+- **Lycée**: High school.
 - **Mademoiselle**: Miss. Literally _Ma Demoiselle_, "my damsel" (unwed young woman).
 - **Magasin**: shop.
 - **Magazine**: magazine. See also: _journal_, newspaper.

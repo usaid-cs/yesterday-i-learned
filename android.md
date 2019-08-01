@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- "Adaptive LMK" is [based on VM pressure](http://tjtech.me/analyze-adaptive-lmk.html).
 - To start the device with adb already enabled, edit `build.prop` with a new line: `persist.sys.usb.config=mtp,adb`
 - Apps that don't need to read phone state, but request that permission anyway, are reading your IMEI number. [To uniquely track you.](https://developer.android.com/preview/privacy/data-identifiers)
 - [Verify your adb RSA key](https://android.stackexchange.com/questions/50922/how-can-i-see-the-fingerprint-of-my-adbkey) with `awk '{print $1}' < ~/.android/adbkey.pub | openssl base64 -A -d -a | openssl md5 -c`
@@ -61,7 +62,7 @@
 - `adb shell dumpsys batterystats --reset` resets the battery graph.
 - The Moto E(2) is [a bitch to fix](https://www.ifixit.com/Guide/Motorola+Moto+E+2nd+Generation+Battery+Replacement/56502).
 - Not being on a stock rom while relocking your bootloader will brick the device, says [this guy](https://forum.xda-developers.com/showpost.php?p=69267541&postcount=9).
-- If your friendly local LineageOS installation complains about [having no `TERM` variable](https://jira.lineageos.org/browse/BUGBASH-556?attachmentViewMode=list), then see if adding `export TERM=xterm` to `/etc/mkshrc` helps. The message you get is: `Error opening terminal: unknown.`
+- If your friendly local LineageOS installation complains about [having no `TERM` variable](https://jira.lineageos.org/browse/BUGBASH-556?attachmentViewMode=list) in bash, then see if adding `export TERM=xterm` to `/etc/mkshrc` helps. The message you get is: `Error opening terminal: unknown.`
 - The Pixel has [Snapdragon 821-AB](https://www.xda-developers.com/dissecting-speed-how-oneplus-leveraged-excellent-real-world-performance/), whereas the Oneplus 3T has Snapdragon 821-AC, with a slightly higher boost frequency.
 - Face Unlock is less popular in countries like Saudi Arabia and UAE.
 - Download the SDK before attempting to compile anything.
@@ -77,7 +78,7 @@
 - Samsung is not an Android manufacturer for Google; [Samsung is a conglomerate that wants to take Android off Google](https://www.youtube.com/watch?v=2_L9j6mDJBg). No other series of devices have both Samsung and Google Apps suites.
 - Tapping "Cached data" in System>Storage on Android clears caches for all apps. Beware, it also clears Google offline maps and gReader article data.
 - If a Oneplus One boot loops because of a [corrupt `persist` partition](http://www.androidpolice.com/2014/10/13/heres-easy-fix-oneplus-one-sudden-death-bug-results-neverending-boot-loops/), run `make_ext4fs /dev/block/mmcblk0p15`
-- As of ~~Android L~~CyanogenMod 12, the shell now comes with [htop](http://en.wikipedia.org/wiki/Htop) (or its busybox).
+- As of ~~Android L~~CyanogenMod 12, the shell (or busybox) now comes with [htop](http://en.wikipedia.org/wiki/Htop).
 - However much Google results decide to decay, the way to check (your particular android) device's battery percentage is `cat /sys/class/power_supply/battery/capacity`.
 - [The last three digits of a Google Play Services package](https://www.reddit.com/r/Android/comments/3mh7vt/new_google_play_services_8118_438/cvf1ni5) defines the compatible android version, CPU architecture, and PPI, respectively. The most common combination is "030", package for Pre-5 devices.
 - MediaTek is "not that much worse" than Qualcomm _iff_ [you don't use custom ROMs](https://www.reddit.com/r/Android/comments/6p8nio/is_mediatek_really_that_worse/).
@@ -96,5 +97,5 @@
 - `accessibility_display_daltonizer` controls which colour space to use (monochromacy = 0, deuteranomaly = 1, protanomaly = 2, tritanomaly = 3), while `accessibility_display_daltonizer_enabled` controls whether it is active (0 = disabled, 1 = enabled).
 - TWRP doesn't have password protection on purpose; [they didn't want to guarantee safety](https://twrp.me/faq/securetwrp.html).
 - Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
-- The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter. Both settings are emulated.
+- The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter (apart from some of Samsung's experiments). Both settings are emulated.
 - Tasker's `%DATE` format will change depending on the system locale.
