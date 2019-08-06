@@ -523,6 +523,8 @@ bar
 - [The contents of a lambda is never called on initialisation](sources/0006.py), even if it looks like it will, like `a = lambda: foo()`. In this case, `foo` is not called until the lambda is.
 - Yes, you can redefine the `print()` function in python3.
 - `"abcd".split()` will only split it to `["abcd"]`, which is useless. `"abcd".split('')` will complain about "empty separator" instead, which is also useless. To get `['a', 'b', 'c', 'd']`, do `list("abcd")`.
+- [IronPython (python on Mono) doesn't have an global interpreter lock (GIL)](https://rohanvarma.me/GIL/).
+- `pip install --user` is executable only if you include `~/.local/bin` in your path.
 
 [bitbucket]: https://bitbucket.org/jsbueno/lelo/src/ab9837ef82001329c421afbfe7e0759c6ec0f16d/lelo/_lelo.py?at=master
 [djangoproject]: https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project

@@ -1,3 +1,4 @@
+- Unless otherwise decaffinated, [green tea still contains caffeine.](https://www.thespruceeats.com/how-much-caffeine-in-green-tea-765281)
 - On average, cats live longer than dogs.
 - Rat poison works because they cannot vomit. Horses and giraffes also cannot vomit.
 - [27%](https://en.wikipedia.org/wiki/Hernia) of all males will have their intestines shoved down their balls some time in his life. Unless it causes issues, this does not need to be repaired. To prevent it anyway, stay healthy, avoid appendectomy, don't lift so much, and, most importantly, don't be over 50.

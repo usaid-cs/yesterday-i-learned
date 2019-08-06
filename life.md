@@ -1,5 +1,6 @@
 > "Life is an improvisation. You have no idea what's going to happen next and you are mostly making things up as you go along." - Stephen Colbert
 
+- Do not trash your relatives in front of your kids. [They remember.](https://www.reddit.com/r/science/comments/cm9knd/warning_to_adults_children_notice_everything/) [Everything.](https://news.osu.edu/warning-to-adults-children-notice-everything/)
 - "We did not come here to fear the future."
 - Wear gloves when you use oven cleaner sprays, which strips fats away from anything.
 - "**If you don't go after what you want, you'll never have it.** If you don't ask, the answer is always no. If you don't step forward, you're always in the same place." - Nora Roberts

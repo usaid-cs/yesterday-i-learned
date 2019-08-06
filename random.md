@@ -1,3 +1,9 @@
+- The [gold standard](https://en.wikipedia.org/wiki/Gold_standard) is where the value of a currency is based on a fixed amount of gold. It is not recommended, because [during times of recessions and depressions, people will tend to hold onto gold instead of currency. Since they're not spending it into the economy, it somewhat prolongs recessions/depressions](https://www.reddit.com/r/explainlikeimfive/comments/cmbgis/eli5_what_does_it_mean_when_a_country_like_china/ew1ol1x/).
+- To sharpen a knife, you will need wetstones of: 800 and 3000 grits. You can also get 6000/8000 grits for a better edge, and leather for polishing.
+- In 7 Wonders the board game, you will never require, for any card or wonder, more than one high-level resource (silk, glass, paper) of each type, other than the one that is possibly given to you at the start of the civilisation.
+- Meditation is [focusing on your breathing](https://www.youtube.com/watch?v=LkoOCw_tp1I)
+- Crocheting is knitting with one hook (instead of two "needles").
+- The authenticity of birth certificates is important because they potentially a) allow you to be a citizen, and b) increase your retirement income, if the government starts paying you at a certain age.
 - Sometimes bars have different "help phrases" (like asking for Angela) for different genders in the bathroom, so the other gender doesn't know what it is.
 - [七夕](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A4%95) appears to be yet another Asian valentines day. It happens on the seventh day of the seventh lunar month.
 - Twins can be born days apart. [In Ireland, one twin was prematurely born, but the other was not](https://sg.theasianparent.com/miracle-twins-born-87-days-apart), leading to a 87-day birthdate difference.

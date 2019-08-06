@@ -14,3 +14,4 @@
 - [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
 - [Cargill](https://en.wikipedia.org/wiki/Cargill) is America's largest private company. They can commit atrocities without releasing any details.- [Florida statute 10-20-life](https://en.wikipedia.org/wiki/10-20-Life): get 10 years in prison if you show a gun during a crime. 20 years if you fire one. Life sentence if you shoot someone.
 - At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
+- In [1981](http://www.todaywasterrible.com/aug-5-ya-fired/), when the [Professional Air Traffic Controllers Organization](https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_%281968%29) went on strike and the air traffic controllers refused to return to work, Ronald Reagan just fired all 11,345 of them.

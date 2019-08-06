@@ -10,7 +10,7 @@ from os import fdopen, remove
 
 
 def get_lines():
-    with open('linux.md', 'r') as f:
+    with open('python.md', 'r') as f:
         return [line for line in f]
 
 

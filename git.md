@@ -311,6 +311,14 @@ To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commi
 
 If you guys all `git push` to a branch regularly, and you need to `git push --force` to fix something, [try `git push --force-with-lease` instead](https://robots.thoughtbot.com/git-push-force-with-lease), which makes sure the remote's head is the same as your local tracking branch for the remote. So, `git fetch` first.
 
+### I want to check if I have a sleeping issue
+
+Use [the commit hour script](https://gist.github.com/bessarabov/674ea13c77fc8128f24b5e3f53b7f094) to find out if you sleep at night.
+
+```
+git log --author="Anonymous Coward" --format="%ad" --date="format:%H"|awk '{n=$1+0;if(H[n]++>max)max=H[n]}END{for(i=0;i<24;i++){printf"%02d -%5d ",i,H[i];for(n=0;n<H[i]/max*50;n++){printf "*"}print""}}'
+```
+
 ## booboos
 
 ### I accidentally deleted a file, and thought I could just check it back out
