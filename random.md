@@ -1,3 +1,6 @@
+- Sometimes bars have different "help phrases" (like asking for Angela) for different genders in the bathroom, so the other gender doesn't know what it is.
+- [七夕](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A4%95) appears to be yet another Asian valentines day. It happens on the seventh day of the seventh lunar month.
+- Twins can be born days apart. [In Ireland, one twin was prematurely born, but the other was not](https://sg.theasianparent.com/miracle-twins-born-87-days-apart), leading to a 87-day birthdate difference.
 - A [flint cone](https://en.wikipedia.org/wiki/Hostile_architecture) is a stone (flint) structure at the bottom of a corner of building, that discourages patrons (mostly men) from urinating there.
 - Paying for a $720 phone as $30 * 24 months saves you around $30 in inflation.
 - [The government wants to know your spotify data](https://www.youtube.com/watch?v=qHHbqEhU0gc) because there is a correlation between the economic climate (actually, your sentiment of it), and the kinds of songs you listen to. During an economic downturn, people enjoy songs with anger, digust, fear, sadness, and anticipation. Inversely, if you know people enjoy happy and dancing songs, *then the stock markets go up*.
@@ -152,8 +155,8 @@
 - Article 1: WhatsApp tracks your metadata. Article 2: [for spam](https://www.whatsapp.com/safety/WA_StoppingAbuse_Whitepaper_020418_Update.pdf).
 - Cross check is pushing someone over with the middle of the stick. (i.e. no crosses are formed)
 - _Fettuccine_ means ribbon. _Lasagna_ means cooking pot. _Linguine_ means little tongues. _Penne_ means quill. _Spaghetti_ means cord. _Vermicelli_ means little worms.
-- Coding with the intention to pass something like PEP 8 is like [not seeing the gorilla when you count basketball passes](https://www.youtube.com/watch?v=wf-BqAjZb8M&feature=youtu.be&t=691). Formatting is not everything. [Just because a rule exists, it doesn't mean it makes sense to obey it.](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29): "Programmers who insist on (doing pretty much anything minor) risk not seeing the forest for the trees."
-- The fabulous Rubyist Sandi Metz has a famous talk called All The Little Things, where she posits that [“duplication is far cheaper than the wrong abstraction”, and thus to “prefer duplication over the wrong abstraction”](https://www.youtube.com/watch?v=8bZh5LMaSmE&feature=youtu.be). (Line copied from article above)
+- Coding with the intention to pass something like PEP 8 is like [not seeing the gorilla when you count basketball passes](https://www.youtube.com/watch?v=wf-BqAjZb8M&t=691). Formatting is not everything. [Just because a rule exists, it doesn't mean it makes sense to obey it.](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29): "Programmers who insist on (doing pretty much anything minor) risk not seeing the forest for the trees."
+- The fabulous Rubyist Sandi Metz has a famous talk called All The Little Things, where she posits that [“duplication is far cheaper than the wrong abstraction”, and thus to “prefer duplication over the wrong abstraction”](https://www.youtube.com/watch?v=8bZh5LMaSmE). (Line copied from article above)
 - "RE:" means regards, not reply.
 - Honeycrisp apples are good, but really not that much different from Royal Gala. Ambrosia is a sweeter, less acidic apple that at least tastes different from ordinary.
 - In perfect communism, the government owns all companies. In socialism, this is not necessarily the case.
@@ -190,7 +193,6 @@
 - Japan has a special term called [成田離婚](https://zh.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E9%9B%A2%E5%A9%9A), describing newlyweds who fly out of the country through 成田国际机场 for their honeymoons, but realise how crappy their spouses are _during_ the honeymoon, divorcing right after they return.
 - The background noise in VOIP calls is [deliberately added](https://en.m.wikipedia.org/wiki/Comfort_noise), nothing to do with the noise from traditional phone calls.
 - [ETOPS](https://www.youtube.com/watch?v=HSxSgbNQi-g) certification is a number of minutes under which an aircraft can continue flying (to a diversion/emergency airport) when one of the two engines (specifically for twin-engine aircraft) fails. Before ETOPS existed, planes must have three or four engines to cross the Atlantic, making many flight paths economically infeasible.
-- "Marine One" is [the callsign of the helicopter operator that is carrying the president](https://www.youtube.com/watch?v=YJRqB1xtIxg), not a particular aircraft.
 - It's always new moon during Chinese New year... It's not a coincidence... Dumbass...
 - [Good mayo is supposed to have a high calorie count](https://www.youtube.com/watch?v=gsNeLX0Pd7M).
 - When buying tea, [full leaf is obviously the best choice](https://www.youtube.com/watch?v=O_VsxGdECYI). Tiny chunks they collect afterwards are sold in tea bags, but it doesn't mean it's bad, it just means the flavour comes out quicker because the surface area is greater, and the flavour is not as nuanced.
@@ -358,7 +360,6 @@
 - A paperback romance novel in 1972 called [The Flame and the Flower](https://en.wikipedia.org/wiki/The_Flame_and_the_Flower) popularised the [historical] romance genre. It sold nine times as many copies as originally planned.
 - No household power cable is sold with two male ends, because once you plug in one end, you get shocked by the other end.
 - Houses have a flat ["nub"](https://www.youtube.com/watch?v=YX3G1r3ynfw) at the top, rather than a flat top or a sharp top, because of laziness, says video. Homes that are pretentious like that are called McMansions.
-- At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
 - [Summer/Winter solstices](https://en.wikipedia.org/wiki/Summer_solstice) are almost always on the 20th, 21st, 22nd, or 23rd of June or December, mostly depending on how "leap" the year is.
 - Bisque are soups made with crustaceans.
 - USA has laws governing [how many parking spots are required for a particular establishment](https://www.youtube.com/watch?v=Akm7ik-H_7U), pushing buildings farther apart, and making walk-friendly cities not really feasible.
@@ -415,7 +416,6 @@
 - [Dude](https://www.reddit.com/r/bald/comments/7g4sug/in_a_very_large_family_of_bald_men_with_horrible/) says it is taboo for young Indian men to shave their heads.
 - The 念慈菴 in [京都念慈菴川貝枇杷膏](https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa) means "in memory of [my] kind mother". The formula was made by a Qing dynasty physician, _Dr. Ip Tin-See_.
 - To be [struck out](https://www.urbandictionary.com/define.php?term=Struck%20out) means to attempt multiple times, and then fail.
-- Nair is not meant to be used on the head. Or the balls.
 - Paper was a valuable resource in Waterworld next to dirt, but a plothole exists where people smoke cigarettes throughout the movie, which are a combination of (essentially) dirt and rolled paper.
 - The [standard MTR train](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_%28DC%29) travels at 80km/h, whereas the [airport express train](https://en.wikipedia.org/wiki/MTR_Adtranz%E2%80%93CAF_EMU) travels at 135km/h.
 - The French for park 'n' ride is [parc-o-bus](http://rtcquebec.ca/Default.aspx?tabid=161).
@@ -721,7 +721,7 @@
 - The [Polsby-Popper Test](https://en.wikipedia.org/wiki/Polsby-Popper_Test) quantifies [how messed up gerrymandering is](https://reason.com/archives/2018/03/27/gerrymandering-is-out-of-control). First you draw the smallest circle that contains an area. Then you calculate the percentage coverage of the circle by that area. The more messed up gerrymandering is, the lower this coverage.
 - Where's Wally becomes [Where's Waldo](https://en.wikipedia.org/wiki/Where%27s_Wally%3F) in North America.
 - [Hacker news looks shockingly like the first Reddit layout.](https://web.archive.org/web/20051029165515/http://www.reddit.com)
-- [The earth wire in a UK plug is meant to have more slack than the live and neutral wires](https://www.youtube.com/watch?v=UEfP1OKKz_Q&feature=youtu.be), so that when you yank the plug out, the earth wire is more likely to be detacted last. The UK plug contains a fuse because, get this, their houses are built on [ring circuits](https://en.wikipedia.org/wiki/Ring_circuit), since [copper was expensive after WW2](https://news.ycombinator.com/item?id=1782791), and ring circuits are cheaper to wire up than one wire for every socket, which is what you'll find in normal houses today. In other words, the Brits have deferred electrical safety to the appliance rather than the house.
+- [The earth wire in a UK plug is meant to have more slack than the live and neutral wires](https://www.youtube.com/watch?v=UEfP1OKKz_Q), so that when you yank the plug out, the earth wire is more likely to be detacted last. The UK plug contains a fuse because, get this, their houses are built on [ring circuits](https://en.wikipedia.org/wiki/Ring_circuit), since [copper was expensive after WW2](https://news.ycombinator.com/item?id=1782791), and ring circuits are cheaper to wire up than one wire for every socket, which is what you'll find in normal houses today. In other words, the Brits have deferred electrical safety to the appliance rather than the house.
 - Suppose encryption can be ELI5'd as [mixing colours](https://youtu.be/YEBfamv-_do?t=2m18s). By raising a shared secret by the powers of each other's private keys (colours), no one's private key (colour) is plainly exposed while transmitted. This (when explained properly) is called [Diffie-Hellman Key Exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange), and has nothing to do with messages being transmitted.
 - [Tainted Love](https://en.wikipedia.org/wiki/Tainted_Love), a song from 1964, was made popular by Soft Cell's cover in 1981.
 - The [sound](https://www.youtube.com/watch?v=oM4CMtsdNjY) from 9/11 videos are from [PASS alarms](https://en.wikipedia.org/wiki/PASS_device) activated on [343 fallen firefighters](https://www.youtube.com/watch?v=I3nThzsNHZU).
@@ -747,7 +747,6 @@
 - [Baker's Dozen](https://en.wikipedia.org/wiki/Dozen#Baker's_dozen) originated from a law that heavily fined bakers who sell a dozen underweight rolls of bread. Adding one ensures the bakers aren't shorting their customers (at least in theory).
 - "ASIC-resistant" just means "needs lots of RAM".
 - "Merci" is/was the 85th most common word in French.
-- [Florida statute 10-20-life](https://en.wikipedia.org/wiki/10-20-Life): get 10 years in prison if you show a gun during a crime. 20 years if you fire one. Life sentence if you shoot someone.
 - [The earth spins like a top](https://en.wikipedia.org/wiki/Axial_precession) and its axis tilts back to its original position every 26000 years.
 - Putting [triple parentheses](https://en.wikipedia.org/wiki/Triple_parentheses) around a Jewish name is considered antisemitism. Sometimes Jews do that to their own names.
 - [a) Don't write tests for other people's libraries. b) Don't generalise something until you see it repeated the third time. c) APIs should be simple for common things, and possible for complex things. d) Unit tests test a unit of behaviour, not a unit of code. e) Parameter counts in a dependency-injected function highlights how crappy that piece of code is. f) Don't half-ass external APIs. Plan **a lot**. g) If your test doesn't fail when you add a bug, you're missing a test.](https://opensource.com/article/17/5/30-best-practices-software-development-and-testing)
@@ -1011,7 +1010,6 @@
 - [Creature comforts](https://en.wiktionary.org/wiki/creature_comfort) are comforts enjoyed by creatures, i.e. primal comfort. Examples include taking long baths, napping, and death (haha yes).
 - [802.11b channels 1 and 14](https://en.wikipedia.org/wiki/IEEE_802.11b-1999) (somewhat intuitively) overlap with the least number of other channels. For [802.11g](https://en.wikipedia.org/wiki/IEEE_802.11g-2003), only channels 1 and 14 are still the best choice. This could be why routers ever-so-unhelpfully select channel 1 for everyone, congesting the channel.
 - The full name for 河粉 is 沙河粉, which in turn came from 广州沙河.
-- Sonic the Hedgehog is a... hedgehog. Knuckles the Echidna is an... echidna. Unfortunately [they look more or less the same](http://www.wallpaperhi.com/thumbnails/detail/20120923/sonic%20the%20hedgehog%20video%20games%20knuckles%20the%20echidna%201280x1024%20wallpaper_www.wallpaperhi.com_91.jpg).
 - So many people pour bacon fat down the drain that cities are forced to spend millions clearing out gigagram "farbergs" from the sewers.
 - The perfect steak is [3.8cm thick](https://www.thespruce.com/the-secret-to-a-juicy-steak-995233).
 - The new shortcut for shutting down Windows 10 is Win+x, u, u.
@@ -1114,7 +1112,6 @@
 - Foam rings around the [beer] glass are a sign that the glass was cleaned properly.
 - To ["curve someone"](https://i.redd.it/xdu6i6ypy9sz.jpg) is to reject someone.
 - On Uber/Lyft decreasing public transit use: ["While ridesharing supports pooling, it also wastes "deadhead" passengerless miles between fares. As a result, ridesharing actually increases total vehicle miles traveled."](https://news.ycombinator.com/item?id=15478078)
-- /r/trees is about marijuana. /r/marijuanaenthusiasts is about trees.
 - The [Scotland Yard](https://en.wikipedia.org/wiki/Scotland_Yard) is (basically) the Scottish police HQ.
 - "If a team brings Jeff (the Amazon man) an idea that he disagrees with, he can continue to disagree, but immediately commit to supporting the team. The project gets green-lit and the team is moving forward. If they had to actually convince Jeff of the idea, it would have taken much much longer."
 - Weighted blankets are for autistic kids.
@@ -1292,7 +1289,6 @@
 - In medicine, an [indication](https://en.wikipedia.org/wiki/Indication_%28medicine%29) is a valid reason to use a certain test, medication, procedure, or surgery.
 - It is [(in 2016)](https://www.quora.com/Do-Coursera-courses-have-hard-deadlines) impossible to fail a Coursera course. You just get bumped to the next session and are asked to complete remaining material.
 - [3DS replaced NDS in 2011.](https://en.wikipedia.org/wiki/Nintendo_DS_family) [NDS cannot play 3DS games](https://www.nintendo.co.uk/Support/Nintendo-3DS-2DS/FAQ/Software/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL-/Can-I-play-Nintendo-3DS-games-on-my-Nintendo-DS-Nintendo-DSi-or-Nintendo-DSi-XL--242233.html). There is a [2DS](https://en.wikipedia.org/wiki/Nintendo_2DS), which is a non-3D version of the 3DS, but can play 3DS games.
-- The oldest joke still known was ["a young woman did not fart in her husband's lap"](http://www.wlv.ac.uk/about-us/news-and-events/latest-news/2008/august-2008/the-worlds-ten-oldest-jokes-revealed.php), some kind of Sumerian proverb slash fart joke.
 - Phoenix Wright [goes on](http://aceattorney.wikia.com/wiki/Ace_Attorney_Wiki) to become a professional poker player because perhaps he thought his game series was [full of plot holes](https://www.gamefaqs.com/boards/925589-phoenix-wright-ace-attorney/57102046).
 - [How to build a (gaming) PC](https://www.youtube.com/watch?v=3lrdDID3i7s). Remember, desktops have cables that connect the components.
 - The alphabet song is the same as twinkle twinkle little star.
@@ -1520,7 +1516,7 @@
 - [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)
 - [Gauntlet tracks](https://en.wikipedia.org/wiki/Gauntlet_track#Canada) are used when bigger trains need to go through the same place as smaller trains (like light rail), but there is no space for two parallel tracks, so they overlap the tracks and allow only one train in at a time.
 - [Hawaii has the highest homelessness rate in the states.](https://vid.me/6YZ5) The high cost of living makes it very easy to go bankrupt there, with nowhere to go.
-- When marijuana is legalised, the government is obligated to keep prices low, to undercut the black market. After the black market is gone, they can freely increase prices for taxation.
+- When marijuana is legalised, the government is obligated to keep prices low, to undercut the black market. After the black market is gone, they can freely increase prices for taxation. Except Ontario. Ontario exercises the worst legalisation scheme possible.
 - [In the early days of colonoscopies, attempts to burn off polyps in the colon ignited explosive hydrogen gas in the colon of several unlucky people, sometimes with tragic results. The colon-cleansing preparations people now take the night before a colonoscopy have solved the problem.](http://www.ctvnews.ca/mobile/flatulence-expert-defines-normal-output-rate-1.269197)
 - On one hand, raising interest rates make stocks drop because higher rates hurt companies' bottom line; on the other hand, if the rate hiked is less than the rate expected (e.g. +0.25% rather than +0.5%), then the market will still go up.
 - Tree removals are very expensive. So is dirt. "Dirt cheap" isn't a thing.
@@ -1690,7 +1686,6 @@
 - Led Zeppelin intentionally misspelled "Lead" as "Led", so it cannot be pronounced as Leed Zep Lin. The name reportedly came from "sink like a lead zeppelin", one of their reviews.
 - The reason why solar panel car parks is an awesome idea is two fold. First, cars park in the car park when the sun is up. So they cannot be charged. Second, cars leave the car park at night, when the sun is down, making solar panels useless.
 - Asphalt is one of the most recycled materials ever. Over 99% is recycled from roadways and turned back into roads elsewhere.
-- "Giblets" are the edible innards of the fowl (like chicken), such as heart, testicles, and liver. For some reason, the neck is also included.
 - "Get down to brass tacks" means "begin to talk about important things".
 - Digital Ocean [gives out diffs](https://github.com/digitalocean/tos/compare/278a0702186ab94db1a1bafb76f0359ed0112dcf...e215e37e98dbb719ac0eb6de520c6b8b9826f752#diff-7e38e8dcb6d4e31a36d8cb78795190daR205) for their terms of service. This is in contrast with [CloudAssCost](https://cloudatcost.com/), who hands out secret terms with an extra payment clause, and lures users into agreeing with it.
 - "The PrivateBank" trades on NASDAQ as PVTB.
@@ -1824,7 +1819,6 @@
 - Checking if `nonInteraction` is on for your google analytics: turn the [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en) on and off again (serious), and check if any event you track contains `nonInteraction = 0` (`&ni=0`)
 - **Welp** does _not_ stand for "help": [To be used in place of 'well', when one feels there is no more to say.](http://www.urbandictionary.com/define.php?term=Welp&defid=2839204)
 - Jeremy Clarkson's mom and pop [invented the Paddington Bear](http://en.wikipedia.org/wiki/Paddington_Bear#History)
-- Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
 - [Mortgage](http://en.wikipedia.org/wiki/Mortgage_loan) is French for "death pledge".
 - It is (however) legal to pay your mortgage [with your retirement savings plan](http://www.fcac-acfc.gc.ca/Eng/resources/publications/mortgages/Pages/BuyingYo-Acheterv-11.aspx), at least in Canada. It is called the Home Buyers' Plan.
 - `pigz` is gzip, but with parallel processing (and slightly better compression).
@@ -2004,7 +1998,6 @@
 - [Best general-purpose TCP congestion control algorithm](http://androidmodguide.blogspot.ca/p/tcp-algorithms.html): Cubic (stability) or Westwood (all other occasions)
 - Skyscanner reports that the lowest price for any transatlantic airline ticket dramatically increases if departing less than one week after; no deals otherwise.
 - When buying things from eBay (which is already a mistake), remember to make sure something is "genuine". Even fake items can be "brand new".
-- The "Nippon island effect" describes how the Japanese think they are special (which, in some ways, contributed to their war brutality). Many of them believe that [their intestines are longer than westerners'](https://medium.com/unpublishable-elsewhere/are-japanese-intestines-longer-8a41ca3e7d89) -- because they are studious farmers or something -- without any actual evidence for it.
 - The ["Women are wonderful" effect](https://en.wikipedia.org/wiki/%E2%80%9CWomen_are_wonderful%E2%80%9D_effect) is not made up. The "Women are wonderful" effect tends to be most pronounced with women who follow traditional gender roles such as child nurturing and stay at home housewife.
 - [Not supporting unicode in your app can cost lives](http://languagelog.ldc.upenn.edu/nll/?p=73)
 - The name "Pineapple" was first applied to pine cones in 1398. Pine Cones later took over as the common name, and the fruit became known as the Pineapple due to its similar appearance.
@@ -2214,7 +2207,7 @@
 - In VB (classic), `Empty` is `undefined`. `Nothing` is `null`. `Null` is apparently a database-compatible `NULL`.
 - To bet "dollars to doughnuts" used to mean something when a dollar could buy many donuts. Now it means nothing.
 - The inseam of a pair of pants goes from crotch to bottom, not crotch to top. It might also be the reported length of any pair.
-- [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ&feature=youtu.be) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
+- [Camera switching](https://youtube.com/watch?v=rNlmRId2FVQ) can be exploited to film scenes with body doubles when actors/actresses cannot be there at the same time. It is also extremely annoying.
 - [The Big Lebowski's throwing-underwear-suitcase-out-of-the-car scene was shot in reverse](<http://www.shortlist.com/entertainment/films/50-things-you-(probably)-didnt-know-about-the-big-lebowski#gallery-15>).
 - Despite being part of the bowling team, The Dude is never seen bowling during the movie.
 - Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the 2007--2008 world food price crisis.
@@ -2374,7 +2367,6 @@
 - [Drug catapults really exist in Mexico](http://www.atlasobscura.com/articles/drug-catapult-us-mexico-border).
 - [US courts of appeals](https://en.wikipedia.org/wiki/United_States_courts_of_appeals) are organised into 13 "circuits", which, as far as I can tell, just areas. First Circuit is the least populous (hence least influential), and Ninth Circuit is the most populous (hence most influential).
 - ["Straight" means cards in sequence](http://www.pokerstars.net/poker/). "Flush" means same suit. "Full house" is just a special case of "three of a kind", where the remaining two cards are the same rank.
-- Binary search [is](http://stackoverflow.com/questions/3581528/how-is-the-square-root-function-implemented) the most simple way to implement `sqrt` without a library function. Given `n`, start from `n/2`, and return when results converge.
 - Some parents prefer to be called "mum", while others prefer to be called "dad". [Children of non-binary parents](https://theyismypronoun.wordpress.com/2015/08/21/beyond-mummy-or-daddy-names-for-non-binary-parents/) should issue trigger warnings, lest they get sued by their own parents by calling them by their first names, which is rude, or 'parent', which is not their preferred terminology.
 - [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
 - [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)

@@ -1,5 +1,6 @@
 > "Life is an improvisation. You have no idea what's going to happen next and you are mostly making things up as you go along." - Stephen Colbert
 
+- "We did not come here to fear the future."
 - Wear gloves when you use oven cleaner sprays, which strips fats away from anything.
 - "**If you don't go after what you want, you'll never have it.** If you don't ask, the answer is always no. If you don't step forward, you're always in the same place." - Nora Roberts
 - "Working as hard as you can" doesn't mean not resting and burning out. It means putting maximum sustained load on yourself.

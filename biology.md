@@ -1,3 +1,5 @@
+- On average, cats live longer than dogs.
+- Rat poison works because they cannot vomit. Horses and giraffes also cannot vomit.
 - [27%](https://en.wikipedia.org/wiki/Hernia) of all males will have their intestines shoved down their balls some time in his life. Unless it causes issues, this does not need to be repaired. To prevent it anyway, stay healthy, avoid appendectomy, don't lift so much, and, most importantly, don't be over 50.
 - You don't let an injured person eat or drink anything if surgery and/or anesthesia is expected: ["nobody dies from missing a meal or a drink. People do die from aspirating (after surgery).”](https://www.reddit.com/r/explainlikeimfive/comments/cjcpfi/eli5_why_is_it_advised_to_not_give_water_to/)
 - [Swimming with a light scrape is probably okay](https://www.youtube.com/watch?v=ugRc5jx80yg). Sharks can't smell a drop of blood every 4 seconds.
@@ -970,3 +972,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - It's possible for an egg to crack inside the hen (before it's laid). This can lead to infection and such.
 - [The fact that smoke calms bees has been known since ancient times](https://en.wikipedia.org/wiki/Bee_smoker); however, the scientific explanation was unknown until the 20th century and is still not fully understood.
 - People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
+- Nair is not meant to be used on the head. Or the balls.

@@ -53,3 +53,5 @@
 - Cod also has a great fibrous texture. It shrinks a lot when cooking though (usually only a sign for overcooking, but not this fish), so it is very expensive by dry weight.
 - According to Alex, "schnitzel" is usually made with beef.
 - Butter is 80% butterfat, 15% water, and 5% protein. Clarified butter is that without the water and protein.
+- "Giblets" are the edible innards of the fowl (like chicken), such as heart, testicles, and liver. For some reason, the neck is also included.
+- Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)

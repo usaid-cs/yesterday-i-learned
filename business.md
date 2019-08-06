@@ -83,7 +83,7 @@ Further reading: [0001.md](sources/0001.md)
 
 - Consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
 - Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic.
-- _Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns._
+- Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.
 - [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
 - [Relative Strength Index, RSI](http://www.investopedia.com/terms/r/rsi.asp) should be under 50. 100 means the stock is extremely overbought. 0 means the stock is extremely [oversold](http://www.investopedia.com/terms/o/oversold.asp). See [stockcharts.com](http://stockcharts.com/freecharts/) for visuals. Be careful with the index, as modifying its calculation period can switch the results completely. "Oversold" may also just mean the stock is doing very poorly, instead of a bargain indicator.
 - [Stochastic Oscillator](http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:stochastic_oscillator_fast_slow_and_full) is like RSI, except it comes in three versions: %K (fast), %D (3-day moving average), and full (X-day moving average).
@@ -93,6 +93,7 @@ Further reading: [0001.md](sources/0001.md)
 - In August. "October is known for bringing the highest shifts in volatility for a couple of reasons: third-quarter earnings season kicks off early October, and trading volume is significantly higher after the calm summer months." [Coca-cola](https://finance.yahoo.com/quote/KO/) is almost cyclical in that you would have never lost money if you buy in August and sell in January.
 - A "buy" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a buy when a stock dips below a certain price.
 - Inflation favours banks (somehow). So, buy bank stocks when [the idiot](https://forwardprogressives.com/wp-content/uploads/2017/07/trump-idiot-1.jpg) does anything that encourages inflation.
+- You can buy before or after the [ex-dividend date](https://www.investopedia.com/terms/e/ex-dividend.asp) (after which the shares will drop in price, because they won't be paid dividends). You just need to know that. If you buy before the date, you should pay no more than the value of the stock % dividend percentage.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
@@ -153,5 +154,4 @@ Further reading: [0001.md](sources/0001.md)
 - [Underwriters](http://www.investopedia.com/terms/u/underwriter.asp): they determine the offering price of a stock (whether initial aka IPO or when the company is bought out), and then get some underwriting fee for doing it. That price determined affect how the rest of the market prices the remaining stock. Say if you trade at $8 but the [bought deal](http://www.investopedia.com/terms/b/boughtdeal.asp) offers each share at $7, then the market might adjust to \$7.
 - p.s. "bought deal" means someone buys all available shares.
 - [Slippage](http://www.investopedia.com/terms/s/slippage.asp) refers to the difference between the expected price of a trade and the price at which the trade is actually executed. However, [beta slippage](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) is something else; it refers to the difference between "going down 10% and then back up by 10%", which, unfortunately, does not add up to 1.
-
-1. ["consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
+- ["Consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)

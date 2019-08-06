@@ -1,3 +1,5 @@
+“It is only the dose which makes a thing poison.” - Paracelsus
+
 - The [Hill system/notation](https://en.wikipedia.org/wiki/Chemical_formula#Hill_system) conventionally controls how molecules are named: first carbons, if any; then hydrogens, if any; then every other element alphabetically. This is a convention, not a law: [ammonia (NH3) is an exception](https://www.quora.com/Why-is-water-written-as-H2O-and-not-OH2), as is HCN, NaCl, and anything ionic.
 - [Paraquat](https://en.wikipedia.org/wiki/Paraquat), not related to [kumquat](https://en.wikipedia.org/wiki/Kumquat), is extremely toxic. As "N,N′-dimethyl-4,4′-bipyridinium dichloride", this oxidising agent interferes with [electron transfer](https://en.wikipedia.org/wiki/Electron_transfer), which is common to all life.
 - Aspirin (acetylsalicylic acid) [does not remove stains from clothes](https://www.mcgill.ca/oss/article/can-aspirin-help-remove-stains-and-keep-your-whites-white). Use bleach. Don't waste your money.
