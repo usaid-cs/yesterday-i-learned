@@ -1,3 +1,4 @@
+- If your house is infested by bedbugs, it may be worthwhile to surround your new bed with boric acid for a month or two (which is cheap to try) before you look for an exterminator.
 - The [gold standard](https://en.wikipedia.org/wiki/Gold_standard) is where the value of a currency is based on a fixed amount of gold. It is not recommended, because [during times of recessions and depressions, people will tend to hold onto gold instead of currency. Since they're not spending it into the economy, it somewhat prolongs recessions/depressions](https://www.reddit.com/r/explainlikeimfive/comments/cmbgis/eli5_what_does_it_mean_when_a_country_like_china/ew1ol1x/).
 - To sharpen a knife, you will need wetstones of: 800 and 3000 grits. You can also get 6000/8000 grits for a better edge, and leather for polishing.
 - In 7 Wonders the board game, you will never require, for any card or wonder, more than one high-level resource (silk, glass, paper) of each type, other than the one that is possibly given to you at the start of the civilisation.
@@ -2042,7 +2043,7 @@
 - There is a word for [soaking rice in a thing that has taste](https://google.com/?q=rice+pilaf): _pilaf_.
 - [YUI](https://github.com/yui/yui3/wiki/Graded-Browser-Support) started the whole browser grading thing.
 - > [Don't be the only person using Tor on a monitored network at a given time](https://youtube.com/watch?v=eQ2OZKitRwc)
-- TDD prohibits writing more code than the [bare minimum](http://www.fatvat.co.uk/2015/10/mindless-tdd.html?m=1) required for the failing unit tests to pass.
+- TDD prohibits writing more code than the [bare minimum](http://www.fatvat.co.uk/2015/10/mindless-tdd.html?m=1) required for the failing unit tests to pass. With that said, it doesn't mean you need to stop working when all the tests pass; you can continue cleaning up.
 - [Original Nylon stockings did not run.](https://www.reddit.com/r/askscience/comments/3q6vjf/if_nylon_stockings_rip_all_the_time_why_dont_we/) Planned obsolescence made newer generations progressively worse.
 - [All clementines are mandarins](http://blog.fooducate.com/2013/12/04/whats-the-difference-between-tangerines-clementines-and-mandarins/). Always buy clementines because they are seedless, and easy to peel.
 - A "crop" is also where birds store their eaten food after having swallowed it, but before digesting it.

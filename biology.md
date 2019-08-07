@@ -1,3 +1,4 @@
+- [This here](https://www.caffeineinformer.com/caffeine-tolerance) says coffee tolerance builds up after 1-4 days of drinking coffee. So if you drink coffee once every 4 days, you never get addicted to coffee.
 - Unless otherwise decaffinated, [green tea still contains caffeine.](https://www.thespruceeats.com/how-much-caffeine-in-green-tea-765281)
 - On average, cats live longer than dogs.
 - Rat poison works because they cannot vomit. Horses and giraffes also cannot vomit.

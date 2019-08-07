@@ -26,7 +26,7 @@ def get_link(lines, ref):
 
 def main():
     lines = get_lines()
-    with open('linux2.md', 'w') as f:
+    with open('python.md', 'w') as f:
         for line in lines:
             if line.startswith('[') and ']:' in line:
                 continue

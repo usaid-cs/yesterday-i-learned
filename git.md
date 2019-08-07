@@ -319,6 +319,32 @@ Use [the commit hour script](https://gist.github.com/bessarabov/674ea13c77fc8128
 git log --author="Anonymous Coward" --format="%ad" --date="format:%H"|awk '{n=$1+0;if(H[n]++>max)max=H[n]}END{for(i=0;i<24;i++){printf"%02d -%5d ",i,H[i];for(n=0;n<H[i]/max*50;n++){printf "*"}print""}}'
 ```
 
+### [I have a branch (B) that is branched off another (A) that is branched off master, but I want my branch B to branch off master now](https://git-scm.com/docs/git-rebase)
+
+If you have this situation:
+
+                            H---I---J   B
+                           /
+                  E---F---G    A
+                 /
+    A---B---C---D  master
+
+and you want this outcome:
+
+                 H'--I'--J'    B
+                /
+                | E---F---G    A
+                |/
+    A---B---C---D  master
+
+you would run:
+
+    git rebase A B --onto master
+
+which is, in general:
+
+    git rebase old-parent branch --onto new-parent
+
 ## booboos
 
 ### I accidentally deleted a file, and thought I could just check it back out
