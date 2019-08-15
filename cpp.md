@@ -72,3 +72,4 @@ struct B : A { };  // Has all A's fields
 - Unless you do systems programming, [there is almost no reason to pick C over C++](https://softwareengineering.stackexchange.com/a/113316/116811). Simply [not using the C++ features you don't use](https://softwareengineering.stackexchange.com/a/113398/116811) is also an option.
 - You can't `cout` a string unless you [`#include <string>`](https://stackoverflow.com/a/6321005/1558430).
 - Pointers and references are complicated. As such, C++11 provides an additional way to declare yet another kind of reference, called [rvalue referneces](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2004/n1690.html), using the double-ampersand syntax: `A&&`.
+- Header files exist so [you don't need to recompile a class if the definition didn't change](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf) (PDF).

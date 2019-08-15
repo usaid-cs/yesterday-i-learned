@@ -1,3 +1,6 @@
+- *Ausgezeichnet* (OWS-guh-z-EYE-k-net) means excellent.
+- "Making a killing" is deliberately the opposite of "making a living".
+- [_Carpe diem_](https://daily.jstor.org/how-carpe-diem-got-lost-in-translation/) might have meant "reap the enjoyment of the day"; its definition in the context of [the poem](https://en.wikipedia.org/wiki/Carpe_diem) (by Greek poet Horace) is still contentious.
 - [春袋](https://evchk.wikia.org/zh/wiki/%E6%98%A5%E8%A2%8B) is not a common term. In [a 2014 court case](https://hk.news.appledaily.com/local/daily/article/20140326/18668847), the judge thought 春袋 referred to the bladder.
 - A [wild card](https://en.wiktionary.org/wiki/wild_card#English) can also be a person who is allowed to compete in a tournament despite not being qualified for inclusion.
 - [Most](https://en.wiktionary.org/wiki/most#Etymology_1) means "the comparatively largest number" if used as "_the_ most", or "more than half of" if not.

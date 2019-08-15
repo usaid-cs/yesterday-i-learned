@@ -1,3 +1,10 @@
+- ["Shocking the muscle"](https://www.youtube.com/watch?v=o9zCgPtsups): do sets of lifts with progressively lower weights.
+- [Do not drink cactus juice in an emergency](https://www.youtube.com/watch?v=Gs26bZTRkdU). Cacti contain malic acid, oxalic acid, and other photosynthetic chemicals that are harmful to you.
+- Hot water denatures mosquito bite proteins.
+- Drinking alcohol does make you more of a target for mosquitoes, but [scientists have various theories that haven't been backed up](https://www.youtube.com/watch?v=j6MrN9o0BfA).
+- If your face is underwater, [your heart rate drops by 10 to 25%](https://www.youtube.com/watch?v=tVqw5HnJg-g) (in the form of "bradycardia", slow heart rate) to conserve oxygen.
+- Different formulations of diatomaceous earth exist, for food, for pest control, stuff like that. Do not dump DE all over the floor; it is still a pesticide and can be toxic in large quantities.
+- It is normal for kids to sleep half a day, everyday.
 - [This here](https://www.caffeineinformer.com/caffeine-tolerance) says coffee tolerance builds up after 1-4 days of drinking coffee. So if you drink coffee once every 4 days, you never get addicted to coffee.
 - Unless otherwise decaffinated, [green tea still contains caffeine.](https://www.thespruceeats.com/how-much-caffeine-in-green-tea-765281)
 - On average, cats live longer than dogs.

@@ -285,6 +285,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - Remove lines in a file with `sed -i '/foo/d' file` (`-i` being inline; you don't need to use it').
 - `ssh -f ...` is like `ssh ... &` (a fork), except it goes to the background only after it connects, allowing you to enter passwords and other things if you need to.
 - One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
+- Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 ))  # 20`
 
 ## Tmux
 

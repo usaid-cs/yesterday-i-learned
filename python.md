@@ -270,6 +270,7 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 - Splicing indices don't have to be integers... at least not now. `[1,2,3][:None]` returns a copy of `[1,2,3]`, just as `[1,2,3][:]` would.
 - Python's `foo = set()` has an `update(bar)`, too. It just adds what's in `bar` into `foo`.
 - Comparing any integer outside [-5, 256] with `is` is [incorrect](http://stackoverflow.com/a/306353/1558430): "The current implementation keeps an array of integer objects for all integers between -5 and 256, when you create an int in that range you actually just get back a reference to the existing object."
+- However, `500 is 500` is always true. `a = 500; b = 500; a is b` is usually false.
 - Returning inside a `try` _or_ an `except` block will still run the `finally` block, if one exists.
 
 ```
@@ -404,7 +405,7 @@ bar
 - [Celery beat is a process that just puts tasks into queues in regular intervals](http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html). You still need a separate worker to listen to that queue.
 - Alembic [`stamp`](http://alembic.zzzcomputing.com/en/latest/api/commands.html#alembic.command.stamp) is the SQLAlchemy equivalent of faking a migration. Example: `stamp fc34a1fc6e7d`. You might need to get dirty anyway, as there is no unstamping.
 - [`.get(something)` is just `.filter(primary key == something).first()`](https://stackoverflow.com/questions/34299704/when-to-use-sqlalchemy-get-vs-filterfoo-id-primary-key-id-first).
-- On celery workers: "pre-fork for CPU instensive, eventlet/gevent for IO bound work ya prefork would block the workers while making long HTTP requests, preventing other work from being done. Async lets IO things happen more concurrently" - a guy who types "ya" instead of "yeah"
+- [On celery workers](https://www.distributedpython.com/2018/10/26/celery-execution-pool/): "pre-fork for CPU instensive, eventlet/gevent for IO bound work ya prefork would block the workers while making long HTTP requests, preventing other work from being done. Async lets IO things happen more concurrently" - a guy who types "ya" instead of "yeah"
 - Alembic is worse than Django migrations in [various ways](http://alembic.zzzcomputing.com/en/latest/autogenerate.html#what-does-autogenerate-detect-and-what-does-it-not-detect). First, it does not auto detect table OR column renames. Second, it does not detect changes in contraints. Third, I'll make something up later.
 - [`mailbox`](https://docs.python.org/2/library/mailbox.html) is a standard library. It manipulates mailbox files (like `.mbox`).
 - Comparing with `None` using `<` or `>` in python3 raises a `TypeError`. `None` was previously just "less than everything".
@@ -525,3 +526,11 @@ bar
 - `"abcd".split()` will only split it to `["abcd"]`, which is useless. `"abcd".split('')` will complain about "empty separator" instead, which is also useless. To get `['a', 'b', 'c', 'd']`, do `list("abcd")`.
 - [IronPython (python on Mono) doesn't have an global interpreter lock (GIL)](https://rohanvarma.me/GIL/).
 - `pip install --user` is executable only if you include `~/.local/bin` in your path.
+- Python's `float` is actually [usually C's `double`](https://docs.python.org/2/library/stdtypes.html#numeric-types-int-float-long-complex).
+- [Perhaps the main flaw of Python's async implementation is the fact that you can accidentally call synchronous functions from asynchronous contexts - and they'll happily work fine and block the entire event loop until they're finished.](https://www.aeracode.org/2018/06/04/django-async-roadmap/)
+- Variable scoping is full of shit. [Nested functions can access variables outside it, but not if it is redefined *anywhere in the function, including behind the line of access*](https://stackoverflow.com/a/13277359).
+- XML parsing can lead to files automatically fetched from the internet. [etree, DOM, and xmlrpc are all wide open to these types of attacks](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03). The official response is [yes that's right](https://docs.python.org/3/library/xml.html#xml-vulnerabilities).
+- Celery's `.delay()` is just `.apply_async()` with fewer options. [Always prefer `.apply_async`.](https://pawelzny.com/python/celery/2017/08/14/celery-4-tasks-best-practices/)
+- If you have a celery task that depends on input from another task, [chain them up](https://pawelzny.com/python/celery/2017/08/14/celery-4-tasks-best-practices/). That way you wait for one task instead of two.
+- If you define a celery config's `task_queues`, you also need to define its `task_routes` (which tasks go to which queue). Use `'*'` to say all tasks go to one queue.
+- Unless you have an old project that goes by some convention, [gevent is typically better than eventlet](https://blog.gevent.org/2010/02/27/why-gevent/) for reliability and ease of use.

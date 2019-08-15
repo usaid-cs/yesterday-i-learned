@@ -1,3 +1,4 @@
+- [Ken Watanabe](https://en.wikipedia.org/wiki/Ken_Watanabe) didn't need anyone to dub for him in Detective Pikachu.
 - [Chuck Norris](https://en.wikipedia.org/wiki/Chuck_Norris) is (currently) 79, and, at 2015, still had a lot of hair.
 - Guido van Rossum has a brother, Just van Rossum. (His first name is just Just.)
 - On Bill Murray's 20th birthday, he was arrested. For smuggling 10lbs of marijuana in a luggage. Which he intended to sell. Because he was joking about the luggage being a bomb. While on a plane. **He got off with a probation.**

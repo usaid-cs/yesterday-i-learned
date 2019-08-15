@@ -1,4 +1,4 @@
-> "Life is an improvisation. You have no idea what's going to happen next and you are mostly making things up as you go along." - Stephen Colbert
+> "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
 - Do not trash your relatives in front of your kids. [They remember.](https://www.reddit.com/r/science/comments/cm9knd/warning_to_adults_children_notice_everything/) [Everything.](https://news.osu.edu/warning-to-adults-children-notice-everything/)
 - "We did not come here to fear the future."
