@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Remain calm in stressful situations. Goldie Hawn said: "The ability to remain calm and focused in stressful situations is central to making positive decisions."
+- Don't argue with someone who entered the argument with the mindset that their opinion is obviously right, or that your opinion is stupid. Anyone like that will not be listening to you. They are not worth your time.
 - Do not trash your relatives in front of your kids. [They remember.](https://www.reddit.com/r/science/comments/cm9knd/warning_to_adults_children_notice_everything/) [Everything.](https://news.osu.edu/warning-to-adults-children-notice-everything/)
 - "We did not come here to fear the future."
 - Wear gloves when you use oven cleaner sprays, which strips fats away from anything.
@@ -152,3 +154,6 @@
 - Fingerprint scanners work when you are asleep. Face unlock doesn't. If you have a jealous spouse, don't trust the finger.
 - [Go to Glassdoor and answer every basic question.](https://www.glassdoor.ca/Interview/programming-interview-questions-SRCH_KT0,11.htm?countryRedirect=true)
 - If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.
+- ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is not the same as "Always learn from your mistakes." The latter still implies you can fail again.
+- To train vocals, sing through your closed lips for a few minutes.
+- You are much more likely to have a good career if you are universally, consistently nice to your colleagues.

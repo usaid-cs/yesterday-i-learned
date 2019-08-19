@@ -138,6 +138,15 @@ The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_desig
 
 ## stacks
 
+Stacks can be used to implement [depth-first search](https://www.youtube.com/watch?v=iaBEKo5sM7w).
+
+1. Given a tree/graph and its root, push it onto the stack.
+2. Grab any of its children at random. Push it onto the stack. _Mark the node as visited._
+3. If there are unvisited nodes, continue 2.
+4. If there are no unvisited nodes, pop the node out of the stack.
+
+The stack being empty signals the end of the algorithm run.
+
 ## queues
 
 ## Priority Queues

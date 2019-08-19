@@ -158,18 +158,18 @@ class Foo {
 }
 ```
 
-Unlike ES6, [it is valid syntax to set an instance's property directly inside the class](https://stackoverflow.com/a/35212197/1558430), outside of any method. The compiler appears to convert it to a constructor, with the `constructor` _at the end_ of everything else.
+Unlike ES6 (before node v12's version of ES6 anyway), [it is valid syntax to set an instance's property directly inside the class](https://stackoverflow.com/a/35212197/1558430), outside of any method. The compiler appears to convert it to a constructor, with the `constructor` _at the end_ of everything else.
 
 ```
 // TypeScript
 class Foo {
     bar = 1;
 
-	constructor() {
-     	this.bar = 2;
+    constructor() {
+        this.bar = 2;
     }
 
-	bar = 3;
+    bar = 3;
 }
 
 // Transpiled code

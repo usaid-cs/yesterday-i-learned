@@ -208,6 +208,7 @@ Just replace `re.RegexFlag(...)` with the number inside (in this case, `2`).
 - Django class-based views have a `as_view()` method that turns the class into a function (more or less). It is decorated by an in-house [`@classonlymethod` decorator](https://stackoverflow.com/questions/8133312/what-is-the-difference-between-django-classonlymethod-and-python-classmethod), which makes `as_view` callable only in a class, but not in any of its instances. As for what `as_view()` does to convert the class into a function: [it's just a dispatcher](https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html) that diverts the request to the class's `get`, `post`, and whatever else methods, depending on the request's type.
 - You always avoid translating variables (i.e. `_(variable)`) because [`makemessages` won't detect them](https://docs.djangoproject.com/en/2.2/topics/i18n/translation/#standard-translation).
 - [`MIDDLEWARE_CLASSES` got deprecated in 1.10; it is `MIDDLEWARE` now](https://docs.djangoproject.com/en/1.11/ref/settings/#std:setting-MIDDLEWARE). The major difference is: `MIDDLEWARE_CLASSES` short-circuits to a 500 if a middleware throws an exception, while for `MIDDLEWARE`, all subsequent middlewares see a 500 response.
+- You `makemessages` only when you have a `locale` folder. If you don't have a locale folder, Django gives you junk, half-translated files everywhere.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

@@ -176,3 +176,4 @@
 - Bob Ross [painted rocks like nothing](https://www.reddit.com/r/interestingasfuck/comments/682pif/bob_ross_effortlessly_painting_rocks/).
 - Sonic the Hedgehog is a... hedgehog. Knuckles the Echidna is an... echidna. Unfortunately [they look more or less the same](http://www.wallpaperhi.com/thumbnails/detail/20120923/sonic%20the%20hedgehog%20video%20games%20knuckles%20the%20echidna%201280x1024%20wallpaper_www.wallpaperhi.com_91.jpg).
 - /r/trees is about marijuana. /r/marijuanaenthusiasts is about trees.
+- Japanese girls have not been [licking doorknobs](http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.

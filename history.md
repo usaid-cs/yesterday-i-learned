@@ -1,4 +1,6 @@
-- The Yuan dynasty was ruled by Mongolians.
+- To represent history in a 24fps film at 1 day per frame, you can represent around 355 years of history in a single sitting (129600 frames for a 90-minute film). To showcase the 5000 most relevant years of history, you will need a 21-hour film instead.
+- SCMP founded in 1903.
+- The Yuan dynasty was ruled by Mongolians. Also fun fact: the [first ever ruler of the Republic of China](https://en.wikipedia.org/wiki/Mongolia#Modern_history) lost Outer Mongolia to, well, Mongolians.
 - DDT was banned in the US in the 1970s. It was an effective pesticide that once wiped out almost all bedbugs through paralysis, but caused many, many other issues for men and pregnant women, and also [raised bedbugs' DDT resistance by 10000x](https://www.youtube.com/watch?v=uFK0t9DHu1Q).
 - Johann Strauss III is Eduard Strauss'es son rather than Johann Strauss II's, and Richard Strauss, whose name is purely Coincidental, is German rather than Austrian.
 - The musket overtook archery as the fighting force not because archery sucks in particular, but because [musketeers are very cheap to train relative to a decent archer](https://www.reddit.com/r/videos/comments/clzyiy/paper_planes_but_every_time_theres_a_gun_shot_its/evzlbk7/), and even old men can fire one and be a soldier.
@@ -215,3 +217,6 @@
 - [Mussolini was killed (by Italians, actually)](https://en.wikipedia.org/wiki/Death_of_Benito_Mussolini#Execution) two days before Hitler committed suicide. [Here are photos of his corpse](https://www.reddit.com/r/MorbidReality/comments/ckcfk4/postmortem_photos_of_mussolini_found_in_my/). [Here is his story](https://allthatsinteresting.com/benito-mussolini-death).
 - The "Nippon island effect" describes how the Japanese think they are special (which, in some ways, contributed to their war brutality). Many of them believe that [their intestines are longer than westerners'](https://medium.com/unpublishable-elsewhere/are-japanese-intestines-longer-8a41ca3e7d89) -- because they are studious farmers or something -- without any actual evidence for it.
 - The oldest joke still known was ["a young woman did not fart in her husband's lap"](http://www.wlv.ac.uk/about-us/news-and-events/latest-news/2008/august-2008/the-worlds-ten-oldest-jokes-revealed.php), some kind of Sumerian proverb slash fart joke.
+- "Je reviens en trois jours, ne te laves pas." - Napoleon.
+- Rommel was apparently a [micromanager](http://www.reddit.com/r/todayilearned/comments/25hqf5/til_in_ww2_german_field_marshal_erwin_rommel/chhg305), loved by soldiers but hated by his subordinates.
+- The 念慈菴 in [京都念慈菴川貝枇杷膏](https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa) means "in memory of [my] kind mother". The formula was made by a Qing dynasty physician, _Dr. Ip Tin-See_.

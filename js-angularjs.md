@@ -91,3 +91,4 @@ $injector.get('$controller')('ControllerName', {
 - In an [AngularJS](http://angularjs.org/) controller definition, the variable name for the scope must be `$scope`.
 - Angular has a [`copy` that does deep copy](https://docs.angularjs.org/api/ng/function/angular.copy). But would you trust it?
 - You can't `angular.copy` an HTML5 `Geoposition` object. It will lose all coordinate information.
+- Any `ng-model` with `ng-model-options="{ debounce: 1000 }"` will only update after a second. Use `theModel.$rollbackViewValue()` to clear the value immediately.

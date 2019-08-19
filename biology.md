@@ -1,3 +1,10 @@
+- A dog's age equivalent calculation is not linear, so you don't multiply its age by 7 or 9. Instead, [it's a table of values](https://www.lifehacker.com.au/2019/08/today-i-discovered-that-a-human-year-isnt-actually-seven-dog-years/) depending on your dog's size, and, notably, how a dog reaches sexual maturity after the first year, making the first year 15 human years, but each year after age two is about four to five human years.
+- The largest butterfly is [Queen Alexandra's birdwing](https://en.wikipedia.org/wiki/Queen_Alexandra%27s_birdwing), at a 23cm wingspan for females. It rests its wings flat, like a moth.
+- All puffins are found in the Atlantic ocean.
+- A 2L-bottle of coke only has 780 empty calories.
+- The ["you gotta shack the mussel"](https://www.youtube.com/watch?v=o9zCgPtsups) (shock the muscle) training regimen that Arnold Schwarzenegger does is called the [drop set](https://www.bodybuilding.com/fun/phano81.htm), or "lift until you can't lift no more".
+- Fruits and vegetables like peaches and carrots looked [barely edible](https://www.businessinsider.com/what-foods-looked-like-before-genetic-modification-2016-1/?r=AU&IR=T) prior to cultivation. Corn, in particular, was simply inedible (unless you are really determined and want to swallow what's effectively a straw).
+- Men don't look anxious. They show anxiety in the form of [anger, muscle aches, and alcohol use](https://www.wsj.com/articles/anxiety-looks-different-in-men-11564494352).
 - ["Shocking the muscle"](https://www.youtube.com/watch?v=o9zCgPtsups): do sets of lifts with progressively lower weights.
 - [Do not drink cactus juice in an emergency](https://www.youtube.com/watch?v=Gs26bZTRkdU). Cacti contain malic acid, oxalic acid, and other photosynthetic chemicals that are harmful to you.
 - Hot water denatures mosquito bite proteins.
@@ -473,7 +480,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - The [bony-eared assfish](https://en.wikipedia.org/wiki/Acanthonus_armatus) holds the record for the smallest brain-to-body weight ratio of all vertebrates (shrews being the highest).
 - Iron is a trace element in the sea, limiting phytoplankton growth. [Iron can be intentionally added to the sea](https://en.wikipedia.org/wiki/Iron_fertilization) to promote phytoplankton growth, which has great effects on reducing CO2 levels.
 - [AB+ can donate plasma to the most number of other blood types.](https://www.reddit.com/r/coolguides/comments/7s8qxw/turns_out_ab_isnt_always_all_that_selfish/)
-- [Dolphins use pufferfish toxin to get high](https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/), passing the fish around like a bong.
+- ~[Dolphins use pufferfish toxin to get high](https://www.smithsonianmag.com/smart-news/dolphins-seem-to-use-toxic-pufferfish-to-get-high-180948219/), passing the fish around like a bong.~ [Dolphins do NOT get high with tetrodotoxin](http://blogs.discovermagazine.com/science-sushi/2013/12/30/stoned-dolphins-give-puff-puff-pass-whole-new-meaning/): "Tetrodotoxin is a potent neurotoxin that shuts down sodium channels, silencing neural activity. ... It's a poison, not a party drug. There is nothing fun about it."
 - Anyone who loses 3 litres of blood in front of you will probably die. [1](http://www.medicaldaily.com/breaking-point-how-much-blood-can-human-body-lose-350792) [2](https://wonderopolis.org/wonder/how-much-blood-is-in-your-body)
 - Half of the cases of [deep vein thrombosis](https://en.wikipedia.org/wiki/Deep_vein_thrombosis) have no symptoms. A/the clot then travels up to the lungs and make it [pulmonary embolism](https://en.wikipedia.org/wiki/Pulmonary_embolism).
 - Gaten Matarazzo has [cleidocranial dysostosis](https://en.wikipedia.org/wiki/Cleidocranial_dysostosis), so he has no teeth, and an atypical facial expression. Finding people who look like him is not grounds for posting on /r/strangerthings.
@@ -982,3 +989,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [The fact that smoke calms bees has been known since ancient times](https://en.wikipedia.org/wiki/Bee_smoker); however, the scientific explanation was unknown until the 20th century and is still not fully understood.
 - People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
 - Nair is not meant to be used on the head. Or the balls.
+- [Bananas are berries.](https://en.wikipedia.org/wiki/Banana)

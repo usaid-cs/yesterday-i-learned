@@ -55,3 +55,7 @@
 - Butter is 80% butterfat, 15% water, and 5% protein. Clarified butter is that without the water and protein.
 - "Giblets" are the edible innards of the fowl (like chicken), such as heart, testicles, and liver. For some reason, the neck is also included.
 - Common beef cuts are ranked in this order: **rib eye** (fatty) > **striploin** (beefy, chewy) > **tenderloin** (dry, tender) > **T-bone** (essentially striploin + tenderloin)
+- Apply garlic to oil, before you apply vegetables to oil.
+- Sole has no texture, but at least it tastes okay (see "pollock")
+- Pasta dough from Northern Italy tends to have more egg.
+- [Tenderise steak with fresh pineapple juice](https://www.youtube.com/watch?v=dfjIIK6qt-g).

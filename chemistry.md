@@ -1,9 +1,11 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- It is often commerically profitable to recover silver from [sewage sludge](https://en.wikipedia.org/wiki/Sewage_sludge#Heavy_metals) (20mg/kg or more).
+- Assuming the specific heat capacity of water is 4.18 kJ/kgK ish, a 500mL cup of hot water (say at 60 degrees) releases about 50 Calories when reduced to 37°C. This is not a way to gain weight though, as hot water raises metabolic rate... which actually means you burn more fat.
 - The [Hill system/notation](https://en.wikipedia.org/wiki/Chemical_formula#Hill_system) conventionally controls how molecules are named: first carbons, if any; then hydrogens, if any; then every other element alphabetically. This is a convention, not a law: [ammonia (NH3) is an exception](https://www.quora.com/Why-is-water-written-as-H2O-and-not-OH2), as is HCN, NaCl, and anything ionic.
 - [Paraquat](https://en.wikipedia.org/wiki/Paraquat), not related to [kumquat](https://en.wikipedia.org/wiki/Kumquat), is extremely toxic. As "N,N′-dimethyl-4,4′-bipyridinium dichloride", this oxidising agent interferes with [electron transfer](https://en.wikipedia.org/wiki/Electron_transfer), which is common to all life.
 - Aspirin (acetylsalicylic acid) [does not remove stains from clothes](https://www.mcgill.ca/oss/article/can-aspirin-help-remove-stains-and-keep-your-whites-white). Use bleach. Don't waste your money.
-- Gold comes straight from the sun, so it is older than the Earth.
+- [Some](https://en.wikipedia.org/wiki/Gold#Origins) gold comes straight from the sun, so it is older than the Earth. The Earth's mantle may also contain gold.
 - Contrary to [popular belief], [shade balls in reservoirs do not reduce evaporation](https://www.youtube.com/watch?v=uxPdPpi5W4o). These _black_ balls (first hint that it isn't for _reducing_ evaporation) block light from turning aqueous "bromide" (Br-) and "chlorine" (Cl2) into "bromate" (BrO3-), which is carcinogenic. (No... the equations don't balance.) The black balls do absorb more energy than just water, but the balls contain air, which is a heat insulator. Even though these balls are black, they reduce reservoir evaporation by 80%.
 - Brass knobs that are shiny are lacquered, making them useless at [disinfection](https://en.wikipedia.org/wiki/Oligodynamic_effect).
 - Too much CO2 in the air makes it "stuffy".

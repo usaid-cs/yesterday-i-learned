@@ -9,8 +9,12 @@ from shutil import move
 from os import fdopen, remove
 
 
+old_name = 'python.md'
+new_name = 'python.md'
+
+
 def get_lines():
-    with open('python.md', 'r') as f:
+    with open(old_name, 'r') as f:
         return [line for line in f]
 
 
@@ -26,7 +30,7 @@ def get_link(lines, ref):
 
 def main():
     lines = get_lines()
-    with open('python.md', 'w') as f:
+    with open(new_name, 'w') as f:
         for line in lines:
             if line.startswith('[') and ']:' in line:
                 continue

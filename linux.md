@@ -286,15 +286,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - `ssh -f ...` is like `ssh ... &` (a fork), except it goes to the background only after it connects, allowing you to enter passwords and other things if you need to.
 - One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 - Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 ))  # 20`
-
-## Tmux
-
-After press `Ctrl+B`, followed by
-
-- `?`: show help.
-- `c`: make a new window (tab).
-- `p`: go to the previous window (tab).
-- `0` to `9`: select that window (tab).
-- `%`: make a new pane.
-- `left` or `right`: select that pane.
-- `Alt+1`: evenly resize the panes.- The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
+- The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).

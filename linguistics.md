@@ -1,4 +1,6 @@
-- *Ausgezeichnet* (OWS-guh-z-EYE-k-net) means excellent.
+- [*Prima donna*](https://en.wikipedia.org/wiki/Prima_donna), "first lady", refers to an (Italian) opera's lead female singer.
+- Both "fired" and "sacked" came from the carpentry industry. A carpenter to be given the sack is to be told to pack up and leave. To fire a carpenter, you set his tools on fire, making him unable to work.
+- _Ausgezeichnet_ (OWS-guh-z-EYE-k-net) means excellent.
 - "Making a killing" is deliberately the opposite of "making a living".
 - [_Carpe diem_](https://daily.jstor.org/how-carpe-diem-got-lost-in-translation/) might have meant "reap the enjoyment of the day"; its definition in the context of [the poem](https://en.wikipedia.org/wiki/Carpe_diem) (by Greek poet Horace) is still contentious.
 - [春袋](https://evchk.wikia.org/zh/wiki/%E6%98%A5%E8%A2%8B) is not a common term. In [a 2014 court case](https://hk.news.appledaily.com/local/daily/article/20140326/18668847), the judge thought 春袋 referred to the bladder.
@@ -378,3 +380,4 @@
 - ["suh dude"](http://knowyourmeme.com/memes/suh-dude) just means "what's up dude".
 - _Yinz_ is Pittsburghers' unique version of _Y'all_.
 - Legend has it that OK came from "Oll Korrect."
+- Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
