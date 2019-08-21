@@ -1,5 +1,8 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Depending on who you ask, water can also be called [hydroxylic acid](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody).
+- Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html), which are [basically](https://en.wikipedia.org/wiki/Denture_cleaner#Ingredients) bleach, baking soda, and citric acid.
+- ["Carbonated water contains macronutrients that are essential to plant growth, according to researchers at the University of Colorado. The nutrients found in carbonated water are potassium, carbon, oxygen, hydrogen, phosphorus, sulfur and sodium."](https://www.hunker.com/12476437/the-effect-of-carbonated-water-on-plant-growth)
 - It is often commerically profitable to recover silver from [sewage sludge](https://en.wikipedia.org/wiki/Sewage_sludge#Heavy_metals) (20mg/kg or more).
 - Assuming the specific heat capacity of water is 4.18 kJ/kgK ish, a 500mL cup of hot water (say at 60 degrees) releases about 50 Calories when reduced to 37°C. This is not a way to gain weight though, as hot water raises metabolic rate... which actually means you burn more fat.
 - The [Hill system/notation](https://en.wikipedia.org/wiki/Chemical_formula#Hill_system) conventionally controls how molecules are named: first carbons, if any; then hydrogens, if any; then every other element alphabetically. This is a convention, not a law: [ammonia (NH3) is an exception](https://www.quora.com/Why-is-water-written-as-H2O-and-not-OH2), as is HCN, NaCl, and anything ionic.
@@ -8,17 +11,17 @@
 - [Some](https://en.wikipedia.org/wiki/Gold#Origins) gold comes straight from the sun, so it is older than the Earth. The Earth's mantle may also contain gold.
 - Contrary to [popular belief], [shade balls in reservoirs do not reduce evaporation](https://www.youtube.com/watch?v=uxPdPpi5W4o). These _black_ balls (first hint that it isn't for _reducing_ evaporation) block light from turning aqueous "bromide" (Br-) and "chlorine" (Cl2) into "bromate" (BrO3-), which is carcinogenic. (No... the equations don't balance.) The black balls do absorb more energy than just water, but the balls contain air, which is a heat insulator. Even though these balls are black, they reduce reservoir evaporation by 80%.
 - Brass knobs that are shiny are lacquered, making them useless at [disinfection](https://en.wikipedia.org/wiki/Oligodynamic_effect).
-- Too much CO2 in the air makes it "stuffy".
+- Too much CO₂ in the air makes it "stuffy".
 - Did you know that [black plastic is rarely recycled](https://yle.fi/uutiset/osasto/news/finnish_tech_enables_recycling_of_black_plastic/10716818) (think electronics casings) but "normal near infrared (NIR) sensors at recycling plants are unable to detect the black pigment, so black plastics usually go unrecycled worldwide and contribute to climate change."
 - If contaminants are present, [(rotten) ice can form](https://en.wikipedia.org/wiki/Rotten_ice) in the shape of honeycombs.
 - "If you are titrating a weak acid with a strong base, for example, the color indicator may change color at a pH that does not necessarily equate to the stoichiometric point." (presumably because you have a buffer solution)
 - You can [knock bismuth (in the form of BiCl3 aq) out](https://www.youtube.com/watch?v=-_qpzFlpgpo) with aluminium foil.
 - When it comes to orbitals, the periodic table could be considered incorrect when placing helium over neon. When placed over beryllium, which also has a full s shell, [the periodic table is made of neat blocks that map exactly to s, p, d, and f orbitals](https://cen.acs.org/unassigned/Reactions/97/i3).
-- Adding sodium chloride to hard water [should](https://en.wikipedia.org/wiki/Water_softening) soften it. Adding [limewater](https://en.wikipedia.org/wiki/Lime_%28material%29) (mixture of CaCO3, CaO, and Ca(OH)2) through [Clark's process](https://en.wikipedia.org/wiki/Lime_softening), somehow also softens water by changing pH, making the existing calcium carbonate in the water precipitate out.
+- Adding sodium chloride to hard water [should](https://en.wikipedia.org/wiki/Water_softening) soften it. Adding [limewater](https://en.wikipedia.org/wiki/Lime_%28material%29) (mixture of CaCO3, CaO, and Ca(OH)₂) through [Clark's process](https://en.wikipedia.org/wiki/Lime_softening), somehow also softens water by changing pH, making the existing calcium carbonate in the water precipitate out.
 - [Mass spectrometry can be used to extract molecules from fingerprints, not just the shape, to determine what the person ate and drank and sweated and touched.](https://go.ted.com/CtsK)
 - Glycerin, [glycerol](https://en.wikipedia.org/wiki/Glycerol), and propane-1,2,3-triol are all the same thing. [Glycerides](https://en.wikipedia.org/wiki/Glyceride) are however esters formed from glycerol and fatty acids, i.e. `H3C-(O-R)3`, assuming all functional groups are the same `R`.
 - Drywall isn't just anything white; drywall is gypsum (calcium sulphate).
-- Hot water can carry much less CO2, so global warming _caused by CO2 levels_ is a scary positive feedback loop.
+- Hot water can carry much less CO₂, so global warming _caused by CO₂ levels_ is a scary positive feedback loop.
 - [Activated carbon](https://en.wikipedia.org/wiki/Activated_carbon) is charcoal with lots of holes.
 - Lead (element 82) is the heaviest element considered ["stable"](https://en.wikipedia.org/wiki/Island_of_stability), but Bismuth-209 (element 83) is not that radioactive either.
 - Helium is called Helium because it was discovered while looking at the sun (absorption spectra).
@@ -112,7 +115,6 @@
 - Samarium is element 62. Although classified as a rare earth element, there is more samarium in the Earth's crust than tin.
 - Ethanol itself might not be carcinogenic, but ethanal is, so... [liver cancer is responsible for 750k deaths annually](https://en.wikipedia.org/wiki/Liver_cancer).
 - Chemists are often good at cooking. Except you. You suck.
-- An [ampere](https://en.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
 - Methanoic acid is poured into rubber tree sap to make rubber. Drying rubber turns it yellow. That's why rubber bands are yellow.
 - _c_ is not the speed of light; _c_ is ~3e8 m/s, and light happens to travel at that speed. So we call that the speed of light. But other things travel at _c_, too.
 - Brushing teeth after breakfast does not work. [It just brushes the food and acid (in the case of orange juice) around.](https://www.quora.com/Should-you-brush-your-teeth-before-or-after-breakfast)
@@ -180,5 +182,5 @@
 - Some organic samples must be coated in gold before an electron microscope could image them: "the electron microscope is only capable of producing topographies of conductive materials, such as metals"
 - The phytohemagglutinin in as few as 25 unsoaked kidney Beans can kill you. If they are slow cooked, the toxicity increases fivefold.
 - Chloroform won't knock someone out in seconds. It takes minutes.
-- The [Bohr Effect](https://en.wikipedia.org/wiki/Bohr_effect) explains why increasing CO2 concentration makes hemoglobin release their oxygen (affinity curve).
+- The [Bohr Effect](https://en.wikipedia.org/wiki/Bohr_effect) explains why increasing CO₂ concentration makes hemoglobin release their oxygen (affinity curve).
 - Caesium: Due to the bright blue lines in its emission spectrum, they chose a name derived from the Latin word caesius, meaning sky-blue. (It is thus pronounced "KAY see um")

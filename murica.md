@@ -24,3 +24,7 @@
 - Chapter 11 backruptcy can be filed by people who have money. Case in point was Donald Trump, billionaire, who filed Chapter 11 for the fifth time.
 - The swivel chair was invented by Thomas Jefferson.
 - [United States have had formal universal suffrage (rich, poor, men, women) since 1970](https://en.wikipedia.org/wiki/Universal_suffrage#Dates_by_country), with various acts and amendments, progressively allowing fringe voters (like [blacks](https://en.wikipedia.org/wiki/Voting_Rights_Act_of_1965), [young](https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution), and the poor) to vote.
+- [Hawaii has the highest homelessness rate in the states.](https://vid.me/6YZ5) The high cost of living makes it very easy to go bankrupt there, with nowhere to go.
+- [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
+- [The highest rate of unemployment in the US was 10.4% in 1983.](http://www.multpl.com/unemployment/table) Even in 2008~2010, unemployment did not break 10%. Therefore, 10% is serious business. [Greece is at 22%.](https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries/)
+- Your everyday American [doesn't](https://www.youtube.com/watch?v=XEVlyP4_11M) know who Edward Snowden is.

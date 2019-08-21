@@ -47,3 +47,4 @@
 - Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
 - [Insolvency](https://en.wikipedia.org/wiki/Insolvency) (inability to pay back) happens before you really go bankrupt. Because you can have a house and not \$10 at the same time, you can be very rich and still _cash-flow insolvent_.
 - [Apparently](https://www.reddit.com/r/AskReddit/comments/3y6hbd/what_is_totally_worth_its_risk/cyb3z33), as you grow/age, you are supposed to move to more stable investments.
+- An inverted yield curve (i.e. short term bond yield higher than long term bond yield) has always predicted a recession in the last 60 years.

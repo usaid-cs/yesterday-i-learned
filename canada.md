@@ -1,5 +1,6 @@
 🇨🇦
 
+- ["300,000 Canadians ... call Hong Kong home."](https://www.thestar.com/vancouver/2019/08/19/why-are-there-so-many-canadians-in-hong-kong.html) "Most Canadians living in Hong Kong were born in Hong Kong and only lived in Canada for four to five years, according to the foundation’s report."
 - It is ["strongly discouraged, but it is not illegal"](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) for private-sector organisations to ask for your SIN, for stuff like looking for a new lease on an apartment or a car.
 - [Canadians cannot do a "credit freeze"](https://globalnews.ca/news/5706918/capital-one-breach-new-social-insurance-number-sin/). The concept is American-only. Replacing your SIN does not erase your old one, and any debt incurred by the old one is still going to be paid by you, so getting a new SIN is not useful for fraud protection, and is [not entertained by the government](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) unless the SIN has _already_ been used for fraud.
 - [Canola oil](https://en.wikipedia.org/wiki/Canola_oil#Origin) came from CAN- (Canada) and -OLA (suffix for other oil products). It is a variant of rapeseed oil, so not all rapeseed oil is canola oil, but all canola oil is rapeseed oil.
@@ -218,3 +219,5 @@
 - "Foreign property" by CRA standards [includes](https://business.financialpost.com/personal-finance/taxes/have-foreign-property-the-cra-issues-harsh-penalties-if-you-dont-file-this-form) US stocks, and if you have more than \$100000 worth of those in a non-registered account, you need to file a T1135.
 - [Homeless people are still eligible for OHIP](https://ca.answers.yahoo.com/question/index?qid=20081106221150AADQP6y), but you should talk to Salvation Army about this, who supposedly helps with homeless matters.
 - [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
+- [Public opinion](https://www.reddit.com/r/uwaterloo/comments/6lalj8/shawerma_plus_portions/) recommends shawarma wraps in this order: Lazeez, Mozys, Shawarma Plus.
+- The [Chinese immigration act of 1885](https://en.wikipedia.org/wiki/Chinese_Immigration_Act_of_1885) placed a head tax of \$50 on all Chinese immigrants coming to Canada, with the exception of "diplomats, government representatives, tourists, merchants, men of science, and students". The amount for everyone else was \$10.

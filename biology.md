@@ -1,3 +1,5 @@
+- [You can adjust your diet according to your body type](https://www.precisionnutrition.com/all-about-body-type-eating). For skinny bois, consider 55% carbs, 25% protein, and 20% fat. For strong bois, consider 40% carbs, 30% protein, and 30% fat. For fat bois, consider 25% carbs, 35% protein, and 40% fat.
+- Some plants make [non-protein amino acids](https://www.ncbi.nlm.nih.gov/pubmed/16890899) like [canavanine](https://en.wikipedia.org/wiki/Canavanine) to make its seeds toxic to animals. [People with lupus need to avoid alfalfa sprouts](https://www.hopkinslupus.org/lupus-info/lifestyle-additional-information/avoid/) because the L-canavanine inside can increase inflammation in people with lupus.
 - A dog's age equivalent calculation is not linear, so you don't multiply its age by 7 or 9. Instead, [it's a table of values](https://www.lifehacker.com.au/2019/08/today-i-discovered-that-a-human-year-isnt-actually-seven-dog-years/) depending on your dog's size, and, notably, how a dog reaches sexual maturity after the first year, making the first year 15 human years, but each year after age two is about four to five human years.
 - The largest butterfly is [Queen Alexandra's birdwing](https://en.wikipedia.org/wiki/Queen_Alexandra%27s_birdwing), at a 23cm wingspan for females. It rests its wings flat, like a moth.
 - All puffins are found in the Atlantic ocean.
@@ -990,3 +992,4 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - People walked in a different fashion during the medieval times, [due to different footwear](https://www.youtube.com/watch?v=EszwYNvvCjQ). Because shoes back then tend to be leather socks, the ball of the feet land first. Now, the heels land first (which saves energy, but is detrimental to the joints). So, unless you have a reason, "try to walk on your balls".
 - Nair is not meant to be used on the head. Or the balls.
 - [Bananas are berries.](https://en.wikipedia.org/wiki/Banana)
+- "Tea is good for you. Teeeeeeeeaaaaaaa" - paraphrasing [this article](http://www.arthritis.org/living-with-arthritis/arthritis-diet/best-foods-for-arthritis/best-beverages-for-arthritis.php)

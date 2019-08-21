@@ -287,3 +287,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
 - Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 ))  # 20`
 - The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
+- `while ();` is an infinite loop.

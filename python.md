@@ -525,12 +525,18 @@ bar
 - Yes, you can redefine the `print()` function in python3.
 - `"abcd".split()` will only split it to `["abcd"]`, which is useless. `"abcd".split('')` will complain about "empty separator" instead, which is also useless. To get `['a', 'b', 'c', 'd']`, do `list("abcd")`.
 - [IronPython (python on Mono) doesn't have an global interpreter lock (GIL)](https://rohanvarma.me/GIL/).
-- `pip install --user` is executable only if you include `~/.local/bin` in your path.
+- `pip install --user` is usable only if you include `~/.local/bin` in your path.
 - Python's `float` is actually [usually C's `double`](https://docs.python.org/2/library/stdtypes.html#numeric-types-int-float-long-complex).
 - [Perhaps the main flaw of Python's async implementation is the fact that you can accidentally call synchronous functions from asynchronous contexts - and they'll happily work fine and block the entire event loop until they're finished.](https://www.aeracode.org/2018/06/04/django-async-roadmap/)
-- Variable scoping is full of shit. [Nested functions can access variables outside it, but not if it is redefined *anywhere in the function, including behind the line of access*](https://stackoverflow.com/a/13277359).
+- Variable scoping is full of shit. [Nested functions can access variables outside it, but not if it is redefined _anywhere in the function, including behind the line of access_](https://stackoverflow.com/a/13277359).
 - XML parsing can lead to files automatically fetched from the internet. [etree, DOM, and xmlrpc are all wide open to these types of attacks](https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03). The official response is [yes that's right](https://docs.python.org/3/library/xml.html#xml-vulnerabilities).
 - Celery's `.delay()` is just `.apply_async()` with fewer options. [Always prefer `.apply_async`.](https://pawelzny.com/python/celery/2017/08/14/celery-4-tasks-best-practices/)
 - If you have a celery task that depends on input from another task, [chain them up](https://pawelzny.com/python/celery/2017/08/14/celery-4-tasks-best-practices/). That way you wait for one task instead of two.
 - If you define a celery config's `task_queues`, you also need to define its `task_routes` (which tasks go to which queue). Use `'*'` to say all tasks go to one queue.
 - Unless you have an old project that goes by some convention, [gevent is typically better than eventlet](https://blog.gevent.org/2010/02/27/why-gevent/) for reliability and ease of use.
+- If you use Django _just_ for the ORM, then [Peewee](http://docs.peewee-orm.com/en/latest/) might be a better choice. It does have [a migration extension](https://github.com/klen/peewee_migrate), but you will slowly realise you will need to write your own raw DDL anyway.
+- Notice `ayncio`'s name: [it's for waiting for IO](https://realpython.com/async-io-python/). It is not for you to write parallel code. It is not multiprocessing. It is not multithreading. It is how you write coroutines (`async def`). It is a way you (a)wait on stuff. _Use `asyncio` when you can. Use threading if you must._
+- `__len__` must return an int, even if you override it to return 1.5 or something.
+- `int()` takes a base, i.e. `int('0b10000', 2)`.
+- You [cannot](scripts/py3.5-await-outside-async.py) await anything inside a non-async function.
+- "A lot of things are implicit in python. Like variable declarations. Referring to PEP20 isn't an argument, and blindly making everything explicit would be stupid." - [Rawing7](https://www.reddit.com/r/Python/comments/9u3kop/why_does_pythons_async_execution_model_so/e91fkwl/)

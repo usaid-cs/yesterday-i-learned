@@ -104,3 +104,4 @@
 - Lightyear to meter conversion is easy, if you know a lightyear is 9.461E15 meters, and then you just approximate it as 1E16 meters.
 - [The Earth is a dynamo](https://en.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
 - The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, ~~and Mars has no moons either~~.
+- An [ampere](https://en.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.

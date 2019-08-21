@@ -17,3 +17,4 @@
 - Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
 - [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.
 - There is [a hotel, a grocery store, and a souvenir shop](https://en.wikivoyage.org/wiki/Chernobyl) in Chernobyl.
+- _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.

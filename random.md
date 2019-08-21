@@ -1,3 +1,9 @@
+- If you have an XSS vulnerability, [all CSRF mitigation techniques are useless](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#warning-no-cross-site-scripting-xss-vulnerabilities): the malicious script can just read the CSRF token off the page.
+- The first x86-based 64-bit architecture was made by [AMD in 2003](https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_timeline).
+- Li Ka Shing, amid Hong Kong 2019 protests, posted a poem, [黄台之瓜 何堪再摘](https://www.scmp.com/news/hong-kong/politics/article/3023037/melon-huangtai-hong-kong-business-leader-li-ka-shing), or "the melon of Huangtai cannot bear the picking again". Other [da vinci-esque interpretations](https://twitter.com/gracehw/status/1162222858757529603) indicate he wanted China to let Hong Kong rule itself.
+- Unsanitised window navigation calls (like `?next=foo`) can be exploited to make the user run arbitrary JavaScript. If the code says `window.location.href = foo`, and `foo` is `javascript: alert()`, you just dun goof'd. That `foo` can be something much worse.
+- According to "lost all hope", whose author tried to end himself and lived to tell everyone to think twice, [tighter emission controls today means it is no longer practical to kill yourself with a running car in the garage today](http://lostallhope.com/suicide-methods/carbon-monoxide-co-poisoning). By [lethality](http://lostallhope.com/suicide-methods/statistics-most-lethal-methods), shotgun to the head kills 99% of the time, while jumping from a tall place is the only "no tools required" method that still has a 90%+ kill rate (if you count a train as a tool).
+- [Lena Söderberg](https://en.wikipedia.org/wiki/Lenna), subject of a standard test image, wants her name pronounced as if it had two Ns.
 - [We are already screwed for climate change](https://www.youtube.com/watch?v=PHdcpxmJ6vg). The ship has sailed. 
 - Every notable mobile operating system copied [WebOS's card view](https://www.youtube.com/watch?v=ICoNag4i7WA).
 - Gmail is banned in China. So is Facebook, Youtube, Twitter, Instagram, and Dropbox. Fun fact maybe? [On Wikipedia, it says Wikipedia is banned](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China).
@@ -392,7 +398,6 @@
 - "Snirty" is dirty snow.
 - For large ships, the anchor itself isn't doing much of the anchoring; the chain is. Each link in the chain is hundreds of freedom pounds. [Other fun facts about anchors.](https://www.reddit.com/r/explainlikeimfive/comments/9agylr/eli5_how_do_boat_anchors_work_at_sea/e4vdjkq/)
 - [UB40](https://en.wikipedia.org/wiki/UB40) the band was named after the _Unemployment Benefit Form 40_ in the UK.
-- Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html).
 - Sherbets can contain milk ingredients. Sorbets cannot.
 - A [lock pick gun](https://i.imgur.com/1aFrH9w.gifv) works by bumping all slots at the same time, unlocking the lock, before they spring back to a locked state.
 - The time machine in Back to the Future was [originally a fridge](https://en.wikipedia.org/wiki/Back_to_the_Future#Development), but "Zemeckis was concerned that children would accidentally lock themselves in refrigerators, and felt it was more useful if the time machine were mobile."
@@ -577,7 +582,6 @@
 - [OPEC](https://en.wikipedia.org/wiki/OPEC) is a "textbook example of a cartel that cooperates to reduce market competition, but ... protected by ... international law".
 - "Kilogramme" is an accepted spelling that no one used, not even in your English school.
 - George Polya's book _How to Solve It_ once said, "If you are having difficulty understanding a problem, try drawing a picture." He meant drawing a picture of the problem, not unrelated things like trees.
-- Your everyday American [doesn't](https://www.youtube.com/watch?v=XEVlyP4_11M) know who Edward Snowden is.
 - There was an American aircraft carrier called [the Shangri-la](https://en.wikipedia.org/wiki/USS_Shangri-La_%28CV-38%29). Shangri-la is Tibetan for "Shang Mountain Pass". There is also a rubbish town in China called the [Shangri-La](https://en.wikipedia.org/wiki/Shangri-La_City), whose [airport](https://en.wikipedia.org/wiki/Diqing_Shangri-La_Airport) has the IATA code of DIG.
 - It is [Sir](https://en.wikipedia.org/wiki/Mick_Jagger) Mick Jagger. Sir Jagger has eight children with five women.
 - Humpty Dumpty is an egg.
@@ -1009,7 +1013,6 @@
 - Flappy bird creator pulled the app off the stores because he ["cannot take this anymore"](https://www.theverge.com/2014/2/8/5393208/flappy-bird-creator-says-hes-pulling-the-game-offline-tomorrow).
 - Intel CPUs made since 2008 have a [management engine](https://en.m.wikipedia.org/wiki/Intel_Management_Engine) running as a supervisor of your actual operating system, which has ring -3 equivalent of access _and_ bugs and backdoors for the NSA: " Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot."
 - TetraNormal says that "Alcohol divides everybody by 2 and then adds 5," so you, obviously a 10, are still a 10.
-- "Tea is good for you. Teeeeeeeeaaaaaaa" - paraphrasing [this article](http://www.arthritis.org/living-with-arthritis/arthritis-diet/best-foods-for-arthritis/best-beverages-for-arthritis.php)
 - Draw a line between Sabalo and Mayarí. Northern Cuba is mostly caucasian-american. Southern Cuba is mostly african-american.
 - On [Minimaxing/maximining](http://people.maths.ox.ac.uk/griffit4/Math_Alive/3/game_theory3.pdf): "Rule of thumb: If you know your opponent is playing a mixed strategy and will continue to play it, you should use a strategy that maximizes your expected payoff (i.e. maximin)."
 - [Gerontology](https://en.m.wikipedia.org/wiki/Aging-associated_diseases) is the study of ageing. Biological, psychological, social, environmental impacts of ageing.
@@ -1256,7 +1259,6 @@
 - [Equity dilution is enormous when multiplied by rounds.](https://techcrunch.com/2011/10/13/understanding-how-dilution-affects-you-at-a-startup/) However, some of the time, this dilution is offset by the increase in valuation between rounds ("maybe you are worth more now")
 - [**The Earth is flat.**](https://wiki.tfes.org/Frequently_Asked_Questions) All cameras are flawed. Ships and planes prove our point. No one has gone to the South Pole and lived. The Earth is propped up by a giant U-shaped magnet. The Earth has been accelerating upwards for thousands of years at 9.81m/s/s (so, now travelling at around 2 trillion m/s). At this great speed we have a tiny sun and tiny moon still above the spy, shining just the Earth (and some other spherical planets... no idea why they are spherical though). _This is not a joke, and We are not kidding._
 - [Round trip time between two instances in the same datacenter](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html) is around 1ms.
-- [The highest rate of unemployment in the US was 10.4% in 1983.](http://www.multpl.com/unemployment/table) Even in 2008~2010, unemployment did not break 10%. Therefore, 10% is serious business. [Greece is at 22%.](https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries/)
 - Samsung Pay can emulate a magnetic stripe using ["a tiny coil that shoots out the same magnetic code that those readers normally get from your credit card"](https://www.theverge.com/2015/8/13/9146965/samsung-pay-mobile-payment-credit-card-readers-date), called MST.
 - Summer sausages are designed to last without refrigeration. They are usually cured, mostly made with scrap meats, and are wrapped in cloth/paper rather than intestines.
 - The Achilles' heel story involves his mother washing his entire body with magic water except for his heel. Then he got shot in the heel at war one day and died.
@@ -1358,7 +1360,6 @@
 - The [ideal weight](https://en.wikipedia.org/wiki/Human_body_weight) is apparently 170~180 lbs for an adult male of some standard height.
 - Red scotch brite is coarser than green scotch brite is coarser than blue scotch brite.
 - A US president [once implied](http://www.mirror.co.uk/news/politics/donald-trump-just-suggested-fighting-11007233) wanting to kill muslims with pig blood dipped bullets.
-- At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
 - [Tile's batteries are not user-replaceable.](https://www.amazon.ca/Tile-Combo-Wallet-Finder-4-Pack/dp/B01MF9VQOP/ref=pd_sbs_107_1?_encoding=UTF8&psc=1&refRID=2FA6KEAHKFDTCX7H1ZDK) But [it's just a CR-2032.](https://www.youtube.com/watch?v=k-BTStjaxgw) So why don't they let you replace it yourself? Because it would break the waterproofing? No! Because fuck you, that's why.
 - "Tommy and Gina" were referenced in both Bon Jovi's [Livin' on a Prayer](https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer) in 1986, and [It's my life](https://en.wikipedia.org/wiki/It%27s_My_Life_%28Bon_Jovi_song%29) in 2000.
 - Weevils can be killed by either frying your rice at 60 degrees Celsius for 15 minutes, or freezing at -18 degrees for 3 days.
@@ -1397,7 +1398,6 @@
 - ["Salt was found to improve the perception of product thickness, enhance sweetness, mask metallic or chemical off-notes, and round out overall flavor while improving flavor intensity."](https://www.ncbi.nlm.nih.gov/books/NBK50958/) In other words, salt makes things taste better by manipulating how receptors sense other tastes. See same paper: if you have a low sodium diet, you can substitute some NaCl with a smaller amount of MSG for roughly the same taste.
 - The [Rothschild family](https://en.wikipedia.org/wiki/Rothschild_family), [ROTE-shillt](https://www.quora.com/How-do-you-pronounce-Rothschild), is primarily Jewish. They earn [a billion a year](http://www.investopedia.com/updates/history-rothschild-family/), give or take a billion.
 - [People rate condoms on the Internet.](http://www.trojanbrands.com/en-CA/condoms/TROJAN-Her-Pleasure-Sensations-Lubricated-Condoms)
-- People prefer letters that are in their names. "The [Letter Preference Task](https://en.wikipedia.org/wiki/Name-letter_effect) is the second-most popular method to measure implicit self-esteem, surpassed only by the Implicit Association Test."
 - [Dude](https://www.youtube.com/watch?v=sdYiUw-lZrk) says it matters to differentiate "GPU" from "graphics card", the card on which the GPU is soldered.
 - All natural numbers (N) are... integers (Z), which are all rational numbers (Q), which are all real numbers (R)
 - In the cryptocurrency world, you can just [clone a bunch of coins](https://techcrunch.com/2017/08/02/wtf-is-bitcoin-cash-and-is-it-worth-anything/) and end up having twice the amount of money (assuming people want to trade the cloned version).
@@ -1468,7 +1468,6 @@
 - Compass is the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
 - Fresh tuna is tough and has no flavour. Age it for a few days first.
 - Selfie sticks are banned from Disney theme parks.
-- [Public opinion](https://www.reddit.com/r/uwaterloo/comments/6lalj8/shawerma_plus_portions/) recommends shawarma wraps in this order: Lazeez, Mozys, Shawarma Plus.
 - /r/dickpics is full of pictures of Richards.
 - Indians (Hindus; Northeast) were looking for ways to dispose of bodies using the river in a way that [they won't wash back up](http://www.planetcustodian.com/2015/10/19/8134/over-50-scary-images-depicting-filth-of-varanasi-and-river-ganges-that-went-viral-in-china.html). [They are still doing it](http://www.featureshoot.com/2017/02/a-death-photographer-on-the-sacred-river-ganges/). Don't worry though, [it's not like anyone drinks out of that river or anything.](https://en.wikipedia.org/wiki/Ganges#Pollution_and_environmental_concerns)
 - The "90 degrees north" version of Polar Ice vodka is called that because it is 90 proof. Also because North pole.
@@ -1528,7 +1527,6 @@
 - Back in other people's days, they made "shaving cream" by rubbing the shaving brush on a piece of soap. None of you cheese-eating, soft-soiled, "shaving-cream-in-a-can" business.
 - [Train tracks just happen to be around the same width as Roman roads, not a cause.](http://www.snopes.com/history/american/gauge.asp)
 - [Gauntlet tracks](https://en.wikipedia.org/wiki/Gauntlet_track#Canada) are used when bigger trains need to go through the same place as smaller trains (like light rail), but there is no space for two parallel tracks, so they overlap the tracks and allow only one train in at a time.
-- [Hawaii has the highest homelessness rate in the states.](https://vid.me/6YZ5) The high cost of living makes it very easy to go bankrupt there, with nowhere to go.
 - When marijuana is legalised, the government is obligated to keep prices low, to undercut the black market. After the black market is gone, they can freely increase prices for taxation. Except Ontario. Ontario exercises the worst legalisation scheme possible.
 - [In the early days of colonoscopies, attempts to burn off polyps in the colon ignited explosive hydrogen gas in the colon of several unlucky people, sometimes with tragic results. The colon-cleansing preparations people now take the night before a colonoscopy have solved the problem.](http://www.ctvnews.ca/mobile/flatulence-expert-defines-normal-output-rate-1.269197)
 - On one hand, raising interest rates make stocks drop because higher rates hurt companies' bottom line; on the other hand, if the rate hiked is less than the rate expected (e.g. +0.25% rather than +0.5%), then the market will still go up.
@@ -2131,7 +2129,7 @@
 - The X Files theme song is called "Materia Primoris".
 - [Do not remove popcorn ceiling yourself](https://www.reddit.com/r/videos/comments/49p218/a_brilliant_way_to_remove_popcorn_ceilings/).
 - Salt can thicken soap (and then thin it). "The sodium ions from the salt lower the charge density of the micelle surface. This makes them more able to pack closer together and creates a thicker solution." "We call this the Salt Curve"
-- On South Park, they would say "you bastards" to the writers, not the character who killed Kenny.
+- In South Park, they would say "you bastards" to the writers, not the character who killed Kenny.
 - While both [Saint Nicholas and Santa Claus](https://en.wikipedia.org/wiki/Saint_Nicholas#Santa_Claus) were responsible for _secret_ gifting, the commercial Christmas only consists of public gifting, stashed under a tree notwithstanding.
 - Email titles should be [no more than 78 characters in length](http://stackoverflow.com/questions/1592291/what-is-the-email-subject-length-limit); line-wrapping can extend the length indefinitely. Most frameworks limit the length to 255 characters anyway.
 - The Micro USB connector standard is rated [10 insertions for 3 years](http://electronics.stackexchange.com/questions/18552/why-was-mini-usb-deprecated-in-favor-of-micro-usb). Interestingly, [the original USB was rated at 1500 insertions](https://en.wikipedia.org/wiki/USB#Durability), but you don't ever see them breaking.
@@ -2164,7 +2162,6 @@
 - [The Ivory Coast](https://en.wikipedia.org/wiki/Ivory_Coast) is a country in west Africa.
 - Faster RAM can be used in slower slots (provided that the type is the same).
 - DDR4 RAM is not backwards compatible with DDR3 slots.
-- _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 - Charisma is essentially the ability to tell good stories.
 - [Apparently](http://www.beyondhogwarts.com/harry-potter/articles/doing-the-math-how-many-kids-are-at-hogwarts.html), there are only ~280 students in Hogwarts at any time.
 - The [Beaufort scale](https://en.wikipedia.org/wiki/Beaufort_scale) is how tall the waves are given a certain wind speed. If the waves are 9ft tall, then the Beaufort scale is 9ft.
@@ -2301,7 +2298,6 @@
 - [The traces of cocaine left on paper money is often enough to set off customs detectors.](http://www.cnn.com/2009/HEALTH/08/14/cocaine.traces.money/)
 - The bicycle seat should be level with the waist.
 - ["Grey Goose made their bottles so skinny and tall so they would have to be placed on the top shelf."](https://www.reddit.com/r/AskReddit/comments/5oi03n/what_strange_idea_worked_because_people_are_weird/dckccru/) (Or you can just lie them down, you know? Like all other items in this list, this is not verified information)
-- [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
 - Indexing UTF8 strings is an `O(n)` operation. Both JS and PHP chose UTF16 internally. It has disadvantages from both UTF8 & UTF32.
 - Licencing under GPL is probably good, but [joining the GNU is probably a bad idea](https://libreboot.org/why-not-gnu/). Reasons mostly surround the loss of project decision making, as well as odd project toolchain requirements.
 - The [Hammer unit](https://wiki.teamfortress.com/wiki/Hammer_unit) is Source Engine's smallest unit of distance, 1/16th of a foot (around 2cm).
@@ -2374,7 +2370,7 @@
 - [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
 - [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)
 - A [_brown noser_](https://www.urbandictionary.com/define.php?term=brown+noser&amp=true&defid=724517) is an ass kisser (or licker, or equivalent).
-- The act of asking for a lower interest rate (or other terms) is called [refinancing](https://en.wikipedia.org/wiki/Refinancing).
+- The act of asking for a lower interest rate (or other terms) is called [refinancing](https://en.wikipedia.org/wiki/Refinancing). Sometimes you can lock into a lower mortgage rate early by paying a penalty. If the penalty is less than the percentage change, it might still be worth a shot.
 - In class diagrams, arrows point from subclasses to their base classes because [arrows mean Generalisation in UML](http://stackoverflow.com/a/2471642/1558430).
 - Toilet paper glows in UV light.
 - The R project is also known as [GNU S](https://en.wikipedia.org/wiki/S_%28programming_language%29), the GNU implementation of the S programming language.
