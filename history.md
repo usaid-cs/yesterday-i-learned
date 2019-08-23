@@ -1,3 +1,4 @@
+- [HMS Hood](https://en.wikipedia.org/wiki/HMS_Hood) was Britain's flagship. It was perceived as invincible. In the battle with [Germany's Bismarck](https://en.wikipedia.org/wiki/German_battleship_Bismarck), it "was struck by several German shells, exploded, and sank within 3 minutes."
 - The Celts [ran europe](https://www.reddit.com/r/MapPorn/comments/ctefcy/the_celts_50058_bc_3958x2974_oc/) before Jesus was born.
 - [Johnny Appleseed](https://en.wikipedia.org/wiki/Johnny_Appleseed) (not his real name) was a real person. He introduced apple seeds to the east coast.
 - In 1903, [Evelyn Beatrice Hall](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) wrote in her book _The Life of [Voltaire](https://en.wikipedia.org/wiki/Voltaire)_, "I disapprove of what you say, but I will defend to the death your right to say it". Now people think Voltaire himself said it.
@@ -224,3 +225,5 @@
 - Rommel was apparently a [micromanager](http://www.reddit.com/r/todayilearned/comments/25hqf5/til_in_ww2_german_field_marshal_erwin_rommel/chhg305), loved by soldiers but hated by his subordinates.
 - The 念慈菴 in [京都念慈菴川貝枇杷膏](https://en.wikipedia.org/wiki/Nin_Jiom_Pei_Pa_Koa) means "in memory of [my] kind mother". The formula was made by a Qing dynasty physician, _Dr. Ip Tin-See_.
 - At some point, Michelangelo had to make out [David](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)'s peehole.
+- The _Codex gigas_ ("big book") is [the largest extant medieval illuminated manuscript in the world](https://en.wikipedia.org/wiki/Codex_Gigas), known for having lots of weird stuff in it, like a full page devil, and getting stolen a lot.
+- There was a computer that [recorded files onto casette tapes.](https://en.wikipedia.org/wiki/Texas_Instruments_TI-99/4A) A 3MHz CPU proved enough for everything.

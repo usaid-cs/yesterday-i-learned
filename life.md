@@ -156,4 +156,5 @@
 - If you suspect you will be criticised in a meeting, sit next to the person in the meeting. It is much harder to be criticised when the person needs to turn the body to you.
 - ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is not the same as "Always learn from your mistakes." The latter still implies you can fail again.
 - To train vocals, sing through your closed lips for a few minutes.
-- You are much more likely to have a good career if you are universally, consistently nice to your colleagues.
+- You are much more likely to have a good career if you are universally, consistently nice to your colleagues.- People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
+- If you can hang out with two or more friends but can never hang out with just one, it means that [you don't know how to start a conversation](http://www.reddit.com/r/AdviceAnimals/comments/22padj/anyone_else_experience_this).

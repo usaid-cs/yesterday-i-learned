@@ -28,3 +28,9 @@
 - [Half of the people from Detroit are essentially illiterate.](http://detroit.cbslocal.com/2011/05/04/report-nearly-half-of-detroiters-cant-read/)
 - [The highest rate of unemployment in the US was 10.4% in 1983.](http://www.multpl.com/unemployment/table) Even in 2008~2010, unemployment did not break 10%. Therefore, 10% is serious business. [Greece is at 22%.](https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries/)
 - Your everyday American [doesn't](https://www.youtube.com/watch?v=XEVlyP4_11M) know who Edward Snowden is.
+- Every US president after the [Time Person of the Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year) list began have been on the list. Except Calvin Coolidge, Herbert Hoover, and Gerald Ford. Roosevelt was however the person of the year thrice.
+- [Walmart is the largest employer in 22 states.](http://www.visualcapitalist.com/walmart-nation-mapping-largest-employers-u-s/)
+- [The five-step process to monetise US broadband](https://www.reddit.com/r/technology/comments/7o41rf/the_fcc_is_preparing_to_weaken_the_definition_of/ds6w3aw/): repeal net neutrality, count all data under one data cap, [remove local ISPs](https://www.reddit.com/r/videos/comments/7o30lo/anti_colorado_municipal_broadband_service/), lower data cap, and finally, offer website packages.
+- [Americans don't find soaking your shoes and socks a big deal?!](https://www.youtube.com/watch?v=XpoYWROw5BY)
+- [Yellow NY plates are the new ones.](https://patch.com/new-york/harrison/not-everyone-happy-with-new-nys-license-plates) White NY plates are the old ones.
+- The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.

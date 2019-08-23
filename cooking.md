@@ -59,3 +59,4 @@
 - Sole has no texture, but at least it tastes okay (see "pollock")
 - Pasta dough from Northern Italy tends to have more egg.
 - [Tenderise steak with fresh pineapple juice](https://www.youtube.com/watch?v=dfjIIK6qt-g).
+- Browning your ground beef with mozzarella cheese is a perfect way to waste your mozzarella cheese.

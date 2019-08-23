@@ -1,3 +1,4 @@
+- Jupiter's red spot is about the size of the Earth. It has 79 moons, more than the sun has planets. Inside Jupiter you can find [gaseous hydrogen, liquid hydrogen, and metallic hydrogen layers](https://en.wikipedia.org/wiki/Jupiter#/media/File:Jupiter_diagram.svg).
 - [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy) is a specific term describing quantum computers being able to do work better than normal ones.
 - In free space, teleportation _appears_ the same as travelling at the speed of light. In real life, teleportation has the advantage of being able to enter closed spaces.
 - Portable air conditioners with two hoses (instead of one or zero) are more efficient. Those with zero hoses are just useless, one pipe takes cool air from the inside, which requires it to work harder.

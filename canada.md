@@ -1,5 +1,6 @@
 🇨🇦
 
+- ["CTV"](https://en.wikipedia.org/wiki/CTV_Television_Network), owned by Bell, has never meant "Canadian television" because [CBC claims to have exclusive rights to the term "Canadian"](https://en.wikipedia.org/wiki/CTV_Television_Network#Early_years).
 - ["300,000 Canadians ... call Hong Kong home."](https://www.thestar.com/vancouver/2019/08/19/why-are-there-so-many-canadians-in-hong-kong.html) "Most Canadians living in Hong Kong were born in Hong Kong and only lived in Canada for four to five years, according to the foundation’s report."
 - It is ["strongly discouraged, but it is not illegal"](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) for private-sector organisations to ask for your SIN, for stuff like looking for a new lease on an apartment or a car.
 - [Canadians cannot do a "credit freeze"](https://globalnews.ca/news/5706918/capital-one-breach-new-social-insurance-number-sin/). The concept is American-only. Replacing your SIN does not erase your old one, and any debt incurred by the old one is still going to be paid by you, so getting a new SIN is not useful for fraud protection, and is [not entertained by the government](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) unless the SIN has _already_ been used for fraud.

@@ -1,3 +1,4 @@
+- If the user is not logged in, it's not that [you can't spoof anything](https://security.stackexchange.com/questions/184121/prevent-csrf-on-public-website-with-no-login), but rather [it might still happen if your website trusts an anonymous session to change the state of the system](https://security.stackexchange.com/a/157883).
 - If you have an XSS vulnerability, [all CSRF mitigation techniques are useless](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#warning-no-cross-site-scripting-xss-vulnerabilities): the malicious script can just read the CSRF token off the page.
 - The first x86-based 64-bit architecture was made by [AMD in 2003](https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_timeline).
 - Li Ka Shing, amid Hong Kong 2019 protests, posted a poem, [黄台之瓜 何堪再摘](https://www.scmp.com/news/hong-kong/politics/article/3023037/melon-huangtai-hong-kong-business-leader-li-ka-shing), or "the melon of Huangtai cannot bear the picking again". Other [da vinci-esque interpretations](https://twitter.com/gracehw/status/1162222858757529603) indicate he wanted China to let Hong Kong rule itself.
@@ -107,7 +108,7 @@
 - There are [five positions](https://en.wikipedia.org/wiki/Point_guard) in a basketball team: the point guard (the "leader"), shooting guard (defender, who also happens to be responsible for three-pointers), small forward (dude on the size), power forward (blocking), and center (the most important person?).
 - The correct way to exclude files from a PyCharm search box is something like `!*test*.py`.
 - W3 recommends [turing tests other than reCAPTCHA](https://www.w3.org/TR/turingtest/), which [annoys Firefox users more than Chrome users](https://news.ycombinator.com/item?id=20147015) in the name of market share.
-- On why phones are getting [a 48MP camera sensor with binning, instead of a 12MP one with 4x larger pixels](https://www.gsmarena.com/quad_bayer_sensors_explained-news-37459.php): recovering more information from noise, and faster HDR. "If one of the four pixels on a Quad Bayer sensor captures noise ... that’s only 25% of the information lost ..." "Alternatively, the sensor can be split up into two logical sensors -- one that captures a short exposure and one a long exposure (... HDR ...)"
+- On why phones are getting [a 48MP camera sensor with binning, instead of a 12MP one with 4x larger pixels](https://www.gsmarena.com/quad_bayer_sensors_explained-news-37459.php): recovering more information from noise, and faster HDR. "If one of the four pixels on a Quad Bayer sensor captures noise ... that's only 25% of the information lost ..." "Alternatively, the sensor can be split up into two logical sensors -- one that captures a short exposure and one a long exposure (... HDR ...)"
 - A "travesty" is actually a misrepresentation. Saying "it is a misrepresentation" implies that the something is a misrepresentation *of something*.
 - [Raped poutine](https://en.wikipedia.org/wiki/Poutine_r%C3%A2p%C3%A9e), basically mashed potato balls with pork filling, is a specific Acadian dish, not what Tim Horton's passes off as poutine.
 - The "Linus Tech Tips" opening is called [Laszlo - Supernova](https://www.youtube.com/watch?v=PKfxmFU3lWY).
@@ -146,7 +147,7 @@
 - [Half of all large ships are registered in panama](https://www.youtube.com/watch?v=N7CvEt51fz4), because taxation is so low. An international ship follows the laws of its country, as long as it is outside any other country's territorial waters (12 miles from the coast).
 - A [philosophical razor](https://en.wikipedia.org/wiki/Philosophical_razor) is called that because it "shaves off" unlikely explanations for something. [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor) says simpler solutions are more likely to be correct than complex ones, [Hanlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) says someone doing bad things to you is probably being stupid instead of being mean, and [Newton's flaming laser sword](https://en.wikipedia.org/wiki/Mike_Alder#Newton's_flaming_laser_sword) says that, if an argument cannot be settled by experiment or observation, then it is not worthy arguing about.
 - [“Perfect is the enemy of better”](https://qz.com/work/1201384/everyone-claims-they-are-following-agile-methods-but-few-actually-do/)
-- [The most highly functioning agile teams aren’t just at the same location or on the same floor: they share the same table.](https://qz.com/work/1201384/everyone-claims-they-are-following-agile-methods-but-few-actually-do/)
+- [The most highly functioning agile teams aren't just at the same location or on the same floor: they share the same table.](https://qz.com/work/1201384/everyone-claims-they-are-following-agile-methods-but-few-actually-do/)
 - Precision is grouping. Accuracy is whether the average is correct.
 - Gaming consoles exist because there are only so many gaming consoles. Developers can optimise their games to hell to have them run on devices with much lower spec.
 - [Smaller city blocks are more "walkable" than large ones, even if the two walks have the same distance](https://www.youtube.com/watch?v=lisZBL3_aW8). Having things to look at makes you feel engaged. Video says the generic block is often best at 75m x 110m.
@@ -300,7 +301,6 @@
 - [_Yake_](https://www.youtube.com/watch?v=_r9Ndb6N_y0) is the process of a fish cooking itself (by swimming after getting caught) from the inside, also known as ["burnt tuna"](http://tunafishingcharters.com.au/processing-bluefin-tuna-caught/).
 - The tail of a tuna, which has a lot of muscles, is often scraped off the tail to make tuna tartare, or "spicy tuna" sushi.
 - There are non-toxic farmed fugu, but only the large, wild, toxic ones are good to eat, [says Japanese chef Rikizo Okamoto](https://www.youtube.com/watch?v=F8FIPRD9jvg). Fugu by itself tastes "unspectacular; rather bland".
-- The _Codex gigas_ ("big book") is [the largest extant medieval illuminated manuscript in the world](https://en.wikipedia.org/wiki/Codex_Gigas), known for having lots of weird stuff in it, like a full page devil, and getting stolen a lot.
 - Angel (An-hell/An-yell) is a boy name in Spanish.
 - If a bolt is the exact same size as its nut, then the bolt will never go into the nut. [Fit clearances](https://youtu.be/cQFTBfkqE0U) allow an intentionally smaller component to go into another, while "interference fit" heats up one of the parts, expanding it, allowing two otherwise perfectly-sized parts to fit.
 - All notable persons with the name "Ciprian" are Romanian.
@@ -873,7 +873,7 @@
 - Kafka told his friend to have his works "to be burned unread" after he dies. His friend responded be publishing everything, citing Kafka might have had psycological issues that made him say such things.
 - There is an encyclopedia page dedicated to [Rihanna's forehead](http://uncyclopedia.wikia.com/wiki/Rihanna%27s_Forehead).
 - [Intel GPU firmware have been proprietary since skylake.](https://lists.freedesktop.org/archives/intel-gfx/2015-June/068167.html)
-- The [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) comes in multiple discrete sections, sometimes even perpendicular to each other.
+- The [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) comes in multiple discrete sections, sometimes even perpendicular to each other. The touristy parts are well-kept obviously, but the other parts are often in disrepair.
 - Sleeping Dogs was one of the greatest games you bothered to finish. The story, the setting, the knee-breaking action, driving while hopping from car to car.
 - Elon Musk once said along the lines of: [if you work 100-hour weeks and others work 40-hour weeks, then your chances of (he used the word "success", but it's probably more like "getting something done") is higher, if not 2.5x higher, than your competitors.](https://www.nextbigwhat.com/elon-musk-quotes-297/) You know that's 14-hour work days, right? You know people burn out, right?
 - The most average person is [a 28-year old Han Chinese man](http://www.dailymail.co.uk/news/article-1362709/Typical-human-face-28-year-old-Chinese-man.html).
@@ -937,7 +937,6 @@
 - _A_ [valkyrie](https://en.wikipedia.org/wiki/Valkyrie) is a female Norse myth figure that chooses who lives and who dies in a battle.
 - First [primer](http://www.huffingtonpost.ca/entry/what-is-makeup-primer-do-you-need-it_us_5a3b390ae4b0b0e5a79f8680), then foundation, then concealer, then colour correction.
 - Never buy an oven with a ground level oven door.
-- [The five-step process to monetise US broadband](https://www.reddit.com/r/technology/comments/7o41rf/the_fcc_is_preparing_to_weaken_the_definition_of/ds6w3aw/): repeal net neutrality, count all data under one data cap, [remove local ISPs](https://www.reddit.com/r/videos/comments/7o30lo/anti_colorado_municipal_broadband_service/), lower data cap, and finally, offer website packages.
 - [Check off](https://idioms.thefreedictionary.com/check+off) means Check!
 - [Meltdown](https://meltdownattack.com/meltdown.pdf) is the one from out-of-order execution allowing userspace processes to read kernel memory. [Spectre](https://spectreattack.com/spectre.pdf) is the one from predictive branching allowing strange code to access memory that is otherwise protected.
 - [If you buy physical things from the Google store, they can simply not ship them.](https://www.reddit.com/r/GooglePixel/comments/7nrx07/google_permanently_banned_my_account_because/) If you decide to get a chargeback from your credit card company, they will ban your account (and therefore your life).
@@ -999,7 +998,6 @@
 - APKMirror is managed by the same people who manage Android Police. (Not one over another but both as subsidiaries)
 - Naturally fermented beer can go up to [33%](http://berghoffbeer.com/blog/5-strongest-naturally-fermented-beers-world/).
 - Many mining (gold included) companies on the TSX have negative betas.
-- Every US president after the [Time Person of the Year](https://en.wikipedia.org/wiki/Time_Person_of_the_Year) list began have been on the list. Except Calvin Coolidge, Herbert Hoover, and Gerald Ford. Roosevelt was however the person of the year thrice.
 - "Tennessee" has three consecutively repeated letters.
 - Fun fact. [Going gluten-free makes you age slower.](https://blog.paleohacks.com/10-ways-to-slow-aging-naturally/) Therefore, gluten is aging. Science.
 - "breathe. sunflower. rainbow. 450." was uttered by [Eleven's mother](http://strangerthings.wikia.com/wiki/Terry_Ives) to indicate: (breathe.) (sunflower on the hospital nightstand.) (rainbow symbol where the children's room was in the lab.) (450 something of the electroshocking.)
@@ -1034,7 +1032,6 @@
 - So many people pour bacon fat down the drain that cities are forced to spend millions clearing out gigagram "farbergs" from the sewers.
 - The perfect steak is [3.8cm thick](https://www.thespruce.com/the-secret-to-a-juicy-steak-995233).
 - The new shortcut for shutting down Windows 10 is Win+x, u, u.
-- [Walmart is the largest employer in 22 states.](http://www.visualcapitalist.com/walmart-nation-mapping-largest-employers-u-s/)
 - [A "Yo" dice roll is a 6 followed by a 5.](https://i.redd.it/rotvn1hjw7001.jpg) An "Australian Yo" is a 2 followed by a 1 instead.
 - Pokemon Sun and Moon (Alola) contain an ecology that closely reflects issues found in Hawaii. [Yungoos/Mongoose were introduced to Alola/Hawaii to control the Rattata/Rat population](https://www.youtube.com/watch?v=hwfRAzGWJMQ); unfortunately one is active during the day and the other during the night, so the mongoose end up eating birds' and turtles' eggs instead, hunting them to extinction.
 - The 3-in-1 spoon/fork/knife exists. It's called a [splayd](https://en.wikipedia.org/wiki/Splayd). It's rubbish at everything. Less popular utensils like the knife/fork "knork" and the spoon/knife "spife" also exist, solely to make the splayd look good in comparison.
@@ -1060,7 +1057,6 @@
 - Because of the way RAID 5 is constructed ("one drive worth of space is redundant"), [the fewer drives you have, the safer the data is.](http://www.ecs.umass.edu/ece/koren/architecture/Raid/raidiator.html)
 - [Pagpag food](https://en.wikipedia.org/wiki/Pagpag) is Tagalog (Filipino) for garbage food salvaged from dumpsters.
 - The loading spinner is also called the [Throbber](https://en.wikipedia.org/wiki/Throbber).
-- Browning your ground beef with mozzarella cheese is a perfect way to waste your mozzarella cheese.
 - A _nit_ is [one candela per square meter (cd/m2)](https://www.lifewire.com/understanding-nits-lumens-brightness-4125499). An _ANSI Lumen_ is "the amount of light that is reflected off of a one square meter area that is one meter from a one candela light source," equivalent to whatever nits divided by 3.426 (for projectors only?)
 - Everything is soldered onto the Dell Inspiron 7000 series. They are worth nothing no matter how good the specs are.
 - Privation pretty much means deprivation. Of food and stuff.
@@ -1079,15 +1075,12 @@
 - The Enigma code was partially broken because [the Germans said "Heil Hitler" in the message all the time](https://futureboy.us/pgp.html#GoodPractices). As a result, the author advises not to write "best regards" in your encrypted messages, or encode your emails in HTML (which would then contain '</html>', obviously).
 - Proper daylight savings clocks go from the last instant of 1:59:59 to 1:00:00. Clocks that go from 1:59:59 to 2:00:00 to 1:00:01 are improper.
 - Nikkei stands for The Nihon Keizai Shinbun (日本経済新聞), a newspaper.
-- The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.
 - Chinese USB chargers can be so cheap because they omit safety standards like the [UL 840](https://standardscatalog.ul.com/standards/en/standard_840_3).
 - The American ounce (28.349523125g) is also the International Avoirdupois Ounce.
 - Haddock has a meaty texture, and leaves a disgusting fishy aftertaste.
-- People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
 - Beating your earnings estimates will still cause your stock price to drop if the data shows your market value is lower than the current price.
 - The fastest red card in football went to [a man named Lee Todd](https://www.theguardian.com/football/2009/jan/07/1), who said "FUCK me that was loud" to a referee.
 - [A young (underage) man had nudes of himself and was charged for being gay and a child sex offender.](https://www.reddit.com/r/news/comments/7abp34/child_sex_offenders_to_be_named_as_such_in_us/dp8pkix/) Kids, don't touch yourself. That's gay, pedophilic, and having sex with a minor. You die for that sort of thing. Jesus was right. Don't touch yourself. Big brother (he's over 18) is always watching.
-- There was a computer that [recorded files onto casette tapes.](https://en.wikipedia.org/wiki/Texas_Instruments_TI-99/4A) A 3MHz CPU proved enough for everything.
 - "Stacked" was used to describe men's pecs and abs, "stacking" one over another. Then the same "stacked" was modified to describe women with large breasts as well. The problem here is that breasts don't stack unless you have multiple pairs of them.
 - 出世 ("exit life") means literally the opposite of it: entering life.
 - "Of course [I'd hire a programmer who doesn't code in his spare time], same as I'd hire a carpenter that doesn't spend his evenings building houses or an accountant that doesn't do accounts for recreation." - dimnakorr
@@ -1160,7 +1153,6 @@
 - A bit [less](https://techcrunch.com/2017/09/05/whatsapp-business-app/) than half of the world has WhatsApp installed.
 - In The Matrix, Neo wears a pair of Panasonic headphones. The second movie makes no sense because programs don't "hack programs when they risk deletion" or "go back to the mainframe". This is Visual Basic GUI level nonsense.
 - The Twitter bird is called Larry, named after [Larry Bird](https://en.wikipedia.org/wiki/Larry_Bird) from Boston Celtics.
-- [Americans don't find soaking your shoes and socks a big deal?!](https://www.youtube.com/watch?v=XpoYWROw5BY)
 - [North Korea and USA have the same number of submarines.](https://en.wikipedia.org/wiki/List_of_countries_by_level_of_military_equipment) The USA fleet is nuclear, and the North Korean ones are non-nuclear. At 72 for each country, they have the world's most submarines.
 - (Normal) North Koreans can't buy jeans. Owning a bible is grounds for execution. But they do have the [Moranbong band](https://www.youtube.com/watch?v=fL7-7shibkw), which is nice.
 - [Grand slams](https://en.wikipedia.org/wiki/Grand_slam_%28baseball%29) involve every single base loaded with baserunners, and then scoring all four runs. It is rare enough that they wiki page has a list of grand slams.
@@ -1659,7 +1651,6 @@
 - If you are extremely paranoid about letting people who mail you things know where you live (which are usually the same place), or just homeless, [get a PO box](https://www.reddit.com/r/LifeProTips/comments/65j5nr/lpt_if_youre_starting_out_in_a_new_city_and_dont/).
 - Emma Morano, the last surviving person from the 1800s, ate [two raw eggs](http://www.bbc.co.uk/news/amp/39610937) a day.
 - Paper is rarely (apparently only once or twice) shown in Star Wars.
-- [Yellow NY plates are the new ones.](https://patch.com/new-york/harrison/not-everyone-happy-with-new-nys-license-plates) White NY plates are the old ones.
 - Mead can be sweet, dry, sparkling, non-sparkling, 8% ABV, to 20% ABV. It can basically be anything. Saying one has tried mead is like saying one has tried "beer".
 - Want something done? [Go to the person](https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email). It is a lot (34 times, says article) more effective than email.
 - You haven't really made microservices properly if [you need to change multiple microservices at once by many teams to make a feature](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html), or if you need to deploy multiple microservices at once to make it work, or if all these microservices, for some inexplicable reason, need the same framework to work together.
@@ -1795,11 +1786,9 @@
 - [The Carcinogenic Prototype](http://blog.hedges.net/2014/04/08/4-symptoms-of-dysfunction-in-software-teams/): a prototype that the higher-ups love so much that it needs to grow fast, go wrong, and affect other systems (carcinogenic thus), all while the engineers had told and forewarned of this happening.
 - Regex substitutions: when in doubt, try `$1` first, then `\1`.
 - Google analytics allows you to measure events based on custom dimensions, which allows you to filter events by them, but you will have to tell Google that the user is in one. There can be at most 15 custom dimensions.
-- If you can hang out with two or more friends but can never hang out with just one, it means that [you don't know how to start a conversation](http://www.reddit.com/r/AdviceAnimals/comments/22padj/anyone_else_experience_this).
 - There are [reasons](http://www.reddit.com/r/Watches/comments/23iskt/lesson_on_mechanics_or_why_you_shouldnt/cgxekiw) not to change your mechanical clock around midnight. Gears can jump, and fixing that could be expensive.
 - Allie Brosh, creator of _Hyperbole and a Half_, [suffered from depression](http://m.theglobeandmail.com/life/health-and-fitness/health/meet-cartoonist-allie-brosh-an-unlikely-poster-girl-for-depression/article15190616/?service=mobile).
 - **The User Is Drunk**: design interfaces without your glasses put on. If you can't see the screen clearly, but it can still guide you through what you want to do, it is working.
-- The reason you wake up at the middle of the night after heavy drinking: alcohol does not turn into any kind of sugar. In fact, alcohol tends to induce a hypoglycemic state, which is hypothesized to be one of the reasons that drinking on an empty stomach tends to make you more inebriated--a lot of the signs of low blood sugar mimic alcohol intoxication. This is because when alcohol is metabolized, it passes off some of its chemical energy to a compound called NAD, reducing it to NADH, which the cell uses for metabolic purposes. However, when alcohol floods the liver with NADH, the relative amount of NAD available is fairly low, and this molecule is required for several of the reactions of gluconeogenesis, which is the process by which the liver creates glucose in between meals. Hence, alcohol on an empty stomach can cause low blood glucose by inhibiting the livers ability to perform gluconeogenesis. It also never acts as a "stimulant" in any way. It is eventually metabolized to acetic acid, which is not a stimulant.
 - That "thumb guy" from the Fallout series is drawn measuring the size of a mushroom cloud from a nuclear bomb.
 - When the length of your secret is known, the [length extension attack](http://en.wikipedia.org/wiki/Length_extension_attack) can be targeted towards your message, which is hashed together with your secret. [Because we know the length of the message, we also know the length of the padding that was used](http://crypto.stackexchange.com/questions/3978/understanding-a-length-extension-attack) and apparently that can be used to forge keys that protect the message.
 - Things that look like something else: [Pareidolia](http://www.reddit.com/r/pareidolia) (pa-re-idol-lia)

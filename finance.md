@@ -1,5 +1,6 @@
+- [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall): if you suddenly hit the jackpot and end up with a lot of money, congratulations! Read the link! (I didn't read it.)
 - **Sales are proof-of-concept**. Sales are the fact that you can make up your opinion, but you can't make up your own facts. Your opinion is, "I think I have something." **Sales is, "I know I have something."** - Daymond, same kind of shark
-- [The average tech guy in Toronto earns $100k a year](https://www.theglobeandmail.com/business/careers/article-tech-salary-growth-in-toronto-outpaces-most-global-hubs/). That is lower than global averages.
+- [The average tech guy in Toronto earns \$100k a year](https://www.theglobeandmail.com/business/careers/article-tech-salary-growth-in-toronto-outpaces-most-global-hubs/). That is lower than global averages.
 - A [double-entry bookkeeping system](https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system) insists that money has to go from one place to another. Every dollar has to come from somewhere, and go somewhere. That way if you try to do "rounding error"-type tricks, one side (either you or the store) will get less money.
 - Holding cash pro: purchasing power. Holding cash con: inflation.
 - When investing, doing nothing is sometimes, maybe even often, doing the right thing.
