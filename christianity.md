@@ -1,3 +1,4 @@
+- [Christian Atheist](https://en.wikipedia.org/wiki/Christian_atheism), a real thing because a wiki exists: people who follow the teachings of Christ, but reject other supernatural stuff.
 - Any book containing the book of psalms can technically be called a [psalter](https://en.wikipedia.org/wiki/Psalter). Usually it requires the book of psalms to be the main book in the volume, though.
 - There are many covenants ("agreements"). The one that they talked about in the old testament, was about [offerings](https://www.mechon-mamre.org/p/pt/pt0220.htm#22) in exchange for getting the people out of Egypt.
 - The Vatican ruled that [their daily bread must contain at least some gluten](https://www.rt.com/viral/395810-gluten-free-holy-bread/), just as their wine must be made from unsoured grapes, both for reasons they can probably explain.

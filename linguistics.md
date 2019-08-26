@@ -1,5 +1,6 @@
+- "Alphabet" is literally alpha + bet(a), the two first letters of the Greek alphabet (heh), which was [the first (?)](https://www.youtube.com/watch?v=yPrcfawo9UM) set to have vowels.
 - "To leave no stone unturned" is an idiom that means to do everything possible to find something or to solve a problem (as opposed to a reversi game).
-- [*Prima donna*](https://en.wikipedia.org/wiki/Prima_donna), "first lady", refers to an (Italian) opera's lead female singer.
+- [_Prima donna_](https://en.wikipedia.org/wiki/Prima_donna), "first lady", refers to an (Italian) opera's lead female singer.
 - Both "fired" and "sacked" came from the carpentry industry. A carpenter to be given the sack is to be told to pack up and leave. To fire a carpenter, you set his tools on fire, making him unable to work.
 - _Ausgezeichnet_ (OWS-guh-z-EYE-k-net) means excellent.
 - "Making a killing" is deliberately the opposite of "making a living".

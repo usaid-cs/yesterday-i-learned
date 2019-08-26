@@ -1,3 +1,4 @@
+- On [1931-09-18](https://zh.wikipedia.org/zh-tw/%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E8%AE%8A), when Japan decided to invade Northeastern China, a [張學良](https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AD%A6%E8%89%AF) said: "無論日人如何受尋事，須萬分容忍，不與抵抗，以免事態擴大。" ("no matter what the Japanese do / look for, we need to tolerate, to avoid making this huge").
 - [HMS Hood](https://en.wikipedia.org/wiki/HMS_Hood) was Britain's flagship. It was perceived as invincible. In the battle with [Germany's Bismarck](https://en.wikipedia.org/wiki/German_battleship_Bismarck), it "was struck by several German shells, exploded, and sank within 3 minutes."
 - The Celts [ran europe](https://www.reddit.com/r/MapPorn/comments/ctefcy/the_celts_50058_bc_3958x2974_oc/) before Jesus was born.
 - [Johnny Appleseed](https://en.wikipedia.org/wiki/Johnny_Appleseed) (not his real name) was a real person. He introduced apple seeds to the east coast.

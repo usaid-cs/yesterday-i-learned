@@ -1,3 +1,4 @@
+- Aerogel [sounds like metal](https://www.youtube.com/watch?v=GcdB5bFwio4) when dropped.
 - Jupiter's red spot is about the size of the Earth. It has 79 moons, more than the sun has planets. Inside Jupiter you can find [gaseous hydrogen, liquid hydrogen, and metallic hydrogen layers](https://en.wikipedia.org/wiki/Jupiter#/media/File:Jupiter_diagram.svg).
 - [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy) is a specific term describing quantum computers being able to do work better than normal ones.
 - In free space, teleportation _appears_ the same as travelling at the speed of light. In real life, teleportation has the advantage of being able to enter closed spaces.
@@ -23,7 +24,7 @@
 - The unit Kelvin does not come with the word "degrees" because it is considered absolute. Also, Since the triple point of water is at 273.16K but 0 degrees Celsius is 273.15K, [water actually boils at 99.974 degrees Celsius](https://www.youtube.com/watch?v=rjht4oAByCI).
 - For paranoid people who think [people can see them through walls](https://www.youtube.com/watch?v=kBFMsY5ZP0o), [EMF shielding paints](https://lessemf.com/paint.html) is for you!
 - [Cold fusion exists](https://www.youtube.com/watch?v=aDfB3gnxRhc). Muons ("heavy electrons") hold nuclei 200x closer together, making them much more likely to fuse, which means it can occur at room temperature. Unfortunately the input energy to generate a muon is still higher than the energy you get back from fusion, so it's still useless right now.
-- Drag has a square relationship with velocity. This makes "making a huge gun that shoots people into space" inpractical.
+- Drag has a square relationship with velocity. This makes "making a huge gun that shoots people into space" impractical.
 - Uranus (the 7th planet) is larger but lighter than Neptune (the 8th planet).
 - The original frequency of a signal is the fundamental frequency. Slight distortions of the original signal may also cause harmonic signals to be present. For example, if the fundamental frequency is 2 kHz, then the second harmonic signal would be 4 kHz and the third harmonic signal would be 6 kHz. etc.
 - A Decibel (dB) (`10⋅log₁₀(Power out/Power in)`) is indeed a deci of a Bel, which was named after a guy with the last name Bell.
