@@ -1,3 +1,4 @@
+- Because Greenwich is (lat, 0), longitude goes from -180 to 180, not 0 to 360.
 - The blue Danube (*Danu* being "river" in ancient languages) flows from Germany all the way east into the black sea.
 - If you look closely, you can see a tiny bump out of France's waist, called [Savoy](https://en.wikipedia.org/wiki/Savoy). It really is pronounced Savoy.
 - A woman who lives in [Hamburg](https://en.wikipedia.org/wiki/Hamburg), Germany is a _Hamburgerin_.

@@ -51,7 +51,6 @@
 - [css.md](css.md)
 - [docker.md](docker.md)
 - [erlang.md](erlang.md)
-- [flask.md](flask.md)
 - [git.md](git.md)
 - [go.md](go.md)
 - [ham-radio.md](ham-radio.md)
@@ -72,6 +71,7 @@
 - [php.md](php.md)
 - [python.md](python.md)
 - [python-django.md](python-django.md)
+- [python-flask.md](python-flask.md)
 - [ruby.md](ruby.md)
 - [rust.md](rust.md)
 - [scss.md](scss.md)
@@ -104,7 +104,7 @@
 
 # Contributing
 
-Wooo 35 stars
+Wooo 39 stars
 
 If you have any **one-liner** cool facts that aren't already here, submit a PR so we both learn! Include your citations inline as link(s).
 

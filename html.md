@@ -23,11 +23,6 @@
 - A `<button>` with undeclared `type` apparently defaults to a submit button.
 - [You can define your own tags](http://stackoverflow.com/questions/9845011/are-custom-elements-valid-html5/9845124#9845124). They just need at least one dash in the tag name, e.g. `<x-hello>`, `<md-tag>`, `com-foo`.
   The key function here is [`var XFoo = document.registerElement('x-foo');`](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-
-```
-Content-Security-Policy: default-src *; script-src assets-cdn.github.com www.google-analytics.com collector-cdn.github.com; object-src assets-cdn.github.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' assets-cdn.github.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.githubusercontent.com *.gravatar.com *.wp.com; media-src 'none'; frame-src 'self' render.githubusercontent.com gist.github.com www.youtube.com player.vimeo.com checkout.paypal.com; font-src assets-cdn.github.com; connect-src 'self' ghconduit.com:25035 live.github.com uploads.github.com s3.amazonaws.com
-```
-
 - In Chrome, `<img>` tags with no `src` have a [grey border](http://stackoverflow.com/questions/10848722/google-chrome-images-have-border) that does not go away with any amount of CSS.
 - [Void tags are `<foo>`](https://github.com/w3c/webcomponents/issues/624#issuecomment-385304654), and self-closing tags are `<foo />`.
 - HTML5 allows closing tags to be omitted where the semantics are obvious, for example, `li` in `ul`, or `option` in `optgroup`. Then again, your colleagues will kill you, so it is not a usable part of the spec.
