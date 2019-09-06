@@ -1,5 +1,7 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- "rc" stands for ["run commands"](https://en.wikipedia.org/wiki/Run_commands). It doesn't really make sense now.
+- ["If your daemon is spawning children that become zombies, you have a bug"](https://stackoverflow.com/a/16944931/1558430)
 - Convert youtube to mp3 without relying on anyone else: get `youtube-dl` from pip (`sudo pip install -U youtube-dl`), NOT your package manager. Then get the file with `youtube-dl -x --embed-thumbnail --audio-format mp3 https://www.youtube.com/watch?v=foobarbazqux`.
 - Find largest files: [`sudo du -a / 2>/dev/null | sort -n -r | head -n 20`](https://www.cyberciti.biz/faq/linux-find-largest-file-in-directory-recursively-using-find-du/). There is no way around needing the stderr redirect.
 - To find and delete files older than (say 5) days, use [`find whatever*pattern -mtime +5 -exec rm {} \;`](https://askubuntu.com/questions/589210/removing-files-older-than-7-days/589224). No one will tell you [why the `\;` (space and all) is required](https://unix.stackexchange.com/questions/12902/how-to-run-find-exec).
@@ -288,3 +290,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 ))  # 20`
 - The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
 - `while ();` is an infinite loop.
+- You _pipe_ to programs, and _redirect_ to streams (including files).

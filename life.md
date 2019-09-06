@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- "Don't talk about what you have done or what you are going to do." - Thomas Jefferson
 - Remain calm in stressful situations. Goldie Hawn said: "The ability to remain calm and focused in stressful situations is central to making positive decisions."
 - Don't argue with someone who entered the argument with the mindset that their opinion is obviously right, or that your opinion is stupid. Anyone like that will not be listening to you. They are not worth your time.
 - Do not trash your relatives in front of your kids. [They remember.](https://www.reddit.com/r/science/comments/cm9knd/warning_to_adults_children_notice_everything/) [Everything.](https://news.osu.edu/warning-to-adults-children-notice-everything/)

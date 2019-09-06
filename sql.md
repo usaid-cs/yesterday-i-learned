@@ -99,7 +99,7 @@
 - Adding a [`DEFERRABLE` constraint](https://hashrocket.com/blog/posts/deferring-database-constraints) allows that same constraint to be changed within a transaction. A `DEFERRABLE` constraint can also be `DEFERRABLE INITIALLY IMMEDIATE`, which means the constraint will be enforced right after that statement, or `DEFERRABLE INITIALLY DEFERRED`, which means the constraint will not check anything until the transaction is committed.
 - To update only some of the objects you select, use a subselect: `UPDATE your_table ... WHERE (conditions) AND your_table.id = ANY(SELECT id from your_table ORDER BY random() WHERE (same conditions outside) LIMIT 10000)`. Now you only update 10000 of your rows.
 - You can [restrict a column's contents to a set of enumerated values](https://stackoverflow.com/questions/7250939/in-postgres-how-do-you-restrict-possible-values-for-a-particular-column) using `ALTER TABLE foo ADD CONSTRAINT check_name CHECK (column IN ('bar', 'baz'));`.
-- Make the current *session's' process* sleep with [`pg_sleep(seconds)`](https://www.postgresql.org/docs/9.0/functions-datetime.html).
+- Make the current _session's' process_ sleep with [`pg_sleep(seconds)`](https://www.postgresql.org/docs/9.0/functions-datetime.html).
 
 ## Performance
 
@@ -184,6 +184,7 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
   - have an index on a field, and search for exactly that field, or
   - query with all keys when you build a multi-field index, or
   - never update anything. MongoDB misses documents if you update some while you read the same table (if they can be so called).
+- Well don't actually connect to mongodb directly, use an ORM: [`npm install mongodb mongoose`](https://www.npmjs.com/package/mongoose)
 
 # SQLite3
 

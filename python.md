@@ -540,3 +540,6 @@ bar
 - `int()` takes a base, i.e. `int('0b10000', 2)`.
 - You [cannot](scripts/py3.5-await-outside-async.py) await anything inside a non-async function.
 - "A lot of things are implicit in python. Like variable declarations. Referring to PEP20 isn't an argument, and blindly making everything explicit would be stupid." - [Rawing7](https://www.reddit.com/r/Python/comments/9u3kop/why_does_pythons_async_execution_model_so/e91fkwl/)
+- In SQLAlchemy, to define a column with a python-side "default", use the keyword `default`. To define a column that the database server knows is the default, use [`database_default`](https://docs.sqlalchemy.org/en/13/core/defaults.html).
+- It looks like you shouldn't do `str(some_bytes)` and `str(some_bytearray)`. [`python3 -b`](https://docs.djangoproject.com/en/2.2/releases/2.0/#removed-support-for-bytestrings-in-some-places) tells you that's not a good thing.
+- Use [pipdeptree](https://pypi.org/project/pipdeptree/) to a. find out your dependencies as a tree, and find out why you have a package installed (as which packages' dependency).

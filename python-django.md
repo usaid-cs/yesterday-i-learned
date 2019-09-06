@@ -8,7 +8,7 @@
 - Every `<Model>.objects` is just a [subclass of] `models.Manager()`. And you can extend `models.Manager`. Make your own `objects` by subclassing it.
 - [Django never stores timezones in the database.](https://docs.djangoproject.com/en/1.8/topics/i18n/timezones/) The `USE_TZ` setting is only good for converting these UTC times to the site user's local time.
 - To filter by any django model field, use the [`DjangoFilterBackend`](http://stackoverflow.com/a/2137652)
-- All unsaved models (`pk=None`) of the same type hash to the same thing, because it is technically correct. Do not store them with `set` -- they will just go away.
+- All unsaved models (`pk=None`) of the same type hash to the same thing, because it is technically correct. Do not store them in a `set` -- they will just go away.
 - When you change a DB field to a computed field (`@property`), you can specify `db_field` to keep it pointing to the original column name: http://stackoverflow.com/a/12358707/1558430
 - Model field defaults can be a callable (function), but the function takes in nothing, so it is really only good for dates and times.
 - Instead of making another Query just to fetch the same object again, there already is an [`obj.refresh_from_db()`](https://docs.djangoproject.com/en/1.9/ref/models/instances/#django.db.models.Model.refresh_from_db) available.
@@ -131,6 +131,8 @@ All tables read by that `filter()` will be locked and be exclusive to this query
 
 #### `__in` queries don't preserve order
 
+i.e. `Foo.objects.filter(id__in=[1,2,3])` doesn't necessarily give you `Foo(id=1)`, `Foo(id=2)`, `Foo(id=3)`, in that order.
+
 Use [`in_bulk`](https://docs.djangoproject.com/en/1.8/ref/models/querysets/#in-bulk) instead, which is also unordered, but at least returns a `dict` so you can re-order it to your liking back to a `list`.
 
 #### Filtering by how many other foreign keys an object has
@@ -185,6 +187,12 @@ rather than
 But `re.RegexFlag` was added in python3.6, so you cannot run this migration in python3.5 anymore.
 
 Just replace `re.RegexFlag(...)` with the number inside (in this case, `2`).
+
+#### My project has too many migrations that touch other apps so they can't be squashed automatically
+
+Well don't make so many apps in the project. You did it to yourself, mate.
+
+[Don't put everything in a single app, either](https://hackernoon.com/0-100-in-django-starting-an-app-the-right-way-badd141ef439). If possible, assess whether you have hit the size limit for your project, i.e. make a new project.
 
 ## Views / Templating
 
@@ -277,7 +285,7 @@ This has a downside of no longer allowing the class to be referenced (as foreign
 
 ### `RelatedObjectDoesNotExist` when you try to access an attribute by `related_name`
 
-Well, here's somehow where Django decides to conform to `hasattr()`.
+Well, here's where Django suddenly decides to conform to `hasattr()`.
 
 ```
 >>> foo.ratings

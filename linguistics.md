@@ -1,3 +1,5 @@
+- Androgynous means having both male and female characteristics. There is another word for this.
+- Traditionally, [a noun precedes "(does not?) take place"](https://docs.sqlalchemy.org/en/13/core/defaults.html), i.e. "if foo is unavailable, then bar takes (foo's) place".
 - "Alphabet" is literally alpha + bet(a), the two first letters of the Greek alphabet (heh), which was [the first (?)](https://www.youtube.com/watch?v=yPrcfawo9UM) set to have vowels.
 - "To leave no stone unturned" is an idiom that means to do everything possible to find something or to solve a problem (as opposed to a reversi game).
 - [_Prima donna_](https://en.wikipedia.org/wiki/Prima_donna), "first lady", refers to an (Italian) opera's lead female singer.

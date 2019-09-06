@@ -1,5 +1,6 @@
 🇨🇦
 
+- Court-ordered [restitution](https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/restitution-dedommage.html): when you commit a crime, and now the court makes you pay the damages to the victim.
 - ["CTV"](https://en.wikipedia.org/wiki/CTV_Television_Network), owned by Bell, has never meant "Canadian television" because [CBC claims to have exclusive rights to the term "Canadian"](https://en.wikipedia.org/wiki/CTV_Television_Network#Early_years).
 - ["300,000 Canadians ... call Hong Kong home."](https://www.thestar.com/vancouver/2019/08/19/why-are-there-so-many-canadians-in-hong-kong.html) "Most Canadians living in Hong Kong were born in Hong Kong and only lived in Canada for four to five years, according to the foundation’s report."
 - It is ["strongly discouraged, but it is not illegal"](https://www.canada.ca/en/employment-social-development/programs/sin/protect.html) for private-sector organisations to ask for your SIN, for stuff like looking for a new lease on an apartment or a car.

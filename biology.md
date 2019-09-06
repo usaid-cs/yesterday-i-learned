@@ -1,3 +1,5 @@
+- When someone hits you hard in the eyes, it turns out the eyes rarely rupture, but [the thin piece of bone underneath the eyeball does](https://en.wikipedia.org/wiki/Orbital_blowout_fracture).
+- All nectarines are peaches.
 - [Cone snails](https://en.wikipedia.org/wiki/Cone_snail#Risks) (the beautiful ones you find at beaches) can have powerful, toxic harpoons that are potentially fatal if stabbed by.
 - There is [nothing wrong calorie-wise](https://www.healthline.com/nutrition/eating-before-bed) with eating right before bed, like it isn't going to convert into fat any more than if you ate during the day, but it might cause acid reflux or indigestion, both of which will prevent you from falling asleep.
 - [You can adjust your diet according to your body type](https://www.precisionnutrition.com/all-about-body-type-eating). For skinny bois, consider 55% carbs, 25% protein, and 20% fat. For strong bois, consider 40% carbs, 30% protein, and 30% fat. For fat bois, consider 25% carbs, 35% protein, and 40% fat.
