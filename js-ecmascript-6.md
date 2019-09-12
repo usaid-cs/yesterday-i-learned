@@ -28,6 +28,7 @@
 
 - The equivalent to `all()` is [`.every()`](https://zabanaa.github.io/notes/functional-programming-and-javascript-arrays.html): `let bar: boolean = array.every(x => isTrue(x))`
 - The equivalent to `any()` is [`.some()`](https://zabanaa.github.io/notes/functional-programming-and-javascript-arrays.html): `let bar: boolean = array.some(x => isTrue(x))`
+- [Use `.includes()` instead of `.indexOf()` whenever appropriate](https://dev.to/adroitcoder/includes-vs-indexof-in-javascript) because `.indexOf()` suffers from edge cases, such as `NaN`, `undefined`, `+0 / -0`, where they cannot be found even though they are in the array.
 
 ## Destructuring
 

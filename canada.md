@@ -1,5 +1,6 @@
 🇨🇦
 
+- There was a prime minister named [Brian](https://en.wikipedia.org/wiki/Brian_Mulroney), and Justin is a historical top 10 (50%) to date.
 - Court-ordered [restitution](https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/restitution-dedommage.html): when you commit a crime, and now the court makes you pay the damages to the victim.
 - ["CTV"](https://en.wikipedia.org/wiki/CTV_Television_Network), owned by Bell, has never meant "Canadian television" because [CBC claims to have exclusive rights to the term "Canadian"](https://en.wikipedia.org/wiki/CTV_Television_Network#Early_years).
 - ["300,000 Canadians ... call Hong Kong home."](https://www.thestar.com/vancouver/2019/08/19/why-are-there-so-many-canadians-in-hong-kong.html) "Most Canadians living in Hong Kong were born in Hong Kong and only lived in Canada for four to five years, according to the foundation’s report."
@@ -29,7 +30,7 @@
 - When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.
 - VRTUCAR is owned by [Communauto](https://en.wikipedia.org/wiki/Communauto), a private company headquartered in Montreal. [It is not a co-op](https://www.cbc.ca/news/canada/kitchener-waterloo/vrtucar-communauto-community-careshare-kw-waterloo-hamilton-1.4594729).
 - Bloor Street is named after [Joseph Bloore](https://en.wikipedia.org/wiki/Joseph_Bloore), who founded Yorkville.
-- In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year.
+- In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year. She lost the election because---get this---she was too honest. She said *it was unlikely that the deficit or unemployment would be much reduced before the "end of the century"*.
 - The [spousal support advisory guideline](https://www.justice.gc.ca/eng/fl-df/spousal-epoux/ssag-ldfpae.html) is just that: a guideline. It is not law and judges do not have to calculate anything for spousal payments if you get divorced.
 - According to [Global News](https://globalnews.ca/news/3828447/canada-middle-class-income-inequality/) ("$33-130k" is middle class income), anyone earning $20 an hour is middle class.
 - [Restaurant workers don't always eat at the restaurant](https://www.cbc.ca/news/canada/kitchener-waterloo/andrew-coppolino-restaurant-staff-after-hours-food-choices-1.5002223).
@@ -223,3 +224,4 @@
 - [Chartered banks](https://en.wikipedia.org/wiki/Banking_in_Canada)
 - [Public opinion](https://www.reddit.com/r/uwaterloo/comments/6lalj8/shawerma_plus_portions/) recommends shawarma wraps in this order: Lazeez, Mozys, Shawarma Plus.
 - The [Chinese immigration act of 1885](https://en.wikipedia.org/wiki/Chinese_Immigration_Act_of_1885) placed a head tax of \$50 on all Chinese immigrants coming to Canada, with the exception of "diplomats, government representatives, tourists, merchants, men of science, and students". The amount for everyone else was \$10.
+- RBC lined its [Toronto headquarters](https://en.wikipedia.org/wiki/Royal_Bank_Plaza) with glass infused with gold.

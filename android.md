@@ -6,6 +6,10 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- [`pm trim-caches 100G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 100GB free, would effectively clear all your cache.
+- To make your htop settings stick, mount `/` (not `/system`) as read-write, and then make the file `/.config/htop/htoprc`.
+- `pm list packages` got moved to `cmd package list packages`. Don't know why.
+- Staying away from Google is a [completely valid motion](https://arstechnica.com/gadgets/2018/07/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/). Lock-in in the form of vendor (closing source of killer apps so the vendors can't clone their features), apps (google play services as dependency), and APIs (fused location, maps, in-app payments, games). Article was written by Ron Amadeo.
 - "Adaptive LMK" is [based on VM pressure](http://tjtech.me/analyze-adaptive-lmk.html).
 - To start the device with adb already enabled, edit `build.prop` with a new line: `persist.sys.usb.config=mtp,adb`
 - Apps that don't need to read phone state, but request that permission anyway, are reading your IMEI number. [To uniquely track you.](https://developer.android.com/preview/privacy/data-identifiers)
@@ -35,7 +39,7 @@
 - [More people downloaded Subway Surfers than Google Calendar.](https://en.wikipedia.org/wiki/List_of_most_downloaded_Google_Play_applications)
 - From GCMod5's point of view (called `GCam5.1.014-Arnova8G2-v11.1-N.apk`), your particular device is closer to Nexus 6 than it is to Nexus 6P.
 - The Facebook Android app has [2.2 billion monthly active users](https://growthbug.com/google-play-store-data-3-7mn-36331f2c8b26), only a small percentage of which would be bots given the collection method.
-- You can `pm disable` apps or components (with root), [`pm hide` only apps](https://android.stackexchange.com/questions/128949/pm-hide-vs-pm-disable-the-identity-crisis#comment160333_128949) (no root), or `pm uninstall -k --user 0 ...` (also no root).
+- You can `pm disable` apps or components (with root), [`pm hide` only apps](https://android.stackexchange.com/questions/128949/pm-hide-vs-pm-disable-the-identity-crisis#comment160333_128949) (no root), or `pm uninstall -k --user 0 ...` (also no root, irreversible).
 - Using OpenKeychain [requires](https://www.openkeychain.org/faq/#are-my-secret-keys-safe-on-my-mobile-device) your secret key to be on your mobile device. The project knows that this is inherently less secure than if your key were stored offline in a remote bank vault.
 - 2018-04-01 LineageOS builds have [an Easter egg that a) got pushed to devices late, and b) will not disappear after April Fools day](https://www.lineageos.org/An-April-Apology/).
 - Qualcomm Quickboot is just putting the phone in a [special kind of airplane mode](https://forum.xda-developers.com/android/software/universal-quickboot-cyanogenmod-12-0-12-t3082041).
@@ -99,3 +103,4 @@
 - Since debloating a ROM doesn't resize the system partition, it is important to choose a phone (and carrier combo) that does not ship with useless junk in the first place.
 - The "shutter speed" and "aperture" settings in Android are fake. What are you, stupid? There is no shutter (apart from some of Samsung's experiments). Both settings are emulated.
 - Tasker's `%DATE` format will change depending on the system locale.
+- For some reason, qcrilmsgtunnel is responsible for _showing_ your signal icon.

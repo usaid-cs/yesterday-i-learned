@@ -99,6 +99,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - It is possible to map-annotate a (one or many)-to-many relationship using `annotate(singular_relation=F('plurals_relation'))`; each object gets at most one plurals relation annotated.
 - In an M2M field, it doesn't matter how many things you have there... if you do `print(foo.bars)` instead of `print(foo.bars.all())`, it's always going to print `Bar.None`.
 - To order a queryset's related fields (like if you are querying users and their products, with products sorted by name), do a `Prefetch()` on those products, with `queryset=` being an ordered set of products.
+- Filtering by `Q()` does nothing, *except* if `|`ed with another `Q()`... so `Q() | Q(foo=1)` is the exact same as `Q() & Q(foo=1)`, because ["the empty Q() should not have any effect at all, whether ORed or ANDed into the query"](https://code.djangoproject.com/ticket/24279).
 
 #### Don't know what `select_related` and `prefetch_related` do
 
@@ -106,12 +107,13 @@ According to onymous internet sources,
 
 `select_related`
 
-- foreign key & one-to-one relationship
+For foreign key & one-to-one relationships
+
+If your query only retrieves a `values()` or `values_list` from a relation or annotated value (e.g. `values_list('foo__bar__baz')`), there is no need to `select_related` that field.
 
 `prefetch_related`
 
-- many-to-many and many-to-one relationship
-- generic foreign key & relationship
+For many-to-many, many-to-one, and generic foreign keys (i.e. whenever it isn't easy to do an inner join).
 
 #### Queries do crazy things when executed in parallel
 

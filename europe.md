@@ -7,10 +7,10 @@
 - The [president of Germany](https://en.wikipedia.org/wiki/President_of_Germany) signs laws and stuff, and holds "reserve powers" to allow him to enact laws without the [Bundestag](https://en.wikipedia.org/wiki/Bundestag), parliament equivalent.
 - The Cuckoo clock is a German thing. More specifically, a Southwestern Germany thing.
 - [SAP](https://en.wikipedia.org/wiki/SAP_SE) is German. They have one employee for every five customers.
-- By EU law, [Black Forest Ham](https://en.wikipedia.org/wiki/Black_Forest_ham) must come from Black Forest, Germany. It is also dry-cured, contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
+- By EU law, [Black Forest Ham](https://en.wikipedia.org/wiki/Black_Forest_ham) must come from Black Forest, Germany. It is also dry-cured (think prosciutto), contains 20% fat, and is almost never circular (but more bacon-shaped). So, the black forest ham you have been eating is not black forest ham.
 - The Great Dane is called "German Dog" in both German and French. The breed came from Greece.
 - [Norway](https://en.wikipedia.org/wiki/Norway) aka North Way is north of Suðrvegr (South Way, aka Germany).
-- There is a German saying "I'm too poor to buy cheap" "Ich bin zu arm, um billig zu kaufen"
+- There is a German saying "I'm too poor to buy cheap" *Ich bin zu arm, um billig zu kaufen*
 - [Germany normally doesn't tolerate dual citizenship](https://en.wikipedia.org/wiki/German_nationality_law#Dual_citizenship), except for the EU, Switzerland, and countries of origin do not allow them to renounce their citizenship, like Iran, Algeria, and Syria. Also, TIL some countries don't let you renounce your citizenship.
 - The "coat of arms of [the German Emperor](https://en.wikipedia.org/wiki/William_I,_German_Emperor) with crest" of 1871 had a shocking [**58**](https://upload.wikimedia.org/wikipedia/commons/d/d6/Wappen_Deutsches_Reich_-_Wappen_des_Kaisers_mit_Helmkleinod.svg) black eagles on it.
 - [Speibecken](http://de.wikipedia.org/wiki/Speibecken) are German Oktoberfest puke sinks. They are not only used during Oktoberfest. Speibecken conveniently translates on Google to "dining room".
@@ -18,3 +18,5 @@
 - [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.
 - There is [a hotel, a grocery store, and a souvenir shop](https://en.wikivoyage.org/wiki/Chernobyl) in Chernobyl.
 - _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
+- What's right in between England, France, and Germany? Belgium. Or the Netherlands. To immigrate to the Netherlands as a skilled worker, you need to [find an eligible sponsor company](https://ind.nl/en/Documents/Public_Register_Regular_Labour_and_Highly_Skilled_Migrants.pdf), which are not all companies there, but are quite long (127 pages).
+- [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest) starts in September.

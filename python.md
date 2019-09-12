@@ -543,3 +543,6 @@ bar
 - In SQLAlchemy, to define a column with a python-side "default", use the keyword `default`. To define a column that the database server knows is the default, use [`database_default`](https://docs.sqlalchemy.org/en/13/core/defaults.html).
 - It looks like you shouldn't do `str(some_bytes)` and `str(some_bytearray)`. [`python3 -b`](https://docs.djangoproject.com/en/2.2/releases/2.0/#removed-support-for-bytestrings-in-some-places) tells you that's not a good thing.
 - Use [pipdeptree](https://pypi.org/project/pipdeptree/) to a. find out your dependencies as a tree, and find out why you have a package installed (as which packages' dependency).
+- The trailing comma in `def foo(a,b,)` is valid in python3.5, but in [`def foo(*,a,b,)`, it is not](https://bugs.python.org/issue9232#msg110089)... at least not until 3.6.
+- The difference between `str(a)` and `a.__str__()` is [the former calls `type(a).__str__(a)`](https://stackoverflow.com/a/41168971/1558430)... in case you deliberately monkey patch `a`'s `__str__`.
+- [`py.test` is the old `pytest`](https://stackoverflow.com/questions/39495429/py-test-vs-pytest-command). You should not use it anywhere.

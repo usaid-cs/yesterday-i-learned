@@ -1,3 +1,4 @@
+- Taipei is surrounded by a city called [New Taipei](https://en.wikipedia.org/wiki/New_Taipei_City).
 - Because Greenwich is (lat, 0), longitude goes from -180 to 180, not 0 to 360.
 - The blue Danube (*Danu* being "river" in ancient languages) flows from Germany all the way east into the black sea.
 - If you look closely, you can see a tiny bump out of France's waist, called [Savoy](https://en.wikipedia.org/wiki/Savoy). It really is pronounced Savoy.
@@ -59,3 +60,4 @@
 - [Doubly-landlocked](https://en.wikipedia.org/wiki/Landlocked_country#Doubly_landlocked) countries are landlocked by landlocked countries. There are currently only two countries in this category: Liechtenstein and Uzbekistan.
 - [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) and [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates) are not the same countries. Saudi Arabia is the big one. UAE is a bit more to the east. Both are a huge expanse of almost nothing.
 - [Maryland has no natural lakes](https://msa.maryland.gov/msa/mdmanual/01glance/html/lakes.html).
+- [St Pierre and Miquelon](https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon), tiny pair of islands with a population of 6,008, have four primary schools, one middle school, and two high schools.

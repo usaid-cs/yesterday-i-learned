@@ -1,3 +1,10 @@
+## Not actually linguistics
+
+> the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
+
+- In German, [*kein/keine*](https://en.wiktionary.org/wiki/kein) seems to be a single word for "not a". *Ich bin kein Berliner*: I am not a Berliner.
+- "It is something we continue to consider" means "stop asking, it's not happening".
+- In Dutch, "ij" is [a digraph](https://en.wikipedia.org/wiki/IJ_%28digraph%29) (two letters used together to make one letter), sometimes stylised as a slit U.
 - Androgynous means having both male and female characteristics. There is another word for this.
 - Traditionally, [a noun precedes "(does not?) take place"](https://docs.sqlalchemy.org/en/13/core/defaults.html), i.e. "if foo is unavailable, then bar takes (foo's) place".
 - "Alphabet" is literally alpha + bet(a), the two first letters of the Greek alphabet (heh), which was [the first (?)](https://www.youtube.com/watch?v=yPrcfawo9UM) set to have vowels.
