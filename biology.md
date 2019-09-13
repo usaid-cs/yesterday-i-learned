@@ -1,3 +1,6 @@
+- Humans account for 8% of animal biomass, and [36 percent of the mammal biomass. Domesticated livestock, mostly cows and pigs, account for 60 percent, and wild mammals for only 4 percent](https://www.ecowatch.com/biomass-humans-animals-2571413930.html).
+- Drinking three glasses of milk or more [doubles mortality](https://health.clevelandclinic.org/can-drinking-too-much-milk-make-your-bones-more-brittle/) in some conditions. "The authors note that [D-galactose](https://en.wikipedia.org/wiki/Galactose#Clinical_significance), found in milk, has been shown to induce oxidative stress damage and chronic inflammation in animals, and such changes have been associated with cardiovascular disease, cancer, bone loss, and muscle loss in humans."
+- Vaping makes you sick because [you breathe in oil](https://www.cbc.ca/news/health/e-cigarette-vaping-illness-explainer-1.5280386), and lungs don't like oil.
 - When someone hits you hard in the eyes, it turns out the eyes rarely rupture, but [the thin piece of bone underneath the eyeball does](https://en.wikipedia.org/wiki/Orbital_blowout_fracture).
 - All nectarines are peaches.
 - [Cone snails](https://en.wikipedia.org/wiki/Cone_snail#Risks) (the beautiful ones you find at beaches) can have powerful, toxic harpoons that are potentially fatal if stabbed by.

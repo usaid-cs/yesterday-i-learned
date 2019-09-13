@@ -1,3 +1,7 @@
+- Excel for Windows started dates from 1900. [Excel for Mac started dates from 1904.](https://support.microsoft.com/en-ca/help/214330/differences-between-the-1900-and-the-1904-date-system-in-excel) So now when you open a spreadsheet, any date can be four years off.
+- D-bus (desktop bus) is an RPC protocol.
+- You can't clone your credit card's NFC RFID. The payment machine needs send it a challenge. Your phone doesn't know the response.
+- You use libraries. Frameworks tell you how to use it. Upside of frameworks: structure and order. Downside of frameworks: you likely can't swap out a framework. You may upgrade a framework, but you usually can't swap one out for another. See: AngularJS.
 - [Prophet Joseph Smith](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89.5-7?lang=eng#p4) said (verily unto them) Mormons can't drink [alcohol](https://www.lds.org.uk/why-mormons-dont-drink-alcohol-tea-and-coffee), "hot drinks" like coffee and tea, but _herbal tea is ok_, and caffeine is also ok.
 - Music at 192kbps is about 2GB per day.
 - 9 out of 10 of the largest pharma companies [spend more on marketing than R&D](https://www.washingtonpost.com/news/wonk/wp/2015/02/11/big-pharmaceutical-companies-are-spending-far-more-on-marketing-than-research/).
@@ -10,7 +14,7 @@
 - [Bookkeepers work under accountants](https://www.skillsacademy.co.za/senior-bookkeeper/), and, in general, the finance department. *Senior* bookkeepers can also work on payroll. Accountants [plan out what bookkeepers will record](http://www.stasuik.com/what-is-the-difference-between-an-accountant-and-a-bookkeeper/), as well as manage the process used to monitor business activities. So, in a way, bookkeepers are accountants that didn't do CPA.
 - Closets are fixed, full-height clothing containers. Wardrobes are portable, full-height clothing containers. Dressers are half-height clothing containers.
 - When it comes to sealing letters, [the type of wax you use makes a difference](https://www.reddit.com/r/coolguides/comments/cx7e1l/guide_to_sealing_wax_etiquette/). Red seals mean formal business (the usual kind), black wax is for death and other types of mourning, green is for casual stuff, pink is for congratulations, white is for wedding invitations, and blue means romance and passion. Sealing wax is not wax. [It is shellac](https://youtu.be/xxb-XqsgaqM).
-- Turns out you can never ask others [how to be a good wife/mother/daughter in law](https://www.zhihu.com/question/343092533). It's not possible to get a straight answer, even if you were a woman. Everyone says you are holding yourself hostage. No one will tell you how to be a good anything. You just have to guess. Anyway, the answer to being a good husband (because for some reason *that's* okay to share) is: "有钱，足以养活老婆一家的，让他们全在家歇着，你一个人养活他们，家务全包，孩子自己带，还不说一句怨言。女人都想要这样的。"
+- Turns out you can never ask others [how to be a good wife/mother/daughter in law](https://www.zhihu.com/question/343092533). It's not possible to get a straight answer, even if you were a woman. Everyone says you are holding yourself hostage ("道德绑架", moral coercion). No one will tell you how to be a good anything. You just have to guess. Anyway, the answer to being a good husband (because for some reason *that's* okay to share) is: "有钱，足以养活老婆一家的，让他们全在家歇着，你一个人养活他们，家务全包，孩子自己带，还不说一句怨言。女人都想要这样的。"
 - [About a quarter of Okinawa is used to host US army bases](https://www.youtube.com/watch?v=A0qt0hdCQtg).
 - Home gyms appeal to those who a) have a home, and b) don't have time to go to the gym. *Dads*.
 - On ["token auth" vs "JWT token auth"](https://stackoverflow.com/a/40495728/1558430), it just seems to be that JWT tokens have automatic expiry dates. This causes JWT auths to end up having session-like characteristics.
@@ -2400,3 +2404,4 @@
 - New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
 - The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
 - The less memory there is, each address *should* be faster to access.
+- 诸葛亮 isn't actually known for fighting.

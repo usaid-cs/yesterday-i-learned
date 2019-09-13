@@ -1,3 +1,4 @@
+- The US does not have an official language. [Nor does Australia](https://www.triviagenius.com/countries-without-national-languages/). Fun fact: the [UK's official language is not English either](https://www.englishlanguagefaqs.com/2016/08/why-is-english-not-official-language-of.html) - it's none.
 - "Marine One" is [the callsign of the helicopter operator that is carrying the president](https://www.youtube.com/watch?v=YJRqB1xtIxg), not a particular aircraft.
 - Homeschooling typically requires a degree of some sort, like GED. This is not true in some states.
 - Statistically, [slightly more than one person dies everyday from a US mass shooting](https://gfycat.com/PartialThunderousHerculesbeetle) 2014 to 2018. So, assuming everyone lives to 80 years, your chances of dying from a mass shooting in the US is _only_ 0.01%!

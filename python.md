@@ -546,3 +546,4 @@ bar
 - The trailing comma in `def foo(a,b,)` is valid in python3.5, but in [`def foo(*,a,b,)`, it is not](https://bugs.python.org/issue9232#msg110089)... at least not until 3.6.
 - The difference between `str(a)` and `a.__str__()` is [the former calls `type(a).__str__(a)`](https://stackoverflow.com/a/41168971/1558430)... in case you deliberately monkey patch `a`'s `__str__`.
 - [`py.test` is the old `pytest`](https://stackoverflow.com/questions/39495429/py-test-vs-pytest-command). You should not use it anywhere.
+- If your function says it takes in an `Enum`, then (according to mypy) [no matter what the value is, you need to supply it from an Enum](scripts/enum_test.py).

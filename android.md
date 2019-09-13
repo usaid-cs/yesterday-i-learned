@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Put `debug.hwui.renderer=skiagl` in your build.prop to make things glitch out faster.
 - [`pm trim-caches 100G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 100GB free, would effectively clear all your cache.
 - To make your htop settings stick, mount `/` (not `/system`) as read-write, and then make the file `/.config/htop/htoprc`.
 - `pm list packages` got moved to `cmd package list packages`. Don't know why.

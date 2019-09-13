@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- It is [possible](https://www.reddit.com/r/ottawa/comments/d3gnr4/i_got_my_porsche_today/f034lnl/) to configure a Toyota sienna that is more expensive than a Porsche (718 Cayman).
 - In the 1980s, [speedometers were capped at 85mph](https://en.wikipedia.org/wiki/National_Maximum_Speed_Law#Speedometers) (about 140km/h) in America because of a law that passed there. It was repealed because it was dumb.
 - The average vehicle in Canada does [15Mm per year](https://www.ahainsurance.ca/car-insurance/average-mileage-per-year-canada/), which means each needs 20 years to reach the 300Mm mark.
 - If you anticipate an event where your new vehicle might get totalled, get [GAP insurance](https://www.thinkinsure.ca/insurance-help-centre/gap-insurance.html). GAP insurance pays off the difference between (how much you still need to pay off the car) and (how much your insurance says your car is worth, which is less). For example, if you buy a $50000 car, and you drive it off the lot (which makes it worth $30000) but totalled it right outside the dealership, GAP insurance pays you that \$20000, and you end up with no car and no debt.
