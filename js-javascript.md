@@ -90,6 +90,7 @@ return function IndexError(msg) {
 - ~~[No such thing as tail call optimization](http://stackoverflow.com/questions/3660577/are-any-javascript-engines-tail-call-optimized)... not one that works, anyway~~ES6 has tail call optimisation.
 - [Trampolines](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
 - `undefined == null` === `true`. Die in a fire, JS!
+- `null >= null` and `null <= null` are both true. Maybe they compare loosely. Ah but get this. `undefined >= undefined` and `undefined <= undefined` are both false.
 - [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
 - CORS is not supported before IE8; hence JSONP.
 - `$.each(string)` [stopped working](http://stackoverflow.com/questions/20075938/jquery-each-to-iterate-over-a-string-in-newer-versions). Now you will need to split the string first.

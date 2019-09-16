@@ -58,7 +58,7 @@
       }
     }, 0);
   }
-  window.doSearch = doSearch;
+  window.doSearch = _.debounce(doSearch, 500);
 
   function fillRandomFact() {
     if (!(facts && facts.length)) return;
