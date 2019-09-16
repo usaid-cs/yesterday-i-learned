@@ -547,3 +547,4 @@ bar
 - The difference between `str(a)` and `a.__str__()` is [the former calls `type(a).__str__(a)`](https://stackoverflow.com/a/41168971/1558430)... in case you deliberately monkey patch `a`'s `__str__`.
 - [`py.test` is the old `pytest`](https://stackoverflow.com/questions/39495429/py-test-vs-pytest-command). You should not use it anywhere.
 - If your function says it takes in an `Enum`, then (according to mypy) [no matter what the value is, you need to supply it from an Enum](scripts/enum_test.py).
+- Strings' `.zfill(pad)`, which pads your strings with zeros on the left until you get a length of (pad), is basically a coding contest method for when you need to generate a fixed-length binary string from `bin()`.

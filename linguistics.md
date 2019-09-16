@@ -2,7 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
-- In German, [*kein/keine*](https://en.wiktionary.org/wiki/kein) seems to be a single word for "not a". *Ich bin kein Berliner*: I am not a Berliner.
+- The British and American do it differently when it comes to [quotation marks containing periods, question marks, and exclamation (marks/points)](https://www.quickanddirtytips.com/education/grammar/how-to-use-quotation-marks). The Americans put periods inside, while British can be either. If anyone is pedantic enough to object to one or the other, claim to be a programmer and put it outside.
+- In German, [_kein/keine_](https://en.wiktionary.org/wiki/kein) seems to be a single word for "not a". _Ich bin kein Berliner_: I am not a Berliner.
 - "It is something we continue to consider" means "stop asking, it's not happening".
 - In Dutch, "ij" is [a digraph](https://en.wikipedia.org/wiki/IJ_%28digraph%29) (two letters used together to make one letter), sometimes stylised as a slit U.
 - Androgynous means having both male and female characteristics. There is another word for this.
