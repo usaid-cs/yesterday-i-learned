@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session.
 - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English
 ), a subset of standard English that is [grammatically formal](https://en.wikipedia.org/wiki/Formal_language), was invented by the University of Zurich in 1995, and is still being updated today.
 - The British and American do it differently when it comes to [quotation marks containing periods, question marks, and exclamation (marks/points)](https://www.quickanddirtytips.com/education/grammar/how-to-use-quotation-marks). The Americans put periods inside, while British can be either. If anyone is pedantic enough to object to one or the other, claim to be a programmer and put it outside.
