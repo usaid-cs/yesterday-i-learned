@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- Trucks usually have bed lights.
 - It is [possible](https://www.reddit.com/r/ottawa/comments/d3gnr4/i_got_my_porsche_today/f034lnl/) to configure a Toyota sienna that is more expensive than a Porsche (718 Cayman).
 - In the 1980s, [speedometers were capped at 85mph](https://en.wikipedia.org/wiki/National_Maximum_Speed_Law#Speedometers) (about 140km/h) in America because of a law that passed there. It was repealed because it was dumb.
 - The average vehicle in Canada does [15Mm per year](https://www.ahainsurance.ca/car-insurance/average-mileage-per-year-canada/), which means each needs 20 years to reach the 300Mm mark.

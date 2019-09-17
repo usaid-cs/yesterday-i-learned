@@ -1,5 +1,6 @@
 🇨🇦
 
+- Dundas and Sherbourne is packed with action. There you once saw someone being tackled by the police from 3m away.
 - There was a prime minister named [Brian](https://en.wikipedia.org/wiki/Brian_Mulroney), and Justin is a historical top 10 (50%) to date.
 - Court-ordered [restitution](https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/restitution-dedommage.html): when you commit a crime, and now the court makes you pay the damages to the victim.
 - ["CTV"](https://en.wikipedia.org/wiki/CTV_Television_Network), owned by Bell, has never meant "Canadian television" because [CBC claims to have exclusive rights to the term "Canadian"](https://en.wikipedia.org/wiki/CTV_Television_Network#Early_years).
@@ -30,7 +31,7 @@
 - When the region of Waterloo says [we'll help pay 5% of your house](https://www.reddit.com/r/waterloo/comments/b5iooh/has_anyone_used_the_region_of_waterloo_affordable/), they mean they want to have 5% stake in your house. It can be a good thing (if you're poor and just want a place to live) or a bad thing (if you're rich and want to be richer), so this is a very good system.
 - VRTUCAR is owned by [Communauto](https://en.wikipedia.org/wiki/Communauto), a private company headquartered in Montreal. [It is not a co-op](https://www.cbc.ca/news/canada/kitchener-waterloo/vrtucar-communauto-community-careshare-kw-waterloo-hamilton-1.4594729).
 - Bloor Street is named after [Joseph Bloore](https://en.wikipedia.org/wiki/Joseph_Bloore), who founded Yorkville.
-- In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year. She lost the election because---get this---she was too honest. She said *it was unlikely that the deficit or unemployment would be much reduced before the "end of the century"*.
+- In the year of 1993, [there was a female prime minister](https://en.wikipedia.org/wiki/Kim_Campbell) who remained so for less than a year. She lost the election because---get this---she was too honest. She said _it was unlikely that the deficit or unemployment would be much reduced before the "end of the century"_.
 - The [spousal support advisory guideline](https://www.justice.gc.ca/eng/fl-df/spousal-epoux/ssag-ldfpae.html) is just that: a guideline. It is not law and judges do not have to calculate anything for spousal payments if you get divorced.
 - According to [Global News](https://globalnews.ca/news/3828447/canada-middle-class-income-inequality/) ("$33-130k" is middle class income), anyone earning $20 an hour is middle class.
 - [Restaurant workers don't always eat at the restaurant](https://www.cbc.ca/news/canada/kitchener-waterloo/andrew-coppolino-restaurant-staff-after-hours-food-choices-1.5002223).

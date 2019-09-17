@@ -548,3 +548,4 @@ bar
 - [`py.test` is the old `pytest`](https://stackoverflow.com/questions/39495429/py-test-vs-pytest-command). You should not use it anywhere.
 - If your function says it takes in an `Enum`, then (according to mypy) [no matter what the value is, you need to supply it from an Enum](scripts/enum_test.py).
 - Strings' `.zfill(pad)`, which pads your strings with zeros on the left until you get a length of (pad), is basically a coding contest method for when you need to generate a fixed-length binary string from `bin()`.
+- You can inline `try` and `except`, i.e. `try: print(1); print(1/0)`, but there is no C-style syntax to turn that into a multi-line statemnet, e.g. `try: (print(1); \n print(1/0))` (considered a semicolon-separated tuple), `try: {print(1); \n print(1/0)}` (considered a semicolon-separated set), `try: (print(1), \n print(1/0))` (it's a valid tuple, but you can't ever have a statement in it).

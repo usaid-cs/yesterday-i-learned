@@ -60,3 +60,4 @@
 - Pasta dough from Northern Italy tends to have more egg.
 - [Tenderise steak with fresh pineapple juice](https://www.youtube.com/watch?v=dfjIIK6qt-g).
 - Browning your ground beef with mozzarella cheese is a perfect way to waste your mozzarella cheese.
+- Authentic _chili con carne_ does not contain beans. Ground beef cannot be used, either, as the meat used must be dried beforehand, and it is inauthentic to marinate said meat before use.

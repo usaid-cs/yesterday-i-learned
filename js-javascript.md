@@ -90,7 +90,6 @@ return function IndexError(msg) {
 - ~~[No such thing as tail call optimization](http://stackoverflow.com/questions/3660577/are-any-javascript-engines-tail-call-optimized)... not one that works, anyway~~ES6 has tail call optimisation.
 - [Trampolines](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
 - `undefined == null` === `true`. Die in a fire, JS!
-- `null >= null` and `null <= null` are both true. Maybe they compare loosely. Ah but get this. `undefined >= undefined` and `undefined <= undefined` are both false.
 - [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
 - CORS is not supported before IE8; hence JSONP.
 - `$.each(string)` [stopped working](http://stackoverflow.com/questions/20075938/jquery-each-to-iterate-over-a-string-in-newer-versions). Now you will need to split the string first.
@@ -224,8 +223,10 @@ undefined
 - Adding [`)]}\n`](https://groups.google.com/forum/#!topic/repo-discuss/uzr84ZGI62g) in front of every JSON request is a way to protect against XSSI, or cross-site script inclusion. This makes the payload impossible to execute if included as a script tag, but trivial to remove the prefix if the data was retrieved using XHR.
 - Use `nvm ls-remote` to find out what versions it has available to install.
 - [`null == 0` is false, `null > 0` is false, but `null >= 0` is true.](https://github.com/denysdovhan/wtfjs#comparing-null-to-0) The short explanation is: `==` will not convert `null` to a number, but `>` will (to 0). So `null` is not 0, which is true; `+null` is 0, which is not greater than 0; and `>=`, which is internally just `<`, converts the expression to `!(+null < 0)`, which is `!false`, aka `true`.
+- `null >= null` and `null <= null` are both true (the effective comparison, after type coersion, is `0 >= 0`). Maybe they compare loosely. Ah but get this. `undefined >= undefined` and `undefined <= undefined` are both false, because the effective comparison is `NaN >= NaN`.
 - If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
 - Because of the unique, abusive relationship you have with JS, [`string` does not autobox completely to `String`](https://stackoverflow.com/questions/17256182/what-is-the-difference-between-string-primitives-and-string-objects-in-javascrip), and `typeof`ing the two yields different results.
+- On [why `null` is of type `object`](https://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript#comment9782995_5076962): "You may wonder why the `typeof` operator returns `'object'` for a value that is `null`. This was actually an error in the original JavaScript implementation that was then copied in ECMAScript. Today, it is rationalized that `null` is considered a placeholder for an object, even though, technically, it is a primitive value."
 
 ## Deferred API
 
