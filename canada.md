@@ -1,5 +1,6 @@
 🇨🇦
 
+- TD WebBroker charges you [commission fee for every day an order is open](https://www.reddit.com/r/CanadianInvestor/comments/8yca7e/td_webbroker_buy_order_fulfilled_over_several/): "(commission) is paid with each partial fill as at the end of the day. If you have 3 fills in the course of one day, you pay one commission. If you have 3 partial fills over the course of 3 days, you pay 3 separate commissions."
 - Dundas and Sherbourne is packed with action. There you once saw someone being tackled by the police from 3m away.
 - There was a prime minister named [Brian](https://en.wikipedia.org/wiki/Brian_Mulroney), and Justin is a historical top 10 (50%) to date.
 - Court-ordered [restitution](https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/restitution-dedommage.html): when you commit a crime, and now the court makes you pay the damages to the victim.

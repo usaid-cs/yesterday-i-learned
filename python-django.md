@@ -146,6 +146,15 @@ from django.db.models import Count, Q
 Content.objects.annotate(tp=Count('tagged_products')).filter(tp__gte=3)
 ```
 
+#### Group by how many rows have a certain value in a column
+
+```
+>>> Product.objects.values('shop_id').annotate(products=Count('shop_id')).order_by()
+<QuerySet [{'shop_id': 1, 'products': 1023870}, {'shop_id': 4, 'products': 130}]>
+```
+
+[`values()`, `annotate()`, and `order_by()` must go in that exact order.](https://stackoverflow.com/a/19102493/1558430)
+
 #### Filtering by `foo__in([1, 2,3, None])` not working
 
 [Apparently you can't?](https://stackoverflow.com/a/15366686/1558430) You need to filter the None separately.

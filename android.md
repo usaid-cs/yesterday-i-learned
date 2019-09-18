@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- You can't deny an app `android.permission.INTERNET`, even with root.
 - Put `debug.hwui.renderer=skiagl` in your build.prop to make things glitch out faster.
 - [`pm trim-caches 100G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 100GB free, would effectively clear all your cache.
 - To make your htop settings stick, mount `/` (not `/system`) as read-write, and then make the file `/.config/htop/htoprc`.
@@ -57,7 +58,9 @@
 - `adb logcat *:W` to filter at least WARN.
 - [Lots of `build.prop` entries don't do anything.](https://forum.xda-developers.com/showthread.php?t=2544330)
 - `dumpsys batterystats --reset # resets battery graph`
+- [List package permissions](https://stackoverflow.com/a/27866435/1558430): `dumpsys package com.google.android.inputmethod.latin`
 - [`pm grant com.uzumapps.wakelockdetector.noroot android.permission.BATTERY_STATS`](https://forums.androidcentral.com/moto-g-2016/700464-wakelock-detector-no-root-required.html): [`cmd appops set com.android.application WAKE_LOCK ignore`](https://www.xda-developers.com/stop-wakelocks-android-without-root/)
+- [`pm revoke com.uzumapps.wakelockdetector.noroot android.permission.BATTERY_STATS`](https://stackoverflow.com/a/31753602/1558430)
 - On the opposite (coincidentally, the same) side of the planet, [two Internet giants do mentally special things to each other on their users' phones in other to share shopping links over a chat service](https://www.reddit.com/r/oneplus/comments/7prvrj/i_looked_into_what_actually_is_being_sent_and/dsk9ykl/)
 - LG G3, G4, [_AND_ G5](https://www.reddit.com/r/Android/comments/7mmz3s/htc_and_motorola_say_they_dont_slow_old_phones/drvh082/) bootloop.
 - ShareIt, CM browser, DU battery saver, and ES file explorer are among the apps that [China uses to spy on other countries](https://www.reddit.com/r/Android/comments/7godzf/china_is_spying_through_42_apps_delete_them/dqlb3yh/).

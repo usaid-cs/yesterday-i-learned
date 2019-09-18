@@ -1,6 +1,11 @@
+- Toxicity (System of a Down) talks about [the Armenian community in LA](https://www.quora.com/What-does-the-song-Toxicity-from-System-of-a-Down-convey).
+- There is always a market for small, inexpensive houses. So the prices go up. So they stop being inexpensive houses.
+- On the day after mid-autumn festival, you 追月.
+- [Real estate](https://en.wikipedia.org/wiki/Real_estate) is property of the land, and everything on it, like buildings and immovable natural resources.
+- "EST" is always UTC-5, but "America/Toronto" is either EST or EDT, depending on the time of year.
 - 喳咋 [jaa1 jaa4] is a loanword from Portuguese.
 - Pointillism (painting with little dots of paint?) was a mocking term. Now it doesn't mock anything.
-- People go to pregnancy photoshoots?
+- People go to [pregnancy photoshoots](https://pregnantchicken.com/top-50-maternity-photoshoot-ideas/)?
 - In 7 Wonders the board game, if you have the "free building from the discard pile" power, [trade in an expensive card (esp. one you normally can't) for 3 coins](https://boardgames.stackexchange.com/a/6791), and then build it for free when you take it out of the pile.
 - Excel for Windows started dates from 1900. [Excel for Mac started dates from 1904.](https://support.microsoft.com/en-ca/help/214330/differences-between-the-1900-and-the-1904-date-system-in-excel) So now when you open a spreadsheet, any date can be four years off.
 - D-bus (desktop bus) is an RPC protocol.
@@ -1571,7 +1576,7 @@
 - "Having read the Dynamo paper, and knowing Cassandra to be a close derivative, I understood that these distributed databases prioritize write availability (Amazon wanted the "add to cart" action to never fail)."
 - [Socialites have their own tier on Tinder.](https://www.theverge.com/2017/3/7/14848286/tinder-select-exclusive-dating-app)
 - It is [much easier](https://www.youtube.com/watch?v=KP7IBUWdeZg) to go all the way around the swing set if the chains were replaced by tubes.
-- Talking to yourself is [essentially](https://news.ycombinator.com/item?id=14517515) duck programming.
+- Talking to yourself is [essentially](https://news.ycombinator.com/item?id=14517515) rubber duck programming.
 - [Gunpowder tea](https://en.wikipedia.org/wiki/Gunpowder_tea) is a form of Chinese tea in which each leaf has been rolled into a small round pellet. The shinier, the fresher. "Rolling renders the leaves less susceptible to physical damage and breakage and allows them to retain more of their flavor and aroma."
 - Magikarp can learn [tackle at level 15](<https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_I_learnset#By_leveling_up>), and [flail at level 30](<https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon)/Generation_III_learnset#By_leveling_up>). It is not entirely useless.
 - [_Any time you use the `new` keyword, you are (...) permanently (...) hard-coding your application to work with a particular class's implementation. That's huge._](http://ardalis.com/new-is-glue) _Use `new` when you don't expect you'll need flexibility in the future._

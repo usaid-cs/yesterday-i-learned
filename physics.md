@@ -108,3 +108,5 @@
 - [The Earth is a dynamo](https://en.wikipedia.org/wiki/Geomagnetic_reversal), so its field strength depends on [how aligned the two poles are](https://en.wikipedia.org/wiki/Geomagnetic_reversal#/media/File%3ANASA_54559main_comparison1_strip.gif). If they are not aligned, the field strength is low, and may even be reversed.
 - The moon is the largest natural satellite relative to the planet's size. This is not hard to achieve, considering mercury has no moons, venus has no moons, ~~and Mars has no moons either~~.
 - An [ampere](https://en.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
+- Non-lead solders exist. They actually just need to have a lower melting point than then metal you are bonding. To solder gold, you use a [14k gold alloy](https://www.amazon.com/Yellow-Solder-Extra-Easy-Density-Goldsmiths/dp/B00CNH3PK0) and some [flux](https://en.wikipedia.org/wiki/Flux_%28metallurgy%29) (in this context, a strong reducing agent that prevents oxidation at the bonding site).
+- Annealing a metal softens it.
