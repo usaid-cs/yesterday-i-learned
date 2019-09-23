@@ -1,3 +1,8 @@
+- You can sharpen a knife with [the bottom of a ceramic mug](https://survivallife.com/sharpen-knife-without-sharpener/).
+- A [tithe](https://en.wikipedia.org/wiki/Tithe) is 1/10 of something, but the word is quite often used to represent the church'es 10% "tax".
+- Electronic video stabilisation [doesn't work in low-light environments](https://www.youtube.com/watch?v=ys82H7AOsV8) because the camera tries to bump up the shutter time to as long as possible, which means each frame is a blurry mess. Force it to 1/60 or higher and you will be fine.
+- Vizio boss says: [smart TVs are cheaper than dumb TVs because they can sell your data](https://www.techdirt.com/articles/20190114/08084341384/vizio-admits-modern-tv-sets-are-cheaper-because-theyre-spying-you.shtml).
+- When drinking tea with a spoon, the spoon faces down when you stir, and the spoon stays on the plate, not on the table. Press the tea bag with the spoon instead of dragging the bag up and down. Alternatively, if you weren't given a spoon (for example... you were served off a teapot), then you also lift the plate with the other hand when you drink.
 - Toxicity (System of a Down) talks about [the Armenian community in LA](https://www.quora.com/What-does-the-song-Toxicity-from-System-of-a-Down-convey).
 - There is always a market for small, inexpensive houses. So the prices go up. So they stop being inexpensive houses.
 - On the day after mid-autumn festival, you 追月.

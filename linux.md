@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- If your `ls -l` ends with a `+` on any permission (e.g. `drwxrwxrwx+`), then the file or directory has extended permissions (ACL). [ACLs can add or remove permissions](https://serverfault.com/questions/227852/what-does-a-mean-at-the-end-of-the-permissions-from-ls-l#comment1127261_227855), meaning someone can have permissions even though the file is "000+".
 - "rc" stands for ["run commands"](https://en.wikipedia.org/wiki/Run_commands). It doesn't really make sense now.
 - ["If your daemon is spawning children that become zombies, you have a bug"](https://stackoverflow.com/a/16944931/1558430)
 - Convert youtube to mp3 without relying on anyone else: get `youtube-dl` from pip (`sudo pip install -U youtube-dl`), NOT your package manager. Then get the file with `youtube-dl -x --embed-thumbnail --audio-format mp3 https://www.youtube.com/watch?v=foobarbazqux`.
@@ -288,7 +289,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - Remove lines in a file with `sed -i '/foo/d' file` (`-i` being inline; you don't need to use it').
 - `ssh -f ...` is like `ssh ... &` (a fork), except it goes to the background only after it connects, allowing you to enter passwords and other things if you need to.
 - One way to tackle Kate's useless 4096 character-per-line limit is to use `xclip <file>`.
-- Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 ))  # 20`
+- Did you know `$(( ... ))` turns your shell into a calculator? `echo $(( (1+3)*5 )) # 20`
 - The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
 - `while ();` is an infinite loop.
 - You _pipe_ to programs, and _redirect_ to streams (including files).

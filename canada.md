@@ -1,5 +1,9 @@
 🇨🇦
 
+- On the dime is the [Nova Scotian bluenose](https://en.wikipedia.org/wiki/Bluenose#Fame_and_commemoration), a schooner. It was good for fishing and racing.
+- "Quebecers" are a [nation](https://en.wikipedia.org/wiki/Nation) because [a bill in 2006 said so](https://en.wikipedia.org/wiki/Qu%C3%A9b%C3%A9cois_nation_motion). This "nation" is not a country but a collection of people, like in "first nations". In Chinese, this translates to either [民族 (ethnic/ethnographic group), 國族 (actually "nation"), 族群 (ethnic group), or 人種 (race)](https://zh.wikipedia.org/wiki/%E6%B0%91%E6%97%8F_%28%E6%B6%88%E6%AD%A7%E7%BE%A9%29).
+- The French came first [among Europeans]. Then the English settlement began in 1610.
+- The Wasaga beach is the longest freshwater beach in the world (40km).
 - TD WebBroker charges you [commission fee for every day an order is open](https://www.reddit.com/r/CanadianInvestor/comments/8yca7e/td_webbroker_buy_order_fulfilled_over_several/): "(commission) is paid with each partial fill as at the end of the day. If you have 3 fills in the course of one day, you pay one commission. If you have 3 partial fills over the course of 3 days, you pay 3 separate commissions."
 - Dundas and Sherbourne is packed with action. There you once saw someone being tackled by the police from 3m away.
 - There was a prime minister named [Brian](https://en.wikipedia.org/wiki/Brian_Mulroney), and Justin is a historical top 10 (50%) to date.

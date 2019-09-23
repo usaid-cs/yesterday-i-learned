@@ -1,3 +1,4 @@
+- [Milkweed](https://en.wikipedia.org/wiki/Asclepias) is a significant food source for monarch butterflies.
 - What we call [shellac](https://en.wikipedia.org/wiki/Shellac) is a resin secreted by the female [lac bug](https://en.wikipedia.org/wiki/Kerria_lacca), *Kerria lacca*. The bug sucks on tree sap, lays about 1000 eggs, and then [feeds itself to death](http://www.madehow.com/Volume-4/Shellac.html) ("feast of death"). The sap changes properties in the bug and forms a hard crust that protects the eggs.
 - A shrimp's [carapace](https://en.wikipedia.org/wiki/Carapace) (the "head shell") covers its [cephalothorax](https://en.wikipedia.org/wiki/Cephalothorax), which is the cephalon (head) and thorax (body, except the abdomen). [The heart is located in the thorax](http://heydidyouknowthat.blogspot.com/2011/11/shrimps-heart-is-in-its-head.html) part of the cephalothorax.
 - There is no tea in chrysanthemum tea. The chrysanthemum *is* the "tea".

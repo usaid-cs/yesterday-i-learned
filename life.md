@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- To be a mature person, [you can't just downplay everything](https://www.quora.com/What-are-the-differences-between-an-immature-and-mature-person): you still need to be serious when you encounter a serious issue. So to be a mature person, you first need to know what is serious and what is not.
 - Whenever you feel you should keep quiet to avoid confrontation, remember this was what the Republic of China said to its troops when Japan started its invasion: "須萬分容忍，不與抵抗，以免事態擴大" (need to tolerate everything they do, do not resist, lest we make the situation worse).
 - If your (a daughter) dad wants your child to keep your last name, that means [he doesn't like your husband and want you to ditch him](https://www.zhihu.com/question/346165736/answer/825761423).
 - "Don't talk about what you have done or what you are going to do." - Thomas Jefferson

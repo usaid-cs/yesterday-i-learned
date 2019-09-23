@@ -115,7 +115,7 @@ Or [sign your commits automatically](https://stackoverflow.com/a/30467819/155843
 
 And [verify them][stackoverflow 13] with `git log --show-signature`
 
-See also: [backing up your keys][stackoverflow 14]
+See also: [backing up your keys][stackoverflow 14], [Linus recommends signing tags but not commits](http://git.661346.n2.nabble.com/GPG-signing-for-git-commit-td2582986.html), and [people not agreeing with him](https://news.ycombinator.com/item?id=12290873).
 
 
 ### The Stash
