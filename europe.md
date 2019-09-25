@@ -13,7 +13,7 @@
 - There is a German saying "I'm too poor to buy cheap" *Ich bin zu arm, um billig zu kaufen*
 - [Germany normally doesn't tolerate dual citizenship](https://en.wikipedia.org/wiki/German_nationality_law#Dual_citizenship), except for the EU, Switzerland, and countries of origin do not allow them to renounce their citizenship, like Iran, Algeria, and Syria. Also, TIL some countries don't let you renounce your citizenship.
 - The "coat of arms of [the German Emperor](https://en.wikipedia.org/wiki/William_I,_German_Emperor) with crest" of 1871 had a shocking [**58**](https://upload.wikimedia.org/wikipedia/commons/d/d6/Wappen_Deutsches_Reich_-_Wappen_des_Kaisers_mit_Helmkleinod.svg) black eagles on it.
-- [Speibecken](http://de.wikipedia.org/wiki/Speibecken) are German Oktoberfest puke sinks. They are not only used during Oktoberfest. Speibecken conveniently translates on Google to "dining room".
+- [Speibecken](http://de.wikipedia.org/wiki/Speibecken) are German Oktoberfest puke sinks. They are not only used during Oktoberfest. Speibecken conveniently translates on Google to ~~"dining room"~~spittoon (spit + pool).
 - Louis XIV (or was it XIII?) was rumoured to have taken only three baths in his life.
 - [_Wiener Schnitzel_](https://en.wikipedia.org/wiki/Wiener_Schnitzel) is a protected term for Viennese schnitzel made with veal (calves). _Vienna Schnitzel_ can be made from anything.
 - There is [a hotel, a grocery store, and a souvenir shop](https://en.wikivoyage.org/wiki/Chernobyl) in Chernobyl.

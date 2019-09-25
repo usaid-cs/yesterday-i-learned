@@ -31,6 +31,12 @@ Properties (e.g. houses that you don't live in) always beats inflation in the lo
 However, property are vulnerable to pricing bubbles.
 Property value is linked to to bonds value.
 
+## Futures
+
+[Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at $20) to lock in that price.
+
+If you don't need oil, you can also sell your contract, which was locked in at a lower price (say $20), to someone else, who wants to buy it for a higher price (say $50) because the price of oil is even higher now (say $100). Now you earn $30 by selling a contract but not the oil.
+
 ## Equity ("stocks")
 
 At the cost of high volatility, equity provides the highest return, provided that you pick the right stocks and get the timing right.
@@ -103,11 +109,12 @@ Further reading: [0001.md](sources/0001.md)
 - When the company is acquired
 - When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 - [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
-- When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
 - A "sell" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a sell when a stock goes above a certain price.
 - [In May](https://en.wikipedia.org/wiki/Sell_in_May)
 - When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss. (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
-- In 2019. 2020 is when the last of baby boomers reach the age of 60.
+- ~~In 2019. 2020 is when the last of baby boomers reach the age of 60.~~ (But they don't just sell everything at once, so ignore me.)
+- When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
+- Never, because you're holding and collecting dividends.
 
 ### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
 
@@ -118,7 +125,13 @@ Further reading: [0001.md](sources/0001.md)
 
 ## Mutual Funds
 
+If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically $10 through your standard broker, contributions to mutual funds typically have no additional fees.
+
 ## ETFs (Exchange-traded funds)
+
+For [non-actively managed funds](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp) (e.g. index funds), mutual funds' high MER don't justify themselves. Either get a low-fee mutual fund or an ETF.
+
+They can be bought and sold whenevr the exchange is open, instead of a once-per-night type thing. When you decide to buy/sell, though, do have a bid-ask spread.
 
 [Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
 

@@ -1,3 +1,8 @@
+- "Adios" is spanish.
+- Honeymoons don't need to be right after your wedding, but it usually makes the most sense.
+- The lowest unemployment rate in any country, ever, was achieved by [Thailand in 2014](https://www.bangkokpost.com/learning/work/466226/why-thailand-unemployment-rate-is-ridiculously-low), at 0.56%.
+- "[Please always remember, telecom, and transportation, are not technology businesses, they are real estate businesses.](https://news.ycombinator.com/item?id=21003773) Telecom’s real estate are exclusive operation licenses, the most important of which being wireless spectrum, and the second most important of which being the places where they can exclusively tear up the earth to lay cable."
+- I hear sonicare toothbrushes without "oral b" on them are the lamborghinis of toothbrushes.
 - You can sharpen a knife with [the bottom of a ceramic mug](https://survivallife.com/sharpen-knife-without-sharpener/).
 - A [tithe](https://en.wikipedia.org/wiki/Tithe) is 1/10 of something, but the word is quite often used to represent the church'es 10% "tax".
 - Electronic video stabilisation [doesn't work in low-light environments](https://www.youtube.com/watch?v=ys82H7AOsV8) because the camera tries to bump up the shutter time to as long as possible, which means each frame is a blurry mess. Force it to 1/60 or higher and you will be fine.
@@ -242,7 +247,7 @@
 - "A function should have a docstring, unless it meets all of the following criteria: not externally visible, very short, obvious." - [Leaked CIA coding standard](https://wikileaks.org/ciav7p1/cms/page_26607631.html)
 - To keep the house cool during summer, [keep the windows closed during the day](https://www.timescolonist.com/opinion/to-stay-cool-leave-house-windows-closed-or-open-1.2179996), whether or not you have air conditioning.
 - 卧槽 is just 我操.
-- You can't [fix phone screens with windshield repair kits](https://www.youtube.com/watch?v=Bf5sY6FxPHc): _"...the Roman Catholic Church has recognized Darwinian evolution for the past 60 years. It openly rejects Intelligent Design and Young Earth Creationism saying that it 'pretends to be science.'"_ Read more [here](https://www.independent.co.uk/news/world/europe/pope-francis-declares-evolution-and-big-bang-theory-are-right-and-god-isnt-a-magician-with-a-magic-9822514.html): _"The pope's statement is significant. We are the direct descendents from the Big Bang that created the universe. Evolution came from creation."_
+- You can't [fix phone screens with windshield repair kits](https://www.youtube.com/watch?v=Bf5sY6FxPHc)
 - [Turning software into hardware](http://yosefk.com/blog/its-done-in-hardware-so-its-cheap.html) is worthwhile only if the hardware either helps you speed up a costly function, or if it helps you parallelise the function by simply throwing more resources at it.
 - A "unit" is a file or module containing a set of related functions, not a single function. You don't need a new test case for every function unless you work at JPL. You can assert multiple times in a test. Don't go crazy. But most importantly, [untested Code Is Broken by Definition](https://code.tutsplus.com/tutorials/write-professional-unit-tests-in-python--cms-25835).
 - [2017 was a really good year for aviation](https://www.airfleets.net/crash/fatalities_year.htm) with only 12 known fatalities.
@@ -2229,7 +2234,7 @@
 - Ember is more red than orange.
 - Use a heat gun and a credit card to [scrape off glue residues](https://m.youtube.com/watch?v=7VPwJIaWBso).
 - [Men walk faster than they all would like when in a group](https://newrepublic.com/article/117956/walking-through-revolving-doors-friends-what-it-reveals/?), but slower than all would like when with any positive number of women. Women all walk slowly.
-- The typical Nobel Prize winner has a vastly (2.8x) [higher interest in activities such as arts and crafts](http://priceonomics.com/the-correlation-between-arts-and-crafts-and-a/) than the average person.
+- The typical Nobel Prize winner has a vastly (2.8x) [higher interest in activities such as arts and crafts](http://priceonomics.com/the-correlation-between-arts-and-crafts-and-a/) than the average person. A scientist was counted as having an artistic or crafty hobby, "if they described themselves or were described by biographers as being a painter, photographer, actor, performer, composer, poet, dancers, craftsman, glassblower, and so on after entering college; if they took lessons in an art or craft as an adult; or if there was direct evidence of artwork, photographs, sculptures, compositions, poems, performances, and so on."
 - The only reliable way to show a numeric keypad from cordova is to [set the input type to `tel`](https://github.com/bendrucker/angular-credit-cards/issues/74).
 - Teflon pans [_should_](http://www.nytimes.com/2010/12/18/your-money/18shortcuts.html?_r=0) be seasoned with oil before every use (that is, on a cold pan).
 - In VB (classic), `Empty` is `undefined`. `Nothing` is `null`. `Null` is apparently a database-compatible `NULL`.

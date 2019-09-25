@@ -2,9 +2,9 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- [*Sie*](https://en.wiktionary.org/wiki/Sie#German) is more distant German than [*du*](https://en.wiktionary.org/wiki/du#German) (friends, family, young people) for "you". Note that it is not the case that *Sie* is more formal; it just means the two people are not close enough to use *du*.
 - Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session.
-- [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English
-), a subset of standard English that is [grammatically formal](https://en.wikipedia.org/wiki/Formal_language), was invented by the University of Zurich in 1995, and is still being updated today.
+- [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English), a subset of standard English that is [grammatically formal](https://en.wikipedia.org/wiki/Formal_language), was invented by the University of Zurich in 1995, and is still being updated today.
 - The British and American do it differently when it comes to [quotation marks containing periods, question marks, and exclamation (marks/points)](https://www.quickanddirtytips.com/education/grammar/how-to-use-quotation-marks). The Americans put periods inside, while British can be either. If anyone is pedantic enough to object to one or the other, claim to be a programmer and put it outside.
 - In German, [_kein/keine_](https://en.wiktionary.org/wiki/kein) seems to be a single word for "not a". _Ich bin kein Berliner_: I am not a Berliner.
 - "It is something we continue to consider" means "stop asking, it's not happening".
@@ -24,7 +24,7 @@
 - It is [almost always](http://www.learnersdictionary.com/qa/is-it-correct-to-say-on-the-list-or-in-the-list) correct to say "on the list" rather than "in the list". Notable exceptions are 1] if the word "included" is used, and 2] if you're talking python.
 - According to the constitution, Malay is the ["national language" of Singapore](https://en.wikipedia.org/wiki/Languages_of_Singapore). Its "official languages" are English, Malay, Chinese, and Tamil, not in that order. In RFC5646, Singapore has a local version of Chinese, but not Malay, English, or Tamil.
 - US English speakers believe that the symbol "!" is a [point](https://en.wikipedia.org/wiki/Exclamation_mark) rather than a mark. According to that page, the exclamation mark came from the latin word for joy ("io"), where the I moved above the O, and the O got smaller.
-- [Coming undone](https://english.stackexchange.com/questions/6383/what-does-to-come-undone-actually-mean) means something (often abstract, e.g. a plan) is falling apart.
+- [Coming undone](https://english.stackexchange.com/questions/6383/what-does-to-come-undone-actually-mean) means something (often abstract, e.g. a plan) is falling apart.froma
 - [Mayday](https://en.wikipedia.org/wiki/Mayday) might have come from French _m'aider_, "help me".
 - [Sidereal](https://en.wikipedia.org/wiki/Sidereal_time) turns out to be pronounced si-DEH-re-oh. It means "relative to the stars". Sidereal time is the time it takes for the Earth to make one rotation relative to the stars (23 hours 56 minutes ish), while Solar time is the time it takes for the Earth to make one rotation and have the sun go to the same place, which takes 4 minutes longer because the Earth rotates around the sun, and the angle it makes is slightly bigger than 360 degrees.
 - The ["French conditional" mood](https://www.thoughtco.com/french-conditional-mood-1368824) cannot be used after another "if", so [_si vous voudriez_](https://www.thoughtco.com/si-vous-voudriez-french-mistake-1369491) ("if you would like") is incorrect; you can only say _si vous voulez_ no matter how polite you want to be.

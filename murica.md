@@ -1,3 +1,4 @@
+- Only the US and [Eritrea](https://en.wikipedia.org/wiki/Eritrea) impose [taxes on non-resident citizens](https://www.taxesforexpats.com/expat-tax-advice/Citizenship-Based-Taxation-International-Comparison.html) (i.e. the ones abroad).
 - The US does not have an official language. [Nor does Australia](https://www.triviagenius.com/countries-without-national-languages/). Fun fact: the [UK's official language is not English either](https://www.englishlanguagefaqs.com/2016/08/why-is-english-not-official-language-of.html) - it's none.
 - "Marine One" is [the callsign of the helicopter operator that is carrying the president](https://www.youtube.com/watch?v=YJRqB1xtIxg), not a particular aircraft.
 - Homeschooling typically requires a degree of some sort, like GED. This is not true in some states.
