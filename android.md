@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Snapdragon: [670 and 675](https://www.techcenturion.com/snapdragon-processors-ranking-and-list) are two 600 series CPUs that are better than the 820s. 660 and 665 are just under the 820s. Snapdragon 801 is unranked.
 - You can't deny an app `android.permission.INTERNET`, even with root.
 - Put `debug.hwui.renderer=skiagl` in your build.prop to make things glitch out faster.
 - [`pm trim-caches 100G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 100GB free, would effectively clear all your cache.

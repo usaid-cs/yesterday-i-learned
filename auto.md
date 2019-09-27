@@ -216,3 +216,4 @@
 - [Tesla Model 3's pricing is rubbish.](https://www.youtube.com/watch?v=9O5PhuW927w) starts at 35k, but replacing the battery with a long-range ("proper") one is another 9k, and _enabling_ autopilot is another 1k, even though all the sensors are installed on every car.
 - Harley Davidson tried to patent its engine sound. [It did not work.](https://www.youtube.com/watch?v=rZOpDve8ARA)
 - Clay bar exposes paint to the elements. It is necessary to clay bar something only if it cannot be polished.
+- The total amount of money you spend on a car over its lifetime can be 10x what you spend on the price of the car.

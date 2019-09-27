@@ -271,7 +271,7 @@ Importing the two named exports under the same names
 If a promise is resolved, then the lines after `await` run. Otherwise, it throws an error and any `catch` blocks run.
 If an async function has multiple return points: since a promise can only resolve once, it will always resolve with the first value.
 
-- If you can't use `await` because you aren't in a function (for example, you're in a main script), then [wrap your script](https://stackoverflow.com/a/46515787/1558430) in `(async () => { ... })();` lol.
+- If you can't use `await` because you aren't in a function (for example, you're in a main script), then [wrap your script](https://stackoverflow.com/a/46515787/1558430) in `(async () => { ... })();` lol. (A future node version may allow top-level await.)
 
 ## WeakMap
 
@@ -280,6 +280,11 @@ WeakMap allows [garbage collection](https://stackoverflow.com/questions/29413222
 ## ES 2017
 
 - RegExp will now support negative lookahead, which uses `(?<!foo)` to ensure a pattern is not preceded by another pattern. `(?<!foo)bar` will never match `foobar`.
+
+## [ES 2019](https://blog.logrocket.com/new-es2019-javascript-features-every-developer-should-be-excited-about/)
+
+- `catch` no longer requires you to say `(error)` if you don't use it.
+- The "pipeline" operator (`|>`) allows you to write `a = bar(foo(a))` as `a = a |> foo |> bar`, which is sometimes easier to read. They [say](https://github.com/tc39/proposal-pipeline-operator) the operator came from F#, not because both `|` and `>` are already taken.
 
 ## Strings
 

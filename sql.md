@@ -120,6 +120,7 @@
 - You can query two like tables at the same time using `UNION`: `select (same columns) from table1 UNION select (same columns) from table2`. If you can handle duplicate rows, use [`UNION ALL`](https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all), which is faster (if bandwidth is free).
 - **Attempting to [remove nullable or add `NOT NULL` to a field during a zero downtime deployment](https://gist.github.com/majackson/493c3d6d4476914ca9da63f84247407b#notes-on-adding-not-null-columns-in-very-large-tables) will cost a lot of time.**
 - `VACUUM ANALYZE VERBOSE;` is almost free to run. Run it every so often (it vacuums all tables). There is also autovacuum that automates the automation away from you.
+- `VACUUM FULL` before postgres 9 had an issue with [increasing index sizes rather than compacting them](https://wiki.postgresql.org/wiki/VACUUM_FULL), making performance lower than before. That same page says use `VACUUM`/autovacuum instead, and use `VACUUM FULL` only when you need to free up disk space.
 - SSDs and HDDs have different `random_page_cost` (default 4) and `seq_page_cost` values (default 1). For SSDs, `random_page_cost` may well be set to 1, which often affects how the query planner decides how to make a query.
 - An ordered index (one where you specify `field_name DESC`) [hardly matters](https://dba.stackexchange.com/a/39599) except if you perform range queries over multiple columns.
 - Non-material views are [as fast as the query you put inside it](https://dba.stackexchange.com/a/151220).

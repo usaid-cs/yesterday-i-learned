@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- ["ext4 has much better inode access/index times than f2fs so clearly better for read only"](https://forum.xda-developers.com/axon-7/themes/guide-ext4-to-f2fs-migration-t3529215) - Guy on the internet
 - If your `ls -l` ends with a `+` on any permission (e.g. `drwxrwxrwx+`), then the file or directory has extended permissions (ACL). [ACLs can add or remove permissions](https://serverfault.com/questions/227852/what-does-a-mean-at-the-end-of-the-permissions-from-ls-l#comment1127261_227855), meaning someone can have permissions even though the file is "000+".
 - "rc" stands for ["run commands"](https://en.wikipedia.org/wiki/Run_commands). It doesn't really make sense now.
 - ["If your daemon is spawning children that become zombies, you have a bug"](https://stackoverflow.com/a/16944931/1558430)

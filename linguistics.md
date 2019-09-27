@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- The kind of press releases that look like something awesome happened, but actually something bad did, is called Spins. ["It's been an incredible journey"](https://ourincrediblejourney.tumblr.com/), i.e. "we are closing down now", falls into this category. ["New changes to our service"](https://news.ycombinator.com/item?id=17990891), i.e. "we are killing off our service", also falls into this category.
 - [*Sie*](https://en.wiktionary.org/wiki/Sie#German) is more distant German than [*du*](https://en.wiktionary.org/wiki/du#German) (friends, family, young people) for "you". Note that it is not the case that *Sie* is more formal; it just means the two people are not close enough to use *du*.
 - Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session.
 - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English), a subset of standard English that is [grammatically formal](https://en.wikipedia.org/wiki/Formal_language), was invented by the University of Zurich in 1995, and is still being updated today.

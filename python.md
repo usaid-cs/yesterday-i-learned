@@ -552,3 +552,4 @@ bar
 - Custom class attributes prefixed with `__` are private. It is not possible to read it. *However*, [you can still assign something to it from the outside](scripts/dunder_private.py), and any `__attributes` that was not declared in the class are actually public. The instance cannot read the value you assigned though (because it has its own hashed key for that attribute). What does it mean for you? Nothing. Use it how you like.
 - `set_a or set_b` gives you the first set that is not empty. Use `set_a | set_b` (OR) or `set_a ^ set_b` (XOR).
 - [Gareth Dwyer](https://github.com/sixhobbits), author of the book Flask by Example, [said](https://www.codementor.io/garethdwyer/flask-vs-django-why-flask-might-be-better-4xs7mdf8v) that Flask might be better than Django. In that post, he wrote two hello-world examples.
+- Because `'%s' % 1 + 2` raises `TypeError` instead of giving you `3`, you can see `%` has higher precedence than `+`.
