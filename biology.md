@@ -1,3 +1,8 @@
+- [Camelids](https://en.wikipedia.org/wiki/Camelidae) and tapirs both evolved in North America during the Eocene (about 45 million years ago), spread into Eurasia and South America, and then became extinct on the continent they originated from. [Source](https://www.reddit.com/r/todayilearned/comments/dao50b/til_that_hummingbirds_are_only_found_in_the/f1savsl/)
+- [Horses went extinct in the Americas around 8000 years ago](https://en.wikipedia.org/wiki/Horse#Taxonomy_and_evolution). They were reintroduced by in the 1400s by the Spanish. [Source](https://www.reddit.com/r/todayilearned/comments/dao50b/til_that_hummingbirds_are_only_found_in_the/f1savsl/)
+- [Chestnuts](https://en.wikipedia.org/wiki/Chestnut) come in a shell with spikes?
+- Cougars can only be found in the Americas.
+- Do not expect any type of transplant to improve your quality of life. Any transplant still needs to be controlled with immunosuppressants, and they always eventually fail.
 - Clonally transmissible cancer: transmission of cancer between humans is [rare but not impossible](https://en.wikipedia.org/wiki/Clonally_transmissible_cancer). In one case, a surgeon injured his hand during operation, and the patient later developed [undifferentiated pleomorphic sarcoma](https://en.wikipedia.org/wiki/Undifferentiated_pleomorphic_sarcoma). Most commonly-affected animals are dogs, tasmanian devils, syrian hamsters, and some clams.
 - There are surprisingly low number of groups of [animals that have four legs](https://en.wikipedia.org/wiki/Tetrapod): amphibians (frogs), reptiles, and mammals. Birds are included.
 - A few million fruit bats [migrate](https://kasankanationalpark.com/explore/things-to-do-and-see/witness-the-bat-migration/) from Congo to Zambia to [feed on musuku fruits](https://www.audleytravel.com/zambia/country-guides/bat-migration).
@@ -651,7 +656,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Book gills are found externally, while [book lungs](https://en.wikipedia.org/wiki/Book_lung) are found internally
 - Endoskeletons are better than exoskeletons not because of strength, but because of the convenience of not having to change your shell every few months.
 - Locusts are grasshoppers on steroids (the kind of steroids that are caused by overcrowding). "Increased tactile stimulation of the hind legs causes an increase in levels of serotonin. This causes the locust to change colour, eat much more, and breed much more easily. The transformation of the locust to the swarming form is induced by several contacts per minute over a four-hour period."
-- "Heavy days" mean as much as 90mL of blood.
+- "Heavy days" mean as much as 90mL of blood *total*.
 - [Food preferences may be inherited.](http://www.supermarketguru.com/articles/are-food-preferences-inherited-or-learned.html)
 - Poops get worse during a period.
 - Institute estimates about [450 periods per woman](http://www.arhp.org/Publications-and-Resources/Studies-and-Surveys/Menstruation-and-Menstrual-Suppression-Survey/fact-sheet), which translates to around 38 years of fertility, and [over 9000 tampons](http://www.huffingtonpost.ca/entry/period-cost-lifetime_n_7258780). Say if (idk) it begins at 13, that extends to age 51.
@@ -692,7 +697,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Phorid flies](https://en.wikipedia.org/wiki/Phoridae) look like fruit flies, and can often be identified by their escape habit of running rapidly across a surface rather than taking to the wing.
 - "Rheumatism" covers at least 200 different conditions, including articular pain (like arthritis), non-articular pain (like back pain), and various other autoimmune diseases (like gout). In other words, rheumatism doesn't mean anything.
 - "Bubble netting" can refer to whales/dolphins' behaviour of blowing bubbles in the form of rings, trapping krill/prey within, and then ["slurp them bitches up"](https://www.reddit.com/r/gifs/comments/6itivh/kayaking_surprise/dj9ida1/).
-- The shinbone is just the tibia. (Or perhaps "the tibia is just the shinbone.")
+- The shinbone is the [*front*](https://en.wiktionary.org/wiki/shin) of the tibia.
 - Menkes disease is a genetic disease that results in copper deficiency.
 - [Internally](http://i.imgur.com/8bfl4FA.jpg), elephant legs look like they are on high heels.
 - Adults are supposed to eat [4.7g of potassium daily](http://www.healthcommunities.com/electrolyte-imbalance/too-much-potassium-too-little-potassium_jhmwp.shtml).
@@ -749,7 +754,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Bed bugs can [also] be detected by their characteristic smell of rotting raspberries.
 - [Orcas](https://en.wikipedia.org/wiki/Killer_whale) have just as much latitudinal range as humans do (all oceans).
 - Sloths have green algae growing in their fur, which dyes them green, camouflaging with the thick forests that they live in.
-- [Cavaderine](https://en.wikipedia.org/wiki/Cadaverine), a simple diamine, is a byproduct of lysine decomposition that is apparently toxic to humans.
+- [Cadaverine](https://en.wikipedia.org/wiki/Cadaverine), a simple diamine, is a byproduct of lysine decomposition that is apparently toxic to humans.
 - [Putrescine](https://en.wikipedia.org/wiki/Putrescine), yet another simple diamine, is also toxic. Cadaverine and Putrescine together make up the most putrid smells of decaying bodies.
 - Speaking of which, [Hexamethylenediamine](https://en.wikipedia.org/wiki/Hexamethylenediamine), yet another diamine, is produced industrially for the production of Nylon. But I guess this is not biology.
 - Trying to beat dehydration by absorbing water through the skin is a bad idea. Not only does that not work, you will also sweat more because you cannot dissipate heat through water, thereby losing more electrolytes.

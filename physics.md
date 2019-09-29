@@ -111,3 +111,4 @@
 - An [ampere](https://en.wikipedia.org/wiki/Ampere) is a coulomb per second. All of them are considered SI units.
 - Non-lead solders exist. They actually just need to have a lower melting point than then metal you are bonding. To solder gold, you use a [14k gold alloy](https://www.amazon.com/Yellow-Solder-Extra-Easy-Density-Goldsmiths/dp/B00CNH3PK0) and some [flux](https://en.wikipedia.org/wiki/Flux_%28metallurgy%29) (in this context, a strong reducing agent that prevents oxidation at the bonding site).
 - Annealing a metal softens it.
+- According to [Orders of magnitude (mass)](https://en.wikipedia.org/wiki/Orders_of_magnitude_%28mass%29), a fruit fly weighs 0.3mg, and a grain of salt is 2.5mg.

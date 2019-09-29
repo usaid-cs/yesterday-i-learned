@@ -553,3 +553,4 @@ bar
 - `set_a or set_b` gives you the first set that is not empty. Use `set_a | set_b` (OR) or `set_a ^ set_b` (XOR).
 - [Gareth Dwyer](https://github.com/sixhobbits), author of the book Flask by Example, [said](https://www.codementor.io/garethdwyer/flask-vs-django-why-flask-might-be-better-4xs7mdf8v) that Flask might be better than Django. In that post, he wrote two hello-world examples.
 - Because `'%s' % 1 + 2` raises `TypeError` instead of giving you `3`, you can see `%` has higher precedence than `+`.
+- [Stackoverflow](https://stackoverflow.com/questions/14083111/should-i-use-encoding-declaration-in-python-3) says [PEP 263 `# coding=utf-8` lines](https://www.python.org/dev/peps/pep-0263/) are not necessary in [python3](https://www.python.org/dev/peps/pep-3120/) if all the files in the same project are in UTF-8, and your editor knows how to deal with it.

@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- In a [manual transmission](https://www.youtube.com/watch?v=dKxtfmzI6X0), the stick really connects directly to the control sleeves (which change gears).
+- Some truck cabs can be [quite luxurious](https://www.core77.com/posts/59146/What-Do-Luxury-Sleeper-Cabs-for-Long-Haul-Truck-Drivers-Look-Like). Imagine: hotel.
 - Trucks usually have bed lights.
 - It is [possible](https://www.reddit.com/r/ottawa/comments/d3gnr4/i_got_my_porsche_today/f034lnl/) to configure a Toyota sienna that is more expensive than a Porsche (718 Cayman).
 - In the 1980s, [speedometers were capped at 85mph](https://en.wikipedia.org/wiki/National_Maximum_Speed_Law#Speedometers) (about 140km/h) in America because of a law that passed there. It was repealed because it was dumb.

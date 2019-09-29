@@ -1,3 +1,6 @@
+- You [need](https://www.youtube.com/watch?v=Way5bMh-eYg) to trowel your tiles the right way (hard veritcal strokes in a single direction). Do not swirl. The [TCNA-recommended ANSI method](https://www.tcnatile.com/about-us/2-main-content/208-ansi-standards.html) leaves no air in between the mortar and the tile, making the tile much, much more resistant to damage if mortar coverage exceeds 85% (indoor tile) or 95% (outdoor tile).
+- "Conceited" means being too proud of themselves.
+- [Plastic tea bags may shed billions of microplastics per cup.](https://www.cbc.ca/news/technology/tea-bags-plastic-study-mcgill-1.5295662)
 - "Adios" is spanish.
 - Honeymoons don't need to be right after your wedding, but it usually makes the most sense.
 - The lowest unemployment rate in any country, ever, was achieved by [Thailand in 2014](https://www.bangkokpost.com/learning/work/466226/why-thailand-unemployment-rate-is-ridiculously-low), at 0.56%.
