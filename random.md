@@ -1,3 +1,4 @@
+- Albania [inexplicably](https://en.wikipedia.org/wiki/Hong_Kong_identity_card#Use_as_a_travel_document) allows Hong Kong people to use their HKID to travel there, visa-free, for [90 days](https://en.wikipedia.org/wiki/Visa_policy_of_Albania).
 - You [need](https://www.youtube.com/watch?v=Way5bMh-eYg) to trowel your tiles the right way (hard veritcal strokes in a single direction). Do not swirl. The [TCNA-recommended ANSI method](https://www.tcnatile.com/about-us/2-main-content/208-ansi-standards.html) leaves no air in between the mortar and the tile, making the tile much, much more resistant to damage if mortar coverage exceeds 85% (indoor tile) or 95% (outdoor tile).
 - "Conceited" means being too proud of themselves.
 - [Plastic tea bags may shed billions of microplastics per cup.](https://www.cbc.ca/news/technology/tea-bags-plastic-study-mcgill-1.5295662)

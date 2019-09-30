@@ -66,4 +66,5 @@
     const randomFact = facts[Math.floor(Math.random() * facts.length)];
     randomEl.innerHTML = markdown.toHTML(randomFact);
   }
+  window.fillRandomFact = fillRandomFact;
 })();
