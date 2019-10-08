@@ -25,6 +25,7 @@
 ## 400 Language
 
 - [french.md](french.md)
+- [german.md](german.md)
 - [korean.md](korean.md)
 - [linguistics.md](linguistics.md)
 

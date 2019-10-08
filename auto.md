@@ -1,5 +1,8 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.
+- You can download a car, [Strati](https://en.wikipedia.org/wiki/Strati_%28automobile%29)... and 3D print it yourself.
+- Driving costs per km is [a real metric](https://www.caa.ca/wp-content/uploads/2016/09/CAA_Driving_Cost_English_2013_web.pdf), given how CAA does it. $/km varies wildly, mostly by how much you drive. But you should always drive as little as possible, because money doesn't care how much per km you drove at. Confused by how much you should drive? *Don't drive.*
 - In a [manual transmission](https://www.youtube.com/watch?v=dKxtfmzI6X0), the stick really connects directly to the control sleeves (which change gears).
 - Some truck cabs can be [quite luxurious](https://www.core77.com/posts/59146/What-Do-Luxury-Sleeper-Cabs-for-Long-Haul-Truck-Drivers-Look-Like). Imagine: hotel.
 - Trucks usually have bed lights.

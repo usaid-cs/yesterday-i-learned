@@ -1,3 +1,4 @@
+- There is a special "pinterest mode" for RecyclerView, called [StaggeredGridLayoutManager](https://abhiandroid.com/materialdesign/recyclerview).
 - [Streamed install](https://stackoverflow.com/questions/55524302/what-is-performing-streamed-install) (with `cmd package`) installs an APK without having adb save the file somewhere on the device first, which `pm` used to do.
 - Being confusing is [recommended](https://stackoverflow.com/a/14932717/1558430).
 - Before you truly understand what it is, [`Fragment`](https://developer.android.com/reference/android/app/Fragment) is already deprecated. Fragments may have been [the separate panes in tablet mode](https://developer.android.com/guide/components/fragments), for example. Layouts can contain Fragments.
@@ -66,3 +67,11 @@
 - Android Go editions may have unexpected restrictions, such as [launching an activity from a service using the `SYSTEM_ALERT_WINDOW` permission](https://developer.android.com/preview/privacy/background-activity-starts).
 - Apparently if your device supports P, it can potentially [just boot off an image](https://developer.android.com/topic/generic-system-image) called the generic system image (GSI). YMMV.
 - You need [100GB of disk space](https://wiki.lineageos.org/devices/bacon/build) to compile LineageOS once.
+- You define the app's icon in `AndroidManifest.xml` -> `manifest[application:icon]`. That `@mipmap/ic_launcher` corresponds to an `ic_launcher.xml`, which has `<adaptive-icon>` inside.
+- Apps can [export a service](https://developer.android.com/guide/topics/manifest/service-element#exported). With `android:exported="true"`, a service can be invoked by another application. Without that, an app can have a service _but other applications cannot see it_ (unless you use MyAndroidTools or something).
+- [`android.*` packages (are supposed to) come with the system](https://stackoverflow.com/a/51280256/1558430), while `androidx.*` packages come with the app.
+- Displaying a button over something else is surprisingly difficult without absolute positioning or z-index.
+- You cannot [have a string reference another one](https://stackoverflow.com/questions/4746058/reference-one-string-from-another-string-in-strings-xml) like `<string name="string_default">@string/string1 TEST</string>`, but entire substitutions like `<string name="string_default">@string/string1</string>` are fine.
+- To make a [scrollable `ConstraintLayout`](https://stackoverflow.com/questions/43098150/android-how-to-make-a-scrollable-constraintlayout), really put a `ScrollView` outside the `ConstraintLayout`.
+- [`xmlns:tools="http://schemas.android.com/tools"`](https://stackoverflow.com/questions/15368386/what-is-the-meaning-of-xmlnstools-in-android-xml-layout) means every `tools:abc` uses that schema, and that is the namespace in this element. There is no need to redeclare it in children elements.
+- [`RecyclerView`s](https://developer.android.com/reference/android/support/v7/widget/RecyclerView) were created because layout inflation (turning XML into whatever) is such a costly operation that Android would rather not do that for the same type of content.

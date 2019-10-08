@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- The [NX (no execute) bit](https://en.wikipedia.org/wiki/NX_bit) marks areas of _memory_ as non-executable, and the CPU will then refuse to execute memory there as code. For [reasons](https://stackoverflow.com/questions/2168555/how-does-the-nx-flag-work), both data and code are loaded in roughly the same place when you run a program.
 - ["ext4 has much better inode access/index times than f2fs so clearly better for read only"](https://forum.xda-developers.com/axon-7/themes/guide-ext4-to-f2fs-migration-t3529215) - Guy on the internet
 - If your `ls -l` ends with a `+` on any permission (e.g. `drwxrwxrwx+`), then the file or directory has extended permissions (ACL). [ACLs can add or remove permissions](https://serverfault.com/questions/227852/what-does-a-mean-at-the-end-of-the-permissions-from-ls-l#comment1127261_227855), meaning someone can have permissions even though the file is "000+".
 - "rc" stands for ["run commands"](https://en.wikipedia.org/wiki/Run_commands). It doesn't really make sense now.
@@ -123,6 +124,7 @@
 - `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
 - `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 - `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
+- [Optimise JPG or PNG](https://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/): `jpegoptim` or `optipng`
 - Batch resize and/or [optimise](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) images: `for i in $(ls *.jpg); do convert -resize 800x800 -quality 90 -gaussian-blur 0.001 -sampling-factor 4:2:0 -define jpeg:dct-method=float -interlace Plane $i re_$i; done`
 - [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/) but [you made a cheatsheet anyway](docker.md)
 - `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.

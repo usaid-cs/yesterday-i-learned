@@ -143,6 +143,20 @@ Procedures:
 - Simmer
 - Mix beans with rice.
 
+## Fish and tofu rice
+
+- Remove fillet, cut into sashimi-sized slices roughly (cut *with* the grain for some reason).
+- Apply 1tsp white pepper and some cooking wine and mix it up.
+- Dice up the tofu to as big as you want them.
+- Add cooking oil to pan.
+- Add fish into pan while the pan is still cold, flipping constantly in low heat until half done.
+- Drain liquids (to remove fish foam) and add tofu.
+- Add water until tofu is half covered.
+- Add 1 tsp sugar and some soy sauce.
+- Continue cooking.
+- Mix 1tbsp cornstarch with 2tsp chicken mix and add to boil.
+- Serve with rice.
+
 ## Stew
 
 Potato + tomato + carrot + beef = baby, you've got a stew goin

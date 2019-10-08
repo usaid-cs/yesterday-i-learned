@@ -1,0 +1,4 @@
+- **Ich**: I/me
+- **Du**: You (informal)
+- **Sie**: She (singular/plural) / it (feminine) / You (formal) / They (formal)
+- **Nein! Ich habe keine Zeit!**: No! I have no time!

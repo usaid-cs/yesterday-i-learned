@@ -66,3 +66,4 @@
 - "Five sigma" or "Six signa" refer to the [area under the normal distribution curve](https://blogs.scientificamerican.com/observations/five-sigmawhats-that/), when the number of sigmas, positive and negative, are taken away. Six sigma allows 3.4 defective features per million parts.
 - You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
 - [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem): The probability of something happening (A), given something else (B) already happened, P(A|B), is P(B|A) * P(A)/P(B).
+- [Coprimes](https://en.wikipedia.org/wiki/Coprime_integers) don't need to be primes; they just need to have no common factors with each other. For example, even though 4 is divisible by 2 and 9 is divisible by 3, 4 and 9 are coprime because they don't share a factor.

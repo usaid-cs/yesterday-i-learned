@@ -1,3 +1,5 @@
+- The [grey squirrel](https://en.wikipedia.org/wiki/Eastern_gray_squirrel), being a [tree squirrel](https://en.wikipedia.org/wiki/Sciurini), does [**not**](https://web.archive.org/web/20060207094417/http://www.macclesfield.gov.uk/pdfs/grey_squirrel.pdf) hibernate. [Ground squirrels](https://en.wikipedia.org/wiki/Ground_squirrel) [tend to hibernate](https://www.terminix.com/pest-control/squirrels/habitat/do-squirrels-hibernate/).
+- Some birds deliberately [put ants or millipedes on themselves](https://en.wikipedia.org/wiki/Anting_%28bird_activity%29), possibly to make the insects discharge their acids (which their feathers are fine with?) before eating them, or to control mites, fungi, or bacteria (limited evidence).
 - "The cornea is the only part of the body with no blood supply – it gets its oxygen directly from the air." - Rebecca, while copying from some other site
 - [Aarkvark](https://en.wikipedia.org/wiki/Aardvark) (*aarde + vark*) means "earth pig".
 - Tibetans have [their own barley](https://en.wikipedia.org/wiki/Highland_barley).
@@ -287,7 +289,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - 80% of [mesothelioma](https://en.wikipedia.org/wiki/Mesothelioma#Causes) is caused by asbestos. The rest they are not sure.
 - Simply not doing exercises can increase cancer rate by [3.4%](https://medicalxpress.com/news/2018-08-unaware-cancer.html).
 - Exercise (or any other way to get your mind off it really) can [prevent cocaine addiction relapses](https://medicalxpress.com/news/2018-08-cocaine-addiction.html).
-- Goats and sheep (Caprinae) and mate, but their offspring are sterile.
+- Goats and sheep (Caprinae) can mate, but their offspring are sterile.
 - [Oxytocin](https://en.wikipedia.org/wiki/Oxytocin) is in chromosome 2 in mice, but chromosome 20 in humans.
 - Make yourself bleed yet again (for religious or cultural reasons) by [fixing your hymen](https://en.wikipedia.org/wiki/Hymenorrhaphy). Styles range from actually tearing a piece of the uterine lining out to make a new membrane, to just a cosmetic piece of gelatin with a capsule of red dye in it. Unrelated: [hyman illustration](https://www.quora.com/How-does-period-blood-come-out-if-the-hymen-covers-the-cervix/answer/Ken-Saladin)
 - [Avascular necrosis or "osteonecrosis"](https://en.wikipedia.org/wiki/Avascular_necrosis) aka 骨枯 occurs when a piece of bone loses its blood supply. The end result is pain and the inability to move. Fractures and dislocations can be risk factors.

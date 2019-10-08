@@ -82,7 +82,6 @@
 - Mercury [destroys](https://en.wikipedia.org/wiki/Aluminium_amalgam) aluminium only if it goes through the Al2O3 layer, and if water is present.
 - Gold is not the most corrosion-resistant metal, apparently... iridium is.
 - [Traffic light experiment](https://en.wikipedia.org/wiki/Chemical_traffic_light_experiment): 100 mL 1% indigo carmine indicator, 6g dextrose, water, 500 mL 0.5 M NaOH, in a 1L bottle. Shake.
-- [Old batteries hit the voltage limit sooner](http://batteryuniversity.com/learn/article/bu_409a_why_do_old_li_ion_batteries_take_long_to_charge), which appears to limit the amount of time the battery can stay in top amperage.
 - NyQuil [pre-mixes acetaminophen in ethanol](https://www.vicks.ca/en-ca/shop-products/nyquil/nyquil-cold-and-flu-nighttime-relief-liquid).
 - If you [do all sorts of things to wood (sodium hydroxide... sodium sulphite... crush... hot press...) to the point where it doesn't even qualify as wood anymore, it is stronger than wood](https://www.nature.com/articles/d41586-018-01600-6), says the University of Maryland.
 - (Probably all) electron microscopes have [moledular pumps](https://en.wikipedia.org/wiki/Turbomolecular_pump) that create a vacuum.

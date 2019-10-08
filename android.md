@@ -6,6 +6,9 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- There are [no bitcoin and gun selling apps on the play store](https://www.xda-developers.com/google-play-store-bans-cryptocurrency-miners/).
+- Pixel 3's "super res zoom" [kicks in automatically on zoom 1.2x and up](https://www.reddit.com/r/GooglePixel/comments/9v5703/i_just_discovered_a_way_to_test_the_super_res/e9axk0z).
+- Huawei devices can have apps that [use magic permissions](https://medium.com/@topjohnwu/huaweis-undocumented-apis-a-backdoor-to-reinstall-google-services-c3a5dd71a7cd) like `com.huawei.permission.sec.MDM_INSTALL_SYS_APP`, not present in anyone else's android, to install privileged apps, such as Google Play Services.
 - Snapdragon: [670 and 675](https://www.techcenturion.com/snapdragon-processors-ranking-and-list) are two 600 series CPUs that are better than the 820s. 660 and 665 are just under the 820s. Snapdragon 801 is unranked.
 - You can't deny an app `android.permission.INTERNET`, even with root.
 - Put `debug.hwui.renderer=skiagl` in your build.prop to make things glitch out faster.

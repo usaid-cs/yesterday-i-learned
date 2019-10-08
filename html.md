@@ -1,3 +1,4 @@
+- There is [a very small number of void tags](https://html.spec.whatwg.org/multipage/syntax.html#elements-2), and the ones you will actually use are: `br`, `hr`, `img`, `input`, `meta`.
 - The `<small>` HTML tag is reserved for defining "smallprint" or legal text.
 - A semantic tag called `<time>` allows you to enter it in ISO 8601 format and a human-readable one at the same time, [like this](https://zachholman.com/talk/utc-is-enough-for-everyone-right): `<time title="May 28, 2018, 3:47 PM PST" datetime="2018-05-28T15:47:57-08:00">six minutes ago</time>`
 - W3C [might](https://www.w3.org/TR/html51/syntax.html#sec-comments) have removed the requirement that comments must have a space between `<!--` and the actual comment, so `<!--comment-->` is valid now.

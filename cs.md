@@ -157,6 +157,10 @@ The stack being empty signals the end of the algorithm run.
 
 ## trees
 
+"Leaves" refer exclusively to the nodes at the bottom level, not just any node with no children.
+A "full" tree is one that has the maximum number of leaf nodes.
+A "complete" binary tree is one that is full, except maybe for the last level.
+
 ### binary search trees
 
 ### [B-trees](https://en.wikipedia.org/wiki/B-tree)

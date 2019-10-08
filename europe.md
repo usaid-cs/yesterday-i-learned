@@ -20,3 +20,4 @@
 - _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 - What's right in between England, France, and Germany? Belgium. Or the Netherlands. To immigrate to the Netherlands as a skilled worker, you need to [find an eligible sponsor company](https://ind.nl/en/Documents/Public_Register_Regular_Labour_and_Highly_Skilled_Migrants.pdf), which are not all companies there, but are quite long (127 pages).
 - [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest) starts in September.
+- [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria) is the [most corrupt country in europe](https://en.wikipedia.org/wiki/Corruption_in_Bulgaria).

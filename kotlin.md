@@ -33,3 +33,6 @@
 - A google map won't load until [you add the key](https://www.raywenderlich.com/230-introduction-to-google-maps-api-for-android-with-kotlin).
 - unlike Java, functions can be top-level. It has however no static methods. The "static method" equivalent would be setting up a [`companion object`](https://android.jlelse.eu/daily-kotlin-static-methods-9330552cde8a). Any method you put in that object (similar syntax to how to put methods in ES6 classes) will be effectively static.
 - [Coroutines are not strictly-speaking threads](https://github.com/Kotlin/kotlinx.coroutines), but in some cases they are implemented as such.
+- The built-in [`arrayOf(...args)`](https://stackoverflow.com/questions/44239869/whats-the-kotlin-equivalent-of-javas-string) gives you an array of those args. You don't need to specify the types. If you want to have an empty array, guess what? `emptyArray()`
+- `getApplicationContext()` becomes `applicationContext` in Kotlin, even though it is a "global".
+- Double quotes are still strings. Single quotes are still chars.

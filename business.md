@@ -31,6 +31,14 @@ Properties (e.g. houses that you don't live in) always beats inflation in the lo
 However, property are vulnerable to pricing bubbles.
 Property value is linked to to bonds value.
 
+In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
+
+There is *always* a market for small houses. There will *always* be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
+
+[Shop around for agents.](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/) You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are as an agent**), expertise, and negotiating power.
+
+It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+
 ## Futures
 
 [Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at $20) to lock in that price.
@@ -132,6 +140,8 @@ If you want to [leave stock-picking to someone else](https://www.theglobeandmail
 For [non-actively managed funds](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp) (e.g. index funds), mutual funds' high MER don't justify themselves. Either get a low-fee mutual fund or an ETF.
 
 They can be bought and sold whenevr the exchange is open, instead of a once-per-night type thing. When you decide to buy/sell, though, do have a bid-ask spread.
+
+ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets are traded. Don't trade an American ETF on the fourth of July, for example.
 
 [Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
 

@@ -1,5 +1,7 @@
 🇨🇦
 
+- [Pension](https://en.wikipedia.org/wiki/Pension) is funded by your employer. [Canada Pension Plan](https://en.wikipedia.org/wiki/Canada_Pension_Plan) (CPP) is funded by you... but [you only need to make one contribution to CPP to collect every single pension after that](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html). So work at least once before you turn 65.
+- If no one can have sex in public, and homeless people don't have homes, then it is already illegal for the poor to reproduce (if everyone were perfectly lawful, anyway).
 - On the dime is the [Nova Scotian bluenose](https://en.wikipedia.org/wiki/Bluenose#Fame_and_commemoration), a schooner. It was good for fishing and racing.
 - "Quebecers" are a [nation](https://en.wikipedia.org/wiki/Nation) because [a bill in 2006 said so](https://en.wikipedia.org/wiki/Qu%C3%A9b%C3%A9cois_nation_motion). This "nation" is not a country but a collection of people, like in "first nations". In Chinese, this translates to either [民族 (ethnic/ethnographic group), 國族 (actually "nation"), 族群 (ethnic group), or 人種 (race)](https://zh.wikipedia.org/wiki/%E6%B0%91%E6%97%8F_%28%E6%B6%88%E6%AD%A7%E7%BE%A9%29).
 - The French came first [among Europeans]. Then the English settlement began in 1610.
@@ -181,7 +183,7 @@
 - [Dick Street](https://www.google.ca/maps/place/Dick+St,+Waterloo,+ON/@43.4564732,-80.5352238,17.75z/data=!4m5!3m4!1s0x882bf4187cbdc25d:0x86ff890d28423903!8m2!3d43.4563352!4d-80.5356282) in Waterloo is very short (~200m).
 - Abraham Weber started everything [in Waterloo].
 - [Abraham Erb](https://en.wikipedia.org/wiki/Abraham_Erb) built a mill, an act of founding Waterloo (1816).
-- Both Breithaupt and Hespeler were big German families. David Bauer, however, was a priest from Toronto.
+- Both Breithaupt and Hespeler were big German families. David Bauer was a [maple leafs player](https://www.hhof.com/LegendsOfHockey/jsp/LegendsMember.jsp?mem=b198901&type=Builder&page=bio&list=ByName) from Kitchener who later became a priest.
 - Conestoga horses pulled Conestoga wagons, which were made with fabric (rare), and did not float. Conestoga horses are now extinct.
 - Only 806 people from the Waterloo region fought in world war 2. Only 4 fought in the Korean war.
 - The perimeter institute is from the last century.

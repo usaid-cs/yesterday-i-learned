@@ -2,6 +2,9 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- ["Inmate"](https://www.thefreedictionary.com/inmate) just means a resident of a dwelling, but has been adapted to mean especially those who are confined to that dwelling.
+- [Autoantonyms](http://www.fun-with-words.com/nym_autoantonyms.html) are words that have two meanings, opposite to each other, such as "original" (new vs old). [Homographic homophonic autoantonyms](http://www.qwantz.com/index.php?comic=1104) are words that sound the same, look the same, and simultaneously mean two things are oppose each other, such as "dust" (dust a crop vs dust a counter).
+- *Ton frère* is always *ton frère*, even if the "you" is a female person.
 - The kind of press releases that look like something awesome happened, but actually something bad did, is called Spins. ["It's been an incredible journey"](https://ourincrediblejourney.tumblr.com/), i.e. "we are closing down now", falls into this category. ["New changes to our service"](https://news.ycombinator.com/item?id=17990891), i.e. "we are killing off our service", also falls into this category.
 - [*Sie*](https://en.wiktionary.org/wiki/Sie#German) is more distant German than [*du*](https://en.wiktionary.org/wiki/du#German) (friends, family, young people) for "you". Note that it is not the case that *Sie* is more formal; it just means the two people are not close enough to use *du*.
 - Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session.
@@ -12,7 +15,7 @@
 - In Dutch, "ij" is [a digraph](https://en.wikipedia.org/wiki/IJ_%28digraph%29) (two letters used together to make one letter), sometimes stylised as a slit U.
 - Androgynous means having both male and female characteristics. There is another word for this.
 - Traditionally, [a noun precedes "(does not?) take place"](https://docs.sqlalchemy.org/en/13/core/defaults.html), i.e. "if foo is unavailable, then bar takes (foo's) place".
-- "Alphabet" is literally alpha + bet(a), the two first letters of the Greek alphabet (heh), which was [the first (?)](https://www.youtube.com/watch?v=yPrcfawo9UM) set to have vowels.
+- "Alphabet" is literally alpha + bet(a), the two first letters of the Greek alphabet (heh), which was [the first (?)](https://www.youtube.com/watch?v=yPrcfawo9UM) set to have [explicit vowels](https://en.wikipedia.org/wiki/History_of_writing#Iron_Age_writing).
 - "To leave no stone unturned" is an idiom that means to do everything possible to find something or to solve a problem (as opposed to a reversi game).
 - [_Prima donna_](https://en.wikipedia.org/wiki/Prima_donna), "first lady", refers to an (Italian) opera's lead female singer.
 - Both "fired" and "sacked" came from the carpentry industry. A carpenter to be given the sack is to be told to pack up and leave. To fire a carpenter, you set his tools on fire, making him unable to work.
@@ -96,7 +99,7 @@
 - "Snide" means derogatory or mocking, but indirectly.
 - _Yankee_ might have come from [Dutch _Janke_ or _Janneke_](https://en.wikipedia.org/wiki/Yankee#Dutch_origin), as New York was [New Netherland](https://en.wikipedia.org/wiki/New_Netherland), a Dutch colony.
 - _Plaid_ is pronounced PLAAD because the word [came from](https://english.stackexchange.com/questions/36415/why-is-plaid-pronounced-plad) Scots Gaelic _plaide_ ("blanket"), where _ai_ has just the AH sound.
-- A collier is either a necklace or a coal miner, depending on [whom](https://ell.stackexchange.com/questions/108782/depends-on-who-you-ask-vs-depends-on-whom-you-ask) you ask.
+- A collier is either a necklace or a coal miner, depending on [whom](https://ell.stackexchange.com/questions/108782/depends-on-who-you-ask-vs-depends-on-whom-you-ask) you ask. HOWEVER. 咕哩 ("coolie") came from [Pekingese](https://en.wikipedia.org/wiki/Beijing_dialect) 苦力, or "manual labour".
 - Funk or _Funke_ is high German for "spark".
 - [萌](https://en.wiktionary.org/wiki/%E8%90%8C) can be understood as "cute" or "adorable", and 卖萌 màiméng would mean to act cutely.
 - The correct spelling for "deli dali" is "dilly-dally".
