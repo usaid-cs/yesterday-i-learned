@@ -1,3 +1,5 @@
+- It is hard to find a country that offers [true, universal free healthcare for everyone](https://www.internationalinsurance.com/health/countries-free-healthcare.php). It is either not completely free or not universal. [**USA is number one**](https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care) when it comes to offering healthcare that is neither free nor universal.
+- ["It's not worth living in a world where China controls my country's art"](https://www.theguardian.com/tv-and-radio/2019/oct/08/we-good-now-china-south-park-creators-issue-mock-apology-after-show-reportedly-censored), South Park. "Don't do it then, no one's forcing you to perform your art in China", a Chinese woman.
 - Being gay is decriminalised in China [since 1997](https://en.wikipedia.org/wiki/LGBT_rights_in_China), and declassified as a mental illness in 2001. Still a lot of stigma though.
 - A dude/dudette named 苍井翔太 is known for being able to [voice women characters](https://www.youtube.com/watch?v=PNSnbjPKG5k) with varying breast sizes.
 - A ["people mover"](https://en.wikipedia.org/wiki/People_mover) specifically refers to small, automatic driverless trains, frequently found in airport terminals and theme parks.
@@ -15,7 +17,7 @@
 - "Adios" is spanish.
 - Honeymoons don't need to be right after your wedding, but it usually makes the most sense.
 - The lowest unemployment rate in any country, ever, was achieved by [Thailand in 2014](https://www.bangkokpost.com/learning/work/466226/why-thailand-unemployment-rate-is-ridiculously-low), at 0.56%.
-- "[Please always remember, telecom, and transportation, are not technology businesses, they are real estate businesses.](https://news.ycombinator.com/item?id=21003773) Telecom’s real estate are exclusive operation licenses, the most important of which being wireless spectrum, and the second most important of which being the places where they can exclusively tear up the earth to lay cable."
+- "[Please always remember, telecom, and transportation, are not technology businesses, they are real estate businesses.](https://news.ycombinator.com/item?id=21003773) Telecom's real estate are exclusive operation licenses, the most important of which being wireless spectrum, and the second most important of which being the places where they can exclusively tear up the earth to lay cable."
 - I hear sonicare toothbrushes without "oral b" on them are the lamborghinis of toothbrushes.
 - You can sharpen a knife with [the bottom of a ceramic mug](https://survivallife.com/sharpen-knife-without-sharpener/).
 - A [tithe](https://en.wikipedia.org/wiki/Tithe) is 1/10 of something, but the word is quite often used to represent the church'es 10% "tax".
@@ -584,7 +586,6 @@
 - In association football, overtime is called extra time.
 - [John Rhys-Davies](https://en.wikipedia.org/wiki/John_Rhys-Davies), who played Gimli the Dwarf in whichever Lord of the Rings movies, is taller than all the hobbits, that king guy, and the wizard.
 - Nursing has the opposite problem as in engineering fields. ["I did nursing for 4 years. I regret every single second of it. Your coworkers, basically all women, will expect you to do all the heavy lifting just because you're a man. (...) The one time I said 'no, you get paid more than me anyway' I got a nice trip to see my supervisor, who of course is also a woman, and berated me for not 'manning up'. Don't nurse if your a man. It's a hellscape of estrogen and gender conforming stereotypes. (...) the expectations on you are MUCH higher than your female coworkers."](https://www.youtube.com/watch?v=lOT0GOyw2pY&lc=UgwYkQgMSDYntvHZNs54AaABAg)
-- Zero didn't appear in historical texts until [1500 years ago](https://www.youtube.com/watch?v=-4vUklg2lCc). Same video describes other numbers having a sensory equivalent, i.e. you can see "1" of something. Same argument does not explain "-1".
 - Make plastic collar inserts with old gift cards (as long as they are white).
 - Tech [enthusiasts are the worst](https://www.youtube.com/watch?v=FJgTKx-rg18) over the long term: they want the lowest price, the pickiest of requirements, and there are so few of them that you can't make the product at scale. To cater to these people, the company must make the best product at the lowest cost. Alternatively, those companies can simply not cater to enthusiasts. Which is why it is common to see, that the moment you get into anything, the same company starts making shit.
 - [Paprika](https://en.wikipedia.org/wiki/Paprika) is ground-up bell peppers.
@@ -753,7 +754,6 @@
 - "Spicy bois" originally only referred to fire ants.
 - 32-bit Windows, with [PAE](https://en.wikipedia.org/wiki/Physical_Address_Extension#Microsoft_Windows), definitely supported more than 4GB of RAM. Windows Server 2003 Enterprise went up to 64GB (which is 32-bit PAE's maximum). It was only the licensing and driver compatibility that capped XP at 4, and Windows 7 Starter at 2.
 - In 2016 after winning his 13th gold medal in an individual event, [Phelps overtook the record from Leonidas of Rhodes as the most decorated Olympian of any era.](https://www.nytimes.com/2016/08/12/sports/olympics/michael-phelps-200-im-ryan-lochte-leonidas.html)
-- Incels as a collective are dangerous not because they can't get laid, but because they express their frustration with not getting laid, and [their support groups become breeding ground for anger, resentment, and toxic ideas](https://www.reddit.com/r/OutOfTheLoop/comments/8h2c2i/what_are_incels_and_why_do_they_want_sex/dygklco/).
 - Both the [imperial horsepower (745.7W) and metric horsepower (735.5W)](https://en.wikipedia.org/wiki/Horsepower) can be approximated to 750W when buying a car.
 - Mechnical turks' ["suggested minimum wage"](https://www.reddit.com/r/mturk/wiki/index) is \$0.10 a minute, which is about half of actual minimum wage.
 - "If [interest rates go up](https://www.reddit.com/r/explainlikeimfive/comments/8hb7vi/eli5_argentina_increases_its_interest_rate_by_40/dyixn5b/) people get more money for saving it. They then don't spend it. This makes companies sad as less people buy their stuff,so they lower prices to invite them over. This lowers inflation."
@@ -1503,8 +1503,6 @@
 - [The 13th Doctor Who is a woman.](https://www.theverge.com/2017/7/16/15973556/jodie-whittaker-bbc-doctor-who-thirteenth-series-eleven-2018-tardis)
 - [STUN](https://en.wikipedia.org/wiki/STUN) used to stand for Simple Traversal of UDP through NAT; now it stands for Session Traversal Utilities for NAT.
 - Side menus in every offical Google app [are all different widths](http://imgur.com/a/v2d6v).
-- [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. _"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry. He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."_
-- [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
 - Pac Man was originally going to be called Puck Man, but was changed because Fuck Man.
 - Every odd number has a 'e' in it; excluding 'and', the first number to have an 'a' is 'one thousand'.
 - Bill Murray did Garfield because he signed on thinking [Joel Coen](http://www.imdb.com/name/nm0001054/) wrote it. [Joel Cohen](https://en.wikipedia.org/wiki/Joel_Cohen_%28writer%29) (with the H) did.

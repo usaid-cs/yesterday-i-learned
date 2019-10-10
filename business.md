@@ -84,6 +84,7 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 ### Looking for a generic trade
 
 - "Don't pick stocks" - [wealthsimple](https://www.wealthsimple.com/5rules) (low MER index funds are good enough for most people)
+- "DON'T PICK STOCKS" - Motley Fool podcast. 40% of companies on the stock exchange end up going out of business.
 - Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell.
 - Buy bonds when stocks are falling. (More research required)
 

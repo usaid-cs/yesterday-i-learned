@@ -67,3 +67,4 @@
 - You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
 - [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem): The probability of something happening (A), given something else (B) already happened, P(A|B), is P(B|A) * P(A)/P(B).
 - [Coprimes](https://en.wikipedia.org/wiki/Coprime_integers) don't need to be primes; they just need to have no common factors with each other. For example, even though 4 is divisible by 2 and 9 is divisible by 3, 4 and 9 are coprime because they don't share a factor.
+- A fair five-sided die can only be emulated by a fair [10-sided die](https://en.wikipedia.org/wiki/Pentagonal_trapezohedron), or by rolling a five-sided cylinder along a flat surface.

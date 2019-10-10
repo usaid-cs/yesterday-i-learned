@@ -1,3 +1,4 @@
+- ["If you think you are compliant with the GDPR but can’t show how, then you’re not GDPR compliant."](https://gdpr.eu/what-is-gdpr/)
 - Germany has more prostitutes per capita than any other country in Europe. [1.2 men visit German prostitutes everyday](http://s.telegraph.co.uk/graphics/projects/welcome-to-paradise/).
 - Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 - Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.
@@ -20,4 +21,4 @@
 - _Baguettes_ can translate to chopsticks. So, baguettes might just mean tiny sticks (bâton being the big stick). Interestingly, [it is the dough, not the shape](https://en.wikipedia.org/wiki/Baguette), that is defined in French law.
 - What's right in between England, France, and Germany? Belgium. Or the Netherlands. To immigrate to the Netherlands as a skilled worker, you need to [find an eligible sponsor company](https://ind.nl/en/Documents/Public_Register_Regular_Labour_and_Highly_Skilled_Migrants.pdf), which are not all companies there, but are quite long (127 pages).
 - [Oktoberfest](https://en.wikipedia.org/wiki/Oktoberfest) starts in September.
-- [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria) is the [most corrupt country in europe](https://en.wikipedia.org/wiki/Corruption_in_Bulgaria).
+- [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria) is the [most corrupt country in europe](https://en.wikipedia.org/wiki/Corruption_in_Bulgaria).- [Superfamily](https://en.wikipedia.org/wiki/Superfamily_%28band%29) was known as Norway's most well-educated and acedemic band. _"At one point, every member of the band had Master's degrees, or were in the progress of getting one. Vocalist Steven Wilson holds a Ph.D. in chemistry. He defended his thesis, On-line multidimensional LC-techniques. Determinations of known and unknown compounds in limited and complex samples, in December 2007."_

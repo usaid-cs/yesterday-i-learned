@@ -79,7 +79,9 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - If you filter by `id__in=queryset`, Django might make it a subquery. But if you do `id__in=list(queryset)`, no matter the size of the queryset, the queryset must be evaluated first, and the two-query version might be faster than the subquery version.
 - It is possible to filter by a date field's component, like `.filter(date__day=10) # Look for dates on the 10th`.
 - Specifying multiple identical query conditions do not cancel previous ones out. `Car.objects.filter(price__gt=100).filter(price__gt=0)` will still build a query similar to `SELECT * FROM tblCar WHERE price > 100 AND price > 0`.
-- [`.exclude()`](https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exclude) generates a `WHERE NOT (conditions)` query rather than flipping those conditions in the code (e.g. `gt` to `<=`).
+- [`.exclude()`](https://docs.djangoproject.com/en/2.0/ref/models/querysets/#django.db.models.query.QuerySet.exclude) generates a `WHERE NOT (conditions)` query rather
+ than flipping those conditions in the code (e.g. `gt` to `<=`).
+- `.exclude(a=1, b=2, c=3)` excludes only objects that have all three of these conditions met. To exclude all of those, use `.exclude(Q(a=1) | Q(b=2) | Q(c=3))`.
 - The `QuerySet` is a monad. You can call `prefetch_related` and `select_related` in either order and it won't care. (It does care about double splicing and double ordering, however.)
 - [`count()` is faster](http://stackoverflow.com/questions/14327036/count-vs-len-on-a-django-queryset) if all you need is a length; `len()` is faster if you already have the whole queryset already evaluated (for instance, when you actually use the whole set in a loop). With that said, the SQL `COUNT()` is very slow when you reach millions of rows, so [find some other way to do it](https://medium.com/squad-engineering/estimated-counts-for-faster-django-admin-change-list-963cbf43683e).
 - Django 1.8 apparently lets you aggregate by an expression now, e.g. `.aggregate(Min('price') + 1)`
@@ -100,20 +102,16 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - In an M2M field, it doesn't matter how many things you have there... if you do `print(foo.bars)` instead of `print(foo.bars.all())`, it's always going to print `Bar.None`.
 - To order a queryset's related fields (like if you are querying users and their products, with products sorted by name), do a `Prefetch()` on those products, with `queryset=` being an ordered set of products.
 - Filtering by `Q()` does nothing, *except* if `|`ed with another `Q()`... so `Q() | Q(foo=1)` is the exact same as `Q() & Q(foo=1)`, because ["the empty Q() should not have any effect at all, whether ORed or ANDed into the query"](https://code.djangoproject.com/ticket/24279).
+- `.using()` in a `Prefetch`'s queryset appears to have no conflicts. For example, `Foo.objects.using('db1').prefetch_related('bars', queryset=Bar.using('db2').objects.all())` *seems* to use db1 for fetching Foo, and then uses db2 to fetch its bars.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
-According to onymous internet sources,
+According to onymous internet sources:
 
-`select_related`
-
-For foreign key & one-to-one relationships
+- `select_related` For foreign key & one-to-one relationships
+- `prefetch_related` For many-to-many, many-to-one, and generic foreign keys (i.e. whenever it isn't easy to do an inner join).
 
 If your query only retrieves a `values()` or `values_list` from a relation or annotated value (e.g. `values_list('foo__bar__baz')`), there is no need to `select_related` that field.
-
-`prefetch_related`
-
-For many-to-many, many-to-one, and generic foreign keys (i.e. whenever it isn't easy to do an inner join).
 
 #### Queries do crazy things when executed in parallel
 

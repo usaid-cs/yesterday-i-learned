@@ -75,3 +75,4 @@
 - To make a [scrollable `ConstraintLayout`](https://stackoverflow.com/questions/43098150/android-how-to-make-a-scrollable-constraintlayout), really put a `ScrollView` outside the `ConstraintLayout`.
 - [`xmlns:tools="http://schemas.android.com/tools"`](https://stackoverflow.com/questions/15368386/what-is-the-meaning-of-xmlnstools-in-android-xml-layout) means every `tools:abc` uses that schema, and that is the namespace in this element. There is no need to redeclare it in children elements.
 - [`RecyclerView`s](https://developer.android.com/reference/android/support/v7/widget/RecyclerView) were created because layout inflation (turning XML into whatever) is such a costly operation that Android would rather not do that for the same type of content.
+- Use [`getResources().getString(R.string.MY_STRING)`](https://stackoverflow.com/a/7454481/1558430) to load a string in your class. If your class is not an instance of `Context` (for example, not an `Activity`)

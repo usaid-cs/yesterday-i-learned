@@ -12,7 +12,7 @@
 - Kotlin does not have a `new` keyword.
 - The default base class is `Any`. All classes implicitly inherit from `Any`.
 - "Overridable" methods are called "open functions", and must be called that to be overridden (e.g. `open fun foo() { ... }`). Overridden methods must also call themselves overrides (e.g. `override fun foo() { ... })`. Like Java, any function that is not open can have `final` in front of it to ensure it is never overridden.
-- Classes _themselves_ must also be marked as open/override and final.
+- Classes _themselves_ must also be marked as open/override and final with the [`open class`](https://kotlinlang.org/docs/tutorials/kotlin-for-py/inheritance.html) syntax.
 - Properties (i.e. attributes) must also be marked as open/override and final.
 - [A file can contain multiple classes.](https://kotlinlang.org/docs/reference/coding-conventions.html) See also: coding conventions.
 - So Kotlin classes ("KClass") are [not](https://kotlinlang.org/docs/reference/reflection.html) Java classes. To get the reference to a class, use `ClassName::class` (a KClass) instead of just `ClassName`. To get the Java class equivalent, use `SomeJavaClass::class.java` instead.
@@ -36,3 +36,6 @@
 - The built-in [`arrayOf(...args)`](https://stackoverflow.com/questions/44239869/whats-the-kotlin-equivalent-of-javas-string) gives you an array of those args. You don't need to specify the types. If you want to have an empty array, guess what? `emptyArray()`
 - `getApplicationContext()` becomes `applicationContext` in Kotlin, even though it is a "global".
 - Double quotes are still strings. Single quotes are still chars.
+- Then `when` built-in, actually just `switch-case`, requires you to specify `->` in front of each case's code block, i.e. `1 -> { ... }`.
+- `/* Block comments /* can */ be nested. */`
+- Strings can have `"substitutions like $this"` (where `val this = "this"`).

@@ -1,5 +1,6 @@
 🇨🇦
 
+- Modal "old age" Canadians today don't die until they are [85 years old](https://www150.statcan.gc.ca/n1/pub/82-624-x/2014001/article/14009-eng.htm). With that said, you can't expect to be functional healthy after the age of 65 (!), and the probability of you dying sharply increases after 85.
 - [Pension](https://en.wikipedia.org/wiki/Pension) is funded by your employer. [Canada Pension Plan](https://en.wikipedia.org/wiki/Canada_Pension_Plan) (CPP) is funded by you... but [you only need to make one contribution to CPP to collect every single pension after that](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html). So work at least once before you turn 65.
 - If no one can have sex in public, and homeless people don't have homes, then it is already illegal for the poor to reproduce (if everyone were perfectly lawful, anyway).
 - On the dime is the [Nova Scotian bluenose](https://en.wikipedia.org/wiki/Bluenose#Fame_and_commemoration), a schooner. It was good for fishing and racing.
