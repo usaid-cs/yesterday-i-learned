@@ -556,3 +556,5 @@ bar
 - [Stackoverflow](https://stackoverflow.com/questions/14083111/should-i-use-encoding-declaration-in-python-3) says [PEP 263 `# coding=utf-8` lines](https://www.python.org/dev/peps/pep-0263/) are not necessary in [python3](https://www.python.org/dev/peps/pep-3120/) if all the files in the same project are in UTF-8, and your editor knows how to deal with it.
 - mypy does not care about whether your `List` annotation includes its subtypes. If subtypes are omitted, [it assumes you return a `list`](sources/list_test.py).
 - For `ConfigParser`, `interpolation` cannot be `False`; it must be `None`.
+- `not 3 < 2` (it's' True) demonstrates that `<` has higher precedence than `not`.
+- [`**` is the only right-to-left operator in python](https://study.com/academy/lesson/python-operator-of-precedence.html). `a ** b ** c` is evaluated as `a ** (b ** c)`. The two are not the same: `3 ** (1 ** 2)` is 3, but `(3 ** 1) ** 2` is 9.

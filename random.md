@@ -1,3 +1,8 @@
+- [Getting sherlocked](https://blog.astropad.com/sherlocked-by-apple/) happens when a big company re-implements a feature or tool that was your core product. An example would be when Apple reimplemented Watson (as Sherlock), or when they made Widgets and put Konfabulator out of business.
+- [100% clothes can be recycled.](https://hundredpercentcotton.com/style/whats-better-100-cotton-or-a-blend-it-depends/) Even 1% spandex in 99% cotton cannot.
+- Dr Strange [had a Tibetan monk in it](https://screenrant.com/doctor-strange-china-tibet-ancient-one/) before they realised they could not air it in China.
+- [Costco](https://en.wikipedia.org/wiki/Costco) is NOT a co-op; it trades on NASDAQ as COST. They just have better employee agreements (and therefore benefits) than other companies.
+- Oracle bought [NetSuite](https://en.wikipedia.org/wiki/NetSuite).
 - It is hard to find a country that offers [true, universal free healthcare for everyone](https://www.internationalinsurance.com/health/countries-free-healthcare.php). It is either not completely free or not universal. [**USA is number one**](https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care) when it comes to offering healthcare that is neither free nor universal.
 - ["It's not worth living in a world where China controls my country's art"](https://www.theguardian.com/tv-and-radio/2019/oct/08/we-good-now-china-south-park-creators-issue-mock-apology-after-show-reportedly-censored), South Park. "Don't do it then, no one's forcing you to perform your art in China", a Chinese woman.
 - Being gay is decriminalised in China [since 1997](https://en.wikipedia.org/wiki/LGBT_rights_in_China), and declassified as a mental illness in 2001. Still a lot of stigma though.

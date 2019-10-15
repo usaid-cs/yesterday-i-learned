@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- A [bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) or "bigraph" is a graph whose nodes ("vertices") can be split into two groups *U* and *V*, such that every line ("edge") connects from U to V.
 - 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
 - [Not having any boarding groups at all](https://www.youtube.com/watch?v=oAHbLRjF0vo) makes boarding faster than if the airlines do nothing at all, which they now do.
 - If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by _a + bi + cj + dk_ rather than _a + bi_ (complex). In this system, _j × k_ somehow comes you _-i_.

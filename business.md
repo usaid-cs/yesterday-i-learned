@@ -13,6 +13,7 @@
 - Related: [Professional style made easy](http://imgur.com/gallery/uuLhR)
 - Do remember that [technical debt](https://news.ycombinator.com/item?id=10925141) _is_ debt; the time you borrow to make a feature must be paid back _soon_, and not _eventually_.
 - The less money a startup has left, [the less likely it will receive more](http://paulgraham.com/pinch.html).
+- Know what you are saving for. You can be saving for a house. You can be saving for a car. You can be saving for retirement. [Know your net worth, identify your goal, and work backwards.](https://www.businessinsider.com/first-step-early-retirement-planning-take-inventory)
 
 # [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
 
@@ -38,6 +39,8 @@ There is *always* a market for small houses. There will *always* be young people
 [Shop around for agents.](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/) You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are as an agent**), expertise, and negotiating power.
 
 It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+
+Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and *will* convince you to buy something else to maximise their commission.
 
 ## Futures
 

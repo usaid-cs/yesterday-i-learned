@@ -1,5 +1,12 @@
 🇨🇦
 
+- On the 279th day of 2019, [that "rotating a goose by 360 degrees" post](https://www.reddit.com/r/uwaterloo/comments/dgw3s8/day_279280_were_doubletiming_it_to_make_up_for/) had two 278th days.
+- Canadian Tire owns Sport Chek.
+- Canadian Tire Money is/was printed by [real banknote companies](https://en.wikipedia.org/wiki/Canadian_Tire_money).
+- [Pure silver and gold items are not taxed (HST).](https://www.cdncoin.com/terms.asp) They may still charge a PST.
+- [Throonie](https://www.mint.ca/store/coins/coin-prod2890130?&rcmiid=ban%7chomepage%7ccarousel%7cstorecoinscoin-prod2890130langenCA&#.WLRQm2_ythE).
+- [89% of Canada's land is crown land; the other 11% is privately owned.](https://en.wikipedia.org/wiki/Land_ownership_in_Canada) When you "buy" a place or land with that place, you only buy "land tenure" (right to hold the land) in that place. As for the [11% that actually owns private land](https://www.ontariowoodlot.com/publications-and-links/owa-publications/landowner-guides/download/59_77492d55a6aab2093dcf761c0bf49cc5) (pdf), they sell wood.
+- [Canada is one of the top 5 greening countries in the world](https://www.nasa.gov/feature/ames/human-activity-in-china-and-india-dominates-the-greening-of-earth-nasa-study-shows), with China and India being first. Even America is above average.
 - Modal "old age" Canadians today don't die until they are [85 years old](https://www150.statcan.gc.ca/n1/pub/82-624-x/2014001/article/14009-eng.htm). With that said, you can't expect to be functional healthy after the age of 65 (!), and the probability of you dying sharply increases after 85.
 - [Pension](https://en.wikipedia.org/wiki/Pension) is funded by your employer. [Canada Pension Plan](https://en.wikipedia.org/wiki/Canada_Pension_Plan) (CPP) is funded by you... but [you only need to make one contribution to CPP to collect every single pension after that](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/eligibility.html). So work at least once before you turn 65.
 - If no one can have sex in public, and homeless people don't have homes, then it is already illegal for the poor to reproduce (if everyone were perfectly lawful, anyway).

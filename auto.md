@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- Going in for maintenance, don't go on an empty tank unless the mechanic tells you to (for tank swaps and such).
 - If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.
 - You can download a car, [Strati](https://en.wikipedia.org/wiki/Strati_%28automobile%29)... and 3D print it yourself.
 - Driving costs per km is [a real metric](https://www.caa.ca/wp-content/uploads/2016/09/CAA_Driving_Cost_English_2013_web.pdf), given how CAA does it. $/km varies wildly, mostly by how much you drive. But you should always drive as little as possible, because money doesn't care how much per km you drove at. Confused by how much you should drive? *Don't drive.*
