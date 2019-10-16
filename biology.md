@@ -1,3 +1,4 @@
+- Some animals, particularly gazelles, [pronk](https://en.wikipedia.org/wiki/Stotting) or stott, i.e. jump high into the air because they are happy.
 - Higher latitude regions have *earlier* harvest dates because the [growing season](https://en.wikipedia.org/wiki/Growing_season) is shorter. Lower latitudes may have multiple harvests.
 - Viagra contributes to [more and more old people getting STDs](https://health.usnews.com/health-care/patient-advice/articles/2018-12-10/what-to-know-about-rising-std-rates-among-seniors).
 - [Without sleep](https://www.outsideonline.com/2292806/your-body-no-sleep): your reaction time triples, your long term memory shuts down, and your brain goes on autopilot. You might be walking and talking, since you are "microsleeping", you have no idea you're doing it. You may get cancer. [WTO calls night shifts a probable carcinogen](https://www.sciencedaily.com/releases/2015/01/150105081757.htm).

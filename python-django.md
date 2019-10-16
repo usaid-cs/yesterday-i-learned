@@ -226,6 +226,7 @@ Well don't make so many apps in the project. You did it to yourself, mate.
 - You always avoid translating variables (i.e. `_(variable)`) because [`makemessages` won't detect them](https://docs.djangoproject.com/en/2.2/topics/i18n/translation/#standard-translation).
 - [`MIDDLEWARE_CLASSES` got deprecated in 1.10; it is `MIDDLEWARE` now](https://docs.djangoproject.com/en/1.11/ref/settings/#std:setting-MIDDLEWARE). The major difference is: `MIDDLEWARE_CLASSES` short-circuits to a 500 if a middleware throws an exception, while for `MIDDLEWARE`, all subsequent middlewares see a 500 response.
 - You `makemessages` only when you have a `locale` folder. If you don't have a locale folder, Django gives you junk, half-translated files everywhere.
+- Specifying [`list_select_related`](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_select_related) in a custom admin is required only if you access any `list_display`'s indirect foreign keys, e.g. `obj.foo.bar.baz`. All direct foreign keys in `list_display` will be selected unless you also override `list_display_related`.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+- Electric vehicles still need wheel alignments. [The things EVs don't need](https://crsautomotive.com/what-maintenance-do-electric-vehicles-need/): gas, muffler, spark plugs, engine oil, transmission fluid, radiator fluid.
 - Going in for maintenance, don't go on an empty tank unless the mechanic tells you to (for tank swaps and such).
 - If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.
 - You can download a car, [Strati](https://en.wikipedia.org/wiki/Strati_%28automobile%29)... and 3D print it yourself.

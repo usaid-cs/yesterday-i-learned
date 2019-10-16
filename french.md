@@ -128,6 +128,7 @@
 - **Mettre**: to put. _J'ai mis ma chemise_: I put on my shirt.
 - **Miracle**: miracle, except sounds funny.
 - **Montréal**: a city where the letter T is never pronounced.
+- **Neuf**: new OR nine. _quoi de neuf?_: What is _new_?
 - **Nots clés**: Keywords.
 - **Mourir**: to die. _Nous allons tous mourir_ (tous with hard S): we are all gonna die.
 - **Ne**: Not. _Ne pas_: not not ("do not").

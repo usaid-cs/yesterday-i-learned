@@ -1,3 +1,5 @@
+![Drake](https://i.imgur.com/20fiqQR.jpg)
+
 - [Getting sherlocked](https://blog.astropad.com/sherlocked-by-apple/) happens when a big company re-implements a feature or tool that was your core product. An example would be when Apple reimplemented Watson (as Sherlock), or when they made Widgets and put Konfabulator out of business.
 - [100% clothes can be recycled.](https://hundredpercentcotton.com/style/whats-better-100-cotton-or-a-blend-it-depends/) Even 1% spandex in 99% cotton cannot.
 - Dr Strange [had a Tibetan monk in it](https://screenrant.com/doctor-strange-china-tibet-ancient-one/) before they realised they could not air it in China.

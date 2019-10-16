@@ -1,5 +1,7 @@
 > "Everybody needs money. That's why they call it money." - Danny
 
+- The difference between a [heavy user](http://www.businessdictionary.com/definition/heavy-users.html) and a light user is light users have other things to keep them occupied.
+- [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by selling fund 3 rather than putting more money into fund 1, _rebalancing implies selling high and buying low._
 - [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall): if you suddenly hit the jackpot and end up with a lot of money, congratulations! Read the link! (I didn't read it.)
 - **Sales are proof-of-concept**. Sales are the fact that you can make up your opinion, but you can't make up your own facts. Your opinion is, "I think I have something." **Sales is, "I know I have something."** - Daymond, same kind of shark
 - [The average tech guy in Toronto earns \$100k a year](https://www.theglobeandmail.com/business/careers/article-tech-salary-growth-in-toronto-outpaces-most-global-hubs/). That is lower than global averages.
