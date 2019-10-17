@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- [Businesses' "New Normal"](https://en.wikipedia.org/wiki/New_Normal_%28business%29) (financial conditions after the 2008 crisis) came four years before China's New Normal ("新常态"), a term they thought they coined to indicate slowing economic growth.
+- The past tense of "sing" could not be "singed" because it was already taken by the past tense of [singe](https://www.thefreedictionary.com/singed), to burn the surface of something. The G is soft.
 - ["Inmate"](https://www.thefreedictionary.com/inmate) just means a resident of a dwelling, but has been adapted to mean especially those who are confined to that dwelling.
 - [Autoantonyms](http://www.fun-with-words.com/nym_autoantonyms.html) are words that have two meanings, opposite to each other, such as "original" (new vs old). [Homographic homophonic autoantonyms](http://www.qwantz.com/index.php?comic=1104) are words that sound the same, look the same, and simultaneously mean two things are oppose each other, such as "dust" (dust a crop vs dust a counter).
 - *Ton frère* is always *ton frère*, even if the "you" is a female person.

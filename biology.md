@@ -1,3 +1,4 @@
+- [Infrasounds](https://www.youtube.com/watch?v=df8QAgTJIio) (sounds at or below 50Hz, it looks like) can cause anxiety and nausea, especially if you don't know where it's coming from, which adds paranoia and desperation into the mix.
 - Some animals, particularly gazelles, [pronk](https://en.wikipedia.org/wiki/Stotting) or stott, i.e. jump high into the air because they are happy.
 - Higher latitude regions have *earlier* harvest dates because the [growing season](https://en.wikipedia.org/wiki/Growing_season) is shorter. Lower latitudes may have multiple harvests.
 - Viagra contributes to [more and more old people getting STDs](https://health.usnews.com/health-care/patient-advice/articles/2018-12-10/what-to-know-about-rising-std-rates-among-seniors).

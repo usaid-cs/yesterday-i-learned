@@ -1,5 +1,6 @@
 🇨🇦
 
+- The official way to destroy illegal rolled cannibis joints is to [unwrap them one by one](https://nationalpost.com/news/canada/how-do-you-destroy-77m-worth-of-pot-well-you-dont-put-it-in-a-pile-and-spark-it-up) and incinerate the contents (and for some reason incinerating the joints is unacceptable).
 - On the 279th day of 2019, [that "rotating a goose by 360 degrees" post](https://www.reddit.com/r/uwaterloo/comments/dgw3s8/day_279280_were_doubletiming_it_to_make_up_for/) had two 278th days.
 - Canadian Tire owns Sport Chek.
 - Canadian Tire Money is/was printed by [real banknote companies](https://en.wikipedia.org/wiki/Canadian_Tire_money).

@@ -558,3 +558,4 @@ bar
 - For `ConfigParser`, `interpolation` cannot be `False`; it must be `None`.
 - `not 3 < 2` (it's' True) demonstrates that `<` has higher precedence than `not`.
 - [`**` is the only right-to-left operator in python](https://study.com/academy/lesson/python-operator-of-precedence.html). `a ** b ** c` is evaluated as `a ** (b ** c)`. The two are not the same: `3 ** (1 ** 2)` is 3, but `(3 ** 1) ** 2` is 9.
+- `callable()` is a built-in! You don't need to reinvent it with `hasattr(blah, '__call__')`.

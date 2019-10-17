@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- If you want to send an empty message in IM, just go to [emptycharacter.com](http://emptycharacter.com/) and copy whatever's there, which is [U+200E, left-to-right mark](https://en.wikipedia.org/wiki/Left-to-right_mark).
+- Of the [14 main characters in Endgame](https://www.dailymail.co.uk/news/article-6958449/The-REAL-battle-Avengers-male-superheroes-Endgame-enjoy-screen-time-women.html), only 3 heroes wear capes consistently.
+- [CNN rates food cultures](https://www.cnn.com/travel/article/world-best-food-cultures/index.html): Italian, Chinese, French, Spanish, Japanese, Indian, Greek, Thai, Mexican, *American*. Vietnamese did not make the cut.
+- The voice of MTR has been [Cheri Chan](https://www.scmp.com/video/scmp-originals/1723150/meet-voice-you-hear-every-day-you-ride-hong-kongs-mtr) since 1992. [Dr Chan works at HKU.](https://web.edu.hku.hk/staff/academic/yycheri)
 - [Getting sherlocked](https://blog.astropad.com/sherlocked-by-apple/) happens when a big company re-implements a feature or tool that was your core product. An example would be when Apple reimplemented Watson (as Sherlock), or when they made Widgets and put Konfabulator out of business.
 - [100% clothes can be recycled.](https://hundredpercentcotton.com/style/whats-better-100-cotton-or-a-blend-it-depends/) Even 1% spandex in 99% cotton cannot.
 - Dr Strange [had a Tibetan monk in it](https://screenrant.com/doctor-strange-china-tibet-ancient-one/) before they realised they could not air it in China.

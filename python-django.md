@@ -33,6 +33,7 @@
 - `OneToOneField` is a subclass of `ForeignKey`, so the schema _should not_ change if you change between the two.
 - There wasn't a real reason for handling cascade deletes in Django (code) rather than the DB (data) other than that [it happened](https://stackoverflow.com/a/32793838/1558430).
 - [Abstract `related_name` can contain string substitutes](https://docs.djangoproject.com/en/dev/topics/db/models/#be-careful-with-related-name-and-related-query-name) like `%(class)s` (the class name of a subclassed model) and `%(app_label)s` (the app of the subclassed model).
+- `auth.AnonymousUser` is not a subclass of anything. It is not an `AbstractBaseUser`.
 
 ### [`blank=True` or `null=True`](http://stackoverflow.com/a/8609425)?
 
