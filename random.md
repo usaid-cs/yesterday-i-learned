@@ -1,5 +1,13 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Lean ground beef often comes from [dairy cows](https://www.cbc.ca/news/canada/prince-edward-island/pei-beef-prices-oct-2019-1.5328551), different from the steak you see beside it.
+- "Heirloom quality" is not a formal definition of quality; it just means something so expensive you'll want to pass it on, regardless of actual quality.
+- Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
+- The ["Canadian Warran Buffett"](https://en.wikipedia.org/wiki/Prem_Watsa) is also called Prem. *In April 2017, Watsa brought attention to concerns of a real estate bubble in Toronto. He asserts that most Canadian banks cannot survive a 50% drop in the value of real estate. "It's going to come down, and a lot of people are going to get hurt" said Watsa during Fairfax's annual general meeting.*
+- [賢者タイム](http://www.jlect.com/entry/2891/kenjataimu-kenjataimu/), ken-JA TAI-mu, describes the clarity of thought achieved post-orgasm. They also call it 射精終了のこと, or "the moment after you ejaculate".
+- [Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture) was a popular "futurist", space-age kind of architecture from the 1930s to the 1960s. "Googie" was the wife of the original owner, Mortimer C. Burton's wife, Lillian K. Burton's nick name.
+- Bruce / Caitlyn Jenner was once Kim Kardashian's daddy. They both live in [Hidden Hills, CA](https://en.wikipedia.org/wiki/Hidden_Hills,_California).
+- The left side of a [yukata](https://en.wikipedia.org/wiki/Yukata) (aka 浴衣) is worn over the right side, unless you are dead, in which case the right side goes over the left. Originally a bathrobe, it is now worn everywhere during the summer.
 - If you want to send an empty message in IM, just go to [emptycharacter.com](http://emptycharacter.com/) and copy whatever's there, which is [U+200E, left-to-right mark](https://en.wikipedia.org/wiki/Left-to-right_mark).
 - Of the [14 main characters in Endgame](https://www.dailymail.co.uk/news/article-6958449/The-REAL-battle-Avengers-male-superheroes-Endgame-enjoy-screen-time-women.html), only 3 heroes wear capes consistently.
 - [CNN rates food cultures](https://www.cnn.com/travel/article/world-best-food-cultures/index.html): Italian, Chinese, French, Spanish, Japanese, Indian, Greek, Thai, Mexican, *American*. Vietnamese did not make the cut.

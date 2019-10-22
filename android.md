@@ -6,6 +6,9 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- `adb ls` does not take any arguments for `ls`. `adb shell ls` does.
+- Like a joke, AOSP does not come with standard linux tools like `nano`/`pico`, `vi`, or any editor. Even `ed`.
+- Sultanxda, who also goes by "[Sultan Alsawaf](https://www.linkedin.com/in/sultan-alsawaf-8290b2168)" sometimes, works for Canonical now.
 - Xposed does not have an impact on performance (something like 0.2% on GeekBench 5). However, [Xposed v90 beta3 (last official version) can cause your apps to fail to launch](https://github.com/rovo89/Xposed/issues/275) from `Check failed: instrumentation_frame.method_->GetNonObsoleteMethod() == GetMethod()->GetNonObsoleteMethod() (instrumentation_frame.method_->GetNonObsoleteMethod()=0x6f895330, GetMethod()->GetNonObsoleteMethod()=0x7a4b3ec588) Expected: <runtime method>.<runtime internal callee-save reference and argument registers method><no signature>...`. There is no workaround.
 - There are [no bitcoin and gun selling apps on the play store](https://www.xda-developers.com/google-play-store-bans-cryptocurrency-miners/).
 - Pixel 3's "super res zoom" [kicks in automatically on zoom 1.2x and up](https://www.reddit.com/r/GooglePixel/comments/9v5703/i_just_discovered_a_way_to_test_the_super_res/e9axk0z).

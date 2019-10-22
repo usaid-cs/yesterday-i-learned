@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- The IUPAC name for NaBH4 (Sodium borohydride) is Sodium tetrahydridoborate.
 - Depending on who you ask, water can also be called [hydroxylic acid](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody).
 - Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html), which are [basically](https://en.wikipedia.org/wiki/Denture_cleaner#Ingredients) bleach, baking soda, and citric acid.
 - ["Carbonated water contains macronutrients that are essential to plant growth, according to researchers at the University of Colorado. The nutrients found in carbonated water are potassium, carbon, oxygen, hydrogen, phosphorus, sulfur and sodium."](https://www.hunker.com/12476437/the-effect-of-carbonated-water-on-plant-growth)

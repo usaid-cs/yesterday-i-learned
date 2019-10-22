@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- The typical compression ratio for zram is somewhere between [3:1](https://wiki.gentoo.org/wiki/Zram) to [2:1](https://www.kernel.org/doc/Documentation/blockdev/zram.txt), i.e. 1GB of memory takes up 333MB to 500MB of real RAM.
 - The [NX (no execute) bit](https://en.wikipedia.org/wiki/NX_bit) marks areas of _memory_ as non-executable, and the CPU will then refuse to execute memory there as code. For [reasons](https://stackoverflow.com/questions/2168555/how-does-the-nx-flag-work), both data and code are loaded in roughly the same place when you run a program.
 - ["ext4 has much better inode access/index times than f2fs so clearly better for read only"](https://forum.xda-developers.com/axon-7/themes/guide-ext4-to-f2fs-migration-t3529215) - Guy on the internet
 - If your `ls -l` ends with a `+` on any permission (e.g. `drwxrwxrwx+`), then the file or directory has extended permissions (ACL). [ACLs can add or remove permissions](https://serverfault.com/questions/227852/what-does-a-mean-at-the-end-of-the-permissions-from-ls-l#comment1127261_227855), meaning someone can have permissions even though the file is "000+".
@@ -296,3 +297,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - The official Keepass supports [a lot of plugins](http://keepass.info/plugins.html#otpkeyprov).
 - `while ();` is an infinite loop.
 - You _pipe_ to programs, and _redirect_ to streams (including files).
+- F2FS (on my device at least) has [GC issues](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-t3404970/post73148651#post73148651) that [may](https://twitter.com/arter97/status/894410845286825984) be fixed in later versions.

@@ -1,3 +1,6 @@
+- Injecting corticosteroids into your knee might accelerate osteoarthritis, said [Boston](https://www.cbc.ca/news/health/osteoarthritis-corticosteroid-injections-safety-1.5327102).
+- [Someone](https://outdoors.stackexchange.com/questions/88/how-can-i-acclimatize-to-cold) said that taking cold showers and hot and back cold again is healthy for you.
+- [The brain is 60% fat](https://www.healthline.com/health/is-the-brain-a-muscle).
 - [Infrasounds](https://www.youtube.com/watch?v=df8QAgTJIio) (sounds at or below 50Hz, it looks like) can cause anxiety and nausea, especially if you don't know where it's coming from, which adds paranoia and desperation into the mix.
 - Some animals, particularly gazelles, [pronk](https://en.wikipedia.org/wiki/Stotting) or stott, i.e. jump high into the air because they are happy.
 - Higher latitude regions have *earlier* harvest dates because the [growing season](https://en.wikipedia.org/wiki/Growing_season) is shorter. Lower latitudes may have multiple harvests.

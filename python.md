@@ -481,7 +481,7 @@ bar
 - NumPy has its own PEP-like things, called [NEPs](https://www.numpy.org/neps/) ("NumPy Enhancement Proposals").
 - Disable a named logger: `logging.getLogger('some name').propagate = False`
 - If a function `yield`s, the function returns a `generator`, and any function that returns the return of that function also returns the same generator.
-- [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` may be omitted.
+- [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` may be omitted. It is a shorthand (saves 3 characters) compared to `Union[..., None]`.
 - A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
 - The 1.0 release of [html5lib](https://pypi.org/project/html5lib/) (you know, the first one after 0.9999999...) was a botched release.
 - Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.

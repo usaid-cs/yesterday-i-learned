@@ -139,6 +139,8 @@ Further reading: [0001.md](sources/0001.md)
 
 If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically $10 through your standard broker, contributions to mutual funds typically have no additional fees.
 
+[Mutual fund orders are executed at 4pm eastern time](https://www.investopedia.com/ask/answers/110615/when-are-mutual-fund-orders-executed.asp) (or 4:30pm? That's when the TSX closes). The price is calculated, [roughly](https://www.investopedia.com/terms/n/nav.asp), the fund's assets - liabilities, divided by the number of shares there is.
+
 ## ETFs (Exchange-traded funds)
 
 For [non-actively managed funds](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp) (e.g. index funds), mutual funds' high MER don't justify themselves. Either get a low-fee mutual fund or an ETF.
