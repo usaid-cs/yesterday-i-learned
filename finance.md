@@ -1,5 +1,6 @@
 > "Everybody needs money. That's why they call it money." - Danny
 
+- In a scenario where overnight interest rates are [negative](https://www.moneysense.ca/save/investing/what-are-negative-interest-rates-explainer/), it is possible for saving money in the bank to _cost_ money. As a result, people are inclined to invest money elsewhere, which means the money is being used in the economy.
 - The term [blue chip](https://en.wikipedia.org/wiki/Blue_chip_%28stock_market%29) stocks came from poker, where the highest-valued chip (at least at the time) is blue, at $25.
 - The difference between a [heavy user](http://www.businessdictionary.com/definition/heavy-users.html) and a light user is light users have other things to keep them occupied.
 - [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by selling fund 3 rather than putting more money into fund 1, _rebalancing implies selling high and buying low._

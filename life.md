@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Resumes full of one to two-year experiences can also mean the companies you choose are [hire-and-fire places](https://news.ycombinator.com/item?id=21322696) that kill you off when a project is complete.
 - Half the fun of skydiving comes from knowing your parachutes might fail and you might die. Yet you do not.
 - [For a party](https://www.gifts.com/blog/hostess-gift-etiquette), bringing enough for literally everyone to eat/drink is rare for a guest to do, but the host would normally not be jealous over/about that.
 - 愛屋及烏 is not a good term. It means you must grow to love everything about your house, including the crows above it. There is also a difference between 忍讓 ("tolerate") and 包容 ("accept").

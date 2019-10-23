@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "Busy" sounds like "bizzy" because [it was *bisig*](https://en.wiktionary.org/wiki/bisig#Old_English) in old English. It used to mean "diligent".
+- "Incredible", as its first definition, means "impossible to believe", rather than "wonderful".
 - [A reader can learn unknown words in context if they achieve 98% comprehension](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like), i.e. not knowing one word in every 50. 80% comprehension (from your own calculations, that's like the top 1500 words) still reads like gibbish.
 - [Businesses' "New Normal"](https://en.wikipedia.org/wiki/New_Normal_%28business%29) (financial conditions after the 2008 crisis) came four years before China's New Normal ("新常态"), a term they thought they coined to indicate slowing economic growth.
 - The past tense of "sing" could not be "singed" because it was already taken by the past tense of [singe](https://www.thefreedictionary.com/singed), to burn the surface of something. The G is soft.

@@ -68,7 +68,7 @@
 - `\c`: show the current user and database. `\c dbname` also switches to that database.
 - `\d`: list tables (and indexes!)
 - [`\d+ tablename`](http://stackoverflow.com/a/109334/1558430): describe the table.
-- `\l`: list databases.
+- `\l`: list databases. Note that these commands (called "meta commands") [do not end with a semicolon](https://stackoverflow.com/a/1517692/1558430).
 - Create an index: `create index concurrently if not exists index_name on table_name (ordered_fields);` Creating an index non-concurrently will block out writes, but not reads.
 - Drop an index: `drop index concurrently if exists index_name;`
 - Rename an index: `alter index old_index_name rename to new_index_name;`
