@@ -1,5 +1,9 @@
 ![](http://i.imgur.com/gqjVFBq.jpg)
 
+> "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
+
+Read more: https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=top-gear-2002&episode=s22e82
+
 - Electric vehicles still need wheel alignments. [The things EVs don't need](https://crsautomotive.com/what-maintenance-do-electric-vehicles-need/): gas, muffler, spark plugs, engine oil, transmission fluid, radiator fluid.
 - Going in for maintenance, don't go on an empty tank unless the mechanic tells you to (for tank swaps and such).
 - If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.

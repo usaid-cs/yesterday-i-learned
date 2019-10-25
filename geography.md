@@ -1,3 +1,4 @@
+- [Africa](https://i.redd.it/ocs4h9w3cot31.jpg) was the Roman name for the tiny province where Tunisia, Algeria, and Libya now are.
 - The French usage of [ha-ha](https://en.wikipedia.org/wiki/Ha-ha) (*hâ-hâ*) actually means an unexpected obstacle on a path. The [Ha! Ha! River](https://en.wikipedia.org/wiki/Ha!_Ha!_River) means the river was an obstacle.
 - Taipei is surrounded by a city called [New Taipei](https://en.wikipedia.org/wiki/New_Taipei_City).
 - Because Greenwich is (lat, 0), longitude goes from -180 to 180, not 0 to 360.

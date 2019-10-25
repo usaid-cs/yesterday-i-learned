@@ -62,7 +62,7 @@
 - [It is impossible to catch a warning](http://stackoverflow.com/a/1241751) (or an error, for that matter.) so what PHP people do is create an error handler (`set_error_handler`) that raises exceptions, run the offending code in a try-catch block, and catch the same exception that you throw. After the try-catch block, unset the error handler. "And they say PHP isn't a disaster."
 - Despite how it is worded in the docs, `finally` doesn't run if any exception is re-thrown from the `catch` block.
 - Use [`hash_equals`](http://php.net/manual/en/function.hash-equals.php) for comparing strings sensitive to timing attack.
-- Because PHP is weakly-typed, [any md5 string in the form `0e\d+` will be considered as scientific notation](https://www.reddit.com/r/lolphp/comments/34sxw5/md5240610708_md5qnkcdzo/.compact), causing the `==` operator to compare them as numbers.
+- Because PHP is weakly-typed, [any md5 string in the form `0e\d+` will be considered as scientific notation](https://www.reddit.com/r/lolphp/comments/34sxw5/md5240610708_md5qnkcdzo/), causing the `==` operator to compare them as numbers.
 - PHP has its own [`realpath_cache`](http://jpauli.github.io/2014/06/30/realpath-cache.html) that may cause problems if you attempt to manipulate the same file more than once in multiple system calls.
 - Since PHP cannot have an array with `""` as its key (["you can't have empty strings as property names on an object"](https://www.reddit.com/r/lolphp/comments/42gxxd/decodes_to_empty_but_encodes_to_empty_so_you_cant/) ), [a valid JSON of `{"": ""}` is converted to `{"_empty_": ""}`](https://3v4l.org/Tg6GB).
 - [PSR-8](https://stackoverflow.com/questions/30762644/huggableinterface-in-php-and-psr-8) ("Huggable interface") is a joke.

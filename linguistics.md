@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Not that many verbs [end with S but not with SS](https://www.quora.com/Is-there-any-verb-that-ends-with-s-letter-not-with-double-ss). All notable examples are nouns that have since become verbs, for example: gas, bus, bias, canvas. An exception to that is **has**, which is an edge case to begin with.
 - "Busy" sounds like "bizzy" because [it was *bisig*](https://en.wiktionary.org/wiki/bisig#Old_English) in old English. It used to mean "diligent".
 - "Incredible", as its first definition, means "impossible to believe", rather than "wonderful".
 - [A reader can learn unknown words in context if they achieve 98% comprehension](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like), i.e. not knowing one word in every 50. 80% comprehension (from your own calculations, that's like the top 1500 words) still reads like gibbish.

@@ -6,7 +6,6 @@
 - Your options cannot be sold back to the company. That is, unless someone else wants to buy your options, they are also worth nothing.
 - Your options are immediately vested ('yours', or eqv.) at no cost if the company gets acquired.
 - Your options is exerciseable up to 90 days after you leaving the company.
-- Avoid stocks you find on the news (for they become unstable), "the next big thing" companies, and companies that diversify through acquisition instead of innovation.
 - [The four stages of company development](http://takeaswig.com/the-end-of-the-facebook-era): Emergence (when it started), Coalescence (when it becomes large enough that people can't ignore it), Bureaucratization (when it becomes a formal giant), and Decline (when it stops being useful)
 - **Speculating**: buying a company's stocks when the company isn't making a profit.
 - Look at a company's political climate in addition to what the company's competition is doing.
@@ -19,32 +18,36 @@
 
 ## Cash
 
-Low volatility, no [risk](https://www.reddit.com/r/stocks/comments/32kd0x/whether_youre_new_to_trading_or_notlean_on_these/.compact). Never beats inflation.
+Low volatility, no [risk](https://www.reddit.com/r/stocks/comments/32kd0x/whether_youre_new_to_trading_or_notlean_on_these/). Incomparable purchasing power. Never beats inflation.
+
+With cash, you aren't investing.
 
 ## Bonds
 
-Issued by the government, bonds have low volatility, low risk, and low return (but beats inflation).
-Bonds values do not correlate to stock market performance, so when the stock market is doing poorly, pick bonds.
+Issued by the government, bonds have low volatility, low risk, and low return. [Sometimes the return won't even be positive](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
+Bonds values do not correlate to stock market performance, so when the stock market is doing poorly, bonds might lose less than stocks do.
 
 ## Property
 
-Properties (e.g. houses that you don't live in) always beats inflation in the long term.
+Properties (e.g. houses that you don't live in) usually beat inflation in the long term.
 However, property are vulnerable to pricing bubbles.
 Property value is linked to to bonds value.
 
 In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
 
-There is *always* a market for small houses. There will *always* be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
+There is _always_ a market for small houses. There will _always_ be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
 
 [Shop around for agents.](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/) You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are as an agent**), expertise, and negotiating power.
 
 It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
 
-Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and *will* convince you to buy something else to maximise their commission.
+Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and _will_ convince you to buy something else to maximise their commission.
+
+"The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
 
 ## Futures
 
-[Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at $20) to lock in that price.
+[Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at \$20) to lock in that price.
 
 If you don't need oil, you can also sell your contract, which was locked in at a lower price (say $20), to someone else, who wants to buy it for a higher price (say $50) because the price of oil is even higher now (say $100). Now you earn $30 by selling a contract but not the oil.
 
@@ -58,7 +61,7 @@ At the cost of high volatility, equity provides the highest return, provided tha
 
 ### Shorting
 
-["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference.
+["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.
 
 Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-moves-first-time-investors.asp?no_header_alt=true) involve borrowing money to buy stocks that (you hope it will) go up.
 
@@ -73,6 +76,7 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 - The stock's _price-to-earnings ratio_ should be between 20 and 40. [Generally speaking, having a high P/E ratio means that investors like you and believe that you have a bright future](http://techcrunch.com/2014/07/05/the-new-fast-food/), but [too high of a P/E ratio means that the stock is overvalued.](http://www.investopedia.com/articles/00/092200.asp)
   - [Different industries have different acceptable P/E ratios.](https://www.investopedia.com/video/play/stock-lower-pe-always-better-choice/) when comparing P/E ratios, only do so for companies in the same industry.
 - The stock's _price-to-sales ratio_ should be close to 1.
+- Avoid stocks you find on the news (for they become unstable), "the next big thing" companies, and companies that diversify through acquisition instead of innovation.
 
 [You should also like what the company does](https://www.reddit.com/r/stocks/comments/5rsnr5/what_is_the_most_important_research_before_buying/dd9v416/):
 
@@ -100,7 +104,8 @@ Further reading: [0001.md](sources/0001.md)
 #### To buy
 
 - Consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
-- Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic.
+- Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic. (after the fall is done, it is not called the bear market anymore.)
+- It doesn't hurt to buy stocks _after_ it is done dropping. Buying before it's done dropping is called "catching a falling knife".
 - Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.
 - [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
 - [Relative Strength Index, RSI](http://www.investopedia.com/terms/r/rsi.asp) should be under 50. 100 means the stock is extremely overbought. 0 means the stock is extremely [oversold](http://www.investopedia.com/terms/o/oversold.asp). See [stockcharts.com](http://stockcharts.com/freecharts/) for visuals. Be careful with the index, as modifying its calculation period can switch the results completely. "Oversold" may also just mean the stock is doing very poorly, instead of a bargain indicator.
@@ -115,7 +120,10 @@ Further reading: [0001.md](sources/0001.md)
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
+(Also called 套現, or "cash out")
+
 - When the price is right (hits your target). [Do not be greedy.](http://www.investopedia.com/articles/stocks/08/learn-loss.asp)
+- When the price is too low (where you lose too much).
 - When the company is no longer doing its business the right way or making enough sales
 - When a better stock exists
 - When the company is acquired
@@ -127,19 +135,20 @@ Further reading: [0001.md](sources/0001.md)
 - ~~In 2019. 2020 is when the last of baby boomers reach the age of 60.~~ (But they don't just sell everything at once, so ignore me.)
 - When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
 - Never, because you're holding and collecting dividends.
-
-### [Gap ups and downs](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort)
-
-- A Full Gap Up occurs when the opening price is greater than yesterday's high price.
-- A Full Gap Down occurs when the opening price is less than yesterday's low.
-- A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
-- A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.
+- [Never put yourself in a position where you _need to sell at a certain time_](https://www.thebalance.com/risks-when-selecting-equity-investments-356429). By doing so, you lose the "good stocks trend up after a long enough wait" advantage.
+- When the insiders are selling (a lot). Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 
 ## Mutual Funds
 
-If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically $10 through your standard broker, contributions to mutual funds typically have no additional fees.
+If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically \$10 through your standard broker, contributions to mutual funds typically have no additional fees.
 
 [Mutual fund orders are executed at 4pm eastern time](https://www.investopedia.com/ask/answers/110615/when-are-mutual-fund-orders-executed.asp) (or 4:30pm? That's when the TSX closes). The price is calculated, [roughly](https://www.investopedia.com/terms/n/nav.asp), the fund's assets - liabilities, divided by the number of shares there is.
+
+[**Dollar cost averaging**](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is a fancy term for "putting $100 into your mutual funds every month when you have $10000". If you don't have the lump sum to begin with, it is called **automatic investing** instead. On one hand, it does reduce risk for when, say, the market crashes shortly after you deposit a lump sum amount. On the other hand, since you didn't put in that lump sum amount, you don't benefit from the gains if the market goes up. So: throw in a lump sum if you have the money _and_ the market is expected to go up. Throw in a invest small amounts regularly otherwise.
+
+- Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
+- [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by selling fund 3 rather than putting more money into fund 1, _rebalancing implies selling high and buying low._
+- /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
 
 ## ETFs (Exchange-traded funds)
 
@@ -150,6 +159,13 @@ They can be bought and sold whenevr the exchange is open, instead of a once-per-
 ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets are traded. Don't trade an American ETF on the fourth of July, for example.
 
 [Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
+
+## BitCoin
+
+Never treat BitCoin as an investment. You can gamble all you want, but it is not an investment.
+
+- A security is a tradable financial asset of any kind, but [BitCoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset), which can be tangible or intangible.
+- "The fact that 90% of people use [BitCoin] for speculation rather than as currency is all the proof you need that it's a bubble."
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 
@@ -184,3 +200,7 @@ ETFs can be traded even when the assets' exchanges are closed. Try not to trade 
 - p.s. "bought deal" means someone buys all available shares.
 - [Slippage](http://www.investopedia.com/terms/s/slippage.asp) refers to the difference between the expected price of a trade and the price at which the trade is actually executed. However, [beta slippage](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) is something else; it refers to the difference between "going down 10% and then back up by 10%", which, unfortunately, does not add up to 1.
 - ["Consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
+- A [Full Gap Up](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort) occurs when the opening price is greater than yesterday's high price.
+- A Full Gap Down occurs when the opening price is less than yesterday's low.
+- A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
+- A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.

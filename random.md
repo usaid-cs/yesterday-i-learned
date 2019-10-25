@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- A commencement (n.) can also be a north american ceremony.
 - Lean ground beef often comes from [dairy cows](https://www.cbc.ca/news/canada/prince-edward-island/pei-beef-prices-oct-2019-1.5328551), different from the steak you see beside it.
 - "Heirloom quality" is not a formal definition of quality; it just means something so expensive you'll want to pass it on, regardless of actual quality.
 - Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
