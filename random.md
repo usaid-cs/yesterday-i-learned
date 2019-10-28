@@ -1,6 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
-- A commencement (n.) can also be a north american ceremony.
+- Use a short rope to suffocate. Use a medium rope to break your neck. Use a long rope to decapitate.
+- The main issue with Hong Kong's 派錢 strategy and Alberta's Resource Rebate cheques is that money is not re-invested into the economy, and that it does not solve the root problems, which were both the diversification of the region's economy. It is a textbook example of "give a man a fish".
+- "Deep web" is just stuff that search engines didn't index. "Dark web" is the secret shit everyone talks about... and it includes Tor. If that's the case, the deep web really isn't that deep.
+- The scrollbar exists for a reason. On mobile, [some users have trouble telling how far down they are when reading an article](https://ello.co/dredmorbius/post/0hgfswmoti3fi5zgftjecq). Others noted that scrollbars were once used to *scroll* somewhere as well (by dragging it) but this functionality has since disappeared.
+- A commencement (n.) can also be a north american graduation ceremony.
 - Lean ground beef often comes from [dairy cows](https://www.cbc.ca/news/canada/prince-edward-island/pei-beef-prices-oct-2019-1.5328551), different from the steak you see beside it.
 - "Heirloom quality" is not a formal definition of quality; it just means something so expensive you'll want to pass it on, regardless of actual quality.
 - Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.

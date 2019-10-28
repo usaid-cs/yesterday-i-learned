@@ -2,8 +2,6 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
-Read more: https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=top-gear-2002&episode=s22e82
-
 - Electric vehicles still need wheel alignments. [The things EVs don't need](https://crsautomotive.com/what-maintenance-do-electric-vehicles-need/): gas, muffler, spark plugs, engine oil, transmission fluid, radiator fluid.
 - Going in for maintenance, don't go on an empty tank unless the mechanic tells you to (for tank swaps and such).
 - If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.
@@ -76,7 +74,7 @@ Read more: https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-
 - Unless you can plug it in in some (way shape form), hybrids aren't the answer to an oil crisis. Using half the gas is still using gas. [Plug-in hybrids ("PHEVs") can travel 20~80km without gasoline](https://www.plugndrive.ca/electric-cars-available-in-canada/), about 25% the distance of pure electric vehicles, and [should](https://www.slideshare.net/gshobb4005/electric-cars-vs-gas) have the total cost of ownership if you plan to own the vehicle forever.
 - [People who listen to techno ran through twice as many red lights as people who didn't listen to anything.](https://www.youtube.com/watch?v=OlV8A0SLa6Y)
 - Olive oil might dissolve tree sap.
-- All of Toyota's brands (including Scion and Lexus) have [the lowest maintenance cost over 10 years](https://i.imgur.com/HYfsuJ9.jpg) among the 30 brands sampled.
+- All of Toyota's brands (including Scion and Lexus) have [the lowest maintenance cost over 10 years](https://i.imgur.com/HYfsuJ9.jpg) among the 30 brands sampled. A Honda can cost, on average, $200 more to maintain per year; a BMW, $1200 more per year.
 - The [pulse and glide](http://www.metrompg.com/posts/pulse-and-glide.htm) hypermiling method, alternating between 40 and 60km/h on a 50km/h road, _requires_ that you disengage the engine when you coast from 60 to 40 (so it doesn't engine brake).
 - When you _lost_ control in the snow (not before you lose it), you are supposed to [hit the gas into the intended direction](https://www.reddit.com/r/canada/comments/5gn9lt/crazy_morning_outside_the_office/), not brake. Braking does nothing in that particular situation.
 - This guy on reddit [said](https://www.reddit.com/r/Justrolledintotheshop/comments/51ld5r/you_mean_i_have_to_change_fluids_and_filters/d7cu0gf) that it is worth the money to upgrade the engine air filter to a higher grade one that blocks finer dust, despite google showing nothing about it.

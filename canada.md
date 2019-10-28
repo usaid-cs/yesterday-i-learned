@@ -1,5 +1,6 @@
 🇨🇦
 
+- Bell obscurely trades under the name ["BCE Inc"](https://en.wikipedia.org/wiki/BCE_Inc.).
 - The [blue box recyling program](https://en.wikipedia.org/wiki/Blue_box_recycling_system) started in Kitchener.
 - [The major difference between a Canadian province and a territory is that provinces receive their power and authority from the Constitution Act, whereas territorial governments have powers delegated to them by the Parliament of Canada.](https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada) Territories also don't have "provincial taxes". The money comes directly from the federal government.
 - View your newspaper biases from [2019 Canadian federal election party endorsements by media](https://en.wikipedia.org/wiki/2019_Canadian_federal_election#Endorsements). Toronto Star is liberal. National Post is conservative. No one liked NDP. Le Devoir supported BQ.

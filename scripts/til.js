@@ -63,7 +63,10 @@
   function fillRandomFact() {
     if (!(facts && facts.length)) return;
     const randomEl = document.getElementById("random");
-    const randomFact = facts[Math.floor(Math.random() * facts.length)];
+    let randomFact = '';
+    while (randomFact.length < 10) {
+        randomFact = facts[Math.floor(Math.random() * facts.length)];
+    }
     randomEl.innerHTML = markdown.toHTML(randomFact);
   }
   window.fillRandomFact = fillRandomFact;

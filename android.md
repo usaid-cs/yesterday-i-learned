@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- RCS has never had end-to-end encryption. [It is a protocol designed for carrier interop, not privacy](https://www.reddit.com/r/Android/comments/dnwwoq/privacy_rcs_messages_will_use_googles_relay/). Client-to-server encryption is possible, but the server always knows what you are saying.
 - `adb ls` does not take any arguments for `ls`. `adb shell ls` does.
 - Like a joke, AOSP does not come with standard linux tools like `nano`/`pico`, `vi`, or any editor. Even `ed`.
 - Sultanxda, who also goes by "[Sultan Alsawaf](https://www.linkedin.com/in/sultan-alsawaf-8290b2168)" sometimes, works for Canonical now.

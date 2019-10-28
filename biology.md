@@ -1,3 +1,5 @@
+- Frogs have such long, unidirectional tongues that they must push their food down with their eyeballs.
+- Male echidnas have four headed penes/penises.
 - Injecting corticosteroids into your knee might accelerate osteoarthritis, said [Boston](https://www.cbc.ca/news/health/osteoarthritis-corticosteroid-injections-safety-1.5327102).
 - [Someone](https://outdoors.stackexchange.com/questions/88/how-can-i-acclimatize-to-cold) said that taking cold showers and hot and back cold again is healthy for you.
 - [The brain is 60% fat](https://www.healthline.com/health/is-the-brain-a-muscle).

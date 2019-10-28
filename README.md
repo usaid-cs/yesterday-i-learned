@@ -21,6 +21,7 @@
 - [anthropology.md](anthropology.md)
 - [business.md](business.md)
 - [finance.md](finance.md)
+- [investing.md](investing.md)
 
 ## 400 Language
 
