@@ -13,7 +13,6 @@
 - The less money a startup has left, [the less likely it will receive more](http://paulgraham.com/pinch.html).
 - Know what you are saving for. You can be saving for a house. You can be saving for a car. You can be saving for retirement. [Know your net worth, identify your goal, and work backwards.](https://www.businessinsider.com/first-step-early-retirement-planning-take-inventory)
 
-
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 
 - Don't attempt to manage unmotivated people.
@@ -22,6 +21,7 @@
 - Listen when people explain the reasoning behind their decisions.
 - Define success clearly, so people can meet it.
 - "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."
+- Your coworkers may want to discuss salary. [There are pros and cons](https://www.monster.ca/career-advice/article/Pros-And-Cons-Of-Discussing-Salaries-At-Work) to discussing salary. Most importantly, discussing salaries is to _your personal advantage_, but may be a disadvantage to team productivity.
 
 ## [How not to fail](http://themacro.com/articles/2016/06/how-not-to-fail/)
 

@@ -1,3 +1,7 @@
+- Munchies most certainly does not help with indigestion. Being hungry (the body needing calories) and having an appetite (you want to eat) are two different things.
+- The longer you sit on the toilet, the more likely you are to get hemorrhoids.
+- Withdrawing from long term opoid use brings pain to places that didn't hurt before. This makes you physically rely on opoids.
+- If you jerk around right before you fall asleep, it's called [hypnic jerk](https://en.wikipedia.org/wiki/Hypnic_jerk). Don't drink so much coffee.
 - Frogs have such long, unidirectional tongues that they must push their food down with their eyeballs.
 - Male echidnas have four headed penes/penises.
 - Injecting corticosteroids into your knee might accelerate osteoarthritis, said [Boston](https://www.cbc.ca/news/health/osteoarthritis-corticosteroid-injections-safety-1.5327102).

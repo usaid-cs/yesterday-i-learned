@@ -107,6 +107,7 @@
 - **Journal**: newspaper.
 - **Jupe**: skirt.
 - **Là**: either Here or There. [_Je suis là_](https://www.duolingo.com/comment/578722/Je-suis-l%C3%A0) can mean either "I am there" or "I am here". But "Je suis ici" always means "I am here".
+- **Langue**: either language, or tongue. That's where "mother tongue" came from.
 - **Laver**: to wash. _Ne te laves pas_: do not wash (take a bath).
 - **Lire**: to read. _Nous lisons le journal_: we read the newspaper.
 - **Lit**: bed. _Il lit au lit_: he reads in bed.

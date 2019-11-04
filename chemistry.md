@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [Ballpoint pen ink](https://en.wikipedia.org/wiki/Ballpoint_pen#Inks) is suspended in some benzyl alcohol or [phenoxyethanol](https://en.wikipedia.org/wiki/Phenoxyethanol). [Blue inks](https://en.wikipedia.org/wiki/Prussian_blue) are typically basic, while [black inks](https://sciencing.com/ballpoint-pen-ink-made-of-10036405.html) are mostly [carbon](https://en.wikipedia.org/wiki/Carbon_black).
 - The IUPAC name for NaBH4 (Sodium borohydride) is Sodium tetrahydridoborate.
 - Depending on who you ask, water can also be called [hydroxylic acid](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody).
 - Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html), which are [basically](https://en.wikipedia.org/wiki/Denture_cleaner#Ingredients) bleach, baking soda, and citric acid.

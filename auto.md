@@ -2,11 +2,14 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- Those "damage reported to police" stickers are for [proving to the insurance that the police saw the dent](https://www.guelphmercury.com/news-story/2772296-accident-reporting-centre-to-handle-minor-fender-benders/), and sometimes [helping the police spot unreported hit and runs](https://hamiltonpolice.on.ca/road-safety/accident-reporting), so they can be removed as soon as you finish filing a claim with your insurance.
+- [The Honda Element was known for having its catalytic converter stolen](https://www.reddit.com/r/Justrolledintotheshop/comments/dp1pfd/uhaul_must_be_tired_of_replacing_stolen_catalytic/) because it has more platinum than usual, and it's an SUV so you can crawl right underneath with no tools.
+- People waiting at a mechanic for their cars to be fixed are also called waiters.
 - Electric vehicles still need wheel alignments. [The things EVs don't need](https://crsautomotive.com/what-maintenance-do-electric-vehicles-need/): gas, muffler, spark plugs, engine oil, transmission fluid, radiator fluid.
 - Going in for maintenance, don't go on an empty tank unless the mechanic tells you to (for tank swaps and such).
 - If you buy a broken car battery from the scrapyard and [trade it in under warranty](https://www.reddit.com/r/UnethicalLifeProTips/comments/dekc4y/ulpt_what_a_free_or_heavily_discounted_new_car/), you get a cheap new car battery.
 - You can download a car, [Strati](https://en.wikipedia.org/wiki/Strati_%28automobile%29)... and 3D print it yourself.
-- Driving costs per km is [a real metric](https://www.caa.ca/wp-content/uploads/2016/09/CAA_Driving_Cost_English_2013_web.pdf), given how CAA does it. $/km varies wildly, mostly by how much you drive. But you should always drive as little as possible, because money doesn't care how much per km you drove at. Confused by how much you should drive? *Don't drive.*
+- Driving costs per km is [a real metric](https://www.caa.ca/wp-content/uploads/2016/09/CAA_Driving_Cost_English_2013_web.pdf), given how CAA does it. \$/km varies wildly, mostly by how much you drive. But you should always drive as little as possible, because money doesn't care how much per km you drove at. Confused by how much you should drive? _Don't drive._
 - In a [manual transmission](https://www.youtube.com/watch?v=dKxtfmzI6X0), the stick really connects directly to the control sleeves (which change gears).
 - Some truck cabs can be [quite luxurious](https://www.core77.com/posts/59146/What-Do-Luxury-Sleeper-Cabs-for-Long-Haul-Truck-Drivers-Look-Like). Imagine: hotel.
 - Trucks usually have bed lights.
@@ -60,7 +63,7 @@
 - [A cold engine should never be red-lined.](https://www.reddit.com/r/AskAShittyMechanic/comments/3uvjzb/engine_warm_up_advice/) (It sounds obvious when it is phrased this way)
 - Soft suspensions result in more body roll, thus more roll-over accidents. Instead, harder suspensions break your spine on a day-to-day basis, saving you from potential accidents.
 - [Never buy a VW in September](https://www.reddit.com/r/Justrolledintotheshop/comments/3ovdzr/just_got_my_internetordered_mounted_wheels_and/cw148dj) (because Oktoberfest)
-- Never buy a car designed during a recession or depression. They have massive per-car margins.
+- Never buy a car designed during a recession or depression. They have massive per-car margins and are built like shit.
 - ["If you see a car with the two wipers facing each other—this is known as the opposed-arm pattern—that probably wasn't the result of an aesthetic choice or a marketing consideration. It more likely had to do with a packaging issue. The tandem pattern is more cost-effective, but sometimes it doesn't fit, so if you see that opposed-arm configuration, it usually means there was no room for the motor in the middle area."](https://arstechnica.com/cars/2017/02/have-you-looked-at-your-windshield-wipers-lately/)
 - Intuitively speaking, wheels must be at least twice as tall as what you want the car's ground clearance to be. 20cm clearance requires 16-inch wheels (including tires).
 - European cars sold in 2018 [_have_](https://en.wikipedia.org/wiki/ECall) to have an always-listening microphone installed for emergency purposes.

@@ -1,5 +1,6 @@
 > "Everybody needs money. That's why they call it money." - Danny
 
+- [Biweekly (once every two weeks) employees usually receive 26 paycheques per year](https://smallbusiness.chron.com/difference-between-biweekly-semimonthly-payroll-23886.html); semimonthly employees receive 24, and each payment is 8% more.
 - The term [blue chip](https://en.wikipedia.org/wiki/Blue_chip_%28stock_market%29) stocks came from poker, where the highest-valued chip (at least at the time) is blue, at \$25.
 - The difference between a [heavy user](http://www.businessdictionary.com/definition/heavy-users.html) and a light user is light users have other things to keep them occupied.
 - [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall): if you suddenly hit the jackpot and end up with a lot of money, congratulations! Read the link! (I didn't read it.)

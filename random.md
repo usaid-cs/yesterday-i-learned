@@ -1,5 +1,24 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [People tend not to sell houses in November and December](https://www.dhavaldesai.ca/Housing-Market-Charts-May-2019) because of Christmas parties.
+- Leather is actually in [huge surplus](https://www.supplychaindive.com/news/beef-leather-industry-by-products-surplus/526449/) from people eating beef and the availability of [vegan leather alternatives](https://www.heddels.com/2019/06/vegan-leather-made-pros-cons/).
+- A [lifer](https://www.merriam-webster.com/dictionary/lifer) is a person on life sentence.
+- [Shingles need to be replaced every 15-20 years](https://ajreliable.com/how-often-does-a-roof-need-to-be-replaced/) (except rubber and metal ones) to remove mould and water damage.
+- [DevOps is YAML.](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) Everyone writes a lot of it. Everyone hates it.
+- A certain [man named Xi](https://en.wikipedia.org/wiki/Xi_Jinping) removed the Chinese president's two-term limit while he was president, in 2018. Apparently [two people voted against the idea](https://www.bbc.com/news/world-asia-china-43361276) but thousands said aye.
+- Ever since Campbell ruined their entire soup line with cheaper ingredients, even [Walmart brand soups might be a better bet](https://www.reddit.com/r/AskReddit/comments/dq82ee/which_brand_has_lost_you_as_a_customer/f61rqjo/). Someone also claimed that [their low-sodium soups are actually calcium chloride soups](https://www.reddit.com/r/AskReddit/comments/dq82ee/which_brand_has_lost_you_as_a_customer/f621drt/) instead, so watch out of those I guess.
+- A "costume" is a dress code that reflects class, gender, profession, ethnicity, that sort of thing.
+- [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) cofounded Reddit?? Anyway, he scraped US research articles off MIT's site, got arrested for leaking what he believed should be freely available, and hanged himself.
+- [Tupperware parties](https://en.wikipedia.org/wiki/Tupperware#Tupperware_parties): if you make your neighbours buy tupperware, you get free tupperware. This happened all around the world.
+- The CPC is a funny party because [the party was founded on Marxist principles, but they also arrest Marxists](https://www.npr.org/2018/11/21/669509554/in-china-the-communist-partys-latest-unlikely-target-young-marxists).
+- Marriage between Hadza couples are a simple [approval from their parents](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.399.2912&rep=rep1&type=pdf) after they previously had sex. Since there is no ceremony or official declaration of monogamy, a fight may break out if a woman had laid with several males simultaneously.
+- Pregnant women cannot [clean litterboxes](https://www.babycenter.com/0_four-household-chores-to-avoid-during-pregnancy_10317892.bc).
+- The AC (sometimes called HVAC) is also responsible for [draining moisture out of the home](https://basementgurus.com/diy-homemade-dehumidifier/).
+- A star next to an elevator floor button's number might mean there is a fire exit that goes outside.
+- 1-ply toilet paper is often easier on the plumbing.
+- If you are afraid of the government, [IMEI/IMSI leakage alone can be used to locate you](https://youtu.be/VFns39RXPrU).
+- Insurance companies often cannot insure too many units in the same building or neighbourhood, because if that building/neighbourhood suffers an event (such as fire/flood), it would be too much for a single company to pay out.
+- [Best practices don't stay best forever](https://agileforall.com/be-better-dont-limit-yourself-to-best-practices/). Nor are they the best for every case. Learn from best practices, but do not limit yourself to them.
 - Use a short rope to suffocate. Use a medium rope to break your neck. Use a long rope to decapitate.
 - The main issue with Hong Kong's 派錢 strategy and Alberta's Resource Rebate cheques is that money is not re-invested into the economy, and that it does not solve the root problems, which were both the diversification of the region's economy. It is a textbook example of "give a man a fish".
 - "Deep web" is just stuff that search engines didn't index. "Dark web" is the secret shit everyone talks about... and it includes Tor. If that's the case, the deep web really isn't that deep.
@@ -8,8 +27,7 @@
 - Lean ground beef often comes from [dairy cows](https://www.cbc.ca/news/canada/prince-edward-island/pei-beef-prices-oct-2019-1.5328551), different from the steak you see beside it.
 - "Heirloom quality" is not a formal definition of quality; it just means something so expensive you'll want to pass it on, regardless of actual quality.
 - Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
-- The ["Canadian Warran Buffett"](https://en.wikipedia.org/wiki/Prem_Watsa) is also called Prem. *In April 2017, Watsa brought attention to concerns of a real estate bubble in Toronto. He asserts that most Canadian banks cannot survive a 50% drop in the value of real estate. "It's going to come down, and a lot of people are going to get hurt" said Watsa during Fairfax's annual general meeting.*
-- [賢者タイム](http://www.jlect.com/entry/2891/kenjataimu-kenjataimu/), ken-JA TAI-mu, describes the clarity of thought achieved post-orgasm. They also call it 射精終了のこと, or "the moment after you ejaculate".
+- [賢者タイム](http://www.jlect.com/entry/2891/kenjataimu-kenjataimu/), ken-JA + [TAI-mu aka "time"](https://en.wiktionary.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0#Japanese), describes the clarity of thought achieved post-orgasm. They also call it 射精終了のこと, or "the moment after you ejaculate".
 - [Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture) was a popular "futurist", space-age kind of architecture from the 1930s to the 1960s. "Googie" was the wife of the original owner, Mortimer C. Burton's wife, Lillian K. Burton's nick name.
 - Bruce / Caitlyn Jenner was once Kim Kardashian's daddy. They both live in [Hidden Hills, CA](https://en.wikipedia.org/wiki/Hidden_Hills,_California).
 - The left side of a [yukata](https://en.wikipedia.org/wiki/Yukata) (aka 浴衣) is worn over the right side, unless you are dead, in which case the right side goes over the left. Originally a bathrobe, it is now worn everywhere during the summer.

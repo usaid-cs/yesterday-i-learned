@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- [Through the looking glass](https://www.quora.com/What-does-the-phrase-through-the-looking-glass-mean) means the situation is strange and other-worldly.
+- Despite having equivalent prefixes, consecrate (to make something sacred) and desecrate (to treat something with violent disrepect) have roughly opposite meanings.
 - ["No dice"](https://www.phrases.org.uk/meanings/no-dice.html) means, or used to mean, that there is no chance of [gambling] conviction if dice cannot be found. No dice, no conviction. Now it means no success when something is attempted, or no service when it is requested.
 - "Geese" follow the same proto-Germanic plural convention like feet and teeth, but ["Moose" came from Algonquian languages](https://en.wikipedia.org/wiki/Moose#Etymology_and_naming) and is therefore not pluralised in any way.
 - "Pin" and "Pen" [can](https://www.babbel.com/en/magazine/united-states-of-accents-southern-american-english/) sound the same in the south.

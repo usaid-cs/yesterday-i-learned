@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- According to an unsourced meme, [being in a one-bedroom apartment for the rest of your life until you're placed in a nursing home by the government](https://www.reddit.com/r/lostgeneration/comments/dr6znb/pretty_much_this/) was once a form of punishment.
 - Be a friend: "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." - Hilary Ziglar (a white man)
 - [Being good at a lot of similar things](https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428) is sufficient, and far less demanding, than being the best at one thing.
 - Sometimes it might be good to think about [doing something with a high ROTI (return on time invested)](https://www.inc.com/john-eades/why-you-should-be-more-worried-about-your-return-on-time-instead-on-investment.html) rather than just ROI, i.e. "is it worth my time?" "Beyond a good income, what do you want to achieve from your career? Professional accolades? Awards? The knowledge you've made a difference? All are valuable. All require time. None can be purchased with cash."

@@ -1,8 +1,8 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
-- How to read odds: if the odds is "3/5" and you bet $10, you can get $10 + ($10 * (3/5) = $6) if you win. If you lose, well, you lose $10. If I understand this correctly, the odds of "3/5" directly expresses the proportion of people who support your bet (the 5), and the proportion of people who bet otherwise (the 3), but has nothing to do with the actual probability of an event happening.
+- How to read odds: if the odds is "3/5" and you bet $10, you can get $10 + ($10 * (3/5) = $6) if you win. If you lose, well, you lose \$10. If I understand this correctly, the odds of "3/5" directly expresses the proportion of people who support your bet (the 5), and the proportion of people who bet otherwise (the 3), but has nothing to do with the actual probability of an event happening.
 - The [area of a dodecagon](https://www.reddit.com/r/u_mtimetraveller/comments/dkljyz) (12 sided polygon) is exactly 3r^2. In contract, the smallest circle that encloses it is pi r^2, or roughly 14% larger.
-- A [bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) or "bigraph" is a graph whose nodes ("vertices") can be split into two groups *U* and *V*, such that every line ("edge") connects from U to V.
+- A [bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) or "bigraph" is a graph whose nodes ("vertices") can be split into two groups _U_ and _V_, such that every line ("edge") connects from U to V.
 - 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
 - [Not having any boarding groups at all](https://www.youtube.com/watch?v=oAHbLRjF0vo) makes boarding faster than if the airlines do nothing at all, which they now do.
 - If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by _a + bi + cj + dk_ rather than _a + bi_ (complex). In this system, _j × k_ somehow comes you _-i_.
@@ -68,6 +68,8 @@
 - a^(-b) is equal to 1/(a^b).
 - "Five sigma" or "Six signa" refer to the [area under the normal distribution curve](https://blogs.scientificamerican.com/observations/five-sigmawhats-that/), when the number of sigmas, positive and negative, are taken away. Six sigma allows 3.4 defective features per million parts.
 - You can be [doing some crazy things](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html) to get the average of a 5-star rating.
-- [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem): The probability of something happening (A), given something else (B) already happened, P(A|B), is P(B|A) * P(A)/P(B).
+- [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem): The probability of something happening (A), given something else (B) already happened, P(A|B), is P(B|A) \* P(A)/P(B).
 - [Coprimes](https://en.wikipedia.org/wiki/Coprime_integers) don't need to be primes; they just need to have no common factors with each other. For example, even though 4 is divisible by 2 and 9 is divisible by 3, 4 and 9 are coprime because they don't share a factor.
 - A fair five-sided die can only be emulated by a fair [10-sided die](https://en.wikipedia.org/wiki/Pentagonal_trapezohedron), or by rolling a five-sided cylinder along a flat surface.
+- `set_1 \ set_2` (backslash) is [equivalent to subtracting set_2 from set_1](https://math.stackexchange.com/a/1080998).
+- The addition rule in probability is: if you have two independent but not mutually-exclusive events (e.g. "Likes red" and "Likes blue") P(A) and P(B), and you want to know the probability of either one happening, it is not just P(A) + P(B), because you might double-count the probability of the case when both happen (imagine the overlap in a Venn diagram). So subtract that, i.e. P(A or B) = P(A) + P(B) - P(A and B).

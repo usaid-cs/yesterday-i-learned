@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- If you are going to buy a device that doesn't come with a headphone jack (because options do not exist), at least [pick a device that allows both analogue and digital audio passthrough](https://www.reddit.com/r/oneplus/comments/bqdn58/dont_buy_the_oneplus_usbc_to_headphone_jack/eo3nljn/) so you can get any adapter you want and it will work. Example: OnePlus. Counterexample: Google.
 - RCS has never had end-to-end encryption. [It is a protocol designed for carrier interop, not privacy](https://www.reddit.com/r/Android/comments/dnwwoq/privacy_rcs_messages_will_use_googles_relay/). Client-to-server encryption is possible, but the server always knows what you are saying.
 - `adb ls` does not take any arguments for `ls`. `adb shell ls` does.
 - Like a joke, AOSP does not come with standard linux tools like `nano`/`pico`, `vi`, or any editor. Even `ed`.
@@ -26,8 +27,8 @@
 - Apps that don't need to read phone state, but request that permission anyway, are reading your IMEI number. [To uniquely track you.](https://developer.android.com/preview/privacy/data-identifiers)
 - [Verify your adb RSA key](https://android.stackexchange.com/questions/50922/how-can-i-see-the-fingerprint-of-my-adbkey) with `awk '{print $1}' < ~/.android/adbkey.pub | openssl base64 -A -d -a | openssl md5 -c`
 - If you don't have a phone app (say you adb disabled it) and someone calls you, the device will still ring, but you will have no way to answer.
-- Keeping a $1000 phone for 2 years means using it for $1.35 a day. 3 years? $0.90 a day.
-- Assuming a reasonable goal of owning a phone for $0.50 per day, and you aim to use it for 2 years, the maximum cost (before tax) of such a phone is around $323, or, if you plan to keep it for 3 whole years, then around $484. In contrast, your phone (around $700) needs around 3.5 years to pay itself off, and the earliest you can get a new phone is: _February 2021_. **Repair your devices.**
+- Keeping a $1000 phone for 2 years means using it for $1.35 a day. 3 years? \$0.90 a day. See also: [entire chart](sources/image3.png).
+- Assuming a reasonable goal of owning a phone for $0.50 per day, and you aim to use it for 2 years, the maximum cost (before tax) of such a phone is around $323, or, if you plan to keep it for 3 whole years, then around $484 (also the figure for if you intend to keep the same battery sealed for 3 years). In contrast, your phone (around $700) needs around 3.5 years to pay itself off, and the earliest you can get a new phone is: _March 2021_. **Repair your devices.**
 - Use [`monkey -p com.packagename 1`](https://stackoverflow.com/a/25398877/1558430) to launch an app without input.
 - Your particular device's fstab file is located at `/system/vendor/etc/fstab.qcom`. You can change your zram size there (if you enabled it).
 - If your device is _not_ encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or just delete `/data/system/locksettings.db`, which says you should have a PIN.

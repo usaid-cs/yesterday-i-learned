@@ -556,6 +556,9 @@ bar
 - [Stackoverflow](https://stackoverflow.com/questions/14083111/should-i-use-encoding-declaration-in-python-3) says [PEP 263 `# coding=utf-8` lines](https://www.python.org/dev/peps/pep-0263/) are not necessary in [python3](https://www.python.org/dev/peps/pep-3120/) if all the files in the same project are in UTF-8, and your editor knows how to deal with it.
 - mypy does not care about whether your `List` annotation includes its subtypes. If subtypes are omitted, [it assumes you return a `list`](sources/list_test.py).
 - For `ConfigParser`, `interpolation` cannot be `False`; it must be `None`.
-- `not 3 < 2` (it's' True) demonstrates that `<` has higher precedence than `not`.
+- `not 3 < 2` (it's True) demonstrates that `<` has higher precedence than `not`.
 - [`**` is the only right-to-left operator in python](https://study.com/academy/lesson/python-operator-of-precedence.html). `a ** b ** c` is evaluated as `a ** (b ** c)`. The two are not the same: `3 ** (1 ** 2)` is 3, but `(3 ** 1) ** 2` is 9.
 - `callable()` is a built-in! You don't need to reinvent it with `hasattr(blah, '__call__')`.
+- pytz offsets are [not](https://stackoverflow.com/a/35464926/1558430) a fixed number of minutes. Telling it to make you a timezone called `'America/Chicago'` will yield a practically meaningless value, unless when used in conjunction with a date and time.
+- [Guido van Rossum](https://gvanrossum.github.io/)'s *van* is capitalised only if the last name *Van Rossum* is mentioned on its own.
+- [`pip` vs `python -m pip`](https://snarky.ca/why-you-should-use-python-m-pip/) basically all boil down to "it lets you specify which python to install for". Using `python -m pip` in a virtualenv is a best practice that changes nothing.

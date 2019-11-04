@@ -58,6 +58,7 @@ To give you an idea how risky stocks are, an overwhelming number of people sugge
 - "Don't pick stocks" - [wealthsimple](https://www.wealthsimple.com/5rules) (low MER index funds are good enough for most people)
 - "DON'T PICK STOCKS" - Motley Fool podcast. 40% of companies on the stock exchange end up going out of business.
 - Invest in a company only if you have a good answer for "why are you investing in this particular company?"
+- If you don't expect a stock to outperform an index fund---which has far less risk---don't buy the stock. Actually, if you don't expect a stock to be able to beat the market at all, don't buy any stocks. You aren't cut out for stocks.
 - Never spend all your money on stocks.
 
 ### Shorting

@@ -1,5 +1,8 @@
 🇨🇦
 
+- The W in [KW Hydro](https://www.kwhydro.on.ca/en/residential/are-you-moving.asp) is Wilmot, not Waterloo.
+- The ["Canadian Warren Buffett"](https://en.wikipedia.org/wiki/Prem_Watsa) is also called Prem. _In April 2017, Watsa brought attention to concerns of a real estate bubble in Toronto. He asserts that most Canadian banks cannot survive a 50% drop in the value of real estate. "It's going to come down, and a lot of people are going to get hurt" said Watsa during Fairfax's annual general meeting._
+- The election day is not a holiday because people would just go travelling like it's a long weekend.
 - Bell obscurely trades under the name ["BCE Inc"](https://en.wikipedia.org/wiki/BCE_Inc.).
 - The [blue box recyling program](https://en.wikipedia.org/wiki/Blue_box_recycling_system) started in Kitchener.
 - [The major difference between a Canadian province and a territory is that provinces receive their power and authority from the Constitution Act, whereas territorial governments have powers delegated to them by the Parliament of Canada.](https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada) Territories also don't have "provincial taxes". The money comes directly from the federal government.
@@ -7,7 +10,7 @@
 - The [Hudson's Bay point blanket](https://en.wikipedia.org/wiki/Hudson%27s_Bay_point_blanket) was traded to First Nations in exchange for beaver pelts. [They still sell it today](https://www.thebay.com/hbc-stripes-iconic-multi-stripe-point-blanket/product/0600001019439?FOLDER%3C%3Efolder_id=2534374302023959&R=886456725243&P_name=HBC+Stripes&N=302023959&bmUID=mTOEy3z), and they are hella expensive. The Bay even had [its own flag](https://en.wikipedia.org/wiki/Flag_of_the_Hudson%27s_Bay_Company) when it was a _de facto_ government. [Their motto](http://www.hbcheritage.ca/faq), _pro pelle cutem_, "skin for leather", was apparently a play on [Job, 2:4](https://www.biblegateway.com/passage/?search=Job+2%3A4&version=NIV): _Pellem pro pelle_, "skin for skin".
 - Elections have federal and provincial [expense limits](https://www.elections.ca/content.aspx?section=res&dir=loi/com/arc/com2017&document=p6&lang=e), some bracketed, some are not; some have limits, some do not.
 - [Alcohol was banned in Ontario](https://en.wikipedia.org/wiki/Prohibition_in_Canada#Alcohol_production_in_Ontario) from 1916 to 1927, where the period 1918 to 1920 was imposed nationwide as a wartime measure.
-- The official way to destroy illegal rolled cannibis joints is to [unwrap them one by one](https://nationalpost.com/news/canada/how-do-you-destroy-77m-worth-of-pot-well-you-dont-put-it-in-a-pile-and-spark-it-up) and incinerate the contents (and for some reason incinerating the joints is unacceptable).
+- The official way to destroy illegal rolled cannabis joints is to [unwrap them one by one](https://nationalpost.com/news/canada/how-do-you-destroy-77m-worth-of-pot-well-you-dont-put-it-in-a-pile-and-spark-it-up) and incinerate the contents (and for some reason incinerating the joints is unacceptable).
 - On the 279th day of 2019, [that "rotating a goose by 360 degrees" post](https://www.reddit.com/r/uwaterloo/comments/dgw3s8/day_279280_were_doubletiming_it_to_make_up_for/) had two 278th days.
 - Canadian Tire owns Sport Chek.
 - Canadian Tire Money is/was printed by [real banknote companies](https://en.wikipedia.org/wiki/Canadian_Tire_money).
