@@ -65,3 +65,4 @@
 - Siri's voice actress is [Susan Bennett](https://www.youtube.com/watch?v=z2bTymnb1uE), and she's lovely.
 - The Kinect/iPhone X use randomised dots for depth recognition, rather than a grid. "If you use a regular repetitive grid you will have a periodicity in the observed pattern, if an observed object moves closer to the camera the reflected laser shifts further to the side until it would overlap with a different point at a different depth in the 2D image." (which is bad)
 - iPad and iPad Pro have different "air gap" sizes (thickness between glass and display).
+- Multi-column "tree-style" lists, like the ones you find in the Mac Finder, are called [Miller columns](https://en.wikipedia.org/wiki/Miller_columns), reportedly invented by a Mark Miller.

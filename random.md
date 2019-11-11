@@ -1,6 +1,16 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
-- [People tend not to sell houses in November and December](https://www.dhavaldesai.ca/Housing-Market-Charts-May-2019) because of Christmas parties.
+- ["Thanks five"](http://dictionary.tdf.org/thanks5/) is a professional way to reply to a stage manager telling you there are five minutes until the curtain opens.
+- Some bathroom fan covers are held together by metal clip tension, so you can just pull one down without any tools.
+- Shortening is any edible fat that is solid at room temperature.
+- [G Suite costs money now.](https://support.google.com/a/answer/2855120?hl=en) Actually, it has always costed money since 2013.
+- [Nominal GDP](https://www.thebalance.com/what-is-real-gdp-how-to-calculate-it-vs-nominal-3306040) is the amount of money you count. Real GDP (aka GDP) is [the nominal GDP divided by a deflator](https://courses.lumenlearning.com/boundless-economics/chapter/comparing-real-and-nominal-gdp/), which is basically a factor to take inflation into account (for example, if inflation happened between 2018 and 2019, but you keep producing the exact same stuff, the nominal GDP would increase, but the real GDP wouldn't change.)
+- By [Real GDP](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28PPP%29), China is the largest country, and Turkish output is higher than Canadian output.
+- How to wash your face, in order of operation: use a **cleanser** (not the kind for removing makeup), then use a **moisturiser** to compensate for the oils you just removed, and then **sunscreen** if you decide to go out.
+- On a house scale, [an inch-thick HVAC air filter might only last one month](https://www.tlcplumbing.com/blog/why-you-need-to-change-your-homes-air-filter/), and if you want to change it less frequently, you might need to get thicker filters. (Site does not appear to be sponsored by the HVAC and HVAC accessories industry)
+- [Ruby](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ruby) is a much more popular name for girls than [Diamond](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Diamond), [Sapphire](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Sapphire), or [Topaz](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Topaz).
+- "Portugal" came from Latin [*Portus Cale*](https://en.wikipedia.org/wiki/Portugal#Etymology), or "the port of Cale", where Cale was supposedly [some Celtic goddess](https://en.wikipedia.org/wiki/Cailleach) (according to a theory, anyway).
+- [People tend not to sell houses in November and December](https://www.dhavaldesai.ca/Housing-Market-Charts-May-2019) because of Christmas parties. [Rental prices are also the cheapest from December to March](https://www.renthop.com/studies/national/best-time-of-year-to-rent) across North American cities, because---you guessed it---snow.
 - Leather is actually in [huge surplus](https://www.supplychaindive.com/news/beef-leather-industry-by-products-surplus/526449/) from people eating beef and the availability of [vegan leather alternatives](https://www.heddels.com/2019/06/vegan-leather-made-pros-cons/).
 - A [lifer](https://www.merriam-webster.com/dictionary/lifer) is a person on life sentence.
 - [Shingles need to be replaced every 15-20 years](https://ajreliable.com/how-often-does-a-roof-need-to-be-replaced/) (except rubber and metal ones) to remove mould and water damage.
@@ -445,7 +455,6 @@
 - [Lederhosen](https://en.wikipedia.org/wiki/Lederhosen) (LAY-der-ho-sen) are the shorts or [breeches](https://en.wikipedia.org/wiki/Breeches), not the socks.
 - [Bullshit asymmetry principle](https://en.wikipedia.org/wiki/Bullshit#Bullshit_asymmetry_principle): The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 - [Hacker News was "Startup News"](https://twitter.com/paulg/status/1049724130629701632) at first, but even Paul Graham thought it was too boring, so he renamed the site to Hacker News to broaden the focus.
-- Multi-column "tree-style" lists, like the ones you find in the Mac Finder, are called [Miller columns](https://en.wikipedia.org/wiki/Miller_columns), reportedly invented by a Mark Miller.
 - The [Utah teapot](https://en.wikipedia.org/wiki/Utah_teapot) is a 3D rendering benchmark, and an inside joke in some animated movies. Naturally then, [it has shown up in Toy Story](https://news.avclub.com/here-s-why-the-same-teapot-has-shown-up-in-toy-story-t-1798254642).
 - A [Dutch rudder](https://www.urbandictionary.com/define.php?term=Dutch%20Rudder) is having someone jerk you off by moving your own forearm.
 - Ladies don't share underwear. They share everything else.
@@ -586,7 +595,6 @@
 - [Living on 4 USD a day](http://www.businessinsider.com/snap-challenge-2015-4#day-2--resisting-the-freebies-13) is totally doable, with the caveat that you can only eat women's portion sizes.
 - ["Ska"](https://en.wikipedia.org/wiki/Ska#Third_wave) is a Jamaican music genre that got blended into punk (as "third wave ska") in the 1980s.
 - Microsoft doesn't want you to use [Windows 10 LTSB](https://www.howtogeek.com/273824/windows-10-without-the-cruft-windows-10-ltsb-explained/), the one without ads and spyware. It requires an Enterprise licence.
-- If you have a leader who does not listen, do consider before telling them your project is delayed, even if it is not your fault, because [people do shoot bearer of bad news](https://news.ycombinator.com/item?id=17511850).
 - "Retail businesses could do a better job keeping isles free. Also it would be super helpful if hotels wouldn't keep putting trash cans in front of the exterior elevator buttons on each floor. Wheelchairs can't access those buttons when that happens." - [Guy on a wheelchair](https://www.reddit.com/r/IAmA/comments/90q6yx/i_am_the_real_mr_glass_i_have_brittle_bone/e2schhb/)
 - [Pedagogy](https://en.wikipedia.org/wiki/Pedagogy) (PE-da-ge-jee) is the study of teaching (usually kids). Andragogy is the study of teaching adults.
 - The SMS [SS7](https://www.wired.com/2017/05/fix-ss7-two-factor-authentication-bank-accounts/) ("Signaling system 7") can be hacked of course, and there is nothing you can do about it.
@@ -670,7 +678,6 @@
 - Apart from dinner and supper, all of hobbit's seven daily meals are two hours apart.
 - [Ramen is a prison currency.](http://bigthink.com/laurie-vazquez/how-ramen-noodles-beat-cigarettes-to-become-a-prison-currency)
 - "Love handles" are just waist fat.
-- The interview rate of you after getting fired is equivalent to looking for a job alongside candidates with [5 years of experience fewer](https://talent.works/blog/2018/05/02/the-science-of-the-job-search-part-v-getting-fired-or-laid-off-costs-you-5-years-of-experience).
 - The toilet paper patent shows it being in the "over" configuration.
 - [「學斗」本寫 ... 應為「鶴藪」，又叫「鶴藪白菜」，... 是粉嶺鶴藪地區的特產。...](https://hk.answers.yahoo.com/question/index?qid=20071209000051KK02152)
 - _Wyatt_ came from the old name _Wigheard_.
@@ -1266,7 +1273,6 @@
 - "Home ec" aka [home economics](https://en.wikipedia.org/wiki/Home_economics) aka "how to live at home" is taught in American schools. Chinese schools may call them 勞動課.
 - [Chiclets](https://en.wikipedia.org/wiki/Chiclets) are a brand of gum. There is no such thing as a chicklet keyboard.
 - 300k appendices are removed from Americans each year. There is [no statistical evidence](https://articles.mercola.com/appendicitis/prevention.aspx) that doing anything other than eating lots of meat will increase your chances of getting appendicitis.
-- If you ask the Internet, ["How do I knock myself out for a long time?"](https://www.quora.com/How-can-you-knock-yourself-out-for-a-long-period-of-time?share=1), the Internet replies with "Don't."
 - The Exeggutor has no arms. Its Alolan form has a totally unrelated fruit on its tail.
 - There is only one "gimp boy" in the world: [Jason Coakley](http://www.dailymail.co.uk/news/article-3699007/).
 - "See see no touch" unfortunately has only 1500 results on Google.
@@ -1296,7 +1302,6 @@
 - [The Nintendo Switch uses a plastic screen](https://www.youtube.com/watch?v=XJP6gERPmMk) on purpose: so kids can't crack it. The whole exterior is plastic; the device is designed for abuse. Which smartphones aren't. This is why these console things still have an enormous market.
 - [Banks are removing coin counters](https://forums.redflagdeals.com/any-free-coin-counters-left-2054344/) so you will do everything you can do avoid getting coins. In such a move, banks save virtual money by no longer dealing with cash.
 - "Don't tattoo your eyeball, you might lose your eye" - [A woman described as "retarded"](https://i.imgur.com/ZJKCY3k.jpg)
-- Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
 - News agencies like the New York Times have [anonymous drops on Tor](https://www.youtube.com/watch?v=HfuZJVpNWR4) so people can submit news ("leak") anonymously.
 - An ISO 8601 date without the year has the format `--MM-DD`. Standard also allows a year followed by the day number as `YYYY-DDD`. Therefore, it is not possible to have an ISO date displayed with just the year and month.
 - Do not buy a (pair of) VR goggle(s). Their size do not justify the gimmicks that they provide.
@@ -1846,7 +1851,6 @@
 - [Goal bounding](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than) identifies which directions to skip going (jump point search goes in all directions.) Problem mainly is O(n^2) runtme on precomputation, and _needing_ precomputation.
 - You can make a hash function `f` such that `f(s) = sha1(s) + sha2(s) + sha3(s)`, no problem. Just know [it does not give the collision resistance proportional to the number of bits that it produces](http://crypto.stackexchange.com/questions/270/guarding-against-cryptanalytic-breakthroughs-combining-multiple-hash-functions), which makes it a sloppy hash function.
 - [Berkshire Hathaway](https://www.google.com/finance?q=NYSE%3ABRK.A) trades at \$254,900 a share (right now).
-- When seasoned investors use the phrase "beat the market", they prefix it with ["attempt to"](http://stockcharts.com/school/doku.php?id=chart_school:overview:why_analyze_securities).
 - It takes only a 50% loss to take back 100% of your gains.
 - [Some muslim women choose to fast during pregnancy](http://www.bbc.com/news/health-10927611), even though [there are exceptions specifically for the pregnant and ill](https://en.wikipedia.org/wiki/Ramadan). "But I wasn't worried about my health or my baby's. I think Allah gives you strength and he protects your unborn child." It is not a _huge_ deal because they get to eat at night anyway. For other Muslims intending to cheat the system by living in places with no sunlight, they "should follow the timetable of Mecca".
 - If someone steals a $10 potato from a store, but the store bought that potato for $1, the store lost \$1.
@@ -1939,7 +1943,6 @@
 - Running Chrome with the `--no-experiments` argument resets all flags.
 - It is possible to [create burgers from mosquitoes](http://youtube.com/watch?v=DQeyjgSUlrk).
 - "Point blank" does not mean "at close range" but "close enough to disregard veering of projectile due to gravity".
-- _Yersinia pestis_ is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
 - _Spilling_ refers to the act of moving a value from a CPU register to memory (thereby decreasing runtime performance)
 - [People can sue you](http://www.workopolis.com/content/advice/article/five-ways-to-kill-a-job-offer-at-the-last-minute?CID=721:19L:14946) if you give them bad references.
 - There is such a thing as a [Damn Vulnerable Web App](http://www.dvwa.co.uk/) that is built solely for others' testing pleasure.
@@ -2457,7 +2460,6 @@
 - [RSPs do not have tax exemptions. RRSPs do.](http://www.differencebetween.net/business/difference-between-rsp-and-rrsp/)
 - [Kids typically cannot recognise themselves in the mirror until 3.](https://www.theatlantic.com/science/archive/2017/02/what-do-animals-see-in-the-mirror/516348/?single_page=true)
 - A [_brown noser_](https://www.urbandictionary.com/define.php?term=brown+noser&amp=true&defid=724517) is an ass kisser (or licker, or equivalent).
-- The act of asking for a lower interest rate (or other terms) is called [refinancing](https://en.wikipedia.org/wiki/Refinancing). Sometimes you can lock into a lower mortgage rate early by paying a penalty. If the penalty is less than the percentage change, it might still be worth a shot.
 - In class diagrams, arrows point from subclasses to their base classes because [arrows mean Generalisation in UML](http://stackoverflow.com/a/2471642/1558430).
 - Toilet paper glows in UV light.
 - The R project is also known as [GNU S](https://en.wikipedia.org/wiki/S_%28programming_language%29), the GNU implementation of the S programming language.
@@ -2468,10 +2470,10 @@
 - The [Toga](https://en.wikipedia.org/wiki/Toga) dropped out of use because it was clumsy. It was replaced by the [pallium](https://en.wikipedia.org/wiki/Pallium) by the time bishops wore them. Other people continued wearing [tunics](http://www.primaryhomeworkhelp.co.uk/romans/clothes.htm), knee-length big shirts.
 - Carry a few bandages on your person. They are thin and easy to keep, and someone somewhere will always need one. Sometimes you do, too.
 - [Incubators are fully bootstrapped](https://medium.com/startup-foundation-stories/the-emergence-of-startup-as-a-service-129c552d89e3#.ln72w6fbr). Incubators can invest in incubator incubator startups that churn out new incubators. These incubators are called **metaincubators**. Some of these metaincubators can also incubate startups; an example of such a metaincubator is the University of Waterloo, which inculated [Velocity](http://velocity.uwaterloo.ca/) the incubator a while back.
-- According to [this post](https://www.creditkarma.com/article/how-much-of-your-credit-should-you-use), there is no evidence of "credit underutilisation" impacting the credit score.
 - [Monomials](https://ca.ixl.com/math/grade-9/identify-monomials) just don't include addition or subtraction. Their variables can be in any order.
 - "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
 - New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
 - The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
 - The less memory there is, each address *should* be faster to access.
 - 诸葛亮 isn't actually known for fighting.
+- Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.

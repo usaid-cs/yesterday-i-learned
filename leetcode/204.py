@@ -1,31 +1,38 @@
-#!/usr/bin/env python3.6
-# coding=utf-8
+rubbish = set()
+rubbish_max = 0
+primes = set()
 
 
-def thing(n):
-    prime_map = {
-        0: False,
-        1: False,
-    }
-
-    def is_prime(n_):
-        try:
-            return prime_map[n_]
-        except KeyError:
-            pass
-        for prime, is_prime_ in prime_map.items():
-            if prime in [0, 1]:
-                continue
-            if n_ % prime == 0:
-                prime_map[n_] = False
-                return False
-        prime_map[n_] = True
+def is_prime(number):
+    global rubbish_max
+    if number in [0, 1]:
+        return False
+    if number in primes:
         return True
+    if number in rubbish:
+        return False
+    # sqrt_ed = int(number**0.5) + 1
+    for test in range(2, number):
+        if number in rubbish:
+            continue
+        if number % test != 0:
+            continue
+        # test itself might still be a prime though
+        rubbish.add(number)
+        return False
+    primes.add(number)
+    return True
 
-    for num in range(n):
-        is_prime(num)
 
-    return len([q for q in prime_map.values() if q])
+class Solution:
+    def countPrimes(self, n: int) -> int:
+        prime_count = 0
+        sqrt_ed = int(n**0.6) + 1
+        for num in range(2, sqrt_ed):
+            if is_prime(num):
+                prime_count += 1
+
+        return prime_count
 
 
 test_cases = [
@@ -35,8 +42,16 @@ test_cases = [
     (3, 1),
     (4, 2),
     (5, 2),
-    (499979, 0),
+    (6, 3),
+    (7, 3),
+    (8, 4),
+    (9, 4),
+    (10, 4),
+    (99999, 9592),
+    (999983, 78497),
 ]
-
-for input_, expected in test_cases:
-    assert thing(input_) == expected, (input_, expected, thing(input_))
+a = Solution()
+for n, expected in test_cases:
+    output = a.countPrimes(n)
+    print(n)
+    assert output == expected, (n, expected, output)

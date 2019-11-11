@@ -512,7 +512,7 @@ bar
 - A generator that outputs nothing can be truthy. [There is no good way to tell if a generator is empty](https://stackoverflow.com/questions/661603/how-do-i-know-if-a-generator-is-empty-from-the-start).
 - `random.choice` cannot choose from an empty list.
 - Docstrings cannot be assigned literally. If you have a `foo = """string"""`, and a `class Bar:\nfoo`, the class does not have a docstring. You can assign it to `__doc__` though.
-- `Arrow` is not an instance of `datetime`.
+- `Arrow` is not an instance of `datetime`. (relearnt in 2019)
 - [pydocstyle](https://github.com/PyCQA/pydocstyle) has a rule, [D401](http://www.pydocstyle.org/en/stable/error_codes.html), that says examples from [PEP 257](https://www.python.org/dev/peps/pep-0257/) are invalid. All docstrings need to start with a verb in imperative mood, even for functions that return a boolean.
 - To run a script in a virtualenv, you just need to run it with _that_ python (usually `~/virtualenvs/blah/bin/python`). You can even put it in the script's shebang if it doesn't need to be portable.
 - [Adding `Counter()` to another `Counter()`](https://docs.python.org/2/library/collections.html#collections.Counter) removes all zeros and negative counts.

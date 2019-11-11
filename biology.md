@@ -1,3 +1,10 @@
+- Smoking [protects you](https://io9.gizmodo.com/here-are-the-ways-smoking-may-actually-be-good-for-yo-1721438933) against Parkinson's disease, where the nicotine protects neurons against degeneration.
+- [Shakeout runs](https://runnersconnect.net/coach-corner/lactate-clearance/), where you "shake out the lactate", supposedly helps with post-exercise pain. Someone who can run please confirm.
+- [Kombucha "昆布茶" is a misused loanword from Japanese](https://en.wikipedia.org/wiki/Kombucha). There is no kelp in kombucha. The symbiotic culture of bacteria and yeast (SCOBY) forms a mass of goo known as a "mother".
+- Turns out [putting your wrist on your wrist rest](https://www.ccohs.ca/oshanswers/ergonomics/office/wrist.html) can itself cause carpal tunnel syndrome. Whatever approach you try, the aim is to keep your wrist straight.
+- It is not completely out of reason that the caterpillar makes cocoons because [it thought the world was ending](https://www.passiton.com/inspirational-quotes/6539-just-when-the-caterpillar-thought-the-world-was). From its perspective, it does not necessarily know about butterflies.
+- [Bears eat bees in addition to honey](https://www.justbeedrinks.co.uk/bears-really-love-honey/). They also eat other things, like fish and berries.
+- Alzheimer's is (currently at least theorised to be) caused by the accumulation of both [amyloid and tau proteins](https://www.newscientist.com/article/2191814-we-may-finally-know-what-causes-alzheimers-and-how-to-stop-it/). The bacterium [*Porphyromonas gingivalis*](https://en.wikipedia.org/wiki/Porphyromonas_gingivalis) has been linked to Alzheimer's, and that stuff is found in your gums, so [maybe the two are related](https://www.alzheimers.net/alzheimers-and-gingivitis-disease-linked-to-gum-disease/) in some cases.
 - Munchies most certainly does not help with indigestion. Being hungry (the body needing calories) and having an appetite (you want to eat) are two different things.
 - The longer you sit on the toilet, the more likely you are to get hemorrhoids.
 - Withdrawing from long term opoid use brings pain to places that didn't hurt before. This makes you physically rely on opoids.
@@ -6,7 +13,7 @@
 - Male echidnas have four headed penes/penises.
 - Injecting corticosteroids into your knee might accelerate osteoarthritis, said [Boston](https://www.cbc.ca/news/health/osteoarthritis-corticosteroid-injections-safety-1.5327102).
 - [Someone](https://outdoors.stackexchange.com/questions/88/how-can-i-acclimatize-to-cold) said that taking cold showers and hot and back cold again is healthy for you.
-- [The brain is 60% fat](https://www.healthline.com/health/is-the-brain-a-muscle).
+- [The brain is 60% fat](https://www.healthline.com/health/is-the-brain-a-muscle), and has no actual muscle except for the muscle tissue in the middle layer of the arteries that carry blood to the brain.
 - [Infrasounds](https://www.youtube.com/watch?v=df8QAgTJIio) (sounds at or below 50Hz, it looks like) can cause anxiety and nausea, especially if you don't know where it's coming from, which adds paranoia and desperation into the mix.
 - Some animals, particularly gazelles, [pronk](https://en.wikipedia.org/wiki/Stotting) or stott, i.e. jump high into the air because they are happy.
 - Higher latitude regions have *earlier* harvest dates because the [growing season](https://en.wikipedia.org/wiki/Growing_season) is shorter. Lower latitudes may have multiple harvests.
@@ -94,7 +101,7 @@
 - A [teratoma](https://en.wikipedia.org/wiki/Teratoma) is a tumour with hair and teeth and stuff inside; stuff that don't belong in a tumour.
 - [Energy-dense plant foods](https://www.naturalbalancefoods.co.uk/community/fitness/vegan-foods-for-energy/) are typically: seeds, nuts, and grains (which are usually, if not always, seeds).
 - Nitrates and nitrites cause cancer by destroying DNA of the cells in the digestive tract. [Each extra 50 grams of processed meat per day increases your risk of cancer by 18 percent](https://www.youtube.com/watch?v=ouAccsTzlGU), the risk of which is in line with plutonium, asbestos, and smoking.
-- [Honey is actually also half glucose and half fructose](https://foodwatch.com.au/blog/carbs-sugars-and-fibres/item/honey-is-it-healthier-than-sugar.html), not as healthy as you think. Among [low-fructose foods](https://www.mngi.com/sites/default/files/Low%20Fructose%20Diet%209.2012.pdf), apricots and strawberries are sweet (rather than acidic).
+- [Honey is half glucose and half fructose](https://foodwatch.com.au/blog/carbs-sugars-and-fibres/item/honey-is-it-healthier-than-sugar.html) or even [more fructose than glucose](https://www.medicalnewstoday.com/articles/317728.php), so it is not as healthy as you think. Among [low-fructose foods](https://www.mngi.com/sites/default/files/Low%20Fructose%20Diet%209.2012.pdf), apricots and strawberries are sweet (rather than acidic).
 - While [the Beyond Meat burger is not any healthier than normal burgers](https://www.cbc.ca/news/health/meatsplainer-beyond-burgers-1.5125971), the number of animals killed during manufacture is most likely fewer.
 - Eating plants apparently [prevents Alzheimer's](https://www.pcrm.org/health-topics/alzheimers).
 - "Perennial" just means "through the years". Perennial plants live for two years or more.
@@ -327,7 +334,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [People who weigh less than 50kg/110lbs cannot donate blood.](https://blood.ca/en/blood/abcs-eligibility)
 - Dick implants, medically called [penile prostheses](https://en.wikipedia.org/wiki/Penile_prosthesis), are salt water reservoirs that you can use to get your penis up by squeezing a pump in your scrotum. They last 10 years.
 - A late upper wisdom tooth extraction can (not uncommonly) result in a hole between your mouth and your sinus, called a [oroantral fistula](https://www.quora.com/What-happens-if-a-wisdom-tooth-moves-into-the-sinus-cavity), that [require](https://www.facialart.com/2017/04/maxillary-sinus-perforation-following-tooth-extraction/) a lot of effort to fix and [prevent](http://www.washingtonoralsurgery.com/surgical-instructions/special-instructions-for-sinus-exposures/).
-- Papercuts hurt more than regular cuts. In the case of regular cuts, blood shields the open nerve endings from air, which make the wound hurt more.
+- Papercuts hurt more than regular cuts. In the case of regular cuts, blood shields the open nerve endings from air. But for papercuts, there is little to no blood, which makes the wound hurt more.
 - 1.6% of the population have Mirror-touch synesthesia, the unfortunate ability to sense pain if they see others in pain, but only if they have experienced the same pain before.
 - There are three ways glands secrete things: [Holocrine mode](https://en.wikipedia.org/wiki/Holocrine) (cell bursts, dies, and becomes product), [apocrine mode](https://en.wikipedia.org/wiki/Apocrine) (cell splits a part of itself as the product), and [merocrine mode](https://en.wikipedia.org/wiki/Merocrine) (cell makes tiny vesicles of product).
 - Caffeine makes exercises [easier, more enjoyable, and makes you (binge) less afterwards](http://jap.physiology.org/content/early/2014/08/14/japplphysiol.00570.2014)
@@ -502,7 +509,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [A fish tank that is too clean can smell too.](http://thegoldfishtank.com/goldfish-care/tank/goldfish-tank-smells-bad/) The tank relies on some bacteria to break down goodies in the water.
 - Apart from pain relief, anti-inflammatory drugs also delay cartilage wear and breakdown by inhibiting "interleukin-1 and tumor necrosis factor alpha" activity.
 - Kidney donors cannot use ibuprofen or ASA, [or so some of them say](http://www.transplantbuddies.org/tbx/messages/5/523549.html?1320947089).
-- In [one study](https://nccih.nih.gov/research/results/gait/qa.htm), glucosamine/chondroitin relieved pain only for the most serious cases.
+- In [one study](https://nccih.nih.gov/research/results/gait/qa.htm), glucosamine/chondroitin relieved pain only for the most serious cases. In [another study](https://www.the-rheumatologist.org/article/placebo-outperforms-glucosaminechondroitin-sulfate-knee-oa/), placebo worked better than it.
 - Eggs can increase cardiovascular risk, not largely because of the cholesterol content, but largely because eggs contain a lot of lecithin, which is converted to ["TMAO"](https://en.wikipedia.org/wiki/Trimethylamine_N-oxide) by gut bacteria, which, in turn, alters cholesterol metabolism, increasing cholesterol deposition along blood vessel walls. Counter this with vegetarian food, which changes the gut flora composition slightly.
 - There is only one gram of protein per 100 grams of [banana](https://en.wikipedia.org/wiki/Banana#Nutrition).
 - Ruminant animals have [ruts](https://en.wikipedia.org/wiki/Rut_%28mammalian_reproduction%29), periods with strongly elevated testosterone levels. It is unclear why elephants have [it](https://en.wikipedia.org/wiki/Musth), since female elephant's estrus cycle is not correlated to males' musths.
@@ -522,7 +529,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Glucagon is a peptide (which happens to be a hormone). It raises blood glucose and fat, opposite of what insulin does.
 - [Everything causes memory loss, including insulin.](https://bebrainfit.com/20-medications-that-can-cause-memory-loss/) Better kill yourself now.
 - [Lions cannot easily bite into large, round objects like hippos](https://www.youtube.com/watch?v=ymZhC4MlCmw)
-- Queen bees have smooth stingers that can sting humans multiple times without disemboweling.
+- Queen bees have [smooth stingers that can sting humans multiple times](https://en.wikipedia.org/wiki/Bee_sting) without disemboweling.
 - The [tonsil](https://en.wikipedia.org/wiki/Tonsil) is an immune response component, fighting off infections from food. It is not useless.
 - [Plenty of *-saurus* animals aren't dinosaurs.](https://en.wikipedia.org/wiki/Aphanosauria)
 - The [bony-eared assfish](https://en.wikipedia.org/wiki/Acanthonus_armatus) holds the record for the smallest brain-to-body weight ratio of all vertebrates (shrews being the highest).
@@ -1043,3 +1050,5 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Chorioactis](http://en.wikipedia.org/wiki/Chorioactis) is a genus of fungus that is bizzarely found only in Texas and Japan.
 - Broccoli came from the Mediterranean, long before the Italians started using tomatoes (which is from Mexico).
 - [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
+- If you ask the Internet, ["How do I knock myself out for a long time?"](https://www.quora.com/How-can-you-knock-yourself-out-for-a-long-period-of-time?share=1), the Internet replies with "Don't."
+- _Yersinia pestis_ is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.

@@ -1,3 +1,4 @@
+- Apparently you are [twice as likely](https://www.statista.com/statistics/388440/most-popular-months-for-engagement-in-the-united-states/) to get engaged in December than in any other month, but only if *your* (that's the way they spell it there) American.
 - It is possible for [an American](https://saladinoforcongress.com/about/) to be a youtube star, [a MAGA neonazi](https://www.inquisitr.com/4429456/youtube-joey-salads-charlottesville-rally-photo/), and [a consumer of one's own urine](https://www.unilad.co.uk/news/youtuber-joey-salad-running-for-congress-drank-own-urine-for-views/), and still be a member of congress. These people make decisions for YOU!
 - [Manhattan helicopter service](https://en.wikipedia.org/wiki/MetLife_Building#Helicopter_service) existed from 1965 to 1968. It was halted because someone died, and also too few people took it.
 - Only the US and [Eritrea](https://en.wikipedia.org/wiki/Eritrea) impose [taxes on non-resident citizens](https://www.taxesforexpats.com/expat-tax-advice/Citizenship-Based-Taxation-International-Comparison.html) (i.e. the ones abroad).
@@ -39,3 +40,4 @@
 - [Yellow NY plates are the new ones.](https://patch.com/new-york/harrison/not-everyone-happy-with-new-nys-license-plates) White NY plates are the old ones.
 - The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.
 - [Waste Management](https://en.wikipedia.org/wiki/Waste_Management_%28corporation%29) is actually American. A company. A publicly-trading company.
+- Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.

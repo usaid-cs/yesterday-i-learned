@@ -1,5 +1,9 @@
 🇨🇦
 
+- Tesla never got to $420 per share because [Elon jinxed it](https://www.theinquirer.net/inquirer/news/3063566/elon-musk-is-being-sued-by-the-sec-over-tesla-420-tweet).
+- If you have a million bucks, TD's "high interest" savings account at 0.3% gives you $250 a month, and you need to have about ten million bucks to live off your interest.
+- Domestic flight travellers carrying 100% legal cannabis products, to and from cities where the entire country legalised cannabis, may still be [jailed for life](https://www.salon.com/2012/10/29/ten_worst_sentences_for_marijuana_related_crimes/) if the plane is [diverted to the US due to mechanical issues](https://www.cbc.ca/news/canada/british-columbia/don-t-take-a-chance-dump-your-stash-says-lawyer-after-air-canada-flight-diverted-to-u-s-1.5351069), and [left to rot in a pig pen](https://time.com/5623148/migrant-detention-centers-conditions/) for entering American soil.
+- The AR-15 was [originally restricted](https://www.reddit.com/r/canadaguns/comments/drh5tt/40_years_ago_the_ar15_was_made_nonrestricted_again/), made non-restricted by a Trudeau in 1977, and then made (or to be made) [prohibited](https://globalnews.ca/news/5928779/justin-trudeau-assault-rifle-ban/) by yet another Trudeau in 2019.
 - The W in [KW Hydro](https://www.kwhydro.on.ca/en/residential/are-you-moving.asp) is Wilmot, not Waterloo.
 - The ["Canadian Warren Buffett"](https://en.wikipedia.org/wiki/Prem_Watsa) is also called Prem. _In April 2017, Watsa brought attention to concerns of a real estate bubble in Toronto. He asserts that most Canadian banks cannot survive a 50% drop in the value of real estate. "It's going to come down, and a lot of people are going to get hurt" said Watsa during Fairfax's annual general meeting._
 - The election day is not a holiday because people would just go travelling like it's a long weekend.

@@ -94,6 +94,8 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 
 - Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell.
 - Buy bonds when stocks are falling. (More research required)
+- Consider things that people *need* when stocks are falling. Examples: waste management, education, essential medicine manufacturing, cigarettes, and discount retailers.
+
 
 ### Looking for a suitable time
 
@@ -168,19 +170,32 @@ ETFs can be traded even when the assets' exchanges are closed. Try not to trade 
 
 Properties (e.g. houses that you don't live in) usually beat inflation in the long term.
 However, properties are vulnerable to pricing bubbles.
-Property value is linked to to bonds value, and is inversely correlated to the central bank interest rate. [*If the government lowers the central bank interest rate to boost the economy because it has to, it will also lower the bar for people to buy homes, making their prices go higher.*](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
 
-In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
+### Who
 
-There is _always_ a market for small houses. There will _always_ be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
+* [Shop around for realtor](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/), and [NOT a real estate agent/broker](https://www.teamrealty.ca/sellers/difference-between-a-realtor-and-real-estate-agent/). The former must adhere to a moral code and undergo training. The latter are [salespeople](https://comparerealestateagents.ca/real-estate-agent-vs-broker/), brokers included. You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are**), expertise, and negotiating power.
+* Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and _will_ convince you to buy something else to maximise their commission.
 
-[Shop around for agents.](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/) You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are as an agent**), expertise, and negotiating power.
+### What
 
-It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+* "The golden rule No.1 is never buy [a] new flat _for investment_ ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
+* There is _always_ a market for small houses. There will _always_ be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
+* [RBC suggests](https://www.rbcroyalbank.com/mortgage/campaign/first-time-home-buyer/_assets-custom/includes/23625_Eng.pdf) buying a home where your `(rent + taxes + heating) / monthly income` does not exceed 32%, and where your `(home loan + car loan + credit card loan) / monthly income` does not exceed 40%.
 
-Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and _will_ convince you to buy something else to maximise their commission.
+### When
 
-"The golden rule No.1 is never buy [a] new flat for investment ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
+* Property value is linked to to bonds value, and is inversely correlated to the central bank interest rate. [*If the government lowers the central bank interest rate to boost the economy because it has to, it will also lower the bar for people to buy homes, making their prices go higher.*](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
+* In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
+
+### Where
+
+* A place with lots of trees nearby, but not necessarily right beside you, can lower air pollution, noise, and chances of flood.
+* You won't want a place at an intersection. These places have higher insurance premiums because that's where cars commonly crash.
+
+### How
+
+* It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+
 
 ## BitCoin
 

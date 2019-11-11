@@ -174,3 +174,5 @@
 - To train vocals, sing through your closed lips for a few minutes.
 - You are much more likely to have a good career if you are universally, consistently nice to your colleagues.- People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
 - If you can hang out with two or more friends but can never hang out with just one, it means that [you don't know how to start a conversation](http://www.reddit.com/r/AdviceAnimals/comments/22padj/anyone_else_experience_this).
+- If you have a leader who does not listen, do consider before telling them your project is delayed, even if it is not your fault, because [people do shoot bearer of bad news](https://news.ycombinator.com/item?id=17511850).
+- The interview rate of you after getting fired is equivalent to looking for a job alongside candidates with [5 years of experience fewer](https://talent.works/blog/2018/05/02/the-science-of-the-job-search-part-v-getting-fired-or-laid-off-costs-you-5-years-of-experience).

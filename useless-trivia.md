@@ -154,7 +154,7 @@
 - Emma Watson was in a film with Tom Hanks, called "The Circle". Never seen the movie, but some of the soundtracks were good.
 - /r/fakenews existed before it was cool. It has nothing to do with that guy who keeps making up fake news.
 - Since who-knows-when, Google started listing results as ["Page 3 of about 3,520 results"](https://www.google.ca/search?q=%22seats+are+rubbish%22), like some sort of joke about Americans mixing ounces with yards.
-- "Dabbing" is supposed to be you sneezing into your shoulder (because you smoked cannibis oil, i.e. dabbing), and also handing the dab to the next person. Information provided by /u/submortimer.
+- "Dabbing" is supposed to be you sneezing into your shoulder (because you smoked cannabis oil, i.e. dabbing), and also handing the dab to the next person. Information provided by /u/submortimer.
 - It was a [black woman named China](https://m.huffpost.com/us/entry/3948106) who cooked her baby in the microwave. The story is real.
 - [Twitter has a follow limit.](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/) (currently 5000)
 - In the latest GitHub [diversity report](https://github.com/about/diversity), none ("We don't have enough self-reported data") of the users reported as non-binary. 40% of the users even get laid (as evident of them being parents, excepting those who adopt, were virgin Mary, or otherwise inherited children by unconventional means).
