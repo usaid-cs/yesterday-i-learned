@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- Put socks over your wipers to prevent them from sticking to your windscreen. [Some idiot says the springs might weaken if you lift the wiper arms up, while another idiot says the arms are designed to be lifted up](https://www.theweathernetwork.com/ca/news/article/windshield-wiper-blades-is-it-a-good-idea-to-leave-them-up-before-a-snowfall).
 - Those "damage reported to police" stickers are for [proving to the insurance that the police saw the dent](https://www.guelphmercury.com/news-story/2772296-accident-reporting-centre-to-handle-minor-fender-benders/), and sometimes [helping the police spot unreported hit and runs](https://hamiltonpolice.on.ca/road-safety/accident-reporting), so they can be removed as soon as you finish filing a claim with your insurance.
 - [The Honda Element was known for having its catalytic converter stolen](https://www.reddit.com/r/Justrolledintotheshop/comments/dp1pfd/uhaul_must_be_tired_of_replacing_stolen_catalytic/) because it has more platinum than usual, and it's an SUV so you can crawl right underneath with no tools.
 - People waiting at a mechanic for their cars to be fixed are also called waiters.

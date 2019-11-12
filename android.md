@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- In Android 10, "pausing" an app means banning it with digital wellbeing, not preventing background activity.
 - If you are going to buy a device that doesn't come with a headphone jack (because options do not exist), at least [pick a device that allows both analogue and digital audio passthrough](https://www.reddit.com/r/oneplus/comments/bqdn58/dont_buy_the_oneplus_usbc_to_headphone_jack/eo3nljn/) so you can get any adapter you want and it will work. Example: OnePlus. Counterexample: Google.
 - RCS has never had end-to-end encryption. [It is a protocol designed for carrier interop, not privacy](https://www.reddit.com/r/Android/comments/dnwwoq/privacy_rcs_messages_will_use_googles_relay/). Client-to-server encryption is possible, but the server always knows what you are saying.
 - `adb ls` does not take any arguments for `ls`. `adb shell ls` does.

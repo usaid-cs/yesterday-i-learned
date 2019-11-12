@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Add provolone and/or cheddar to a pizza, and you suddenly have something way better than a pizza.
 - ["Thanks five"](http://dictionary.tdf.org/thanks5/) is a professional way to reply to a stage manager telling you there are five minutes until the curtain opens.
 - Some bathroom fan covers are held together by metal clip tension, so you can just pull one down without any tools.
 - Shortening is any edible fat that is solid at room temperature.
