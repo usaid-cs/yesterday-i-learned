@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Rohit says he heard that: every developer change (i.e. 'feature') at Google can be merged only if an architect approves the design to operate at 1% Google scale, or (not his words) 200 million simultaneous device connections.
+- [Flags are not languages](http://www.flagsarenotlanguages.com/blog/best-practice-for-presenting-languages/): when a user needs to select a language, the language names should be presented in their respective languages. And no flags. Like what flag should you put for Portuguese... [Brazil (by population)](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/), or Spain (where it came from)?
+- "Rightsizing" is the politically correct term for "we're culling our employees".
+- Don't just add bleach to the washing machine. [Dilute it first](https://www.thespruce.com/better-laundry-results-with-chlorine-bleach-2145786) (the intermediate concentration is up to you).
 - Add provolone and/or cheddar to a pizza, and you suddenly have something way better than a pizza.
 - ["Thanks five"](http://dictionary.tdf.org/thanks5/) is a professional way to reply to a stage manager telling you there are five minutes until the curtain opens.
 - Some bathroom fan covers are held together by metal clip tension, so you can just pull one down without any tools.

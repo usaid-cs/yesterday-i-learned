@@ -353,7 +353,7 @@ bar
 - [`numpy.split(array, 3)` splits into 3 arrays. `numpy.array_split(array, 3)` splits into arrays of length 3.](http://stackoverflow.com/questions/9922395/python-numpy-split-array-into-unequal-subarrays)
 - [Click](https://pypi.python.org/pypi/click) is a far more intuitive version of optparse/argparse/whatever.
 - If you say (in python2 anyway) `[b for b in c]`, but `c` happens to have no elements, then `b` is never defined.
-- The `cPickle` module in PyPy is written in pure python.
+- The `cPickle` module in PyPy is written in pure python. Actually, [the whole PyPy project might have been written in python](https://en.wikipedia.org/wiki/PyPy), called Retricted Python.
 - `a_string.replace('foo', '')` can obviously still contain `foo`, if `'ffoooo'.replace('foo', '')`
 - _Thus spake the Lord: Thou shalt indent with four spaces. No more, no less. Four shall be the number of spaces thou shalt indent, and the number of thy indenting shall be four. Eight shalt thou not indent, nor either indent thou two, excepting that thou then proceed to four. Tabs are right out._ -- Georg Brandl
 - The imports you write assume you run these scripts from the [top level of the project](http://stackoverflow.com/questions/43498467/python-importerror-of-my-own-module). Imports don't magically work simply because there is an `__init__.py` in the directory.
@@ -562,3 +562,5 @@ bar
 - pytz offsets are [not](https://stackoverflow.com/a/35464926/1558430) a fixed number of minutes. Telling it to make you a timezone called `'America/Chicago'` will yield a practically meaningless value, unless when used in conjunction with a date and time.
 - [Guido van Rossum](https://gvanrossum.github.io/)'s *van* is capitalised only if the last name *Van Rossum* is mentioned on its own.
 - [`pip` vs `python -m pip`](https://snarky.ca/why-you-should-use-python-m-pip/) basically all boil down to "it lets you specify which python to install for". Using `python -m pip` in a virtualenv is a best practice that changes nothing.
+- Only alphanumeric strings are interned (have the same internal ID when multiple objects exist). [`wtf` is interned, but `wtf!` is not](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-).
+- `dict` keys are hashed. Assigning `a_dict[5]` and `a_dict[5.0]` mean the same thing because `hash(5) == hash(5.0)`.

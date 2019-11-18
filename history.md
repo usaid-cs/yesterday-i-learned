@@ -1,3 +1,4 @@
+- Although petroleum products had been a thing before him, Edwin Drake is commonly considered the person who discovered / created the first modern oil well, in Pennsylvania 1859.
 - Korean women in the late Joseon period used to [bear their breasts in public](https://en.wikipedia.org/wiki/Society_in_the_Joseon_Dynasty) as a way of showing off the fact that they had children. [Pictures](https://www.reddit.com/r/AskHistorians/comments/56atk0/nsfw_korea_bare_breasted_woman_around_1890/).
 - Ethanal was once used in air fresheners to [numb your nose](https://www.washingtoncitypaper.com/columns/straight-dope/article/20846144/how-do-odor-eliminators-work) so you don't smell anything.
 - Alzheimer's disease was named after German psychiatrist [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer). His colleague [Emil Kraepelin](https://en.wikipedia.org/wiki/Emil_Kraepelin), who had a remarkable amount of hair compared to Alois, named the disease after him.

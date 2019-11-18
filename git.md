@@ -411,6 +411,15 @@ git revert -m 1 (the hash where the PR merge happened)  # Preserves history
 git reset --merge (the hash where the PR merge happened)  # Removes history
 ```
 
+### I already made my changes in multiple commits, but I need to fix something in a commit that is not the `HEAD`
+
+Follow [this answer](https://stackoverflow.com/a/1186549/1558430):
+
+1. Run `git rebase -i '38d90fa^'`, which means "rebase from this commit onwards", effectively making that commit your temporary head.
+1. When the editor shows up, change the commit's `pick` to `edit`.
+1. Make your changes and `git commit -a --amend`, the usual stuff.
+1. Continue the rebase with `git rebase --continue`.
+
 ### I already made my changes in multiple commits, but the repo owner wants me to rebase it to a single commit
 
 You should do it.

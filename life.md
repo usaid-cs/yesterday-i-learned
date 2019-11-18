@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- To accomplish great things, we must not only act, but also dream, not only plan, but also believe. - a poet
 - According to an unsourced meme, [being in a one-bedroom apartment for the rest of your life until you're placed in a nursing home by the government](https://www.reddit.com/r/lostgeneration/comments/dr6znb/pretty_much_this/) was once a form of punishment.
 - Be a friend: "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." - Hilary Ziglar (a white man)
 - [Being good at a lot of similar things](https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428) is sufficient, and far less demanding, than being the best at one thing.

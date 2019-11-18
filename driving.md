@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/IGedhKP.jpg)
 
+- Gandhi said [do not underinflate your winter tires to get better traction](https://www.theweathernetwork.com/ca/news/article/winter-winter-tire-myths-what-you-need-to-know-for-safer-driving). Darren said you should try it anyway if you need to (e.g. you're stuck).
 - The average driver (in the US?) will have [a car accident every 18 years](https://cederberglaw.com/how-many-car-accidents-will-i-have-in-my-lifetime/), or 4 in their lifetime. You are *way* above average if you drive at night, during rush hour, talk on the phone, or if you are me.
 - Road traffic detectors are [induction loops underneath the asphalt](https://auto.howstuffworks.com/car-driving-safety/safety-regulatory-devices/how-does-a-traffic-light-detect-that-a-car-has-pulled-up-and-is-waiting-for-the-light-to-change.htm). Human bodies do not trick the system.
 - The Geneva Convention says [a country must have a uniform driving direction](https://www.youtube.com/watch?v=JoYNhX15w4k). This causes remote territories to have the same driving direction, even if that territory is surrounded by other places that drive on the opposite side.
