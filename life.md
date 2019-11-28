@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Personal projects don't matter [beyond the entry-level job market](https://www.reddit.com/r/cscareerquestions/comments/8k8yad/do_personal_projects_matter_beyond_the_entrylevel/), but you still need to know your shit, including stuff you don't do at work, which is why you need personal projects anyway.
 - To accomplish great things, we must not only act, but also dream, not only plan, but also believe. - a poet
 - According to an unsourced meme, [being in a one-bedroom apartment for the rest of your life until you're placed in a nursing home by the government](https://www.reddit.com/r/lostgeneration/comments/dr6znb/pretty_much_this/) was once a form of punishment.
 - Be a friend: "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." - Hilary Ziglar (a white man)

@@ -22,7 +22,7 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 ```
 
 - Under normal circumstances, `register.simple_tag` is all you need for your django templating needs.
-- To pretty-format a JSON file, do `cat ugly.json | python -mjson.tool > pretty.json`.
+- To pretty-format a JSON file, do `cat ugly.json | python -m json.tool > pretty.json`.
 - `re.VERBOSE`, aka `re.X`, will ignore all whitespaces in a regex. Will Also ignore everything after a `#`.
 - Python does not raise a rounding exception when a large number is used. The typical check is `n + 1 == n`.
 - To speed up a read-only query, try adding `.values_list(fields...)` to a QuerySet, which returns simple tuples.
@@ -30,7 +30,7 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
   Therefore, to import all objects without referential errors, use `python manage.py loaddata init_dev.json`,
   which provides all references before inserting.
 - Multiple args: calling a `function(a, b, **kwargs)` where kwargs contains `a=4` or `b=[]` will raise an Exception.
-- `dict(a=4,b=5)` === `{'a': 4, 'b': 5}`
+- `dict(a=4,b=5)` == `{'a': 4, 'b': 5}`
 - There is such thing as a [for-else](http://stackoverflow.com/questions/19061990/python-dividing-integers-in-a-list-by-another-list-until-the-result-is-zero/19062037?noredirect=1#comment28174201_19062037) condition, where the `else` part doesn't execute only if the for loop is `break`ed from within.
 - `for-else` also runs `else` if the loop is never run (e.g. has 0 items).
 - There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
@@ -549,7 +549,7 @@ bar
 - If your function says it takes in an `Enum`, then (according to mypy) [no matter what the value is, you need to supply it from an Enum](scripts/enum_test.py).
 - Strings' `.zfill(pad)`, which pads your strings with zeros on the left until you get a length of (pad), is basically a coding contest method for when you need to generate a fixed-length binary string from `bin()`.
 - You can inline `try` and `except`, i.e. `try: print(1); print(1/0)`, but there is no C-style syntax to turn that into a multi-line statemnet, e.g. `try: (print(1); \n print(1/0))` (considered a semicolon-separated tuple), `try: {print(1); \n print(1/0)}` (considered a semicolon-separated set), `try: (print(1), \n print(1/0))` (it's a valid tuple, but you can't ever have a statement in it).
-- Custom class attributes prefixed with `__` are private. It is not possible to read it. *However*, [you can still assign something to it from the outside](scripts/dunder_private.py), and any `__attributes` that was not declared in the class are actually public. The instance cannot read the value you assigned though (because it has its own hashed key for that attribute). What does it mean for you? Nothing. Use it how you like.
+- Custom class attributes prefixed with `__` are private. It is not possible to read it. _However_, [you can still assign something to it from the outside](scripts/dunder_private.py), and any `__attributes` that was not declared in the class are actually public. The instance cannot read the value you assigned though (because it has its own hashed key for that attribute). What does it mean for you? Nothing. Use it how you like.
 - `set_a or set_b` gives you the first set that is not empty. Use `set_a | set_b` (OR) or `set_a ^ set_b` (XOR).
 - [Gareth Dwyer](https://github.com/sixhobbits), author of the book Flask by Example, [said](https://www.codementor.io/garethdwyer/flask-vs-django-why-flask-might-be-better-4xs7mdf8v) that Flask might be better than Django. In that post, he wrote two hello-world examples.
 - Because `'%s' % 1 + 2` raises `TypeError` instead of giving you `3`, you can see `%` has higher precedence than `+`.
@@ -560,7 +560,11 @@ bar
 - [`**` is the only right-to-left operator in python](https://study.com/academy/lesson/python-operator-of-precedence.html). `a ** b ** c` is evaluated as `a ** (b ** c)`. The two are not the same: `3 ** (1 ** 2)` is 3, but `(3 ** 1) ** 2` is 9.
 - `callable()` is a built-in! You don't need to reinvent it with `hasattr(blah, '__call__')`.
 - pytz offsets are [not](https://stackoverflow.com/a/35464926/1558430) a fixed number of minutes. Telling it to make you a timezone called `'America/Chicago'` will yield a practically meaningless value, unless when used in conjunction with a date and time.
-- [Guido van Rossum](https://gvanrossum.github.io/)'s *van* is capitalised only if the last name *Van Rossum* is mentioned on its own.
+- [Guido van Rossum](https://gvanrossum.github.io/)'s _van_ is capitalised only if the last name _Van Rossum_ is mentioned on its own.
 - [`pip` vs `python -m pip`](https://snarky.ca/why-you-should-use-python-m-pip/) basically all boil down to "it lets you specify which python to install for". Using `python -m pip` in a virtualenv is a best practice that changes nothing.
 - Only alphanumeric strings are interned (have the same internal ID when multiple objects exist). [`wtf` is interned, but `wtf!` is not](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-).
 - `dict` keys are hashed. Assigning `a_dict[5]` and `a_dict[5.0]` mean the same thing because `hash(5) == hash(5.0)`.
+- [The `x` in `for x in y` can be any assignment target](https://github.com/satwikkansal/wtfpython#-for-what), so `for i, some_dict[i] in enumerate(string)` will assign each character to the dict by index.
+- Python3 class methods are automatically static if you don't have a `self`. The `@staticmethod` decorator helps the class to call `Foo.bar()`, _and_ the ability to call these methods as `a_foo.bar()`.
+- Did you know (after like 10 years programming in python) that [you can't change a string by index](https://stackoverflow.com/questions/1228299/changing-one-character-in-a-string-in-python)?
+- [Itertools is written in C](https://github.com/python/cpython/blob/master/Modules/itertoolsmodule.c). Many standard libraries are.

@@ -2,7 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
-- Snow peas are called [*mangetout*](https://en.wiktionary.org/wiki/mangetout) because the pod is edible.
+- When writing about yourself, "you" and "I" refer to the same person, but if someone else reads what you wrote, only "I" refers to you, so use the first person.
+- Snow peas are called [_mangetout_](https://en.wiktionary.org/wiki/mangetout) because the pod is edible.
 - [Learned](https://www.grammarly.com/blog/learned-learnt/) can be an adjective (e.g. in "She is a learned woman") describing something as knowledgeable. In this case, it is pronounced LER-ned, and it cannot be spelled "learnt".
 - [Through the looking glass](https://www.quora.com/What-does-the-phrase-through-the-looking-glass-mean) means the situation is strange and other-worldly.
 - Despite having equivalent prefixes, consecrate (to make something sacred) and desecrate (to treat something with violent disrepect) have roughly opposite meanings.

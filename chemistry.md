@@ -1,5 +1,7 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [There is nothing _bi_ about sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate#Nomenclature). That compound (baking soda, NaHCO3) is just sodium hydrogen carbonate (IUPAC), and the other one (washing soda, Na2CO3) is called sodium carbonate.
+- Baking soda removes smell through [simple acid-base reactions](https://steemersandiego.com/2017/07/06/baking-soda-how-does-it-remove-odors/) with the "odour molecules".
 - Heating oil is [basically](https://en.wikipedia.org/wiki/Heating_oil) diesel, except the amount of sulphur content is different.
 - Solid odour absorbers often have baking soda inside.
 - [Ballpoint pen ink](https://en.wikipedia.org/wiki/Ballpoint_pen#Inks) is suspended in some benzyl alcohol or [phenoxyethanol](https://en.wikipedia.org/wiki/Phenoxyethanol). [Blue inks](https://en.wikipedia.org/wiki/Prussian_blue) are typically basic, while [black inks](https://sciencing.com/ballpoint-pen-ink-made-of-10036405.html) are mostly [carbon](https://en.wikipedia.org/wiki/Carbon_black).
@@ -7,7 +9,7 @@
 - Depending on who you ask, water can also be called [hydroxylic acid](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody).
 - Clean stained plastic tupperware with [denture tablets](https://www.onegoodthingbyjillee.com/2015/07/20-things-you-can-clean-with-denture-tablets.html), which are [basically](https://en.wikipedia.org/wiki/Denture_cleaner#Ingredients) bleach, baking soda, and citric acid.
 - ["Carbonated water contains macronutrients that are essential to plant growth, according to researchers at the University of Colorado. The nutrients found in carbonated water are potassium, carbon, oxygen, hydrogen, phosphorus, sulfur and sodium."](https://www.hunker.com/12476437/the-effect-of-carbonated-water-on-plant-growth)
-- It is often commerically profitable to recover silver from [sewage sludge](https://en.wikipedia.org/wiki/Sewage_sludge#Heavy_metals) (20mg/kg or more).
+- It is often commercially profitable to recover silver from [sewage sludge](https://en.wikipedia.org/wiki/Sewage_sludge#Heavy_metals) (20mg/kg or more).
 - Assuming the specific heat capacity of water is 4.18 kJ/kgK ish, a 500mL cup of hot water (say at 60 degrees) releases about 50 Calories when reduced to 37°C. This is not a way to gain weight though, as hot water raises metabolic rate... which actually means you burn more fat.
 - The [Hill system/notation](https://en.wikipedia.org/wiki/Chemical_formula#Hill_system) conventionally controls how molecules are named: first carbons, if any; then hydrogens, if any; then every other element alphabetically. This is a convention, not a law: [ammonia (NH3) is an exception](https://www.quora.com/Why-is-water-written-as-H2O-and-not-OH2), as is HCN, NaCl, and anything ionic.
 - [Paraquat](https://en.wikipedia.org/wiki/Paraquat), not related to [kumquat](https://en.wikipedia.org/wiki/Kumquat), is extremely toxic. As "N,N′-dimethyl-4,4′-bipyridinium dichloride", this oxidising agent interferes with [electron transfer](https://en.wikipedia.org/wiki/Electron_transfer), which is common to all life.
@@ -16,7 +18,7 @@
 - Contrary to [popular belief], [shade balls in reservoirs do not reduce evaporation](https://www.youtube.com/watch?v=uxPdPpi5W4o). These _black_ balls (first hint that it isn't for _reducing_ evaporation) block light from turning aqueous "bromide" (Br-) and "chlorine" (Cl2) into "bromate" (BrO3-), which is carcinogenic. (No... the equations don't balance.) The black balls do absorb more energy than just water, but the balls contain air, which is a heat insulator. Even though these balls are black, they reduce reservoir evaporation by 80%.
 - Brass knobs that are shiny are lacquered, making them useless at [disinfection](https://en.wikipedia.org/wiki/Oligodynamic_effect).
 - Too much CO₂ in the air makes it "stuffy".
-- Did you know that [black plastic is rarely recycled](https://yle.fi/uutiset/osasto/news/finnish_tech_enables_recycling_of_black_plastic/10716818) (think electronics casings) but "normal near infrared (NIR) sensors at recycling plants are unable to detect the black pigment, so black plastics usually go unrecycled worldwide and contribute to climate change."
+- Did you know that [black plastic is rarely recycled](https://yle.fi/uutiset/osasto/news/finnish_tech_enables_recycling_of_black_plastic/10716818) (think electronics casings) as "normal near infrared (NIR) sensors at recycling plants are unable to detect the black pigment, so black plastics usually go unrecycled worldwide and contribute to climate change."
 - If contaminants are present, [(rotten) ice can form](https://en.wikipedia.org/wiki/Rotten_ice) in the shape of honeycombs.
 - "If you are titrating a weak acid with a strong base, for example, the color indicator may change color at a pH that does not necessarily equate to the stoichiometric point." (presumably because you have a buffer solution)
 - You can [knock bismuth (in the form of BiCl3 aq) out](https://www.youtube.com/watch?v=-_qpzFlpgpo) with aluminium foil.

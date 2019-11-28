@@ -1,10 +1,24 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- If [you can restore a G suite account within 20 days but somehow can't after 21](https://support.google.com/a/answer/1397578?hl=en), then it seems they do delete everything after a month.
+- [Net promoter score](https://en.wikipedia.org/wiki/Net_Promoter) is how loyal your customer is, or how likely your customers will recommend your products to a friend. Internet service NPS is typically below average, sometimes even negative (more people rate you 0 to 6 than 9 or 10).
+- The plural form of money is [really](https://www.dictionary.com/browse/monies) "monies".
+- [Tarof](https://www.youtube.com/watch?v=XAvzW1WZsN4) ("tarofing"): Persians must offer / yield to everyone else but at the same time refuse those offers. The deadlock is called "tarof".
+- A hockey [grinder](https://en.wikipedia.org/wiki/Grinder_%28ice_hockey%29)'s job is to do more checking than scoring (aka take physical abuse). [Tahir "Tie" Domi](https://en.wikipedia.org/wiki/Tie_Domi), a grinder fan favourite, is of Albanian descent but the name is Persian.
+- On Elon Musk's angular truck, or how designs are sometimes less important than features: ["when you are building something for practical use (as most trucks are) then when it comes to design ideas *form follows function*. If you can't meet the functional purposes of your product, it doesn't matter how innovative your design is because you have a failed product on arrival."](https://www.reddit.com/r/changemyview/comments/e0ktha/cmv_elons_new_cybertruck_is_awesome_and_a_bold/).
+- Restaurants take cash so they don't need to write it down as taxable.
+- Each housing start is a new unit of housing started building during a period of time.
+- 神韵 is a Falun Gong thing.
+- If every [giant box of diapers](https://www.costco.ca/kirkland-signature-supreme-diapers%2C-size-1-6.product.100283597.html) contains 192 diapers, and every baby uses 9600 diapers in their first 3 years, then you're buying 50 boxes.
+- Priscilla, from Latin *prisca* -> *priscus* -> *prior*, [ultimately](https://en.wiktionary.org/wiki/prior#Latin) means "ancient".
+- Adding a dry towel in the dryer [shortens drying time](https://www.bchydro.com/powersmart/residential/savings-and-rebates/everyday-electricity-saving-tips.html?WT.mc_id=rd_21tips)?
+- Francis is masculine. Frances is feminine. "France" came from the Franks; no one knows what "Franks" means anymore, but maybe it meant "free".
+- [SARL](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_%C3%A0_responsabilit%C3%A9_limit%C3%A9e) and [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) both mean "limited liability company".
 - Rohit says he heard that: every developer change (i.e. 'feature') at Google can be merged only if an architect approves the design to operate at 1% Google scale, or (not his words) 200 million simultaneous device connections.
 - [Flags are not languages](http://www.flagsarenotlanguages.com/blog/best-practice-for-presenting-languages/): when a user needs to select a language, the language names should be presented in their respective languages. And no flags. Like what flag should you put for Portuguese... [Brazil (by population)](http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/), or Spain (where it came from)?
 - "Rightsizing" is the politically correct term for "we're culling our employees".
 - Don't just add bleach to the washing machine. [Dilute it first](https://www.thespruce.com/better-laundry-results-with-chlorine-bleach-2145786) (the intermediate concentration is up to you).
-- Add provolone and/or cheddar to a pizza, and you suddenly have something way better than a pizza.
+- Add provolone and/or cheddar to a pizza, and you suddenly have something way better than a pizza. (Thanks Virginia)
 - ["Thanks five"](http://dictionary.tdf.org/thanks5/) is a professional way to reply to a stage manager telling you there are five minutes until the curtain opens.
 - Some bathroom fan covers are held together by metal clip tension, so you can just pull one down without any tools.
 - Shortening is any edible fat that is solid at room temperature.

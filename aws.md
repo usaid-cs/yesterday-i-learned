@@ -29,3 +29,10 @@
 - `aws s3 cp` works similar to `cp`, except `-r` doesn't work, but `--recursive` does.
 - To use async/await in the JS SDK, you can just [add `.promise()`](https://stackoverflow.com/questions/51328292/how-to-use-async-and-await-with-aws-sdk-javascript) after most functions calls.
 - RDS instances that are stopped go back online after 7 days.
+- RDS: change the instant type after you change the parameter group, so you don't need to restart twice.
+- Try to do everything through terraform if you can so you keep the scripts in sync for free.
+- AWS can fail to launch an (EC2) instance if they run out of instances of that type, often when the instance type was newly-introduced.
+- [S3 incomplete multi-part uploads can cost money even though you can't see them](https://medium.com/@rvedotrc/save-money-and-be-tidy-with-s3-upload-cleaner-7043b8b5332e), so set up a lifecycle policy to delete them (or use that tool).
+- RDS only: upgrade postgres to the highest minor version before you upgrade to the next major version. Once you are on the latest minor version, you can only upgrade to the latest next major version (ie you can't upgrade from 10.10 to 11.0 if 11.1 exists).
+- Disabling multi AZ is a zero downtime operation.
+- Databases with replicas cannot upgrade major versions unless you remove the read only database first.

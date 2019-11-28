@@ -1,3 +1,9 @@
+- [Chimps biomechanically can speak](https://www.reddit.com/r/explainlikeimfive/comments/e2b5jh/eli5_why_cant_great_apes_speak/)... they just don't have the brain to do it. Even patients with microcephaly that have the same brain volume as chimps are better at language than chimps. They also don't hear "music". It's just noise to them.
+- The golden eagle is brown.
+- You can [lose 90% of your brain](https://www.sciencealert.com/a-man-who-lives-without-90-of-his-brain-is-challenging-our-understanding-of-consciousness) and still be alive, have a non-zero IQ, and work for the government.
+- A nucleotide substitution (like a C with a T or whatever) must be present in 1% or more of the population to qualify as a [single-nucleotide polymorphism](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism), or SNP "snip".
+- Most of spinach's iron is bound by oxalic acid and is not readily absorbed. [Popeye likes spinach because of vitamin A](https://www.youtube.com/watch?v=jijuG9tyoR0), not iron.
+- [NSAIDs can raise blood pressure](https://www.webmd.com/hypertension-high-blood-pressure/guide/medications-cause#1).
 - You can [catch a cold from being in a place where humidity is too low](http://www.sensorpush.com/articles/the-effects-of-low-humidity-on-your-health-and-comfort). It works by drying up your mucous membranes. Low humidity also leads to dry eyes, skin problems, and infection in these areas.
 - Smoking [protects you](https://io9.gizmodo.com/here-are-the-ways-smoking-may-actually-be-good-for-yo-1721438933) against Parkinson's disease, where the nicotine protects neurons against degeneration.
 - [Shakeout runs](https://runnersconnect.net/coach-corner/lactate-clearance/), where you "shake out the lactate", supposedly helps with post-exercise pain. Someone who can run please confirm.

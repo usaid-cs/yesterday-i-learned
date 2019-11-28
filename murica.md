@@ -1,3 +1,4 @@
+- George W Bush does not have a son, but he does have two daughters.
 - Apparently you are [twice as likely](https://www.statista.com/statistics/388440/most-popular-months-for-engagement-in-the-united-states/) to get engaged in December than in any other month, but only if *your* (that's the way they spell it there) American.
 - It is possible for [an American](https://saladinoforcongress.com/about/) to be a youtube star, [a MAGA neonazi](https://www.inquisitr.com/4429456/youtube-joey-salads-charlottesville-rally-photo/), and [a consumer of one's own urine](https://www.unilad.co.uk/news/youtuber-joey-salad-running-for-congress-drank-own-urine-for-views/), and still be a member of congress. These people make decisions for YOU!
 - [Manhattan helicopter service](https://en.wikipedia.org/wiki/MetLife_Building#Helicopter_service) existed from 1965 to 1968. It was halted because someone died, and also too few people took it.

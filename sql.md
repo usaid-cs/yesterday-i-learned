@@ -128,6 +128,7 @@
 - Echo with `\echo` (lol)
 - Avoid ["cross joins"](https://www.w3resource.com/PostgreSQL/postgresql-cross-join.php) or cartesian product joins, aka `SELECT ... FROM more,than,one,table`, which produces a massive queryset of size `more x than x one x table`. Nevertheless, in some cases, a cross join might reference an index that an inner join does not, ending up being faster.
 - Table locks obtained with `LOCK` are [released only when the transaction ends](https://www.postgresql.org/docs/9.0/sql-lock.html).
+- Limit postgres connection count to 200-400 no matter the database size.
 
 ## Troubleshooting
 

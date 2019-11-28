@@ -63,3 +63,4 @@
 - [Saudi Arabia](https://en.wikipedia.org/wiki/Saudi_Arabia) and [UAE](https://en.wikipedia.org/wiki/United_Arab_Emirates) are not the same countries. Saudi Arabia is the big one. UAE is a bit more to the east. Both are a huge expanse of almost nothing.
 - [Maryland has no natural lakes](https://msa.maryland.gov/msa/mdmanual/01glance/html/lakes.html).
 - [St Pierre and Miquelon](https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon), tiny pair of islands with a population of 6,008, have four primary schools, one middle school, and two high schools.
+- Scandinavia does not include Finland.
