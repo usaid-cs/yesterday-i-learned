@@ -1,3 +1,4 @@
+- Once your teeth get taken out, [the jaw bone around them starts to degenerate and waste away](https://pasadenaperiodontics.com/bone-loss-treatment/), so take them out only if you absolutely have to.
 - [Chimps biomechanically can speak](https://www.reddit.com/r/explainlikeimfive/comments/e2b5jh/eli5_why_cant_great_apes_speak/)... they just don't have the brain to do it. Even patients with microcephaly that have the same brain volume as chimps are better at language than chimps. They also don't hear "music". It's just noise to them.
 - The golden eagle is brown.
 - You can [lose 90% of your brain](https://www.sciencealert.com/a-man-who-lives-without-90-of-his-brain-is-challenging-our-understanding-of-consciousness) and still be alive, have a non-zero IQ, and work for the government.

@@ -1,5 +1,8 @@
 🇨🇦
 
+- Once issued, the [Victoria Cross](https://en.wikipedia.org/wiki/Victoria_Cross_%28Canada%29) cannot be revoked. [John Osborn](https://en.wikipedia.org/wiki/John_Robert_Osborn) was the first Canadian to receive one for the second world war (plenty were issued before that), for [protecting his team from a grenade](https://youtu.be/mPLyGYhbedE) in [Hong Kong, 1941](https://en.wikipedia.org/wiki/Battle_of_Hong_Kong).
+- You pay [GST/HST when self-employed](https://www.olympiabenefits.com/blog/how-to-pay-less-income-tax-in-canada-financial-tips-sme) only if you earn $30000 or more a year.
+- [Canada matches 20% or $500 of your contribution to an RESP](https://www.sunlife.ca/ca/Tools+and+Resources/Money+and+Finances/Managing+your+money/RESPs+What+happens+if+your+child+doesnt+go+to+university?vgnLocale=en_CA), up to $7200 total (14 years ish). [You can open an RESP for yourself...](https://www.getsmarteraboutmoney.ca/invest/savings-plans/resps/how-resps-work/) and if you do so (and you go to school), while your contributions are not tax-deductible, the _earnings_ are tax-free. To maximise the ratio of government contribution to your kid's education, contribute (500/0.2)/12 = $208 per month. You end up with $54000, which is probably enough for the average tuition fee _even if you don't make a return on your investments_.
 - [200 thousand houses get built every year](https://economics.td.com/ca-housing-starts) (right now, anyway).
 - Keep inheritance in [_your_](https://www.reddit.com/r/PersonalFinanceCanada/comments/dzay19/my_mother_was_killed_in_a_car_crash_last_night/f86mr3v/) name and yours alone.
 - Etobicoke and Scarborough are not cities (anymore). Markham still is, though.

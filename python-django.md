@@ -24,6 +24,7 @@
 - First you migrate, then you load fixtures. It is not strictly enforced, but in order to have a database set up, you must first run `migrate` to get your tables, so you should just stick to it.
 - Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.
 - [Deconstruction](https://docs.djangoproject.com/en/2.2/howto/custom-model-fields/#field-deconstruction), as far as Django fields are concerned, is the _opposite of construction_, or: how to turn a field instance into arguments that, when used to call `SomeField.__init__`, to recreate the field instance with the same values. (The other word choice is "Destruction".)
+- [ORM code (read: IO) is apparently async-unsafe](https://docs.djangoproject.com/en/3.0/releases/3.0/#asgi-support) so now I don't know what the whole point is.
 
 ### `ForeignKey`
 

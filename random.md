@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Potemkin villages](https://en.wikipedia.org/wiki/Potemkin_village) are places that are made to look nice for touring foreign officials to see how great your country is, but in reality is not.
+- An [airwatt](https://en.wikipedia.org/wiki/Airwatt) is a [bullshit](https://www.reddit.com/r/Metric/comments/2nrc15/air_watts/) unit of measurement that both Hoover and Dyson decided to use to rate their vacuum cleaners' power, for which W (the real power) and L/min (the volume of air it sucks every minute) already were a thing.
+- Dry your gloves by putting them on top of your baseboard heater. That's how all the cool kids did it. (Thanks Nancy)
+- A crostini is (for all intents and purposes) a tiny slice of baguette, sometimes with toppings.
 - If [you can restore a G suite account within 20 days but somehow can't after 21](https://support.google.com/a/answer/1397578?hl=en), then it seems they do delete everything after a month.
 - [Net promoter score](https://en.wikipedia.org/wiki/Net_Promoter) is how loyal your customer is, or how likely your customers will recommend your products to a friend. Internet service NPS is typically below average, sometimes even negative (more people rate you 0 to 6 than 9 or 10).
 - The plural form of money is [really](https://www.dictionary.com/browse/monies) "monies".
@@ -8,7 +12,7 @@
 - On Elon Musk's angular truck, or how designs are sometimes less important than features: ["when you are building something for practical use (as most trucks are) then when it comes to design ideas *form follows function*. If you can't meet the functional purposes of your product, it doesn't matter how innovative your design is because you have a failed product on arrival."](https://www.reddit.com/r/changemyview/comments/e0ktha/cmv_elons_new_cybertruck_is_awesome_and_a_bold/).
 - Restaurants take cash so they don't need to write it down as taxable.
 - Each housing start is a new unit of housing started building during a period of time.
-- 神韵 is a Falun Gong thing.
+- [神韵 is a Falun Gong thing](https://www.scpr.org/news/2018/04/27/82543/shen-yun-chinese-falun-gong/). It even says 法輪大法好 right in the play.
 - If every [giant box of diapers](https://www.costco.ca/kirkland-signature-supreme-diapers%2C-size-1-6.product.100283597.html) contains 192 diapers, and every baby uses 9600 diapers in their first 3 years, then you're buying 50 boxes.
 - Priscilla, from Latin *prisca* -> *priscus* -> *prior*, [ultimately](https://en.wiktionary.org/wiki/prior#Latin) means "ancient".
 - Adding a dry towel in the dryer [shortens drying time](https://www.bchydro.com/powersmart/residential/savings-and-rebates/everyday-electricity-saving-tips.html?WT.mc_id=rd_21tips)?

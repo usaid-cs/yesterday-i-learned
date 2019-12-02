@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- [Welsh is the only *de jure* (by law) official language](https://en.wikipedia.org/wiki/Languages_of_the_United_Kingdom) in any part of the UK.
 - When writing about yourself, "you" and "I" refer to the same person, but if someone else reads what you wrote, only "I" refers to you, so use the first person.
 - Snow peas are called [_mangetout_](https://en.wiktionary.org/wiki/mangetout) because the pod is edible.
 - [Learned](https://www.grammarly.com/blog/learned-learnt/) can be an adjective (e.g. in "She is a learned woman") describing something as knowledgeable. In this case, it is pronounced LER-ned, and it cannot be spelled "learnt".

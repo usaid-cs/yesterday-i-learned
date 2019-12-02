@@ -1,5 +1,8 @@
-> "Everybody needs money. That's why they call it money." - Danny
 
+>> "Everybody needs money. That's why they call it money." - Danny
+
+- Pay off your house aggressively if you can either get better returns with that money pay in the meantime, or if you feel good about paying off your house.
+- The more units there are in a condo building, the more likely it is for one unit to be affected by other units. The more likely something is going to happen to your unit, the less likely it is that an insurance company would want to insure you. [And when only a few insurance companies are willing to participate, the premium increases](https://globalnews.ca/news/6237709/bc-strata-insurance-surge/) because even the lowest bidder is very expensive.
 - [Biweekly (once every two weeks) employees usually receive 26 paycheques per year](https://smallbusiness.chron.com/difference-between-biweekly-semimonthly-payroll-23886.html); semimonthly employees receive 24, and each payment is 8% more.
 - The term [blue chip](https://en.wikipedia.org/wiki/Blue_chip_%28stock_market%29) stocks came from poker, where the highest-valued chip (at least at the time) is blue, at \$25.
 - The difference between a [heavy user](http://www.businessdictionary.com/definition/heavy-users.html) and a light user is light users have other things to keep them occupied.
