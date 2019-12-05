@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- [What is a big deal](https://www.jianshu.com/p/bf70a384a364)? It is not true that nothing is a big deal simply by you saying it. Your family and friends are a big deal, but, paradoxically, your life and your health are both big deals.
 - "If you raise your children you can spoil your grandkids, but if you spoil your children you'll have to raise your grandkids" - someone's grandma's friend
 - Personal projects don't matter [beyond the entry-level job market](https://www.reddit.com/r/cscareerquestions/comments/8k8yad/do_personal_projects_matter_beyond_the_entrylevel/), but you still need to know your shit, including stuff you don't do at work, which is why you need personal projects anyway.
 - To accomplish great things, we must not only act, but also dream, not only plan, but also believe. - a poet

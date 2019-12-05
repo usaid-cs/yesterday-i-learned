@@ -1,3 +1,5 @@
+- If you want to get the most out of your spinach, sprinkle [oxalate-reducing enzyme](https://www.amazon.com/gp/product/B077MSDTXP/) in pureed spinach (and wait) before you drink it.
+- Half of the world's population never drinks. People who have never had a drinnk in life [tend to live longer relative to their drinking counterparts](https://fivethirtyeight.com/features/dear-mona-how-many-people-have-never-drunk-alcohol/), as evidenced by the increased proportion of the abstaining group, who obviously cannot un-drink their first drinks, which means the rest of them die relatively sooner.
 - Once your teeth get taken out, [the jaw bone around them starts to degenerate and waste away](https://pasadenaperiodontics.com/bone-loss-treatment/), so take them out only if you absolutely have to.
 - [Chimps biomechanically can speak](https://www.reddit.com/r/explainlikeimfive/comments/e2b5jh/eli5_why_cant_great_apes_speak/)... they just don't have the brain to do it. Even patients with microcephaly that have the same brain volume as chimps are better at language than chimps. They also don't hear "music". It's just noise to them.
 - The golden eagle is brown.

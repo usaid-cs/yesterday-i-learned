@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- You can see which version of the kernel you're running [where it is compiled](https://github.com/LineageOS/android_kernel_oneplus_msm8996/blob/lineage-17.0/Makefile#L1-L3).
 - The "optimize performance for apps" thing that LineageOS has [has never been fully implemented](https://www.reddit.com/r/LineageOS/comments/81s77d/trick_to_increase_performance_disable_automatic/) and does nothing.
 - Run `settings put secure location_providers_allowed -network` to remove the consent you gave Google to collect your location with WiFi in exchange for "battery-saving" location. This does not disable WiFi scanning though, so disable it in the settings yourself.
 - In Android 10, "pausing" an app means banning it with digital wellbeing, not preventing background activity.

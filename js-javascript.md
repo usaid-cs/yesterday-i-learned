@@ -69,7 +69,7 @@ return function IndexError(msg) {
 - Ember.js: namespaces must begin with an upper case letter.
 - Ember.js: `model` is a keyword. You cannot replace it with `context`.
 - In backbone.js, [a `View` is actually a controller](http://backbonejs.org/#FAQ-mvc).
-- `return a, b` returns whichever value is true first.
+- `return a, b` returns ~~whichever value is true first~~ the last value.
 - [Scroll events do not bubble.](http://www.quirksmode.org/dom/events/scroll.html)
 - There are [typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays/Int32Array).
 - `inputElement.selectionStart` is not cross-browser compatible.
