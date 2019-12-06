@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- ["You can think dalvik.vm.heaptargetutilization as a setting how accurately the RAM should be used. If you set this to 0.25, you tell the system that up to 75% of RAM can be wasted as a tradeoff to reduce CPU usage. If you have a device where you have more CPU power than actual RAM, it might make sense to increase this setting."](https://androidforums.com/threads/dalvik-vm-fully-100-explained-how-to-improve-memory-usage.1309359/)
+- ART-optimise your apps with `cmd package bg-dexopt-job`.
 - You can see which version of the kernel you're running [where it is compiled](https://github.com/LineageOS/android_kernel_oneplus_msm8996/blob/lineage-17.0/Makefile#L1-L3).
 - The "optimize performance for apps" thing that LineageOS has [has never been fully implemented](https://www.reddit.com/r/LineageOS/comments/81s77d/trick_to_increase_performance_disable_automatic/) and does nothing.
 - Run `settings put secure location_providers_allowed -network` to remove the consent you gave Google to collect your location with WiFi in exchange for "battery-saving" location. This does not disable WiFi scanning though, so disable it in the settings yourself.

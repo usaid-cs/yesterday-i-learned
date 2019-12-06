@@ -42,6 +42,15 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 
 `null=True` is not required for `TEXT` or `CHAR` fields.
 
+### `ArrayField`
+
+[You can't give an `ArrayField` a default of `[]`](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/fields/#arrayfield) because it is mutable, but you also cannot give an `ArrayField` a default of `lambda: []` because lambdas are not serializable.
+
+    ValueError: Cannot serialize function: lambda
+
+Name your default callable.
+
+
 ### [`SeparateDatabaseAndState`](https://docs.djangoproject.com/en/2.2/ref/migration-operations/#separatedatabaseandstate)
 
 `SeparateDatabaseAndState` actually isn't that mysterious.

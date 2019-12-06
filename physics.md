@@ -119,3 +119,4 @@
 - Stephen Hawking said [there is no possibility of God in our universe](https://www.livescience.com/63854-stephen-hawking-says-no-god.html) because "the combined laws of gravity, relativity, quantum physics and a few other rules could explain everything that ever happened or ever will happen in our known universe". He said there is no time before the big bang, and, therefore, no time for a god to exist in. However, as a sidenote: when you start a Sims game, you existed before the sim's universe was created.
 - All they need to do to make a lighter diamond look bigger is to make it flatter.
 - [Putting tiny balls inside small speakers](https://www.youtube.com/watch?v=bTf369a1JZ4) dampens the sound and makes the speakers sound bigger than they really are.
+- [A generator at no load uses at least the energy required to continue spinning.](https://www.researchgate.net/post/Is_there_diesel_consumption_on_a_diesel_generator_when_it_is_producing_zero_power)

@@ -1,3 +1,4 @@
+- Cashews are 20% protein. The [cashew fruit](https://en.wikipedia.org/wiki/Cashew), the thing *above* the nut, is easily bruised and not traded often, but can be used to make jams.
 - If you want to get the most out of your spinach, sprinkle [oxalate-reducing enzyme](https://www.amazon.com/gp/product/B077MSDTXP/) in pureed spinach (and wait) before you drink it.
 - Half of the world's population never drinks. People who have never had a drinnk in life [tend to live longer relative to their drinking counterparts](https://fivethirtyeight.com/features/dear-mona-how-many-people-have-never-drunk-alcohol/), as evidenced by the increased proportion of the abstaining group, who obviously cannot un-drink their first drinks, which means the rest of them die relatively sooner.
 - Once your teeth get taken out, [the jaw bone around them starts to degenerate and waste away](https://pasadenaperiodontics.com/bone-loss-treatment/), so take them out only if you absolutely have to.

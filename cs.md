@@ -213,3 +213,4 @@ No one knows what the B stands for.
 - **An abstract data type (ADT) is just a contract**. The user of the ADT doesn't need to know how it's implemented; the provider of the ADT doesn't need to know how it's used.
 - [Metaclasses](https://en.wikipedia.org/wiki/Metaclass) are classes whose instances are classes.
 - You use [recursion](https://stackoverflow.com/a/7186607/1558430) to do variable-depth for loops.
+- [JIT compilers might actually be faster than AOT compilers](https://softwareengineering.stackexchange.com/questions/274640/why-is-android-runtimes-aot-compilation-more-performant-than-dalviks-jit) given the amount of information that is available to them when the program is running. The advantage of AOT, however, is it can take as much time as it wants, and compile only once.
