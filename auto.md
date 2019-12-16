@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- According to an unsourced reddit comment, drum brakes can brake stronger than disc brakes *if* ventilation is excellent, which is rarely the case.
 - If you charge the Tesla 3 (75 kWh for 500km) at $0.10/kWh and 50% efficiency, that is still $15, or 2.7L/100km, not "free" like the media makes it seem.
 - [Tesla paint jobs are shit.](https://www.youtube.com/watch?v=ErE-UnQO-DE)
 - Put socks over your wipers to prevent them from sticking to your windscreen. [Some idiot says the springs might weaken if you lift the wiper arms up, while another idiot says the arms are designed to be lifted up](https://www.theweathernetwork.com/ca/news/article/windshield-wiper-blades-is-it-a-good-idea-to-leave-them-up-before-a-snowfall).

@@ -214,3 +214,4 @@ No one knows what the B stands for.
 - [Metaclasses](https://en.wikipedia.org/wiki/Metaclass) are classes whose instances are classes.
 - You use [recursion](https://stackoverflow.com/a/7186607/1558430) to do variable-depth for loops.
 - [JIT compilers might actually be faster than AOT compilers](https://softwareengineering.stackexchange.com/questions/274640/why-is-android-runtimes-aot-compilation-more-performant-than-dalviks-jit) given the amount of information that is available to them when the program is running. The advantage of AOT, however, is it can take as much time as it wants, and compile only once.
+- The supposed [advantage of little-endian](https://softwareengineering.stackexchange.com/a/95573/116811) is that if you have a 16-bit value stored in a 32-bit long integer, you can read the first 16 bits of the little-endian long (i.e. "short") and still get that value at exactly that address.

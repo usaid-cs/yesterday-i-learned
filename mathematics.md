@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- To compare pizza sizes, you don't need pi in the calculation. Just compare `r1 * r1 / r2 / r2`.
 - How to read odds: if the odds is "3/5" and you bet $10, you can get $10 + ($10 * (3/5) = $6) if you win. If you lose, well, you lose \$10. If I understand this correctly, the odds of "3/5" directly expresses the proportion of people who support your bet (the 5), and the proportion of people who bet otherwise (the 3), but has nothing to do with the actual probability of an event happening.
 - The [area of a dodecagon](https://www.reddit.com/r/u_mtimetraveller/comments/dkljyz) (12 sided polygon) is exactly 3r^2. In contract, the smallest circle that encloses it is pi r^2, or roughly 14% larger.
 - A [bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) or "bigraph" is a graph whose nodes ("vertices") can be split into two groups _U_ and _V_, such that every line ("edge") connects from U to V.

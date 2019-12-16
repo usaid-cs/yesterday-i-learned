@@ -300,3 +300,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - F2FS (on my device at least) has [GC issues](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/kernel-t3404970/post73148651#post73148651) that [may](https://twitter.com/arter97/status/894410845286825984) be fixed in later versions.
 - [Real-time process priority level](https://askubuntu.com/a/1078563) is calculated as `-1 - (1 to 99)`, so it is at least as prioritised as normal processes, for which their priorities are calculated as `20 + (-20 to 19)` (lower is more prioritised).
 - You cannot pipe two streams to one program. The linux solution to this is [either `cat`ing to a single file and have your program read it, or use `mkfifo` to make a FIFO file that you redirect your output to](https://serverfault.com/a/171101/523754).
+- `env` dumps all the environment variables.

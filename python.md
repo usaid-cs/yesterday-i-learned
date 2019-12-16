@@ -568,3 +568,4 @@ bar
 - Python3 class methods are automatically static if you don't have a `self`. The `@staticmethod` decorator helps the class to call `Foo.bar()`, _and_ the ability to call these methods as `a_foo.bar()`.
 - Did you know (after like 10 years programming in python) that [you can't change a string by index](https://stackoverflow.com/questions/1228299/changing-one-character-in-a-string-in-python)?
 - [Itertools is written in C](https://github.com/python/cpython/blob/master/Modules/itertoolsmodule.c). Many standard libraries are.
+- To settle whether python is more interpreted or compiled (no one denies bytecode exists), `man python` says it is `python - an interpreted, interactive, object-oriented programming language`.

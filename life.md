@@ -1,5 +1,10 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- If you rent at somewhere sketchy, so sketchy that you aren't sure if your landlord owns the house, then request to see the property tax invoice from them.
+- "The "stuff" thing really resonated with me. I value not having a lot of stuff. I prefer less clutter, fewer things to maintain or care about. I hate that our society is often centered around the acquisition of material things, most of which have no practical use, and even dubious aesthetic use. I'm certainly not completely spartan, and do have stuff, but I try to be careful about what I let into my home ..." - [kelnos](https://news.ycombinator.com/user?id=kelnos)
+- [Kids love to help](https://news.ycombinator.com/item?id=21790616) and be part of your life. Shoo them away and they'll cause havoc to get your attention. You will spend more time teaching them than if you do it yourself (see: loading the dishwasher). Be patitent. This is fine.
+- Store your kids' Christmas presents at work.
+- Reciprocity (or "being thankful") is the core antidote to feeling dissatisfied. [Life less than the most satisfying is also a good life](https://www.youtube.com/watch?v=WPPPFqsECz0): "Life can feel amazing [after serious hardship like chemotherapy] is over. The smallest things can be bottomless sources of joy, from being able to taste, to just sitting in the Sun or chatting with a friend." [Sources](https://sites.google.com/view/sources-dissatisfaction/). Want to start? Once or twice a week, keep a [gratitude journal](https://ggia.berkeley.edu/practice/gratitude_journal?_ga=2.95683418.716560968.1562229048-1958402826.1562229048) writing down what you felt thankful for.
 - [What is a big deal](https://www.jianshu.com/p/bf70a384a364)? It is not true that nothing is a big deal simply by you saying it. Your family and friends are a big deal, but, paradoxically, your life and your health are both big deals.
 - "If you raise your children you can spoil your grandkids, but if you spoil your children you'll have to raise your grandkids" - someone's grandma's friend
 - Personal projects don't matter [beyond the entry-level job market](https://www.reddit.com/r/cscareerquestions/comments/8k8yad/do_personal_projects_matter_beyond_the_entrylevel/), but you still need to know your shit, including stuff you don't do at work, which is why you need personal projects anyway.
@@ -8,7 +13,7 @@
 - Be a friend: "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." - Hilary Ziglar (a white man)
 - [Being good at a lot of similar things](https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428) is sufficient, and far less demanding, than being the best at one thing.
 - Sometimes it might be good to think about [doing something with a high ROTI (return on time invested)](https://www.inc.com/john-eades/why-you-should-be-more-worried-about-your-return-on-time-instead-on-investment.html) rather than just ROI, i.e. "is it worth my time?" "Beyond a good income, what do you want to achieve from your career? Professional accolades? Awards? The knowledge you've made a difference? All are valuable. All require time. None can be purchased with cash."
-- Resumes full of one to two-year experiences can also mean the companies you choose are [hire-and-fire places](https://news.ycombinator.com/item?id=21322696) that kill you off when a project is complete.
+- Resumes full of one-to-two-year experiences can also mean the companies you choose are [hire-and-fire places](https://news.ycombinator.com/item?id=21322696) that kill you off when a project is complete.
 - Half the fun of skydiving comes from knowing your parachutes might fail and you might die. Yet you do not.
 - [For a party](https://www.gifts.com/blog/hostess-gift-etiquette), bringing enough for literally everyone to eat/drink is rare for a guest to do, but the host would normally not be jealous over/about that.
 - 愛屋及烏 is not a good term. It means you must grow to love everything about your house, including the crows above it. There is also a difference between 忍讓 ("tolerate") and 包容 ("accept").
@@ -36,7 +41,7 @@
 - For appointments that have late cancellation fees, check if you can bump the appointment up for free. If it is free to do so, then bump the appointment up enough that the late cancellation time no longer applies.
 - "Empty your mind, be formless, shapeless - like water. Now you put water in a cup, it becomes the cup; You put water into a bottle, it becomes the bottle; You put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend." - Bruce Lee, in a show called "Longstreet"
 - "Challenges are gifts that force us to search for a new center of gravity. Don't fight them, just find a new way to stand." - Oprah
-- Happiness is what happens when what you think, what you say, and what you do are the same thing.
+- Happiness comes from inside. You make your own happiness. No one owes you anything. That means **you need to do something to make yourself happy**. "Happiness is what happens when what you think, what you say, and what you do are the same thing."
 - /u/Festivearea2's psychiatrist, Dr Murphy: "No one gives a shit about you." He meant and explained it as, in life there are very very very few people who will be there for you all the time, and drop everything. No one cares about what you're doing because everyone is selfish. That's just how life is. Do what YOU want to do, because it's YOUR life.
 - Blogs ideally teach others what you learned, not just rambling. (But you can... it's your own blog, I'm not the police)
 - "Never grow up, just learn to be an adult." - [Frazer271009's Dad](https://www.reddit.com/r/AskReddit/comments/bq7pbb/what_is_something_someone_said_to_you_that_hit/eo1v1m6/)
@@ -98,7 +103,6 @@
 - [What you know doesn't matter to a company; what you can do for the company, does.](https://news.ycombinator.com/item?id=14271819)
 - Want to cancel something attached to your home? Just claim to be moving in with someone else.
 - [Leaving your comfort zone](http://lifehacker.com/how-being-uncomfortable-helps-you-grow-1748360327) is the only way one can grow.
-- Making yourself happy is not your wife's job. It is your own job. (You know what I mean)
 - Whenever you meet someone for the first time every day, [wait a second, then do your best heartfelt smile on your face.](https://www.youtube.com/watch?v=R3UODz5O8zo) 😂😂😂
 - One technique to get people to like you is called "the glove". When in a group, for a short period of time, pay your entire attention to that person.
 - How to stop being the guy that rarely says anything: "[talk louder and don't mumble](http://www.reddit.com/r/socialskills/comments/14j3y2/how_to_stop_being_the_guy_that_rarely_says/), it makes what you say seem more important and keeps you in the conversation more."

@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- The Chinese character set was [simplified](https://en.wikipedia.org/wiki/Simplified_Chinese_characters#History) twice, once in 1956 and 1964. Note that the [cultural revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) officially started in 1966, and using simplified characters signified that you were a [leftist](https://en.wikipedia.org/wiki/Left-wing_politics), i.e. a socialist.
+- [Tenderness](https://www.vocabulary.com/dictionary/tenderness) is "the quality of a person who cries when they see someone get hurt".
 - [Welsh is the only *de jure* (by law) official language](https://en.wikipedia.org/wiki/Languages_of_the_United_Kingdom) in any part of the UK.
 - When writing about yourself, "you" and "I" refer to the same person, but if someone else reads what you wrote, only "I" refers to you, so use the first person.
 - Snow peas are called [_mangetout_](https://en.wiktionary.org/wiki/mangetout) because the pod is edible.

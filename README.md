@@ -67,6 +67,7 @@
 - [js-javascript.md](js-javascript.md)
 - [js-reactjs.md](js-reactjs.md)
 - [js-typescript.md](js-typescript.md)
+- [k8s.md](k8s.md)
 - [kotlin.md](kotlin.md)
 - [linux.md](linux.md)
 - [machine-learning.md](machine-learning.md)
@@ -95,6 +96,7 @@
 
 - [angleterre.md](angleterre.md)
 - [canada.md](canada.md)
+- [china.md](china.md)
 - [europe.md](europe.md)
 - [geography.md](geography.md)
 - [history.md](history.md)

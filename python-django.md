@@ -19,7 +19,7 @@
 - Can't have `__getattr__` in django models.
 - The difference between `get_user_model()` and `settings.AUTH_USER_MODEL` is, well, the latter is a string. (Being a string is still useful in situations where the actual model is not needed, like a foreign key reference, or type hinting.)
 - You cannot write a `unique_together` based on foreign key values, because [`unique_together` maps directly to columns](https://stackoverflow.com/a/4440189/1558430).
-- `manage.py sqlmigrate` lets you see what queries a (schema) migration will run.
+- `manage.py sqlmigrate` lets you see what queries a (schema) migration will run. Adding `--backwards` gives you the backward queries.
 - [Signals are synchronous and blocking](http://www.slideshare.net/flywindy/two-scoops-ofdjangologgingandsignals).
 - First you migrate, then you load fixtures. It is not strictly enforced, but in order to have a database set up, you must first run `migrate` to get your tables, so you should just stick to it.
 - Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.

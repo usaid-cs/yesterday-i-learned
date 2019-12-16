@@ -1,3 +1,4 @@
+- Bear Grylls is a Londoner, not Australian?
 - [Ken Watanabe](https://en.wikipedia.org/wiki/Ken_Watanabe) didn't need anyone to dub for him in Detective Pikachu.
 - [Chuck Norris](https://en.wikipedia.org/wiki/Chuck_Norris) is (currently) 79, and, at 2015, still had a lot of hair.
 - Guido van Rossum has a brother, Just van Rossum. (His first name is just Just.)
@@ -177,3 +178,4 @@
 - Sonic the Hedgehog is a... hedgehog. Knuckles the Echidna is an... echidna. Unfortunately [they look more or less the same](http://www.wallpaperhi.com/thumbnails/detail/20120923/sonic%20the%20hedgehog%20video%20games%20knuckles%20the%20echidna%201280x1024%20wallpaper_www.wallpaperhi.com_91.jpg).
 - /r/trees is about marijuana. /r/marijuanaenthusiasts is about trees.
 - Japanese girls have not been [licking doorknobs](http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.
+- "Battle rackets" is not a thing.

@@ -1,5 +1,7 @@
 # [Machine Learning](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 
+> ["All I know is my gut says _Maybe_." - Neutral Planet President](https://theinfosphere.org/Neutral_People)
+
 _Andrew_ is a man with Canto accent ("people"), British accent ("chances", "better", "that", "so"), American accent ("talking"), Mandarin acccent ("learning", "data", "idea"), German accent ("the"), and Canadian accent ("house"). [He also co-founded coursera](https://en.wikipedia.org/wiki/Andrew_Ng) (you know, where this comes from).
 
 ## What [is machine learning]
@@ -41,6 +43,7 @@ A _regression problem_ is to predict a _continuous_ output; something like a fun
 A _classification problem_ is one where you are asking the program to output _discrete_ values, e.g. 0 or 1.
 
 _Classification_ is the act of applying the right label(s) to a given input. Naive Bayes Classifiers, Decision Trees, and Neural Networks (Neuralnets) all belong to classification.
+
 
 ## Unsupervised machine learning (UML)
 

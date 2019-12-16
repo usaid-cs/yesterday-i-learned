@@ -1,3 +1,5 @@
+- The air inside snowflakes reduces sound travel.
+- [CO2 only comes out of coke's nucleation sites](https://www.youtube.com/watch?v=K-Fc08X56R0), where the bubbles themselves are nucleation sites. Flicking the can/bottle removes bubbles from the side of the can/bottle, so the number of sites decreases, disarming the can/bottle.
 - During winter, cold air outside can be 50% [relative humidity](https://www.ac-heatingconnect.com/homeowners/cold-weather-home-humidity/), and warm air outside can also be at 50% relative humidity, but cold air holds less moisture (think why cold glasses fog up) so the cold air has lower absolute humidity than the warm air. To increase moisture in your indoor air (if your room is too dry), lower the temperature or use a humidifier. To decrease moisture in your indoor air instead (if your room is too humid), draw in cold air, turn up the heat, or use a dehumidifier.
 - There is [a hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon) at Saturn's [(north, whatever that means) pole](https://en.wikipedia.org/wiki/Retrograde_and_prograde_motion#Axial_tilt). All solar planets' "north" poles are decided by the earth's idea of "north".
 - [Two galaxies can move away from each other faster than light](http://curious.astro.cornell.edu/legal-information/104-the-universe/cosmology-and-the-big-bang/expansion-of-the-universe/1066-can-two-galaxies-move-away-from-each-other-faster-than-light-intermediate)... because "two galaxies ... are not travelling through space, it is the space between them that is expanding."
@@ -120,3 +122,4 @@
 - All they need to do to make a lighter diamond look bigger is to make it flatter.
 - [Putting tiny balls inside small speakers](https://www.youtube.com/watch?v=bTf369a1JZ4) dampens the sound and makes the speakers sound bigger than they really are.
 - [A generator at no load uses at least the energy required to continue spinning.](https://www.researchgate.net/post/Is_there_diesel_consumption_on_a_diesel_generator_when_it_is_producing_zero_power)
+- Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.

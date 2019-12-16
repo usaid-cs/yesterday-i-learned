@@ -6,8 +6,11 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- [Snapdragon 865 is like 30% better than 855](https://www.anandtech.com/show/15207/the-snapdragon-865-performance-preview-setting-the-stage-for-flagship-android-2020).
+- Full-disk encryption is [at most a deterrent](https://arstechnica.com/information-technology/2016/07/androids-full-disk-encryption-just-got-much-weaker-heres-why/) if your bootloader is unlocked, which allows attacker to get your key right off the filesystem. To make it more useful, set a stronger password.
+- Phone batteries doubled in capacity between 2013 and 2019 because [device volume also doubled](https://tweakers.net/reviews/7476/all/telefoonaccus-krijgen-steeds-meer-capaciteit.html).
 - ["You can think dalvik.vm.heaptargetutilization as a setting how accurately the RAM should be used. If you set this to 0.25, you tell the system that up to 75% of RAM can be wasted as a tradeoff to reduce CPU usage. If you have a device where you have more CPU power than actual RAM, it might make sense to increase this setting."](https://androidforums.com/threads/dalvik-vm-fully-100-explained-how-to-improve-memory-usage.1309359/)
-- ART-optimise your apps with `cmd package bg-dexopt-job`.
+- ART-optimise your apps with `cmd package bg-dexopt-job`. [JIT may generate profiles](https://source.android.com/devices/tech/dalvik/configure), so you may want to compile AOT only after JIT ran over your apps for a while.
 - You can see which version of the kernel you're running [where it is compiled](https://github.com/LineageOS/android_kernel_oneplus_msm8996/blob/lineage-17.0/Makefile#L1-L3).
 - The "optimize performance for apps" thing that LineageOS has [has never been fully implemented](https://www.reddit.com/r/LineageOS/comments/81s77d/trick_to_increase_performance_disable_automatic/) and does nothing.
 - Run `settings put secure location_providers_allowed -network` to remove the consent you gave Google to collect your location with WiFi in exchange for "battery-saving" location. This does not disable WiFi scanning though, so disable it in the settings yourself.
@@ -37,7 +40,7 @@
 - Assuming a reasonable goal of owning a phone for $0.50 per day, and you aim to use it for 2 years, the maximum cost (before tax) of such a phone is around $323, or, if you plan to keep it for 3 whole years, then around $484 (also the figure for if you intend to keep the same battery sealed for 3 years). In contrast, your phone (around $700) needs around 3.5 years to pay itself off, and the earliest you can get a new phone is: _March 2021_. **Repair your devices.**
 - Use [`monkey -p com.packagename 1`](https://stackoverflow.com/a/25398877/1558430) to launch an app without input.
 - Your particular device's fstab file is located at `/system/vendor/etc/fstab.qcom`. You can change your zram size there (if you enabled it).
-- If your device is _not_ encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or just delete `/data/system/locksettings.db`, which says you should have a PIN.
+- If your device is _not_ encrypted, and you encounter "incorrect password/pin" after restoring from a NANDroid backup, [try this](https://android.gadgethacks.com/how-to/fix-wrong-pin-errors-after-restoring-nandroid-backup-0176446/) or [delete `/data/system/locksettings.db*`](https://forums.oneplus.com/threads/fix-wrong-pin-pattern-when-restoring-twrp-nandroid-backup.452384/) from a TWRP shell. Also worth deleting: `password.key` and `pattern.key`, if you use those.
 - To automate scrolling up a long list, use `while true; do input swipe 300 300 300 1500 100; done`.
 - During the Pixel 3 announcement, [Google did not mention "Android" a single time](https://bgr.com/2018/10/12/android-vs-fuchsia-pixel-3-event-no-android-mention/).
 - [Throwing a file into the "intent firewall" directory](https://android.stackexchange.com/questions/128053/removing-a-contact-from-direct-share-panel/160350#160350) instantly disables direct share, without the need for an xposed module.

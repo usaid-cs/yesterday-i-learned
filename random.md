@@ -1,5 +1,23 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- At least two people who work for Shopify [have their own sites](https://www.linkedin.com/feed/update/activity:6605850345262452736/) and sell their own products there.
+- Gordon Ramsay says it's easy to find a great restaurant: [just check that a place is busy on a Monday night](https://www.youtube.com/watch?v=U9DyHthJ6LA). He also bastes beef patties with butter.
+- How-to Geek [officially](https://www.howtogeek.com/422947/how-to-stop-people-from-stealing-your-packages/) recommends delivering your packages (like books, dildos, kitchen tools, what have you) to work to prevent them from getting stolen when delivered at home.
+- "lru_cache should have a maxsize to prevent from memory exhaustion attacks" - Django
+- [Line trapping](https://www.kingstonpolice.ca/en/news/police-issue-warning-to-public-about-new-line-trapping-scam.aspx) can be used to make someone else's phone not hang up when they, well, hang up. This means when the victim makes a call again, they are still talking to the scammer, and not who they believe were calling. *So wait a few minutes before you call someone*.
+- Pepsi becomes [Pecsi in Argentina](https://adage.com/article/global-news/pepsi-pecsi-argentina/137946) because they kept pronouncing it wrong, and Pepsi just rolled with it.
+- Randstad (the hiring firm) owns Monster (the hiring site).
+- A 陪都 is a "temporary capital" for a country if their official capital is lost to another country.
+- [McMug](https://en.wikipedia.org/wiki/McMug) and [McDull](https://en.wikipedia.org/wiki/McDull) (the sillier one) may be distant cousins.
+- If you have a simple, easy to pronounce, white-sounding name, you are [more likely to get hired](https://www.businessinsider.com/how-your-name-affects-your-success-2015-8#if-your-name-is-common-you-are-more-likely-to-be-hired-2), more likely to be a C-something-O, and less likely to be a criminal (cause or effect). People who use their middle name initials are more likely to be respected simply by association with sophistication. Your best bet, then, is: [Aaron A Aaronson](https://baict.fandom.com/wiki/Aaron_Aaronson).
+- "The greatest glory in living lies not in never failing, but in rising every time we fall." - Nelson Mandela
+- Tarantino is known for [unexpected, dramatised violence](https://nofilmschool.com/Taratino-once-upon-a-time-in-hollywood).
+- [The brain is the only organ that knows it is an organ](https://www.youtube.com/watch?v=Q9iZ5fKFMQw). See also: other seemingly mindblowing shower thoughts.
+- In ISO 8601, [the T between date and time is absolutely necessary](https://stackoverflow.com/a/9532375/1558430) unless the parties agree to omit it. *It cannot be replaced with a space.*
+- "YAML tends to be more user-friendly [than JSON]" - [k8s docs](https://kubernetes.io/docs/concepts/configuration/overview/#general-configuration-tips)
+- The secret sauce of big tech is [the tooling](https://news.ycombinator.com/item?id=21645117). It goes both ways. You can both come out successful in that you've interacted with these tools, or come out useless because you have no idea how to work without these tools.
+- "Fuck you, I'm the government, fuck all y'all living here, I'm buying your land to build highways, deal with it" is called [eminent domain](https://en.wikipedia.org/wiki/Eminent_domain), compulsory purchase, resumption, or expropriation.
+- A "[dag](https://en.wikipedia.org/wiki/Dag_%28slang%29)", originally a sheep's shitstain (in the form of dried solids), is now an affectionate insult for an unfashionable person.
 - Fascism is a hard form of nationalism that has a dictator, suppresses the opposition, and strict control of the society/economy.
 - An ethical company that vows not to be bought by evil corps [can](https://easydns.com/blog/2019/12/06/its-called-f-you-money-for-a-reason-why-isoc-sold-org-to-vcs/) eventually be bought by a company who made no such commitments, which then later gets bought by the evil corps. Ethical company cannot reject the acquisition because they don't have a say as a subsidiary.
 - [McDonald's sells beer in 15 countries](https://www.thrillist.com/culture/mcdonalds-beer), among which, only South Korea is outside Europe.
@@ -19,7 +37,6 @@
 - On Elon Musk's angular truck, or how designs are sometimes less important than features: ["when you are building something for practical use (as most trucks are) then when it comes to design ideas *form follows function*. If you can't meet the functional purposes of your product, it doesn't matter how innovative your design is because you have a failed product on arrival."](https://www.reddit.com/r/changemyview/comments/e0ktha/cmv_elons_new_cybertruck_is_awesome_and_a_bold/).
 - Restaurants take cash so they don't need to write it down as taxable.
 - Each housing start is a new unit of housing started building during a period of time.
-- [神韵 is a Falun Gong thing](https://www.scpr.org/news/2018/04/27/82543/shen-yun-chinese-falun-gong/). It even says 法輪大法好 right in the play.
 - If every [giant box of diapers](https://www.costco.ca/kirkland-signature-supreme-diapers%2C-size-1-6.product.100283597.html) contains 192 diapers, and every baby uses 9600 diapers in their first 3 years, then you're buying 50 boxes.
 - Priscilla, from Latin *prisca* -> *priscus* -> *prior*, [ultimately](https://en.wiktionary.org/wiki/prior#Latin) means "ancient".
 - Adding a dry towel in the dryer [shortens drying time](https://www.bchydro.com/powersmart/residential/savings-and-rebates/everyday-electricity-saving-tips.html?WT.mc_id=rd_21tips)?
@@ -45,12 +62,10 @@
 - A [lifer](https://www.merriam-webster.com/dictionary/lifer) is a person on life sentence.
 - [Shingles need to be replaced every 15-20 years](https://ajreliable.com/how-often-does-a-roof-need-to-be-replaced/) (except rubber and metal ones) to remove mould and water damage.
 - [DevOps is YAML.](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) Everyone writes a lot of it. Everyone hates it.
-- A certain [man named Xi](https://en.wikipedia.org/wiki/Xi_Jinping) removed the Chinese president's two-term limit while he was president, in 2018. Apparently [two people voted against the idea](https://www.bbc.com/news/world-asia-china-43361276) but thousands said aye.
 - Ever since Campbell ruined their entire soup line with cheaper ingredients, even [Walmart brand soups might be a better bet](https://www.reddit.com/r/AskReddit/comments/dq82ee/which_brand_has_lost_you_as_a_customer/f61rqjo/). Someone also claimed that [their low-sodium soups are actually calcium chloride soups](https://www.reddit.com/r/AskReddit/comments/dq82ee/which_brand_has_lost_you_as_a_customer/f621drt/) instead, so watch out of those I guess.
 - A "costume" is a dress code that reflects class, gender, profession, ethnicity, that sort of thing.
 - [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) cofounded Reddit?? Anyway, he scraped US research articles off MIT's site, got arrested for leaking what he believed should be freely available, and hanged himself.
 - [Tupperware parties](https://en.wikipedia.org/wiki/Tupperware#Tupperware_parties): if you make your neighbours buy tupperware, you get free tupperware. This happened all around the world.
-- The CPC is a funny party because [the party was founded on Marxist principles, but they also arrest Marxists](https://www.npr.org/2018/11/21/669509554/in-china-the-communist-partys-latest-unlikely-target-young-marxists).
 - Marriage between Hadza couples are a simple [approval from their parents](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.399.2912&rep=rep1&type=pdf) after they previously had sex. Since there is no ceremony or official declaration of monogamy, a fight may break out if a woman had laid with several males simultaneously.
 - Pregnant women cannot [clean litterboxes](https://www.babycenter.com/0_four-household-chores-to-avoid-during-pregnancy_10317892.bc).
 - The AC (sometimes called HVAC) is also responsible for [draining moisture out of the home](https://basementgurus.com/diy-homemade-dehumidifier/).
@@ -66,7 +81,6 @@
 - A commencement (n.) can also be a north american graduation ceremony.
 - Lean ground beef often comes from [dairy cows](https://www.cbc.ca/news/canada/prince-edward-island/pei-beef-prices-oct-2019-1.5328551), different from the steak you see beside it.
 - "Heirloom quality" is not a formal definition of quality; it just means something so expensive you'll want to pass it on, regardless of actual quality.
-- Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
 - [賢者タイム](http://www.jlect.com/entry/2891/kenjataimu-kenjataimu/), ken-JA + [TAI-mu aka "time"](https://en.wiktionary.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A0#Japanese), describes the clarity of thought achieved post-orgasm. They also call it 射精終了のこと, or "the moment after you ejaculate".
 - [Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture) was a popular "futurist", space-age kind of architecture from the 1930s to the 1960s. "Googie" was the wife of the original owner, Mortimer C. Burton's wife, Lillian K. Burton's nick name.
 - Bruce / Caitlyn Jenner was once Kim Kardashian's daddy. They both live in [Hidden Hills, CA](https://en.wikipedia.org/wiki/Hidden_Hills,_California).
@@ -82,12 +96,10 @@
 - Oracle bought [NetSuite](https://en.wikipedia.org/wiki/NetSuite).
 - It is hard to find a country that offers [true, universal free healthcare for everyone](https://www.internationalinsurance.com/health/countries-free-healthcare.php). It is either not completely free or not universal. [**USA is number one**](https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care) when it comes to offering healthcare that is neither free nor universal.
 - ["It's not worth living in a world where China controls my country's art"](https://www.theguardian.com/tv-and-radio/2019/oct/08/we-good-now-china-south-park-creators-issue-mock-apology-after-show-reportedly-censored), South Park. "Don't do it then, no one's forcing you to perform your art in China", a Chinese woman.
-- Being gay is decriminalised in China [since 1997](https://en.wikipedia.org/wiki/LGBT_rights_in_China), and declassified as a mental illness in 2001. Still a lot of stigma though.
 - A dude/dudette named 苍井翔太 is known for being able to [voice women characters](https://www.youtube.com/watch?v=PNSnbjPKG5k) with varying breast sizes.
 - A ["people mover"](https://en.wikipedia.org/wiki/People_mover) specifically refers to small, automatic driverless trains, frequently found in airport terminals and theme parks.
 - Terraform has a `fmt` that helps you format everything, without you doing it.
 - ["I think therefore I am"](https://en.wikipedia.org/wiki/Cogito,_ergo_sum) (*Cogito ergo sum*) (note it isn't "cognito" with an N) is actually "I doubt therefore I think therefore I am" (*dubito, ergo cogito, ergo sum*). [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) was debunking philosophical axioms in the 1600s ("a statement that is so evident or well-established, that it is accepted without controversy or question"), where people believe something exists it can be seen or heard. But he also doubted if anything exists... other than himself, because if he can doubt, then he must exist.
-- China's internet has so few Internet Exchange Points (IXPs) that [Oracle said it is more like a giant Intranet](https://www.zdnet.com/article/oracle-chinas-internet-is-designed-more-like-an-intranet/). While traffic in other countries can traval through different countries if it is faster, traffic between Chinese client-servers never leaves China.
 - The vast majority of surface devices [come with a moving part](https://www.youtube.com/watch?v=kU78s9ExFFA).
 - [Izakaya](https://en.wikipedia.org/wiki/Izakaya), 居酒屋, literally means a pub. They can also have buffets in these pubs, though.
 - 15% of the population hold their phones with two thumbs, [like a gameboy](https://ux.stackexchange.com/a/97308/40178). The rest, slightly more people do the one-handed thumb hold than the two-handed "I'll use my index finger" hold.
@@ -152,13 +164,11 @@
 - [Lena Söderberg](https://en.wikipedia.org/wiki/Lenna), subject of a standard test image, wants her name pronounced as if it had two Ns.
 - [We are already screwed for climate change](https://www.youtube.com/watch?v=PHdcpxmJ6vg). The ship has sailed.
 - Every notable mobile operating system copied [WebOS's card view](https://www.youtube.com/watch?v=ICoNag4i7WA).
-- Gmail is banned in China. So is Facebook, Youtube, Twitter, Instagram, and Dropbox. Fun fact maybe? [On Wikipedia, it says Wikipedia is banned](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China).
 - [The average (American) commuter is spending nearly ten days per year commuting](https://www.takescoop.com/news/2019/08/14/inside-scoop/company-news/our-road-ahead:-scoop-raises-$60m-to-change-commutes-everywhere). This does not imply GDP can increase by 3% if no one commuted.
 - If "Tangam Systems" was named Tangam because that's the founder's grandmother's name, then it is structurally no different from "Bob Gaming", ["John's No Frills"](https://goo.gl/maps/kSAvpz6X11eQbE2J9), or "Grandmasoft".
 - Medium is good because [the import tool is good, and it helps other people discover your posts](https://www.wordstream.com/blog/ws/2016/07/14/medium-publishing). See also: [reasons why you should not publish on medium](https://hackernoon.com/why-i-quit-my-medium-membership-909909657ba): pay to post. Pay to read. Mostly, paywall. Information should be free, bla bla bla.
 - People from Fujian are very united. They have associations all over the globe, and they always help each other out. [It's their thing.](http://fujiancanada.org/)
 - [*Russia* is the world's second largest crude oil exporter by volume](http://www.worldstopexports.com/worlds-top-oil-exports-country/) (in 2019, $129 billion worth, 11.4%). (Only) half of the world's top 10 oil countries are in the middle east.
-- There are actually [nine political parties in China](https://en.wikipedia.org/wiki/List_of_political_parties_in_China), but the CCP has 99% of all voting members, and the [Constitution of China's Preamble](https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China) says "the Communist Party of China" [four times](http://en.people.cn/constitution/constitution.html). [The CCP has/had 2980 seats, while the other parties have 175 seats](https://en.wikipedia.org/wiki/13th_National_People%27s_Congress).
 - The longest-serving public servant in Hong Kong is [Mr Matthew Cheung](https://zh.wikipedia.org/wiki/%E5%BC%B5%E5%BB%BA%E5%AE%97), now (1972~2019~) the Chief Secretary for Administration, which is the most senior you can become without [being appointed by mainland China](https://en.wikipedia.org/wiki/Chief_Executive_of_Hong_Kong).
 - VLC's "compressor", actually [dynamic range compression](https://en.wikipedia.org/wiki/Dynamic_range_compression), works by reducing the max volume and min volume of some audio, reducing its dynamic range. Since "louder music sounds better", the availability of dynamic range compressors led to [loudness war](https://en.wikipedia.org/wiki/Loudness_war), where everyone uses automatic dynamic range compression without clipping.
 - Bankruptcy is not a get-out-of-jail-free card. [There are consequences](https://www.hoyes.com/blog/5-reasons-not-to-file-bankruptcy/). First of all, all your assets [except stuff like clothes and tools](https://www.hoyes.com/personal-bankruptcy/effects-of-claiming-bankruptcy/) must be sold to clear your existing debts. Second, if you earn more than what you should for 9~36 months after bankruptcy, that income goes to pay the debt. Third, this stays on your credit file for 14 years.
@@ -179,7 +189,7 @@
 - [七夕](https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A4%95) appears to be yet another Asian valentines day. It happens on the seventh day of the seventh lunar month.
 - Twins can be born days apart. [In Ireland, one twin was prematurely born, but the other was not](https://sg.theasianparent.com/miracle-twins-born-87-days-apart), leading to a 87-day birthdate difference.
 - A [flint cone](https://en.wikipedia.org/wiki/Hostile_architecture) is a stone (flint) structure at the bottom of a corner of building, that discourages patrons (mostly men) from urinating there.
-- Paying for a $720 phone as $30 * 24 months saves you around $30 in inflation.
+- Paying for a $720 phone as $30 * 24 months saves you around $30 in inflation. Getting a new subsidised phone every 2 years is better than not getting one at the end of your contract (because you're just losing out on your subsidy) but having no contract is the best option if available.
 - [The government wants to know your spotify data](https://www.youtube.com/watch?v=qHHbqEhU0gc) because there is a correlation between the economic climate (actually, your sentiment of it), and the kinds of songs you listen to. During an economic downturn, people enjoy songs with anger, digust, fear, sadness, and anticipation. Inversely, if you know people enjoy happy and dancing songs, *then the stock markets go up*.
 - The plastic sleeves you put in between the wall and the screw are called anchors. You need it only if the wall is brick or concrete (or hard stuff). You don't need it if you have drywall or wood.
 - "Double dutch" is either [Dutch (incomprehensible) on top of Dutch (extra incomprehensible)](https://idioms.thefreedictionary.com/double+Dutch), [jumping two ropes at the same time](https://en.wikipedia.org/wiki/Double_Dutch_%28jump_rope%29), or [using both condom and pills](https://www.urbandictionary.com/define.php?term=double%20dutch). The Dutch do a lot of doubles.
@@ -197,7 +207,6 @@
 - Airports have not dropped their "2 hour early for domestic flights" thing because [they turned the airport into a mall](https://www.youtube.com/watch?v=L-GFqOWLVmU), where making you stay in the clearance area is simply pure capital. The food court is almost robbery, while duty-free shops are designed to make you spend your leftover foreign currency.
 - If someone is born in an aircraft or spacecraft, the child inherits the nationality of its parents. If that is not possible, [the child inherits the nationality of the country in which the vessel is registered](https://www.youtube.com/watch?v=h6AWAoc_Lr0).
 - When you launch a product, [not everyone is going to appreciate it](https://news.ycombinator.com/item?id=20426682). When Dropbox appeared on Show-HN, [a comment](https://news.ycombinator.com/item?id=9224) said: "you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem."
-- The Chinese version of The Looper has [15 extra minutes of scenes shot in Shanghai](https://www.youtube.com/watch?v=8R-FQTY4KJk).
 - The one (and only one) advantage that MongoDB has over Postgres is [it has a built-in sharding mechanism](https://www.mongodb.com/compare/mongodb-postgresql). It is easy to do because MongoDB doesn't have a real schema to enforce. [At least they have ACID after v4](https://stackoverflow.com/questions/7149890/what-did-mongodb-not-being-acid-compliant-before-v4-really-mean).
 - To configure your prometheus admin, modify a `prometheus.yml`, and edit which instances (instance names, actually) the admin should poll stats from. These instances must each have a prometheus exporter of some sort, that exposes related stats from the server.
 - Pirates don't speak like that. [Robert Newton was speaking in Dorset accent](https://www.youtube.com/watch?v=hWWrOtaEVtw), which had the rolled R.
@@ -363,27 +372,23 @@
 - Tanzania made almost [a million tonnes of sesame seeds](https://en.wikipedia.org/wiki/Sesame#Production_and_trade) in 2016.
 - Taxidermists rarely agree to taxidermy a pet because [they don't have mannequins ("stuffing") of the right size and shape to make it look right for every pet](https://www.youtube.com/watch?v=L6S5amkCoyc).
 - According to [some wiki thing](https://zh.wikipedia.org/wiki/%E4%BC%A0%E7%BB%9F), French traditions are much more influential to other cultures than other traditions, 50% more (according to some metric) than the English.
-- A 时 is 2 hours long, and 刻 is 15 minutes long. [This system is derived from the position of the sun](https://en.wikipedia.org/wiki/Traditional_Chinese_timekeeping).
 - One does not simply fly into Mordor [with an eagle] because [eagles are higher races in middle earth](https://www.youtube.com/watch?v=lMXX2YsrxsE), very powerful, and the ring attracts powerful creatures.
 - A metric [carat](https://en.wikipedia.org/wiki/Carat_%28mass%29) is exactly 200mg. Before 1907, a carat ranges from 187 to 216mg, depending on which country you ask.
 - The FSF once unironically pointed out that [dating is a free software issue](https://www.fsf.org/blogs/community/dating-is-a-free-software-issue), citing "Many restaurants run reservations entirely through Web sites, using software and JavaScript that is proprietary".
 - Japan has a special term called [成田離婚](https://zh.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E9%9B%A2%E5%A9%9A), describing newlyweds who fly out of the country through 成田国际机场 for their honeymoons, but realise how crappy their spouses are _during_ the honeymoon, divorcing right after they return.
 - The background noise in VOIP calls is [deliberately added](https://en.m.wikipedia.org/wiki/Comfort_noise), nothing to do with the noise from traditional phone calls.
 - [ETOPS](https://www.youtube.com/watch?v=HSxSgbNQi-g) certification is a number of minutes under which an aircraft can continue flying (to a diversion/emergency airport) when one of the two engines (specifically for twin-engine aircraft) fails. Before ETOPS existed, planes must have three or four engines to cross the Atlantic, making many flight paths economically infeasible.
-- It's always new moon during Chinese New year... It's not a coincidence... Dumbass...
 - [Good mayo is supposed to have a high calorie count](https://www.youtube.com/watch?v=gsNeLX0Pd7M).
 - When buying tea, [full leaf is obviously the best choice](https://www.youtube.com/watch?v=O_VsxGdECYI). Tiny chunks they collect afterwards are sold in tea bags, but it doesn't mean it's bad, it just means the flavour comes out quicker because the surface area is greater, and the flavour is not as nuanced.
 - Both the [White House](https://www.youtube.com/watch?v=BW6hxlThB_o) and the [Buckingham Palace](https://www.youtube.com/watch?v=WOFMqBxJPAA) have a room with "China" in its name (China room / China luncheon room).
 - Gerrit's "what I need to review" URL filters: `/q/status:open+is:mergeable+is:reviewer+label:Verified%252B1+label:Code-Review%252B1+label:Tested%252B1+-label:Code-Review-1+-label:Code-Review%252B2+-label:Code-Review-1+-owner:self+-reviewedby:self`
 - [Launching multiple brands](https://www.youtube.com/watch?v=ZVHYcLV-H0A) lets a business target completely different audiences. In that example, Oppo made the Oneplus brand because one sells expensive phones to idiots offline, while the other sells less expensive phones to a different group of idiots online.
-- China uses mobile [execution vans](https://en.wikipedia.org/wiki/Execution_van) to make capital punishment more fun, engaging, and cost-effective.
 - VPN scams include [stealing your data, showing you ads, stealing your bandwidth, offering "pro" packages that do nothing, logging when it says "no logging", literally doing nothing](https://restoreprivacy.com/vpn-scams/), and sometimes even routing through government servers.
 - [Only racers near the back get blue shells](https://www.youtube.com/watch?v=LFfga8-3SZI). The blue shell is a homing missile that aims for the racer in the first place. It is therefore an equaliser (for casual players) that makes sure everyone is relatively close together. Its blast radius is designed to hit many players near the first racer. If you can't avoid the blue shell, the best thing you can do is to brake and hope the blast radius also hits the racer in second place.
 - Companies want to [turn their brands into household names](https://en.wikipedia.org/wiki/Brand_awareness), but not so much that it turns into the product category itself. See: [Nintendo calling their products "videogame consoles" to make sure "Nintendo" is not what they're making](https://www.reddit.com/r/todayilearned/comments/ah9wsh/til_nintendo_pushed_the_term_videogame_console_so/), and [Velcro calling their things "hook and loops"](https://www.youtube.com/watch?v=rRi8LptvFZY) so "Velcro" remains the name for the real deal.
 - The [500 rule of astrophotography](https://petapixel.com/2015/01/06/avoid-star-trails-following-500-rule/) (i.e. taking photos of stars): if you keep your shutter open for too long, stars will start to trail and look bad. Use _500 Divided By the Focal Length of Your Lens (in mm) = The Longest Exposure (in Seconds) Before Stars Start to “Trail”_. If you have a 24mm lens, then 500/24 says you can only open your shutter for 20 seconds. Note: [focal length](https://en.wikipedia.org/wiki/Focal_length) is not the [focal point/distance](https://en.wikipedia.org/wiki/Focus_%28optics%29), which can be infinity.
 - Remove creases on leather by [(alright)](https://www.youtube.com/watch?v=ITj9_wEzlDk) ironing it over an old T-shirt.
 - The [world's longest fossilised shit](https://www.cbsnews.com/news/longest-fossilized-poop-to-be-sold-at-auction/) is over 3 feet (1 metre) long. The "passer of this remarkable object is unknown".
-- China builds so many high speed trains because they have the political will to. China built a money-losing high-speed railway into Xinjiang to [promote ethnic unity](https://www.youtube.com/watch?v=0JDoll8OEFE), i.e. bring the place closer to Beijing so the region can be controlled. They did the exact same thing with Hong Kong, except at least it makes financial sense. Some Hong Kong people don't like it because there is now a spot inside the Hong Kong station that is part of China, violating the autonomy promised by the Basic Law.
 - According to the anime, shellder changes shape [when the snowpoke wants to evolve](https://bulbapedia.bulbagarden.net/wiki/File:Slowking_evolution_anime.png).
 - SSDs with [quad level cells](https://www.anandtech.com/show/13752/anandtech-year-in-review-2018-ssds) now exist. They are even more rubbish than before, with 15 different voltages to read in a single cell. "Most QLC SSDs are being rated for about 0.1 drive writes per day for five years, about a third of the write volume of low-cost TLC SSDs."
 - Alcantara is a microfibre material manufactured by a company called Alcantara.
@@ -398,7 +403,6 @@
 - You can boil potatoes, it's faster.
 - Recipe delivery packages like HelloFresh and Blue Apron [have a gross amount of packaging waste](https://www.youtube.com/watch?v=mGK86tWMFjk), even excluding the box and the ice packs: recipe paper, insulation, boxes in boxes, thicker bags for vegetables, a separate bag for two olives...
 - You're supposed to use a stack for checking whether a bunch of brackets match up with each other correctly. Alternatively, if you are skilled, prove that a `count('[') == count(']')` check is sufficient if the string starts with `[` and ends with `]`.
-- [The Chinese social credit system](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4) prevents people with low scores to: book flights/trains, get fast Internet, get your kids into the best schools, get the best jobs, book the best hotels, and so on. There is no numeric "score" yet, though, just a blacklist.
 - Summing up [modern web development](https://www.sonniesedge.co.uk/talks/dear-developer): JS being required by default means it is overused, and used for the wrong things. "Yes, it's technically amazing to ... have your JS build a content page, but it's utterly over-engineered and impractical for most occasions (where HTML should be served as HTML)." Requiring JS to serve a page means the robustness goes missing, since users can disable JS. Also: developers make pages like everyone has unlimited fast Internet.
 - Reusable "cling film" can be made with beeswax.
 - [HEPA filters filter away stuff larger than 0.1 microns.](https://dengarden.com/cleaning/How-to-Get-Rid-of-Smoke-Smell) Carbon filters filter out stuff that is smaller.
@@ -466,7 +470,6 @@
 - "Does anyone see any reason why these two should not be married?" is reserved for legal issues like "this man is secretly married with another woman", not for jokes, or "I object because he's awful for her".
 - [The video game industry is larger than the music and video industries combined.](http://www.kfvs12.com/story/31140647/who-rules-the-entertainment-industry/)
 - You can easily tell how often people (in your country) have sex by looking at Amazon's delivery suggestions. A 30-pack condom that is delivered "every 3 months (Most common)" implies people have sex once every three days.
-- "Battle rackets" is not a thing.
 - "My old roommate worked on a tall ship and their technique was to use a whole dish sponge for dishes, then cut one corner off and use it for surfaces, two corners for walls, three for floors, and finally once you cut all four corners off you'd use it for cleaning [the heads](https://www.navy.mil/navydata/traditions/html/navyterm.html)." - /u/meridiacreative
 - [A-series paper](https://en.wikipedia.org/wiki/ISO_216#A_series) can be halved and still be A-series sheets of paper because the paper has an aspect ratio of 1:sqrt(2) or 1:1.414. When cut, 0.707:1 is also 1:1.414. B-series paper has the exact same property with aspect ratio, but B0 is 1000mm x 1414mm rather than A0's 841mm x 1189mm.
 - Intel Speed Boost [is](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) the processor overclocking itself.
@@ -549,7 +552,6 @@
 - [Half-life 3 will never be released](https://www.youtube.com/watch?v=50lSIaSR3zc) because the possible disappointment will ruin sales of the current Half-life series.
 - "First dates should always be at a coffee shop, ice cream place, that sorta thing. Something quick where there's talking and not a lot of money involved. If you hate them just finish your coffee, say you had a good time, and leave, like my dad did." - /u/Mhopkins892
 - Anti-theft ink tags can be defeated by a simple freezer.
-- China's [social credit system](https://en.wikipedia.org/wiki/Social_Credit_System) is something like [Nosedive](https://en.wikipedia.org/wiki/Nosedive#Comparisons_to_Social_Credit_System), an episode of Black Mirror, but with less transparency to how you got your score. Criticising the ruling party lowers your score, naturally.
 - [LEEROY JENKINS](https://www.youtube.com/watch?v=mLyOj_QD4a4) was from a World of Warcraft incident.
 - The [canary](https://en.wikipedia.org/wiki/Domestic_canary#Miner's_canary) warning system was originally used by miners to detect toxic gases.
 - Adjustable wrenches are [reportedly](https://www.youtube.com/watch?v=bytkgeo9Q1g) designed to work only one way: clockwise (i.e. downwards in a typical picture). Doing it counterclockwise puts more stress on the mechanism.
@@ -592,14 +594,11 @@
 - The French for park 'n' ride is [parc-o-bus](http://rtcquebec.ca/Default.aspx?tabid=161).
 - Multiple sources say to [unshrink jeans](https://www.tipsbulletin.com/how-to-unshrink-clothes-the-ultimate-guide/), you sit in a tub of water for 15 minutes, and then walk around with the pair of jeans for an hour.
 - A ["quintessence"](https://www.merriam-webster.com/dictionary/quintessence) is an essence that is more concentrated than just essence. See also: "quint-essential".
-- [Chinese users spend an average of 70 minutes a day in WeChat alone](https://www.dragonsocial.net/blog/social-media-in-china/), the app that---mentioned elsewhere in this list---clearly makes data available to the government.
-- The same place where 普洱 tea came from is also [China's tin capital](https://en.wikipedia.org/wiki/Gejiu).
 - Jeggings are leggings that only look like jeans, with none of it made with jeans.
 - "Scarborough" came from _Skarðaborg_, with no one to contest this claim.
 - The SS7 protocol controls how calls are set up and released, as well as [billing](https://www.theguardian.com/technology/2016/apr/19/ss7-hack-explained-mobile-phone-vulnerability-snooping-texts-calls). Somehow, apart from the SMS vulnerabilities that are already discussed in this file, [protocol vulnerabilities](https://en.wikipedia.org/wiki/Signalling_System_No._7#Protocol_security_vulnerabilities) also allow the device's movements to be tracked at a 70% success rate, [without the device ever knowing what's up](https://www.washingtonpost.com/business/technology/for-sale-systems-that-can-secretly-track-where-cellphone-users-go-around-the-globe/2014/08/24/f0700e8a-f003-11e3-bf76-447a5df6411f_story.html?utm_term=.fbfb76a7c6ef).
 - The "tacking stitches" sewn onto a blazer's split is meant to keep it from getting wrinkled while in transport.
 - Age of consent [laws](https://en.wikipedia.org/wiki/Age_of_consent#Law) are often enforced only if there is a significant gap between the age of the two (or more) parties, so a 18yo having sex with a 17yo is hardly ever an issue.
-- The majority of videos on tudou.com have _Chinese_ subtitles because it is obvious, even to them, that their _standardised_ dialect cannot be understood.
 - ISIS chose orange suits for their prisoners, might have done so as a throwback to [Abu Ghraib](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse) in 2003/2004, where Americans tortured Iraqi prisoners in similarly humiliating ways.
 - A casket is generally rectangular (four-sided). A coffin is one of those angled versions that tapers downwards _towards_ the body's feet (six-sided).
 - Braiding involves three strands of something, and moving the outermost strand into the middle. Repeat until there is no remaining length. No idea what to do once you have no length left.
@@ -825,7 +824,6 @@
 - Did you know that devices like Siri listen for [ultrasound instructions](https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html)?
 - You have github's ~~fourth~~sixth most starred repository with the ["women"](https://github.com/topics/women) tag.
 - If [it is impossible to justify refactoring time without a proper business case](https://softwareengineering.stackexchange.com/questions/157928/how-to-justify-code-refactoring-time), then make sure you don't write code that needs to be refactored, or at least can be refactored without having the rest of the code know you did. Otherwise, [approach in small pieces](https://www.martinfowler.com/bliki/StranglerApplication.html). And [don't think about rewriting something from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
-- The Chinese workforce call it [the 996](http://www.bbc.com/capital/story/20180508-young-chinese-are-sick-of-working-overtime): work from 9am to 9pm for 6 days a week.
 - When GDPR (General Data Protection Regulation) came around, [Facebook just moved its users from Facebook Ireland to Facebook US, where EU laws don't apply](https://www.theguardian.com/technology/2018/apr/19/facebook-moves-15bn-users-out-of-reach-of-new-european-privacy-law).
 - The Dolly Zoom can only be achieved by the camera also moving back and forth. [People (also) tend to look better in telephoto because their faces aren't stretched by the wider lens.](https://www.youtube.com/watch?v=u5JBlwlnJX0)
 - There is no reason to pre-order anything that cannot run out, including online games, and especially online games with DLCs.
@@ -954,7 +952,6 @@
 - A [vice](https://en.wikipedia.org/wiki/Vice) is a bad habit [or](https://en.wikipedia.org/wiki/Vise) a clamp.
 - English and Spanish pronounce _gigabyte_ with hard Gs, while Italian and Portuguese have soft first G, followed by a hard second G. [It was Jiggabyte throughout the 60s and 80s](https://en.wikipedia.org/wiki/Giga-#Pronunciation), around when Back to the Future was filmed. The soft G is also closer to the Greek prefix *giga-* (*γίγας*), where the word came from. By the end of the 90s, a poll found that 90% of Britons preferred the hard G. In other words, the world enjoys being wrong.
 - If a smartphone screen costs \$150 on eBay, seriously check if it's cheaper to repair by the manufacturer.
-- 666 (溜溜溜) means "smooth, oddly satisfying" among adolescent Chinese youth.
 - The "Rocher" in [Ferrero rocher](https://en.wikipedia.org/wiki/Ferrero_Rocher) means "boulder".
 - Don't put a swimming pool at the top of a high-rise building. Water will spill out when the building naturally sways in strong winds.
 - [Time machines in the movie Primer are anchored around when they are started.](https://www.reddit.com/r/Primer/comments/71l5hc/onetime_use_only_a_definition_please_review/) If you start the machine at time A, you can only exit at either time A, or time B (whenever you entered it, plus however long you stay in there for, which is literally no time travelling). The _failsafe machine_ has been on since the beginning, so the main characters could travel back to the beginning, and [gas/fight their former selves](https://www.reddit.com/r/Primer/comments/7uymoz/i_think_abe_might_have_accidentally_killed_himself/), to assume their previous lives.
@@ -1013,7 +1010,6 @@
 - Kafka told his friend to have his works "to be burned unread" after he dies. His friend responded be publishing everything, citing Kafka might have had psycological issues that made him say such things.
 - There is an encyclopedia page dedicated to [Rihanna's forehead](http://uncyclopedia.wikia.com/wiki/Rihanna%27s_Forehead).
 - [Intel GPU firmware have been proprietary since skylake.](https://lists.freedesktop.org/archives/intel-gfx/2015-June/068167.html)
-- The [Great Wall of China](https://en.wikipedia.org/wiki/Great_Wall_of_China) comes in multiple discrete sections, sometimes even perpendicular to each other. The touristy parts are well-kept obviously, but the other parts are often in disrepair.
 - Sleeping Dogs was one of the greatest games you bothered to finish. The story, the setting, the knee-breaking action, driving while hopping from car to car.
 - Elon Musk once said along the lines of: [if you work 100-hour weeks and others work 40-hour weeks, then your chances of (he used the word "success", but it's probably more like "getting something done") is higher, if not 2.5x higher, than your competitors.](https://www.nextbigwhat.com/elon-musk-quotes-297/) You know that's 14-hour work days, right? You know people burn out, right?
 - The most average person is [a 28-year old Han Chinese man](http://www.dailymail.co.uk/news/article-1362709/Typical-human-face-28-year-old-Chinese-man.html).
@@ -1309,7 +1305,6 @@
 - [Slack](https://en.wikipedia.org/wiki/Slack_Technologies) is the fastest company to receive a billion dollar valuation. Its chat room thing uses `<div contenteditable="true">` as the message container.
 - [Five-year survival rate](https://en.wikipedia.org/wiki/Five-year_survival_rate) can be absolute or relative. Absolute, if you just look at the percentage of patients that survive after five years. Relative, if you compare those people with the absolute survival rate of similar but uninfected population. If you get something cool like [sickle cell anemia](https://en.wikipedia.org/wiki/Sickle-cell_disease), your relative survival rate might be higher than 100%.
 - "Static typing vs dynamic typing" isn't a useful topic to argue about because [each language has its optimal point of productivity for the percentage of code that is statically typed.](https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html) The Python sweet spot is much lower than the Java sweet spot, startups may have different requirements than NASA, and it matters also how many lines of code you have.
-- There is [a line in China](http://www.didichuxing.com/en/press-blog/suvzicxv.html) at which the population suddenly drops. Reproduce this in Google Maps by drawing a line from 怒江 to 北京.
 - Waffle shirts have a waffle-like texture. [These](http://wafflemagazine.com/wp-content/uploads/2015/09/waffleshirt.jpg) are not waffle shirts.
 - The week came about because the week is a quarter of a lunar cycle.
 - ["Hello Kitty is not a cat. She's a cartoon character,"](http://people.com/celebrity/hello-kitty-is-not-a-cat/) said creator of Hello Kitty.
@@ -1378,7 +1373,6 @@
 - [Eskimo](https://en.wikipedia.org/wiki/Eskimo#Nomenclature) ("a person who laces a snowshoe") includes both Yupik (Siberia and Alaska) and Iñupiat (Alaska, Greenland, Canada). Calling an Inuit an Eskimo is like calling a tortoise a turtle; yet, people in Canada and Greenland don't like the idea of that.
 - "Steak tartare" originally came from "à la tartare", steak to be served with tartar sauce. "Tartar" was named after [the Tatars](https://en.wikipedia.org/wiki/Tatars), living in what's now Russia and Uzbekistan. Off to another tangent: yes, [you can totally die from eating raw beef.](https://en.wikipedia.org/wiki/Yukhoe#Japan_2011_incident)
 - [Jack Daniels is distilled in Moore County, in the city of Lynchburg, Tennessee, which is a dry county.](http://www.flask.com/5-facts-about-jack-daniels-whiskey/)
-- [Never use WeChat.](http://www.moneycontrol.com/news/business/companies/wechat-confirms-that-it-makes-all-private-user-data-available-to-the-chinese-government-2391847.html)
 - Nancy said she learned in her technical writing course: a) write for your audience, and b) less is more.
 - There are both songs with the lyrics ["I am your dirty-K"](https://genius.com/The-cliks-dirty-king-lyrics) and ["I am your tourniquet"](https://www.azlyrics.com/lyrics/marilynmanson/tourniquet.html).
 - "Good night sweet prince" is from Hamlet.
@@ -1722,7 +1716,6 @@
 - Pickleball has nothing to do with pickles. It is a cross between badminton, tennis, and table tennis.
 - [Tenderloin](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco), the SF district just a few blocks away from the financial district, has a high rate of both crime and human feces sightings.
 - [Simple English](https://en.wikipedia.org/wiki/Simplified_Technical_English), a legit engineering term for making things unambiguous, has [its own Simple English wiki page](https://simple.wikipedia.org/wiki/Simplified_English). Who knew!
-- The last courses in a Chinese cuisine are usually the ones they also pack up and let you bring home.
 - Home alarm monitoring service (the thing that calls your house when someone breaks in) is useless. Thieves usually leave in 5-10 minutes. Phone calls start at 5 minutes.
 - Mr Rohit's advice to reading code is to try to understand it.
 - No one ever said the protagonists in Rick and Morty are the same Rick and Morty every episode, but the story so far has been consistent, even though [the default universe is no longer C-137](http://rickandmorty.wikia.com/wiki/Dimension_C-137).
@@ -2345,7 +2338,6 @@
 - [BBQ brush bristles](http://www.cbc.ca/news/health/barbecue-brushes-dangers-swallow-throat-wire-bristle-dempsey-1.3741578) are regularly swallowed, killing people when vital organs are punctured.
 - [The Republic of Macedonia](https://en.wikipedia.org/wiki/Republic_of_Macedonia) is still a country!
 - [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
-- The Chinese consumed 69 times more pork than Canadians in 2015. That is roughly twice as much per capita.
 - [The Arabs brought spinach to the world](https://en.wikipedia.org/wiki/Spinach#Production.2C_marketing.2C_and_storage). They also named it "spinach". Iran still produces 100Tg of it every year.
 - Ride sharing services do not attract families of four (because normal sedans can comfortably fit three passengers, not four).
 - UDP packets get dropped when ["socket send/receive buffers"](http://jvns.ca/blog/2016/08/24/find-out-where-youre-dropping-packets/) between two computers (e.g. routers, including the two computers) get full. You can tweak `sysctl` to configure the size of these buffers, so you can lose more / not lose so much.
@@ -2442,7 +2434,6 @@
 - Cheap semiauto firearms are typically [blowback](https://en.wikipedia.org/wiki/Blowback_%28firearms%29). More advanced firearms have [gas operated](https://en.wikipedia.org/wiki/Gas-operated_reloading) mechanisms, with separate gas channels and pistons that are [more suited for high power cartridges](https://www.quora.com/What-are-advantages-and-disadvantages-of-gas-operated-firearms).
 - [值太歲 = Current zodiac (I think)](http://www.outoftruth.com/wp-content/uploads/2014/09/%E7%8A%AF%E5%A4%AA%E6%AD%B2.jpg)
 - [沖太歲 = Current zodiac ± 6 (I think)](http://outoftruth.com/%E7%8E%84%E5%AD%B8%E9%9B%9C%E8%AB%96/%E7%8A%AF%E5%A4%AA%E6%AD%B2%EF%BC%9F-2013825/)
-- The Chinese claim to be able to identify whether someone is potentially a criminal by [looking at their faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/), raising concerns for successful, law-abiding citizens that are just ugly.
 - Ryan Reynolds has a daughter called James. [He claims it's not strange: "I mean, I didn't call her Summer Squash Meadowlark, or something."](http://www.usmagazine.com/celebrity-news/news/ryan-reynolds-defends-his-baby-daughter-james-unusual-name-w163540)
 - The symbol of medicine is the Rod of Asclepius, which has only a single snake around it. The [staff of] Caduceus, on the other hand, has two snakes, and is [the staff of the god who escorts you to the afterlife](https://www.reddit.com/r/funny/comments/5rf9e6/this_is_one_cocky_hospital/dd7db6d/), which is obviously inappropriate for the medical profession.
 - "Wallflower" also refers to shy people who don't dance at a dance. (because they stay by the wall)
@@ -2503,7 +2494,6 @@
 - [Monomials](https://ca.ixl.com/math/grade-9/identify-monomials) just don't include addition or subtraction. Their variables can be in any order.
 - "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
 - New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
-- The first day of [Chinese New Year](https://en.wikipedia.org/wiki/Chinese_New_Year) always falls between 21 January and 20 February.
 - The less memory there is, each address *should* be faster to access.
 - 诸葛亮 isn't actually known for fighting.
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
