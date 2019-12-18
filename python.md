@@ -569,3 +569,4 @@ bar
 - Did you know (after like 10 years programming in python) that [you can't change a string by index](https://stackoverflow.com/questions/1228299/changing-one-character-in-a-string-in-python)?
 - [Itertools is written in C](https://github.com/python/cpython/blob/master/Modules/itertoolsmodule.c). Many standard libraries are.
 - To settle whether python is more interpreted or compiled (no one denies bytecode exists), `man python` says it is `python - an interpreted, interactive, object-oriented programming language`.
+- You can specify types in a `@dataclass` all you want; [they will not raise a `TypeError`](https://docs.python.org/3/library/dataclasses.html#module-level-decorators-classes-and-functions) if you give fields a value of the wrong type.

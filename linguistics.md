@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- The French academy does not endorse [loanwords](https://en.wikipedia.org/wiki/List_of_French_words_of_English_origin) like *Le weekend*, *La punch line*, and *Le chewing gum*.
+- If "femme" is a woman in French, and French grammar is to be believed, then a "fem" is probably a male woman.
 - The Chinese character set was [simplified](https://en.wikipedia.org/wiki/Simplified_Chinese_characters#History) twice, once in 1956 and 1964. Note that the [cultural revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) officially started in 1966, and using simplified characters signified that you were a [leftist](https://en.wikipedia.org/wiki/Left-wing_politics), i.e. a socialist.
 - [Tenderness](https://www.vocabulary.com/dictionary/tenderness) is "the quality of a person who cries when they see someone get hurt".
 - [Welsh is the only *de jure* (by law) official language](https://en.wikipedia.org/wiki/Languages_of_the_United_Kingdom) in any part of the UK.
@@ -215,9 +217,9 @@
 - [There are no words in Irish for yes and no](https://en.wikipedia.org/wiki/Irish_syntax#Questions_and_answers). See [this woman](https://www.youtube.com/watch?v=hcepgXwWbjI) in action.
 - [Thomas Crapper](https://en.wikipedia.org/wiki/Thomas_Crapper) led to the popularity of the term _Crapper_. He however did not invent the the flush toilet, nor the word _crap_, a middle English word.
 - [More than 2/3 of the US speak English exclusively](https://en.wikipedia.org/wiki/Languages_of_the_United_States).
-- The Hawaiian language has 5 vowels and 8 consonants. The [consonants](https://en.wikipedia.org/wiki/Hawaiian_language#Consonants) are roughly equivalent to m, n, p, t/k, h, w, l, and a glottal stop.
+- The Hawaiian language has 5 vowels and 8 consonants. The [consonants](https://en.wikipedia.org/wiki/Hawaiian_language#Consonants) are roughly equivalent to m, n, p, t/k, h, w, l, and a glottal stop. It does not have sounds: B, C, D, F, G, H, J, R, **S**, V, Y, and X/Z.
 - [The French love abbreviating things when speaking](https://frenchtogether.com/differences-written-spoken-french/). They also love abbreviating things when writing, to the point where undoing the abbreviation is considered wrong.
-- [Words with accent circonflexe often had an S after the E that has the accent.](https://frenchtogether.com/french-accents/) _Intérêt_ was interest (English kept it), _hôpital_ was hospital (English kept it), and _hôtel_ was hostel (English might or might not have kept it).
+- [Words with accent circonflexe often had an S after the E that has the accent.](https://frenchtogether.com/french-accents/) _Intérêt_ was interest (English kept it), _hôpital_ was hospital (English kept it), and _hôtel_ was hostel (English might or might not have kept it). The pronunciation of a vowel with circumflex [is lengthened](https://en.wikipedia.org/wiki/Circumflex) to compensate for the deleted consonant (in this case, S)... and since it is hardly ever important to emphasis the removal of something, [over 2000 words have had the circumflex removed](https://en.wikipedia.org/wiki/Circumflex_in_French) in 2016.
 - [Fascism](https://en.wikipedia.org/wiki/Fascism) (Italian _fascismo_) came from Italian _fascio_, or a bundle of rods. [Faggot](https://en.wikipedia.org/wiki/Fasces) came from the same Latin root.
 - _Rent_ also means [to be torn apart](http://www.dictionary.com/browse/rend).
 - [_Celui_ and _ceux_](https://www.thoughtco.com/french-demonstrative-pronouns-1368928) are just the masculine equivalent of _celle_ and _celles_, respectively. They all mean "the one(s)", so they can mean this, that, these, and those.

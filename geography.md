@@ -1,3 +1,4 @@
+- Antarctica can be a desert because there can be [places where rain falls every two million years](https://en.wikipedia.org/wiki/McMurdo_Dry_Valleys), like the McMurdo Dry Valleys.
 - A [billabong](https://en.wikipedia.org/wiki/Billabong) is an Australian oxbow lake.
 - The closest Taiwanese territory to China is actually [Kinmen County](https://en.wikipedia.org/wiki/Kinmen), something like 2km away from [Xiamen](https://en.wikipedia.org/wiki/Xiamen). The two sides "artilleried" each other (in a friendly manner) from 1958 to 1978, and stil make [knives](https://en.wikipedia.org/wiki/Kinmen_knife) with the shells today.
 - The [fall line](https://en.wikipedia.org/wiki/Fall_line) is where the hills meet the flood plain.

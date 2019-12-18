@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Gluttony is wanting a lot [of food], while glut is a lot of something left. An example of a glut is [the 1980s oil glut](https://en.wikipedia.org/wiki/1980s_oil_glut), where there's a lot of oil left around.
+- [Hello Panda](https://en.wikipedia.org/wiki/Hello_Panda), 1979, came before [Koala's March](https://en.wikipedia.org/wiki/Koala%27s_March) (aka 熊仔餅), 1984.
+- [70% of Portuguese marriages end in divorce](https://algarvedailynews.com/news/10164-portugal-leads-european-divorce-rate). Reddit blames [the economy](https://www.reddit.com/r/portugal/comments/3owybq/why_are_there_so_many_divorces_in_portugal/) and not living with your spouse before marriage (which leads to discovering terrible secrets about your supposed life partner until it's too late).
+- [If one orders *le cheese*, one receives a cheeseburger](https://en.wikipedia.org/wiki/List_of_French_words_of_English_origin).
 - At least two people who work for Shopify [have their own sites](https://www.linkedin.com/feed/update/activity:6605850345262452736/) and sell their own products there.
 - Gordon Ramsay says it's easy to find a great restaurant: [just check that a place is busy on a Monday night](https://www.youtube.com/watch?v=U9DyHthJ6LA). He also bastes beef patties with butter.
 - How-to Geek [officially](https://www.howtogeek.com/422947/how-to-stop-people-from-stealing-your-packages/) recommends delivering your packages (like books, dildos, kitchen tools, what have you) to work to prevent them from getting stolen when delivered at home.

@@ -123,3 +123,4 @@
 - [Putting tiny balls inside small speakers](https://www.youtube.com/watch?v=bTf369a1JZ4) dampens the sound and makes the speakers sound bigger than they really are.
 - [A generator at no load uses at least the energy required to continue spinning.](https://www.researchgate.net/post/Is_there_diesel_consumption_on_a_diesel_generator_when_it_is_producing_zero_power)
 - Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
+- A meteor caused the [Chesapeake Bay impact crater](https://en.wikipedia.org/wiki/Chesapeake_Bay_impact_crater) 35 million years ago.
