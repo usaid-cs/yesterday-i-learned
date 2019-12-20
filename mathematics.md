@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- Something that increases by 25% *always* needs to drop by 20% to return to the same value... because `x * (1 + 25%) * (1 - 20%) = x * (1.25 * 0.8) = x * 1 = x`.
 - To compare pizza sizes, you don't need pi in the calculation. Just compare `r1 * r1 / r2 / r2`.
 - How to read odds: if the odds is "3/5" and you bet $10, you can get $10 + ($10 * (3/5) = $6) if you win. If you lose, well, you lose \$10. If I understand this correctly, the odds of "3/5" directly expresses the proportion of people who support your bet (the 5), and the proportion of people who bet otherwise (the 3), but has nothing to do with the actual probability of an event happening.
 - The [area of a dodecagon](https://www.reddit.com/r/u_mtimetraveller/comments/dkljyz) (12 sided polygon) is exactly 3r^2. In contract, the smallest circle that encloses it is pi r^2, or roughly 14% larger.

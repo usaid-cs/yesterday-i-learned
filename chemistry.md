@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Use the [tollens reagent](https://en.wikipedia.org/wiki/Tollens%27_reagent) (silver nitrate and stuff, high school chem) to detect the presence of an aldehyde group, or any group that tautomerises into an aldehyde. The agent works because silver nitrate loves precipitating out when it sees an aldehyde, including the functional group found in glucose. If you are a "garage chemist", you can use this property to make your own mirrors.
 - [There is nothing _bi_ about sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate#Nomenclature). That compound (baking soda, NaHCO3) is just sodium hydrogen carbonate (IUPAC), and the other one (washing soda, Na2CO3) is called sodium carbonate.
 - Baking soda removes smell through [simple acid-base reactions](https://steemersandiego.com/2017/07/06/baking-soda-how-does-it-remove-odors/) with the "odour molecules".
 - Heating oil is [basically](https://en.wikipedia.org/wiki/Heating_oil) diesel, except the amount of sulphur content is different.

@@ -1,3 +1,6 @@
+- A normal baby ranges from 5.5 to 10 pounds, not kg. If you are Asian (and a mother), this figure is typically 0.5 pounds less.
+- [More white men go bald than other races do.](https://www.mayoclinicproceedings.org/article/S0025-6196(11)61759-X/fulltext) They also bald earlier in life.
+- [Dodo birds](https://en.wikipedia.org/wiki/Dodo#Extinction) were from Mauritius, not Australia. Although [dodo birds tasted bad](https://www.bagheera.com/dodo-bird/), their extinction was caused by hunting, newly-introduced animals (like pigs) competing for food, and destruction of their habitats. Their closest relative, the [Rodrigues solitaire](https://en.wikipedia.org/wiki/Rodrigues_solitaire), is _also_ extinct.
 - If excess phlegm is an inflammatory response, then a mild anti-inflammatory course of action will remedy this. Harvard claims that [tomatoes](https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation), nuts, and leafy greens fight inflammation.
 - Did you know? Drinking a bottle of whiskey a day [leads to liver failure](https://www.cbc.ca/news/canada/manitoba/frank-plummer-deep-brain-stimulation-experimental-treatment-1.5399179).
 - If you can't smile without your gums showing up, they have an affectionate name for that symptom: [gummy smile](https://en.wikipedia.org/wiki/Gummy_smile). Sounds delicious.

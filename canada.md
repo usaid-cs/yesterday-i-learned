@@ -1,5 +1,6 @@
 🇨🇦
 
+- [Snowsquall](https://en.wikipedia.org/wiki/Snowsquall) is a word for: windy snow.
 - "[Over the longer term, Canadian property prices are in all likelihood a safe bet. While prices dip periodically, they almost always recover again. But that can take a decade or more.](https://www.cbc.ca/news/business/canada-property-bubble-1.5394421) ... He is still advising young people to avoid the condo market where he thinks prices have become detached from the land value they represent. He is advising people to rent, and notes that construction companies working on purpose-built rental properties will continue to do well, selling them to pension funds for the reliable stream of future income they represent."
 - Canada is [the world's largest icewine producer](https://en.wikipedia.org/wiki/Ice_wine#Ice_wine_producers), making it a great gift idea that is not maple syrup.
 - [CDIC only insures up to $100,000 of your savings](https://en.wikipedia.org/wiki/Canada_Deposit_Insurance_Corporation) in each of [your name alone, your TFSA, your RRSP, and your property taxes](https://www.cdic.ca/your-coverage/protecting-your-deposit/). Mutual funds, stocks, and bonds are not insured at all, regardless of account type. [To maximise coverage](https://www.ratehub.ca/blog/how-to-maximize-your-cdic-coverage/), ensure none of your accounts exceed $100,000 in total.

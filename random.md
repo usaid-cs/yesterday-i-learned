@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Untappd for general reviews](https://www.reddit.com/r/beer/comments/3n786j/untappd_vs_ratebeer/), [RateBeer for European beer](https://www.reddit.com/r/beer/comments/2tq48w/ratebeer_vs_beer_advocate/), and Beeradvocate for everything you can't find on RateBeer.
+- According to ["Freedom House"](https://freedomhouse.org/report/freedom-world/freedom-world-2019/map), Botswana is more free than Hong Kong.
+- [Ctrl + Alt + Shift + Left click](https://stackoverflow.com/questions/29719274/pycharm-turning-selection-to-multiple-cursors-per-line#comment86874470_29719551) in pycharm / Jetbrains products creates a new cursor where you clicked.
+- ["Posting"](https://en.wikipedia.org/wiki/Power-on_self-test) stands for "power on self test". When PC builders say they are "getting it to post", they're trying to make their computers boot [to BIOS or eqv].
 - Gluttony is wanting a lot [of food], while glut is a lot of something left. An example of a glut is [the 1980s oil glut](https://en.wikipedia.org/wiki/1980s_oil_glut), where there's a lot of oil left around.
 - [Hello Panda](https://en.wikipedia.org/wiki/Hello_Panda), 1979, came before [Koala's March](https://en.wikipedia.org/wiki/Koala%27s_March) (aka 熊仔餅), 1984.
 - [70% of Portuguese marriages end in divorce](https://algarvedailynews.com/news/10164-portugal-leads-european-divorce-rate). Reddit blames [the economy](https://www.reddit.com/r/portugal/comments/3owybq/why_are_there_so_many_divorces_in_portugal/) and not living with your spouse before marriage (which leads to discovering terrible secrets about your supposed life partner until it's too late).
@@ -22,7 +26,7 @@
 - The secret sauce of big tech is [the tooling](https://news.ycombinator.com/item?id=21645117). It goes both ways. You can both come out successful in that you've interacted with these tools, or come out useless because you have no idea how to work without these tools.
 - "Fuck you, I'm the government, fuck all y'all living here, I'm buying your land to build highways, deal with it" is called [eminent domain](https://en.wikipedia.org/wiki/Eminent_domain), compulsory purchase, resumption, or expropriation.
 - A "[dag](https://en.wikipedia.org/wiki/Dag_%28slang%29)", originally a sheep's shitstain (in the form of dried solids), is now an affectionate insult for an unfashionable person.
-- Fascism is a hard form of nationalism that has a dictator, suppresses the opposition, and strict control of the society/economy.
+- [Authoritarianism](https://en.wikipedia.org/wiki/Authoritarianism) is no political freedom. Fascism is a hard form of authoritarianism and nationalism that has a dictator, suppresses the opposition, and strict control of the society/economy.
 - An ethical company that vows not to be bought by evil corps [can](https://easydns.com/blog/2019/12/06/its-called-f-you-money-for-a-reason-why-isoc-sold-org-to-vcs/) eventually be bought by a company who made no such commitments, which then later gets bought by the evil corps. Ethical company cannot reject the acquisition because they don't have a say as a subsidiary.
 - [McDonald's sells beer in 15 countries](https://www.thrillist.com/culture/mcdonalds-beer), among which, only South Korea is outside Europe.
 - [A falsehood list](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) claimed that people might have zero names. This refers to [the edge case where babies can be born, not be assigned a name](https://news.ycombinator.com/item?id=11368058), and live like that forever, alone, in a forest, signing up for your app. In practice, there is no culture in the world where a person would live to use your application, and not have at least [one name](https://en.wikipedia.org/wiki/Mononymous_person). Even [unidentified people](https://en.wikipedia.org/wiki/Category:Unidentified_people) have names, and [the falling man](https://en.wikipedia.org/wiki/The_Falling_Man) won't be using your app any time soon.
@@ -902,7 +906,6 @@
 - In 麥兜, the principal is also the restaurant owner.
 - Weed is legal (state-level) across the entire west coast of America.
 - Puerto Rico has a higher population than 21 states.
-- Switzerland didn't join the UN until 2002, perhaps in fear that joining something will get them involved in something that isn't politically neutral. Its official invasion defence strategy is the [national redoubt](https://en.wikipedia.org/wiki/National_Redoubt_%28Switzerland%29); "the idea was to make clear to [neighbouring countries] that an invasion would have a high cost", which was true when Nazi Germany considered it.
 - The original [scroll lock](https://en.wikipedia.org/wiki/Scroll_lock), if engaged, would modify the arrow keys such that it scrolls the contents of a text window rather than the cursor. On linux, it is said that the terminal freezes if you press it. However it is no longer the case all the time, making that key useless.
 - [Muphry's Law](https://en.wikipedia.org/wiki/Muphry's_law): if you try to correct someone's writing in writing, you will make a mistake in your own writing.
 - In 2017, [three gay men managed to be married to each other at the same time, legally, in Colombia.](https://www.advocate.com/world/2017/6/15/three-gay-men-make-history-marrying-colombia)

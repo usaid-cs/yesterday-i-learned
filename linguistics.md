@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- *Un arbre et une fleur* is an example of how irregular the French language is, despite having a giant academy to back it up.
 - The French academy does not endorse [loanwords](https://en.wikipedia.org/wiki/List_of_French_words_of_English_origin) like *Le weekend*, *La punch line*, and *Le chewing gum*.
 - If "femme" is a woman in French, and French grammar is to be believed, then a "fem" is probably a male woman.
 - The Chinese character set was [simplified](https://en.wikipedia.org/wiki/Simplified_Chinese_characters#History) twice, once in 1956 and 1964. Note that the [cultural revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) officially started in 1966, and using simplified characters signified that you were a [leftist](https://en.wikipedia.org/wiki/Left-wing_politics), i.e. a socialist.
