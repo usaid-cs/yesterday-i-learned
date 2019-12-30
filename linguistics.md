@@ -188,7 +188,7 @@
 - "Nemo" means "nobody" in Latin.
 - In England-land, ["ta"](http://www.urbandictionary.com/define.php?term=TA) means "thanks".
 - French idioms can also be called [Gallicisms](https://en.wikipedia.org/wiki/Gallicism), the [Gaul](https://en.wikipedia.org/wiki/Gaul) being where France is.
-- There is no reason, other than ["but we've always called it that"](https://en.wikipedia.org/wiki/Lieutenant#Pronunciation), to pronounce "Lieutenant" with an F.
+- There is no reason, other than ["but we've always called it that"](https://en.wikipedia.org/wiki/Lieutenant#Pronunciation), to pronounce "Lieutenant" with an F. It is possible that the pronunciation came so far back that it came from old French *Leuf* rather than modern French *Lieu*.
 - Who's to say Leviathan was not Leujathan? Answer: [Hebrew](https://en.wikipedia.org/wiki/Leviathan).
 - Southwark and Suffolk sound just about the same in some accents.
 - The word Jewellery came from (Latin, then French) _jouel_, and has nothing to do with how rich Jewish people are [_per se_](https://www.israelcu.com/article/what-is-the-relationship-between-diamond-and-jewish-people).

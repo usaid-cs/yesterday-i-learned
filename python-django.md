@@ -114,6 +114,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - To order a queryset's related fields (like if you are querying users and their products, with products sorted by name), do a `Prefetch()` on those products, with `queryset=` being an ordered set of products.
 - Filtering by `Q()` does nothing, *except* if `|`ed with another `Q()`... so `Q() | Q(foo=1)` is the exact same as `Q() & Q(foo=1)`, because ["the empty Q() should not have any effect at all, whether ORed or ANDed into the query"](https://code.djangoproject.com/ticket/24279).
 - `.using()` in a `Prefetch`'s queryset appears to have no conflicts. For example, `Foo.objects.using('db1').prefetch_related('bars', queryset=Bar.using('db2').objects.all())` *seems* to use db1 for fetching Foo, and then uses db2 to fetch its bars.
+- Annotating a queryset can increase the number of results returned if the annotation involves a ManyToManyField or similar.
 
 #### Don't know what `select_related` and `prefetch_related` do
 

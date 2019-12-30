@@ -1,3 +1,4 @@
+- Use a knife to make a crack at the middle of a lobster claw, then twist the blade clockwise along the x-axis to pry open the shell and get the whole meat out. Extract meat from the other legs with a roller.
 - You need hot oil when frying fish, or the skin will stick to the pan when the fish goes in.
 - 1kg of flour can become 2,852km of noodles, if you try hard enough.
 - "French food on tiny plates" is called [_Haute cuisine_](https://en.wikipedia.org/wiki/Haute_cuisine), or "high cuisine". _Haute cuisine_ focuses on the cost of making elaborate preparations (as costly as possible) rather than the amount or value.

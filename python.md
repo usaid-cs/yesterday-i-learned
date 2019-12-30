@@ -570,3 +570,8 @@ bar
 - [Itertools is written in C](https://github.com/python/cpython/blob/master/Modules/itertoolsmodule.c). Many standard libraries are.
 - To settle whether python is more interpreted or compiled (no one denies bytecode exists), `man python` says it is `python - an interpreted, interactive, object-oriented programming language`.
 - You can specify types in a `@dataclass` all you want; [they will not raise a `TypeError`](https://docs.python.org/3/library/dataclasses.html#module-level-decorators-classes-and-functions) if you give fields a value of the wrong type.
+- That walrus thing (`:=`), the assignment expression, cannot be used in an assignment statement. i.e. `(a := 5)` is valid, but `a := 5` is not.
+- Given how high-priority the walrus operator is, [`(a := 6, 9)` is equivalent to `((a := 6), 9)`](https://github.com/satwikkansal/wtfpython/blob/master/README.md), and `(a, b := 16, 19)` is equivalent to `(a, (b := 16), 19)`.
+- `a = not True` is fine (makes a false), but `a == not True` is suddenly a `SyntaxError`. The fact that `==` takes higher precedence screws parsing over, which reads `(a == not) True`.
+- "In a generator expression, the in clause is evaluated at declaration time, but the conditional clause is evaluated at runtime." This means if you do `(x for x in array if array)`, the two `array`s can be completely different objects if you do a `array =` after that line.
+- String concatenation can be done in a single line. `print('hello' 'world')` prints `helloworld`.

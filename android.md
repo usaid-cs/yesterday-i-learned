@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Unless with a really old GPU, [reducing the resolution from 1440p to 1080p has no real-world power difference](https://www.reddit.com/r/Android/comments/eh7que/1440p_vs_1080p_battery_test/) if the GPU was shipped to do 1440p.
 - [Snapdragon 865 is like 30% better than 855](https://www.anandtech.com/show/15207/the-snapdragon-865-performance-preview-setting-the-stage-for-flagship-android-2020).
 - Full-disk encryption is [at most a deterrent](https://arstechnica.com/information-technology/2016/07/androids-full-disk-encryption-just-got-much-weaker-heres-why/) if your bootloader is unlocked, which allows attacker to get your key right off the filesystem. To make it more useful, set a stronger password.
 - Phone batteries doubled in capacity between 2013 and 2019 because [device volume also doubled](https://tweakers.net/reviews/7476/all/telefoonaccus-krijgen-steeds-meer-capaciteit.html).

@@ -1,3 +1,7 @@
+- Only buy knives that claim a rockwell hardness of [between 55 to 60](https://prudentreviews.com/wusthof-vs-henckels/).
+- It's not about sharpening. Some knives just don't stay sharp. That's why you need good steel.
+- Some people might say the mass of an object increases as its velocity increases. [It's not true](https://www.youtube.com/watch?v=LTJauaefTZM) (but I didn't finish watching the video to know why because I had to poop).
+- Light as no mass. `p = mv`, i.e. `m = p/v`, [does not work for things travelling quickly](https://www.youtube.com/watch?v=Qwtz-QSDyOM). `p = γmv` does. You can still use `p = h/λ` though... and if you have a solar sail, which is not travelling as fast as light, you can convert that massless stuff into velocity you can see.
 - [Pool aerators](https://worldbuilding.stackexchange.com/questions/15661/breaking-surface-tension-of-water-to-survive-high-fall) pump bubbles into the pool, which break the surface tension of the pool, making it less painful if you fall into the pool.
 - The molar mass of water is 18g/mol, and the molar mass of dry air is 29g/mol, so [adding moisture to dry air reduces its molar mass](https://en.wikipedia.org/wiki/Density_of_air), and, thus, the density of the air.
 - The air inside snowflakes reduces sound travel.

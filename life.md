@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Do not want people who don't want you.
 - If you rent at somewhere sketchy, so sketchy that you aren't sure if your landlord owns the house, then request to see the property tax invoice from them.
 - "The "stuff" thing really resonated with me. I value not having a lot of stuff. I prefer less clutter, fewer things to maintain or care about. I hate that our society is often centered around the acquisition of material things, most of which have no practical use, and even dubious aesthetic use. I'm certainly not completely spartan, and do have stuff, but I try to be careful about what I let into my home ..." - [kelnos](https://news.ycombinator.com/user?id=kelnos)
 - [Kids love to help](https://news.ycombinator.com/item?id=21790616) and be part of your life. Shoo them away and they'll cause havoc to get your attention. You will spend more time teaching them than if you do it yourself (see: loading the dishwasher). Be patitent. This is fine.

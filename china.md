@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- [The Chinese constitution](https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China#1982_Constitution) gets a new revision every other time a new leader takes control.
 - Gmail is banned in China. So is Facebook, Youtube, Twitter, Instagram, and Dropbox. Fun fact maybe? [On Wikipedia, it says Wikipedia is banned](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China).
 - China builds so many high speed trains because they have the political will to. China built a money-losing high-speed railway into Xinjiang to [promote ethnic unity](https://www.youtube.com/watch?v=0JDoll8OEFE), i.e. bring the place closer to Beijing so the region can be controlled. They did the exact same thing with Hong Kong, except at least it makes financial sense. Some Hong Kong people don't like it because there is now a spot inside the Hong Kong station that is part of China, violating the autonomy promised by the Basic Law.
 - [Chinese users spend an average of 70 minutes a day in WeChat alone](https://www.dragonsocial.net/blog/social-media-in-china/), the app that---mentioned elsewhere in this list---clearly makes data available to the government.

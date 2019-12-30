@@ -77,6 +77,14 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 
 - Whatever it is you throw in, cook the meat first.
 
+### ["Black pepper chicken"](http://mycookinggallery.blogspot.com/2011/09/stir-fry-chicken-with-black-pepper.html)
+
+- Secure a pack of black pepper sauce, or have oyster and soy sauces on hand. See other ingredients on the website above.
+- Cut 250g chicken breast into strips.
+- Cut 50g celery into strips.
+- Cut 50g carrot into strips.
+- Stir-fry chicken with oil until almost done. Add vegetables and stir fry for one more minute.
+
 ## Baked Salmon
 
 - Score **descaled salmon** 2cm apart.

@@ -1,5 +1,7 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [Diamonds are slippery when wet](https://arstechnica.com/science/2008/06/caution-diamonds-slippery-when-wet/). You can also make carbonated water from diamonds if you burn them hot enough.
+- When somebody dies in your house and leaves a stain on your carpet, they take the body away and sprinkle some powder on the human-shaped stain and go away. [This powder](https://www.amazon.com/ask/questions/Tx1XPFZGDUWXHOH/?) is made with "100% all natural metal oxide mineral consisting essentially of elements comprised of sodium, potassium, calcium, aluminum, iron, and silicon." You vacuum it up and the stain goes away.
 - Use the [tollens reagent](https://en.wikipedia.org/wiki/Tollens%27_reagent) (silver nitrate and stuff, high school chem) to detect the presence of an aldehyde group, or any group that tautomerises into an aldehyde. The agent works because silver nitrate loves precipitating out when it sees an aldehyde, including the functional group found in glucose. If you are a "garage chemist", you can use this property to make your own mirrors.
 - [There is nothing _bi_ about sodium bicarbonate](https://en.wikipedia.org/wiki/Sodium_bicarbonate#Nomenclature). That compound (baking soda, NaHCO3) is just sodium hydrogen carbonate (IUPAC), and the other one (washing soda, Na2CO3) is called sodium carbonate.
 - Baking soda removes smell through [simple acid-base reactions](https://steemersandiego.com/2017/07/06/baking-soda-how-does-it-remove-odors/) with the "odour molecules".

@@ -2,7 +2,7 @@
 - A [billabong](https://en.wikipedia.org/wiki/Billabong) is an Australian oxbow lake.
 - The closest Taiwanese territory to China is actually [Kinmen County](https://en.wikipedia.org/wiki/Kinmen), something like 2km away from [Xiamen](https://en.wikipedia.org/wiki/Xiamen). The two sides "artilleried" each other (in a friendly manner) from 1958 to 1978, and stil make [knives](https://en.wikipedia.org/wiki/Kinmen_knife) with the shells today.
 - The [fall line](https://en.wikipedia.org/wiki/Fall_line) is where the hills meet the flood plain.
-- [Africa](https://i.redd.it/ocs4h9w3cot31.jpg) was the Roman name for the tiny province where Tunisia, Algeria, and Libya now are.
+- [Africa](https://i.redd.it/ocs4h9w3cot31.jpg) was the Roman name for the tiny province where Tunisia, Algeria, and Libya now are. The province came from [destroying Carthage](https://www.youtube.com/watch?v=-1szAxQh6Go) in the third Punic war.
 - The French usage of [ha-ha](https://en.wikipedia.org/wiki/Ha-ha) (*hâ-hâ*) actually means an unexpected obstacle on a path. The [Ha! Ha! River](https://en.wikipedia.org/wiki/Ha!_Ha!_River) means the river was an obstacle.
 - Taipei is surrounded by a city called [New Taipei](https://en.wikipedia.org/wiki/New_Taipei_City).
 - Because Greenwich is (lat, 0), longitude goes from -180 to 180, not 0 to 360.

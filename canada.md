@@ -1,5 +1,9 @@
 🇨🇦
 
+- Break a leg? [Homeless](https://www.cbc.ca/news/canada/toronto/homeless-in-toronto-1.5400781).
+- Shit. [Justin lives in Waterloo](https://torontostoreys.com/2018/11/justin-bieber-hailey-baldwin-waterloo/)? Need to move. After marrying Hailey Baldwin, Justin is now related to a Stephen Baldwin, and, by proxy, Alec Baldwin.
+- For a shift worker, to qualify for statutory holiday pay, they must work [_their_ scheduled shifts immediately before and immediately after the holiday](http://www.mondaq.com/canada/x/552604/employee+rights+labour+relations/Statutory+Public+Holiday+Pay) (don't open the link, it's cancer). If you have a shift on --12-23 (and off on --12-24, say) and you call in sick, you don't get paid for stat holidays --12-25 and --12-26.
+- You can [recycle electronics](https://www.recyclemyelectronics.ca/on/where-can-i-recycle/), including cables, at a Best Buy or Staples.
 - [Snowsquall](https://en.wikipedia.org/wiki/Snowsquall) is a word for: windy snow.
 - "[Over the longer term, Canadian property prices are in all likelihood a safe bet. While prices dip periodically, they almost always recover again. But that can take a decade or more.](https://www.cbc.ca/news/business/canada-property-bubble-1.5394421) ... He is still advising young people to avoid the condo market where he thinks prices have become detached from the land value they represent. He is advising people to rent, and notes that construction companies working on purpose-built rental properties will continue to do well, selling them to pension funds for the reliable stream of future income they represent."
 - Canada is [the world's largest icewine producer](https://en.wikipedia.org/wiki/Ice_wine#Ice_wine_producers), making it a great gift idea that is not maple syrup.

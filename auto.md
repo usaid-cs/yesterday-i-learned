@@ -2,6 +2,8 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- Fog lights [do](https://www.lifewire.com/fog-lights-or-lamps-who-needs-them-4090733) have visibility benefits in fog, other than letting other cars know that you exist.
+- Flip-up car handles are cheaper, but are worse in icy climates.
 - According to an unsourced reddit comment, drum brakes can brake stronger than disc brakes *if* ventilation is excellent, which is rarely the case.
 - If you charge the Tesla 3 (75 kWh for 500km) at $0.10/kWh and 50% efficiency, that is still $15, or 2.7L/100km, not "free" like the media makes it seem.
 - [Tesla paint jobs are shit.](https://www.youtube.com/watch?v=ErE-UnQO-DE)
