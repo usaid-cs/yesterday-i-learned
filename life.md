@@ -1,5 +1,8 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- [It is normal to love your kids more than you love your wife](https://www.reddit.com/r/AmItheAsshole/comments/ehw713/aita_for_saying_i_love_you_more_than_anything_to/fcm514x/).
+- "To lead people, walk behind them." - Lao Tzu
+- "Fuck it" jobs for men include: [mining, oil rigs, the military, and, in general, physical labour](https://www.reddit.com/r/AskReddit/comments/ehljus/what_is_the_male_equivalent_of_fck_this_ill_just/). That, or you just kill yourself.
 - Do not want people who don't want you.
 - If you rent at somewhere sketchy, so sketchy that you aren't sure if your landlord owns the house, then request to see the property tax invoice from them.
 - "The "stuff" thing really resonated with me. I value not having a lot of stuff. I prefer less clutter, fewer things to maintain or care about. I hate that our society is often centered around the acquisition of material things, most of which have no practical use, and even dubious aesthetic use. I'm certainly not completely spartan, and do have stuff, but I try to be careful about what I let into my home ..." - [kelnos](https://news.ycombinator.com/user?id=kelnos)

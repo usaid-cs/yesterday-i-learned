@@ -12,6 +12,7 @@
 - Do remember that [technical debt](https://news.ycombinator.com/item?id=10925141) _is_ debt; the time you borrow to make a feature must be paid back _soon_, and not _eventually_.
 - The less money a startup has left, [the less likely it will receive more](http://paulgraham.com/pinch.html).
 - Know what you are saving for. You can be saving for a house. You can be saving for a car. You can be saving for retirement. [Know your net worth, identify your goal, and work backwards.](https://www.businessinsider.com/first-step-early-retirement-planning-take-inventory)
+- In an economy where people run the risk of defaulting (which is not a "credit crunch", that's a different thing entirely), [companies that issue credit cards](https://www.mastercard.ca/en-ca/search-by-bank.html), like Scotiabank and Canadian Tire, do not do well.
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

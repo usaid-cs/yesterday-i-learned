@@ -2,6 +2,8 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- The VW Beetle began as Hitler's [Kraft-durch-Fruede Wagen](https://de.wikipedia.org/wiki/KdF-Wagen) ("Strength Through Joy" Car), rather than the *Käfer* ("beetle").
+- Get a VW salesperson to [jump on the car door](https://www.youtube.com/watch?v=ibWWqzhM4Kg). It is a standard [worldwide](https://www.youtube.com/watch?v=BhCpzXOhF5w) selling technique. (It's how they put the doors on in the first place, so it does nothing to the doors, or speak of their quality.)
 - Fog lights [do](https://www.lifewire.com/fog-lights-or-lamps-who-needs-them-4090733) have visibility benefits in fog, other than letting other cars know that you exist.
 - Flip-up car handles are cheaper, but are worse in icy climates.
 - According to an unsourced reddit comment, drum brakes can brake stronger than disc brakes *if* ventilation is excellent, which is rarely the case.

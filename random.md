@@ -1,5 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- "Drunk shrimp" aka 醉虾 is most often eaten raw.
+- Don't buy smart appliances. Even if the companies act in good faith, [which they don't](https://buildyoursmarthome.co/home-automation/the-privacy-of-data-how-secure-are-we-in-our-smart-homes/), [bugs can still happen](https://www.androidauthority.com/google-nest-hub-security-bug-1070840/), and all of a sudden, someone else is looking right into your house.
+- [Raising the IQ of both countries/states](https://en.wikipedia.org/wiki/Will_Rogers_phenomenon) came from comedian Will Rogers.
+- Since its inception in 2012, Tinder has had enough time to both get people married [*and* divorced](https://www.reddit.com/r/AskReddit/comments/eixc75/how_has_online_dating_worked_for_you/fcu4h9g/).
+- [Wax an article of clothing](https://www.reddit.com/r/BuyItForLife/comments/eht5kd/i_bought_this_made_in_finland_fjallraven_used_at/fcmu1gg/) by rubbing beeswax into it, wrapping it inside an old pillow case (tie it up), and placing it inside the dryer until all the wax melts into the clothing, which may take an hour. Cotton and leather clothes can be waxed. Synthetic is not (and unnecessary). Others not sure.
+- "Angel food" is sponge cake.
 - Netflix rents out DVDs to subscribers with slow internet.
 - You can [submit pretty much anything to SSRN](https://hq.ssrn.com/submissions/CreateNewAbstract.cfm) as long as it looks like a research paper.
 - Chinese buffet jellos are so thick because (according to rumours on reddit) they add cornstarch to them.
@@ -47,7 +53,7 @@
 - [A falsehood list](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) claimed that people might have zero names. This refers to [the edge case where babies can be born, not be assigned a name](https://news.ycombinator.com/item?id=11368058), and live like that forever, alone, in a forest, signing up for your app. In practice, there is no culture in the world where a person would live to use your application, and not have at least [one name](https://en.wikipedia.org/wiki/Mononymous_person). Even [unidentified people](https://en.wikipedia.org/wiki/Category:Unidentified_people) have names, and [the falling man](https://en.wikipedia.org/wiki/The_Falling_Man) won't be using your app any time soon.
 - [Allspice](https://en.wikipedia.org/wiki/Allspice) is called allspice because it smells like cinnamon, nutmeg, and cloves. Cuban cuisine uses allspice, cinnamon, nutmeg, cloves, and redundancy.
 - [A single template string with a dangling "the" inside](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) can make it real hard to translate to languages that have multiple forms of "the", like *la*, *le*, and *les*.
-- ["A drink"](https://www.rethinkyourdrinking.ca/what-is-a-standard-drink/) (13.6mL of pure ethanol) is clearly 3.6mL more than "a drink" in the UK.
+- ["A drink"](https://www.rethinkyourdrinking.ca/what-is-a-standard-drink/) (13.6mL of pure ethanol) is clearly 3.6mL more than "a drink" in the UK. This "a drink" is equivalent to 341mL of beer, 43mL of hard liquor, or 142mL of wine.
 - [Potemkin villages](https://en.wikipedia.org/wiki/Potemkin_village) are places that are made to look nice for touring foreign officials to see how great your country is, but in reality is not.
 - An [airwatt](https://en.wikipedia.org/wiki/Airwatt) is a [bullshit](https://www.reddit.com/r/Metric/comments/2nrc15/air_watts/) unit of measurement that both Hoover and Dyson decided to use to rate their vacuum cleaners' power, for which W (the real power) and L/min (the volume of air it sucks every minute) already were a thing.
 - Dry your gloves by putting them on top of your baseboard heater. That's how all the cool kids did it. (Thanks Nancy)
@@ -1705,7 +1711,6 @@
 - [Noyes](https://en.wikipedia.org/wiki/Noyes) is a real name, say the Internets.
 - As of [the article](http://www.anandtech.com/show/9394/analysing-amoled-power-efficiency)'s time of writing, AMOLED can beat IPS in efficiency (with a sample size of 2) if the screen contents are less than 60% white.
 - ["Rendering"](https://en.wikipedia.org/wiki/Rendering_%28animal_products%29) can also mean the separation of animal fat from other tissues.
-- OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)... not just any BBK, but 广东**步步高**电子工业有限公司. Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
 - To have deaths on your hands is the same as to have blood on your hands, i.e. to be responsible for the deaths.
 - Samsung reports preventing OLED burn-in by ["avoid keeping a static picture on ... for more than two hours at a time"](http://www.samsung.com/ca/support/skp/faq/441670).
 - Midlife is when you are between the age of 40 and 55. Midwife is when you deal with someone else's pregnancy.

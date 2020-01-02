@@ -1,3 +1,5 @@
+- Granite is more naturally radioactive than a nuclear facility allows to be artificially radioactive. "If you took granite or marble countertops from most homes and installed them into a nuclear plant, they would have to be disposed of as nuclear waste after the next break room renovation." - /u/NotAPreppie
+- When you have a few billion of something, it can have massive effects on the world. [If 5 billion people use your app, your app's efficiency can affect CO2 emissions in the order of megatons](https://greenspector.com/en/news/2019-11-13-playstore-efficiency-report/),
 - Only buy knives that claim a rockwell hardness of [between 55 to 60](https://prudentreviews.com/wusthof-vs-henckels/).
 - It's not about sharpening. Some knives just don't stay sharp. That's why you need good steel.
 - Some people might say the mass of an object increases as its velocity increases. [It's not true](https://www.youtube.com/watch?v=LTJauaefTZM) (but I didn't finish watching the video to know why because I had to poop).
