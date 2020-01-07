@@ -575,3 +575,5 @@ bar
 - `a = not True` is fine (makes a false), but `a == not True` is suddenly a `SyntaxError`. The fact that `==` takes higher precedence screws parsing over, which reads `(a == not) True`.
 - "In a generator expression, the in clause is evaluated at declaration time, but the conditional clause is evaluated at runtime." This means if you do `(x for x in array if array)`, the two `array`s can be completely different objects if you do a `array =` after that line.
 - String concatenation can be done in a single line. `print('hello' 'world')` prints `helloworld`.
+- In the strictest sense, [python came from the Netherlands](https://en.wikipedia.org/wiki/Non-English-based_programming_languages), even though the name is from an English show and GVR worked for Dropbox.
+- The `Type[Foo]` syntax is really implemented with `__getitem__`. See `GenericMeta.__getitem__`.

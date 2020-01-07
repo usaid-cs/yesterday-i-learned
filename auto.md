@@ -2,6 +2,9 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- E-85 fuel is **85% ETHANOL**, not 85% gasoline or 85 octane.
+- High-octane fuel is [the same in every way as low-octane fuel](https://www.youtube.com/watch?v=Bb5VfiFy0kY) except the resistance to knocking. Same energy content. Same fuel economy. Same purity. Occasionally different additives.
+- There isn't an issue with traditional metal wipers "not hugging the windscreen" per se (it is only a problem during icy winters), but [water passes through in between the wiper element and the frame, which means the water goes right back onto the windscreen](https://www.youtube.com/watch?v=-jQs3OI6Gvo).
 - The VW Beetle began as Hitler's [Kraft-durch-Fruede Wagen](https://de.wikipedia.org/wiki/KdF-Wagen) ("Strength Through Joy" Car), rather than the *Käfer* ("beetle").
 - Get a VW salesperson to [jump on the car door](https://www.youtube.com/watch?v=ibWWqzhM4Kg). It is a standard [worldwide](https://www.youtube.com/watch?v=BhCpzXOhF5w) selling technique. (It's how they put the doors on in the first place, so it does nothing to the doors, or speak of their quality.)
 - Fog lights [do](https://www.lifewire.com/fog-lights-or-lamps-who-needs-them-4090733) have visibility benefits in fog, other than letting other cars know that you exist.

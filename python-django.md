@@ -115,6 +115,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - Filtering by `Q()` does nothing, *except* if `|`ed with another `Q()`... so `Q() | Q(foo=1)` is the exact same as `Q() & Q(foo=1)`, because ["the empty Q() should not have any effect at all, whether ORed or ANDed into the query"](https://code.djangoproject.com/ticket/24279).
 - `.using()` in a `Prefetch`'s queryset appears to have no conflicts. For example, `Foo.objects.using('db1').prefetch_related('bars', queryset=Bar.using('db2').objects.all())` *seems* to use db1 for fetching Foo, and then uses db2 to fetch its bars.
 - Annotating a queryset can increase the number of results returned if the annotation involves a ManyToManyField or similar.
+- Querying a model by its ManyToManyField's attributes, i.e. `Model.objects.filter(many_to_many__attribute=some_value)`, will yield as many results as there are matching `many_to_many__attribute`s. For example, if you have 2 `Model`s and 6 `ManyToMany.attribute`s matching `some_value`, your queryset will have 6 things in it, even though it is a query against `Model`, and there are only 2 `Model`s.
 
 #### Don't know what `select_related` and `prefetch_related` do
 

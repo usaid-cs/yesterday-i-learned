@@ -13,6 +13,7 @@
 - The less money a startup has left, [the less likely it will receive more](http://paulgraham.com/pinch.html).
 - Know what you are saving for. You can be saving for a house. You can be saving for a car. You can be saving for retirement. [Know your net worth, identify your goal, and work backwards.](https://www.businessinsider.com/first-step-early-retirement-planning-take-inventory)
 - In an economy where people run the risk of defaulting (which is not a "credit crunch", that's a different thing entirely), [companies that issue credit cards](https://www.mastercard.ca/en-ca/search-by-bank.html), like Scotiabank and Canadian Tire, do not do well.
+- [The stock market is not a gauge for how well the economy is doing](https://theweek.com/articles/886198/booming-stock-market-shows-america-diseased); it is just an indicator for how well *companies* are doing, and, therefore, how quickly money is being funnelled---from [the government, ironically socialised](https://www.reddit.com/r/TrueReddit/comments/ej4qov/the_booming_stock_market_shows_america_is_diseased/fcvhph0/)---to the rich.
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

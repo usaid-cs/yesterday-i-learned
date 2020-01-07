@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- When you start a new job, instead of asking for help all the time, look for README files. (You should do this naturally anyway, given the lack options available to you.) Also [don't run scripts just because people tell you to](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/).
 - [It is normal to love your kids more than you love your wife](https://www.reddit.com/r/AmItheAsshole/comments/ehw713/aita_for_saying_i_love_you_more_than_anything_to/fcm514x/).
 - "To lead people, walk behind them." - Lao Tzu
 - "Fuck it" jobs for men include: [mining, oil rigs, the military, and, in general, physical labour](https://www.reddit.com/r/AskReddit/comments/ehljus/what_is_the_male_equivalent_of_fck_this_ill_just/). That, or you just kill yourself.

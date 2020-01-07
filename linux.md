@@ -125,7 +125,7 @@
 - `mplayer` also plays any binary as a video. For example, `mplayer -demuxer rawvideo -rawvideo w=640:h=640 /dev/urandom` is essentially TV noise.
 - `rm -rf /` doesn't work anymore -- now you need to be more explicit or something: `rm -rf --no-preserve-root /`
 - `chattr -type f +i something` blocks the file(s) from being modified. (`i` is immutable)
-- [Optimise JPG or PNG](https://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/): `jpegoptim` or `optipng`
+- [Optimise JPG or PNG](https://www.tecmint.com/optimize-and-compress-jpeg-or-png-batch-images-linux-commandline/): `jpegoptim` or `optipng` (e.g. `jpegoptim -m85 -o *.jpg`)
 - Batch resize and/or [optimise](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick) images: `for i in $(ls *.jpg); do convert -resize 800x800 -quality 90 -gaussian-blur 0.001 -sampling-factor 4:2:0 -define jpeg:dct-method=float -interlace Plane $i re_$i; done`
 - [Docker isn't for everyone](https://devopsu.com/blog/docker-misconceptions/) but [you made a cheatsheet anyway](docker.md)
 - `ls` supports sorting by size (`-S`), even for recursive lists (`**`). For example, `ls -SalR **/*.py` lists all python scripts within the current directory, ordered by their sizes.

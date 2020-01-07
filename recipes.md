@@ -337,3 +337,8 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - Still holding the onion together. cut vertical strokes to yield cubes. Avoid the root.
 - Discard the root.
 - Season with paprika.
+
+## [Evaporated milk](https://www.biggerbolderbaking.com/evaporated-milk-recipe/)
+
+- Pour milk into a pot.
+- Heat pot until milk begins to simmer. Keep at that temperature until desired consistency is reached.

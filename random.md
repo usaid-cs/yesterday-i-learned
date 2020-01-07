@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- _Crestfallenly_, although German-like, actually means "in the state of low spirit".
+- Mayo Clinic was named after [William Worrall Mayo](https://en.wikipedia.org/wiki/William_Worrall_Mayo), not [mayonnaise](https://www.youtube.com/watch?v=S_CMGVbM1ns) (Meg ruins the already-bad joke by repeating it).
+- Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144).
+- The original Spanish title of the movie [El laberinto del fauno, lit. 'The Labyrinth of the Faun'](https://en.wikipedia.org/wiki/Pan%27s_Labyrinth) refers to the [fauns](https://en.wikipedia.org/wiki/Faun) (half human half goats) of Roman mythology, while the English, German and French titles refer to Greek faun-like deity [Pan](https://en.wikipedia.org/wiki/Pan_%28god%29), even though [the director](https://en.wikipedia.org/wiki/Guillermo_del_Toro) said the faun in there is not Pan.
 - "Drunk shrimp" aka 醉虾 is most often eaten raw.
 - Don't buy smart appliances. Even if the companies act in good faith, [which they don't](https://buildyoursmarthome.co/home-automation/the-privacy-of-data-how-secure-are-we-in-our-smart-homes/), [bugs can still happen](https://www.androidauthority.com/google-nest-hub-security-bug-1070840/), and all of a sudden, someone else is looking right into your house.
 - [Raising the IQ of both countries/states](https://en.wikipedia.org/wiki/Will_Rogers_phenomenon) came from comedian Will Rogers.
@@ -85,7 +89,6 @@
 - How to wash your face, in order of operation: use a **cleanser** (not the kind for removing makeup), then use a **moisturiser** to compensate for the oils you just removed, and then **sunscreen** if you decide to go out.
 - On a house scale, [an inch-thick HVAC air filter might only last one month](https://www.tlcplumbing.com/blog/why-you-need-to-change-your-homes-air-filter/), and if you want to change it less frequently, you might need to get thicker filters. (Site does not appear to be sponsored by the HVAC and HVAC accessories industry)
 - [Ruby](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Ruby) is a much more popular name for girls than [Diamond](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Diamond), [Sapphire](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Sapphire), or [Topaz](https://rhiever.github.io/name-age-calculator/index.html?Gender=F&Name=Topaz).
-- "Portugal" came from Latin [*Portus Cale*](https://en.wikipedia.org/wiki/Portugal#Etymology), or "the port of Cale", where Cale was supposedly [some Celtic goddess](https://en.wikipedia.org/wiki/Cailleach) (according to a theory, anyway).
 - [People tend not to sell houses in November and December](https://www.dhavaldesai.ca/Housing-Market-Charts-May-2019) because of Christmas parties. [Rental prices are also the cheapest from December to March](https://www.renthop.com/studies/national/best-time-of-year-to-rent) across North American cities, because---you guessed it---snow.
 - Leather is actually in [huge surplus](https://www.supplychaindive.com/news/beef-leather-industry-by-products-surplus/526449/) from people eating beef and the availability of [vegan leather alternatives](https://www.heddels.com/2019/06/vegan-leather-made-pros-cons/).
 - A [lifer](https://www.merriam-webster.com/dictionary/lifer) is a person on life sentence.
@@ -1038,8 +1041,7 @@
 - Kafka told his friend to have his works "to be burned unread" after he dies. His friend responded be publishing everything, citing Kafka might have had psycological issues that made him say such things.
 - There is an encyclopedia page dedicated to [Rihanna's forehead](http://uncyclopedia.wikia.com/wiki/Rihanna%27s_Forehead).
 - [Intel GPU firmware have been proprietary since skylake.](https://lists.freedesktop.org/archives/intel-gfx/2015-June/068167.html)
-- Sleeping Dogs was one of the greatest games you bothered to finish. The story, the setting, the knee-breaking action, driving while hopping from car to car.
-- Elon Musk once said along the lines of: [if you work 100-hour weeks and others work 40-hour weeks, then your chances of (he used the word "success", but it's probably more like "getting something done") is higher, if not 2.5x higher, than your competitors.](https://www.nextbigwhat.com/elon-musk-quotes-297/) You know that's 14-hour work days, right? You know people burn out, right?
+- Elon Musk once said along the lines of: [if you work 100-hour weeks and others work 40-hour weeks, then your chances of (he used the word "success", but it's probably more like "getting something done") is higher, if not 2.5x higher, than your competitors.](https://www.nextbigwhat.com/elon-musk-quotes-297/) You know that's 14-hour work days, right? You know people burn out, right? He said [120-hour work weeks (i.e. working 5 days straight every week) is bonkers](https://www.cnbc.com/2018/11/05/elon-musk-on-working-120-hours-a-week-youll-go-bonkers.html) though.
 - The most average person is [a 28-year old Han Chinese man](http://www.dailymail.co.uk/news/article-1362709/Typical-human-face-28-year-old-Chinese-man.html).
 - For \$15~100, you can buy mystery boxes on eBay, containing more than their value worth of trash.
 - There is no conceptual difference between using your power line for ethernet, and using your phone line for your DSL. The signals are just overlapped with vastly different frequencies (Hz vs MHz). Also, if you live in an apartment building, congrats! Everyone shares your local network!
@@ -1796,7 +1798,6 @@
 - [The technologies used predominantly during the workday (are mostly enterprise software).](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/)
 - Buy fish oil from the states. It is much cheaper there. (Same for gelatin)
 - [Nick Freeman](https://en.wikipedia.org/wiki/Nick_Freeman), otherwise known as Mr. Loophole, defended David, Jimmy, Ian, Tiff, AND Jeremy from their respective speeding tickets.
-- The word "[Connecticut](https://en.wikipedia.org/wiki/Connecticut_River)" is a French corruption of the Mohegan word quinetucket, which means "beside the long, tidal river". The river flows both ways.
 - Air-to-air missiles typically [explode on proximity](https://en.wikipedia.org/wiki/Air-to-air_missile#Warhead) rather than contact.
 - [_Use the second person (you, your) to tell users what to do_ like in error messages, and places where the app is telling the user about the user's content. _Use the first person (I, me, my) to let users tell the program what to do_ like on buttons and menu items.](https://ux.stackexchange.com/a/4350/40178) An important note is [**Don't start something with My, Your, or The**](https://ux.stackexchange.com/a/4351/40178) because these items don't sort right alphabetically.
 - At programming meetups, just like your experience, have [Wi-Fi that never work](https://python.sh/2017/4/why-i-stopped-attending-programming-meetups).
@@ -1804,7 +1805,7 @@
 - 70% of Japanese people like natto, and 29.8% don't. Compared to durians, its whole deal about "powerful smell, strong flavor, and slimy texture" are a walk in the park.
 - "If you want someone to come to you, tell them to meet you halfway at X location whilst you are there already. They will be more likely to come to you if they think you are doing the same amount of walking you are." [This also works for Craigslist pickups](https://www.reddit.com/r/SocialEngineering/comments/65i5gv/fairly_harmless_se_trick_i_made/).
 - If you are extremely paranoid about letting people who mail you things know where you live (which are usually the same place), or just homeless, [get a PO box](https://www.reddit.com/r/LifeProTips/comments/65j5nr/lpt_if_youre_starting_out_in_a_new_city_and_dont/).
-- Emma Morano, the last surviving person from the 1800s, ate [two raw eggs](http://www.bbc.co.uk/news/amp/39610937) a day.
+- [Emma Morano](https://en.wikipedia.org/wiki/Emma_Morano), the last surviving person from the 1800s (until she died in 2017, anyway), ate [two raw eggs](http://www.bbc.co.uk/news/amp/39610937) a day.
 - Paper is rarely (apparently only once or twice) shown in Star Wars.
 - Mead can be sweet, dry, sparkling, non-sparkling, 8% ABV, to 20% ABV. It can basically be anything. Saying one has tried mead is like saying one has tried "beer".
 - Want something done? [Go to the person](https://hbr.org/2017/04/a-face-to-face-request-is-34-times-more-successful-than-an-email). It is a lot (34 times, says article) more effective than email.

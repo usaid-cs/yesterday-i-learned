@@ -44,3 +44,4 @@
 - The Denver Nuggets (basketball team) would make the opposing team sprint from one end of the court to the other to make them run out of breath. Tired players make more mistakes, and since Denver is a high altitude city, the home team is trained for this sort of thing, says Jmgill12, who claims to study basketball.
 - [Waste Management](https://en.wikipedia.org/wiki/Waste_Management_%28corporation%29) is actually American. A company. A publicly-trading company.
 - Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
+- The word "[Connecticut](https://en.wikipedia.org/wiki/Connecticut_River)" is a French corruption of the Mohegan word quinetucket, which means "beside the long, tidal river". The river flows both ways.
