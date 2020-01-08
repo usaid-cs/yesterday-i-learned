@@ -1,8 +1,12 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- "Minge" can either be the vagene, OR the pubic hair on it.
+- The [DENNIS system](https://itsalwayssunny.fandom.com/wiki/The_D.E.N.N.I.S._System) is how Dennis seduces his women and earns their undying love.
+- [Someone](https://www.reddit.com/r/Android/comments/eln29y/ips_lcd/fdjlduq/) said controlling AMOLED screens with DC dimming eliminates flickering at the expense of colour accuracy at low brightness.
+- There is such a thing as [insurance marketplaces](https://www.thebalancesmb.com/what-is-lloyd-s-of-london-462564), where insurance buyers and sellers (along with brokers and other what-have-you positions) come together and trade underwritings. Lloyd's of London is one example.
 - _Crestfallenly_, although German-like, actually means "in the state of low spirit".
 - Mayo Clinic was named after [William Worrall Mayo](https://en.wikipedia.org/wiki/William_Worrall_Mayo), not [mayonnaise](https://www.youtube.com/watch?v=S_CMGVbM1ns) (Meg ruins the already-bad joke by repeating it).
-- Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144).
+- Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144) (i.e. nuclear and renewable energy need to increase output by 10x to replace it).
 - The original Spanish title of the movie [El laberinto del fauno, lit. 'The Labyrinth of the Faun'](https://en.wikipedia.org/wiki/Pan%27s_Labyrinth) refers to the [fauns](https://en.wikipedia.org/wiki/Faun) (half human half goats) of Roman mythology, while the English, German and French titles refer to Greek faun-like deity [Pan](https://en.wikipedia.org/wiki/Pan_%28god%29), even though [the director](https://en.wikipedia.org/wiki/Guillermo_del_Toro) said the faun in there is not Pan.
 - "Drunk shrimp" aka 醉虾 is most often eaten raw.
 - Don't buy smart appliances. Even if the companies act in good faith, [which they don't](https://buildyoursmarthome.co/home-automation/the-privacy-of-data-how-secure-are-we-in-our-smart-homes/), [bugs can still happen](https://www.androidauthority.com/google-nest-hub-security-bug-1070840/), and all of a sudden, someone else is looking right into your house.

@@ -1,5 +1,5 @@
 - The minimum rating of the Silicon Valley show is [7.5/10](https://www.imdb.com/search/title/?series=tt2575988&sort=user_rating,desc&count=250&view=advanced).
-- The same [woman](https://en.wikipedia.org/wiki/Gwyneth_Paltrow) who starred as Pepper in Iron Man also told you to shove [jade eggs](https://www.healthline.com/health/jade-egg) up your vagine.
+- The same [woman](https://en.wikipedia.org/wiki/Gwyneth_Paltrow) who starred as Pepper in Iron Man also told you to shove [jade eggs](https://www.healthline.com/health/jade-egg) up your vagene.
 - Bear Grylls is a Londoner, not Australian?
 - [Ken Watanabe](https://en.wikipedia.org/wiki/Ken_Watanabe) didn't need anyone to dub for him in Detective Pikachu.
 - [Chuck Norris](https://en.wikipedia.org/wiki/Chuck_Norris) is (currently) 79, and, at 2015, still had a lot of hair.

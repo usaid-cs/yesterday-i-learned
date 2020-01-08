@@ -1,3 +1,7 @@
+- You can have mad cow disease and not know it. Then one day you shrivel up in a month or two and die.
+- Wild salmon has more muscle, [omega-3 fatty acids](https://recipes.howstuffworks.com/pacific-or-atlantic-salmon3.htm), minerals, and less fat and [contaminants](https://medium.com/@robinbarefield76/how-does-an-atlantic-salmon-differ-from-a-pacific-salmon-e042bb2eac02) than farmed.
+- Ophthalmology is pronounced of-tha-麼-logy.
+- Both [cats](https://en.wikipedia.org/wiki/Cat#Reproduction) and [dogs](58 – 67 days) gestate for 63~65 days. [猫三狗四](https://baike.baidu.com/item/%E7%8C%AB%E4%B8%89%E7%8B%97%E5%9B%9B) is 100% bullshit.
 - Amputated limbs [can](https://www.reddit.com/r/explainlikeimfive/comments/ekpn5q/eli5_when_people_lose_an_arm_or_leg_how_do_their/) sometimes stop getting proper bloodflow near where the blood vessels are cauterised, upon discovery of which will require another amputation until it is done right.
 - A meta-analysis (by a DOI number shown in the video) suggests [you will achieve muscle mass gain as long as you work it until failure](https://www.youtube.com/watch?v=cuIlP5uII6A) (i.e it cannot lift anymore), and *how* you do it doesn't matter (reps, weight). This is consistent with Arnold Schwarzenegger's "drop set" technique, and also confirms that building muscle has no shortcuts [other than steroids].
 - The number of lobes a pepper has [does not](https://www.gardeningknowhow.com/edible/vegetables/pepper/bell-pepper-lobes.htm) determine the pepper's sex or taste.
@@ -17,7 +21,6 @@
 - Insect population [decreased 70%](https://www.scientificamerican.com/article/as-insect-populations-decline-scientists-are-trying-to-understand-why/) since 1980.
 - [Plants emit ultrasonic signals](https://www.smithsonianmag.com/smart-news/scientists-record-stressed-out-plants-emitting-ultrasonic-squeals-180973716/) when "in pain".
 - [Compression socks](https://en.wikipedia.org/wiki/Compression_stockings) / stockings prevent thrombosis, something that happens when you're old, pregnant, or have diabeetus. These socks keep blood flowing up.
-- Pacific and Atlantic salmon are so different, they have a [different number of chromosomes](https://www.psf.ca/learn/salmon-facts).
 - Sleep expert recommends [drinking coffee only 90 minutes after waking up, and none after 2:30pm](https://youtu.be/QLcD-Uaja-I). He also says (not related to caffeine) that "catching up on sleep" only works for 30 minutes per weekend.
 - [Women can't "hold their periods"](https://www.reddit.com/r/AskReddit/comments/ee9uhe/women_of_reddit_what_myth_about_women_is_100/fbsbiq5/). Pee is not stored in the balls. They can snore ["like a water buffalo drowning in porridge"](https://www.reddit.com/r/AskReddit/comments/ee9uhe/women_of_reddit_what_myth_about_women_is_100/fbt0vif).
 - Numerically determine how gay you are with the [Kinsey scale](https://en.wikipedia.org/wiki/Kinsey_scale). If you are under 3, you are heterosexual.
@@ -529,7 +532,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Dragonflies grow bigger if they live in more oxygenated air](https://asunow.asu.edu/content/big-insects-provide-big-answers-about-oxygen) (they were huge). Cockroaches, however, do not.
 - [Pigs start growing tusks the moment they go feral.](https://www.reddit.com/r/explainlikeimfive/comments/2v6jvg/eli5_why_do_pigs_go_through_a_big_transformation/)
 - [Mosquitoes can separate water from blood while still sucking to free up space.](https://youtu.be/rD8SmacBUcU)
-- Pacific salmon and Atlantic salmon are in two completely different genera.
+- Pacific salmon and Atlantic salmon are in two completely different genera. They are so different, they have a [different number of chromosomes](https://www.psf.ca/learn/salmon-facts).
 - Sitting weakens back muscles: ["Ask the average American adult to sit cross legged with good posture and it will wear them out rapidly, those muscles never get used."](https://www.reddit.com/r/Fitness/comments/836hif/why_is_sitting_unhealthy/dvffz07/)
 - Random visual distortions can come out of nowhere. This is called an [ocular migraine](http://www.allaboutvision.com/conditions/ocular-migraine.htm). Stop driving.
 - Lobsters' [V-notches](http://www.eregulations.com/massachusetts/fishing/saltwater/v-notching-regulations/), put in by fishermen to indicate a lobster mamma with baby lobsters in her tummy, go away after around two molts. It is usually illegal to sell a lobster like that, or obscure the V notch in order to bypass that law.

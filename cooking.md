@@ -1,3 +1,5 @@
+- Vacuum-sealed meat lasts forever.
+- Never brown ground beef with a stainless steel pan.
 - Use a knife to make a crack at the middle of a lobster claw, then twist the blade clockwise along the x-axis to pry open the shell and get the whole meat out. Extract meat from the other legs with a roller.
 - You need hot oil when frying fish, or the skin will stick to the pan when the fish goes in.
 - 1kg of flour can become 2,852km of noodles, if you try hard enough.

@@ -49,6 +49,7 @@
 - [Why is MySQL's default collation latin1_swedish_ci?](http://stackoverflow.com/questions/6769901/why-is-mysqls-default-collation-latin1-swedish-ci)
 - [No `FULL (OUTER) JOIN` in MySQL?](https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql#4796911) WTF? (`LEFT JOIN` works as expected.)
 - It's not that DDL statements don't work in a transaction, but [an implied `COMMIT` is run whenever you run DDL statements](https://stackoverflow.com/a/22806756/1558430), so any DML statements run before that DDL statement (like `INSERT; ALTER TABLE;`) will have been committed as well.
+- [AUTO_INCREMENT keys are not reset](https://stackoverflow.com/questions/449346/mysql-auto-increment-does-not-rollback) after a transaction is rolled back. This is useful because you don't want a transaction to fail just because two transactions are inserting an automatically-numbered row each.
 
 # PostgreSQL
 

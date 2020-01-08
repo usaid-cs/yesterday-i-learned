@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- When at a funeral, don't say "they're at a better place now", "you'll meet again", and "they're always with you". Actually there's no need to say anything at all. **Give them a hug** or feed them or help them get gas if they're too lost to live. They just want that person back. Save them for another day.
 - When you start a new job, instead of asking for help all the time, look for README files. (You should do this naturally anyway, given the lack options available to you.) Also [don't run scripts just because people tell you to](https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/).
 - [It is normal to love your kids more than you love your wife](https://www.reddit.com/r/AmItheAsshole/comments/ehw713/aita_for_saying_i_love_you_more_than_anything_to/fcm514x/).
 - "To lead people, walk behind them." - Lao Tzu

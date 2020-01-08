@@ -182,6 +182,7 @@
 - **Si**: If. [Sometimes also "Yes"](https://french.yabla.com/lessons.php?lesson_id=268) only when used to contradict a _non_ said by someone else. [_S'il vous plaît_](https://en.wiktionary.org/wiki/s%27il_vous_pla%C3%AEt): "if it pleases you".
 - **Sinon**: Otherwise. Literally _si non_, "if not".
 - **Soupe**: soup.
+- **Souper**: supper. *Le souper c'est glélé*: the supper is frozen.
 - **Souvenir**, to remember, or a (uh) souvenir. _Je ne m'en je suis pas souvenu_: I did not remember it.
 - **Soyez prêt**: be ready.
 - **le Sud**: the south.

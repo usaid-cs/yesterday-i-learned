@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- A Chinese guinea pig is called a "Dutch pig".
 - At least part of why the Chinese are so competitive is the saying 成者為王，敗者為寇 ("the winner becomes king, the loser becomes outlaw"), in line with the [mandate of heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven), that you must win to possess power.
 - [The Chinese constitution](https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China#1982_Constitution) gets a new revision every other time a new leader takes control.
 - Gmail is banned in China. So is Facebook, Youtube, Twitter, Instagram, and Dropbox. Fun fact maybe? [On Wikipedia, it says Wikipedia is banned](https://en.wikipedia.org/wiki/Websites_blocked_in_mainland_China).

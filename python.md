@@ -69,7 +69,7 @@ for k, v in six.iteritems(d):
 - [You cannot make a `dict`, `json.loads`, `json.dumps`, or otherwise, with integer keys in python](http://stackoverflow.com/questions/1450957/pythons-json-module-converts-int-dictionary-keys-to-strings).
 - If you are a jackass, you [can](http://stackoverflow.com/a/481755/1558430) write recursive lambdas.
 - Decorators can return functions that are already wrapped with decorators, by virtue that decorators can be wrapped in anything.
-- Every module is imported only once, but every `import` call will invoke a check to make sure the module is imported.
+- [Every module is imported only once](scripts/import_test_c.py), but every `import` call will invoke a check to make sure the module is imported.
 - `@functools.wraps(fn)` is used to wrap a the wrapper function inside a decorator that helps preserve the original function's docstrings.
 - [`apply`](http://docs.python.org/2/library/functions.html#apply) is a keyword. It is a bit like `map`.
 - "Almost every time you use `reduce` means you are doing something wrong", so `reduce()` was moved into `functools.reduce()` in Python3.
@@ -481,7 +481,7 @@ bar
 - NumPy has its own PEP-like things, called [NEPs](https://www.numpy.org/neps/) ("NumPy Enhancement Proposals").
 - Disable a named logger: `logging.getLogger('some name').propagate = False`
 - If a function `yield`s, the function returns a `generator`, and any function that returns the return of that function also returns the same generator.
-- [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` may be omitted. It is a shorthand (saves 3 characters) compared to `Union[..., None]`.
+- [`Optional` is NOT used](https://docs.python.org/3/library/typing.html#typing.Optional) when the argument is optional. `Optional` is used when `None` is an allowed value, whether or not the `None` may be omitted. It is a shorthand (saves 3 characters) compared to `Union[..., None]`, and is [supposedly well-known within the functional programming community](https://stackoverflow.com/questions/39429526/how-to-specify-nullable-return-type-with-type-hints#comment98251723_39429578).
 - A [naive datetime object](https://docs.python.org/2/library/datetime.html) does not care about its time zone. An "aware" datetime object, however, does.
 - The 1.0 release of [html5lib](https://pypi.org/project/html5lib/) (you know, the first one after 0.9999999...) was a botched release.
 - Raymond, your role model, got burned [at least once](https://lwn.net/Articles/730962/) by a Dropbox employee.
@@ -577,3 +577,4 @@ bar
 - String concatenation can be done in a single line. `print('hello' 'world')` prints `helloworld`.
 - In the strictest sense, [python came from the Netherlands](https://en.wikipedia.org/wiki/Non-English-based_programming_languages), even though the name is from an English show and GVR worked for Dropbox.
 - The `Type[Foo]` syntax is really implemented with `__getitem__`. See `GenericMeta.__getitem__`.
+- A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
