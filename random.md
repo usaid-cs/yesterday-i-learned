@@ -1,5 +1,23 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" - [Brian Kernighan](http://www.linusakesson.net/programming/kernighans-lever/)
+- It is popular to quit alcohol in January, called [Dry January](https://www.cbc.ca/news/canada/newfoundland-labrador/dry-january-ainsley-hawthorn-pov-1.5418761), and then relapse right after that.
+- A [屌絲](https://zh.wikipedia.org/wiki/%E5%B1%8C%E4%B8%9D), is, uh, somewhat similar to [撸瑟](https://zh.wikipedia.org/wiki/%E8%BC%B8%E5%AE%B6%E7%94%B7), pronounced lu4 se4, or just "loser".
+- Both Terraform and Vagrant are [Hashicorp](https://www.hashicorp.com/) products.
+- Donated clothing is [burned or dumped to landfills](https://www.youtube.com/watch?v=I8DrQVHj7fk).
+- There is [no correlation](https://www.youtube.com/watch?v=5BsxZFrV4dU) between the credit scores you see, and the credit score lenders use, called [Beacon score](https://www.investopedia.com/terms/b/beacon-score.asp) (Canada's FICO equivalent).
+- Blue light lenses do [NOT](https://www.youtube.com/watch?v=NkJY9bgLyBE) protect you against retinal detachment from using your devices too much. Only your change of habit can. Rest for 20 seconds every 20 minutes of screen use, eat broccoli, and take omega-3.
+- ["Real tennis"](https://en.wikipedia.org/wiki/Jeu_de_paume), aka *jeu de paume*, literally "palm game", [did not start with racquets](https://en.wikipedia.org/wiki/Real_tennis), but they were later introduced. Lawn tennis was then introduced.
+- Ankle bracelet batteries [need to be recharged](https://www.good.is/features/issue-35-ankle-monitors).
+- Luxottica produces 25% of the world's eyewear. [LensCrafters is directly owned by Luxottica](https://www.youtube.com/watch?v=n8vNi6IeRNU). They also own Sears Optical, Sunglass Hut, Oakley, Glasses.com, and [a dozen more I have never heard of](https://en.wikipedia.org/wiki/Luxottica) so I'll not list here.
+- Some people stay warm while homeless by [taking the bus perpetually](https://www.bbc.com/news/stories-50459821).
+- Qantas, for some reason pronounced with a U (i.e. Quantas), stood for **Q**ueensland **A**nd **N**orthern **T**erritory **A**erial **S**ervices.
+- Planet fitness is known for being purple.
+- Music of a given genre is often [shaped by how advanced the audio equipment was at the time](https://www.youtube.com/watch?v=5gXOQ39xWz8). Some music just didn't sound good when recorded [with crappy equipment]. Today, no such limitation exists.
+- [Use a rubber band to keep your door unlocked](https://www.lifehack.org/articles/lifestyle/20-smart-tips-make-moving-breeze.html) to make moving easier.
+- [Contaminated / laminated paper can't be recycled](https://www.youtube.com/watch?v=fYsFK6ZiZRs). They don't even recycle PVC. If you want to save the planet, [don't use in the first place](http://reddit.com/r/zerowaste/), and rinse your damned cans.
+- [A "this is a work of fiction" disclaimer in movies](https://www.youtube.com/watch?v=bVcibhlOKyE) prevents the movie maker from being sued by whomever they are trying to portray, however much "based on a true story"... should others decide to sue.
+- Hemp has little to no THC. Hemp seed has nothing. Other parts of hemp can be used to make CBD oils.
 - "Minge" can either be the vagene, OR the pubic hair on it.
 - The [DENNIS system](https://itsalwayssunny.fandom.com/wiki/The_D.E.N.N.I.S._System) is how Dennis seduces his women and earns their undying love.
 - [Someone](https://www.reddit.com/r/Android/comments/eln29y/ips_lcd/fdjlduq/) said controlling AMOLED screens with DC dimming eliminates flickering at the expense of colour accuracy at low brightness.
@@ -1777,7 +1795,7 @@
 - Bikes with pedals attached to the front wheel are called [velocipedes](https://en.wikipedia.org/wiki/Velocipede).
 - A [gear-inch](https://en.wikipedia.org/wiki/Gear_inches) is the distance travelled from one revolution of your gear pedal.
 - The future is run by Terminators, because of this series of events happening: Man makes robot to help police find illegal parking. [Robot gets beat up when working alone.](https://arstechnica.com/tech-policy/2017/04/silicon-valley-security-robot-beat-up-in-parking-lot-police-say/) Robot gets a gun to protect itself.
-- [Coconut oil](https://en.wikipedia.org/wiki/Coconut_oil) has too much saturated fatty acids (evident, because it is solid at room temperature) to be healthy.
+- [Coconut oil](https://en.wikipedia.org/wiki/Coconut_oil) has [too much saturated fatty acids](https://www.youtube.com/watch?v=rXCPP0LPhYQ) (evident, because it is solid at room temperature) to be healthy. It has 2.5x more saturated fats than lard.
 - Stock price doesn't mean anything (as long as you can afford at least one share). Buying 100 cheap shares worth $5 each that goes up by 1% is going to be $505. Buying 1 share of $500 that goes up by 1% is also going to be $505.
 - The ["ECB (electronic code book) mode"](https://crypto.stackexchange.com/questions/225/should-i-use-ecb-or-cbc-encryption-mode-for-my-block-cipher) encrypts data block by block. [It is insecure.](https://littlemaninmyhead.wordpress.com/2017/04/22/top-10-developer-crypto-mistakes/) Stop using it wherever you know it exists. CBC (cipher block chaining) mode makes you XOR the next block with the previous block's ciphertext first, making it safer.
 - If you buy a share of every stock out there in an exchange, you effectively track an index. If you buy a share from only the non-half-arsed stocks in an exchange, you effectively beat an index. If you go on and buy a share from only the stocks that consistently stay on or above average, which isn't hard to spot to be honest (say Apple or Adobe), then you easily beat an index. That is why index funds often outperform the indices that they track, but never by much.
@@ -2116,6 +2134,7 @@
 - [The last entry of copy and pasted lines tend to be wrong](https://software.intel.com/en-us/blogs/2015/04/22/the-last-line-effect).
 - Astronauts must have good airflow around them when they sleep, otherwise, they could wake up oxygen-deprived and gasping for air because a bubble of their own exhaled carbon dioxide had formed around their heads.
 - [Deflashing](http://en.wikipedia.org/wiki/Cryogenic_deflashing) can refer to the removal of _flash_, excess material from plastic moulding.
+- [Draft](https://www.youtube.com/watch?v=IiGTkl4fSx4) is a feature of many injection-moulded plastics, where the sides of the piece are angled (like sand castle buckets) that allow the piece to slip out of the tool.
 - "Sitrep" stands for "situation report".
 - "Bespoke" means "custom made".
 - "Inner-platform effect" refers to software becoming so flexible that its structure becomes its parent programming language/platform.

@@ -45,6 +45,7 @@
 - Progressive Web Apps must be served over HTTPS.
 - `<input type="email">` allows empty strings because that's just how it is without `required="required"`.
 - One advantage of [HAML](https://en.wikipedia.org/wiki/Haml) over HTML is the lack of closing tags. The disadvantage that came with that: long lines, because indentations are now used for nesting.
+- An HTML element is everything between (and including) the start/end tags.
 
 ## [Writing jank-free webpages](http://aerotwist.com/blog/pixels-are-expensive/)
 

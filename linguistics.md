@@ -2,6 +2,9 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- *Oligo-* means a few, not monarchs. [Oligarchy](https://en.wikipedia.org/wiki/Oligarchy) is where a few people control the country. Monarchy (Mono-archy) is where one person controls the country. [Diarchy](https://en.wikipedia.org/wiki/Diarchy) is also a thing, e.g. where [Andorra is ruled](https://en.wikipedia.org/wiki/List_of_Co-Princes_of_Andorra) by the co-princes appointed by the French president and the Catholic pope.
+- Originating from the [Nahuatl](https://en.wikipedia.org/wiki/Nahuatl) (read: Aztec) language, the word [*Axolotl*](https://en.wikipedia.org/wiki/Axolotl) is supposed to be pronounced [*a-SHO-lok*](https://www.youtube.com/watch?v=Ka0Fj6P3T-w), where the k is actually a t, followed by a click sound.
+- In the British pronunciation, the last "i" in "auxiliary" is not pronounced. In the American version, it is.
 - *Un arbre et une fleur* is an example of how irregular the French language is, despite having a giant academy to back it up.
 - The French academy does not endorse [loanwords](https://en.wikipedia.org/wiki/List_of_French_words_of_English_origin) like *Le weekend*, *La punch line*, and *Le chewing gum*.
 - If "femme" is a woman in French, and French grammar is to be believed, then a "fem" is probably a male woman.

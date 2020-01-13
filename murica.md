@@ -1,3 +1,4 @@
+- The number of paid vacation days required by law is 0.
 - The [Cuyahoga River](https://en.wikipedia.org/wiki/Cuyahoga_River) of Cleveland Ohio was known to be so polluted that "the water" caught fire.
 - [The president of the senate is always the vice president of the US](https://en.wikipedia.org/wiki/President_of_the_Senate#United_States). Each term of the senate is 6 years instead of 4.
 - George W Bush does not have a son, but he does have two daughters.

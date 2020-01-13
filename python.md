@@ -578,3 +578,4 @@ bar
 - In the strictest sense, [python came from the Netherlands](https://en.wikipedia.org/wiki/Non-English-based_programming_languages), even though the name is from an English show and GVR worked for Dropbox.
 - The `Type[Foo]` syntax is really implemented with `__getitem__`. See `GenericMeta.__getitem__`.
 - A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
+- Variable names cannot start with `$`.

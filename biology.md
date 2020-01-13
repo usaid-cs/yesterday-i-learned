@@ -1,3 +1,9 @@
+- Human breast milk contains sugars called [Human milk oligosaccharide](https://en.wikipedia.org/wiki/Human_milk_oligosaccharide) that are designed specifically to be digested by the baby's intestinal microbes rather than the baby. It is the milk's third most abundant solid component, after lactose and fat. "Recent studies also suggest that HMOs significantly lower the risk of viral and bacterial infections and thus diminish the chance to get diarrhoea and respiratory diseases."
+- Juicing removes the pulp, where the nutrition mostly is.
+- The center of the retina gets a special name: macula.
+- Charcoal toothpaste *was* used as a cleaning product, but [it is an abrasive](https://www.youtube.com/watch?v=uS2OcVH2yuI) that will not whiten teeth, but scrub away enamel, definitely something you don't want to do.
+- *Every breast implant will rupture at some point and need to be replaced*. Implants are [linked](https://www.youtube.com/watch?v=DL3AoEVGxvE) to all sorts of problems, no matter how odd it may be: hair loss, acid reflux from *H. pylori* infection, skin rashes...
+- The brussels sprouts plant grow buds in stalks.
 - You can have mad cow disease and not know it. Then one day you shrivel up in a month or two and die.
 - Wild salmon has more muscle, [omega-3 fatty acids](https://recipes.howstuffworks.com/pacific-or-atlantic-salmon3.htm), minerals, and less fat and [contaminants](https://medium.com/@robinbarefield76/how-does-an-atlantic-salmon-differ-from-a-pacific-salmon-e042bb2eac02) than farmed.
 - Ophthalmology is pronounced of-tha-麼-logy.

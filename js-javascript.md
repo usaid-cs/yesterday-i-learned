@@ -305,3 +305,4 @@ undefined
 
 - The correct usage is `webpack your/index.js dist/bundle.js`. Just make sure you have one of those and you're good to go. Alternatively, make yourself a `webpack.config.js`, and run `webpack (--config webpack.config.js)` again. Also fine.
 - "wdm" stands for [webpack dev middleware](https://github.com/webpack/webpack-dev-middleware).
+- Tools like webpack and babel exist to solve browser compatibility problems that jQuery used to, says the people [here](https://news.ycombinator.com/item?id=21989967); they say "people ... should really stop complaining about 'complexity' in the web space ...".

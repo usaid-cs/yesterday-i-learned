@@ -1,5 +1,9 @@
 🇨🇦
 
+- Antibiotics use on shrimp is banned in Canada... for shrimp raised in Canada. Nothing about what's from elsewhere.
+- The [Stop the New Sex-Ed Agenda](https://en.wikipedia.org/wiki/Stop_the_New_Sex-Ed_Agenda) party won 0 seats in the 2018 Ontario election.
+- You need to be in [reasonable fear for your safety](https://stepstojustice.ca/steps/family-law/get-restraining-order) to get a restraining order against someone else.
+- Housing bubbles pop if [people cannot afford housing](https://www.investopedia.com/articles/07/housing_bubble.asp), which can be caused by an economic downturn, a rise of interest rates resulting from an economic boom, or if no one wants houses anymore. If [the first is directly linked to the second](https://www.reddit.com/r/canada/comments/eilc1j/canada_back_in_worlds_top_10_economies_with_room/fcs2291/), i.e. the economy is driven by low interest rates, there is no way out for this bubble.
 - Goodlife's ["pensioner deal"](https://www.ttc.ca/Coupler/Classified_Ads/GoodLife_offer/GoodLife_offer.jsp) is basically no deal.
 - You need to earn [$26,500 / 0.18 = $147,000 ish](https://www.wealthsimple.com/en-ca/learn/rrsp-contribution-deduction-limit#rrsp_deduction_limit_vs_contribution_limit) for the RRSP to max out.
 - Stephen said [marijuana is "infinitely worse" than tobacco](https://youtu.be/mN-zOnEUh28?t=40).

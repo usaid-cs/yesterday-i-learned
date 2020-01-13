@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- ["Background restriction"](https://developer.android.com/about/versions/oreo/background#overview) is only an energy limit. [Apps can still run in the background for however long they want](https://www.reddit.com/r/GooglePixel/comments/enjdd6/how_are_apps_still_running_in_the_background_on/).
+- Cheap devices can come with [a Settings app that doubles as malware](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/), rendering the device unusable if removed.
 - Unless with a really old GPU, [reducing the resolution from 1440p to 1080p has no real-world power difference](https://www.reddit.com/r/Android/comments/eh7que/1440p_vs_1080p_battery_test/) if the GPU was shipped to do 1440p.
 - [Snapdragon 865 is like 30% better than 855](https://www.anandtech.com/show/15207/the-snapdragon-865-performance-preview-setting-the-stage-for-flagship-android-2020).
 - Full-disk encryption is [at most a deterrent](https://arstechnica.com/information-technology/2016/07/androids-full-disk-encryption-just-got-much-weaker-heres-why/) if your bootloader is unlocked, which allows attacker to get your key right off the filesystem. To make it more useful, set a stronger password.
