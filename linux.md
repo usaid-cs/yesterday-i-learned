@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- You know it isn't going to be the year of the Linux desktop when your best office suite is *Google Docs* (/sheets/slides/whatever).
 - The typical compression ratio for zram is somewhere between [3:1](https://wiki.gentoo.org/wiki/Zram) to [2:1](https://www.kernel.org/doc/Documentation/blockdev/zram.txt), i.e. 1GB of memory takes up 333MB to 500MB of real RAM.
 - The [NX (no execute) bit](https://en.wikipedia.org/wiki/NX_bit) marks areas of _memory_ as non-executable, and the CPU will then refuse to execute memory there as code. For [reasons](https://stackoverflow.com/questions/2168555/how-does-the-nx-flag-work), both data and code are loaded in roughly the same place when you run a program.
 - ["ext4 has much better inode access/index times than f2fs so clearly better for read only"](https://forum.xda-developers.com/axon-7/themes/guide-ext4-to-f2fs-migration-t3529215) - Guy on the internet

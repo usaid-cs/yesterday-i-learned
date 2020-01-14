@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- [Don't listen to your service advisor](https://www.youtube.com/watch?v=jBpMe36GoW0) because: "when you are a service advisor, you are a salesperson. This is how you make your living, you have to upsell them."
 - E-85 fuel is **85% ETHANOL**, not 85% gasoline or 85 octane.
 - High-octane fuel is [the same in every way as low-octane fuel](https://www.youtube.com/watch?v=Bb5VfiFy0kY) except the resistance to knocking. Same energy content. Same fuel economy. Same purity. Occasionally different additives.
 - There isn't an issue with traditional metal wipers "not hugging the windscreen" per se (it is only a problem during icy winters), but [water passes through in between the wiper element and the frame, which means the water goes right back onto the windscreen](https://www.youtube.com/watch?v=-jQs3OI6Gvo).

@@ -1,5 +1,9 @@
 🇨🇦
 
+- Push-daggers are illegal. [Having a knife on you for self-protection is also illegal](https://www.canucksurvival.com/canadian-knife-laws-what-you-can-and-cant-carry/).
+- "Best before" dates are [dates beyond which the manufacturer does not guarantee *the quality of the product*](https://www.youtube.com/watch?v=ZxCT_D6HBd8). You don't need to throw food away after the date.
+- Red Sun produce [looks nice](https://www.youtube.com/watch?v=YYwB63YslbA). Grown in Ontario greenhouses! Other food comes from [Ontario Food Terminal](https://en.wikipedia.org/wiki/Ontario_Food_Terminal). Fake farmers buy produce from there. Want to buy farm food? **Go to the farm**.
+- National Building Code require condos to have a minimum sound [transmission class (STC)](https://en.wikipedia.org/wiki/Sound_transmission_class) of [52](https://ccitoronto.org/condovoice/31), while the Canadian Mortgage and Housing Corporation (CMHC) require an FSTC of 55. An STC of 50 is "Loud sounds faintly heard", while 60 or higher is good soundproofing, where sounds generally do not disturb neighbours. Impact noise like chairs moving are not regulated by the NBC. [Do not soundproof your own unit](https://www.reddit.com/r/PersonalFinanceCanada/comments/eo4xc9/canadian_condo_owners_advice_needed_anyone_bought/fe8ui7v/) unless you know where the noise is coming from.
 - Antibiotics use on shrimp is banned in Canada... for shrimp raised in Canada. Nothing about what's from elsewhere.
 - The [Stop the New Sex-Ed Agenda](https://en.wikipedia.org/wiki/Stop_the_New_Sex-Ed_Agenda) party won 0 seats in the 2018 Ontario election.
 - You need to be in [reasonable fear for your safety](https://stepstojustice.ca/steps/family-law/get-restraining-order) to get a restraining order against someone else.

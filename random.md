@@ -1,6 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
-- "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" - [Brian Kernighan](http://www.linusakesson.net/programming/kernighans-lever/)
+- Banking software is so clunky to use because the software and industry both have traditionally been built around, and for use by, branches.
+- [Don't put your Save button right next to your Discard button](https://www.nngroup.com/articles/top-10-application-design-mistakes/). This should be common sense.
+- 4 litres of milk give you just slightly more protein than 500g of steak.
+- Normal farmers don't sell produce that are the same size and shape. You can also ask if you can visit. If they are resellers, you can't visit.
+- At Facebook, you are required to write down the impact you and your peers have made over the past six months, every six months.
+- "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" - [Brian Kernighan](http://www.linusakesson.net/programming/kernighans-lever/). [How do you learn to write readable code? Like learning to write readable English, you have to read a lot.](http://typicalprogrammer.com/what-does-code-readability-mean)
 - It is popular to quit alcohol in January, called [Dry January](https://www.cbc.ca/news/canada/newfoundland-labrador/dry-january-ainsley-hawthorn-pov-1.5418761), and then relapse right after that.
 - A [屌絲](https://zh.wikipedia.org/wiki/%E5%B1%8C%E4%B8%9D), is, uh, somewhat similar to [撸瑟](https://zh.wikipedia.org/wiki/%E8%BC%B8%E5%AE%B6%E7%94%B7), pronounced lu4 se4, or just "loser".
 - Both Terraform and Vagrant are [Hashicorp](https://www.hashicorp.com/) products.

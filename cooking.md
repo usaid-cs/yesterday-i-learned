@@ -1,3 +1,5 @@
+- It is [okay](https://www.youtube.com/watch?v=ZxCT_D6HBd8) to cut away the mould from hard foods (like broccoli) and eat the rest, but not for soft foods like jams or pudding.
+- "Pounding out" your meat with a [meat tenderiser](https://en.wikipedia.org/wiki/Meat_tenderizer) is supposed to help.
 - Vacuum-sealed meat lasts forever.
 - Never brown ground beef with a stainless steel pan.
 - Use a knife to make a crack at the middle of a lobster claw, then twist the blade clockwise along the x-axis to pry open the shell and get the whole meat out. Extract meat from the other legs with a roller.

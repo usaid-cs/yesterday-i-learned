@@ -579,3 +579,4 @@ bar
 - The `Type[Foo]` syntax is really implemented with `__getitem__`. See `GenericMeta.__getitem__`.
 - A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
 - Variable names cannot start with `$`.
+- Keyword argument names must be strings. `bytestring` will work in python2, but `bytes` will not work in python3.
