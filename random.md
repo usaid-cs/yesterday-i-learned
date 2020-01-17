@@ -1,5 +1,14 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Tetrapaks](https://en.wikipedia.org/wiki/Tetra_Pak#/media/File:TBA_packaging_components.svg) are made with 4 layers of polyethylene (polyethene), one layer of aluminium, and paper.
+- The lastname *Steinmoeller* translates directly to "stone miller".
+- Pedants say GPS and cell towers use [tralateration](https://gisgeography.com/trilateration-triangulation-gps/) (you are measuring signal strength, which translates to *distances*), not triangulation, which measures angles.
+- Locksmiths get paid a strangely high amount per hour.
+- [Rice milk](https://en.wikipedia.org/wiki/Milk) has a [water footprint](https://en.wikipedia.org/wiki/Water_footprint) 28x that of soy milk.
+- Evaporated milk has 60% of its water removed. Since milk is 88% water, evaporated milk is essentially half the weight of normal milk.
+- Instead of throwing an appliance away, which the Zeitgeist seems to be perfectly happy with, you are supposed to fix it.
+- On writing zeroes to your SSD (instead of `TRIM`) to gain performance: ["although performance may have been regained ... The default state of an empty page is all ones, not zeroes, and how could a piece of software possibly erase NAND flash?. The real reason was that ... the invalid pages were then candidates for garbage collection, which gave a much greater pool of blocks to call upon on writes, and hence a better performance. A sort of RETRIM before that was invented."](http://kcall.co.uk/ssd/index.html) People [claim](https://news.ycombinator.com/item?id=22055330) this practice does not work, even if the disk is encrypted.
+- Many commercial locks have interchangeable cores, for obvious reasons: changing tenants.
 - Banking software is so clunky to use because the software and industry both have traditionally been built around, and for use by, branches.
 - [Don't put your Save button right next to your Discard button](https://www.nngroup.com/articles/top-10-application-design-mistakes/). This should be common sense.
 - 4 litres of milk give you just slightly more protein than 500g of steak.

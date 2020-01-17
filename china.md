@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Poor people up in northern China just [fry up potato, green pepper and eggplant](https://baike.baidu.com/item/%E5%9C%B0%E4%B8%89%E9%B2%9C/32207) and call it a meal. When they feel like being special, they add *red* peppers.
 - The [18-digit Chinese ID card number](https://www.youtube.com/watch?v=zsCuJapNoZM) contains information as follows: (1 ~ 6) location, (7 ~ 10) year, (11 ~ 12) month, (13 ~ 14) day, (15 ~ 17) auto-increment number, because more than one person is born at a location every day (plus even/odd, where even is female and odd is male). The last(18) digit is the check digit, which can be `[0-9X]`.
 - A Chinese guinea pig is called a "Dutch pig".
 - At least part of why the Chinese are so competitive is the saying 成者為王，敗者為寇 ("the winner becomes king, the loser becomes outlaw"), in line with the [mandate of heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven), that you must win to possess power.

@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- To put [shortcuts in your Nova Launcher drawer](https://www.reddit.com/r/NovaLauncher/comments/bh685w/how_to_add_an_activity_shortcut_to_the_app_drawer/), make a new app folder with any app in it, drag the folder onto the desktop, put any shortcuts you want in it, and then remove the folder from the desktop (and you can remove the placeholder app inside). Now you have web apps that aren't really apps in the drawer!
+- [The Yalp store is abandonware.](https://news.ycombinator.com/item?id=19970236)
 - ["Background restriction"](https://developer.android.com/about/versions/oreo/background#overview) is only an energy limit. [Apps can still run in the background for however long they want](https://www.reddit.com/r/GooglePixel/comments/enjdd6/how_are_apps_still_running_in_the_background_on/).
 - Cheap devices can come with [a Settings app that doubles as malware](https://blog.malwarebytes.com/android/2020/01/united-states-government-funded-phones-come-pre-installed-with-unremovable-malware/), rendering the device unusable if removed.
 - Unless with a really old GPU, [reducing the resolution from 1440p to 1080p has no real-world power difference](https://www.reddit.com/r/Android/comments/eh7que/1440p_vs_1080p_battery_test/) if the GPU was shipped to do 1440p.

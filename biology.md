@@ -1,3 +1,10 @@
+- Coconut water is a good source of potassium, but [not a good source of anything else](https://time.com/3559621/coconut-water-nutrition/), and if you need to pay for it, the price is not worth the "mega-electrolyte" claim.
+- Core body temperature is a reliable indicator of metabolic rate, and [it's dropping](https://elifesciences.org/articles/49555) (not by much, just 0.03°C per decade).
+- It is rarely possible to do 60 pushups in 2 minutes.
+- Ethanol amplifies the effects of GABA, which makes neural cells less likely to fire, relaxing the body. Ethanol does not *become* GABA.
+- The [premise of the paleo diet](https://thepaleodiet.com/considering-paleo-why-its-the-best/) is not to be trusted. First, "that's what we used to eat" is not true. Pretty sure people in the past ate whatever they could find. "For another, it's fully possible that our original diet is in fact bad compared to more modernly-available options."
+- [Simeticone](https://en.wikipedia.org/wiki/Simeticone) helps you fart less by reducing foaming. It does not reduce gas.
+- Females can potentially---according to the [Trivers-Willard hypothesis](https://en.wikipedia.org/wiki/Trivers%E2%80%93Willard_hypothesis), anyway---unconsciously birth more males during good conditions, and more females in poor conditions. The observation is cross-species. See some discussion [here](https://news.ycombinator.com/item?id=22025717).
 - Human breast milk contains sugars called [Human milk oligosaccharide](https://en.wikipedia.org/wiki/Human_milk_oligosaccharide) that are designed specifically to be digested by the baby's intestinal microbes rather than the baby. It is the milk's third most abundant solid component, after lactose and fat. "Recent studies also suggest that HMOs significantly lower the risk of viral and bacterial infections and thus diminish the chance to get diarrhoea and respiratory diseases."
 - Juicing removes the pulp, where the nutrition mostly is.
 - The center of the retina gets a special name: macula.

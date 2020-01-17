@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Without looking at cause and effect, [there are far more shady people working blue collar jobs than white collar jobs](https://news.ycombinator.com/item?id=22042701). White collar jobs are "cushy" for a reason.
 - 1 of the [7 Habits of Highly Effective People](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary) is "Be Proactive", i.e. *you* are going to change something. No one is going to make that change *for you*.
 - Loving and respecting yourself is what reddit calls "take no shit but do no harm".
 - You are worse than you think: ["Half of my income is from training people in JS and Python. I have 50% of those missions that are requested to be "advanced" courses. The vast majority of the participants are not up to the task. They are paid professionals, but they consistently overestimate they level, skills and needs. They often are not very good, and of course, they don't know what they don't know."](https://news.ycombinator.com/item?id=21832825)

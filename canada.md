@@ -1,5 +1,6 @@
 🇨🇦
 
+- [Winnipeg has the highest parking fines in the country](https://www.youtube.com/watch?v=tB24lj71VPA). Legal traps. Signs that say you can park there, but you practically can't because of a fire hydrant or a "crosswalk" or something. **Cash grab**. Private parking tickets are bullshit and not legally enforceable.
 - Push-daggers are illegal. [Having a knife on you for self-protection is also illegal](https://www.canucksurvival.com/canadian-knife-laws-what-you-can-and-cant-carry/).
 - "Best before" dates are [dates beyond which the manufacturer does not guarantee *the quality of the product*](https://www.youtube.com/watch?v=ZxCT_D6HBd8). You don't need to throw food away after the date.
 - Red Sun produce [looks nice](https://www.youtube.com/watch?v=YYwB63YslbA). Grown in Ontario greenhouses! Other food comes from [Ontario Food Terminal](https://en.wikipedia.org/wiki/Ontario_Food_Terminal). Fake farmers buy produce from there. Want to buy farm food? **Go to the farm**.
