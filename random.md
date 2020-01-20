@@ -1,5 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- There is a job title called the [coin washer](https://www.sfgate.com/bayarea/article/Coin-washer-keeps-Westin-St-Francis-change-shiny-2518445.php). You wash coins. You make them shiny.
+- For some reason, Opera (bought by a Chinese company and went public shortly after that) decided that browsers don't make money, and they should focus their attention on [their predatory loan apps instead](https://www.androidpolice.com/2020/01/19/opera-predatory-loans/).
+- A [staff engineer](https://www.answers.com/Q/What_is_staff_engineer) is [more senior](https://huyenchip.com/2020/01/18/tech-workers-19k-compensation-details.html) (12 years) than senior engineer (9 years). A "senior staff engineer" also exists, but not sure how many years.
+- Julia can be a general purpose language, just not marketed as such (and library creators aren't eager to make it happen, either).
+- If you are tired of living however you want, quit something. According to an app called Quitzilla, you can quit smoking, drinking, taking drugs, porn, video games, TV, shopping, the internet, fast food, coffee, procrastination, swearing, lying, gambling, and *Your addiction*.
+- Cheddar blames [millennials not going out](https://www.youtube.com/watch?v=AVSjsYHX6eM) for the demise of ski resorts.
 - [Tetrapaks](https://en.wikipedia.org/wiki/Tetra_Pak#/media/File:TBA_packaging_components.svg) are made with 4 layers of polyethylene (polyethene), one layer of aluminium, and paper.
 - The lastname *Steinmoeller* translates directly to "stone miller".
 - Pedants say GPS and cell towers use [tralateration](https://gisgeography.com/trilateration-triangulation-gps/) (you are measuring signal strength, which translates to *distances*), not triangulation, which measures angles.

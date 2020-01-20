@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- ["Resilience" is considered the standard form of this noun, and many usage authorities consider "resiliency" a useless variant.](https://writingexplained.org/resilience-vs-resiliency-difference)
 - "Senility": how senile you are.
 - *Oligo-* means a few, not monarchs. [Oligarchy](https://en.wikipedia.org/wiki/Oligarchy) is where a few people control the country. Monarchy (Mono-archy) is where one person controls the country. [Diarchy](https://en.wikipedia.org/wiki/Diarchy) is also a thing, e.g. where [Andorra is ruled](https://en.wikipedia.org/wiki/List_of_Co-Princes_of_Andorra) by the co-princes appointed by the French president and the Catholic pope.
 - Originating from the [Nahuatl](https://en.wikipedia.org/wiki/Nahuatl) (read: Aztec) language, the word [*Axolotl*](https://en.wikipedia.org/wiki/Axolotl) is supposed to be pronounced [*a-SHO-lok*](https://www.youtube.com/watch?v=Ka0Fj6P3T-w), where the k is actually a t, followed by a click sound.

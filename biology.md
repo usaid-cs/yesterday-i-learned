@@ -1,3 +1,5 @@
+- 95% of LASIK patients report [dry eyes](https://en.wikipedia.org/wiki/LASIK), some of whom experience it permanently.
+- Some call [VMAT2](https://en.wikipedia.org/wiki/Vesicular_monoamine_transporter_2) the [God gene](https://en.wikipedia.org/wiki/God_gene) (because it makes you feel spiritual), but apart from some ill-conducted science that was never published in a journal, there is no proof that VMAT2 is one.
 - Coconut water is a good source of potassium, but [not a good source of anything else](https://time.com/3559621/coconut-water-nutrition/), and if you need to pay for it, the price is not worth the "mega-electrolyte" claim.
 - Core body temperature is a reliable indicator of metabolic rate, and [it's dropping](https://elifesciences.org/articles/49555) (not by much, just 0.03°C per decade).
 - It is rarely possible to do 60 pushups in 2 minutes.

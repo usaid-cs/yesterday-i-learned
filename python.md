@@ -580,3 +580,4 @@ bar
 - A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
 - Variable names cannot start with `$`.
 - Keyword argument names must be strings. `bytestring` will work in python2, but `bytes` will not work in python3.
+- The difference between `random.randint(a, b)` and `random.uniform(a, b)` is that the latter does not return `int` (it returns a `float` instead).
