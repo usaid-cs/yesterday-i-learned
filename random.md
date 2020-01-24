@@ -1,5 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Flash memory is... [apparently](https://www.youtube.com/watch?v=lQmI5A27Iv8) (video) supposed to run at 40 degrees Celsius, and at 20 degrees, its write endurance is halved, according to [JEDEC](https://en.wikipedia.org/wiki/JEDEC) Solid State Technology Association.
+- A "regime" is a systematic way of doing things imposed onto you. It can also be understood as authoritarianism.
+- Excluding lunch hours, [OECD](https://en.wikipedia.org/wiki/Working_time) finds the average worker on the planet working 1763 hours every year, which is about... 6.2 hours per day.
+- Those who value the longevity of their phones should [get a plastic screen protector](https://www.nytimes.com/2017/05/24/technology/personaltech/reality-check-what-does-and-doesnt-protect-your-smartphone.html). Everyone should get a case. Few should get extended warranty.
+- Flat Earth Society explains "other planets are round" by saying [the Earth is not a planet, we are the center of the universe, everything revolves around us](https://wiki.tfes.org/Flat_Earth_-_Frequently_Asked_Questions#What_evidence_do_you_have.3F), "but photos" with "we don't use photos as evidence", and "we literally went to space" with "it's a conspiracy that we went to space, and all the countries are lying to you simultaneously".
 - There is a job title called the [coin washer](https://www.sfgate.com/bayarea/article/Coin-washer-keeps-Westin-St-Francis-change-shiny-2518445.php). You wash coins. You make them shiny.
 - For some reason, Opera (bought by a Chinese company and went public shortly after that) decided that browsers don't make money, and they should focus their attention on [their predatory loan apps instead](https://www.androidpolice.com/2020/01/19/opera-predatory-loans/).
 - A [staff engineer](https://www.answers.com/Q/What_is_staff_engineer) is [more senior](https://huyenchip.com/2020/01/18/tech-workers-19k-compensation-details.html) (12 years) than senior engineer (9 years). A "senior staff engineer" also exists, but not sure how many years.
@@ -19,7 +24,7 @@
 - [Don't put your Save button right next to your Discard button](https://www.nngroup.com/articles/top-10-application-design-mistakes/). This should be common sense.
 - 4 litres of milk give you just slightly more protein than 500g of steak.
 - Normal farmers don't sell produce that are the same size and shape. You can also ask if you can visit. If they are resellers, you can't visit.
-- At Facebook, you are required to write down the impact you and your peers have made over the past six months, every six months.
+- At Facebook, you are required to write down the impact you and your peers have made over the past six months, every six months. At Amazon, you are required to criticise your coworkers to make sure they always have something to say at your performance review.
 - "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?" - [Brian Kernighan](http://www.linusakesson.net/programming/kernighans-lever/). [How do you learn to write readable code? Like learning to write readable English, you have to read a lot.](http://typicalprogrammer.com/what-does-code-readability-mean)
 - It is popular to quit alcohol in January, called [Dry January](https://www.cbc.ca/news/canada/newfoundland-labrador/dry-january-ainsley-hawthorn-pov-1.5418761), and then relapse right after that.
 - A [屌絲](https://zh.wikipedia.org/wiki/%E5%B1%8C%E4%B8%9D), is, uh, somewhat similar to [撸瑟](https://zh.wikipedia.org/wiki/%E8%BC%B8%E5%AE%B6%E7%94%B7), pronounced lu4 se4, or just "loser".
@@ -44,7 +49,7 @@
 - There is such a thing as [insurance marketplaces](https://www.thebalancesmb.com/what-is-lloyd-s-of-london-462564), where insurance buyers and sellers (along with brokers and other what-have-you positions) come together and trade underwritings. Lloyd's of London is one example.
 - _Crestfallenly_, although German-like, actually means "in the state of low spirit".
 - Mayo Clinic was named after [William Worrall Mayo](https://en.wikipedia.org/wiki/William_Worrall_Mayo), not [mayonnaise](https://www.youtube.com/watch?v=S_CMGVbM1ns) (Meg ruins the already-bad joke by repeating it).
-- Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144) (i.e. nuclear and renewable energy need to increase output by 10x to replace it).
+- Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144) (i.e. nuclear and renewable energy need to increase output by 10x to replace it), of which [coal makes up 38%](https://en.wikipedia.org/wiki/Electricity_generation), and, surprisingly, nuclear is *absolutely* declining by wattage.
 - The original Spanish title of the movie [El laberinto del fauno, lit. 'The Labyrinth of the Faun'](https://en.wikipedia.org/wiki/Pan%27s_Labyrinth) refers to the [fauns](https://en.wikipedia.org/wiki/Faun) (half human half goats) of Roman mythology, while the English, German and French titles refer to Greek faun-like deity [Pan](https://en.wikipedia.org/wiki/Pan_%28god%29), even though [the director](https://en.wikipedia.org/wiki/Guillermo_del_Toro) said the faun in there is not Pan.
 - "Drunk shrimp" aka 醉虾 is most often eaten raw.
 - Don't buy smart appliances. Even if the companies act in good faith, [which they don't](https://buildyoursmarthome.co/home-automation/the-privacy-of-data-how-secure-are-we-in-our-smart-homes/), [bugs can still happen](https://www.androidauthority.com/google-nest-hub-security-bug-1070840/), and all of a sudden, someone else is looking right into your house.

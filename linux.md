@@ -147,7 +147,7 @@
 - "A double dash (--) is used in bash built-in commands and many other commands to signify the end of command options, after which only positional parameters are accepted."
 - `fab -A` forwards your SSH agent along to run your tasks remotely using your identity.
 - `:x` is the same as `:wq`. `ZZ` is also the same as `:x`.
-- [nginx](http://nginx.org/en/docs/beginners_guide.html) is not a service. Instead, it is run with `nginx -s [stop|quit|reload]`. (`quit` is graceful, `stop` is not)
+- [nginx](http://nginx.org/en/docs/beginners_guide.html) is not a service. Instead, it is run with `nginx -s [stop|quit|reload]`. (`quit` is graceful, `stop` is not; `reload` is graceful; `restart` is not)
 - [`pushd` and `popd`](http://en.wikipedia.org/wiki/Pushd_and_popd) allows storing the current directory and restoring to that directory in a stack-based fashion.
 - Read your man pages! `cp -f` forces a copy by deleting any destination file(s) that may prevent the copy, and `cp -n` does the exact opposite -- if something already exists, don't copy it.
 - This comparison in bash is true if the script was sourced, not run: `"$0" = "$BASH_SOURCE"` (you can then use this to detect if someone ran your script correctly)
@@ -302,3 +302,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - [Real-time process priority level](https://askubuntu.com/a/1078563) is calculated as `-1 - (1 to 99)`, so it is at least as prioritised as normal processes, for which their priorities are calculated as `20 + (-20 to 19)` (lower is more prioritised).
 - You cannot pipe two streams to one program. The linux solution to this is [either `cat`ing to a single file and have your program read it, or use `mkfifo` to make a FIFO file that you redirect your output to](https://serverfault.com/a/171101/523754).
 - `env` dumps all the environment variables.
+- `crontab -l` (list) is basically catting crontab.

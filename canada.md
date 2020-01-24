@@ -1,5 +1,8 @@
 🇨🇦
 
+- [Old age security requires you to have been in Canada for 10 years or more.](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/plan-finances/senior-benefits.html) Guranteed Income Supplement (GIS) requires you to be receiving OAS in the first place.
+- Canada pension plan requires you to have worked and contributed to it at least once (and how much you get depends on how long you worked for).
+- China Mobile is [a company in Canada](https://www.cmlink.com/ca/en/) too??
 - A funeral can be [upsold](https://www.youtube.com/watch?v=xRNaqntsLPI) to *tens of thousands* per person. No law requires a body to be embalmed, and a casket is like $200, not $7000. The bottom line: do not go to a funeral home owned by Arbor.
 - [Winnipeg has the highest parking fines in the country](https://www.youtube.com/watch?v=tB24lj71VPA). Legal traps. Signs that say you can park there, but you practically can't because of a fire hydrant or a "crosswalk" or something. **Cash grab**. Private parking tickets are bullshit and not legally enforceable.
 - Push-daggers are illegal. [Having a knife on you for self-protection is also illegal](https://www.canucksurvival.com/canadian-knife-laws-what-you-can-and-cant-carry/).

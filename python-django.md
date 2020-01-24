@@ -42,6 +42,25 @@ Usually, both. `blank=True` makes Django allow None, while `null=True` makes the
 
 `null=True` is not required for `TEXT` or `CHAR` fields.
 
+### `ManyToManyField`
+
+Assigning a list to a many to many field will instantly update the table, *if* the object has an ID. `.save()` is not required. The ORM will automatically add/subtract whatever entries are in the intermediate database.
+
+```
+>>> a
+<Group: Group(...)>
+>>> a.users = [1,2,3]
+SELECT "user_user"."id" FROM "user_user" INNER JOIN "auth...
+SELECT "auth_group_users"."user_id" FROM "auth_group_users" ...
+INSERT INTO "auth_group_users" ("group_id", "user_id") VALUES ...
+>>> a.users = [1,2,3]
+SELECT "user_user"."id" FROM "user_user" INNER JOIN "auth...
+>>> a.users = [1,2]
+SELECT "user_user"."id" FROM "user_user" INNER JOIN "auth...
+SELECT "auth_group_users"."id", "auth_group_users"."group_id"...
+DELETE FROM "auth_group_users" WHERE "auth_group_users"."id" IN (...
+```
+
 ### `ArrayField`
 
 [You can't give an `ArrayField` a default of `[]`](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/fields/#arrayfield) because it is mutable, but you also cannot give an `ArrayField` a default of `lambda: []` because lambdas are not serializable.
@@ -241,6 +260,7 @@ Well don't make so many apps in the project. You did it to yourself, mate.
 - [`MIDDLEWARE_CLASSES` got deprecated in 1.10; it is `MIDDLEWARE` now](https://docs.djangoproject.com/en/1.11/ref/settings/#std:setting-MIDDLEWARE). The major difference is: `MIDDLEWARE_CLASSES` short-circuits to a 500 if a middleware throws an exception, while for `MIDDLEWARE`, all subsequent middlewares see a 500 response.
 - You `makemessages` only when you have a `locale` folder. If you don't have a locale folder, Django gives you junk, half-translated files everywhere.
 - Specifying [`list_select_related`](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_select_related) in a custom admin is required only if you access any `list_display`'s indirect foreign keys, e.g. `obj.foo.bar.baz`. All direct foreign keys in `list_display` will be selected unless you also override `list_display_related`.
+- Because of the unique way caches are looked up, (at least in Django 1.11), `Site.objects.get_current(request=...)` will incur one query if you run your local web server on `localhost:8000`, but your Site's domain is `localhost`. The site is still in the cache, mind you, Django just uses one query to look up `localhost:8000` first, when it could have looked up `localhost` from the cache as well, but didn't.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

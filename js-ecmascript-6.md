@@ -1,3 +1,8 @@
+## `for`
+
+- [`for a in b`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) loops over indexes in an array, or keys in an object. Anyway Mozilla says [there's no point in using `for...in` apart from debugging purposes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#Why_Use_for...in); use `[].forEach` or `for...of` instead.
+- [`for a of b`](https://alligator.io/js/for-of-for-in-loops/) loops over values in an array, or throws an error if you use it on an object (because it is "not iterable", it says. But didn't you just iterate through one using `for..in`?).
+
 ## [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) and `const`
 
 - `let` declarations are not hoisted.

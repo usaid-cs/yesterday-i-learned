@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Ozone (for air puritification) is harmful, but not if you turn it on for only a few minutes a day. Hotels use "ozone cannons" to remove odours before a room is rented out.
 - Maltodextrin is a type of [dextrin](https://en.wikipedia.org/wiki/Dextrin), chains of 10 to 20 sugars. Longer chains of that can be called "starch" or "glycogen" depending on how they are chained. Heating starch up makes dextrin.
 - Cooling down starchy foods (rice, pasta, potatoes) prdouces [resistant starch](https://www.gisymbol.com/sugars-and-starches/), the kind that is not digested in the small intestine, and is good for the gut and supposedly reduces the risk of bowel cancer.
 - An atom in rows 1 to 3 can have at most [8 valence electrons](https://en.wikipedia.org/wiki/Valence_electron). Once you get to row 4 (where *d* electrons start to appear), the number is raised to 12.

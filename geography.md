@@ -1,3 +1,4 @@
+- Every part of Chile's lat/lng is negative for both components.
 - [Levant](https://en.wikipedia.org/wiki/Levant) (le-VANT) is a place, where Israel and Syria are today, roughly.
 - Antarctica can be a desert because there can be [places where rain falls every two million years](https://en.wikipedia.org/wiki/McMurdo_Dry_Valleys), like the McMurdo Dry Valleys.
 - A [billabong](https://en.wikipedia.org/wiki/Billabong) is an Australian oxbow lake.
@@ -15,7 +16,7 @@
 - An archipelago is just a group of islands.
 - Pittsburgh is quite close to (40,-80).
 - Spain almost touches Morocco.
-- Oymyakon is the coldest place on Earth.
+- Oymyakon is the coldest place on Earth... children are allowed to go to school if it's -55 degrees C or higher.
 - Portishead was named after [Portishead the town](https://en.wikipedia.org/wiki/Portishead,_Somerset), which sounds like por-tis-HED.
 - There is a town called [Charfield](https://en.wikipedia.org/wiki/Charfield).
 - There currently exists two *the Congo*s: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo), with a "the" in the name, and [Republic of the Congo](https://en.wikipedia.org/wiki/Republic_of_the_Congo), also with a "the" in the name.

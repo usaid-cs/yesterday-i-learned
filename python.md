@@ -56,7 +56,7 @@ for k, v in six.iteritems(d):
     print k, v
 ```
 
-- `dict`s have a `setdefault` method: avoids `KeyError`s.
+- `dict`s have a `setdefault` method: avoids `KeyError`s. The method is equivalent to `dic.get(k, default)`, except it will also set the default value given if `dic[k]` is missing.
 - Instead of updating dictionaries with another dictionary, there is a `ChainMap` in Python 3 that handles the common "defaults" use case.
 - [Use full kwargs everywhere, except in loops](http://youtu.be/OSGv2VnC0go?t=31m39s)
 - `NamedTuple` is a subclass of `Tuple` that lets you express what the tuple values actually are.
@@ -66,7 +66,7 @@ for k, v in six.iteritems(d):
 - Generator expressions, e.g. `sum(i for i in list)` is faster than `sum([i for i in list])`.
 - Django or nosetests runs any `TestCase` subclass in files with their names beginning with `test` when you run `manage.py test`.
 - `django.http` contains http error classes that handle the nitty gritty (e.g. allowed methods in 405)
-- [You cannot make a `dict`, `json.loads`, `json.dumps`, or otherwise, with integer keys in python](http://stackoverflow.com/questions/1450957/pythons-json-module-converts-int-dictionary-keys-to-strings).
+- [`json.dumps` will never serialise integer keys to integer](http://stackoverflow.com/questions/1450957/pythons-json-module-converts-int-dictionary-keys-to-strings). If you have `{1:1}`, it gets converted to `'{"1": 1}'`. Integers are valid `dict` keys though.
 - If you are a jackass, you [can](http://stackoverflow.com/a/481755/1558430) write recursive lambdas.
 - Decorators can return functions that are already wrapped with decorators, by virtue that decorators can be wrapped in anything.
 - [Every module is imported only once](scripts/import_test_c.py), but every `import` call will invoke a check to make sure the module is imported.
@@ -581,3 +581,6 @@ bar
 - Variable names cannot start with `$`.
 - Keyword argument names must be strings. `bytestring` will work in python2, but `bytes` will not work in python3.
 - The difference between `random.randint(a, b)` and `random.uniform(a, b)` is that the latter does not return `int` (it returns a `float` instead).
+- You can trigger `func() got multiple values for argument 'arg'` by first giving your positional arguments a value, and then repeating the same arguments as keywords. For example: `(lambda x, **kwargs: None)(5, x=5)`.
+- `assertNumQueries(n)` expects the number of queries you make inside that block to be *exactly* that, not fewer.
+- `cumtime` is cumulative time.
