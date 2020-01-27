@@ -303,3 +303,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - You cannot pipe two streams to one program. The linux solution to this is [either `cat`ing to a single file and have your program read it, or use `mkfifo` to make a FIFO file that you redirect your output to](https://serverfault.com/a/171101/523754).
 - `env` dumps all the environment variables.
 - `crontab -l` (list) is basically catting crontab.
+- In `gawk -F: '{ print $1 }' /etc/passwd`, the `-F:` really means `-F ':'`. That is how POSIX wanted you to provide options. Also that command means "print the first column in `/etc/password` if every line were split with `:`".

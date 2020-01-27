@@ -124,3 +124,4 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 - `gem` is really nice, because `gem fetch abc` downloads the package, and `gem install abc.gem` (with the `.gem`) installs it.
 - Arrays are pretty much operable as sets if you do it. `[1,2,3,4,5] | [2,4,6]` indeed gives you `[1,2,3,4,5,6]`, and `[1,2,3,4,5] - [2,4,6]` indeed gives you `[1,3,5]`.
 - Ruby 2.6 introduces [endless ranges](https://anamaria.martinezgomez.name/2018/12/21/ruby2_6.html) like `(1..)` that goes to Infinity, sort of useful for things you would otherwise do with a while loop but don't like that.
+- [`0` is truthy](https://nkanaev.github.io/posts/polyglot/) because it's just a number. `""` is truthy because it's just a string. [Literally everything is truthy](https://riptutorial.com/ruby/example/2092/truthy-and-falsy-values) other than `nil` and `false`. Might as bloody well make `false` truthy because it's just a boolean.

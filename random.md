@@ -1,5 +1,8 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- *Cum laude* only means "with praise", which you can get by being slightly above average (top 30%). You want people who claim to have received *magna cum laude* ("with great praise", top 10~15% of the class), or *summa cum laude* ("with highest praise", top 1~5% of the class).
+- The M in `itms://` stands for Music.
+- Every version of Chrome claims to be Mozilla, Apple, KHTML, Gecko, Chrome, and Safari simultaneously.
 - Flash memory is... [apparently](https://www.youtube.com/watch?v=lQmI5A27Iv8) (video) supposed to run at 40 degrees Celsius, and at 20 degrees, its write endurance is halved, according to [JEDEC](https://en.wikipedia.org/wiki/JEDEC) Solid State Technology Association.
 - A "regime" is a systematic way of doing things imposed onto you. It can also be understood as authoritarianism.
 - Excluding lunch hours, [OECD](https://en.wikipedia.org/wiki/Working_time) finds the average worker on the planet working 1763 hours every year, which is about... 6.2 hours per day.
