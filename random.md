@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- While [Ricola](https://en.wikipedia.org/wiki/Ricola) (The name _Richterich & Compagnie Laufen_ never took off) adds a lot of Swiss herbs into their candies, it is only the menthol in them that is the active ingredient.
 - *Cum laude* only means "with praise", which you can get by being slightly above average (top 30%). You want people who claim to have received *magna cum laude* ("with great praise", top 10~15% of the class), or *summa cum laude* ("with highest praise", top 1~5% of the class).
 - The M in `itms://` stands for Music.
 - Every version of Chrome claims to be Mozilla, Apple, KHTML, Gecko, Chrome, and Safari simultaneously.

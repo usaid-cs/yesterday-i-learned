@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Being a parent is stressful. No sleep. No downtime. No days off. [Sometimes parents get excited about shitting so they can scroll through their newsfeed. Sometimes they pretend to shit so they can scroll through their newsfeed.](https://www.huffpost.com/entry/this-is-why-parents-are-more-exhausted-than-you-think-they-should-be_b_9422780) "Why? Why? Why? Why?" ["Mama. Mama. Mama. Mama."](https://www.youtube.com/watch?v=aOLxQGLJouI) Work. Chores. All the other things going on in their own lives.
 - Without looking at cause and effect, [there are far more shady people working blue collar jobs than white collar jobs](https://news.ycombinator.com/item?id=22042701). White collar jobs are "cushy" for a reason.
 - 1 of the [7 Habits of Highly Effective People](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary) is "Be Proactive", i.e. *you* are going to change something. No one is going to make that change *for you*.
 - Loving and respecting yourself is what reddit calls "take no shit but do no harm".

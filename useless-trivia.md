@@ -1,3 +1,4 @@
+- "Anything (within reason) is possible." - @1337, genius
 - The minimum rating of the Silicon Valley show is [7.5/10](https://www.imdb.com/search/title/?series=tt2575988&sort=user_rating,desc&count=250&view=advanced).
 - The same [woman](https://en.wikipedia.org/wiki/Gwyneth_Paltrow) who starred as Pepper in Iron Man also told you to shove [jade eggs](https://www.healthline.com/health/jade-egg) up your vagene.
 - Bear Grylls is a Londoner, not Australian?
