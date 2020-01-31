@@ -1,6 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
-- The earliest use of ["小姐"](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%A7%90) was in the Song dynasty, referring to prostitutes, "bartenders" (a woman who drinks with you), or exotic dancers. That became "damsel" in the Yuan dynasty. "小姐" may still be used to contextually refer to prostitutes, so you may be forced to use ["女士"](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BA%BA) (educated woman) or ["姑娘"](https://zh.wikipedia.org/wiki/%E5%A7%91%E5%A8%98) (young woman, servant, or a prostitute in a brothel who has yet to receive a customer) instead.
+- [Some "China Highlights" website](https://www.chinahighlights.com/travelguide/chinese-food/spring-rolls.htm) claims that spring rolls were not rolled up (as "春盘", i.e. served as vegetables on dough) until some time in the Ming dynasty (1368 to 1644).
 - Poor people up in northern China just [fry up potato, green pepper and eggplant](https://baike.baidu.com/item/%E5%9C%B0%E4%B8%89%E9%B2%9C/32207) and call it a meal. When they feel like being special, they add *red* peppers.
 - The [18-digit Chinese ID card number](https://www.youtube.com/watch?v=zsCuJapNoZM) contains information as follows: (1 ~ 6) location, (7 ~ 10) year, (11 ~ 12) month, (13 ~ 14) day, (15 ~ 17) auto-increment number, because more than one person is born at a location every day (plus even/odd, where even is female and odd is male). The last(18) digit is the check digit, which can be `[0-9X]`.
 - A Chinese guinea pig is called a "Dutch pig".

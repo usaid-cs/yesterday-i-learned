@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- The earliest use of ["小姐"](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%A7%90) was in the Song dynasty, referring to prostitutes, "bartenders" (a woman who drinks with you), or exotic dancers. That became "damsel" in the Yuan dynasty. "小姐" may still be used to contextually refer to prostitutes, so you may be forced to use ["女士"](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BA%BA) (educated woman) or ["姑娘"](https://zh.wikipedia.org/wiki/%E5%A7%91%E5%A8%98) (young woman, servant, or a prostitute in a brothel who has yet to receive a customer) instead. There is also "夫人" for when you want to refer to a woman as someone's wife.
+- ["先生"](https://baike.baidu.com/item/%E5%85%88%E7%94%9F/4066) didn't explicitly refer to men either. Like today, it was used to address people born before you, but unlike today, these people may also be female. In the Qing dynasty, "先生" was used in a book called "文明小史" to refer to, again, prostitutes.
 - ["Resilience" is considered the standard form of this noun, and many usage authorities consider "resiliency" a useless variant.](https://writingexplained.org/resilience-vs-resiliency-difference)
 - "Senility": how senile you are.
 - *Oligo-* means a few, not monarchs. [Oligarchy](https://en.wikipedia.org/wiki/Oligarchy) is where a few people control the country. Monarchy (Mono-archy) is where one person controls the country. [Diarchy](https://en.wikipedia.org/wiki/Diarchy) is also a thing, e.g. where [Andorra is ruled](https://en.wikipedia.org/wiki/List_of_Co-Princes_of_Andorra) by the co-princes appointed by the French president and the Catholic pope.

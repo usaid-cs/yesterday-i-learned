@@ -1,6 +1,6 @@
 # C
 
-- C is statically and weakly typed. In the compromise between productivity and verbosity, this is the worst possible combination.
+- C is statically and yet weakly typed. In the compromise between productivity and verbosity, this is the worst possible combination.
 - The variable convention seems to be `underscored_things`.
 - _Pointers_ (e.g. `int* something`) are something you declare. It _points_ to something of the declared type. It should only be assigned addresses (`&something`).
 - "Accessing" what a pointer is pointing to uses something like Python's unpacking syntax: if `int* foo` points to something that's `14`, `*foo` gives you `14`.
@@ -31,7 +31,7 @@
 - `$()` in Makefile is [more portable](http://stackoverflow.com/questions/2214575/passing-arguments-to-make-run#comment2167270_2214593) than `${}`.
 - Valgrind the debugger does various checks after compilation. It needs the `-g` flag for CC above to be set.
 - `//` commenting must not be used.
-- `printf` and co. expect `%f` to actually be `double`, not `float`.
+- `printf` and co. (from `<stdio.h>`) expect `%f` to actually be `double`, not `float`.
 - [`float` requires a trailing `f`](http://stackoverflow.com/a/5026592/1558430); `double` does not. This means all number literals with decimal points are doubles. However, it is possible, for some reason, to assign `float to_a_doule = 10.0`, or `double from_a_float = 10.0f`.
 - `long` requires a trailing capital `L`, and its formatting string is `%ld` ('long number').
 - `%e` (scientific notation) should only be used on `double`s.
@@ -56,3 +56,5 @@
 - [C pointers are not integers](http://nullprogram.com/blog/2016/05/30/); Any pointer type may be converted to an integer type, but the result depends on implementation. (If the pointer is a large negative number, for example, then the behaviour is undefined.)
 - [`foo->bar` is equivalent to `(*foo).bar`, i.e. it gets the member called `bar` from the struct that `foo` points to.](http://stackoverflow.com/a/2575050/1558430) It serves as syntactic sugar, to make code look nicer if all you have is a pointer.
 - It is possible to compile across multiple machines with [distcc](https://github.com/distcc/distcc) or [icecream](https://github.com/icecc/icecream).
+- The ["C runs the world"](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming) argument can be made if operating systems are made with C. And operating systems are written in C because either (a) C was the best language available when popular operating systems were written, or (b) there is no better [language to write operating systems in](https://en.wikipedia.org/wiki/System_programming_language), even now. With the introduction of Rust (2010) and Swift (2014), this may not be true anymore.
+- Return types default to `int`. To not do that, use `-Werror=implicit-int` because it changes `-Wimplicit-int` into an error.

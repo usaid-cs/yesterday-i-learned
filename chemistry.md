@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [Diamonds burn](https://www.youtube.com/watch?v=CqYDGqgKAc8), but only when subjected to high concentrations of oxygen.
 - Ozone (for air puritification) is harmful, but not if you turn it on for only a few minutes a day. Hotels use "ozone cannons" to remove odours before a room is rented out.
 - Maltodextrin is a type of [dextrin](https://en.wikipedia.org/wiki/Dextrin), chains of 10 to 20 sugars. Longer chains of that can be called "starch" or "glycogen" depending on how they are chained. Heating starch up makes dextrin.
 - Cooling down starchy foods (rice, pasta, potatoes) prdouces [resistant starch](https://www.gisymbol.com/sugars-and-starches/), the kind that is not digested in the small intestine, and is good for the gut and supposedly reduces the risk of bowel cancer.

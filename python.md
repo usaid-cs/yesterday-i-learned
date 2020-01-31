@@ -536,7 +536,7 @@ bar
 - Unless you have an old project that goes by some convention, [gevent is typically better than eventlet](https://blog.gevent.org/2010/02/27/why-gevent/) for reliability and ease of use.
 - If you use Django _just_ for the ORM, then [Peewee](http://docs.peewee-orm.com/en/latest/) might be a better choice. It does have [a migration extension](https://github.com/klen/peewee_migrate), but you will slowly realise you will need to write your own raw DDL anyway.
 - Notice `ayncio`'s name: [it's for waiting for IO](https://realpython.com/async-io-python/). It is not for you to write parallel code. It is not multiprocessing. It is not multithreading. It is how you write coroutines (`async def`). It is a way you (a)wait on stuff. _Use `asyncio` when you can. Use threading if you must._
-- `__len__` must return an int, even if you override it to return 1.5 or something.
+- `__len__` must return an int, even if you override it to return 1.5 or something. It must also return `>= 0`. But [you *can* subclass an `int`](scripts/le0.py), override *its* (`__lt__`, `__eq__`, etc), and return it instead. Then you return a sequence that can do whatever you want.
 - `int()` takes a base, i.e. `int('0b10000', 2)`.
 - You [cannot](scripts/py3.5-await-outside-async.py) await anything inside a non-async function.
 - "A lot of things are implicit in python. Like variable declarations. Referring to PEP20 isn't an argument, and blindly making everything explicit would be stupid." - [Rawing7](https://www.reddit.com/r/Python/comments/9u3kop/why_does_pythons_async_execution_model_so/e91fkwl/)
@@ -584,3 +584,4 @@ bar
 - You can trigger `func() got multiple values for argument 'arg'` by first giving your positional arguments a value, and then repeating the same arguments as keywords. For example: `(lambda x, **kwargs: None)(5, x=5)`.
 - `assertNumQueries(n)` expects the number of queries you make inside that block to be *exactly* that, not fewer.
 - `cumtime` is cumulative time.
+- The [ReStructuredText docstring format](http://www.sphinx-doc.org/en/1.6/domains.html) appears to require [colons on both sides of the keyword](http://queirozf.com/entries/python-docstrings-reference-examples#restructuredtext-rest), i.e. `:param foo: bar`, `:returns: foo`, and `:raises: Foo` are "more correct" than `:param foo bar`, `:returns foo`, and `:raises Foo`. Also, if you were to provide type information in the docstring instead of PEP 484, then the type comes first, i.e. `:param str sender:`, not `:param sender str:`.

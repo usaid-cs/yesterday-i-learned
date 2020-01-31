@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- People have historically been arrested for celebrating ["straight pride"](https://en.wikipedia.org/wiki/Straight_pride). "Hoisting the straight [pride] flag was likened to [putting up a swastika](https://www.cbc.ca/news/canada/new-brunswick/straight-pride-flag-1.4872572) by local Margaret Clark. The flag drew further protests." So there _are_ things that only minorities can do.
 - While [Ricola](https://en.wikipedia.org/wiki/Ricola) (The name _Richterich & Compagnie Laufen_ never took off) adds a lot of Swiss herbs into their candies, it is only the menthol in them that is the active ingredient.
 - *Cum laude* only means "with praise", which you can get by being slightly above average (top 30%). You want people who claim to have received *magna cum laude* ("with great praise", top 10~15% of the class), or *summa cum laude* ("with highest praise", top 1~5% of the class).
 - The M in `itms://` stands for Music.
@@ -2577,3 +2578,4 @@
 - The less memory there is, each address *should* be faster to access.
 - 诸葛亮 isn't actually known for fighting.
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
+- "Batt" insulation is precut fibreglass or rock wool insulation.

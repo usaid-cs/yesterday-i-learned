@@ -1,3 +1,4 @@
+- If you already declared your HTML file to be UTF-8 (with `<meta charset="UTF-8">`), you can [and should](https://github.com/hail2u/html-best-practices#dont-use-character-references-as-much-as-possible) write UTF-8 characters as UTF-8 rather than entities.
 - The `<iframe>` was introduced by Internet Explorer. ["It has been speculated that the tag name stands for ... [Scott] Isaacs Frame, although Scott has denied this."](https://schepp.dev/posts/today-the-trident-era-ends/) [Scott Isaacs](https://en.wikipedia.org/wiki/Scott_Isaacs) made Ajax. He works for Amazon now.
 - There is [a very small number of void tags](https://html.spec.whatwg.org/multipage/syntax.html#elements-2), and the ones you will actually use are: `br`, `hr`, `img`, `input`, `meta`.
 - The `<small>` HTML tag is reserved for defining "smallprint" or legal text.

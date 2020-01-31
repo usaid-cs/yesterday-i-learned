@@ -1,5 +1,6 @@
 🇨🇦
 
+- You can return a cell phone within 15 days of purchase because [CRTC said so](https://crtc.gc.ca/eng/phone/mobile/code.htm). You can technically also use half a month worth of data and return the plan that probably comes with the device. So... hypothetically you can root a device and then give it back if it fails. Best Buy says a restocking fee applies, but hey... [CRTC says Bell doesn't charge it](https://crtc.gc.ca/eng/archive/2015/lt150507b.htm).
 - [Old age security requires you to have been in Canada for 10 years or more.](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/plan-finances/senior-benefits.html) Guranteed Income Supplement (GIS) requires you to be receiving OAS in the first place.
 - Canada pension plan requires you to have worked and contributed to it at least once (and how much you get depends on how long you worked for).
 - China Mobile is [a company in Canada](https://www.cmlink.com/ca/en/) too??

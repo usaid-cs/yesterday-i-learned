@@ -304,3 +304,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - `env` dumps all the environment variables.
 - `crontab -l` (list) is basically catting crontab.
 - In `gawk -F: '{ print $1 }' /etc/passwd`, the `-F:` really means `-F ':'`. That is how POSIX wanted you to provide options. Also that command means "print the first column in `/etc/password` if every line were split with `:`".
+- [An email should not be a linux username](https://unix.stackexchange.com/questions/157426/what-is-the-regex-to-validate-linux-users). A good username matches `[a-z_][a-z0-9_-]*[$]`, and Debian supposedly also accepts `@` and `/` as long as the length is under 32, but it's not recommended [because even if `useradd` accepts these characters, many things might break](https://unix.stackexchange.com/a/157430).
