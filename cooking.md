@@ -1,3 +1,6 @@
+- (Tea) biscuits are [ideally made with soft wheat flour](https://getpocket.com/explore/item/why-most-of-america-is-terrible-at-making-biscuits) instead of your everyday hard wheat flour. Lower gluten content supposedly makes the biscuits trap less CO2 in the dough.
+- Both grapeseed oil and rapeseed oil are real cooking oils.
+- [Truffle oil](https://en.wikipedia.org/wiki/Truffle_oil) is made with synthetic compounds that offers "(a) one-dimensional flavor (that) is also changing common understanding of how a truffle should taste". Anthony Bourdain called it the "tomato ketchup of the middle class".
 - It is [okay](https://www.youtube.com/watch?v=ZxCT_D6HBd8) to cut away the mould from hard foods (like broccoli) and eat the rest, but not for soft foods like jams or pudding.
 - "Pounding out" your meat with a [meat tenderiser](https://en.wikipedia.org/wiki/Meat_tenderizer) is supposed to help.
 - Vacuum-sealed meat lasts forever.

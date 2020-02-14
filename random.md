@@ -1,5 +1,21 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Signal was created by [the same guy](https://en.wikipedia.org/wiki/Brian_Acton) who created WhatsApp. Brian sold WhatsApp, then started "#DeleteFacebook", in that order.
+- Home gym equipment can be a polarising purchase. [Many people say they either made full use of it, or made no use of it](https://www.reddit.com/r/PersonalFinanceCanada/comments/f3lpbh/what_was_a_product_or_service_you_bought_and_you/).
+- ["Quid pro quo"](https://www.usatoday.com/story/news/politics/2019/11/06/trump-impeachment-what-does-quid-pro-quo-mean/4170817002/) ("this for that" I think?) in a political context means 
+- A Vanguard aka advance guard is the front of a military formation. Anyway, [Hoan Ton-That](https://hoantonthat.com/) made this facial recognition AI/database that allows you to upload a picture and get information about the people inside it, and, prior to that, made two phishing sites.
+- "Tufting" is pinning the fabric on one side with the base, usually forming an array of dots. It was used to make warm mittens. It doesn't do anything on like [a cushion](https://society6.com/product/white-tufted_pillow) or on a couch.
+- A con of truly anonymous communication is that any communication you *receive* is not accountable. A "@realofficialbbcnewsaccount" can post anything on Twitter and have thousands of followers without losing their real-life job, where traditional journalists would definitely be disciplined or fired if they reported anything wrong.
+- A grifter uses confidence to engage in small-scale swindling (monetary fraud).
+- "Hotel" came first. "Motel" came after.
+- ISO 8601 can be used to denote durations, with a string starting with `P`. `P3Y6M4DT12H30M5S` is a period of 3 years, 6 months, ... where each component can be left out if it is 0. Note that there are *two* `M`s, which is fine, because there is a `T` in between day and time durations, so "a month" is `P1M`, and "a minute" is `PT1M`.
+- The ISO 8601 duration format allows you to specify more than 24 hours in the `H` component because "a day", i.e. `P1D`, is not the same as "24 hours", i.e. `PT24H`, during daylight savings.
+- [Stropping](https://en.wikipedia.org/wiki/Razor_strop) keeps blades sharp by maintaining an edge that is not too blunt already.
+- Stack Overflow uses jQuery 1.12.4. Using new technologies doesn't make your site better.
+- A "pandemonium" is an wild uproar or a chaotic situation. A pandamonium is a play on words appeparing in [TV shows](https://en.wikipedia.org/wiki/Pandamonium_%28TV_series%29), [card games](https://boardgames.stackexchange.com/questions/47902/in-unstable-unicorns-does-the-pandamonium-card-cancel-unicorn-card-effects), and [newspapers](https://www.washingtonpost.com/world/asia_pacific/fears-of-new-virus-trigger-anti-china-sentiment-worldwide/2020/02/01/99058e2c-4575-11ea-99c7-1dfd4241a2fe_story.html).
+- The worse-off a neighbourhood is, [the higher rent you can charge](https://getpocket.com/explore/item/how-poor-americans-get-exploited-by-their-landlords?utm_source=pocket-newtab) relative to the worth of the property.
+- You can ask a million monkeys a question about a complicated topic. They will still get the answer wrong. Similarly, voting works only if the public has the ability to decide what's good. See: Brexit, or Agile story point estimation.
+- Chicken balls are suspiciously useful for purposing chicken meat scraps of any shape and colour.
 - People have historically been arrested for celebrating ["straight pride"](https://en.wikipedia.org/wiki/Straight_pride). "Hoisting the straight [pride] flag was likened to [putting up a swastika](https://www.cbc.ca/news/canada/new-brunswick/straight-pride-flag-1.4872572) by local Margaret Clark. The flag drew further protests." So there _are_ things that only minorities can do.
 - While [Ricola](https://en.wikipedia.org/wiki/Ricola) (The name _Richterich & Compagnie Laufen_ never took off) adds a lot of Swiss herbs into their candies, it is only the menthol in them that is the active ingredient.
 - *Cum laude* only means "with praise", which you can get by being slightly above average (top 30%). You want people who claim to have received *magna cum laude* ("with great praise", top 10~15% of the class), or *summa cum laude* ("with highest praise", top 1~5% of the class).
@@ -481,6 +497,7 @@
 - When someone asks you "how much do we need to scale?", you need an answer based on two things you need to know: the number of additional users, and % extra load per user.
 - The g in [gRPC](https://en.wikipedia.org/wiki/GRPC) stands for gRPC, because that's how **g**oogle names things.
 - [ISO 8601 week dates](https://en.wikipedia.org/wiki/ISO_8601#Week_dates) are prefixed with a `W`, so `2018-W52` is the last week of the year. Note: these are ISO year and week numbers.
+- ISO 8601 dates can come without the day: `2019-01`. This works because the ordinal date (year plus day number) must be three-digit padded, e.g. `2019-001`, and week numbers must be prefixed with a `W`, e.g. `2019-W01`.
 - The Argentinian and Chilean governments sent pregnant women there to give birth in hopes that it'd would strengthen their claims to a piece of Antarctica.
 - If a person is born on February 29, countries arbitrarily assign the person's legal birthday to either February 28 or March 1, depending on the law of that country.
 - Hold salt in your palm to sprinkle.

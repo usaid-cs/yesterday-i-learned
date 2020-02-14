@@ -32,6 +32,7 @@
 - Run `sudo docker run -p 4000:80 (your container name)` to run it. You access the container's port 80 from your own port 4000.
 - Alternatively, with `-d`, `sudo docker run -p 4000:80 (your container name)` runs the container in detached mode.
 - [There is no difference between `docker ps` and `docker container ls`.](https://stackoverflow.com/a/45254760/1558430) Both list your containers.
+- [`VOLUME /foo`](https://docs.docker.com/storage/volumes/) creates some kind of mount at... some place's `/foo`. The container can access `/foo` and see files there. Then `/foo` is never deleted, and the same container can see the volume again when it restarts. Where is `/foo` actually? `/var/lib/docker/volumes/`. You can find them with `docker volume ls`.
 
 ## Docker compose
 

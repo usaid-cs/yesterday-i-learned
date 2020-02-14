@@ -65,6 +65,7 @@
 - [js-coffeescript.md](js-coffeescript.md)
 - [js-ecmascript-6.md](js-ecmascript-6.md)
 - [js-javascript.md](js-javascript.md)
+- [js-nodejs.md](js-nodejs.md)
 - [js-reactjs.md](js-reactjs.md)
 - [js-typescript.md](js-typescript.md)
 - [k8s.md](k8s.md)

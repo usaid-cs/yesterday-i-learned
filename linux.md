@@ -1,5 +1,7 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- `kill -9 -1` (in that order) kills every process you can kill.
+- A `fork()`ed process [will continue running at the same instruction that forked it](https://www.reddit.com/r/linux/comments/f1alcy/linus_torvalds_just_made_a_big_optimization_to/fh3dicv/) (according to reddit, anyway... I don't know enough) so calling `fork()` six times consecutively will yield 2^6 processes rather than 7.
 - You know it isn't going to be the year of the Linux desktop when your best office suite is *Google Docs* (/sheets/slides/whatever).
 - The typical compression ratio for zram is somewhere between [3:1](https://wiki.gentoo.org/wiki/Zram) to [2:1](https://www.kernel.org/doc/Documentation/blockdev/zram.txt), i.e. 1GB of memory takes up 333MB to 500MB of real RAM.
 - The [NX (no execute) bit](https://en.wikipedia.org/wiki/NX_bit) marks areas of _memory_ as non-executable, and the CPU will then refuse to execute memory there as code. For [reasons](https://stackoverflow.com/questions/2168555/how-does-the-nx-flag-work), both data and code are loaded in roughly the same place when you run a program.

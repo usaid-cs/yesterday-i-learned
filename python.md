@@ -585,3 +585,5 @@ bar
 - `assertNumQueries(n)` expects the number of queries you make inside that block to be *exactly* that, not fewer.
 - `cumtime` is cumulative time.
 - The [ReStructuredText docstring format](http://www.sphinx-doc.org/en/1.6/domains.html) appears to require [colons on both sides of the keyword](http://queirozf.com/entries/python-docstrings-reference-examples#restructuredtext-rest), i.e. `:param foo: bar`, `:returns: foo`, and `:raises: Foo` are "more correct" than `:param foo bar`, `:returns foo`, and `:raises Foo`. Also, if you were to provide type information in the docstring instead of PEP 484, then the type comes first, i.e. `:param str sender:`, not `:param sender str:`.
+- Datetimes cannot be falsy.
+- Metaclasses are classes whose instance methods accept `cls` instead of `self`. If you have a `class Foo(metaclass=Bar)`, then [`Bar`'s `__repr__(cls)` will run when you try to print `Foo`](scripts/ls.py), even if you never officially made a function call.

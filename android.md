@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Apps like cameras and game emulators may require certain types of chipset (notably, snapdragon).
 - In a [GC log line](https://blog.gceasy.io/2017/05/09/understanding-android-gc-logs/) e.g. `Background concurrent copying GC freed 47894(2MB) AllocSpace objects, 13(276KB) LOS objects, 41% free, 33MB/57MB, paused 439us total 308.276ms`, the most interesting part is the amount of time that the program was `paused` while GC took place, which translates to a perceived performance hit. In this case, the program didn't really pause.
 - The guy who created Magisk to give root to all the Android devices, [got a job at Apple](https://medium.com/@topjohnwu/state-of-magisk-2020-21de32721d65).
 - To put [shortcuts in your Nova Launcher drawer](https://www.reddit.com/r/NovaLauncher/comments/bh685w/how_to_add_an_activity_shortcut_to_the_app_drawer/), make a new app folder with any app in it, drag the folder onto the desktop, put any shortcuts you want in it, and then remove the folder from the desktop (and you can remove the placeholder app inside). Now you have web apps that aren't really apps in the drawer!

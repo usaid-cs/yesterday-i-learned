@@ -1,0 +1,108 @@
+## Node and NPM
+
+- When JSHint says `nonstandard` checks against non-standard globals ["such as `escape` and `unescape`"](https://jshint.com/docs/options/), they mean [only `escape` and `unescape`](https://2ality.com/2011/09/jshint.html).
+- The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
+- 'use strict' is unnecessary inside of modules. (ESLint)
+- There is no difference between `npm install` and `npm i`. It is there because JS people type `npm install` so much.
+- npm 5.2 gets [a new "npx" thing](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) that is meant to execute one-off things (like `npx create-react-app blablabla`), running something with another version of node (`npx -p node@6 something`), or execute something installed in the relative path (`npx bower`, _`npx which bower`_, `npx mocha`) without needing that PATH line.
+- "You need to use yarn in flat mode with `yarn install --flat`"
+- If some npm package keeps complaining about unmet peer dependencies, even though you installed the dependencies first, [it might just need to be installed together, at the same time](https://github.com/palantir/tslint/issues/2647#issuecomment-298005316), like `npm install -g typescript tslint`.
+- [HEIF](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) uses HEVC (patented) for encoding by default.
+- Both [nodejs/node](https://github.com/nodejs/node) and [ayojs/ayo](https://github.com/ayojs/ayo#core-team) have custom "pronouns" for every team member, and not ironically. A member called Alex Dytrych has pronouns ["she/they"](https://github.com/ayojs/ayo/blob/aa3d492236e8a9adb926a9ed8ebc05f00004f1f7/README.md), rather than "she/her", so people need to say "I tried looking for Alex; I could not find _they_ or _they_ hours", I'm guessing.
+- [According to Crockford, Netscape called it LiveScript, originally.](https://news.ycombinator.com/item?id=8344100) In their attempt to 'destroy Microsoft', they teamed up with Sun. One of Sun's original goals with Java was making it the client-side scripting language for the browser. However, Netscape had LiveScript. Apparently the negotiations almost broke down over this point. In an enlightened moment, (probably) Marc Andreessen proposed renaming LiveScript to JavaScript (despite the fact that the languages have very little in common), and joy was had. Sun got the JavaScript trademark (and passed it on to Oracle), and Netscape got a perpetual exclusive license to use it. When JavaScript was standardized to avoid Embrace, Extend, Extinguish, Netscape refused to share its license, and so the official language was renamed to ECMAScript, after the standards body. When Sun was bought by Oracle, it also got the trademark, and presumably, Mozilla inherited the exclusive license from Netscape.
+- [The article about NodeJS 8 release](https://nodejs.org/en/blog/release/v8.0.0/), saying _'Note that, when referring to Node.js release versions, we have dropped the "v" in Node.js 8. Previous versions were commonly referred to as v0.10, v0.12, v4, v6, etc. In order to avoid confusion with V8, the underlying JavaScript engine, we've dropped the "v" and call it Node.js 8'_, was titled _'Node v8.0.0 (Current)'_.
+- You can't send code to the server by POST and have the browser run the same code. (Refused to execute a JavaScript script. Source code of script found within request.)
+- The window's `storage` event is fired on [every window using the storage except the window that modified storage](http://stackoverflow.com/a/4689033).
+- It is possible to run a WebSocket inside a worker.
+- There are [typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays/Int32Array).
+- ~~[No such thing as tail call optimization](http://stackoverflow.com/questions/3660577/are-any-javascript-engines-tail-call-optimized)... not one that works, anyway~~ES6 has tail call optimisation.
+- [Trampolines](http://raganwald.com/2013/03/28/trampolines-in-javascript.html) are `while` wrappers that call an inner function for as long as the function remains a function, not a primitive value.
+- [Second parameter of `JSON.parse`](http://stackoverflow.com/questions/19281820/deserialization-of-partially-flattened-json/19281911?noredirect=1#19281911) (reverse applies to `.stringify`, too)
+- CORS is not supported before IE8; hence JSONP.
+- [`debugger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger)
+- `_.result(a)` returns `a()` if it is a function, or just `a`.
+- `Number()` returns 1 or 0.
+- [Dispatching keyboard events without jQuery](http://stackoverflow.com/a/5920206/1558430)
+- > Note that the `bower_components` folder would normally be installed in the root folder but (angular-seed) changes this location through the `.bowerrc` file. Putting it in the app folder makes it easier to serve the files by a webserver.
+- Placing `"scripts": { "postinstall": "bower install" }` in `package.json` (npm) installs `bower_components` right after npm finishes.
+- `EADDRINUSE` is node's very polite way of saying "port is taken".
+- [Promises are streams](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#request-and-response).
+- `(An error).stack` gives you the stack.
+- **NaCl** in tech usually stands for **Na**tive **Cl**ient.
+- `"use strict";` in global scope affects the entire script file, but [not other scripts on the page](https://stackoverflow.com/questions/6483768/would-this-enable-use-strict-globally).
+- To generate revisions of assets, you might need [gulp-rev](https://www.npmjs.org/package/gulp-rev) (see also: the "Works with gulp-rev" section)
+- `npm` has a [dedupe](https://www.npmjs.org/doc/cli/npm-dedupe.html) option that groups common dependencies higher up the dependency tree.
+- Use `bower` in place of npm for client side packaging to [avoid multiple versions of the same library sent to the client](http://stackoverflow.com/a/18652918).
+- node has a [debugger](http://nodejs.org/api/debugger.html). To use it, run `node debug` where you normally run `node`.
+- "[Every function in Node.js is asynchronous](http://code.tutsplus.com/tutorials/node-js-for-beginners--net-26314)", even the ones that are normally blocking.
+- `npm ls` lists installed packages.
+- `list[list.length] = 5` _is_ faster than `list.push(5)`, but [the gap is closing](http://jsperf.com/array-push-vs-index-push webtricksandtreats.com/javascript-array-push/)
+- [Webpack](https://github.com/webpack/webpack) is browserify for AMD modules. (more accurately, it is the other way around.)
+- Because [object keys are always toString'd](https://mathiasbynens.be/notes/javascript-properties), `{ .12e3: 'wut' }` can be retrieved using the key `120`.
+- Assigning `someArray.length = 0` removes all items from the array. You can also assign other numbers, and if the array length goes from 0 to e.g. 3, the array is `[undefined, undefined, undefined]`.
+- [The spec](http://stackoverflow.com/questions/13294658/throw-errormsg-vs-throw-new-errormsg) allows `throw Error()` as well as `throw new Error()`. The two are identical.
+- `(new Date).getYear()` returns 115 for year 2015. To get 2015 instead of something useless, call `getFullyear()` instead.
+- [Generators](http://www.2ality.com/2015/03/es6-generators.html) (good article) must be called `function*`s, with that ugly asterisk after the keyword.
+- To provide fallback URLs for a library you reference, just [change its path to a list of paths](http://stackoverflow.com/a/12075285/1558430).
+- In addition to the public/private use distinction, ["a deferred (which generally extends Promise) can resolve itself, while a promise _might_ not be able to do so."](http://stackoverflow.com/a/6824836) (emphasis mine/yours)
+- (and) _Futures_ are deprecated implementations of Promises.
+- [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
+- [`\S` is negated `\s`](http://stackoverflow.com/questions/4377480/what-does-this-s-regex-mean-in-javascript) (so anything but whitespaces)
+- MDN: ["When defining a variable that is meant to later hold an object, it is advisable to initialize the variable to null as opposed to anything else. That way, you can explicitly check for the value null to determine if the variable has been filled with an object reference at a later time."](http://stackoverflow.com/a/13143055/1558430)
+- [`switch` is in fact coersion-safe](http://stackoverflow.com/questions/6989902/is-it-safe-to-assume-strict-comparison-in-a-javascript-switch-statement).
+- Jasmine has both [`createSpy` and `createSpyObj`](http://stackoverflow.com/questions/24321307/what-is-the-difference-between-createspy-and-createspyobj). The former gives a function; the latter is an object with methods.
+- `npm install linux` is [finally possible](http://hyperos.io/), thanks to HyperCore Linux.
+- Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.
+- [ALWAYS](http://blog.heroku.com/archives/2015/11/10/node-habits-2016) make an `.npmrc` that sets `save=true` and `save-exact=true`.
+- [`n`](http://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version) is the npm package that upgrades nodejs.
+- For supporting the delusional "more choices is better" ideology, [npm allows its JS engine to be swapped out](http://www.marcusoft.net/2015/03/packagejson-and-engines-and-enginestrict.html) using either `engines` in `package.json`, or [an `.npmrc` file](http://blog.npmjs.org/post/110924823920/npm-weekly-5) that does the same.
+- `karma start --reporters dots,coverage` runs `karma` without the annoying long list of successes.
+- `fetch`ing with `mode: 'no-cors'` apparently [makes the request, but does not tell the client whether it succeeded or failed](http://stackoverflow.com/a/40182952/1558430).
+- `bind()` is literally partialling, except maybe powerful. `console.log.bind(console, 'hello world').bind(console, 'eh')()` logs `hello world eh`.
+- [Try to be explicit](https://blog.scottnonnenberg.com/hard-won-lessons-five-years-with-node-js/) when it comes to imports. Finding usages of `foo.bar()` is much harder than `require('bar')`.
+- [Web workers don't run if the procotol is file://.](https://stackoverflow.com/questions/21408510/chrome-cant-load-web-worker)
+- If you `a = function () {}`, the function's name will be `a` (not sure why, but there you go.) If you `a = function b() {}`, the function's name will be `b`. If you `(function () {}).name`, that is an empty string. If you `(function (a) { console.log(a.name) }(function () {}))`, you will end up printing an empty string, but return `undefined`.
+- `<!--` are intentionally allowed as comment markers in JS. [It is part of the spec.](https://github.com/denysdovhan/wtfjs#html-comments-are-valid-in-javascript) To get fired, you need to insert a space in between your mental gymnastics, like so: `if (5 < !--i) { ... }`.
+- With that said, `<!--` is not valid comment syntax in ES6 modules.
+- To `apply` a constructor, you [need](https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible) to `new (Function.prototype.bind.apply(Foo, [null, a, b, c]));`
+- `new RegExp(/already a regexp literal/)` can still be useful if you want to [add a flag to it](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp), like `new RegExp(/already a regexp literal/, 'i')`.
+- `clobber: true` when using `fs.copy` or `copySync` would overwrite the destination file if it exists. The term [clobber](https://stackoverflow.com/a/9392784/1558430) might have come from `cp`, where `cp -n` has a man page saying "do not overwrite an existing file (overrides a previous -i option)".
+- "Node JS" pronunciations [include](https://groups.google.com/forum/#!msg/nodejs/-d5LcWlQrxI/CarozdtVP3MJ) Node Jay Ess (commonly), No der Jay Ess, and most importantly, Node Dot Jizz.
+- Use `Object.prototype.hasOwnProperty.call(obj, prop)` instead of `obj.hasOwnProperty`, [because](https://stackoverflow.com/a/12017703/1558430) anyone can define a `hasOwnProperty` on an object.
+- `isFinite(NaN)` is, quite contrary to all the other insanity that JS forces you to think is normal, actually returns `false`.
+- [jQuery's `.append()`](http://api.jquery.com/append/) can accept plain HTML strings.
+- [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) implements location-based notifications, but does not _support_ it, because everything is half-baked, and nothing is, strictly-speaking, well-documented.
+- You are not supposed to put any logic inside react components (at least where it can be avoided).
+- There's "React Native" for those who regret writing react apps in Cordova, and then there's ["React Native Web"](https://github.com/necolas/react-native-web), for those who regret writing react apps in Cordova, switch to react native, and then regret not being able to run it in a browser. JavaScript is a Mobius strip for ideas.
+- Unicode is allowed as variable names; emojis are not.
+- In the line `var a = a || 5`, by the time the second `a` is accessed, `var a` has already run, so it will not throw ReferenceError.
+- [`assert` is not a thing](https://stackoverflow.com/a/15313435/1558430) but you can write your own in, like, one minute.
+- A [gulp task that returns](https://stackoverflow.com/questions/21699146/gulp-js-task-return-on-src) is a synchronous gulp task. If your task A returns nothing and some other task B depends on task A, task A will simply be run and not awaited. So you should probably return something.
+- The `{a, b, c} === {a: 'a', b: 'b', c: 'c'}` syntax is called [punning](https://reasonml.github.io/docs/en/record#syntax-shorthand).
+- Use `nvm ls-remote` to find out what versions it has available to install.
+- If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
+- Because of the unique, abusive relationship you have with JS, [`string` does not autobox completely to `String`](https://stackoverflow.com/questions/17256182/what-is-the-difference-between-string-primitives-and-string-objects-in-javascrip), and `typeof`ing the two yields different results.
+- [Assigning anything to `process.env`](http://stackoverflow.com/questions/42170365/how-do-i-remove-a-value-in-process-env), even if it is `null` or `undefined`, converts it to their strings `"null"` and `"undefined"`. To delete a key from `process.env`, `delete` it.
+- If you run `--save-exact` without `--save`, it doesn't save.
+- [npm 5 is still worse than yarn](http://blog.scottlogic.com/2017/06/06/does-npm5-deprecate-yarn.html)
+- Node has its own "declaring which licence you use" syntax, called [SPDX](https://www.npmjs.com/package/spdx). `OR`, `AND`, and `WITH` are special keywords.
+- The point of `devDependencies` is, _if you're making a server_, the deployment setup should exclude your test tools. If you write static web apps or otherwise run your setups from your local machine, this makes no difference.
+- "Global" functions and/or variables in a node js file are only global for _that file_. If you want to make a function truly global, use `global.funcName = () => ...`.
+- Adding `"bin": { "foo": "./cli.js" }` in your `package.json` adds a command called `foo` to your system when installed. Use [`npm link`](https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/) to test it; use `npm unlink` to undo.
+- Type `.load scriptName.js` in a node REPL to load it (note: shebangs are invalid.)
+- You actually [can't](https://nodejs.org/api/esm.html#esm_enabling) `import anything from 'a module'` right now (2019).
+- To spawn a process where you wish to keep your arguments together, like `"--foo bar"`, use the [`{shell: true}`](https://stackoverflow.com/a/52841103/1558430) spawn option.
+- To debug a script, run `node inspect thatscript.js` instead of `node thatscript.js`.
+- [The difference between `exports` and `module.exports`](https://stackoverflow.com/a/7142924/1558430) is, basically, you can't assign anything atomic to `exports`, i.e. `exports = foo...`. The _original_ reference to `exports` is exported, which means your new assignment is not.
+
+## [Promise API](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+- An executor is `function(resolve, reject) { ... }`
+- A _Promise_ is `new Promise(executor);`
+- `Promise.all([Promise, Promise, ...]) => <Promise>`
+- If all promises in a `.all()` succeed, the call is resolved with an _array_ of their resolves.
+- If any promise in a `.all()` fails, the entire call fails. The error in the `.catch()` is the error from the first failed call.
+- `Promise.race([Promise, Promise, ...]) => <Promise>` aka `Promise.any` if it existed
+- `Promise.resolve(value) => <Promise>`, `Promise.reject(value) => <Promise>` that are pre-resolved/pre-rejected
+- `<Promise>.then(function succeed, function fail) => <Promise>` If any of these functions return anything, [the new promise will resolve/reject with their return values.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
+- `<Promise>.catch(function error)` If any of `(succeed, fail)` throws an Error, [the `function error` will receive the same Error.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)

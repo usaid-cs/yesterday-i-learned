@@ -2,6 +2,8 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+- Perhaps JS doesn't support keyword arguments because they don't have room for that syntax: `foo(a=5)` is literally an assignment expression inside a function call, for which python must use `:=`.
+- Officially-speaking, JS is weakly-typed. "Coercion is usually a symptom of weak typing."
 - Large objects [that conform to the JSON spec] can actually improve performance if you [sent it as a string, and `JSON.parse()` it afterwards](https://v8.dev/blog/cost-of-javascript-2019), because the JSON spec is smaller than the JS spec, and can be parsed more efficiently.
 - "JavaScript legend Douglas Crockford once said that [monads are cursed -- that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
 - If [ECMAScript is the standard](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) and JavaScript is the most popular implementation of the standard, then you actually never _write_ ECMAScript.
@@ -227,6 +229,7 @@ undefined
 - If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
 - Because of the unique, abusive relationship you have with JS, [`string` does not autobox completely to `String`](https://stackoverflow.com/questions/17256182/what-is-the-difference-between-string-primitives-and-string-objects-in-javascrip), and `typeof`ing the two yields different results.
 - On [why `null` is of type `object`](https://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript#comment9782995_5076962): "You may wonder why the `typeof` operator returns `'object'` for a value that is `null`. This was actually an error in the original JavaScript implementation that was then copied in ECMAScript. Today, it is rationalized that `null` is considered a placeholder for an object, even though, technically, it is a primitive value."
+- To tail-call optimise your recursive functions, ensure your last return statement consists solely of [a single function call](https://hackernoon.com/es6-tail-call-optimization-43f545d2f68b) to the same function.
 
 ## Deferred API
 

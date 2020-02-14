@@ -1,3 +1,4 @@
+- [Handegg](https://en.wikipedia.org/wiki/Handegg), not related to what Americans call football, is a village in [Guttannen](https://en.wikipedia.org/wiki/Guttannen), (the middle of) Switzerland.
 - Spain, Belgium, and Denmark also have monarchs.
 - You can [buy an EU citizenship](https://en.wikipedia.org/wiki/Malta) for 650k euros from Malta.
 - Icelandic witchcraft believed that [wearing a man's skin as pants](https://en.wikipedia.org/wiki/N%C3%A1br%C3%B3k) (*Nábrók*, corpse trousers) will bring endless money. But only if you get permission from that man before he dies, and if you steal a coin from his widow and put it inside his scrotum.

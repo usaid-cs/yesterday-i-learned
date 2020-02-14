@@ -1,3 +1,4 @@
+- The [Appalachian mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) are in eastern US, not South America.
 - Every part of Chile's lat/lng is negative for both components.
 - [Levant](https://en.wikipedia.org/wiki/Levant) (le-VANT) is a place, where Israel and Syria are today, roughly.
 - Antarctica can be a desert because there can be [places where rain falls every two million years](https://en.wikipedia.org/wiki/McMurdo_Dry_Valleys), like the McMurdo Dry Valleys.

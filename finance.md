@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- ["Injecting liquidity"](https://www.marketwatch.com/story/china-to-inject-173-billion-into-economy-to-cushion-expected-stock-shock-2020-02-02) means [the central bank making a loan to some institution](https://en.wikipedia.org/wiki/Injection_%28economics%29). If the money is being injected "into the market", then it means [the central bank is buying stuff up for a loan if there are otherwise no buyers](https://www.financialwisdomforum.org/forum/viewtopic.php?t=108381).
 - [A virus can affect oil prices](https://oilprice.com/Energy/Energy-General/Why-The-Coronavirus-Is-A-Real-Threat-To-Oil-Markets.html). Can't make this up.
 - Pay off your house aggressively if you can either get better returns with that money pay in the meantime, or if you feel good about paying off your house.
 - The more units there are in a condo building, the more likely it is for one unit to be affected by other units. The more likely something is going to happen to your unit, the less likely it is that an insurance company would want to insure you. [And when only a few insurance companies are willing to participate, the premium increases](https://globalnews.ca/news/6237709/bc-strata-insurance-surge/) because even the lowest bidder is very expensive.

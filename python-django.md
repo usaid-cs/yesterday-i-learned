@@ -203,6 +203,9 @@ qs.distinct()
 
 ### Migrations
 
+- A migration with `initial = True` is no different from other migrations, apart from whenever [`migrate --fake-initial`](https://docs.djangoproject.com/en/3.0/topics/migrations/#initial-migrations) is run, where the migration is faked only if the tables already exist.
+- `migrations/00xx_` migration numbers are [just there for you to keep track of the order](https://docs.djangoproject.com/en/2.1/topics/migrations/#version-control). Django doesn't care. If you have two developers committing two migrations with the same number, that's actually fine.
+
 #### I want to reset all my migrations by [deleting and recreating them](https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html), but `makemigrations` isn't doing anything
 
 You can't delete the `migrations/__init__.py`s in your apps. Keep those files, then run `makemigrations` again.
@@ -345,6 +348,8 @@ False  # foo has no ratings
 - [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 - [Bumping the cache version](https://docs.djangoproject.com/en/2.1/topics/cache/#cache-versioning) helps with situations where two Django deployments run side by side, but only one deployment understands a "new" version of the cache, for example: a python2 deployment cannot understand cached objects pickled by python3.
 - A free security check is available at `manage.py check --deploy`.
+- `manage.py` and `django-admin` are different scripts, but both provide `argv` to `execute_from_command_line`, making them essentially the same thing.
+- A [`raw` Signal](https://docs.djangoproject.com/en/3.0/ref/signals/) should not do any other thing to query the database because the database might not be in a consistent state yet.
 
 ### Django signals (e.g. `post_save`, `m2m_changed`, ...) not working
 

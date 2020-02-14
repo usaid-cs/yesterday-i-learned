@@ -16,6 +16,8 @@ On the branch that says that, do [`git reset --hard origin/(branch) && git pull`
 
 #### I forgot where I committed my code
 
+(Or: "I want to search for a string in any commit in a repo")
+
 If it's in the stash, either [`git log -g stash`][stackoverflow 4] or `git diff -g stash` will show the commit.
 
 If it's in a branch, consider running `git log -S "(keyword from diff)" --source --all`, or any other solution [here][stackoverflow 5].

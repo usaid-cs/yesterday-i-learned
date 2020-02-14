@@ -1,3 +1,15 @@
+- [Caffeine reduces fat accumulation](https://www.medicalnewstoday.com/articles/327391.php).
+- [This report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6057888/) says that isoflavones in soy protein, a compound that "looks like oestrogen", [doesn't turn you into a woman](https://www.hsph.harvard.edu/nutritionsource/soy/) *or* a man.
+- Sand dollars [swallow metal to stop floating](https://www.kqed.org/science/1932072/a-sand-dollars-breakfast-is-totally-metal/).
+- 1/3 of people with [the flu](https://en.wikipedia.org/wiki/Influenza) show no symptoms at all.
+- To tell between cold and flu: flu causes fever and cough at the same time, but is less likely to cause a runny nose.
+- While on the pill, you may still ovulate (if you have functional ovaries anyway) 28% (combination pill) to 65% of the time (mini pill), and you don't know when it happens, not just on day 14.
+- Blood clots going into the lungs (Pulmonary embolism) kills off large sections of the lung, and kills *a lot* of people going through hip replacement surgeries.
+- [Interest in something dilutes the pupils](https://getpocket.com/explore/item/to-read-someone-s-mind-look-into-their-eyes).
+- [30% to 50% of technical pregnancies (where a fertilised zygote exists) fail](https://en.wikipedia.org/wiki/Miscarriage), but drops off quickly to only 1% after week 14 (3.2 months). Miscarriage rates increase with age.
+- There is a kind of African bush called [Rooibos](https://en.wikipedia.org/wiki/Rooibos) that is used to make herbal tea. This herbal tea can be used to make what appears similar to milk tea.
+- Using too much hand sanitiser, which dries your hand up, can crack your skin and make your bleed, which allows bacteria to enter.
+- "Arthroplasty" involves the reconstruction of a joint.
 - [R₀](https://www.healthline.com/health/r-nought-reproduction-number), the "one person can infect how many more" aka basic reproduction number, is pronounced [R-nought](https://thehill.com/changing-america/well-being/prevention-cures/480482-when-will-the-wuhan-coronavirus-outbreak-reach).
 - Chemicals that stop bacteria from reproducing, but do not kill them, are called [bacteriostatic agents](https://en.wikipedia.org/wiki/Bacteriostatic_agent).
 - Range of motion is [severely limited](http://www.prischew.com/sports/young-active-singaporeans-are-getting-osteoarthritis/) after a complete knee replacement. The recommendation is change as little as possible when it comes to orthopedic surgeries.
