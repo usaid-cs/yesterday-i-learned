@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- You can actually add two more words in between 妈 and 逼, i.e. 妈了个逼. It's like "f*ck your mother's bl**dy ar**" instead of "f*ck your mother": it tells others how mad you are.
 - People pronounce "capsaicin" cap-SAY-ee-sin.
 - "[Luncheon](https://en.wiktionary.org/wiki/luncheon)" is a formal word for lunch. It is unclear which came first.
 - The earliest use of ["小姐"](https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%A7%90) was in the Song dynasty, referring to prostitutes, "bartenders" (a woman who drinks with you), or exotic dancers. That became "damsel" in the Yuan dynasty. "小姐" may still be used to contextually refer to prostitutes, so you may be forced to use ["女士"](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BA%BA) (educated woman) or ["姑娘"](https://zh.wikipedia.org/wiki/%E5%A7%91%E5%A8%98) (young woman, servant, or a prostitute in a brothel who has yet to receive a customer) instead. There is also "夫人" for when you want to refer to a woman as someone's wife.

@@ -1,5 +1,7 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- [WireGuard is NOT known to be stealthy](https://www.reddit.com/r/Android/comments/f67mb9/firefox_releases_android_app_for_its_vpn_service/fi3fk0a/). It is not designed to bypass the great firewall.
+- The entire province of [Guangxi](https://en.wikipedia.org/wiki/Guangxi) is an autonomous region run by an ethnic minority.
 - [Some "China Highlights" website](https://www.chinahighlights.com/travelguide/chinese-food/spring-rolls.htm) claims that spring rolls were not rolled up (as "春盘", i.e. served as vegetables on dough) until some time in the Ming dynasty (1368 to 1644).
 - Poor people up in northern China just [fry up potato, green pepper and eggplant](https://baike.baidu.com/item/%E5%9C%B0%E4%B8%89%E9%B2%9C/32207) and call it a meal. When they feel like being special, they add *red* peppers.
 - The [18-digit Chinese ID card number](https://www.youtube.com/watch?v=zsCuJapNoZM) contains information as follows: (1 ~ 6) location, (7 ~ 10) year, (11 ~ 12) month, (13 ~ 14) day, (15 ~ 17) auto-increment number, because more than one person is born at a location every day (plus even/odd, where even is female and odd is male). The last(18) digit is the check digit, which can be `[0-9X]`.

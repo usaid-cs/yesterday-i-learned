@@ -40,6 +40,7 @@
 - The Celts [ran europe](https://www.reddit.com/r/MapPorn/comments/ctefcy/the_celts_50058_bc_3958x2974_oc/) before Jesus was born.
 - [Johnny Appleseed](https://en.wikipedia.org/wiki/Johnny_Appleseed) (not his real name) was a real person. He introduced apple seeds to the east coast.
 - In 1903, [Evelyn Beatrice Hall](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) wrote in her book _The Life of [Voltaire](https://en.wikipedia.org/wiki/Voltaire)_, "I disapprove of what you say, but I will defend to the death your right to say it". Now people think Voltaire himself said it.
+- Anyway, Voltaire was a man who lived in the 1700s.
 - To represent history in a 24fps film at 1 day per frame, you can represent around 355 years of history in a single sitting (129600 frames for a 90-minute film). To showcase the 5000 most relevant years of history, you will need a 21-hour film instead.
 - SCMP founded in 1903.
 - The Yuan dynasty was ruled by Mongolians. Also fun fact: the [first ever ruler of the Republic of China](https://en.wikipedia.org/wiki/Mongolia#Modern_history) lost Outer Mongolia to, well, Mongolians.

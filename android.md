@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- [Don't use scoped storage in one simple step](https://forum.xda-developers.com/showpost.php?p=79894625&postcount=872): `cmd appops set com.foo.bar android:legacy_storage allow`
+- You can download the [caffeine tile](https://android.gadgethacks.com/how-to/get-cyanogenmods-caffeine-feature-keep-your-screen-awake-longer-press-button-0176126/) onto AOSP if you really need it.
 - Apps like cameras and game emulators may require certain types of chipset (notably, snapdragon).
 - In a [GC log line](https://blog.gceasy.io/2017/05/09/understanding-android-gc-logs/) e.g. `Background concurrent copying GC freed 47894(2MB) AllocSpace objects, 13(276KB) LOS objects, 41% free, 33MB/57MB, paused 439us total 308.276ms`, the most interesting part is the amount of time that the program was `paused` while GC took place, which translates to a perceived performance hit. In this case, the program didn't really pause.
 - The guy who created Magisk to give root to all the Android devices, [got a job at Apple](https://medium.com/@topjohnwu/state-of-magisk-2020-21de32721d65).
@@ -60,7 +62,7 @@
 - LineageOS devs clearly and explicitly outline [hardware and software requirements for a device to qualify for an official build](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md).
 - `adb install -r` installs the apk without failing when it already exists.
 - If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.
-- To remove Google Play Services from the whitelist that lets them do whatever they want without battery optimisation, [edit the `/system/etc/sysconfig/google.xml` file](https://android.stackexchange.com/questions/143247/how-to-make-google-play-services-and-other-default-white-listed-system-apps-doze) and comment out the appropriate sections.
+- To remove Google Play Services from the whitelist that lets them do whatever they want without battery optimisation, [edit the `/system/etc/sysconfig/google.xml` or `/system/product/etc/sysconfig/google.xml` file](https://android.stackexchange.com/questions/143247/how-to-make-google-play-services-and-other-default-white-listed-system-apps-doze) and comment out the appropriate sections.
 - [`.dex` files are VM caches in an APK](https://www.addictivetips.com/mobile/what-is-odex-and-deodex-in-android-complete-guide/), and `.odex` files are optimised VM caches outside an APK. "De-odexed" ROMs put the odex files inside the APK, so you can mod the APK or something without odex files conflicting with it.
 - As of 2018-05-04, a package called `com.google.android.quicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.
 - "Some apps will use OpenSL ES for Android to record audio, an example is WhatsApp. Xposed cannot hook into native code, so this cannot be prevented." - XPrivacyLua

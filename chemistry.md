@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Glass cooktops heat slowly, cool slowly, [crack on heat shock](https://www.hunker.com/13408879/what-causes-ceramic-glass-electric-cook-top-to-crack), crack on contact with heavy things... like a pot, [cannot be cleaned with glass cleaner](https://www.cnet.com/how-to/wrong-way-to-clean-glass-stovetop/)... they are a joke. [Glass is glass, and glass breaks](https://twitter.com/zacksjerryrig/status/1039934465462611968?lang=en). A truly backwards product trend.
 - [Diamonds burn](https://www.youtube.com/watch?v=CqYDGqgKAc8), but only when subjected to high concentrations of oxygen.
 - Ozone (for air puritification) is harmful, but not if you turn it on for only a few minutes a day. Hotels use "ozone cannons" to remove odours before a room is rented out.
 - Maltodextrin is a type of [dextrin](https://en.wikipedia.org/wiki/Dextrin), chains of 10 to 20 sugars. Longer chains of that can be called "starch" or "glycogen" depending on how they are chained. Heating starch up makes dextrin.

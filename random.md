@@ -1,5 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- A good knife doesn't need to be sharpened so often. You may hear codes like [M390 and S90V](https://www.bladehq.com/cat--Best-Knife-Steel-Guide--3368) on some forums.
+- [Studs](https://en.wikipedia.org/wiki/Wall_stud) are non-loadbearing vertical supports. They just hold the wall up. People use a [stud finder](https://en.wikipedia.org/wiki/Stud_finder) to find a place you can [screw in heavy things](https://www.popularmechanics.com/home/a28842874/best-stud-finders/).
+- A "[Barleycorn](https://en.wikipedia.org/wiki/Barleycorn_%28unit%29)" is 1/3 of an inch, or the length of (cue joke).
+- [Persian the cat pokemon](https://bulbapedia.bulbagarden.net/wiki/Persian_%28Pok%C3%A9mon%29) is clearly a siamese cat instead of a persian cat.
+- If you send out an email that includes an `<img>` with an external source, you can easily break it later.
 - Signal was created by [the same guy](https://en.wikipedia.org/wiki/Brian_Acton) who created WhatsApp. Brian sold WhatsApp, then started "#DeleteFacebook", in that order.
 - Home gym equipment can be a polarising purchase. [Many people say they either made full use of it, or made no use of it](https://www.reddit.com/r/PersonalFinanceCanada/comments/f3lpbh/what_was_a_product_or_service_you_bought_and_you/).
 - ["Quid pro quo"](https://www.usatoday.com/story/news/politics/2019/11/06/trump-impeachment-what-does-quid-pro-quo-mean/4170817002/) ("this for that" I think?) in a political context means 
