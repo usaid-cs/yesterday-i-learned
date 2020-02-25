@@ -589,3 +589,4 @@ bar
 - Metaclasses are classes whose instance methods accept `cls` instead of `self`. If you have a `class Foo(metaclass=Bar)`, then [`Bar`'s `__repr__(cls)` will run when you try to print `Foo`](scripts/ls.py), even if you never officially made a function call.
 - `python -O` does only two things: remove assertions, and remove `if __debug__` blocks (which is True by default). [`python -OO` does only one extra thing](https://stackoverflow.com/a/2830411/1558430): remove docstrings.
 - Uses of operators in a multi-line situation are mandated by pep8 to be [in front of the line](https://www.python.org/dev/peps/pep-0008/#should-a-line-break-before-or-after-a-binary-operator) because, in their example, it looks nicer. Find issues with `\(.+\s[+\-*/]\s?$`.
+- To focus on another vertical tab group in pycharm, it's called ["Goto Next Splitter"](https://stackoverflow.com/a/10790588/1558430).

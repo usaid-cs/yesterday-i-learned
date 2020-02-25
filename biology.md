@@ -1,3 +1,5 @@
+- The appearance of worm holes on leaves ironically means that it is healthy to eat.
+- Sleeping for six hours per night is just as bad as not sleeping at all---[if the only metric is reaction time](https://getpocket.com/explore/item/why-six-hours-of-sleep-is-as-bad-as-none-at-all)---but you will *feel* ok if you slept 6. When estimating how much you slept, you tend to overestimate by 0.8 hours on average.
 - Eat some [complex carbs or protein](https://www.theguardian.com/lifeandstyle/2020/feb/17/shut-eye-and-sleep-hygiene-the-truth-about-why-you-keep-waking-up-at-3am) if you cannot fall asleep. Be (somehow) not so dehydrated that you wake up, but also not so hydrated that you wet the bed. Somehow.
 - No one knows what causes [ALS](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis), and no one knows how to cure it.
 - If Google Translate is a source of information, then *eeestrogen* would be more correct than *estrogen* since the word root is Greek *οἶστρος / oîstros* "gadfly", which is pronounced with either an "Oy" or an "EE".

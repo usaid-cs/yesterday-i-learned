@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- "If you are agonizing over the decision, it's because one path isn't clearly better than another. So just pick one. It doesn't actually matter which you pick. **If there were a right decision, you would have already made it**. Toss a coin." - /u/kabooozie, describing a TED talk
 - Similar to what Helen Keller said, "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." - Martin Luther King Jr
 - "Unless you saw it happen, the author of any quote is probably incorrect." - [Will Smith](http://forums.redflagdeals.com/what-do-people-live-apartments-do-tire-storage-511473/#p5889638)
 - If [you are confidennt that you can change your circumstances](https://medium.com/zero-infinity/stop-worrying-about-the-future-do-these-3-things-instead-7c8e7925154e) in life, you don't need to worry about anything.

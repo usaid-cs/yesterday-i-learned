@@ -1,13 +1,18 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- It is by complete coincidence that February is four weeks long. Its length is not dictated by how long a week is.
+- Gaming (and, to an extent, office) chairs aren't comfortable. They just ensure you have proper posture to stay seated for a long time, which makes you comfortable I guess.
+- Kailh mechanical keyboard switches are [heavier to press](https://www.reddit.com/r/MechanicalKeyboards/comments/2dzg2d/kailh_vs_cherry_switches/) than Cherry MX ones, but are more or less than same.
+- **Redis can be slower than your database** if you use it to `SCAN` through its cache `KEYS`. Because it's an idiot and stores keys in like an array instead of a hash table. If you use redis that way, **caching something will be slower than not caching at all**.
+- [Casu marzu](https://en.wikipedia.org/wiki/Casu_marzu), or rotten fly maggot cheese from Sardinia, is/was illegal to sell. "The acid from the maggots' digestive system breaks down the cheese's fats, making the texture of the cheese very soft." While maggots are traditionally eaten with the cheese, some prefer not to eat it anymore.
 - A good knife doesn't need to be sharpened so often. You may hear codes like [M390 and S90V](https://www.bladehq.com/cat--Best-Knife-Steel-Guide--3368) on some forums.
 - [Studs](https://en.wikipedia.org/wiki/Wall_stud) are non-loadbearing vertical supports. They just hold the wall up. People use a [stud finder](https://en.wikipedia.org/wiki/Stud_finder) to find a place you can [screw in heavy things](https://www.popularmechanics.com/home/a28842874/best-stud-finders/).
 - A "[Barleycorn](https://en.wikipedia.org/wiki/Barleycorn_%28unit%29)" is 1/3 of an inch, or the length of (cue joke).
 - [Persian the cat pokemon](https://bulbapedia.bulbagarden.net/wiki/Persian_%28Pok%C3%A9mon%29) is clearly a siamese cat instead of a persian cat.
 - If you send out an email that includes an `<img>` with an external source, you can easily break it later.
-- Signal was created by [the same guy](https://en.wikipedia.org/wiki/Brian_Acton) who created WhatsApp. Brian sold WhatsApp, then started "#DeleteFacebook", in that order.
+- Signal was created by [the same guy](https://en.wikipedia.org/wiki/Brian_Acton) who created WhatsApp. Brian sold WhatsApp to Facebook, then started "#DeleteFacebook", in that order.
 - Home gym equipment can be a polarising purchase. [Many people say they either made full use of it, or made no use of it](https://www.reddit.com/r/PersonalFinanceCanada/comments/f3lpbh/what_was_a_product_or_service_you_bought_and_you/).
-- ["Quid pro quo"](https://www.usatoday.com/story/news/politics/2019/11/06/trump-impeachment-what-does-quid-pro-quo-mean/4170817002/) ("this for that" I think?) in a political context means 
+- ["Quid pro quo"](https://www.usatoday.com/story/news/politics/2019/11/06/trump-impeachment-what-does-quid-pro-quo-mean/4170817002/) ("this for that" I think?) in a political context means
 - A Vanguard aka advance guard is the front of a military formation. Anyway, [Hoan Ton-That](https://hoantonthat.com/) made this facial recognition AI/database that allows you to upload a picture and get information about the people inside it, and, prior to that, made two phishing sites.
 - "Tufting" is pinning the fabric on one side with the base, usually forming an array of dots. It was used to make warm mittens. It doesn't do anything on like [a cushion](https://society6.com/product/white-tufted_pillow) or on a couch.
 - A con of truly anonymous communication is that any communication you *receive* is not accountable. A "@realofficialbbcnewsaccount" can post anything on Twitter and have thousands of followers without losing their real-life job, where traditional journalists would definitely be disciplined or fired if they reported anything wrong.

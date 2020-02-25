@@ -1,3 +1,5 @@
+- "Cancerous prototype": a kind of prototype software that the higher-ups liked so much, they decided you must continue working on it to make it a real product. I thought I saw this somewhere, but according to Google, I made this all up.
+- Elon Musk has such a strange accent because he's was raised in South Africa.
 - `"pain in my bloody arse"` only gets 10 results on Google. What! It's going to be 11 now.
 - "Anything (within reason) is possible." - @1337, genius
 - The minimum rating of the Silicon Valley show is [7.5/10](https://www.imdb.com/search/title/?series=tt2575988&sort=user_rating,desc&count=250&view=advanced).

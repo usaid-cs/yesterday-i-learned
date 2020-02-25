@@ -23,7 +23,7 @@
 - Exclude a grep with `grep -v bad_word`.
 - HTTPS is considered necessary [even if PGP signing is verified correctly](https://www.reddit.com/r/linux/comments/ahkur8/vlc_refuses_to_update_from_http_to_https_https/): a "version freeze attack" that MITMs unverified traffic, making the user believe what's being seen is true; and weak signing key.
 - On multi-CPU systems, a load average less than or equal to the number of CPU cores (e.g. 3.7 < 4 CPUs) is [still considered healthy](http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages). Also, the load averages are listed with the last minute figure _first_.
-- KDE might require `im-config -n ibus` (and a logout) for ibus to start working.
+- KDE might require `im-config -n ibus` (and a logout) for ibus to start working. Also, [install `libpinyin` instead of `pinyin`](https://askubuntu.com/a/575842).
 - [glogg](https://glogg.bonnefon.org/index.html) is a log file viewer UI, like somewhere between grep and less, maybe tail.
 - To extract a `.bz2` file that is _not_ also a tarball, use `bzip2 -dk filename.bz2`.
 - `tar vf` does not have the 'origin ... destination ...' syntax. The first argument is still the archive file name, and the rest of the arguments are always what you want to compress/extract.

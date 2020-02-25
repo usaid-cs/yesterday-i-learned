@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- Make sure you know your president's philosophies. If the president cuts taxes, you should start a business and earn money within the four/eight-year window. If the president raises taxes, well prepare yourself for that too.
 - ["Injecting liquidity"](https://www.marketwatch.com/story/china-to-inject-173-billion-into-economy-to-cushion-expected-stock-shock-2020-02-02) means [the central bank making a loan to some institution](https://en.wikipedia.org/wiki/Injection_%28economics%29). If the money is being injected "into the market", then it means [the central bank is buying stuff up for a loan if there are otherwise no buyers](https://www.financialwisdomforum.org/forum/viewtopic.php?t=108381).
 - [A virus can affect oil prices](https://oilprice.com/Energy/Energy-General/Why-The-Coronavirus-Is-A-Real-Threat-To-Oil-Markets.html). Can't make this up.
 - Pay off your house aggressively if you can either get better returns with that money pay in the meantime, or if you feel good about paying off your house.
