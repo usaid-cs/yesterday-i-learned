@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- An [invalid](https://www.merriam-webster.com/dictionary/invalid) (noun) is a sickly or disabled person, and a [convalescent](https://www.regionofwaterloo.ca/en/health-and-wellness/convalescent-care.aspx) (con-va-LE-scent) is a person recovering from an illness. These were [words used in 1912](https://jamanetwork.com/journals/jama/article-abstract/432382).
+- Zero of something is singular in French. For Russian, because they must ensure crippling alcoholism is carried on by the generations to come, [the rules are based purely on the number's ending digit](https://linguistics.stackexchange.com/a/12186), and [dual](https://en.wikipedia.org/wiki/Dual_%28grammatical_number%29) (2 ~ 4) and plural (5 ~ 9, 0) are different concepts... except 11 (supposedly singular), 12 (supposedly dual), 13 (supposedly dual), and 14 (supposedly dual), which are plurals.
 - You can actually add two more words in between 妈 and 逼, i.e. 妈了个逼. It's like "f*ck your mother's bl**dy ar**" instead of "f*ck your mother": it tells others how mad you are.
 - People pronounce "capsaicin" cap-SAY-ee-sin.
 - "[Luncheon](https://en.wiktionary.org/wiki/luncheon)" is a formal word for lunch. It is unclear which came first.

@@ -193,3 +193,6 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 - Open database: `attach "some_file_name.db" as db;` or `.open db`
 - Show tables: `.tables`
+- Show columns for a table: [`PRAGMA table_info(table_name);`](https://stackoverflow.com/a/948204/1558430) (text table) or `.schema tablename` (SQL to create that table).
+- Select from a table with column names: `.headers on`
+- Close database (or quit the dumb shell): `.exit`

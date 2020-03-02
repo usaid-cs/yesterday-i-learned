@@ -1,5 +1,7 @@
 🇨🇦
 
+- [There are 634 First Nations recognised by Canada](https://en.wikipedia.org/wiki/First_Nations). Or, Canada took territory from 634 First Nations. However you want to put it.
+- The guy who made the [LCBO API](https://github.com/heycarsten/lcbo-api), who said he was battling with blood cancer, [did die](https://www.dignitymemorial.com/obituaries/dundas-on/carsten-nielsen-8730324) from blood cancer.
 - [Make your children file tax return as early in life as possible](https://www.efgi.com/personal/tax/art.html#ART14). This allows them to [create RRSP contribution room earlier](https://turbotax.intuit.ca/tips/why-all-working-children-should-file-a-tax-return-5112) than everybody else.
 - [**Withholding tax**](https://www.wealthsimple.com/en-ca/learn/rrsp-withholding-tax#how_much_is_the_rrsp_withholding_tax_rate): in addition to the income tax bracket, taking money out of RRSP will be taxed further (10~20%) depending on how much you take out before retirement. **You also don't get your contribution room back after withdrawal**. So think twice before taking money out, or putting in money that you need.
 - Old Ontario car plates (1970s) have ["keep it beautiful"](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ontario#1973_to_present) on it instead of "yours to discover". *Real* old plates (1910s) have just the year of manufacture.

@@ -1,3 +1,4 @@
+- [Trump calls Lizzy "Pocahontas"](https://www.washingtonpost.com/news/fact-checker/wp/2016/06/28/why-donald-trump-calls-elizabeth-warren-pocahontas/) because she hasn't been able to prove the native American bloodline that she claims to be proud of.
 - Alaska is more than twice as large as the next largest state, Texas, i.e. you can cut Alaska in half and Texas will only be the third largest state.
 - In the American Civil War, not every confederate state surrendered.
 - The NSA's job [_is_](https://en.wikipedia.org/wiki/National_Security_Agency) to snoop on domestic and foreign intelligence (among other things I'm sure), so they're doing their job well.

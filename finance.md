@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- The end of [baby boomers' retirement range](https://en.wikipedia.org/wiki/Baby_boomers) (2011 ~ 2029) is just *the beginning* for all of them to collect pensions in full force. It doesn't mean the economy gets any better after 2029.
+- This guy here says [avoid gold futures and options](https://www.tsinetwork.ca/daily-advice/mining-stocks/gold-investing-and-your-rrsp/) because of (a) commissions, and (b) something about getting out-traded by professionals. Guy also says [buying physical gold doesn't generate income](https://www.tsinetwork.ca/daily-advice/mining-stocks/avoid-gold-investing-mistakes-maximize-profits/), perhaps only [as an inflation hedge](https://www.investopedia.com/terms/i/inflation-hedge.asp) if that's your goal. The advice was to stick to mining companies.
 - Make sure you know your president's philosophies. If the president cuts taxes, you should start a business and earn money within the four/eight-year window. If the president raises taxes, well prepare yourself for that too.
 - ["Injecting liquidity"](https://www.marketwatch.com/story/china-to-inject-173-billion-into-economy-to-cushion-expected-stock-shock-2020-02-02) means [the central bank making a loan to some institution](https://en.wikipedia.org/wiki/Injection_%28economics%29). If the money is being injected "into the market", then it means [the central bank is buying stuff up for a loan if there are otherwise no buyers](https://www.financialwisdomforum.org/forum/viewtopic.php?t=108381).
 - [A virus can affect oil prices](https://oilprice.com/Energy/Energy-General/Why-The-Coronavirus-Is-A-Real-Threat-To-Oil-Markets.html). Can't make this up.

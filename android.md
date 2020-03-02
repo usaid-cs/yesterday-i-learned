@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- There is an [SMS fork of Signal](https://f-droid.org/en/packages/org.smssecure.smssecure/), called Silence, that uses SMS instead of, you know, the internet.
+- All "IPS" and ["PLS" displays](https://www.gsmarena.com/samsung_galaxy_a10e-9790.php) are TFT displays.
 - How do you [disable internet access for an app on android 10](https://support.google.com/pixelphone/thread/17808759?hl=en)? Answer: you just don't. "Let every app access the internet, bitch."
 - Google does not say that [Adaptive battery kills apps](https://developer.android.com/topic/performance/power/power-details.html). If it is true, adaptive battery just controls jobs, alarms, network activity, and cloud messaging. They do not come into affect while charging.
 - [Don't use scoped storage in one simple step](https://forum.xda-developers.com/showpost.php?p=79894625&postcount=872): `cmd appops set com.foo.bar android:legacy_storage allow`

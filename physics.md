@@ -1,3 +1,4 @@
+- [Stiction](https://en.wikipedia.org/wiki/Stiction) is a made-up word for "static friction".
 - Ionisation of air is blue because ionisation of nitrogen is blue. So, electricity, if you can see it, is often blue.
 - Charging a laptop (10.8V) wirelessly would be a huge waste of energy.
 - Some things orbitting the sun, like [Ceres](https://en.wikipedia.org/wiki/Ceres_%28dwarf_planet%29) in the asteroid belt, meet more criteria for being a planet than pluto does.

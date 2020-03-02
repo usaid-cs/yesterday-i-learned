@@ -295,6 +295,20 @@ git log --author="Brian Lai" --pretty=tformat: --numstat | awk '{ add += $1 ; su
 git ls-tree --name-only -z -r HEAD|egrep -z -Z -E '\.(js|css|py|html|sh)$' | xargs -0 -n1 git blame --line-porcelain|grep "^author "|sort|uniq -c|sort -nr
 ```
 
+This non-oneliner allows you to exclude certain patterns in addition to including them. (grep works really hard, and for no good reason.)
+
+```
+git ls-tree --name-only -r HEAD \
+    | grep -v migrations \
+    | grep -v documentation \
+    | grep -E '\.(js|ts|scss|css|py|html|sh|md)$' \
+    | xargs -n1 git blame --line-porcelain \
+    | grep "^author " \
+    | sort \
+    | uniq -c \
+    | sort -nr
+```
+
 ### Other developers are idiots
 
 Implement a git pre-commit hook in your repo so that no one can push code that (various lints) don't like.
