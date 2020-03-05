@@ -1,3 +1,4 @@
+- Homemade butter is a waste of time to make. Homemade bread is a good use of your time, especially if you have a bread maker. Other [items worth making](https://www.amazon.com/Make-Bread-Buy-Butter-Shouldnt/dp/1451605889): hummus, yogurt, dill pickles.
 - [Pasta should be cooked in sauce](https://getpocket.com/explore/item/nine-ways-you-re-cooking-pasta-wrong) for a few minutes so it can absorb flavour. Undercook your pasta, then let it spend its last few minutes there. Also... serve pasta from a bowl?
 - (Tea) biscuits are [ideally made with soft wheat flour](https://getpocket.com/explore/item/why-most-of-america-is-terrible-at-making-biscuits) instead of your everyday hard wheat flour. Lower gluten content supposedly makes the biscuits trap less CO2 in the dough.
 - Both grapeseed oil and rapeseed oil are real cooking oils.

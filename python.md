@@ -577,7 +577,7 @@ bar
 - String concatenation can be done in a single line. `print('hello' 'world')` prints `helloworld`.
 - In the strictest sense, [python came from the Netherlands](https://en.wikipedia.org/wiki/Non-English-based_programming_languages), even though the name is from an English show and GVR worked for Dropbox.
 - The `Type[Foo]` syntax is really implemented with `__getitem__`. See `GenericMeta.__getitem__`.
-- A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
+- A ["strict module"](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834), as defined by instagram engineering, just means "importing this module has no side effects, even on first load". Subsequent import statements are already skipped, even for "non-strict" modules.
 - Variable names cannot start with `$`.
 - Keyword argument names must be strings. `bytestring` will work in python2, but `bytes` will not work in python3.
 - The difference between `random.randint(a, b)` and `random.uniform(a, b)` is that the latter does not return `int` (it returns a `float` instead).
@@ -590,3 +590,9 @@ bar
 - `python -O` does only two things: remove assertions, and remove `if __debug__` blocks (which is True by default). [`python -OO` does only one extra thing](https://stackoverflow.com/a/2830411/1558430): remove docstrings.
 - Uses of operators in a multi-line situation are mandated by pep8 to be [in front of the line](https://www.python.org/dev/peps/pep-0008/#should-a-line-break-before-or-after-a-binary-operator) because, in their example, it looks nicer. Find issues with `\(.+\s[+\-*/]\s?$`.
 - To focus on another vertical tab group in pycharm, it's called ["Goto Next Splitter"](https://stackoverflow.com/a/10790588/1558430).
+- To annotate the fact that you return a `defaultdict` (a subclass of `dict`) rather than a `dict`,  `typing.DefaultDict` is preferred over `typing.Dict` even though the two may technically be true.
+- Prevent your class from being subclassed by [assigning a metaclass that checks if one of the `bases` is itself](https://stackoverflow.com/a/16056691/1558430). This works because the exact class that has this metaclass attached, does not have `bases`.
+- [`Mock(spec=...)`](https://docs.python.org/3/library/unittest.mock.html) allows that mock to pass `isinstance` checks as that type or instance's type.
+- [`MagicMock`](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.MagicMock) is just `Mock` with defaults.
+- Abstract base classes are useful when you never want the class instantiated.
+- You should always [`--no-site-packages`](https://stackoverflow.com/questions/21527471/what-is-no-site-packages-in-virutalenv) on a virtualenv that supports it. It isolates whatever else you have installed globally from your virtual env, which is mostly the point of a virtualenv.

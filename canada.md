@@ -1,5 +1,7 @@
 🇨🇦
 
+- Engineers Canada says [you cannot call yourself an engineer even after you've earned your degree](https://engineerscanada.ca/frequently-asked-questions). These people can only be called "engineering graduates", and can be called an engineer only after they are licensed.
+- The fact that [the UK benefits from having a monarchy](https://youtube.com/watch?v=LsremiCn0MU) does not benefit the rest of the commonwealth.
 - [There are 634 First Nations recognised by Canada](https://en.wikipedia.org/wiki/First_Nations). Or, Canada took territory from 634 First Nations. However you want to put it.
 - The guy who made the [LCBO API](https://github.com/heycarsten/lcbo-api), who said he was battling with blood cancer, [did die](https://www.dignitymemorial.com/obituaries/dundas-on/carsten-nielsen-8730324) from blood cancer.
 - [Make your children file tax return as early in life as possible](https://www.efgi.com/personal/tax/art.html#ART14). This allows them to [create RRSP contribution room earlier](https://turbotax.intuit.ca/tips/why-all-working-children-should-file-a-tax-return-5112) than everybody else.

@@ -1,5 +1,7 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- China didn't have the chili pepper until the Ming dynasty.
+- [不見棺材不掉淚](https://en.wiktionary.org/wiki/%E4%B8%8D%E8%A6%8B%E6%A3%BA%E6%9D%90%E4%B8%8D%E6%8E%89%E6%B7%9A) either means you refuse to accept reality until it hits you real hard, or that you cannot be convinced to give up despite the circumstances.
 - [WireGuard is NOT known to be stealthy](https://www.reddit.com/r/Android/comments/f67mb9/firefox_releases_android_app_for_its_vpn_service/fi3fk0a/). It is not designed to bypass the great firewall.
 - The entire province of [Guangxi](https://en.wikipedia.org/wiki/Guangxi) is an autonomous region run by an ethnic minority.
 - [Some "China Highlights" website](https://www.chinahighlights.com/travelguide/chinese-food/spring-rolls.htm) claims that spring rolls were not rolled up (as "春盘", i.e. served as vegetables on dough) until some time in the Ming dynasty (1368 to 1644).

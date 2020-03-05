@@ -43,6 +43,8 @@ Bonds values do not correlate to stock market performance, so when the stock mar
 
 Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
 
+* In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
+
 ## Futures
 
 [Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at \$20) to lock in that price.
@@ -148,6 +150,8 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 
 If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically \$10 through your standard broker, contributions to mutual funds typically have no additional fees.
 
+Mutual fund orders can take three whole fucking days to close. The price of the fund you pay for is its price on the day they decide to settle your order.
+
 [Mutual fund orders are executed at 4pm eastern time](https://www.investopedia.com/ask/answers/110615/when-are-mutual-fund-orders-executed.asp) (or 4:30pm? That's when the TSX closes). The price is calculated, [roughly](https://www.investopedia.com/terms/n/nav.asp), the fund's assets - liabilities, divided by the number of shares there is.
 
 [**Dollar cost averaging**](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is a fancy term for "putting $100 into your mutual funds every month when you have $10000". If you don't have the lump sum to begin with, it is called **automatic investing** instead. On one hand, it does reduce risk for when, say, the market crashes shortly after you deposit a lump sum amount. On the other hand, since you didn't put in that lump sum amount, you don't benefit from the gains if the market goes up. So: throw in a lump sum if you have the money _and_ the market is expected to go up. Throw in a invest small amounts regularly otherwise.
@@ -167,7 +171,7 @@ They can be bought and sold whenevr the exchange is open, instead of a once-per-
 
 ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets are traded. Don't trade an American ETF on the fourth of July, for example.
 
-[Leveraged ETFs are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
+[Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
 
 ## Property
 
@@ -198,6 +202,12 @@ However, properties are vulnerable to pricing bubbles.
 ### How
 
 * It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+
+## Precious metals
+
+* [Gold is not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp), but it is an "okay" diversifier. Gold also retains value and purchasing power no matter what civilisation you live in.
+* Gold is not "consumed", so the quantity of gold [used for investments] increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).
+* [Gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time.
 
 
 ## BitCoin

@@ -167,6 +167,14 @@ A "complete" binary tree is one that is full, except maybe for the last level.
 
 No one knows what the B stands for.
 
+### Post-order traversal
+
+Post-order traversal is a fancy name for "first visit the left, then visit the right, finally visit the current node".
+
+## Heaps
+
+Heaps are ordered binary trees. Max heaps are heaps where the parent is always greater than the child.
+
 ## Hashes
 
 ## Monads

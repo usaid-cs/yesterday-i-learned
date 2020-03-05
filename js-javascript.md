@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+- Throwing a non-string error simply coerces it to a string. `throw new Error(5.0)` prints `5`.
 - Perhaps JS doesn't support keyword arguments because they don't have room for that syntax: `foo(a=5)` is literally an assignment expression inside a function call, for which python must use `:=`.
 - Officially-speaking, JS is weakly-typed. "Coercion is usually a symptom of weak typing."
 - Large objects [that conform to the JSON spec] can actually improve performance if you [sent it as a string, and `JSON.parse()` it afterwards](https://v8.dev/blog/cost-of-javascript-2019), because the JSON spec is smaller than the JS spec, and can be parsed more efficiently.
@@ -32,7 +33,6 @@ The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/
 - [JSX in excruciating depth](http://blog.klipse.tech/javascript/2016/12/14/jsx.html)
 - If some npm package keeps complaining about unmet peer dependencies, even though you installed the dependencies first, [it might just need to be installed together, at the same time](https://github.com/palantir/tslint/issues/2647#issuecomment-298005316), like `npm install -g typescript tslint`.
 - [HEIF](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) uses HEVC (patented) for encoding by default.
-- Both [nodejs/node](https://github.com/nodejs/node) and [ayojs/ayo](https://github.com/ayojs/ayo#core-team) have custom "pronouns" for every team member, and not ironically.
 - [According to Crockford, Netscape called it LiveScript, originally.](https://news.ycombinator.com/item?id=8344100) In their attempt to 'destroy Microsoft', they teamed up with Sun. One of Sun's original goals with Java was making it the client-side scripting language for the browser. However, Netscape had LiveScript. Apparently the negotiations almost broke down over this point. In an enlightened moment, (probably) Marc Andreessen proposed renaming LiveScript to JavaScript (despite the fact that the languages have very little in common), and joy was had. Sun got the JavaScript trademark (and passed it on to Oracle), and Netscape got a perpetual exclusive license to use it. When JavaScript was standardized to avoid Embrace, Extend, Extinguish, Netscape refused to share its license, and so the official language was renamed to ECMAScript, after the standards body. When Sun was bought by Oracle, it also got the trademark, and presumably, Mozilla inherited the exclusive license from Netscape.
 - [The article about NodeJS 8 release](https://nodejs.org/en/blog/release/v8.0.0/), saying _'Note that, when referring to Node.js release versions, we have dropped the "v" in Node.js 8. Previous versions were commonly referred to as v0.10, v0.12, v4, v6, etc. In order to avoid confusion with V8, the underlying JavaScript engine, we've dropped the "v" and call it Node.js 8'_, was titled _'Node v8.0.0 (Current)'_.
 - `window.location.reload()` accepts either `true` or `false` for hard reload.

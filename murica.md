@@ -1,3 +1,4 @@
+- [Americans have always voted on a Tuesday since 1845](https://ed.ted.com/lessons/why-do-americans-vote-on-tuesdays). On Sunday the people need to go to some religious thing, and they need to travel long distances to get to the voting station on Monday, so they vote on Tuesday. - CBC radio.
 - [Trump calls Lizzy "Pocahontas"](https://www.washingtonpost.com/news/fact-checker/wp/2016/06/28/why-donald-trump-calls-elizabeth-warren-pocahontas/) because she hasn't been able to prove the native American bloodline that she claims to be proud of.
 - Alaska is more than twice as large as the next largest state, Texas, i.e. you can cut Alaska in half and Texas will only be the third largest state.
 - In the American Civil War, not every confederate state surrendered.

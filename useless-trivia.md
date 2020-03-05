@@ -186,3 +186,4 @@
 - Japanese girls have not been [licking doorknobs](http://japanesegirlslickingdoorknobs.tumblr.com/) for more than three years.
 - "Battle rackets" is not a thing.
 - If you search for "poosh", a Kardashian shows up.
+- [Doja Cat](https://en.wikipedia.org/wiki/Doja_Cat) has a song that says she's *not* a cat, but a cow instead.

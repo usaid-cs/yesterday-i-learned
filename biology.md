@@ -1,3 +1,5 @@
+- A million cells die every second!?
+- Hamsters have really cute, [tiny molars](https://c8.alamy.com/comp/PFFXA6/skull-of-a-hamster-cricetus-cricetus-side-view-PFFXA6.jpg).
 - [BMI between 18.5 and 24.9 is ideal](https://www.medicalnewstoday.com/articles/323446). 80% of Americans are overweight. [40% of Americans are obese](https://www.usnews.com/news/health-news/articles/2020-02-27/about-40-of-us-adults-are-obese-government-survey-finds).
 - [One in eight women get breast cancer](https://www.breastcancer.org/symptoms/understand_bc/risk/understanding), and the five-year survival rate is about 85% (i.e. 2% of all women end up dying from it).
 - The appearance of worm holes on leaves ironically means that it is healthy to eat.

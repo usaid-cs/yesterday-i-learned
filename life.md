@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Your parents said you can be anything, not everything. Be realistic, man.
+- "Confidence is not “They will like me”. Confidence is “I'll be fine if they don't”." - /u/bloomer62
 - "If you are agonizing over the decision, it's because one path isn't clearly better than another. So just pick one. It doesn't actually matter which you pick. **If there were a right decision, you would have already made it**. Toss a coin." - /u/kabooozie, describing a TED talk
 - Similar to what Helen Keller said, "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy." - Martin Luther King Jr
 - "Unless you saw it happen, the author of any quote is probably incorrect." - [Will Smith](http://forums.redflagdeals.com/what-do-people-live-apartments-do-tire-storage-511473/#p5889638)

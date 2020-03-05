@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- "Tendies" are meat near or on chicken breasts.
 - In order to [opt out of SSID tracking](https://www.androidpolice.com/2020/02/28/opt-out-wi-fi-from-google-location-services/) by Google, Microsoft, and Apple, your WiFi's SSID needs to have all three of the companies' opt-out identifiers, or `Bob's WiFi FuckYou_Microsoft_optout_AndYouGoogle_nomap_AndUpYoursTooApple_noapp`.
 - A horizontal 16:9 video on a vertical 9:16 screen occupies less than 1/3 of the screen (32%).
 - Enabling `toolkit.tabbox.switchByScrolling` in firefox scrolls tabs with your mouse wheel, which was a hallmark Chrome feature.
@@ -7,7 +8,7 @@
 - It is by complete coincidence that February is four weeks long. Its length is not dictated by how long a week is.
 - Gaming (and, to an extent, office) chairs aren't comfortable. They just ensure you have proper posture to stay seated for a long time, which makes you comfortable I guess.
 - Kailh mechanical keyboard switches are [heavier to press](https://www.reddit.com/r/MechanicalKeyboards/comments/2dzg2d/kailh_vs_cherry_switches/) than Cherry MX ones, but are more or less than same.
-- **Redis can be slower than your database** if you use it to `SCAN` through its cache `KEYS`. Because it's an idiot and stores keys in like an array instead of a hash table. If you use redis that way, **caching something will be slower than not caching at all**.
+- **Redis can be slower than your database** if you use it to `SCAN` through its cache `KEYS`. Because it's an idiot and (presumably) stores keys in like an array instead of a hash table. If you use redis that way, **caching something will be slower than not caching at all**.
 - [Casu marzu](https://en.wikipedia.org/wiki/Casu_marzu), or rotten fly maggot cheese from Sardinia, is/was illegal to sell. "The acid from the maggots' digestive system breaks down the cheese's fats, making the texture of the cheese very soft." While maggots are traditionally eaten with the cheese, some prefer not to eat it anymore.
 - A good knife doesn't need to be sharpened so often. You may hear codes like [M390 and S90V](https://www.bladehq.com/cat--Best-Knife-Steel-Guide--3368) on some forums.
 - [Studs](https://en.wikipedia.org/wiki/Wall_stud) are non-loadbearing vertical supports. They just hold the wall up. People use a [stud finder](https://en.wikipedia.org/wiki/Stud_finder) to find a place you can [screw in heavy things](https://www.popularmechanics.com/home/a28842874/best-stud-finders/).

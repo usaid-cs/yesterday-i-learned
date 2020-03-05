@@ -1,3 +1,4 @@
+- [Pope Francis had a lung removed when he was young](https://abcnews.go.com/blogs/health/2013/03/13/new-pope-had-lung-removed-during-childhood). Infection.
 - Thomas Jefferson [created a bible](https://www.christianity.com/wiki/bible/what-is-the-jefferson-bible.html) that didn't have Jesus performing miracles in it. He said he was a Christian, but thought Jesus was strictly human (a good teacher though), and that his miracles were later added into the bible "agenda-driven ... by Jesus’ followers."
 - Paul never met Jesus, but behold, [Pauline Christianity](https://en.wikipedia.org/wiki/Pauline_Christianity) is what most Christians follow now.
 - People say there is a disciple called [Thaddeus](https://en.wikipedia.org/wiki/Jude_the_Apostle) only because there are two Judases/Judi, and they needed a way to tell the difference between Judas the traitor, and Judas Thaddaeus, the other one.
