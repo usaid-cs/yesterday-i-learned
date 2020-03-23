@@ -101,10 +101,19 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 
 ### Looking for a suitable time
 
+> If you're looking at this and wondering when to get in, to bargain hunt essentially, and you're asking yourself questions like "today? next week?", you need to step back and think again. Some points to consider:
+> - If your time horizon is 10+ years out probably none of this matters
+> - If your time horizon is less than 5 years out, you should really question if you should be in the stock market at all
+> - Be familiar with the term "dead cat bounce". This is a temporary period of recovery followed by a steeper drop. You're going to see this kind of thing.
+> - Large market drops often lead to or are because of a likely recession. This can go on for months or years.
+> - After the GFC the markets went down and then sideways for over a year. You essentially missed nothing by waiting two years. This could easily happen again.
+> - Learn what "reversion to mean" means. It means that at times the markets generally follow a long term upward trend. At times the market will go above or below that. This can be a useful indicator of whether equities are cheap or expensive. In a given cycle you have boom (above the mean when equities are overbought) to bust (an overcorrection to below the mean when equities are oversold).
+> Bear markets are paved with the blood of optimists.  - [cletus](https://news.ycombinator.com/item?id=22527631)
+
 Further reading: [0001.md](sources/0001.md)
 
 - [Buy the rumour sell the news](http://www.investopedia.com/stock-analysis/2010/buy-on-the-rumor-sell-on-the-news-vod-vz-t-aapl-goog0706.aspx): traders typically dump shares immediately after a new product is introduced. You should therefore buy the shares somewhere around two weeks after the release, and sell a week before the hype cycle comes to a close.
-- Don't try to "time the market" (predicting its movements and buying and selling accordingly). You may get lucky, but will not succeed over the long term.
+- Don't try to "time the market" (predicting its movements and buying and selling accordingly). You may get lucky, but will not succeed over the long term. [Investing consistently results in you buying both the top and the dip](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/), evening out the worst of crashes.
 
 #### To buy
 
@@ -112,7 +121,7 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 
 - Consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
 - Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic. (after the fall is done, it is not called the bear market anymore.)
-- It doesn't hurt to buy stocks _after_ it is done dropping. Buying before it's done dropping is called "catching a falling knife".
+- [It doesn't hurt to buy stocks _after_ it is done dropping](https://news.ycombinator.com/item?id=22527631). Buying before it's done dropping is called "catching a falling knife". If prices drop afterwards, it is called a "dead cat bounce".
 - Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.
 - [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
 - [Relative Strength Index, RSI](http://www.investopedia.com/terms/r/rsi.asp) should be under 50. 100 means the stock is extremely overbought. 0 means the stock is extremely [oversold](http://www.investopedia.com/terms/o/oversold.asp). See [stockcharts.com](http://stockcharts.com/freecharts/) for visuals. Be careful with the index, as modifying its calculation period can switch the results completely. "Oversold" may also just mean the stock is doing very poorly, instead of a bargain indicator.
@@ -124,21 +133,23 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - A "buy" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a buy when a stock dips below a certain price.
 - Inflation favours banks (somehow). So, buy bank stocks when [the idiot](https://forwardprogressives.com/wp-content/uploads/2017/07/trump-idiot-1.jpg) does anything that encourages inflation.
 - You can buy before or after the [ex-dividend date](https://www.investopedia.com/terms/e/ex-dividend.asp) (after which the shares will drop in price, because they won't be paid dividends). You just need to know that. If you buy before the date, you should pay no more than the value of the stock % dividend percentage.
+- If you are looking to "bargain buy" after a market crash: the bigger the crash, the longer it takes for market sentiment to recover. A small correction can recover within days. A large correction can plateau for a whole year.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
 (Also called 套現, or "cash out")
 
 - When the price is right (hits your target). [Do not be greedy.](http://www.investopedia.com/articles/stocks/08/learn-loss.asp)
-- When the price is too low (where you lose too much).
+- When the price is too low (where you lose too much). If you are trading with a non-registered account (read: TFSA or RRSP), look into [tax loss harvesting](https://youngandthrifty.ca/tax-loss-harvesting-benefits/) (swapping funds with funds of another kind during a loss, and the loss becomes tax credit).
 - When the company is no longer doing its business the right way or making enough sales
 - When a better stock exists
 - When the company is acquired
 - When the company goes bankrupt (selling it doesn't give you money, but you can claim it as capital loss)
 - [When you anticipate a market failure](http://www.reddit.com/r/stocks/comments/53znlq/_/).
+- [Wen your entire portfolio is at risk](https://www.forbes.com/sites/investor/2020/03/05/buy-hold-or-sell-whats-the-right-response-to-current-fears/) and need liquid cash.
 - A "sell" [limit order](http://www.investopedia.com/terms/l/limitorder.asp) can be used to trigger a sell when a stock goes above a certain price.
 - [In May](https://en.wikipedia.org/wiki/Sell_in_May)
-- When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss. (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
+- When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss... but [only if you sell it within the deadline](https://www.tsinetwork.ca/daily-advice/how-to-invest/capital-gains-in-canada-what-is-tax-loss-selling-2/). (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
 - ~~In 2019. 2020 is when the last of baby boomers reach the age of 60.~~ (But they don't just sell everything at once, so ignore me.)
 - When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
 - Never, because you're holding and collecting dividends.

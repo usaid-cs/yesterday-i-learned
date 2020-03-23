@@ -94,6 +94,7 @@
 - To spawn a process where you wish to keep your arguments together, like `"--foo bar"`, use the [`{shell: true}`](https://stackoverflow.com/a/52841103/1558430) spawn option.
 - To debug a script, run `node inspect thatscript.js` instead of `node thatscript.js`.
 - [The difference between `exports` and `module.exports`](https://stackoverflow.com/a/7142924/1558430) is, basically, you can't assign anything atomic to `exports`, i.e. `exports = foo...`. The _original_ reference to `exports` is exported, which means your new assignment is not.
+- `mkdirSync(... recursive: true)` is only available on Node 10.12 and above.
 
 ## [Promise API](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 

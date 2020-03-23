@@ -1,5 +1,7 @@
 # [yesterday-i-learned](https://1337.github.io/yesterday-i-learned/)
 
+Fun fact: a collection of concise but detailed information about a subject is called a "compendium", making this repo a compendium of compendia.
+
 # Categories
 
 ## 000 Information & general works

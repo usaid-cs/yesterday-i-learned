@@ -1,5 +1,15 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Quarantine: you are prevented from leaving. Self-isolation: you prevent yourself from leaving. Social distancing: you can leave, but you stay away from people (me irl).
+- Bear spray, used to deter bears, is much [weaker](https://johnaugust.com/2019/bear-spray-is-not-stronger-than-pepper-spray) than pepper spray, which is meant to incapacitate. They also have different spray patterns (wide vs narrow).
+- [Cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) is when you (the coder) make all the decision, like schedule, technology, and coding style, on their own. Characteristics include delivering incomplete code that no one else understands, and delivering broken products that don't meet the client's specs.
+- The 1929 depression [lasted a whole decade](https://www.thebalance.com/recession-vs-depression-definition-causes-and-stats-3306048). Dow Jones kept doing down for [almost 3 years](https://www.macrotrends.net/1319/dow-jones-100-year-historical-chart).
+- Pakistan has received [at least 13 bailouts from the IMF](https://thediplomat.com/2019/07/the-imf-takeover-of-pakistan/).
+- Disable `gfx.downloadable_fonts.enabled` in Firefox to not download CSS fonts. Note: this also breaks font-awesome.
+- "Cross-selling" is when you sell another product to an existing customer.
+- [Dungeons](https://en.wikipedia.org/wiki/Dungeon) specifically houses prisoners. They are not generic basements.
+- Vibration from drives ruin other drives in RAID arrays, unless you have vibration resistant drives, which are very... expensive.
+- Bangles are rigid bracelets.
 - "Tendies" are meat near or on chicken breasts.
 - In order to [opt out of SSID tracking](https://www.androidpolice.com/2020/02/28/opt-out-wi-fi-from-google-location-services/) by Google, Microsoft, and Apple, your WiFi's SSID needs to have all three of the companies' opt-out identifiers, or `Bob's WiFi FuckYou_Microsoft_optout_AndYouGoogle_nomap_AndUpYoursTooApple_noapp`.
 - A horizontal 16:9 video on a vertical 9:16 screen occupies less than 1/3 of the screen (32%).
@@ -37,7 +47,7 @@
 - The M in `itms://` stands for Music.
 - Every version of Chrome claims to be Mozilla, Apple, KHTML, Gecko, Chrome, and Safari simultaneously.
 - Flash memory is... [apparently](https://www.youtube.com/watch?v=lQmI5A27Iv8) (video) supposed to run at 40 degrees Celsius, and at 20 degrees, its write endurance is halved, according to [JEDEC](https://en.wikipedia.org/wiki/JEDEC) Solid State Technology Association.
-- A "regime" is a systematic way of doing things imposed onto you. It can also be understood as authoritarianism.
+- A "regime" is a systematic way of doing things imposed onto you. It can also be understood as authoritarianism. "Authoritarian regime" is a form of tautology.
 - Excluding lunch hours, [OECD](https://en.wikipedia.org/wiki/Working_time) finds the average worker on the planet working 1763 hours every year, which is about... 6.2 hours per day.
 - Those who value the longevity of their phones should [get a plastic screen protector](https://www.nytimes.com/2017/05/24/technology/personaltech/reality-check-what-does-and-doesnt-protect-your-smartphone.html). Everyone should get a case. Few should get extended warranty.
 - Flat Earth Society explains "other planets are round" by saying [the Earth is not a planet, we are the center of the universe, everything revolves around us](https://wiki.tfes.org/Flat_Earth_-_Frequently_Asked_Questions#What_evidence_do_you_have.3F), "but photos" with "we don't use photos as evidence", and "we literally went to space" with "it's a conspiracy that we went to space, and all the countries are lying to you simultaneously".
@@ -1257,7 +1267,7 @@
 - "Lean" software development [doesn't actually ask for two-week sprints.](https://zwischenzugs.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/) Scrum does that.
 - Gas is cheaper at night.
 - A "roach" is a marijuana joint. A "roach clip" helps you grab onto the joint so it doesn't burn your finger, and can sometimes look like [a key](https://cdn.shopify.com/s/files/1/1591/0715/products/1024-roach-clip-brass-key21281867.jpg?v=1479696562) so the police doesn't find it.
-- Pennsylvania ("Penn's Forrest") is named after William Penn, so it must have two Ns.
+- Pennsylvania ("Penn's Forest") is named after William Penn, so it must have two Ns. *Silva* is latin for woods.
 - Flappy bird creator pulled the app off the stores because he ["cannot take this anymore"](https://www.theverge.com/2014/2/8/5393208/flappy-bird-creator-says-hes-pulling-the-game-offline-tomorrow).
 - Intel CPUs made since 2008 have a [management engine](https://en.m.wikipedia.org/wiki/Intel_Management_Engine) running as a supervisor of your actual operating system, which has ring -3 equivalent of access _and_ bugs and backdoors for the NSA: " Intel has confirmed the ME contains a switch to enable government authorities such as the NSA to make the ME go into High-Assurance Platform (HAP) mode after boot."
 - TetraNormal says that "Alcohol divides everybody by 2 and then adds 5," so you, obviously a 10, are still a 10.

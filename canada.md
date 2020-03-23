@@ -1,5 +1,9 @@
 🇨🇦
 
+- Scotiabank has the highest number of full time employees per branch, if they all worked in branches (85).
+- [Line of credit / lines of credit have "draw periods"](https://www.creditkarma.com/advice/i/what-is-line-of-credit/), or the period during which you may take out money. It can last a few years. After those few years, you have a few more years to pay back the money. Sometimes a line of credit account can have a monthly fee to keep open. [Interest rate on a line of credit can change on you](https://www.canada.ca/en/financial-consumer-agency/services/loans/loans-lines-credit.html), so don't borrow unless you can pay back.
+- [Day trading on a TFSA is forbidden](https://ca.finance.yahoo.com/news/canada-revenue-agency-commit-2-173008522.html) and is subject to taxation if you do.
+- The largest industry of Canada is [real estate](https://en.wikipedia.org/wiki/Economy_of_Canada) Newfoundland and Labrador is 12% unemployed.
 - Engineers Canada says [you cannot call yourself an engineer even after you've earned your degree](https://engineerscanada.ca/frequently-asked-questions). These people can only be called "engineering graduates", and can be called an engineer only after they are licensed.
 - The fact that [the UK benefits from having a monarchy](https://youtube.com/watch?v=LsremiCn0MU) does not benefit the rest of the commonwealth.
 - [There are 634 First Nations recognised by Canada](https://en.wikipedia.org/wiki/First_Nations). Or, Canada took territory from 634 First Nations. However you want to put it.
@@ -59,7 +63,7 @@
 - On the 279th day of 2019, [that "rotating a goose by 360 degrees" post](https://www.reddit.com/r/uwaterloo/comments/dgw3s8/day_279280_were_doubletiming_it_to_make_up_for/) had two 278th days.
 - Canadian Tire owns Sport Chek.
 - Canadian Tire Money is/was printed by [real banknote companies](https://en.wikipedia.org/wiki/Canadian_Tire_money).
-- [Pure silver and gold items are not taxed (HST).](https://www.cdncoin.com/terms.asp) They may still charge a PST.
+- Most [pure silver and gold items are not taxed (HST).](https://www.cdncoin.com/terms.asp) They may still charge a PST. This may be similar to how currency exchanges work.
 - [Throonie](https://www.mint.ca/store/coins/coin-prod2890130?&rcmiid=ban%7chomepage%7ccarousel%7cstorecoinscoin-prod2890130langenCA&#.WLRQm2_ythE).
 - [89% of Canada's land is crown land; the other 11% is privately owned.](https://en.wikipedia.org/wiki/Land_ownership_in_Canada) When you "buy" a place or land with that place, you only buy "land tenure" (right to hold the land) in that place. As for the [11% that actually owns private land](https://www.ontariowoodlot.com/publications-and-links/owa-publications/landowner-guides/download/59_77492d55a6aab2093dcf761c0bf49cc5) (pdf), they sell wood.
 - [Canada is one of the top 5 greening countries in the world](https://www.nasa.gov/feature/ames/human-activity-in-china-and-india-dominates-the-greening-of-earth-nasa-study-shows), with China and India being first. Even America is above average.
@@ -271,7 +275,7 @@
 - A legal "blood THC concentration" limit actually exists, 2ng.1. Tenants who share a kitchen or bathroom with the landlord [can be evicted with no advance notice](http://www.legalline.ca/legal-answers/do-tenants-have-rights-if-they-only-rent-a-room/), because the Residential Tenancies Act does not apply. Landlords and renters are encouraged to have a document written to cover all cases that the Act does otherwise.
 - All Ottawan Schawarma restaurants are called Palaces. If they happen to be government buildings, they also use the same soap dispensers.
 - According to the packaging for Prince Igor Vodka, Prince Igor lives in Grimsby Ontario.
-- [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362)
+- [If you go to a walk-in clinic, your family doctor gets paid less.](http://www.ctvnews.ca/health/why-your-walk-in-clinic-visits-could-mean-trouble-for-your-family-doctor-and-you-1.2775362) And then they can legally fine you if they want to.
 - Telehealth is a triaging service.
 - When Jagmeet Singh won the NDP leadership race, Justin Trudeau became the oldest major party leader at 45 years old.
 - Thomas Chapais on [Je me souviens](https://en.wikipedia.org/wiki/Je_me_souviens): "Yes, we remember. We remember the past and its lessons, the past and its misfortunes, the past and its glories," sort of like "lest we forget."

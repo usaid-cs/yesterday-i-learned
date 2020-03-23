@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- The Samsung Galaxy S20 Exynos versions have slower chipsets that use more power than the Snapdragon versions.
+- Record your screen, not necessarily stopping it: `adb shell screenrecord --bit-rate 800000 --size 960x540 --time-limit 59 /sdcard/FileName.mp4`
 - There is an [SMS fork of Signal](https://f-droid.org/en/packages/org.smssecure.smssecure/), called Silence, that uses SMS instead of, you know, the internet.
 - All "IPS" and ["PLS" displays](https://www.gsmarena.com/samsung_galaxy_a10e-9790.php) are TFT displays.
 - How do you [disable internet access for an app on android 10](https://support.google.com/pixelphone/thread/17808759?hl=en)? Answer: you just don't. "Let every app access the internet, bitch."

@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- An expired (PGP) key can be renewed so what's the point in them? [The only good use for them seems to be cycling subkeys as a practice](https://security.stackexchange.com/questions/14718/does-openpgp-key-expiration-add-to-security), rather than being a nuisance for having to renew.
 - `kill -9 -1` (in that order) kills every process you can kill.
 - A `fork()`ed process [will continue running at the same instruction that forked it](https://www.reddit.com/r/linux/comments/f1alcy/linus_torvalds_just_made_a_big_optimization_to/fh3dicv/) (according to reddit, anyway... I don't know enough) so calling `fork()` six times consecutively will yield 2^6 processes rather than 7.
 - You know it isn't going to be the year of the Linux desktop when your best office suite is *Google Docs* (/sheets/slides/whatever).
@@ -308,3 +309,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - In `gawk -F: '{ print $1 }' /etc/passwd`, the `-F:` really means `-F ':'`. That is how POSIX wanted you to provide options. Also that command means "print the first column in `/etc/password` if every line were split with `:`".
 - [An email should not be a linux username](https://unix.stackexchange.com/questions/157426/what-is-the-regex-to-validate-linux-users). A good username matches `[a-z_][a-z0-9_-]*[$]`, and Debian supposedly also accepts `@` and `/` as long as the length is under 32, but it's not recommended [because even if `useradd` accepts these characters, many things might break](https://unix.stackexchange.com/a/157430).
 - `nproc` prints the number of cores that are online. `nproc --all` gives you the number of cores you have.
+- `curl -i` prints out the response's headers.

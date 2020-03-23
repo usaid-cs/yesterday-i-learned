@@ -1,5 +1,8 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- [七孔流血還七孔流血，死還死，係兩回事！](https://hk.finance.yahoo.com/news/%E6%96%B0%E8%81%9E%E9%BB%9E%E8%A9%95-%E6%B8%AF%E5%BC%8F%E6%8A%97%E7%96%AB-%E6%98%AF%E5%85%A8%E7%90%83%E5%87%BA%E8%B7%AF-194700077.html) 能捱下去就是勝利。
+- A principal developer [mentors those below them](https://sizovs.net/2019/02/15/the-principal-developer/), while not being the best of the best. They're a role model others want to follow. They should also be able to influence how other departments function, so [they need to know the business side as well](https://www.quora.com/Whats-the-difference-between-a-senior-developer-and-a-lead-developer). This is another way of saying "coders don't know coding isn't everything".
+- Think of "you're adorable" as whether you can be adored, the same way people say "a face only a mother could love".
 - Your parents said you can be anything, not everything. Be realistic, man.
 - "Confidence is not “They will like me”. Confidence is “I'll be fine if they don't”." - /u/bloomer62
 - "If you are agonizing over the decision, it's because one path isn't clearly better than another. So just pick one. It doesn't actually matter which you pick. **If there were a right decision, you would have already made it**. Toss a coin." - /u/kabooozie, describing a TED talk
