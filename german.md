@@ -1,3 +1,4 @@
+- **Befehl**: Order. *Das war ein Befehl!*: that was an order!
 - **Bis**: Until. *Bis morgen*: see you tomorrow.
 - **Du**: You (informal)
 - **Ersaufen**: Drown. *Sie werden ersaufen in ihrem eigenen Blut*: they will drown in their own blood.

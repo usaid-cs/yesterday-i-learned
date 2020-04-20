@@ -1,5 +1,12 @@
 🇨🇦
 
+- If you create a company, [it is expected that the company eventually makes money, and you need to back it up](https://www.reddit.com/r/PersonalFinanceCanada/comments/5i5kq8/taxwise_is_it_acceptable_to_run_a_business_at_a/db5l1og/).
+- You can put high-dividend assets in an RRSP, but that's rarely a good idea because [dividends earned elsewhere are taxed at a lower rate](https://www.fool.ca/2016/12/13/not-all-canadian-dividend-etfs-are-created-equal/).
+- Canada's defence minister Harjit Sajjan [invented his own gas masks for Sikhs](https://foreignpolicy.com/2015/11/05/canadas-new-defense-minister-made-his-own-gas-mask-to-work-with-his-sikh-beard/) so he could fight.
+- When the CBC broadcasts internationally, it is called [Radio Canada International](https://en.wikipedia.org/wiki/Radio_Canada_International) (RCI).
+- [No point thermal scanning airport travellers for SARS, they don't show up](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294328/) - A paper written by a Theresa Tam, before she became health minister.
+- [HELOC](https://en.wikipedia.org/wiki/Home_equity_line_of_credit) (home equity line of credit) is one type of secured line of credit. There are other secured lines of credit that is secured based on something else.
+- [Flamethrowers are not considered firearms](http://globalnews.ca/news/3995300/elon-musk-flamethrower-canada-legal/) because "no projectile shoots out of them".
 - Scotiabank has the highest number of full time employees per branch, if they all worked in branches (85).
 - [Line of credit / lines of credit have "draw periods"](https://www.creditkarma.com/advice/i/what-is-line-of-credit/), or the period during which you may take out money. It can last a few years. After those few years, you have a few more years to pay back the money. Sometimes a line of credit account can have a monthly fee to keep open. [Interest rate on a line of credit can change on you](https://www.canada.ca/en/financial-consumer-agency/services/loans/loans-lines-credit.html), so don't borrow unless you can pay back.
 - [Day trading on a TFSA is forbidden](https://ca.finance.yahoo.com/news/canada-revenue-agency-commit-2-173008522.html) and is subject to taxation if you do.

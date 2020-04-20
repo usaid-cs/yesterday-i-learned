@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- The vast majority of autists on /r/wallstreetbets do not "YOLO on SPY puts" with their life savings, but the true lunatics do make the front page.
+- In Japan, you should not eat and walk. Even if it's a hotdog.
+- The economy of Cuba is [communist, provides everything you need, but pays you ~30 USD a month no matter what job you do](https://www.youtube.com/watch?v=uzvcztUmMwA). Issue: tour guides get tips equivalent to someone's monthly salary. Issue: highly-skilled Cubans really want to leave the country.
+- Children can't read the clock. They don't know what the time is. If you really want them to know what the time is, buy them a light that changes colour whenever it's a certain time.
 - Quarantine: you are prevented from leaving. Self-isolation: you prevent yourself from leaving. Social distancing: you can leave, but you stay away from people (me irl).
 - Bear spray, used to deter bears, is much [weaker](https://johnaugust.com/2019/bear-spray-is-not-stronger-than-pepper-spray) than pepper spray, which is meant to incapacitate. They also have different spray patterns (wide vs narrow).
 - [Cowboy programming](https://en.wikipedia.org/wiki/Cowboy_coding) is when you (the coder) make all the decision, like schedule, technology, and coding style, on their own. Characteristics include delivering incomplete code that no one else understands, and delivering broken products that don't meet the client's specs.

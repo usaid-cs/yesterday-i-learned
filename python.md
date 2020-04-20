@@ -596,3 +596,6 @@ bar
 - [`MagicMock`](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.MagicMock) is just `Mock` with defaults.
 - Abstract base classes are useful when you never want the class instantiated.
 - You should always [`--no-site-packages`](https://stackoverflow.com/questions/21527471/what-is-no-site-packages-in-virutalenv) on a virtualenv that supports it. It isolates whatever else you have installed globally from your virtual env, which is mostly the point of a virtualenv.
+- [Slice assignment](https://riptutorial.com/python/example/3048/slice-assignment): `a_list[1:3] = [4, 5]` replaces `a_list[1]` with 4, and `a_list[2]` with 5.
+- [`self` is a keyword; it "has absolutely no special meaning to Python".](https://docs.python.org/3/tutorial/classes.html) You can easily make a `class self`, inside which you have `self = None`, and get `self.self == None`.
+- In python3, dividing an int by an int returns a float. This is the only change in behaviour. Dividing a float or Decimal by an int still returns that type.

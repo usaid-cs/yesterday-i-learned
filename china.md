@@ -1,8 +1,10 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Any woman whose family requests a ["彩礼"](https://baike.baidu.com/item/%E5%BD%A9%E7%A4%BC/81908) (money from the man's family to the woman's family) shall send to the man's family, along with the woman, a multiple-value of ["嫁妆"](https://baike.baidu.com/item/%E5%AB%81%E5%A6%86/4594) (money from the woman's family to the man's family), so clever famliies don't do that anymore.
+- Congee used to be called [糜](http://www.cantonese.sheik.co.uk/dictionary/characters/8045/) (M: mei2/ C: mei4).
 - The 铺盖 in 铺盖面 means blanket. The noodles are wide and they say they look like blankets.
 - China didn't have the chili pepper until the Ming dynasty.
-- [不見棺材不掉淚](https://en.wiktionary.org/wiki/%E4%B8%8D%E8%A6%8B%E6%A3%BA%E6%9D%90%E4%B8%8D%E6%8E%89%E6%B7%9A) either means you refuse to accept reality until it hits you real hard, or that you cannot be convinced to give up despite the circumstances.
+- [不見棺材不掉淚](https://en.wiktionary.org/wiki/%E4%B8%8D%E8%A6%8B%E6%A3%BA%E6%9D%90%E4%B8%8D%E6%8E%89%E6%B7%9A) (唔見棺材唔流眼淚) either means [you (or your optimism) refuse to accept reality until it hits you real hard](https://news.rthk.hk/rthk/ch/component/k2/1518681-20200403.htm), or that you cannot be convinced to give up despite the circumstances.
 - [WireGuard is NOT known to be stealthy](https://www.reddit.com/r/Android/comments/f67mb9/firefox_releases_android_app_for_its_vpn_service/fi3fk0a/). It is not designed to bypass the great firewall.
 - The entire province of [Guangxi](https://en.wikipedia.org/wiki/Guangxi) is an autonomous region run by an ethnic minority.
 - [Some "China Highlights" website](https://www.chinahighlights.com/travelguide/chinese-food/spring-rolls.htm) claims that spring rolls were not rolled up (as "春盘", i.e. served as vegetables on dough) until some time in the Ming dynasty (1368 to 1644).

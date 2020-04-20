@@ -44,6 +44,16 @@ Bonds values do not correlate to stock market performance, so when the stock mar
 Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
 
 * In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
+* You can tell how screwed bonds/bond funds are by looking at the [bond yield](https://ca.investing.com/rates-bonds/canada-5-year-bond-yield), which is a number posted by some... one. When that gets close to 0%, you should sell. And when it actually hits 0% (once inflation is taken into account), it is a signal that you *must* sell.
+
+### Mortgage-backed securities, CDOs, Credit-default swaps, synthetic CDOs
+
+* [Mortgage-backed security](https://en.wikipedia.org/wiki/Mortgage-backed_security): similar to a bond, [whenever the home owner pays a mortgage payment, the owner of the MBS gets a cut](https://www.investopedia.com/terms/m/mbs.asp).
+* [Collateralized debt obligations](https://www.investopedia.com/terms/c/cdo.asp): perhaps a group of MBSes, like a mutual fund of mortgages, but with different grades of MBSes inside (AAA, AA, A, BBB, ...). (Interestingly, a CDO with only 25% AAA MBSes can itself be AAA.)
+* [Credit default swaps](https://www.investopedia.com/terms/c/creditdefaultswap.asp): a lender can buy a CDS if they're afraid the home owner defaults on the loan, like an insurance. Alternatively, if buyers are assumed to never default, then these are just wall street bets that don't depend on the actual asset.
+* [Synthetic CDOs](https://www.investopedia.com/terms/s/syntheticcdo.asp): perhaps a group of CDSes, like a betting pool. The issue with these are: CBS sellers (aka insurance) can't pay out everyone at once.
+
+You will be fine if your portfolio contains none of these.
 
 ## Futures
 
@@ -66,6 +76,8 @@ To give you an idea how risky stocks are, an overwhelming number of people sugge
 ### Shorting
 
 ["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.
+
+[*You don't actually know you are "borrowing" someone's stocks.](https://www.youtube.com/watch?v=ZLLDyoKsR8k) The broker does it behind the scenes, just like how a bank would lend out *your* money to others, because chances are the bank's customers won't be withdrawing money all at once.
 
 Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-moves-first-time-investors.asp?no_header_alt=true) involve borrowing money to buy stocks that (you hope it will) go up.
 
@@ -97,7 +109,6 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 - Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell.
 - Buy bonds when stocks are falling. (More research required)
 - Consider things that people *need* when stocks are falling. Examples: waste management, education, essential medicine manufacturing, cigarettes, and discount retailers.
-
 
 ### Looking for a suitable time
 
@@ -134,6 +145,7 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - Inflation favours banks (somehow). So, buy bank stocks when [the idiot](https://forwardprogressives.com/wp-content/uploads/2017/07/trump-idiot-1.jpg) does anything that encourages inflation.
 - You can buy before or after the [ex-dividend date](https://www.investopedia.com/terms/e/ex-dividend.asp) (after which the shares will drop in price, because they won't be paid dividends). You just need to know that. If you buy before the date, you should pay no more than the value of the stock % dividend percentage.
 - If you are looking to "bargain buy" after a market crash: the bigger the crash, the longer it takes for market sentiment to recover. A small correction can recover within days. A large correction can plateau for a whole year.
+- If you are day trading, which I already told you not to do, then you can look at the [bid-ask volumes](https://www.thebalance.com/buying-and-selling-volume-1031027) right before you trade. An incrasing number of asks (sells) means the price will go down.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
@@ -171,7 +183,7 @@ Mutual fund orders can take three whole fucking days to close. The price of the 
 
 - Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
 - There are also bond mutual funds, where the underlying assets are bonds. They are good for [when you anticipate interest rates to drop, but not when you anticipate rates to rise](https://www.investopedia.com/terms/f/fixedincome.asp). If interest rates rise quicker than your bond's return, you simply lose money... and if inflation happens in the meantime, you also lose money. Note that lower interest rates cause inflation. Which means if you invest in bonds, it is possible that you will be fucked either way.
-- [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by selling fund 3 rather than putting more money into fund 1, _rebalancing implies selling high and buying low._
+- [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by [selling fund 3 rather than putting more money into fund 1](https://www.fool.com/investing/how-and-when-you-should-rebalance-your-portfolio.aspx), _rebalancing implies selling high and buying low._
 - /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
 
 ## ETFs (Exchange-traded funds)
@@ -227,3 +239,11 @@ Never treat BitCoin as an investment. You can gamble all you want, but it is not
 
 - A security is a tradable financial asset of any kind, but [BitCoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset), which can be tangible or intangible.
 - "The fact that 90% of people use [BitCoin] for speculation rather than as currency is all the proof you need that it's a bubble."
+
+## Allocating
+
+["RRSP is tax-deferred and funded with pre-tax money, TFSA is tax-sheltered and funded with after-tax money."](https://www.reddit.com/r/PersonalFinanceCanada/comments/7d54sa/should_i_prioritize_certain_etfs_in_tfsa_vs_rrsp/dpvn3pd/) - Redditor explaining how you're fucked either way, just when.
+
+- [Put high-risk, high-reward assets in the TFSA, and low-risk, low-reward assets in the RRSP.](https://www.reddit.com/r/PersonalFinanceCanada/comments/a5th6k/investments_in_rrsp_vs_tfsa/)
+- If [30 year olds should have 100% in equities and 60 year olds should have 50/50 mix of equities and fixed-income investments](https://www.theglobeandmail.com/globe-investor/at-30-or-60-how-best-to-invest-your-tfsa/article36450229/), then you can tell each year you go beyond 30, you rebalance ~1.4% of your portfolio.
+- [US dividend ETFs prefer to be put in an RRSP](https://www.fool.ca/2016/12/13/not-all-canadian-dividend-etfs-are-created-equal/) because they don't have dividend tax credit either way, I think.

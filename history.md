@@ -1,3 +1,5 @@
+- According to [one source](https://theancienthome.com/blogs/blog-and-news/greek-roman-statues-painted), Greek statues were coloured.
+- Marie Antoinette said "Qu'ils mangent de la brioche", nothing about cake.
 - [A modest proposal](https://en.wikipedia.org/wiki/A_Modest_Proposal), full name "A Modest Proposal For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick", was a 1700s satirical essay to just turn these children into food, because the Irish weren't treated as people anyway.
 - A brewery called Paulaner brews [the Salvator beer](https://www.paulaner.com/our-products/salvator/) because the monks have been drinking it (full of nutrients, so they say) to pass Lent since the 1600s.
 - Salmon sushi is Norwegian. California sushi is Canadian.

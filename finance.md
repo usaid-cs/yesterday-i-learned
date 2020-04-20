@@ -1,6 +1,13 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- The stock market does not capture the state of the economy because [the stock market is not the economy](https://awealthofcommonsense.com/2020/04/the-stock-market-is-not-your-benchmark/); although it is true that the top 5 companies make up 19.3% of the S&P 500, it is not true that these companies make up 19.3% of the economy.
+- "When RV is below IV, the market is understating the risk of a large loss. When RV is above IV, the market is clearly in distress, and it is overstating the risk of a large loss. Put simply: RV > IV, the market favors option buyers, RV < IV, the market favors option sellers." If you don't buy options, none of this matters to you.
+- Debt-based economy: the economy is driven by the banks' ability to lend, which is dictated by the amount of money people borrow. *This sucks.*
+- [A stock market usually declines 10% at least once every year](https://dearmrmarketdotcom.files.wordpress.com/2013/06/frequency-and-magnitude-of-past-market-corrections.pdf), and 20% or more once every 3.5 years.
+- Expansionary fiscal policy: you spend more than you tax.
+- Contractionary fiscal policy: you tax more than you spend.
+- Quantitative easing: the government prints money, buys stuff all over the market to give banks that money, causing inflation and fucking over responsible people with savings.
 - Trump is not stupid. He creates tax cuts are for the rich (including himself). He introduces tariffs because it taxes poor people (who buy cheap imported goods) disproportionately. He lowers interest rates (making Powell submit to him) and releases massive reserve debt only to fill the debt that he created as the deficit. The net effect: *Trump made the government pay him, and everyone else gets fucked*, just like he says: it's a zero-sum game.
 - A [2-for-1 stock split](https://www.investopedia.com/terms/s/stocksplit.asp) means you now get two stocks if you had one. The prices are adjusted accordingly.
 - [Oil prices can go negative](https://www.ccn.com/this-is-how-oil-prices-can-crash-below-0-yes-really/) if the cost to store surplus oil exceeds the price of the oil, forcing producers to pay customers to take the oil.

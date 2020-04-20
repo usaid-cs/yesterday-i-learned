@@ -310,3 +310,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - [An email should not be a linux username](https://unix.stackexchange.com/questions/157426/what-is-the-regex-to-validate-linux-users). A good username matches `[a-z_][a-z0-9_-]*[$]`, and Debian supposedly also accepts `@` and `/` as long as the length is under 32, but it's not recommended [because even if `useradd` accepts these characters, many things might break](https://unix.stackexchange.com/a/157430).
 - `nproc` prints the number of cores that are online. `nproc --all` gives you the number of cores you have.
 - `curl -i` prints out the response's headers.
+- Decrypt your LUKS drive without a password with [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks). Usage: `sudo nice -n 20 bruteforce-luks -t 8 -m 16 /dev/sdb1`

@@ -348,7 +348,7 @@ False  # foo has no ratings
 - [Adrian Holovaty](http://www.holovaty.com/) added the line ["Thanks for checking it out."](https://github.com/django/django/commit/226acf35c84b379aa2e3c3b4672c18c61e3a8114) to the django/django repo.
 - [Bumping the cache version](https://docs.djangoproject.com/en/2.1/topics/cache/#cache-versioning) helps with situations where two Django deployments run side by side, but only one deployment understands a "new" version of the cache, for example: a python2 deployment cannot understand cached objects pickled by python3.
 - A free security check is available at `manage.py check --deploy`.
-- `manage.py` and `django-admin` are different scripts, but both provide `argv` to `execute_from_command_line`, making them essentially the same thing.
+- `manage.py` and `django-admin` are different scripts, but both provide `argv` to `execute_from_command_line`, making them essentially the same thing. (You can run `django-admin` anywhere, not just in `.`.)
 - A [`raw` Signal](https://docs.djangoproject.com/en/3.0/ref/signals/) should not do any other thing to query the database because the database might not be in a consistent state yet.
 
 ### Django signals (e.g. `post_save`, `m2m_changed`, ...) not working

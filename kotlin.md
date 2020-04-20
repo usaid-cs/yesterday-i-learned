@@ -39,3 +39,4 @@
 - Then `when` built-in, actually just `switch-case`, requires you to specify `->` in front of each case's code block, i.e. `1 -> { ... }`.
 - `/* Block comments /* can */ be nested. */`
 - Strings can have `"substitutions like $this"` (where `val this = "this"`).
+- It is possible to suffix something to a class, including seemingly built-in ones like `Number`, and instantly create a new attribute. [klock](https://korlibs.soywiz.com/klock/#unix-timestamp) does it like so: `DateTime.now() + 10.seconds` (where `seconds` is an attribute on `Number` now.)

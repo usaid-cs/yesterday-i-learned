@@ -15,6 +15,7 @@
 - After a layoff, you should withdraw money from RRSP [only after you finish using your severance payments and EI](https://business.financialpost.com/personal-finance/retirement/rrsps-are-about-much-more-than-just-retirement), and when you have no income at all, where you are in the bottom tax bracket.
 - In an economy where people run the risk of defaulting (which is not a "credit crunch", that's a different thing entirely), [companies that issue credit cards](https://www.mastercard.ca/en-ca/search-by-bank.html), like Scotiabank and Canadian Tire, do not do well.
 - [The stock market is not a gauge for how well the economy is doing](https://theweek.com/articles/886198/booming-stock-market-shows-america-diseased); it is just an indicator for how well *companies* are doing, and, therefore, how quickly money is being funnelled---from [the government, ironically socialised](https://www.reddit.com/r/TrueReddit/comments/ej4qov/the_booming_stock_market_shows_america_is_diseased/fcvhph0/)---to the rich.
+- Furloughs are forced unpaid leaves, sometimes regular (like during periods of time when no business is expected). The position remains guaranteed for the employee to return to.
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

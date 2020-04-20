@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- A 5.5" display at 16:9 is 2.7" in width. A 18:9 display at the same width is 6.0". A 19:9 display at the same width is 6.31". A 20:9 display at the same width is 6.58".
 - The Samsung Galaxy S20 Exynos versions have slower chipsets that use more power than the Snapdragon versions.
 - Record your screen, not necessarily stopping it: `adb shell screenrecord --bit-rate 800000 --size 960x540 --time-limit 59 /sdcard/FileName.mp4`
 - There is an [SMS fork of Signal](https://f-droid.org/en/packages/org.smssecure.smssecure/), called Silence, that uses SMS instead of, you know, the internet.
@@ -43,7 +44,7 @@
 - Snapdragon: [670 and 675](https://www.techcenturion.com/snapdragon-processors-ranking-and-list) are two 600 series CPUs that are better than the 820s. 660 and 665 are just under the 820s. Snapdragon 801 is unranked.
 - You can't deny an app `android.permission.INTERNET`, even with root.
 - Put `debug.hwui.renderer=skiagl` in your build.prop to make things glitch out faster.
-- [`pm trim-caches 100G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 100GB free, would effectively clear all your cache.
+- [`pm trim-caches 500G`](https://stackoverflow.com/a/25632007/1558430), which would clear the cache until you have 500GB free, would effectively clear all your cache.
 - To make your htop settings stick, mount `/` (not `/system`) as read-write, and then make the file `/.config/htop/htoprc`.
 - `pm list packages` got moved to `cmd package list packages`. Don't know why.
 - Staying away from Google is a [completely valid motion](https://arstechnica.com/gadgets/2018/07/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/). Lock-in in the form of vendor (closing source of killer apps so the vendors can't clone their features), apps (google play services as dependency), and APIs (fused location, maps, in-app payments, games). Article was written by Ron Amadeo.

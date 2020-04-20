@@ -1,3 +1,4 @@
+- USB sticks [might get lighter](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/) or heavier as you store data in it, depending on the type of [flash memory](https://en.wikipedia.org/wiki/Flash_memory) it is using. For memory that stores 0 with a charge, the USB stick gets lighter.
 - [Stiction](https://en.wikipedia.org/wiki/Stiction) is a made-up word for "static friction".
 - Ionisation of air is blue because ionisation of nitrogen is blue. So, electricity, if you can see it, is often blue.
 - Charging a laptop (10.8V) wirelessly would be a huge waste of energy.
