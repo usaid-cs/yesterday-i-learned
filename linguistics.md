@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- [Less than half of the world's population](http://ilanguages.org/bilingual.php) (40%) speaks only one language, making it more likely for you to bump into a bilingual+ person than one who is not.
+- [Because we would never say "Me was the winner," neither should we say "The winner was me."](https://getitwriteonline.com/articles/i-and-me/). I guess we would never? I mean, I would, but I should never. [The winner is *I*](https://airfoilgroup.com/the-nine-likeliest-errors-in-your-writing/)... which makes compound statements also "and I": "The winners were John and I".
 - There are no English verbs ending in A.
 - According to Grammarly, [presume and assume do not have temporal differences](https://www.grammarly.com/blog/presume-assume/), but, rather, presume is to suppose with probability in mind.
 - An [invalid](https://www.merriam-webster.com/dictionary/invalid) (noun) is a sickly or disabled person, and a [convalescent](https://www.regionofwaterloo.ca/en/health-and-wellness/convalescent-care.aspx) (con-va-LE-scent) is a person recovering from an illness. These were [words used in 1912](https://jamanetwork.com/journals/jama/article-abstract/432382).
@@ -286,7 +288,7 @@
 - [Weiße](https://en.wiktionary.org/wiki/Wei%C3%9Fe) is the female version of "Weißer", so it becomes to mean "white woman".
 - "Erwin Schrödinger" [sounds](https://www.youtube.com/watch?v=QOCaacO8wus) more like AIR-vin SH-HER-din-er than whatever we have been saying.
 - Jupiter is secretly YOO-piter and, Uranus, OOranos.
-- "Grasshopper" in French is ["criquet"](http://www.entomoveproject.com/blog/2014/12/03/the-bug-investigation-locust-grasshopper-cricket-or-katydid/). "Cricket” is then called "un grillon".
+- "Grasshopper" in French is ["criquet"](http://www.entomoveproject.com/blog/2014/12/03/the-bug-investigation-locust-grasshopper-cricket-or-katydid/). "Cricket" is then called "un grillon".
 - _Plato_ unfortunately calls himself _Plaaton_, rather than "play-doh".
 - Oh my god, it's [wheelbarrow](https://en.wikipedia.org/wiki/Wheelbarrow), not wheel barrel.
 - [To _cant_ something](https://www.merriam-webster.com/dictionary/cant) is to put it at an angle.

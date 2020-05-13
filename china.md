@@ -1,5 +1,11 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Originally meaning "strengthening one's integrity alone", "独善其身" now basically means "it's every man for himself".
+- There are multiple types of [Chinese people overseas](https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%A4%96%E8%8F%AF%E4%BA%BA): 华侨, Chinese citizens who settled overseas; 华人, former Chinese citizens having obtained citizenship elsewhere; and 华裔, children of the other two types, born outside China. Despite potentially having never been to China, 华裔 can have Chinese citizenship by parental association.
+- China's ["IPv9"](http://www.circleid.com/posts/explaining_chinas_ipv9/) is actually just a DNS that maps something back onto IPv4/6. [The addresses are pure numbers](https://wiki.mbalib.com/wiki/%E6%95%B0%E5%AD%97%E5%9F%9F%E5%90%8D), so perhaps you can have your phone number and have the same number as your IPv9 address.
+- Unfortunately, "bloodbath" translates to "bath blood" (浴血).
+- The mother of the king is also called the [dowager](https://en.wikipedia.org/wiki/Empress_dowager). 慈禧太后 was one.
+- Mainlanders called Hong Kong people [黄尸](https://jikipedia.com/definition/130025421) regardless of their opinion of the 2014/2019 democracy protests.
 - Any woman whose family requests a ["彩礼"](https://baike.baidu.com/item/%E5%BD%A9%E7%A4%BC/81908) (money from the man's family to the woman's family) shall send to the man's family, along with the woman, a multiple-value of ["嫁妆"](https://baike.baidu.com/item/%E5%AB%81%E5%A6%86/4594) (money from the woman's family to the man's family), so clever famliies don't do that anymore.
 - Congee used to be called [糜](http://www.cantonese.sheik.co.uk/dictionary/characters/8045/) (M: mei2/ C: mei4).
 - The 铺盖 in 铺盖面 means blanket. The noodles are wide and they say they look like blankets.

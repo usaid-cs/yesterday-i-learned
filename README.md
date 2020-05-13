@@ -24,6 +24,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 - [business.md](business.md)
 - [finance.md](finance.md)
 - [investing.md](investing.md)
+- [politics.md](politics.md)
 
 ## 400 Language
 

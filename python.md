@@ -599,3 +599,5 @@ bar
 - [Slice assignment](https://riptutorial.com/python/example/3048/slice-assignment): `a_list[1:3] = [4, 5]` replaces `a_list[1]` with 4, and `a_list[2]` with 5.
 - [`self` is a keyword; it "has absolutely no special meaning to Python".](https://docs.python.org/3/tutorial/classes.html) You can easily make a `class self`, inside which you have `self = None`, and get `self.self == None`.
 - In python3, dividing an int by an int returns a float. This is the only change in behaviour. Dividing a float or Decimal by an int still returns that type.
+- `attrgetter` resolves chains. `attrgetter('foo.bar')` returns a function that returns `your_object.foo.bar`. Also, `attrgetter` accepts multiple positional arguments, which will give you a tuple of keys instead (e.g. `attrgetter('foo', 'bar', 'baz')`).
+- Yes, `attrgetter` still raises AttributeError if the attributte does not exist. There is no `default` option.

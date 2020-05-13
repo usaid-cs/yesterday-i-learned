@@ -1,6 +1,13 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- [The government injecting money](https://news.ycombinator.com/item?id=22822869) eventually leads to the government owning the economy. See: South Korea and Samsung.
+- **Deflation is bad** because people will buy less now, in the hopes that things get cheaper in the future. Also banks will lend out less because they also have incentive to hold money.
+- People buying less stuff partially causes [deflation](https://www.investopedia.com/ask/answers/111414/what-causes-negative-inflation-or-deflation.asp) by forcing companies to lower prices to attract sales. Therefore, deflation during a pandemic does not apply to necessities like food and PPE.
+- Since a "put" is a right to sell something, you still need to own the stock itself to exercise a put. You can not have the stock but have the brokerage lend it to you, which is why putting requires a margin account.
+- There are [In the money (ITM) options, At the money (ATM) options, and Out of the money (OTM) options](http://www.optiontradingpedia.com/out_of_the_money_options.htm). ITM options have a (lower for call, higher for put) price than the stock's current price, which allows you to gain money if the stock's price remains the same. OTM options are the opposite of that, so you lose money by default if the stock's price stays the same. An "OTM Put" is when you *expect* a stock to go down, and you buy $5 put on a $10 stock, in the hopes that the stock drops below $5.
+- [After-hours trades](https://en.wikipedia.org/wiki/Extended-hours_trading) go through [electronic communication networks](https://www.investopedia.com/terms/e/ecn.asp) and don't go through the exchange. It is currently not known how the ECN is not an exchange.
+- Bonds are a promise to receive currency. Bonds are kinda bullshit if you have an inflating currency, especially if the bonds are negatively-rated.
 - The stock market does not capture the state of the economy because [the stock market is not the economy](https://awealthofcommonsense.com/2020/04/the-stock-market-is-not-your-benchmark/); although it is true that the top 5 companies make up 19.3% of the S&P 500, it is not true that these companies make up 19.3% of the economy.
 - "When RV is below IV, the market is understating the risk of a large loss. When RV is above IV, the market is clearly in distress, and it is overstating the risk of a large loss. Put simply: RV > IV, the market favors option buyers, RV < IV, the market favors option sellers." If you don't buy options, none of this matters to you.
 - Debt-based economy: the economy is driven by the banks' ability to lend, which is dictated by the amount of money people borrow. *This sucks.*

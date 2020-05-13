@@ -1,5 +1,10 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Kids sleep anywhere from 10 to 18 hours a day, so you have at least 2 hours of kid-free time per day to do things that might otherwise scar them forever.
+- A ["tincture of benzoin"](https://en.wikipedia.org/wiki/Tincture_of_benzoin), a mixture of ethanol and [benzoin](https://en.wikipedia.org/wiki/Benzoin_%28resin%29) --- which is a resin from [benzoic acid](https://en.wikipedia.org/wiki/Benzoic_acid) --- helps bandages stay on for longer. Benzoic acid (>5mg/kg) seems to be safer than nicotine (1mg/kg).
+- Some 0%-interest deals [stop your autopay like a month before the payments end, because they really, really want to earn your money](https://www.reddit.com/r/personalfinance/comments/g9p1em/beware_the_0_promotions_a_warning/).
+- "We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment." - Jim Rohn
+- Don't argue to be "right" because [you can be right and miss the entire point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1), making your entire argument useless. Being on point is a skill you must practice.
 - ["Gladiators and Vikings didn't have gymnasiums"](https://www.bloomberg.com/news/articles/2020-03-20/arnold-schwarzenegger-shares-workout-tips-for-virus-quarantine) - Arnold.
 - 落地喊三聲，好醜命生成 means "your life is determined the moment you were born". So basically the opposite of Sarah Connor.
 - [七孔流血還七孔流血，死還死，係兩回事！](https://hk.finance.yahoo.com/news/%E6%96%B0%E8%81%9E%E9%BB%9E%E8%A9%95-%E6%B8%AF%E5%BC%8F%E6%8A%97%E7%96%AB-%E6%98%AF%E5%85%A8%E7%90%83%E5%87%BA%E8%B7%AF-194700077.html) 能捱下去就是勝利。

@@ -1,3 +1,4 @@
+- The original ORIGINAL iPhone (the one Steve Jobs demoed on stage) had a plastic screen. He later changed his mind before the device was released to general public.
 - The lifetime ownership cost of an Apple mobile device (read: iPhone) might be [cheaper than Android](https://www.reddit.com/r/Android/comments/f2djw5/samsung_galaxy_s20_megathread/fhc3xnp/) if a device is guaranteed to be supported for five years instead of just one or two.
 - [Both Android and iOS claim to be useful tools](https://www.reddit.com/r/Android/comments/ew6nqj/i_miss_android_a_few_thoughts_from_a_recent/). Android requires frequent sharpening by the owner, and while iOS comes sharp, it cannot be sharpened.
 - Steve Jobs oversaw the design of the iPhone 4. [He insisted the body be built in stainless steel because it becomes beautiful as it wears](https://www.youtube.com/watch?v=788E-ATJ3pk). He dies just as the 4S was released. Apple switched back to aluminium for the iPhone 5.

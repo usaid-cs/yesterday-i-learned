@@ -311,3 +311,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - `nproc` prints the number of cores that are online. `nproc --all` gives you the number of cores you have.
 - `curl -i` prints out the response's headers.
 - Decrypt your LUKS drive without a password with [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks). Usage: `sudo nice -n 20 bruteforce-luks -t 8 -m 16 /dev/sdb1`
+- There is no `/dev/one`.

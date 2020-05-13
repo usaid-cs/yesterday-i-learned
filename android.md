@@ -6,6 +6,9 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- ".seb" files are Solid Explorer Backups.
+- The OnePlus 3 used the [SEC 610 KLUCG5J1CB-BOB1](https://www.slashgear.com/oneplus-3-teardown-part-ii-whats-inside-28446199/) UFS 2.0 chip from Samsung.
+- [Samsung devices don't have fastboot??](https://www.xda-developers.com/exynos-samsung-galaxy-s10-s10e-s10plus-kernel-sources/)
 - A 5.5" display at 16:9 is 2.7" in width. A 18:9 display at the same width is 6.0". A 19:9 display at the same width is 6.31". A 20:9 display at the same width is 6.58".
 - The Samsung Galaxy S20 Exynos versions have slower chipsets that use more power than the Snapdragon versions.
 - Record your screen, not necessarily stopping it: `adb shell screenrecord --bit-rate 800000 --size 960x540 --time-limit 59 /sdcard/FileName.mp4`

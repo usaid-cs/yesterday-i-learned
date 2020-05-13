@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- The Honda CR-V's cargo floor [could](https://www.autotrader.com/car-news/every-honda-cr-v-used-come-picnic-table-back-256447) be used as a picnic table.
 - Tesla owners love their brand so much, [they volunteered to be orientation helpers](https://www.autonews.com/article/20181008/RETAIL01/181009775/tesla-owners-volunteer-to-help-with-delivery-hell) to help Tesla for free.
 - [Don't listen to your service advisor](https://www.youtube.com/watch?v=jBpMe36GoW0) because: "when you are a service advisor, you are a salesperson. This is how you make your living, you have to upsell them."
 - E-85 fuel is **85% ETHANOL**, not 85% gasoline or 85 octane.

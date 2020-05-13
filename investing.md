@@ -6,6 +6,9 @@
 - Board Lot: a unit for "number of shares" in your stock exchange. Typically, A lot is 100 shares. Because trading 100 shares is easier than trading 17 shares, trading is often done in lots.
 - Book value: the "net asset value" of the company. A company's stock can (intrinsically) cost $5, but be traded at $300 because people love to speculate.
 - Buy on Stop: buy, when the price hits the value you specified.
+- [Capitulation](https://www.investopedia.com/terms/c/capitulation.asp): Sell at a loss. Paradoxically, if everyone capitulates, then prices can only go up, making it a buying opportunity.
+- Credit Crunch: when no one wants to buy debt. The yield goes up (they are high-risk debts that have lower prices than low-risk debts).
+- Debt monetisation: when the central bank prints money to buy debt.
 - Div yield (%): total dividend per year per share
 - EPS: earnings per share
 - MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.
@@ -106,7 +109,7 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 
 ### Looking for a generic trade
 
-- Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell.
+- Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell. As well, gold will be sold if people need to take out their savings to cover their massive losses during a downturn.
 - Buy bonds when stocks are falling. (More research required)
 - Consider things that people *need* when stocks are falling. Examples: waste management, education, essential medicine manufacturing, cigarettes, and discount retailers.
 
@@ -146,13 +149,14 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - You can buy before or after the [ex-dividend date](https://www.investopedia.com/terms/e/ex-dividend.asp) (after which the shares will drop in price, because they won't be paid dividends). You just need to know that. If you buy before the date, you should pay no more than the value of the stock % dividend percentage.
 - If you are looking to "bargain buy" after a market crash: the bigger the crash, the longer it takes for market sentiment to recover. A small correction can recover within days. A large correction can plateau for a whole year.
 - If you are day trading, which I already told you not to do, then you can look at the [bid-ask volumes](https://www.thebalance.com/buying-and-selling-volume-1031027) right before you trade. An incrasing number of asks (sells) means the price will go down.
+- There is something called a [cash-covered put](https://www.fidelity.com/learning-center/investment-products/options/know-about-cash-covered-puts): "Have you ever entered a limit order to buy a stock below its current trading price, only to find yourself waiting around for the price to drop for your order to execute? ... With a cash-covered put, ... you can collect money (the premium) from the option buyer. The buyer pays this premium for the right to sell you shares of stock, any time before expiration, at the strike price. The premium you receive allows you to lower your overall purchase price if you get assigned the shares. ... But what happens if you are not assigned the shares on or before expiration? You keep the premium."
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
 (Also called 套現, or "cash out")
 
 - When the price is right (hits your target). [Do not be greedy.](http://www.investopedia.com/articles/stocks/08/learn-loss.asp)
-- When the price is too low (where you lose too much). If you are trading with a non-registered account (read: TFSA or RRSP), look into [tax loss harvesting](https://youngandthrifty.ca/tax-loss-harvesting-benefits/) (swapping funds with funds of another kind during a loss, and the loss becomes tax credit).
+- When the price is too low (where you lose too much). If you are trading with a non-registered account (read: neither TFSA nor RRSP), look into [tax loss harvesting](https://youngandthrifty.ca/tax-loss-harvesting-benefits/) (swapping funds with funds of another kind during a loss, and the loss becomes tax credit). [See also](https://www.rbcgam.com/en/ca/learn-plan/investment-basics/turning-losses-into-tax-advantages/detail)
 - When the company is no longer doing its business the right way or making enough sales
 - When a better stock exists
 - When the company is acquired
@@ -185,6 +189,7 @@ Mutual fund orders can take three whole fucking days to close. The price of the 
 - There are also bond mutual funds, where the underlying assets are bonds. They are good for [when you anticipate interest rates to drop, but not when you anticipate rates to rise](https://www.investopedia.com/terms/f/fixedincome.asp). If interest rates rise quicker than your bond's return, you simply lose money... and if inflation happens in the meantime, you also lose money. Note that lower interest rates cause inflation. Which means if you invest in bonds, it is possible that you will be fucked either way.
 - [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by [selling fund 3 rather than putting more money into fund 1](https://www.fool.com/investing/how-and-when-you-should-rebalance-your-portfolio.aspx), _rebalancing implies selling high and buying low._
 - /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
+- As much as funds protect against volatility in an individual stock, [they can also hide a lot of low-quality stocks and be repackaged as a high-quality fund, like a CDO](https://www.bloomberg.com/news/articles/2019-09-04/michael-burry-explains-why-index-funds-are-like-subprime-cdos). This is particularly dangerous for actively-managed funds. Check a fund's underlying assets before buying.
 
 ## ETFs (Exchange-traded funds)
 
@@ -194,12 +199,21 @@ They can be bought and sold whenevr the exchange is open, instead of a once-per-
 
 ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets are traded. Don't trade an American ETF on the fourth of July, for example.
 
-[Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. You lost money because of resetting leverage."
+[Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. [You lost money because of resetting leverage.](https://study.com/academy/lesson/what-is-a-leveraged-etf-decay-risk-volatility.html)"
 
 ## Property
 
 Properties (e.g. houses that you don't live in) usually beat inflation in the long term.
 However, properties are vulnerable to pricing bubbles.
+
+* Pro: A mortgage is forced savings. The money isn't going to anyone else.
+* Con: Property taxes and maintenance costs.
+* Pro: Rents always go up. Mortgages typically don't.
+* Con: You can't exit a challenging situation like home repairs.
+* Pro: No one can kick you out but yourself (or the bank).
+* Con: But you cannot move easily.
+
+In other words, you pay for freedom. You can *stop paying when you settle down*.
 
 ### Who
 
@@ -219,15 +233,18 @@ However, properties are vulnerable to pricing bubbles.
 
 ### Where
 
+* Buy the worst house on a nice street that can be fixed up to appeal to buyers. Location is key. Get it inspected by a professional. (Editor note: hahahahaha, inspections, what a fucking joke this market is)
 * A place with lots of trees nearby, but not necessarily right beside you, can lower air pollution, noise, and chances of flood.
 * You won't want a place at an intersection. These places have higher insurance premiums because that's where cars commonly crash.
 
 ### How
 
 * It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
+* You can borrow money using your first house as leverage, to pay for your second house. Quite often this risk is still lower than investing in stocks, but you can end up homeless if you are not careful.
 
 ## Precious metals
 
+* [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold.
 * [Gold is not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp), but it is an "okay" diversifier. Gold also retains value and purchasing power no matter what civilisation you live in.
 * Gold is not "consumed", so the quantity of gold [used for investments] increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).
 * [Gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time.
@@ -247,3 +264,4 @@ Never treat BitCoin as an investment. You can gamble all you want, but it is not
 - [Put high-risk, high-reward assets in the TFSA, and low-risk, low-reward assets in the RRSP.](https://www.reddit.com/r/PersonalFinanceCanada/comments/a5th6k/investments_in_rrsp_vs_tfsa/)
 - If [30 year olds should have 100% in equities and 60 year olds should have 50/50 mix of equities and fixed-income investments](https://www.theglobeandmail.com/globe-investor/at-30-or-60-how-best-to-invest-your-tfsa/article36450229/), then you can tell each year you go beyond 30, you rebalance ~1.4% of your portfolio.
 - [US dividend ETFs prefer to be put in an RRSP](https://www.fool.ca/2016/12/13/not-all-canadian-dividend-etfs-are-created-equal/) because they don't have dividend tax credit either way, I think.
+- Since [DRIP changes the adjusted cost base of your holdings](https://www.moneysense.ca/columns/ask-moneysense/key-things-to-know-about-reinvested-dividends-on-your-etfs/) and you need to take care of the calculations, it is best to ignore the DRIP option and reinvest the dividends yourself if you have a non-registered account.

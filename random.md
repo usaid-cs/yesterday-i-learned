@@ -1,5 +1,16 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- India is called [*Bhārat*](https://en.wikipedia.org/wiki/India) in Hindi.
+- "Silt" is finer sand. Clay is finer silt. They might also be made from different minerals, but who's counting.
+- Starchy foods are just as good at clogging a drain as grease.
+- Washing HEPA filters breaks the fibres inside and [makes them worse](https://smartairfilters.com/en/blog/clean-wash-hepa/) than if they had simply not been washed.
+- When you double click to select English in Chrome, it ought to select a word. But for Japanese, the best Chrome can do is [looking all the boundaries up in a huge list of characters](https://stackoverflow.com/questions/61672829/how-does-chrome-decide-what-to-highlight-when-you-double-click-japanese-text/61673028#61673028), which is an [ICU (International Components for Unicode) standard](https://news.ycombinator.com/item?id=23118278).
+- MMA stands for mixed martial arts.
+- Roofs *need* to be ventilated. Otherwise the attic will rot.
+- When sending resumes through Gmail, [Google will analyse it and potentially spam filter it](https://medium.com/swlh/why-you-should-never-send-your-cv-via-gmail-b4fddd35fb3e). Better send with a simple password, or, better, not use Gmail.
+- Emoji is 絵文字 (Japanese) rather than just Emo字.
+- Yahoo is (as of 2020) completely operated by Verizon, while the original Yahoo still exists as "Altaba", but [only manages Yahoo's existing investments before it was sold](https://www.fool.com/investing/2017/06/19/what-investors-need-to-know-about-altaba-aka-whats.aspx).
+- If you want a formula to reference a cell no matter how much you shift cells around it (e.g. your A1 becomes B2 after you copy/paste), use `INDIRECT("A1")` to make sure it references A1 no matter where A1 is moved to.
 - The vast majority of autists on /r/wallstreetbets do not "YOLO on SPY puts" with their life savings, but the true lunatics do make the front page.
 - In Japan, you should not eat and walk. Even if it's a hotdog.
 - The economy of Cuba is [communist, provides everything you need, but pays you ~30 USD a month no matter what job you do](https://www.youtube.com/watch?v=uzvcztUmMwA). Issue: tour guides get tips equivalent to someone's monthly salary. Issue: highly-skilled Cubans really want to leave the country.
@@ -51,7 +62,6 @@
 - The M in `itms://` stands for Music.
 - Every version of Chrome claims to be Mozilla, Apple, KHTML, Gecko, Chrome, and Safari simultaneously.
 - Flash memory is... [apparently](https://www.youtube.com/watch?v=lQmI5A27Iv8) (video) supposed to run at 40 degrees Celsius, and at 20 degrees, its write endurance is halved, according to [JEDEC](https://en.wikipedia.org/wiki/JEDEC) Solid State Technology Association.
-- A "regime" is a systematic way of doing things imposed onto you. It can also be understood as authoritarianism. "Authoritarian regime" is a form of tautology.
 - Excluding lunch hours, [OECD](https://en.wikipedia.org/wiki/Working_time) finds the average worker on the planet working 1763 hours every year, which is about... 6.2 hours per day.
 - Those who value the longevity of their phones should [get a plastic screen protector](https://www.nytimes.com/2017/05/24/technology/personaltech/reality-check-what-does-and-doesnt-protect-your-smartphone.html). Everyone should get a case. Few should get extended warranty.
 - Flat Earth Society explains "other planets are round" by saying [the Earth is not a planet, we are the center of the universe, everything revolves around us](https://wiki.tfes.org/Flat_Earth_-_Frequently_Asked_Questions#What_evidence_do_you_have.3F), "but photos" with "we don't use photos as evidence", and "we literally went to space" with "it's a conspiracy that we went to space, and all the countries are lying to you simultaneously".
@@ -148,7 +158,6 @@
 - The secret sauce of big tech is [the tooling](https://news.ycombinator.com/item?id=21645117). It goes both ways. You can both come out successful in that you've interacted with these tools, or come out useless because you have no idea how to work without these tools.
 - "Fuck you, I'm the government, fuck all y'all living here, I'm buying your land to build highways, deal with it" is called [eminent domain](https://en.wikipedia.org/wiki/Eminent_domain), compulsory purchase, resumption, or expropriation.
 - A "[dag](https://en.wikipedia.org/wiki/Dag_%28slang%29)", originally a sheep's shitstain (in the form of dried solids), is now an affectionate insult for an unfashionable person.
-- [Authoritarianism](https://en.wikipedia.org/wiki/Authoritarianism) is no political freedom. Fascism is a hard form of authoritarianism and nationalism that has a dictator, suppresses the opposition, and strict control of the society/economy.
 - An ethical company that vows not to be bought by evil corps [can](https://easydns.com/blog/2019/12/06/its-called-f-you-money-for-a-reason-why-isoc-sold-org-to-vcs/) eventually be bought by a company who made no such commitments, which then later gets bought by the evil corps. Ethical company cannot reject the acquisition because they don't have a say as a subsidiary.
 - [McDonald's sells beer in 15 countries](https://www.thrillist.com/culture/mcdonalds-beer), among which, only South Korea is outside Europe.
 - [A falsehood list](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) claimed that people might have zero names. This refers to [the edge case where babies can be born, not be assigned a name](https://news.ycombinator.com/item?id=11368058), and live like that forever, alone, in a forest, signing up for your app. In practice, there is no culture in the world where a person would live to use your application, and not have at least [one name](https://en.wikipedia.org/wiki/Mononymous_person). Even [unidentified people](https://en.wikipedia.org/wiki/Category:Unidentified_people) have names, and [the falling man](https://en.wikipedia.org/wiki/The_Falling_Man) won't be using your app any time soon.
@@ -474,7 +483,6 @@
 - The fabulous Rubyist Sandi Metz has a famous talk called All The Little Things, where she posits that [“duplication is far cheaper than the wrong abstraction”, and thus to “prefer duplication over the wrong abstraction”](https://www.youtube.com/watch?v=8bZh5LMaSmE). (Line copied from article above)
 - "RE:" means regards, not reply.
 - Honeycrisp apples are good, but really not that much different from Royal Gala. Ambrosia is a sweeter, less acidic apple that at least tastes different from ordinary.
-- In perfect communism, the government owns all companies. In socialism, this is not necessarily the case.
 - [HTTP has 30+ registered method names](https://www.iana.org/assignments/http-methods/http-methods.xhtml), most of which being WebDAV exclusives. When I say "WebDAV exclusive", it means [the `REPORT` method](https://evertpot.com/dropbox-post-api/) is [an extension of WebDAV RFC2518, and therefore an extension of HTTP 1.1 RFC2616, but not actually part of HTTP 1.1](https://tools.ietf.org/html/rfc3253#section-1.1).
 - Mr Rohit says: "there's a reason [etl](https://en.wikipedia.org/wiki/Extract,_transform,_load) jobs are run on [dwh](https://en.wikipedia.org/wiki/Data_warehouse)", with the "dwh" being a place where you keep cleaned data that you want to analyse.
 - [Coding Horror](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/) ("the best kind of comments are the ones you don't need"), [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf) (page 54, "The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word _failure_. I meant it. Comments are always failures."), [The Pragmatic Programmer](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf) (page 249, "The code already shows how it is done, so commenting on this is redundant—and is a violation of the _DRY_ principle."), all believe in not needing comments only when absolutely necessary to explain _why_ you wrote something some way, _and_ when you have no better way to write a piece of code.
@@ -2584,7 +2592,6 @@
 - Some CPUs have [lids](http://i.imgur.com/r88MCqt.jpg). You were stupid enough to think it was one giant chip.
 - Don't short penny stocks. In fact, just don't short: ["there isn't a short seller on the forbes 100 for a reason."](https://www.reddit.com/r/investing/comments/5t3df3/please_explain_me_why_is_cats_pe_so_high_and_why/ddk1jpa/)
 - Before you look for a job in the service industry, ask if there is an union you should join.
-- Fascism is: totalitarian, almost always one party, usually one leader, often racist.
 - The SP-4 cartridge has an internal piston that pushes the bullet out of the gun, without letting out the expanding air (read: loud) behind it. [This makes _any_ gun that shoots this cartridge silent.](https://www.youtube.com/watch?v=K73kKODFyzw)
 - A company can improve its strategic posture by finding suppliers or buyers who possess the least power to influence it adversely.
 - It is not a recruiter's job to get you a job; it is a recruiter's job to get a company an employee, not necessarily you.

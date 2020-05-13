@@ -1,3 +1,8 @@
+- "When I was a senior" typically refers to the fourth year of high school, even if you are 65 years old.
+- Saudi increasing oil output while the world has no demand for oil, is actually [game theory masterstroke](https://www.ft.com/content/1da60fa2-3d63-439e-abd4-1391a2047972). All other oil exporting countries will starve to death, with shale producers (USA/Canada) going down first.
+- 3M stands for Minnesota Mining & Manufacturing.
+- [Disney owns National Geographic](https://en.wikipedia.org/wiki/National_Geographic_Partners), now evidenced by their new reality shows.
+- The [USA Army Medical Corps](https://en.wikipedia.org/wiki/Medical_Corps_%28United_States_Army%29) uses the [staff of Hermes the messenger](https://en.wikipedia.org/wiki/Caduceus) instead of [the rod of Asclepius the healing god](https://en.wikipedia.org/wiki/Rod_of_Asclepius).
 - Murica is incredibly transparent about [where its oil reserves are and how much oil it holds](https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_%28United_States%29), which is along the Gulf of Mexico.
 - [Only 21% of American hospitals are for-profit](https://en.wikipedia.org/wiki/Health_care_in_the_United_States). [90% of Americans have some form of insurance](https://www.cnbc.com/2018/03/22/the-real-reason-medical-care-costs-so-much-more-in-the-us.html). So healthcare is still so expensive probably because of [broken insurance rules](https://www.quora.com/What-makes-the-US-healthcare-system-so-expensive), among other things.
 - Joe Biden was the first Roman Catholic vice president.

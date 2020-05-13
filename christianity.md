@@ -1,3 +1,5 @@
+- The [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel) was the tower they were building to reach heaven (Genesis 11:1–9). God saw how "close" they got to heaven and confounded their speech. "The Book of Jubilees mentions the tower's height as being ... 2484 m"... anyway, it doesn't exist.
+- [Jesus was born between 6BC and 4BC](https://en.wikipedia.org/wiki/Chronology_of_Jesus) because the calendar sucks.
 - [Pope Francis had a lung removed when he was young](https://abcnews.go.com/blogs/health/2013/03/13/new-pope-had-lung-removed-during-childhood). Infection.
 - Thomas Jefferson [created a bible](https://www.christianity.com/wiki/bible/what-is-the-jefferson-bible.html) that didn't have Jesus performing miracles in it. He said he was a Christian, but thought Jesus was strictly human (a good teacher though), and that his miracles were later added into the bible "agenda-driven ... by Jesus’ followers."
 - Paul never met Jesus, but behold, [Pauline Christianity](https://en.wikipedia.org/wiki/Pauline_Christianity) is what most Christians follow now.

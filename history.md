@@ -1,3 +1,7 @@
+- [The commonwealth of Virginia in 1609](https://www.reddit.com/r/imaginarymaps/comments/e4wx9c/provinces_of_the_commonwealth_of_virginia_just/) encompassed almost half of North America, including BC, pretty much all of Alberta, and the GTA.
+- King Tut's tomb is unusually small, perhaps because he died unexpectedly, so his big tomb wasn't completed and ready for his burial. Unrelated: [take a look at Remesses VI's tomb](https://my.matterport.com/show/?m=NeiMEZa9d93&mls=1).
+- Sunkist invented (or at least marketed) the orange juice... Minute Maid invented the orange juice concentrate.
+- In the 1930s, [*the stock market recovered quicker than the economy did*](https://www.youtube.com/watch?v=D2iuUzkKu9k). In 2020, *the stock market recovered quicker than the economy did* (if at all; I'm typing this on 2020-04-27).
 - According to [one source](https://theancienthome.com/blogs/blog-and-news/greek-roman-statues-painted), Greek statues were coloured.
 - Marie Antoinette said "Qu'ils mangent de la brioche", nothing about cake.
 - [A modest proposal](https://en.wikipedia.org/wiki/A_Modest_Proposal), full name "A Modest Proposal For preventing the Children of Poor People From being a Burthen to Their Parents or Country, and For making them Beneficial to the Publick", was a 1700s satirical essay to just turn these children into food, because the Irish weren't treated as people anyway.
