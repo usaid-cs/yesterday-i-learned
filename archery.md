@@ -3,3 +3,4 @@
 - "To draw a bow like an Olympian, draw to the eye, and then down to keep natural shoulder rolling motion." - just tried it, doesn't work.
 - There is, in fact, [a way to tell if an arrow is too stiff for a bow](http://i.imgur.com/P0NFVad.png).
 - > [Fast Flight] doesn't stretch much, meaning more energy can be transferred to the arrow on the shot, but causes more shocks to the limb tips. Dacron stretches more ... [continued](http://www.reddit.com/r/Archery/comments/2cks3g/what_is_a_fast_flight_string/cjgfwn8)
+- [*Yugaeri*](https://www.kyudo.com/kyudo-l.html) (Turning of the Bow) happens when you shoot Japanese longbow. Upon release, the bow swings inside your palm. This turning effect somehow stops the string from hitting your ears, which [this site](https://japanese-school-asahi.com/kyudo/) claims does occasionally happen if held improperly.

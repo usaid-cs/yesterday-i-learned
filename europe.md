@@ -1,3 +1,8 @@
+- [Nazi-time meth came in chocolate bar form](https://time.com/5752114/nazi-military-drugs/) too.
+- ["Visiting a former concentration camp is mandatory for every future police officer in Berlin. It is one of the ways in which policing was fundamentally overhauled in Germany after World War II. Cadets are taught in unsparing detail about the shameful legacy of policing under the Nazis — and how it informs the mission and institution of policing today."](https://www.nytimes.com/2020/06/23/world/europe/germany-police.html) In Germany, the police was deliberately demilitarised, and the secret state police (SS, the Nazi version of FBI) no longer exists.
+- The tell the difference between the [two major accents](https://www.youtube.com/watch?v=k3AgxhGU4JU) (Scottish and Irish), see how up and down their pitch goes (the Scots don't sing). [Scottish Rs are also rolled but the Irish one is not](https://www.quora.com/What-is-the-difference-between-an-Irish-accent-and-a-Scottish-accent), making it sound more American than French.
+- Sweden and Norway were [united as a single kingdom](https://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway) for a while.
+- Portugal is a socialist country that votes, in the sense that [the dominant parties are all socialist](https://en.wikipedia.org/wiki/Politics_of_Portugal).
 - [Handegg](https://en.wikipedia.org/wiki/Handegg), not related to what Americans call football, is a village in [Guttannen](https://en.wikipedia.org/wiki/Guttannen), (the middle of) Switzerland.
 - Spain, Belgium, and Denmark also have monarchs.
 - You can [buy an EU citizenship](https://en.wikipedia.org/wiki/Malta) for 650k euros from Malta.

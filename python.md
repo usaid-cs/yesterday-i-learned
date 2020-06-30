@@ -601,3 +601,6 @@ bar
 - In python3, dividing an int by an int returns a float. This is the only change in behaviour. Dividing a float or Decimal by an int still returns that type.
 - `attrgetter` resolves chains. `attrgetter('foo.bar')` returns a function that returns `your_object.foo.bar`. Also, `attrgetter` accepts multiple positional arguments, which will give you a tuple of keys instead (e.g. `attrgetter('foo', 'bar', 'baz')`).
 - Yes, `attrgetter` still raises AttributeError if the attributte does not exist. There is no `default` option.
+- `sys.executable` gives you the full path of the python that is running your script.
+- A function that runs `sys.exit()` inside a `finally` will still run the `finally` block before the process exits.
+- Relative import (`from ..foo import bar`) can have any number of dots. [`from ...foo import bar` would import from the grandparent directory](https://realpython.com/lessons/relative-imports-python/). Four dots, three directories up.

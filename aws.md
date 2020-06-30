@@ -1,3 +1,5 @@
+> "If I don't know it, I'll learn it and then I'll kick your ass." - [Abhishek Thakur](https://twitter.com/abhi1thakur/status/1276439769791303680), on martial arts, probably
+
 - The default settings for MySQL instances on RDS is stupid. Create a parameter group with (significantly) longer timeouts.
 - Django-South does not work on RDS.
 - Copying a file across S3 buckets is just copying its key -- S3 is one uniform storage resource. Having a key that points to a file in both buckets means that, effectively, the file exists in both buckets.
@@ -34,5 +36,6 @@
 - AWS can fail to launch an (EC2) instance if they run out of instances of that type, often when the instance type was newly-introduced.
 - [S3 incomplete multi-part uploads can cost money even though you can't see them](https://medium.com/@rvedotrc/save-money-and-be-tidy-with-s3-upload-cleaner-7043b8b5332e), so set up a lifecycle policy to delete them (or use that tool).
 - RDS only: upgrade postgres to the highest minor version before you upgrade to the next major version. Once you are on the latest minor version, you can only upgrade to the latest next major version (ie you can't upgrade from 10.10 to 11.0 if 11.1 exists).
-- Disabling multi AZ is a zero downtime operation.
+- Enabling multi AZ is a zero downtime operation.
+- Disabling multi AZ is also a zero downtime operation. The point of the exercise is: you need to enable multi AZ to upgrade the postgres version with no downtime.
 - Databases with replicas cannot upgrade major versions unless you remove the read only database first.

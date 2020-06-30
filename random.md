@@ -1,5 +1,45 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Usually, when people die, they stay on the same planet. So they are always with you.
+- According to the book "Designing Data-Intensive Applications", Twitter fans out (creates for each follower) tweets, so anyone who follows you doesn't need to do a join to see your tweets... except for people with lots of followers, because a tweet from one of these people would mean having to write the same tweet millions of times.
+- It is not simply true that a database should not be used as a messaged queue. Redis (database used as queues) and Kafka (queue system with DB-like guarantees) are such data systems that blur the lines.
+- A videos says [Amazon want to be a monopsony, not a monopoly](https://www.youtube.com/watch?v=KPGZgujnVek): a situation where there is only one buyer. It wants to be the only buyer [of goods] in town, making them the only one to sell goods...? This is much less "evil" under the public eye.
+- [Jeff Hammerbacher](https://en.wikipedia.org/wiki/Jeff_Hammerbacher) was quoted saying "The best minds of my generation are thinking about how to make people click ads. That sucks." His LinkedIn says he went to Harvard.
+- An [`HttpOnly` cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) is only sent to the server; it is not accessible through code.
+- Ask about the expected scale of your feature. [If you don't ask, you need to assume you design for the main product scale](https://dropbox.tech/application/engineering-dropbox-transfer--making-simple-even-simpler), which can be a billion concurrent users (Google search).
+- Twits (which I assume is the term for people who use Twitter... that, or Twats) combat the length limit by replying to themselves, effectively starting a thread.
+- [CPAN](https://www.cpan.org/) is Perl's version of NPM. Since [the language is stuck in the 2010s](https://news.ycombinator.com/item?id=23633478), and even the site itself is stuck in 2017, there is no need to learn it.
+- An timeline full of horizontal bars is called a [gantt chart](https://en.wikipedia.org/wiki/Gantt_chart), invented by Henry Gantt.
+- The Japanese name for a prostitute's working area is called a [teahouse](https://en.wikipedia.org/wiki/Love_hotel) (茶屋).
+- Perl---and [TIMTOWTDI](http://wordaligned.org/articles/timtowtdi-vs-tsboapooowtdi)--epitomises the big picture. It is important to get something to work, any way you can, not because you have a passion for programming *the best shit*, but because you have other more important *shit* to do. You just want to get shit done and go home. See the big picture.
+- "Vishing"... Voice phishing... is calling into a call centre and social engineering them.
+- When you were young and naive (i.e. a few minutes ago) you thought [they hand-shaped every piece of nigiri sushi](https://ozawa.ca/product/autec-nigiri-sushi-maker/). There's [a tool for everything](https://www.youtube.com/watch?v=fH_RURy525w) man.
+- Almost all bitter drinks are supposed to be [served with ice](https://www.huffpost.com/entry/the-moscow-mule-sucks-15_b_4919024) so the dilution improves the taste with each sip. Also, negroni is either the most overrated or underrated cocktail, depending on which list you look at, and [how you decide to mix the stuff](https://www.reddit.com/r/cocktails/comments/9ugfa8/the_most_overrated_cocktails_according_to/e947ekf/).
+- In JSON Schema, [number](https://json-schema.org/understanding-json-schema/reference/numeric.html) is only integers and floating point, not "infinity" or "NaN". Reason: [JSON cannot contain Infinity or NaN](https://stackoverflow.com/a/61844072/1558430) anyway.
+- The only difference between a black russian and a white russian is the cream.
+- None of the baby gates you see on sale have horizontal slats because [babies climb on them like ladders](https://www.reddit.com/r/DIY/comments/h7jp9y/standard_baby_gate_wouldnt_fit_my_staircase_so_i/fuld2cv/).
+- In ["policy-process-procedure"](https://www.sweetprocess.com/what-are-the-differences-between-a-policy-a-process-and-a-procedure-why-knowing-this-is-the-key-to-scaling-and-automating-your-business/), processes are the big things, and procedures are steps inside a process.
+- A [mock mojito](https://www.bbcgoodfood.com/recipes/mojito-mocktail) is just mojito with rum replaced by nothing.
+- In a regex, `\d` is a number, and `\D` is "not a number".
+- A "Project" on JIRA can have many "boards".
+- The [negroni](https://en.wikipedia.org/wiki/Negroni) cocktail is served [strictly before a meal](https://en.wikipedia.org/wiki/Ap%C3%A9ritif_and_digestif).
+- There is no benefit shooting [23.976fps vs 24fps](https://www.reddit.com/r/cinematography/comments/8m6z54/24p_vs_23976p/). 23.976 happened when the NTSC colour system wanted colour TV to be played at 29.97fps rather than 30fps for black and white.
+- [On line breaks (for anything in a terminal)](https://lkml.org/lkml/2020/5/29/1038), Linus said "Excessive line breaks are BAD" ... and he does "not care about somebody with a 80x25 terminal window
+getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any more as far as (he was) concerned". Yet, here was the same guy [arguing for wrapping at 72 columns in git / github commit messages](https://github.com/torvalds/linux/pull/17#issuecomment-5660417), so maybe 80-column lines in C is annoying to read when [8-space indentation](https://www.kernel.org/doc/html/v4.10/process/coding-style.html) is used. See also: [other people arguing for 80, 100, 120-column lines](https://www.reddit.com/r/programming/comments/gt4wgn/linus_torvalds_on_80character_line_limit/).
+- [Tegestology](https://en.wikipedia.org/wiki/Drink_coaster) is collecting drink coasters.
+- [Tree spiking](https://en.wikipedia.org/wiki/Tree_spiking). When you hate tree loggers so much, you plant metal rods inside a tree when they are young, so they fuck with logging companies decades into the future.
+- Mercenaries are soldiers who fight for money (rather than honour or political interests).
+- The [ManBearPig](https://www.youtube.com/watch?v=tuKjwWYyfkw) was created as [an allegory for Climate Change denial](https://en.wikipedia.org/wiki/ManBearPig#Legacy), for which critics allege "everyone has an agenda ... they throw around bad science, ... you can't just let people tell you that if you don't believe in [ManBearPig], then you don't care about the world."
+- [A stay-at-home mom works 24/7](https://www.washingtonpost.com/news/parenting/wp/2015/05/22/a-stay-at-home-moms-duties-need-to-be-shared/) and needs her work shared with her spouse, who... presumably doesn't do anything at home then, in order for this argument to be made.
+- A defector says [North Koreans are actually very happy and laugh a lot](https://www.youtube.com/watch?v=DyqUw0WYwoc). When you have too much, you think too much. In the same video: for some reason they can't afford rice ($3 per kg), but can illegally access outside information via CDs and USB drives, so they can afford computers. They even have phones! But if you call South Korea, you die. They defect now not because they don't can't survive, but because there is no freedom, and they have dreams that they cannot fulfil.
+- The [President of Singapore](https://en.wikipedia.org/wiki/President_of_Singapore#Election) is [directly elected by the people](https://www.pmo.gov.sg/the-government), [since 1991](https://en.wikipedia.org/wiki/Presidential_elections_in_Singapore)... but [the 2017 presidental election had only one candidate](https://en.wikipedia.org/wiki/2017_Singaporean_presidential_election), and she won uncontested. The [Prime Minister of Singapore](https://en.wikipedia.org/wiki/Prime_Minister_of_Singapore) is appointed by the president rather than through election, and although acts as effective head of the Executive branch, does not control the Judiciary and Legislative branches.
+- Oh... Catharine has two As...
+- In Jetbrains products, hitting enter always presses the default button, even if you have another button highlighted.
+- The dates 4/4, 6/6, 8/8, 10/10, and 12/12 always fall on the same weekday. [Doomsday rule](https://www.timeanddate.com/date/doomsday-rule.html). No date has the same weekday across different years (for that you'll need 364 days per year and no leap years).
+- An AC adapter is a "wall wart" only if it obstructs another power socket.
+- You [should] never kill anyone who surrenders because you are at war with the state, not the person. Surrendering dissociates the person with the state.
+- Uniqlo is "unique clothing warehouse".
+- Virtually all (84%) of [US single-parent families](https://ifstudies.org/blog/five-facts-about-todays-single-fathers) have children with the mother.
 - India is called [*Bhārat*](https://en.wikipedia.org/wiki/India) in Hindi.
 - "Silt" is finer sand. Clay is finer silt. They might also be made from different minerals, but who's counting.
 - Starchy foods are just as good at clogging a drain as grease.

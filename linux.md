@@ -1,5 +1,10 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- Despite Linus saying "never break userspace", [official guarantee for a syscall interface to be backwards-compatible is only two years](https://unix.stackexchange.com/questions/235335/why-is-there-a-linux-kernel-policy-to-never-break-user-space). The difference in language has allowed for the kernel to be swapped with another version... most of the time, but not *all* of the time, and usually both working, but rarely equally well.
+- On following Linus Torvalds' opinion: [he rants about everything](https://www.reddit.com/r/linusrants/top/). As much as he's usually right about what he rants... just because he rants about something, it doesn't automatically mean he's right. Stay critical.
+- ["Linux is always pronounced Linux"](https://www.youtube.com/watch?v=5IfHm6R5le0) - Linus Torvalds. Now you know! (or don't)
+- [`lib` and `bin` are pronounced as if they are standalone words](https://arstechnica.com/gadgets/2020/05/youre-saying-it-wrong-how-to-say-oft-mispronounced-tech-terms/), not as "bine" in "binary".
+- You can [specify the DNS server you want](https://support.rackspace.com/how-to/changing-dns-settings-on-linux/) in `/etc/resolv.conf`.
 - An expired (PGP) key can be renewed so what's the point in them? [The only good use for them seems to be cycling subkeys as a practice](https://security.stackexchange.com/questions/14718/does-openpgp-key-expiration-add-to-security), rather than being a nuisance for having to renew.
 - `kill -9 -1` (in that order) kills every process you can kill.
 - A `fork()`ed process [will continue running at the same instruction that forked it](https://www.reddit.com/r/linux/comments/f1alcy/linus_torvalds_just_made_a_big_optimization_to/fh3dicv/) (according to reddit, anyway... I don't know enough) so calling `fork()` six times consecutively will yield 2^6 processes rather than 7.
@@ -155,7 +160,7 @@
 - Read your man pages! `cp -f` forces a copy by deleting any destination file(s) that may prevent the copy, and `cp -n` does the exact opposite -- if something already exists, don't copy it.
 - This comparison in bash is true if the script was sourced, not run: `"$0" = "$BASH_SOURCE"` (you can then use this to detect if someone ran your script correctly)
   - `$0` remains the file name if sourced, and `$BASH_SOURCE` is (nothing if sourced, file name if not).
-- `$?` is magic for the last program's exit code.
+- `$?` is magic for the last program (command)'s exit code.
 - Don't `gzip -r` bro, that creates a `.gz` file for every single file in that directory! Run `tar -zcvf foo.tar.gz directory_name/` instead.
 - Some vim keys work in shell.
   - `alt+L` turns the word into lower case.
@@ -312,3 +317,5 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - `curl -i` prints out the response's headers.
 - Decrypt your LUKS drive without a password with [`bruteforce-luks`](https://github.com/glv2/bruteforce-luks). Usage: `sudo nice -n 20 bruteforce-luks -t 8 -m 16 /dev/sdb1`
 - There is no `/dev/one`.
+- `ssh-add -D` makes you enter your SSH passwords again.
+- A colon (`:`) in bash is basically [`true` or the python's equivalent of `pass`](https://stackoverflow.com/questions/3224878/what-is-the-purpose-of-the-colon-gnu-bash-builtin/3224910#3224910). This leads to some interesting (but definitely won't pass code review) uses like calling commands with no output, turning a file into zero bytes, and block comments,

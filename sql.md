@@ -16,6 +16,8 @@
 - [DDL changes the data structures, e.g. `CREATE TABLE`, `ALTER TABLE`, ...](https://stackoverflow.com/a/2578207/1558430) DML manipulates the data itself, e.g. `SELECT`, `INSERT`, ... `TRUNCATE` is DDL, while `DELETE` is DML.
 - A ["columnar database"](https://searchdatamanagement.techtarget.com/definition/columnar-database) is just a database with rows and columns transposed. Word has it that aggregation is much faster to do (becausse if your columns are rows, a single "row" contains all your values). It is not clear how that's any different from selecting a single column from your everyday [RDBMS](https://en.wikipedia.org/wiki/Relational_database), with or without vertical partitioning.
 - MySQL and Oracle don't support DDL in transactions.
+- There is a name for "just prefetch the table and do the select in memory": [**N + 1 Problem**](https://stackoverflow.com/a/97253/1558430).
+- Try not to have any indexes that you don't plan to use. They increase write times for obvious reasons.
 
 # MySQL
 
@@ -86,6 +88,7 @@
 - `ORDER BY 1, 2` would order by column 1, then column 2.
 - [`-Infinity`](https://stackoverflow.com/questions/19686635/earliest-timestamp-supported-in-postgresql) is a valid timestamp.
 - You can find your config files by just running [`SHOW config_file;`](https://stackoverflow.com/a/3603162/1558430)
+- `->'foo'` is selecting a key inside a JSON object, as JSON (i.e. `{"foo": {...}}`). `->>'foo'` is selecting the same key, except as a string (i.e. that same example would get you `"{...}"`).
 - Selecting `->2` gives you the second (not "2th") item in a json list. Selecting [`->'2'`](https://www.postgresql.org/docs/9.3/static/functions-json.html) gives you the value of a json object's `2` key.
 - There is no good way to [monitor your indexing progress](https://dba.stackexchange.com/questions/11329/monitoring-progress-of-index-construction-in-postgresql). The closest you have is a giant query [here](https://dba.stackexchange.com/a/161992/41651).
 - [`timestamp without time zone AT TIME ZONE zone`](https://www.postgresql.org/docs/9.6/static/functions-datetime.html#FUNCTIONS-DATETIME-ZONECONVERT) obviously gives you a timestamp _with_ time zone. `timestamp with time zone AT TIME ZONE zone` obviously gives you a timestamp _without_ time zone. Doing `at timezone utc at timezone utc at timezone utc...` also [switches between UTC and not UTC](https://twitter.com/garybernhardt/status/1011388486190968832), depending on how many times you repeat it. [By design.](https://www.postgresql.org/message-id/CAKFQuwYeHxefXOWmF_fXOM%3DMfR%3DQOz%3DUas-HNz5_fA%3DR-koUfw%40mail.gmail.com) Obviously.
@@ -101,6 +104,7 @@
 - To update only some of the objects you select, use a subselect: `UPDATE your_table ... WHERE (conditions) AND your_table.id = ANY(SELECT id from your_table ORDER BY random() WHERE (same conditions outside) LIMIT 10000)`. Now you only update 10000 of your rows.
 - You can [restrict a column's contents to a set of enumerated values](https://stackoverflow.com/questions/7250939/in-postgres-how-do-you-restrict-possible-values-for-a-particular-column) using `ALTER TABLE foo ADD CONSTRAINT check_name CHECK (column IN ('bar', 'baz'));`.
 - Make the current _session's' process_ sleep with [`pg_sleep(seconds)`](https://www.postgresql.org/docs/9.0/functions-datetime.html).
+- [Filter through JSON arrays](https://stackoverflow.com/questions/22736742/query-for-array-elements-inside-json-type) with either `json_array_elements` or `jsonb_array_elements`. You *need* to alias the array field as a table, i.e. `SELECT * FROM table, jsonb_array_elements(json_column->'items_array') column_alias WHERE column_alias...`
 
 ## Performance
 
@@ -196,3 +200,7 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 - Show columns for a table: [`PRAGMA table_info(table_name);`](https://stackoverflow.com/a/948204/1558430) (text table) or `.schema tablename` (SQL to create that table).
 - Select from a table with column names: `.headers on`
 - Close database (or quit the dumb shell): `.exit`
+
+# PL/SQL
+
+- I don't think [PL/SQL](https://www.guru99.com/sql-vs-pl-sql.html) is like SQL at all... [it's like a third-generation programming language that you can write an entire program with](https://docs.oracle.com/cd/A97630_01/appdev.920/a96624/01_oview.htm#7106). **You don't even interact with the DB with PL/SQL**. You can have SQL inside PL/SQL though.

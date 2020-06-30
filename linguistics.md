@@ -2,6 +2,15 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- A knucklehead is an idiot.
+- In "all but forgotten", "all but" means "nearly", literally the opposite meaning of the original phrase. In phrases like "post-COVID consumer spending has all but recovered", just pretend they said nothing. Soon, "literally" will literally mean the opposite of "literally", too.
+- 阿媽都唔認得 means [阿媽認唔到你](https://lihkg.com/thread/1017464/page/1), not 你認唔到阿媽.
+- You can [almost](https://en.wikipedia.org/wiki/Muhammad_%28name%29) tell where a Muhammad came from by looking at the spelling. Muhammad is the Arabic one, Mohamed is the Egyptian one, Mohammad is the Persian one, and Muhammed is the Turkish one. Exceptions obviously apply.
+- "Preposterous" (pre-posterous) is absurd. "Posterous" (post-erous) isn't anything. "Erous" isn't anything, either. So a "pre-post erous" isn't exactly defined.
+- *Cortez*, from Old French *corteis / curteis, means courteous or polite.
+- Capital punishment is called that because "Capital" means "of the head".
+- Y in Spanish can sound like *Y-*, *J-*, or *Sh-*, [depending on the accent](https://www.spanishdict.com/answers/112730/yo...when-is-it-pronounced-yo-and-when-is-it-joe). Alternatively, you can say that the Spanish [LL sounds like both of these](https://www.iwillteachyoualanguage.com/learn/spanish/spanish-tips/spanish-ll-pronunciation). "In Spanish, J and Y are allophones (note: I don't think this term was used correctly), meaning that they can be substituted for each other."
+- In Quebec, *poutine* (normally poo-TEEN) becomes POO-tin.
 - [Less than half of the world's population](http://ilanguages.org/bilingual.php) (40%) speaks only one language, making it more likely for you to bump into a bilingual+ person than one who is not.
 - [Because we would never say "Me was the winner," neither should we say "The winner was me."](https://getitwriteonline.com/articles/i-and-me/). I guess we would never? I mean, I would, but I should never. [The winner is *I*](https://airfoilgroup.com/the-nine-likeliest-errors-in-your-writing/)... which makes compound statements also "and I": "The winners were John and I".
 - There are no English verbs ending in A.

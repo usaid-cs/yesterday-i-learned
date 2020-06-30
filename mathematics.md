@@ -1,5 +1,7 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- "1500 out of 100000 black people are in jail" and "300 out of 100000 white people are in jail" (actual statistics for America) doesn't mean black people are 5x more dangerous as white people. Remember 98500 black people and 99700 white people are *out of* jail; blacks and whites are more or less equally dangerous.
+- [Zero times infinity](https://www.quora.com/What-is-zero-times-infinity) has a straightforward answer: zero. If you add zero an infinite number of times, it's still going to zero.
 - It is obvious, if one of your two brain cells thinks about it, that two primes never share a factor with each other (other than 1).
 - If 2000 people are killed annually by lightning, then your lifetime chance of getting killed by one is 0.002%, or ("1 in 60,000 to 80,000") like National Geographic said according to some calculation.
 - Something that increases by 25% *always* needs to drop by 20% to return to the same value... because `x * (1 + 25%) * (1 - 20%) = x * (1.25 * 0.8) = x * 1 = x`.

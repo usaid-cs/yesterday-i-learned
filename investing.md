@@ -133,7 +133,7 @@ Further reading: [0001.md](sources/0001.md)
 
 You can get as technical (with charts and graphs and trend indicators) as you want, but you will never beat the fundamentals. **Do not time the market.**
 
-- Consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
+- Here's an immediate contradiction: if you *do* want to time the market, consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
 - Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic. (after the fall is done, it is not called the bear market anymore.)
 - [It doesn't hurt to buy stocks _after_ it is done dropping](https://news.ycombinator.com/item?id=22527631). Buying before it's done dropping is called "catching a falling knife". If prices drop afterwards, it is called a "dead cat bounce".
 - Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.
@@ -168,10 +168,11 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss... but [only if you sell it within the deadline](https://www.tsinetwork.ca/daily-advice/how-to-invest/capital-gains-in-canada-what-is-tax-loss-selling-2/). (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
 - ~~In 2019. 2020 is when the last of baby boomers reach the age of 60.~~ (But they don't just sell everything at once, so ignore me.)
 - When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
-- Never, because you're holding and collecting dividends.
+- Never, because you're holding and collecting dividends. Note that [buying high-dividend stocks is usually a tradeoff between growth and stability](https://www.reddit.com/r/StockMarket/comments/gcr7bi/-/fpdc2da), so you might want to hold off on these until you are near retirement.
 - [Never put yourself in a position where you _need to sell at a certain time_](https://www.thebalance.com/risks-when-selecting-equity-investments-356429). By doing so, you lose the "good stocks trend up after a long enough wait" advantage.
 - When the insiders are selling (a lot). Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 - Sell if stocks aren't appreciating (rising in value). They do nothing even if you hold on to them for a long time.
+- When there is a bubble. Warren Buffett, who famously lost 70% value in airline stocks, uses the [(Wilshire 5000...) Market cap / GDP index](https://fred.stlouisfed.org/graph/?g=qLC). Traditionally, there have always been something wrong whenever people haphazardly started putting money into stocks, but since the government can buy stocks, this index is not as reliable as you may think.
 
 ## Mutual Funds
 
@@ -197,9 +198,11 @@ For [non-actively managed funds](https://www.investopedia.com/articles/exchanget
 
 They can be bought and sold whenevr the exchange is open, instead of a once-per-night type thing. When you decide to buy/sell, though, do have a bid-ask spread.
 
-ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets are traded. Don't trade an American ETF on the fourth of July, for example.
+ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets' markets are traded. Don't trade an American ETF on the fourth of July, for example. Sometimes you cannot avoid it (there are plenty of markets that are completely closed when the Dow is open).
 
 [Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. [You lost money because of resetting leverage.](https://study.com/academy/lesson/what-is-a-leveraged-etf-decay-risk-volatility.html)"
+
+[/u/throwaway474673637 said that](https://www.reddit.com/r/PersonalFinanceCanada/comments/gi9j34/wealthsimple_compares_their_portfolio_against/fqe5bvv/) Wealthsimple said Fama and French said that [low-beta and low-volatility stocks give you higher long-term returns](https://academic.oup.com/rfs/article-abstract/29/1/69/1843682?redirectedFrom=fulltext)
 
 ## Property
 
@@ -250,12 +253,12 @@ In other words, you pay for freedom. You can *stop paying when you settle down*.
 * [Gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time.
 
 
-## BitCoin
+## Bitcoin
 
-Never treat BitCoin as an investment. You can gamble all you want, but it is not an investment.
+Never treat Bitcoin as an investment. You can gamble all you want, but it is not an investment.
 
-- A security is a tradable financial asset of any kind, but [BitCoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset), which can be tangible or intangible.
-- "The fact that 90% of people use [BitCoin] for speculation rather than as currency is all the proof you need that it's a bubble."
+- A security is a tradable financial asset of any kind, but [Bitcoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset), which can be tangible or intangible.
+- "The fact that 90% of people use [Bitcoin] for speculation rather than as currency is all the proof you need that it's a bubble."
 
 ## Allocating
 

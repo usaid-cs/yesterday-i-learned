@@ -1,3 +1,5 @@
+- ADB can also stand for [Apple Desktop Bus](https://eggfreckles.net/2013/12/27/adb-the-epitome-of-early-apple/), some kind of IO bus for 1980s peripherals.
+- The famous "grass" wallpaper that came with Mac OS X was shot by Steve Jobs.
 - The original ORIGINAL iPhone (the one Steve Jobs demoed on stage) had a plastic screen. He later changed his mind before the device was released to general public.
 - The lifetime ownership cost of an Apple mobile device (read: iPhone) might be [cheaper than Android](https://www.reddit.com/r/Android/comments/f2djw5/samsung_galaxy_s20_megathread/fhc3xnp/) if a device is guaranteed to be supported for five years instead of just one or two.
 - [Both Android and iOS claim to be useful tools](https://www.reddit.com/r/Android/comments/ew6nqj/i_miss_android_a_few_thoughts_from_a_recent/). Android requires frequent sharpening by the owner, and while iOS comes sharp, it cannot be sharpened.

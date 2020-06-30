@@ -1,3 +1,5 @@
+![https://en.wikipedia.org/wiki/Django_Reinhardt](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg/300px-Django_Reinhardt_%28Gottlieb_07301%29.jpg)
+
 # Django tips
 
 ## Models
@@ -25,6 +27,10 @@
 - Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.
 - [Deconstruction](https://docs.djangoproject.com/en/2.2/howto/custom-model-fields/#field-deconstruction), as far as Django fields are concerned, is the _opposite of construction_, or: how to turn a field instance into arguments that, when used to call `SomeField.__init__`, to recreate the field instance with the same values. (The other word choice is "Destruction".)
 - [ORM code (read: IO) is apparently async-unsafe](https://docs.djangoproject.com/en/3.0/releases/3.0/#asgi-support) so now I don't know what the whole point is.
+
+### `PositiveSmallIntegerField`
+
+When you look at [the source](https://github.com/django/django/blob/stable/1.11.x/django/db/models/fields/__init__.py#L2082) of the class, you can see that it is basically no different from [`PositiveIntegerField`](https://github.com/django/django/blob/stable/1.11.x/django/db/models/fields/__init__.py#L2070). Django knows to use `smallint` instead of `integer` in a database like Postgres only because [it is hardcoded elsewhere](https://github.com/django/django/blob/stable/1.11.x/django/db/backends/postgresql/base.py#L73) in the database-specific wrapper.
 
 ### `ForeignKey`
 

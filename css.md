@@ -65,6 +65,12 @@
 - `/` is _from anywhere_ if used at the start, or _direct descendant_ if used anywhere else.
 - `img[@src="wat"]` filters `img` tags by `src`. The same works for data attributes.
 
+## [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- Containers all have `display: flex`.
+- If you want the items to wrap around, add `flex-wrap: wrap` to the container.
+- Vertical-align items inside the container with `align-items: flex-start (top), center (middle), flex-end (bottom), stretch (every item is full height)`.
+
 ## Design
 
 - "This redesign incorporates two of the worst design trends today: _very low contrast text_ and _gratuitously, obnoxiously large fixed headers._"

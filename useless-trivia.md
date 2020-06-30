@@ -1,3 +1,13 @@
+- In ps. I Love You, [the widow bangs the dead husband's best friend](https://www.reddit.com/r/youseeingthisshit/comments/h8yua9/daughter_received_an_email_from_her_father_who/fuu5b68/). Apparently it was a terrible movie.
+- "How the turntables" is actually [a The Office reference](https://www.youtube.com/watch?v=6FwmGLzyRDk).
+- I guess men are biologically luckier than women because [men don't get anything stretched](https://www.youtube.com/watch?v=4Yh4pmVLCeA)... at least not for the majority.
+- [Paul Weedon](https://twitter.com/Twotafkap?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) said "Aw fuck, I can't believe you've done this".
+- [Gaben](https://en.wikipedia.org/wiki/Gabe_Newell) founded Valve with [a Mike](https://en.wikipedia.org/wiki/Mike_Harrington) on the same day he got married.
+- Jackie Chan's parents were adamant that their child was born in Hong Kong, naming him "陳港生" (Chan, born in Hong Kong). As a result, [he had changed his name at least three times](https://zh.wikipedia.org/wiki/%E6%88%90%E9%BE%8D) to 房仕龍 / 元樓 / 成龍.
+- In [Spinal Tap](https://youtube.com/watch?v=KOO5S4vxi0o), the "these go to 11" joke was pointed out by the show itself.
+- You can tell the time of day in Animal Crossing just by [what music it's playing](https://www.youtube.com/watch?v=ZmQaOAzGBC4).
+- [JK Rowling](https://en.wikipedia.org/wiki/J._K._Rowling#Name), now obviously a Joanne, calls herself Jo. She has no middle name, and Kathleen is something she chose for herself.
+- ["Harrison Ford had been ill with Dysentery for several days while shooting 'Raiders of the Lost Ark'"](https://screencrush.com/movie-myths-9/) ... the sword fight scene was cut short because he was sick and wanted to end the scene quickly.
 - Betty White starred as "Bitey White" the tiger in Toy Story 4.
 - "Cancerous prototype": a kind of prototype software that the higher-ups liked so much, they decided you must continue working on it to make it a real product. I thought I saw this somewhere, but according to Google, I made this all up.
 - Elon Musk has such a strange accent because he's was raised in South Africa.

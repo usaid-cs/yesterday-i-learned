@@ -1,3 +1,7 @@
+- [Aragon](https://en.wikipedia.org/wiki/Aragon) is a place in today's Spain. [Aragorn](https://en.wikipedia.org/wiki/Aragorn) is a dude in the Lord of the Rings.
+- Cancun is in Mexico.
+- There is a town called [Samsung Town](https://en.wikipedia.org/wiki/Samsung_Town). The company's headquarters are too big to fit in a single building.
+- The average age of a country is [158 years](https://www.vice.com/en_us/article/mggzdb/how-old-is-the-average-country), according to one source, Vice.
 - The [Appalachian mountains](https://en.wikipedia.org/wiki/Appalachian_Mountains) are in eastern US, not South America.
 - Every part of Chile's lat/lng is negative for both components.
 - [Levant](https://en.wikipedia.org/wiki/Levant) (le-VANT) is a place, where Israel and Syria are today, roughly.

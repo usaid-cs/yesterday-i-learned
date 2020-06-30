@@ -1,3 +1,6 @@
+# Das Vereinigte Königreich
+
+- [Tommy Seumour](https://en.wikipedia.org/wiki/Thomas_Seymour,_1st_Baron_Seymour_of_Sudeley) is rumoured to have fucked not one, but *two* queens (Catherine Parr and Elizabeth I), despite never being a king.
 - A slut is also called a "village bicycle", "town bike", or just "bike" (everyone rides it).
 - A [subsidiary title](https://en.wikipedia.org/wiki/Subsidiary_title) is a title held by someone who obviously has more important titles. You can call the queen the president of the [Bristol Yu-gi-oh club](https://www.facebook.com/groups/188069861246792/) (Note: I made this one up), but she is obviously the head of the commonwealth, among other things, so you wouldn't call her the president of the Bristol Yu-gi-oh club unless she wanted you to. [Camilla, Duchess of Cornwall](https://en.wikipedia.org/wiki/Camilla,_Duchess_of_Cornwall), while officially the Princess of Wales, prefers to be called Duchess of Cornwall because [a more famous Princess of Wales](https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales) died a while ago.
 - Hobnobs are digestive biscuits.

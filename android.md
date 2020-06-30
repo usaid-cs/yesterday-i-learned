@@ -6,6 +6,13 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- `adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS`
+- On /r/Android: "This sub has continually been one of the most negative cesspools I've seen. It's just constant bitching and complaining about everything and nothing. No device is good enough for you, no amount of features is good enough for you, no price is good for you. I can't even remember a time I saw people comment positively on a post on here. It's like [r/incels](https://www.reddit.com/r/incels) if you replaced women with cellphones." - [/u/FuzzelFox](https://www.reddit.com/r/Android/comments/gwcwk0/update_new_explanation_google_response_this/fsugzx6/).
+- A powered-on OLED panel can take [1.8W to power full brightness](http://www.displaymate.com/Galaxy_S10_ShootOut_1S.htm#Display_Power)
+- If you place on a wireless charging mat a phone that is already charging with USB, wireless charging takes precedence.
+- Unless otherwise specified, [power always go through the battery first](https://www.reddit.com/r/Android/comments/gstgg2/the_sony_xperia_1_ii_has_a_neat_gaming_feature/), not directly from DC to motherboard. This means every device that does not advertise such a thing will have battery degrade every time you use it while charging.
+- The first step to enable [wireless ADB](https://android.jlelse.eu/quick-tip-lose-the-cables-use-wireless-adb-8641f4856ed8) is to connect your device via USB.
+- [TCL](https://en.wikipedia.org/wiki/TCL_Corporation) ("partially state-owned") stands for "Telephone Communication Limited" so they supposedly should make [phones under its own brand](https://www.tclusa.com/products/mobile/tcl-10-pro).
 - ".seb" files are Solid Explorer Backups.
 - The OnePlus 3 used the [SEC 610 KLUCG5J1CB-BOB1](https://www.slashgear.com/oneplus-3-teardown-part-ii-whats-inside-28446199/) UFS 2.0 chip from Samsung.
 - [Samsung devices don't have fastboot??](https://www.xda-developers.com/exynos-samsung-galaxy-s10-s10e-s10plus-kernel-sources/)
@@ -74,7 +81,7 @@
 - If you have both exactly one device and exactly one emulator running, [`adb -e`](http://stackoverflow.com/a/20163013/1558430) chooses the emulator, and `adb -d` chooses the only connected device.
 - To remove Google Play Services from the whitelist that lets them do whatever they want without battery optimisation, [edit the `/system/etc/sysconfig/google.xml` or `/system/product/etc/sysconfig/google.xml` file](https://android.stackexchange.com/questions/143247/how-to-make-google-play-services-and-other-default-white-listed-system-apps-doze) and comment out the appropriate sections.
 - [`.dex` files are VM caches in an APK](https://www.addictivetips.com/mobile/what-is-odex-and-deodex-in-android-complete-guide/), and `.odex` files are optimised VM caches outside an APK. "De-odexed" ROMs put the odex files inside the APK, so you can mod the APK or something without odex files conflicting with it.
-- As of 2018-05-04, a package called `com.google.android.quicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.
+- As of 2018-05-04, a package called `com.google.android.googlequicksearchbox` contained an [offline podcast](https://www.androidpolice.com/2018/05/04/can-now-download-podcasts-listen-offline-google-app/) function.
 - "Some apps will use OpenSL ES for Android to record audio, an example is WhatsApp. Xposed cannot hook into native code, so this cannot be prevented." - XPrivacyLua
 - To "verify udev rules", [do this](https://gist.github.com/smac89/251368c8df2ccd645baedc3e1238fdb4): enter `SUBSYSTEM=="usb", ATTR{idVendor}=="05c6", MODE="0666", GROUP="plugdev"` into `/etc/udev/rules.d/51-android.rules`, `chmod a+r` that file, and then `sudo udevadm control --reload-rules && sudo udevadm trigger`.
 - There is [no straightforward way](https://stackoverflow.com/questions/16650765/get-application-name-label-via-adb-shell-or-terminal) to find a package's application label by ID. At minimum, you need to first find the path to your APK (`pm list packages -f com.example.package`), then somehow transfer that to `aapt dump badging /path/to/installed.apk`.

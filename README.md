@@ -112,7 +112,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 
 # Contributing
 
-Wooo 40 stars
+Wooo 45 stars
 
 If you have any **one-liner** cool facts that aren't already here, submit a PR so we both learn! Include your citations inline as link(s).
 

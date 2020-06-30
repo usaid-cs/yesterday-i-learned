@@ -2,6 +2,8 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- When you can't make payments for your car and need to go through [voluntary repossession](https://www.thebalance.com/voluntary-repossession-lower-cost-less-chaos-315104) (or just sell the car privately), the dealer is required to give you "a commercially reasonable price" for the car that you give up.
+- [**Always** squeeze a radiator hose before opening the cap.](https://www.reddit.com/r/Justrolledintotheshop/comments/f23j5f/why_you_dont_open_a_hot_in_this_case_over_heated/) (It can explode)
 - The Honda CR-V's cargo floor [could](https://www.autotrader.com/car-news/every-honda-cr-v-used-come-picnic-table-back-256447) be used as a picnic table.
 - Tesla owners love their brand so much, [they volunteered to be orientation helpers](https://www.autonews.com/article/20181008/RETAIL01/181009775/tesla-owners-volunteer-to-help-with-delivery-hell) to help Tesla for free.
 - [Don't listen to your service advisor](https://www.youtube.com/watch?v=jBpMe36GoW0) because: "when you are a service advisor, you are a salesperson. This is how you make your living, you have to upsell them."

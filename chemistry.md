@@ -1,5 +1,10 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Exxon [knew](https://www.reddit.com/r/worldnews/comments/f2uf3i/the_saddest_thing_is_that_it_wont_be_breaking/fhf7pjk/) as early as [1982](https://thinkprogress.org/exxon-predicted-high-carbon-emissions-954e514b0aa9/) at fossil fuels will lead to environmental problems by 2020, and that the atmospheric CO2 will reach 400 ~ 420ppm by then. They also predicted major economic consequences by 2038, and globally catastrophic effects by 2067.
+- [Rubbing alcohol](https://en.wikipedia.org/wiki/Rubbing_alcohol#US_legislation) in the US can contain 10% methanol, acetone, and [methyl isobutyl ketone](https://en.wikipedia.org/wiki/Methyl_isobutyl_ketone), because fuck chemists, fuck alcoholics, can't just [make it taste bitter](https://en.wikipedia.org/wiki/Denatonium), gotta make it poisonous.
+- Nitrogen dioxide is an intermediate for producing nitric acid, but that fact does not help the environment because the factories don't extract NO2 from the air.
+- A [**soap**](https://en.wikipedia.org/wiki/Soap) is a salt of a fatty acid, and a [fatty acid](https://en.wikipedia.org/wiki/Fatty_acid) is an acid---usually [carboxylic](https://en.wikipedia.org/wiki/Sodium_stearate) or [sulphuric](https://en.wikipedia.org/wiki/Sodium_laureth_sulfate)---attached to a long hydrophobic chain of hydrocarbons.
+- "Sweet" crude oil is oil containing less than 0.7% of sulphur.
 - All wines under 15% alcohol will freeze in a freezer (-18 C).
 - Glucose is considered an aldehyde (and therefore an aldose). Fructose is a ketone (and therefore a ketose).
 - Glass cooktops heat slowly, cool slowly, [crack on heat shock](https://www.hunker.com/13408879/what-causes-ceramic-glass-electric-cook-top-to-crack), crack on contact with heavy things... like a pot, [cannot be cleaned with glass cleaner](https://www.cnet.com/how-to/wrong-way-to-clean-glass-stovetop/)... they are a joke. [Glass is glass, and glass breaks](https://twitter.com/zacksjerryrig/status/1039934465462611968?lang=en). A truly backwards product trend.
