@@ -2,6 +2,10 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "[Häagen Dazs](https://en.wikipedia.org/wiki/Hagen-Dazs#Origin_of_brand_name)" doesn't mean anything.
+- In Punjabi, a lakh is called lakkh.
+- "Less" has been used with countable nouns before year 1770, at which point a Robert Baker [remarked](https://www.arrantpedantry.com/2008/12/23/less-and-fewer/) that "fewer" sounded better with countable nouns so should be used in "less"'s place... but [he never said others needed to share the same preference](https://www.merriam-webster.com/words-at-play/fewer-vs-less). Units of time remains an exception to the [fewer vs less](https://en.wikipedia.org/wiki/Fewer_versus_less) rule, and since the US was founded in 1776, it may be forgivable for not following this rule at all.
+- The [nominative & accusative cases](https://learn-german-easily.com/german-case-accusative) can be thought of as "nominative eats the accusative", or "the main character beats up the secondary character". In the case of German, if a noun is used in the accusative case, and it is "masculine", then the *ein* becomes *einen*. See also: [how messed up it is](https://en.wikipedia.org/wiki/German_articles).
 - A knucklehead is an idiot.
 - In "all but forgotten", "all but" means "nearly", literally the opposite meaning of the original phrase. In phrases like "post-COVID consumer spending has all but recovered", just pretend they said nothing. Soon, "literally" will literally mean the opposite of "literally", too.
 - 阿媽都唔認得 means [阿媽認唔到你](https://lihkg.com/thread/1017464/page/1), not 你認唔到阿媽.

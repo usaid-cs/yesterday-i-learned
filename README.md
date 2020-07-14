@@ -118,4 +118,4 @@ If you have any **one-liner** cool facts that aren't already here, submit a PR s
 
 # Licence
 
-Unfortunately, according to Github, I cannot stop you from forking this repository. So, whatever licence that is, whatever licence this inherits.
+The repository is treated as code and licensed under GPLv3.

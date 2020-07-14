@@ -1,6 +1,12 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- There is no evidence on TSX that "sell in May and walk away" works, but there sure is some for "sell in October and buy back in May". Between 1990 and 2015, the general sentiment changed from "gotta lose money in December" to "gotta make the most buck in December".
+- A weaker US dollar usually indicates an appetite for risk-taking and growth... but not always.
+- Governments (and Trump) keep interest rates low because [the governments themselves are in huge debt](https://awealthofcommonsense.com/2020/07/5-thoughts-about-a-world-with-no-yield/) and low/negative rates help them pay it off. The consequence of that is "[a] world with no safe assets that offer investors a living yield on their investments, where investors are pushed further out on the risk curve, [where] there will likely be more volatility."
+- If the US stock market closes on a day when the TSX is open (such as the fourth of July), the market swings are about 10% that of normal.
+- The economy declines whenever there isn't a (larger, or similarly-sized) younger population there to prop up the stock market. Apart from company valuation and earnings partially protecting you against inflation, you tell young people to invest *so you can withdraw at a higher value than when you bought in*.
+- A [financier](https://en.wikipedia.org/wiki/Financier_%28cake%29) is a type of almond cake. [Jeff Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein) was one.
 - US stocks [tend to do better](https://books.google.ca/books?id=KfeAXWeF2esC&pg=PT182&lpg=PT182&dq=control+both+houses+s%26p+returns&source=bl&ots=g4eXQcNGEH&sig=ACfU3U3L8bvacrY5ej_8FAtkebJdcsiG9w&hl=en&sa=X&ved=2ahUKEwiKv7vTmJjqAhUIl3IEHdSDDJEQ6AEwAnoECAsQAQ#v=onepage&q=control%20both%20houses%20s%26p%20returns&f=false) when a single party controls both the house and the senate. (9.5% vs 13%) Note that it has historically gone up either way.
 - A stock of yours getting delisted doesn't mean you will get your money back... it means you'll still have the stock, but have no one to freely trade with.
 - A stock with low volume, and therefore easy swings in price, can be pumped-and-dumped relatively easily.

@@ -157,3 +157,4 @@
 - Tasker's `%DATE` format will change depending on the system locale.
 - For some reason, qcrilmsgtunnel is responsible for _showing_ your signal icon.
 - OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)... not just any BBK, but 广东**步步高**电子工业有限公司. Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
+- [AdGuard GitHub version](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md) blocks ads. "Please do not mention this feature in Google Play store comments," says M66B.

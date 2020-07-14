@@ -604,3 +604,4 @@ bar
 - `sys.executable` gives you the full path of the python that is running your script.
 - A function that runs `sys.exit()` inside a `finally` will still run the `finally` block before the process exits.
 - Relative import (`from ..foo import bar`) can have any number of dots. [`from ...foo import bar` would import from the grandparent directory](https://realpython.com/lessons/relative-imports-python/). Four dots, three directories up.
+- [**`f` STRINGS ARE CODE**](https://stackoverflow.com/questions/42497625/how-to-postpone-defer-the-evaluation-of-f-strings#comment72134685_42497625). It is impossible to determine the type of an f-string until it is fully interpolated into an actual `str`.

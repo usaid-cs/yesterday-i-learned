@@ -317,10 +317,10 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 
 ## Lamb rack
 
-- Place entire rack in pressure cooker on high for 20 minutes.
+- Place entire rack in pressure cooker on high with several slices of ginger for 20 minutes.
 - Rub rack with appropriate spices and cumin.
 - If the rack is skin-on, fry skin side on high for a bit.
-- Place in baking tray, using ribs to separate meat from the bottom of tray to prevent meat from getting soggy. Bake oat 400 degrees (F) for 15 minutes.
+- Place in baking tray, using ribs to separate meat from the bottom of tray to prevent meat from getting soggy. Bake at 400 degrees (F) for 15 minutes.
 
 # Ingredients
 

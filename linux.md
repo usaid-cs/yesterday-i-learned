@@ -319,3 +319,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - There is no `/dev/one`.
 - `ssh-add -D` makes you enter your SSH passwords again.
 - A colon (`:`) in bash is basically [`true` or the python's equivalent of `pass`](https://stackoverflow.com/questions/3224878/what-is-the-purpose-of-the-colon-gnu-bash-builtin/3224910#3224910). This leads to some interesting (but definitely won't pass code review) uses like calling commands with no output, turning a file into zero bytes, and block comments,
+- [GPG's "web of trust"](https://www.gnupg.org/gph/en/manual.html#AEN385) makes a key valid or invalid depending on how far a new key is from the closest key that you have trusted.

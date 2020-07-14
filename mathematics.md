@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- [Metric prefixes](https://en.wikipedia.org/wiki/Metric_prefix) (e.g. kilo, mega, giga) are unit prefixes. If you convert "100 kilo" grams to a unitless figure, you are still going to have to say "a hundred thousand".
 - "1500 out of 100000 black people are in jail" and "300 out of 100000 white people are in jail" (actual statistics for America) doesn't mean black people are 5x more dangerous as white people. Remember 98500 black people and 99700 white people are *out of* jail; blacks and whites are more or less equally dangerous.
 - [Zero times infinity](https://www.quora.com/What-is-zero-times-infinity) has a straightforward answer: zero. If you add zero an infinite number of times, it's still going to zero.
 - It is obvious, if one of your two brain cells thinks about it, that two primes never share a factor with each other (other than 1).

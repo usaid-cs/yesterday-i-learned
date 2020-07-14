@@ -1,5 +1,15 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Wood (like 2x4) containing the core of the tree tends to warp much more easily.
+- "K-12" stands for "from kindergarten to the 12th grade".
+- ["Soaring"](https://news.ycombinator.com/item?id=23826176) quite often refers specifically to gliding (i.e. not flapping wings) while maintaining altitude.
+- Urns break. Ashes are usually wrapped in a plastic bag inside the urn.
+- DRM can be used to fingerprint users. [Reddit does it](https://news.ycombinator.com/item?id=23774394).
+- "Millenials" are also called [Gen Y](https://en.wikipedia.org/wiki/Generation_Z#/media/File:Generation_timeline.svg). The ones born between 2010 and 2025 are called "Gen Alphas".
+- All of the [top ten most powerful woman](https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_100_Most_Powerful_Women) are from USA or the EU.
+- [Hadoop stores data in a compressed, schemaless format](https://www.youtube.com/watch?v=MfF750YVDxM). In hadoop, the database doesn't decide how to run your queries... the Java code does. The code finds optimal servers to serve each request. On one hand, storing tons of copies of data is a waste of space. On the other hand, reads (especially considering hadoop offers only eventual consistency) are really fast.
+- A columnar database has a [slight read advantage](https://www.youtube.com/watch?v=8KGVFB3kVHQ) if you know exactly the subset of columns you need to read. Theory is columnar databases don't need to read the entire row into memory, which may not be true for modern databases in practice.
+- Comments in a `.po` file [can](https://www.gnu.org/software/gettext/manual/html_node/Fuzzy-Entries.html) have [effects](https://stackoverflow.com/questions/15653093/what-does-fuzzy-mean-at-the-top-of-a-xgettext-generated-pot-file). They are called "special system comments", or in other languages, annotations.
 - Usually, when people die, they stay on the same planet. So they are always with you.
 - According to the book "Designing Data-Intensive Applications", Twitter fans out (creates for each follower) tweets, so anyone who follows you doesn't need to do a join to see your tweets... except for people with lots of followers, because a tweet from one of these people would mean having to write the same tweet millions of times.
 - It is not simply true that a database should not be used as a messaged queue. Redis (database used as queues) and Kafka (queue system with DB-like guarantees) are such data systems that blur the lines.
@@ -163,7 +173,6 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - [If you cannot pay your mortgage, you need to tell your lender](https://www.fool.com/millionacres/real-estate-financing/mortgages/what-happens-if-you-miss-mortgage-payment/). If you do not communicate with your lender, they will foreclose your home in something like two months. You will also be in a status called "rolling late", i.e. the next payment you make is always for the previous month, so even if you make 12 payments next year, you end up with 12 lates. This is terrible for your credit. **Make two payments at once** to cancel out this effect.
 - A brushless vacuum _can_ be better than brushed ones if you have a lot of hair, which can get tangled in the brush itself.
 - A [retainer](https://en.wikipedia.org/wiki/Retainer_agreement) is an agreement to pay a professional [lawyer] in advance for a set amount of time of their work. By [somehow burning through the other party's retainer](https://www.reddit.com/r/UnethicalLifeProTips/comments/egl6aq/ulpt_being_sued_burn_through_the_opposing_partys/), they run out of time to continue using the lawyer, and then [often] lose by being unrepresented.
-- Fillibustering, i.e. wasting time in meetings (actually, wasting time to delay a decision on some legislation), is also called 拉布.
 - In a typical mahjong game, you can 上 from anywhere if you are about to 食糊 (eat paste).
 - "Open concept" homes quite often require a couch for separation of space anyway.
 - An American beer is 355mL, or 12 US fluid oz. A Canadian beer is 341mL, or 11 imperial fluid oz.
@@ -1392,7 +1401,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - Haddock has a meaty texture, and leaves a disgusting fishy aftertaste.
 - Beating your earnings estimates will still cause your stock price to drop if the data shows your market value is lower than the current price.
 - The fastest red card in football went to [a man named Lee Todd](https://www.theguardian.com/football/2009/jan/07/1), who said "FUCK me that was loud" to a referee.
-- [A young (underage) man had nudes of himself and was charged for being gay and a child sex offender.](https://www.reddit.com/r/news/comments/7abp34/child_sex_offenders_to_be_named_as_such_in_us/dp8pkix/) Kids, don't touch yourself. That's gay, pedophilic, and having sex with a minor. You die for that sort of thing. Jesus was right. Don't touch yourself. Big brother (he's over 18) is always watching.
+- [A young (underage) man had nudes of himself and was charged for being gay and a child sex offender.](https://www.reddit.com/r/news/comments/7abp34/child_sex_offenders_to_be_named_as_such_in_us/dp8pkix/) Kids, don't touch yourself. That's gay, pedophilic, having sex with a minor, and perhaps incest. You die for that sort of thing. Jesus was right. Don't touch yourself. Big brother (he's over 18) is always watching.
 - "Stacked" was used to describe men's pecs and abs, "stacking" one over another. Then the same "stacked" was modified to describe women with large breasts as well. The problem here is that breasts don't stack unless you have multiple pairs of them.
 - 出世 ("exit life") means literally the opposite of it: entering life.
 - "Of course [I'd hire a programmer who doesn't code in his spare time], same as I'd hire a carpenter that doesn't spend his evenings building houses or an accountant that doesn't do accounts for recreation." - dimnakorr
@@ -1882,7 +1891,6 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - [Religion websites see the most expensive phone users, and Adult and pornography websites see the least expensive phone users.](https://www.scientiamobile.com/page/smartphone-price-website-category) Conclusion: if you want a cheaper phone, you should masturbate furiously.
 - Don't try to make a startup in a field where people can arrange their work amongst themselves. Examples: [home cleaning](http://startupgraveyard.io/company/homejoy/), [carpooling](https://www.facebook.com/groups/372772186164295/?fref=nf), [recruiting](https://www.linkedin.com/)
 - _Stickler_ means perfectionist, with a negative connotation.
-- In Punjabi, a lakh is called lakkh.
 - [The Indian numbering system separates the first thousand with a comma, then a comma for every factor of 2.](https://en.wikipedia.org/wiki/Indian_numbering_system#Use_of_separators)
 - The D in [D-day](https://www.army.mil/e2/rv5_downloads/d-day/the-meaning-of-dday-fact.pdf) is also Day. So D-day is Day-day. There is also [H-hour](https://en.wiktionary.org/wiki/H-hour), which is---you guessed it---Hour-hour.
 - PornHub and LiveJasmin are the only pornographic websites in the world's top 50 visited websites.

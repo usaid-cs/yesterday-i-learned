@@ -270,6 +270,7 @@ Well don't make so many apps in the project. You did it to yourself, mate.
 - You `makemessages` only when you have a `locale` folder. If you don't have a locale folder, Django gives you junk, half-translated files everywhere.
 - Specifying [`list_select_related`](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_select_related) in a custom admin is required only if you access any `list_display`'s indirect foreign keys, e.g. `obj.foo.bar.baz`. All direct foreign keys in `list_display` will be selected unless you also override `list_display_related`.
 - Because of the unique way caches are looked up, (at least in Django 1.11), `Site.objects.get_current(request=...)` will incur one query if you run your local web server on `localhost:8000`, but your Site's domain is `localhost`. The site is still in the cache, mind you, Django just uses one query to look up `localhost:8000` first, when it could have looked up `localhost` from the cache as well, but didn't.
+- Translated strings marked as `, fuzzy` in a `.po` file don't get compiled by `compilemessages` unless you do `compilemessages --use-fuzzy`.
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

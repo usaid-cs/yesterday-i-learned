@@ -4,6 +4,14 @@ A senior anything developer needs to know more than just a specific language.
 I would go so far as to argue there's no such thing as a senior php developer or a senior javascript developer. There's only a _senior_ developer.
 Basically, if you were handed a project and needed to do it from start to finish on your own, could you?
 
+## [Grades](https://www.levels.fyi/2019/)
+
+* Entry-level (0~2 years): New-grads or little to no industry experience. Develop and maintain low to moderately complex components working on a team. Typically receives guidance and support from more experienced team members.
+* Normal engineers (2~5 years): Develop and own moderate to complex components. Possibly lead a small team or project. Ability to mentor engineers, provide technical guidance, code reviews, design and deliver on small projects end-to-end. Impact is typically at the immediate team scope. At many companies, this is considered a 'career-level', as in you can spend the rest of your career operating at this level without being pushed out for not being promoted.
+* Senior engineers (5+ years): Typically less than 30% of employees in a company are at this level. Expected to lead and own complex technical initiatives. Begin setting the vision and future direction of team. Impact across multiple related teams within an org. Role shifts more towards design rather than implementation depending on size and expectations at company.
+* Staff engineers (10+ years): This level is much more coveted than the previous ones. Typically less than 10% of employees in a company are at this level. Impact spans across organizations. Entrusted with business-critical projects and for setting technical vision for an org or multiple orgs. Responsible for reviewing and providing feedback on technical designs across an org. Little to no day-to-day coding. Role depends highly on organizational and company needs and becomes loosely defined. Expected to operate fully autonomously.
+* Principal engineers (15+ years): Usually less than 3% of employees in a company are at this level. Smaller companies may not have any individuals at this level. Impact spans across the company and sometimes industry. Expected to operate fully autonomously.
+
 ## Tools & Scoping
 
 - If I gave you a client spec, could you find enough of the holes in it to inform management that their $40,000 bid should really be $120,000?
