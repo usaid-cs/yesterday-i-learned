@@ -1,3 +1,5 @@
+- [Broadway](https://en.wikipedia.org/wiki/Broadway_%28Manhattan%29) is a road.
+- Domino's pizza boxes [save money](https://aim2flourish.com/innovations/the-dominos-pizza-box-innovation). Or so they say...
 - Donald Trump has [never](https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_Most_Powerful_People) been the world's most powerful person. Barack Obama was for at least three, and Putin was top for four.
 - FDR managed to get four terms in office because the law that passed to ban it (22nd amendment) passed two years after he died.
 - Toronto has a higher population than the entire state of Wyoming. The state of California has a higher population than the entire country of Canada. [Cheyenne](https://en.wikipedia.org/wiki/Cheyenne,_Wyoming), Wyoming's capital city, is about half as populous as Waterloo (and not Kitchener-Waterloo).

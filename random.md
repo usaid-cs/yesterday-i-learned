@@ -1,5 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- A UUID encoded as base64 instead of hexadecimal like [`cdaed56d-8712-414d-b346-01905d0026fe`](https://stackoverflow.com/questions/772802/storing-uuid-as-base64-string) is still `za7VbYcSQU2zRgGQXQAm/g==`, i.e. not as short as you think.
+- [DDR-5 added on-die ECC](https://www.anandtech.com/show/15912/ddr5-specification-released-setting-the-stage-for-ddr56400-and-beyond) only because the random error rate is so high, they *had* to.
+- [SHA-2 is an algorithm](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/). SHA-256 is an implementation of SHA-2, with an output size of 256 bits.
+- When your architecture is such that the user logs in from one server and does stuff with another server, you cannot use session auth, so (some kind of) token auth is your best bet.
+- Plaster is more soundproof, but less thermally insulating. Plaster is also more expensive, and harder to repair, so you rarely see it used anymore.
+- The majority of meteors light up for [less than a second](https://www.youtube.com/watch?v=-__IX144HDg), it appears.
 - Wood (like 2x4) containing the core of the tree tends to warp much more easily.
 - "K-12" stands for "from kindergarten to the 12th grade".
 - ["Soaring"](https://news.ycombinator.com/item?id=23826176) quite often refers specifically to gliding (i.e. not flapping wings) while maintaining altitude.

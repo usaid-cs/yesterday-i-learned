@@ -605,3 +605,4 @@ bar
 - A function that runs `sys.exit()` inside a `finally` will still run the `finally` block before the process exits.
 - Relative import (`from ..foo import bar`) can have any number of dots. [`from ...foo import bar` would import from the grandparent directory](https://realpython.com/lessons/relative-imports-python/). Four dots, three directories up.
 - [**`f` STRINGS ARE CODE**](https://stackoverflow.com/questions/42497625/how-to-postpone-defer-the-evaluation-of-f-strings#comment72134685_42497625). It is impossible to determine the type of an f-string until it is fully interpolated into an actual `str`.
+- The third-party [`dateutil`](https://dateutil.readthedocs.io/en/stable/index.html) has a [`relativedelta`](https://dateutil.readthedocs.io/en/stable/relativedelta.html) that is similar to `timedelta`, but [with more parameters](https://stackoverflow.com/a/12433346/1558430), like `leapdays`.

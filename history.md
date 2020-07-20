@@ -1,3 +1,4 @@
+- [Samsung](https://en.wikipedia.org/wiki/Samsung#History) began as what's basically a grocery store, selling dried fish and local groceries and noodles.
 - Canada's credit rating was [better](https://en.wikipedia.org/wiki/United_States_federal_government_credit-rating_downgrades) than that of the US from 2011 to 2020 (at which point Canada was also downgraded).
 - The Spanish flu was named the German flu in Brazil.
 - A single downward triangle in [Nazi camp badging](https://en.wikipedia.org/wiki/Nazi_concentration_camp_badge) meant social democrats, liberals, socialists, communists, anarchists, gentiles who assisted Jews; trade unionists; and Freemasons. Overlaying that on top of an upward yellow triangle, and you get the star of David, making you also a Jew.

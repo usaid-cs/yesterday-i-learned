@@ -1,3 +1,4 @@
+- No one ever said ["nailed the hammer on the wall"](https://www.google.com/search?q=%22nailed+the+hammer+on+the+wall%22). Until now.
 - The lovely lady with an eating disorder that sang "Top of the World" was unfortunately called [Karen](https://en.wikipedia.org/wiki/Karen_Carpenter).
 - In Animal Crossing: New Leaf, [your face is determined by the answers you give that stupid cat](https://www.thonky.com/animal-crossing-new-leaf/face-guide).
 - In ps. I Love You, [the widow bangs the dead husband's best friend](https://www.reddit.com/r/youseeingthisshit/comments/h8yua9/daughter_received_an_email_from_her_father_who/fuu5b68/). Apparently it was a terrible movie.

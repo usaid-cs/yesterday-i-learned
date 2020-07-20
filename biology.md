@@ -1,3 +1,8 @@
+- A standard coronavirus particle is 0.12 microns. N95/KN95 masks filter 95% of particles 0.3 microns wide. [These tests are done with salt particles](https://smartairfilters.com/en/blog/whats-the-difference-between-n95-and-kn95-masks/) for some reason.
+- Each person in the world can kill a billion ants, and there will still be ants left over.
+- [Tea and toast syndrone](https://en.wikipedia.org/wiki/Tea_and_toast_syndrome) happens when you're so old, you can't take care of yourself anymore, so you get malnutrition, but with no other problems.
+- Cobalt chrome contains 1% nickel or less. Nickel is a known irritant when used as implants. That 1% is enough to make cobalt chrome knee replacements inviable for some.
+- If you want to plant tomatoes... Just get a tomato... Not like ten bucks for a pack of seeds... Dumbass...
 - Aerosolised viral particles can have a [half-life of 3 hours](https://www.thechronicle.com.au/news/dangerous-truth-about-viral-graph/3986051/).
 - Adult worker ants cannot digest solid food. They send food to their larvae to digest. Liquid baits work better by not having to go through larvae.
 - The prefrontal cortex is not active during REM sleep. Therefore, [in your dreams, *everything* makes sense](https://thebrain.mcgill.ca/flash/d/d_11/d_11_cr/d_11_cr_cyc/d_11_cr_cyc.html).
@@ -59,7 +64,7 @@
 - Chickens do NOT need to struggle out of the shell on their own to "kick their legs into socket".
 - Cholera causes the small intestines to flood water.
 - 15% of existing colds are caused by [a strain of coronavirus](https://en.wikipedia.org/wiki/Coronavirus). Humans do not develop immunity to coronaviruses. Resistance developed after infection fades after as *long* as six months.
-- The coronavirus is not "just another flu" because, even if it is, [we don't need another flu](http://www.marketwatch.com/story/coronavirus-vs-the-flu-its-just-like-other-viruses-and-we-should-go-about-our-normal-business-right-wrong-heres-why-2020-03-09).
+- The coronavirus is not "just another flu" because [even the youngest and least susceptible develop permanent lung damage](https://thehill.com/changing-america/well-being/prevention-cures/507442-almost-one-third-of-florida-children-tested-are), and even if it is, [we don't need another flu](http://www.marketwatch.com/story/coronavirus-vs-the-flu-its-just-like-other-viruses-and-we-should-go-about-our-normal-business-right-wrong-heres-why-2020-03-09).
 - WHO itself calls the SAR-CoV-2 virus ["the virus responsible for COVID-19" or "the COVID-19 virus"](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)
 - Using tetrahydrozoline eyedrops for too long will develop tolerance. When you stop using it, your eyes get redder than before.
 - The [vaccinia virus](https://en.wikipedia.org/wiki/Vaccinia) aka poxes gave rise to the word "vaccination". People were infecting each other with cowpox to prevent death by smallpox.

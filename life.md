@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- How much work you put into learning matters. How much time you put into it also does. [Increasing the intensity of learning is crutial to saving time on learning a skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/).
+- Bullying is hurting someone's feelings. Beating you up is assault. Learn the difference. Don't be upset because you were bullied... be upset because assault is a crime.
 - If you are a man and you believe you at risk of [mansplaining](https://en.wikipedia.org/wiki/Mansplaining) to a woman, pretend she is [Angela Merkel](https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_Most_Powerful_People), quantum chemist and world leader. You cannot explain in a "condescending, overconfident, and often inaccurate or oversimplified manner" if you think the woman already knows everything---including what you don't---and is asking merely to test your knowledge, and to assert her authority.
 - ["Never ask a question to show that you already know something"](https://news.ycombinator.com/item?id=23661383) - Milton Glaser, guy who designed "I ♥ NY"
 - ["Who gives a fuck if you can code, if you start crying because you boss didn't say hi?"](https://me.me/i/who-gives-a-fuck-if-you-can-code-if-you-210bce3b4903440cb3649ae2909c3054) - Chris Rock, on needing bullies

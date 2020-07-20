@@ -105,6 +105,7 @@
 - You can [restrict a column's contents to a set of enumerated values](https://stackoverflow.com/questions/7250939/in-postgres-how-do-you-restrict-possible-values-for-a-particular-column) using `ALTER TABLE foo ADD CONSTRAINT check_name CHECK (column IN ('bar', 'baz'));`.
 - Make the current _session's' process_ sleep with [`pg_sleep(seconds)`](https://www.postgresql.org/docs/9.0/functions-datetime.html).
 - [Filter through JSON arrays](https://stackoverflow.com/questions/22736742/query-for-array-elements-inside-json-type) with either `json_array_elements` or `jsonb_array_elements`. You *need* to alias the array field as a table, i.e. `SELECT * FROM table, jsonb_array_elements(json_column->'items_array') column_alias WHERE column_alias...`
+- To get how much space your tables use, run [this frankenstein query](https://wiki.postgresql.org/wiki/Disk_Usage), or `SELECT relname AS table_name, c.reltuples AS row_estimate, pg_total_relation_size(c.oid) AS total_bytes FROM pg_class c WHERE relkind = 'r' ORDER BY total_bytes DESC;`.
 
 ## Performance
 
