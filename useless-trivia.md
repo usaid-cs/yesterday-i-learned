@@ -201,3 +201,14 @@
 - "Battle rackets" is not a thing.
 - If you search for "poosh", a Kardashian shows up.
 - [Doja Cat](https://en.wikipedia.org/wiki/Doja_Cat) has a song that says she's *not* a cat, but a cow instead.
+- There are machines out there that cut meat into [perfectly weighted portions](https://imgur.com/CjOddLj) using lasers.
+- T-Mobile was/is owned by Deutsche Telekom.
+- Ellen DeGeneres voiced Dory the blue tang. Blue tangs can live for 20 years.
+- "Geoffrey dollars" are Toys R Us gift cards.
+- There are both songs with the lyrics ["I am your dirty-K"](https://genius.com/The-cliks-dirty-king-lyrics) and ["I am your tourniquet"](https://www.azlyrics.com/lyrics/marilynmanson/tourniquet.html).
+- [Mamma Mia!](https://en.wikipedia.org/wiki/Mamma_Mia!) is a 1999 musical. [Mamma Mia!](https://en.wikipedia.org/wiki/Mamma_Mia!_%28film%29) is also a 2008 _film_. And then there's [Mamma Mia! Here We Go Again](https://en.wikipedia.org/wiki/Mamma_Mia!_Here_We_Go_Again), a 2018 film that follows the 2008 one.
+- Nikki Minaj is 3/4 Afro-Trinidad and 1/4 Indo-Trinidad. When she went to the US, she became African-American. She is clearly in Wikipedia's list of [African-American female rappers](https://en.wikipedia.org/wiki/Category:African-American_female_rappers).
+- [Arjun MK II](<https://en.wikipedia.org/wiki/Arjun_(tank)#Arjun_Mk_II>), India's new tank, is the third generation tank.
+- [People die from instagram parkour all the time](https://www.liveleak.com/view?i=715_1513068362).
+- ["Despite being called the god of thunder, it is electricity that Thor controls"](https://www.youtube.com/watch?v=ovNJpzbAXK8)
+- [Persian the cat pokemon](https://bulbapedia.bulbagarden.net/wiki/Persian_%28Pok%C3%A9mon%29) is clearly a siamese cat instead of a persian cat.

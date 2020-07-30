@@ -53,3 +53,5 @@
 - Being gay is decriminalised in China [since 1997](https://en.wikipedia.org/wiki/LGBT_rights_in_China), and declassified as a mental illness in 2001. Still a lot of stigma though.
 - There are actually [nine political parties in China](https://en.wikipedia.org/wiki/List_of_political_parties_in_China), but the CCP has 99% of all voting members, and the [Constitution of China's Preamble](https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China) says "the Communist Party of China" [four times](http://en.people.cn/constitution/constitution.html). [The CCP has/had 2980 seats, while the other parties have 175 seats](https://en.wikipedia.org/wiki/13th_National_People%27s_Congress).
 - Fun fact: [Kuomintang is still a puppet party in mainland China](https://en.wikipedia.org/wiki/Revolutionary_Committee_of_the_Chinese_Kuomintang).
+- The [紅白藍膠袋](https://en.wikipedia.org/wiki/Red-white-blue_bag) is not known outside China. The concept of nylon bags was invented in Japan.
+- According to mythology, [Mr Li the dad of Nezha 哪吒](https://en.wikipedia.org/wiki/Li_Jing_%28deity%29) had two other sons, Jinzha 金吒 and Muzha 木吒.

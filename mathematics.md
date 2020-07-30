@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- ["By the end of your life, odds are you will have spent over 20,160 minutes kissing"](https://www.reddit.com/r/me_irl/comments/i01nna/me_irl/) is actually realistically achievable... at about [40 seconds per day](https://www.google.com/search?q=20160%2F%2880*365*24*60%29*86400). But no, no one does that. It's a meme.
 - [Metric prefixes](https://en.wikipedia.org/wiki/Metric_prefix) (e.g. kilo, mega, giga) are unit prefixes. If you convert "100 kilo" grams to a unitless figure, you are still going to have to say "a hundred thousand".
 - "1500 out of 100000 black people are in jail" and "300 out of 100000 white people are in jail" (actual statistics for America) doesn't mean black people are 5x more dangerous as white people. Remember 98500 black people and 99700 white people are *out of* jail; blacks and whites are more or less equally dangerous.
 - [Zero times infinity](https://www.quora.com/What-is-zero-times-infinity) has a straightforward answer: zero. If you add zero an infinite number of times, it's still going to zero.

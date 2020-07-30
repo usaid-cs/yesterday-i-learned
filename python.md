@@ -245,7 +245,7 @@ UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 3: ordinal 
 'a > b'  # look ma, not a bool
 ```
 
-- [An `Enum`'s class attributes have itself as its own class](https://docs.python.org/3/library/enum.html). `isinstance(Color.green, Color) is True`.
+- [An `Enum`'s class attributes have itself as its own class](https://docs.python.org/3/library/enum.html). `isinstance(Color.green, Color)` is True. `Color.green == 1` is False.
 - But with every `Enum` having every attribute in its own class, they don't have access to other attributes: `Color.red.blue # AttributeError`
 - Depending on version, [Python2 and 3 raise different errors](http://stackoverflow.com/a/23703899/1558430) when an `object()` is asked if it is equal to another `object()`.
 - Exploiting the tuple syntax can make multidimentional "arrays" very easy to work with:
@@ -604,5 +604,7 @@ bar
 - `sys.executable` gives you the full path of the python that is running your script.
 - A function that runs `sys.exit()` inside a `finally` will still run the `finally` block before the process exits.
 - Relative import (`from ..foo import bar`) can have any number of dots. [`from ...foo import bar` would import from the grandparent directory](https://realpython.com/lessons/relative-imports-python/). Four dots, three directories up.
+- Relative imports are still ok by python3. [*Implicit* relative imports](https://www.quora.com/Why-does-Python-3-not-allow-relative-imports) (e.g. `import bar` when `bar.py` is in the same dir) are no longer impossible.
 - [**`f` STRINGS ARE CODE**](https://stackoverflow.com/questions/42497625/how-to-postpone-defer-the-evaluation-of-f-strings#comment72134685_42497625). It is impossible to determine the type of an f-string until it is fully interpolated into an actual `str`.
 - The third-party [`dateutil`](https://dateutil.readthedocs.io/en/stable/index.html) has a [`relativedelta`](https://dateutil.readthedocs.io/en/stable/relativedelta.html) that is similar to `timedelta`, but [with more parameters](https://stackoverflow.com/a/12433346/1558430), like `leapdays`.
+- A [`subTest` decorator](https://docs.python.org/3/library/unittest.html#unittest.TestCase.subTest) can be used whether or not you are inside a loop. The first parameter is a message. The message can be [anything](https://docs.python.org/3/library/unittest.html) that lets you tell the difference between the failure and other tests, not just a loop counter.

@@ -1,3 +1,5 @@
+- [Alzheimer's](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) ("neurons dying for unknown reason") causes dementia ("inability to think"). Lots of other diseases causes dementia. There's also [Pick disease](https://en.wikipedia.org/wiki/Frontotemporal_dementia), [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson%27s_disease_dementia), and [the human version of mad cow disease](https://en.wikipedia.org/wiki/Creutzfeldt%E2%80%93Jakob_disease).
+- Life uh finds a way. *Acinetobacter* [bacteria can eat cleaning products designed to kill them](https://www.theatlantic.com/science/archive/2018/06/bacteria-can-eat-the-cleaning-products-nasa-uses-to-sterilize-its-spaceships/562016/).
 - A standard coronavirus particle is 0.12 microns. N95/KN95 masks filter 95% of particles 0.3 microns wide. [These tests are done with salt particles](https://smartairfilters.com/en/blog/whats-the-difference-between-n95-and-kn95-masks/) for some reason.
 - Each person in the world can kill a billion ants, and there will still be ants left over.
 - [Tea and toast syndrone](https://en.wikipedia.org/wiki/Tea_and_toast_syndrome) happens when you're so old, you can't take care of yourself anymore, so you get malnutrition, but with no other problems.
@@ -1225,3 +1227,6 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - [Afterbirth](http://www.urbandictionary.com/define.php?term=Afterbirth), mixture of fluids emitted after childbirth, does not give your baby superpowers.
 - If you ask the Internet, ["How do I knock myself out for a long time?"](https://www.quora.com/How-can-you-knock-yourself-out-for-a-long-period-of-time?share=1), the Internet replies with "Don't."
 - _Yersinia pestis_ is responsible for the Black Death, which is a combination of bubonic, septecemic, and pneumonic plagues.
+- From a nurse: "If it's wet and it didn't come from you, don't touch it."
+- [**Breakfast is not the most important meal of the day.**](https://www.reddit.com/r/explainlikeimfive/comments/5zby7f/eli5_why_is_breakfast_the_most_important_meal_of/) Kellogg marketing invented this dangerous myth. Eating breakfast increases hunger throughout the day, increasing overall calorie intake, and builds up insulin resistance, leading to diabetes. This doesn't mean "don't eat breakfast"; it just means don't eat a big breakfast.
+- Australian mates made vegan leather from [SCOBY](https://en.wikipedia.org/wiki/SCOBY) (symbiotic culture of bacteria and yeast), sometimes found in kombucha.

@@ -1,4 +1,8 @@
-- [Broadway](https://en.wikipedia.org/wiki/Broadway_%28Manhattan%29) is a road.
+- Did you know... Mike Pence is married to a [Karen](https://en.wikipedia.org/wiki/Karen_Pence)
+- Turns out Al Gore was the vice president with Bill Clinton, and [he looks like this now](https://en.wikipedia.org/wiki/Al_Gore).
+- "Personally, I think that guns are a great hobby, but not everyone in the world is sane, and they can turn something good and fun into something absolutely terrible – not just with guns, but with cars, vehicles, anything can be turned into something bad." - [A man named Zack, who we call Jerry](https://www.youtube.com/watch?v=K2IOZ-5Nk5k)
+- [USS John S McCain](https://en.wikipedia.org/wiki/USS_John_S._McCain_%28DDG-56%29) is an Arleigh Burke-class destroyer named after John McCain Sr., and John McCain Jr., the grandfather and father of [John McCain III](https://en.wikipedia.org/wiki/John_McCain), the person we call John McCain; that John McCain [_of course_](http://heavy.com/news/2017/07/john-mccain-kids-family-children-daughter-meghan-adopted-mother/) has another son called John McCain IV, and that fourth dude is 31 right now, so we don't know if he's making a John McCain V.
+- [Broadway](https://en.wikipedia.org/wiki/Broadway_%28Manhattan%29) is a road. [Broadway Theatre](https://en.wikipedia.org/wiki/Broadway_theatre) is actually 41 separate theatres, only three of which being on actual Broadway.
 - Domino's pizza boxes [save money](https://aim2flourish.com/innovations/the-dominos-pizza-box-innovation). Or so they say...
 - Donald Trump has [never](https://en.wikipedia.org/wiki/Forbes_list_of_The_World%27s_Most_Powerful_People) been the world's most powerful person. Barack Obama was for at least three, and Putin was top for four.
 - FDR managed to get four terms in office because the law that passed to ban it (22nd amendment) passed two years after he died.
@@ -72,3 +76,4 @@
 - [Waste Management](https://en.wikipedia.org/wiki/Waste_Management_%28corporation%29) is actually American. A company. A publicly-trading company.
 - Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
 - The word "[Connecticut](https://en.wikipedia.org/wiki/Connecticut_River)" is a French corruption of the Mohegan word quinetucket, which means "beside the long, tidal river". The river flows both ways.
+- "Hick town" means "redneck town". Rednecks themselves all their towns hick towns. Example: _"Are y'all gay looking to see how long it takes to get beat up in a hick town? NASCAR sucks?' 'Country and Western is rubbish?' Guess what, you're in a hick town man."_

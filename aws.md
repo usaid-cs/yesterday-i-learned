@@ -39,3 +39,4 @@
 - Enabling multi AZ is a zero downtime operation.
 - Disabling multi AZ is also a zero downtime operation. The point of the exercise is: you need to enable multi AZ to upgrade the postgres version with no downtime.
 - Databases with replicas cannot upgrade major versions unless you remove the read only database first.
+- Use `resize2fs /dev/nvme0n1p1` as part of the [officially sanctioned way to grow a partition](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html) after it's resized from the console.

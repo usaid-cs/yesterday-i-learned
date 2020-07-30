@@ -190,7 +190,7 @@
 - _Le Petit Prince_ had this phrase in it, _Qu'est ce que c'est que cette chose-là?_, "what is that thing". It sounds like [ke-se-ke-se-ke-se shows la](https://translate.google.com/#fr/en/Qu'est%20ce%20que%20c'est%20que%20cette%20chose-l%C3%A0%3F).
 - "Quarantine" came from the forty days ships had to wait at the port during the black death.
 - [German octopodes are always formally masculine](https://de.wikipedia.org/wiki/Kraken), _der Krake_. Informally, _die Krake_ works as well.
-- _Slav_, as far as it could be traced back, just meant [people who understand each other](https://en.wikipedia.org/wiki/Slavs_%28ethnonym%29).
+- _Slav_, as far as it could be traced back, just meant [people who speak the same language](https://en.wikipedia.org/wiki/Slavs_%28ethnonym%29). So *Slovakia* means "we speak the same language here", and "Slavic language" means "the language that everyone speaks".
 - The bootes constellation turns out to be [boötes](https://en.wikipedia.org/wiki/Bo%C3%B6tes), bo-O-tees. It means "ox-driver".
 - On whether _hath_ and _doth_ were pronounced like has/does, or actually with the _th_ sound: [no one is sure](https://english.stackexchange.com/questions/131129/how-does-one-pronounce-hath-and-doth), but certain [words that end with _eth_](https://en.wiktionary.org/wiki/-eth) do suggest at least some words that end in _th_ had _th_ pronounced as _th_. Note that the same page says "There is some evidence that verbs written with this ending in Early Modern English were pronounced as if they ended in -s", so we are back to square one.
 - わかりません (wa-KA-RI-MA-SEN) means "I don't know".
@@ -449,3 +449,7 @@
 - _Yinz_ is Pittsburghers' unique version of _Y'all_.
 - Legend has it that OK came from "Oll Korrect."
 - Italian phonotactics do not usually permit verbs and polysyllabic nouns to end with consonants, excepting poetry and song, so foreign words may receive extra terminal vowel sounds.
+- [咁啱嘅](https://www.youtube.com/watch?v=uc2oMD14RA8)，出街呀，食飯未？食咗喇，得閒咪，Call 我囉。伙記呀，碟粉呢？咁耐嘅？未炒就，取消啦！應該就，炒咗喇。再幫你，跟跟啦。跟跟跟，跟條命，唔嚟就，取消啦。我都話，炒緊嚕。你試吓，唔要吖？信唔信，嚦水壺，車你個頭？
+- A "costume" is a dress code that reflects class, gender, profession, ethnicity, that sort of thing.
+- Pirates don't speak like that. [Robert Newton was speaking in Dorset accent](https://www.youtube.com/watch?v=hWWrOtaEVtw), which had the rolled R.
+- [Check off](https://idioms.thefreedictionary.com/check+off) means Check!
