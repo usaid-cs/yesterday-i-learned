@@ -18,6 +18,7 @@
 - MySQL and Oracle don't support DDL in transactions.
 - There is a name for "just prefetch the table and do the select in memory": [**N + 1 Problem**](https://stackoverflow.com/a/97253/1558430).
 - Try not to have any indexes that you don't plan to use. They increase write times for obvious reasons.
+- ["VERY bad things can happen when you exhaust your disk space ... don't run out of disk space"](https://dba.stackexchange.com/questions/187044/disk-space-unreleased-after-cleaning-up-rows-from-pg-table) - Evan
 
 # MySQL
 

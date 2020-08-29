@@ -1,3 +1,10 @@
+- You can't buy non-alcoholic beers in Pennsylvania unless you are at least 21 years old.
+- "Radio Free Asia" is a US government-funded organisation.
+- Trijicon, an American military gunsight company, [inscribed bible verses like "I am the light of the world"](https://en.wikipedia.org/wiki/Trijicon_biblical_verses_controversy) onto their products. Since the beginning of the controversy, they have decided to stop doing that for government contracts.
+- [Half of all cowboys were black or Mexican](https://edition.cnn.com/2012/11/15/world/black-cowboys/index.html) (you know, like, where they came from?). Back in the day, being a cowboy didn't mean committing crimes and shooting each other, either; [they really took care of cows](https://www.history.com/topics/westward-expansion/cowboys).
+- All things considered, TSA in the USA is doing a terrific job allowing people to fly [without an ID](https://www.tsa.gov/travel/security-screening/identification) (you say you forgot to bring it) and allowing [flying with firearms and ammunition](https://www.tsa.gov/travel/transporting-firearms-and-ammunition) in a checked luggage, at the same time.
+- Obama brewed [the White House's first beer ever](https://en.wikipedia.org/wiki/White_House_Honey_Ale). Trump was the first to impeached and have the balls to run for election again.
+- Michael R Bloomberg looked [like a complete dork](https://en.wikipedia.org/wiki/Michael_Bloomberg#/media/File:Michael_Bloomberg_in_1964_Hullabaloo.jpg) while in university. Anyone can do anything.
 - Did you know... Mike Pence is married to a [Karen](https://en.wikipedia.org/wiki/Karen_Pence)
 - Turns out Al Gore was the vice president with Bill Clinton, and [he looks like this now](https://en.wikipedia.org/wiki/Al_Gore).
 - "Personally, I think that guns are a great hobby, but not everyone in the world is sane, and they can turn something good and fun into something absolutely terrible – not just with guns, but with cars, vehicles, anything can be turned into something bad." - [A man named Zack, who we call Jerry](https://www.youtube.com/watch?v=K2IOZ-5Nk5k)
@@ -53,7 +60,7 @@
 - [Donald Trump is the first president since Polk (1845 ~ 1849) to not have a white house pet.](https://www.thoughtco.com/white-house-pets-4144590)
 - [Cargill](https://en.wikipedia.org/wiki/Cargill) is America's largest private company. They can commit atrocities without releasing any details.
 - [Florida statute 10-20-life](https://en.wikipedia.org/wiki/10-20-Life): get 10 years in prison if you show a gun during a crime. 20 years if you fire one. Life sentence if you shoot someone.
-- At least in America, conspiring to commit a crime with someone else often lands you a heavier sentence than just committing the same crime.
+- At least in America, conspiring to commit a crime with someone else often lands you a harsher sentence than just committing the same crime.
 - In [1981](http://www.todaywasterrible.com/aug-5-ya-fired/), when the [Professional Air Traffic Controllers Organization](https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_%281968%29) went on strike and the air traffic controllers refused to return to work, Ronald Reagan just fired all 11,345 of them.
 - The Washington State was called Columbia prior to joining the union. It was renamed because, get this, they said [it might be confused with the _district_ of Columbia, the capital.](https://en.wikipedia.org/wiki/Washington_Territory) So they named it Washington. But the state capital is also called---you guessed it---[Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.).
 - The statue of liberty, a New York territory, is completely surrounded by New Jersey waters.

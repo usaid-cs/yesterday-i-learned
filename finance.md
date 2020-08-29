@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- "The [Dow" Jones](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) Industrial Average is 30 large stocks spread across NYSE and NASDAQ. It is not its own stock exchange.
+- Companies can have their fiscal year end on an arbitrary day. Apple, for example, end their year on September 30th.
 - There is no evidence on TSX that "sell in May and walk away" works, but there sure is some for "sell in October and buy back in May". Between 1990 and 2015, the general sentiment changed from "gotta lose money in December" to "gotta make the most buck in December".
 - A weaker US dollar usually indicates an appetite for risk-taking and growth... but not always.
 - Governments (and Trump) keep interest rates low because [the governments themselves are in huge debt](https://awealthofcommonsense.com/2020/07/5-thoughts-about-a-world-with-no-yield/) and low/negative rates help them pay it off. The consequence of that is "[a] world with no safe assets that offer investors a living yield on their investments, where investors are pushed further out on the risk curve, [where] there will likely be more volatility."

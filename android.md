@@ -6,6 +6,8 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Samsung aggressively preserves battery longevity by limiting max/min levels of charge, as well as temperature. See [post](https://old.reddit.com/r/Android/comments/i8rhub/lets_talk_battery_longevity/g1ayvlh/) and [possibly relevant Exynos source code](https://github.com/djb77/samsung-kernel/blob/G97XX-TW9/arch/arm64/boot/dts/exynos/battery_data_beyond2lte_common.dtsi#L151).
+- Android is a [way](https://www.quora.com/Are-iPhones-more-secure-than-Android-phones) bigger target for malware because (a) there are more of them around, and (b) the majority of them are out of date.
 - `adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS`
 - On /r/Android: "This sub has continually been one of the most negative cesspools I've seen. It's just constant bitching and complaining about everything and nothing. No device is good enough for you, no amount of features is good enough for you, no price is good for you. I can't even remember a time I saw people comment positively on a post on here. It's like [r/incels](https://www.reddit.com/r/incels) if you replaced women with cellphones." - [/u/FuzzelFox](https://www.reddit.com/r/Android/comments/gwcwk0/update_new_explanation_google_response_this/fsugzx6/).
 - A powered-on OLED panel can take [1.8W to power full brightness](http://www.displaymate.com/Galaxy_S10_ShootOut_1S.htm#Display_Power)

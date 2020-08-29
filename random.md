@@ -1,5 +1,34 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+
+- The [NATO watch strap](https://en.wikipedia.org/wiki/NATO_watch_strap) is the kind of strap that allows your skin to never touch the metal back of the watch.
+- Beer is a KIND of [malt drink](https://en.wikipedia.org/wiki/Malt_drink). Other malt drinks include Horlicks (with milk), Ovaltine (with milk), and malt whiskey (with hangover).
+- Fix an exercise bike belt using [this bloke](https://www.youtube.com/watch?v=kWho62_9pgQ)'s steps.
+- Only a handful of companies in the silicon valley actually care about silicon wafer fabrication ("chip making"). AMD, nVidia, Qualcomm, and Apple all outsource that sort of thing to Taiwan's TSMC.
+- The music for [警訊](https://www.youtube.com/watch?v=HL7Ji1IiMV0), [硬漢子](https://www.youtube.com/watch?v=7d2zOj_Hy5c), came from a Jackie Chan movie called 警察故事.
+- People buy new phones for the warranty. [Power users don't need to do that](https://www.youtube.com/watch?v=oiB8JmBh2vw).
+- A simple wall can reduce your Wifi speed despite showing the "same" signal strength.
+- ["MLC" can be any number of levels greater than 1](https://www.reddit.com/r/bapcsalescanada/comments/htaj5a/ssd_samsung_860_qvo_1tb_sata_25_internal_ssd/fyfrrbt/). They make 4-bit MLC SSDs now. Given the quality of 3-bit TLC SSDs, it is hard to estimate how bad this 4-bit MLC can be.
+- NEVER shoot a gun while the barrel is in the water. The pressure will blow the barrel and/or your face.
+- Try not to scrape information that appears to be licensed to a website for a fee. You may end up bankrupting them.
+- Game controller joysticks are made with potentiometers.
+- Salesforce bought Heroku. No idea why.
+- [Shiatsu massage balls](https://healthcaresolutions.ca/products/acu-shiatsu-massage-balls) the same as [dryer balls](https://www.linenchest.com/en/2-pack-dryer-balls-by-honey-can-do.html).
+- Some people said [swimming while tied to the pool with a cord](https://old.reddit.com/r/lifehacks/comments/ia93ai/this_is_pure_genius/g1otu4a/?context=10000) is a common practice, great way to build strength and endurance among competitive swimmers.
+- On Google pushing URL-less browsers and AMP to make the company the web itself: "I'm not a Richard Stallman type, but I think it's come to the point where if you have even the slightest pretense of being a “free web” person, using Chrome or a Chromium-based browser has become unconscionable." - [dmitryminkovsky, 2020](https://news.ycombinator.com/item?id=24158682)
+- A [wire service](https://en.wikipedia.org/wiki/News_agency) like "AP" and "Reuters" gathers news, and then sells them to other newspaper companies to reprint them. Apparently having a middle man works for them. "To achieve such wide acceptability, the agencies avoid overt partiality. Demonstrably correct information is their stock in trade. ... They avoid making judgments and steer clear of doubt and ambiguity." - [Jonathan](https://en.wikipedia.org/wiki/Jonathan_Fenby)
+- Bill Gates wants to ["find a balance"](https://www.cnbc.com/video/2016/05/02/bill-gates-on-encryption-battle.html) between privacy and security, i.e. no more government-grade encryption for civilians.
+- Indonesia is the [most populous country](https://www.worldometers.info/world-population/population-by-country/) that does not have a [ballistic missile submarine](https://en.wikipedia.org/wiki/Ballistic_missile_submarine).
+- The opposite of murphy's law is: any service built with no serious consideration on how it might be abused, will be abused as such. Paraphrasing [this comment](https://news.ycombinator.com/item?id=24119618) on hacker news.
+- An empty fridge can return to 0° C in [just 3.5 hours](https://woodgears.ca/heating/freezer.html).
+- Dryers ~~fuck with~~reduce the [elasticity](https://old.reddit.com/r/Frugal/comments/i6oxuj/lpt_buy_sneakers_that_are_washerdryer_proof_you/) of underwear elastic bands, so they should be air dried if at all feasible.
+- Suicide is the leading cause of death in young people... but seniors kill themselves [*far* more often](https://ourworldindata.org/suicide#suicide-rates-by-age) than young people do. And the most popular method? Pesticide poisoning.
+- [One person in the world dies from suicide every 40 seconds](https://ourworldindata.org/suicide). That's actually not a lot, considering it is 30x that of terrorism, and 2x more than homocide.
+- [George Soros](https://en.wikipedia.org/wiki/George_Soros) donates over 80% of [his fuck money](https://www.scmp.com/news/china/economy/article/1906325/how-beijing-and-hong-kong-sent-billionaire-george-soros-packing) to [his own charity network](https://en.wikipedia.org/wiki/Open_Society_Foundations).
+- Unlike going from ethernet to WiFi, wireless charging is *less* convenient than wired charging. [It also suffers from a ~50% power loss](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9?gi=sd) more than cabled, which itself suffers from power loss. "If all of a sudden, the 3 billion[-plus] smartphones that are in use, if all of them take 50% more power to charge, that adds up to a big amount. So it's a society-wide issue, not a personal issue." - guy talking about the environmental impact of wireless charging *if* it is widely used
+- Password max length of 128 ensures [attackers don't serve you megabytes of passwords](https://stackoverflow.com/a/56913823/1558430) to waste your computing cycles.
+- Less than two days after MarcelVos publishes a video about (open) [Roller Coaster Tycoon 2 guests being stuck in a left-turning maze](https://www.youtube.com/watch?v=KVgoy_a_gWI), publishers pushed a fix, saying: ["This is just to mess up MarcelVos."](https://github.com/OpenRCT2/OpenRCT2/pull/12546)
+- It's one thing to fork this repo, it's another to [copy all the files and claim them as your own](https://github.com/nesalot/stuff-i-learn/commit/f38b7a31eff3f6da9b845d25434296bd1c52ad1b#diff-9879d6db96fd29134fc802214163b95a). Don't be [this guy](https://www.instagram.com/p/T_r_eLO5j_/) from Atlanta.
 - Google processes [63 000 searches per second](https://seotribunal.com/blog/google-stats-and-facts/). But if we suppose Google underestimated the number by 10 times (because that was in 2019 and it's 2020 now), then it takes only a 1.6-microsecond downtime to fail a search.
 - Subtitles transcribe only what people say, but assume you can hear stuff, just not understand. [(Closed) captions](https://en.wikipedia.org/wiki/Closed_captioning#Terminology) transcribe everything in the audio, including "[music playing in the background]".
 - [Google Dorks](https://www.exploit-db.com/google-hacking-database) helps you find misconfigured websites that have vulnerabilities so open, that even Google indexes them.
@@ -395,8 +424,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - "Double dutch" is either [Dutch (incomprehensible) on top of Dutch (extra incomprehensible)](https://idioms.thefreedictionary.com/double+Dutch), [jumping two ropes at the same time](https://en.wikipedia.org/wiki/Double_Dutch_%28jump_rope%29), or [using both condom and pills](https://www.urbandictionary.com/define.php?term=double%20dutch). The Dutch do a lot of doubles.
 - When it comes to choosing companies, developers in all walks of life [prefer professional growth over anything else](https://triplebyte.com/blog/want-hire-best-programmers-offer-growth) by a large margin. Then you offer salary and work/life balance.
 - A print shop charges [$15](https://www.printninja.com/printing-resource-center/printing-options/custom-game-printing/sample-pricing) in materials per typical card game.
-- A dehumidifier needs to be big. A small one can't hold the water it sucks out.
-- A "抄手", full name "麻辣抄手" is wontons floating in a full bowl of chili oil.
+- A dehumidifier needs to be big. A small one can't hold all the water it sucks out.
 - [Women don't like to be complimented by strangers?](https://torontosun.com/life/relationships/ask-amy-woman-wants-to-turn-off-the-male-gaze)
 - WeChat's photo censorship: [first an upload is synchronously hashed and matched with MD5 of other uploads](https://citizenlab.ca/2019/07/cant-picture-this-2-an-analysis-of-wechats-realtime-image-filtering-in-chats/). Then it is queued for asynchronous analysis to generate more hashes for future detection.
 - Cities install [benches, bike racks, and trees](https://www.youtube.com/watch?v=qxdMdnIHJgY), instead of ballards, to prevent truck terrorism, plowing over people.

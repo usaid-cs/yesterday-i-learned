@@ -73,3 +73,4 @@ struct B : A { };  // Has all A's fields
 - You can't `cout` a string unless you [`#include <string>`](https://stackoverflow.com/a/6321005/1558430).
 - Pointers and references are complicated. As such, C++11 provides an additional way to declare yet another kind of reference, called [rvalue referneces](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2004/n1690.html), using the double-ampersand syntax: `A&&`.
 - Header files exist so [you don't need to recompile a class if the definition didn't change](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf) (PDF).
+- In a move that could possibly backfire, the C++20 lambda syntax [uses square brackets](https://www.bfilipek.com/2020/08/lambda-syntax.html), like `[](auto x, auto y) { /*...*/ };`.

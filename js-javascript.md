@@ -232,6 +232,7 @@ undefined
 - To tail-call optimise your recursive functions, ensure your last return statement consists solely of [a single function call](https://hackernoon.com/es6-tail-call-optimization-43f545d2f68b) to the same function.
 - Arrays can never be object keys. `{[] : 5}` is a syntax error. `{[foo] : 5}` is a reference error for not finding `foo` to unpack. `{['hello'] : 5}` is just `{'hello' : 5}`. Assigning an array i.e. `array[[]] = 5` will simply give it an empty string of 5 i.e. `{'' : 5}`.
 - [Any bitwise shifting operator (e.g. `>>`) will convert its operands to 32-bit integers first](https://stackoverflow.com/a/12125452/1558430). For example, `123456789012345 >> 0` will first convert 123456789012345 (0000000000000000011100000100100010000110000011011101111101111001) to a 32-bit integer (10000110000011011101111101111001), which in two's complement ended up being -2045911175. (Note: >> 0 shifts the thing by exactly 0 bits, making it a pure JS-quirk operation.)
+- JS is a (bitch-ass) weakly-typed language, so if you do `array[[1, 2]] = 3`, you can get 3 back using `array['1,2']`.
 
 ## Deferred API
 

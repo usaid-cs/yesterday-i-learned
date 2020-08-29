@@ -271,6 +271,7 @@ Well don't make so many apps in the project. You did it to yourself, mate.
 - Specifying [`list_select_related`](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_select_related) in a custom admin is required only if you access any `list_display`'s indirect foreign keys, e.g. `obj.foo.bar.baz`. All direct foreign keys in `list_display` will be selected unless you also override `list_display_related`.
 - Because of the unique way caches are looked up, (at least in Django 1.11), `Site.objects.get_current(request=...)` will incur one query if you run your local web server on `localhost:8000`, but your Site's domain is `localhost`. The site is still in the cache, mind you, Django just uses one query to look up `localhost:8000` first, when it could have looked up `localhost` from the cache as well, but didn't.
 - Translated strings marked as `, fuzzy` in a `.po` file don't get compiled by `compilemessages` unless you do `compilemessages --use-fuzzy`.
+- The point of async views is to [allow you to do parallel IO inside them](https://docs.djangoproject.com/en/3.1/releases/3.1/#asynchronous-views-and-middleware-support). If you *don't* do any of that, "there will be performance penalties using async code in WSGI mode".
 
 ### got only `30` from a URL like `?foo=10&foo=20&foo=30`
 

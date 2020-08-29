@@ -1,3 +1,4 @@
+- The answer to hiding secrets in Android apps is: [it is impossible](https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/).
 - You can view secure content on your secondary display [if you say it is secure](https://github.com/Genymobile/scrcpy/commit/1fdde490fd2a0b89680a2b5da5e5274192398023).
 - There is a special "pinterest mode" for RecyclerView, called [StaggeredGridLayoutManager](https://abhiandroid.com/materialdesign/recyclerview).
 - [Streamed install](https://stackoverflow.com/questions/55524302/what-is-performing-streamed-install) (with `cmd package`) installs an APK without having adb save the file somewhere on the device first, which `pm` used to do.

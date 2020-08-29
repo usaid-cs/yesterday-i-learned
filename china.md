@@ -1,5 +1,12 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Apparently ["Chinese Taipei"](https://en.wikipedia.org/wiki/Chinese_Taipei) is deliberately ambiguous, because it doesn't say which China it is, making it more politically correct than "Taiwan" (if you support ROC) or "Taiwan, China" (if you support the PRC).
+- A 中央空调男 is a guy who makes all the ladies warm and fuzzy inside (instead of just you).
+- ["liang xi is the superior sleeping surface"](https://i.imgur.com/AtmqngP.png) - [/u/pixelschatten](https://old.reddit.com/r/China/comments/645f7f/chinese_hard_beds_in_america/dfzr09r/)
+- Genocide and [forced birth control](https://apnews.com/269b3de1af34e17c1941a514f78d764c?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP) are A-OK if we label it as ["Vocational Education and Training Centers"](https://en.wikipedia.org/wiki/Xinjiang_re-education_camps), where they can learn about the importance of national unity and social order, and perhaps to learn a skill or two while away from home. A Chinese person said the "up to 1.5 million" estimate cannot be true: "that's like locking up [an entire city](https://en.wikipedia.org/wiki/Wuhan). We don't have the space for that". The "Centers" are [quite nice inside](https://www.theguardian.com/world/2020/aug/05/secret-footage-uighur-detention-merdan-ghappar-chinese-prison-xinjiang). No blood or filth or anything.
+- That one guy who just had to [walk around with 100kg of rocks](http://www.chinanews.com/sh/2020/08-05/9257144.shtml)
+- A "抄手", full name "麻辣抄手" is wontons floating in a full bowl of chili oil.
+- 冷宫 is not a particular place in the forbidden palace.
 - You heard "门前车马非为贵，家有书生志气高" but only two results showed up on Google.
 - Samsung actually [doesn't make any phones in China](https://www.sammobile.com/where-are-samsung-phones-made) (2019 onwards). All their Chinese factories closed down and went to other places, like Vietnam and Brazil.
 - China implies that "50 years no change" means that the change is completed by 50 years. Hong Kong believes "50 years no change" means literally not changing for 50 years.

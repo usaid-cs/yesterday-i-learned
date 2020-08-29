@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Since there is no such thing as "informally" charging someone of a crime, to indict someone (formally charging someone) is the exact same as just charging someone.
+- That "say when" thing waitors do is [informal](https://english.stackexchange.com/questions/71939/how-did-when-become-the-customary-answer-to-say-when). Your reply is not necessarily "when", either. Saying OK works just as well.
 - "[Häagen Dazs](https://en.wikipedia.org/wiki/Hagen-Dazs#Origin_of_brand_name)" doesn't mean anything.
 - In Punjabi, a lakh is called lakkh.
 - "Less" has been used with countable nouns before year 1770, at which point a Robert Baker [remarked](https://www.arrantpedantry.com/2008/12/23/less-and-fewer/) that "fewer" sounded better with countable nouns so should be used in "less"'s place... but [he never said others needed to share the same preference](https://www.merriam-webster.com/words-at-play/fewer-vs-less). Units of time remains an exception to the [fewer vs less](https://en.wikipedia.org/wiki/Fewer_versus_less) rule, and since the US was founded in 1776, it may be forgivable for not following this rule at all.

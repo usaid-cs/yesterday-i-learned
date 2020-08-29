@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- Hertz is known to (according to /u/Admirable_Nothing, anyway) sell rental cars that have gone through more wear and tear than Budget and Enterprise. Hertz makes more from car sales than from rentals.
 - [Only Volvo cars](https://danluu.com/car-safety/) aren't complete shit when they get a crash in real world (rather than the IIHS / NHTSA ones they are designed for).
 - When you can't make payments for your car and need to go through [voluntary repossession](https://www.thebalance.com/voluntary-repossession-lower-cost-less-chaos-315104) (or just sell the car privately), the dealer is required to give you "a commercially reasonable price" for the car that you give up.
 - [**Always** squeeze a radiator hose before opening the cap.](https://www.reddit.com/r/Justrolledintotheshop/comments/f23j5f/why_you_dont_open_a_hot_in_this_case_over_heated/) (It can explode)

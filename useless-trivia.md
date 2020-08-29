@@ -1,3 +1,10 @@
+- That expert guy in [Seven Red Lines](https://www.youtube.com/watch?v=BKorP55Aqvg) managed to be in [Star Wars VII](https://starwars.fandom.com/wiki/Orion_Lee) as a [nobody](https://starwars.fandom.com/wiki/Suday_Bascus).
+- [Chris Cornell](https://en.wikipedia.org/wiki/Chris_Cornell) killed himself by hanging. [Chester Bennington sang at his funeral](https://www.youtube.com/watch?v=0usJ9A61X60). Chester killed himself two months later, on Chris'es birthday. His 12-year old daughter Toni Cornell [sang the same song at Chester's funeral](https://www.youtube.com/watch?v=JgxlMxftwS8).
+- The Zoom equivalent of "dialing in" is "zooming in".
+- To get the perfect night's sleep, simply [get enough rest](https://www.sciencefocus.com/the-human-body/how-to-get-the-perfect-nights-sleep/), says BBC Science Focus.
+- The [president of France](https://en.wikipedia.org/wiki/Emmanuel_Macron) married [his old high school teacher](https://en.wikipedia.org/wiki/Brigitte_Macron). [Macron has described it as "a love often clandestine, often hidden, misunderstood by many before imposing itself"](https://en.wikipedia.org/wiki/Brigitte_Macron#Career)
+- The "情與義值千金" song came FROM the movie [食神](https://www.youtube.com/watch?v=qXiFOEXiDIk) (1996). [情與義　值千金　刀山去　地獄去　有何憾](https://a5511867.pixnet.net/blog/post/49323006)
+- ["If it's good, dont use it, it makes you a noob."](https://old.reddit.com/r/CallOfDutyMobile/comments/emgmej/whats_the_deal_with_tactical_scope/fdpabll/) - The entire Call of Duty Mobile subreddit
 - No one ever said ["nailed the hammer on the wall"](https://www.google.com/search?q=%22nailed+the+hammer+on+the+wall%22). Until now.
 - The lovely lady with an eating disorder that sang "Top of the World" was unfortunately called [Karen](https://en.wikipedia.org/wiki/Karen_Carpenter).
 - In Animal Crossing: New Leaf, [your face is determined by the answers you give that stupid cat](https://www.thonky.com/animal-crossing-new-leaf/face-guide).
