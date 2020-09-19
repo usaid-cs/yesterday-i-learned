@@ -2,9 +2,12 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Indians invented the word ["updation"](https://en.wiktionary.org/wiki/updation), which could have just been "update", but just like they invented "very less", they traded a simple word for a more complicated one.
+- Today's youth hath invented a phrase ["cash-money"](https://www.urbandictionary.com/define.php?term=Cash-Money), to be used wherever "cool" or "awesome" serves as an adjective.
+- The French word *Champignon* comes from Latin *campāniolus*, "grows in the fields". Grass is also a mushroom.
 - Since there is no such thing as "informally" charging someone of a crime, to indict someone (formally charging someone) is the exact same as just charging someone.
 - That "say when" thing waitors do is [informal](https://english.stackexchange.com/questions/71939/how-did-when-become-the-customary-answer-to-say-when). Your reply is not necessarily "when", either. Saying OK works just as well.
-- "[Häagen Dazs](https://en.wikipedia.org/wiki/Hagen-Dazs#Origin_of_brand_name)" doesn't mean anything.
+- "[Häagen Dazs](https://en.wikipedia.org/wiki/Hagen-Dazs#Origin_of_brand_name)" doesn't mean anything. The company was founded in 1960 by [a couple of Polish-origin Jews](https://en.wikipedia.org/wiki/Reuben_and_Rose_Mattus) in Bronx.
 - In Punjabi, a lakh is called lakkh.
 - "Less" has been used with countable nouns before year 1770, at which point a Robert Baker [remarked](https://www.arrantpedantry.com/2008/12/23/less-and-fewer/) that "fewer" sounded better with countable nouns so should be used in "less"'s place... but [he never said others needed to share the same preference](https://www.merriam-webster.com/words-at-play/fewer-vs-less). Units of time remains an exception to the [fewer vs less](https://en.wikipedia.org/wiki/Fewer_versus_less) rule, and since the US was founded in 1776, it may be forgivable for not following this rule at all.
 - The [nominative & accusative cases](https://learn-german-easily.com/german-case-accusative) can be thought of as "nominative eats the accusative", or "the main character beats up the secondary character". In the case of German, if a noun is used in the accusative case, and it is "masculine", then the *ein* becomes *einen*. See also: [how messed up it is](https://en.wikipedia.org/wiki/German_articles).

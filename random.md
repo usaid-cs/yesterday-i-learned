@@ -1,6 +1,21 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
-
+- Because GPT-2 generates sentences that aren't necessarily random, the bits that it uses to generate sentences [can also be used to hide messages](https://steganography.live/info) (steganography).
+- People going to a funeral has (on average) [3x the environmental damage](https://www.bbc.co.uk/news/resources/idt-sh/dissolving_the_dead) as the cremation itself.
+- A kind of DVD-compatible disc [oxidised to make itself unplayable after a number of hours](https://en.wikipedia.org/wiki/Flexplay). It went nowhere.
+- The ["test" and "reset" buttons](https://www.youtube.com/watch?v=ILBjnZq0n8s) next to power sockets are ground-fault circuit interrupters (GFCIs). ~~They are fitted if within a certain distance from a water source~~ (haha never mind Canada doesn't do that). They detect current that doesn't return, which indicates current leaking through (the body). When a current leakage occurs, a solenoid + plunger inside kicks the button and kills the circuit, which you can reset with, well, "reset".
+- Tea is the most consumed drink in the world (after water). This means people like putting plants in water. Caffeine is around 3% of tea's dry weight... which is [about the same as ground coffee, actually](https://www.caffeineinformer.com/caffeine-content/coffee-instant).
+- Minimalism is a privilege. Frugality is a necessity.
+- [Anyone can create stories in agile/scrum](https://www.mountaingoatsoftware.com/agile/user-stories). Therefore, your product manager will not be writing them.
+- There is a minimum length for ethernet cables or (according to Reddit folklore) they won't "work".
+- Lunisolar calendars have the same "years" as solar calendars, which lunar calendars don't.
+- "Fly fishing" involves fishing with flies as bait. Fly fishermen also claim that [they do so more often by rivers than by the lake](https://flyfishingrookie.com/fly-fishing-vs-regular-fishing/).
+- The iFixit adhesive remover is [just acetone](https://www.ifixit.com/Answers/View/498934/Help+dissolving+adhesive+for+battery+removal), AA0051 (+ fragrance, colour).
+- [Leftover dessicant packets can also be placed in toolboxes to prevent rust](https://old.reddit.com/r/lifehacks/comments/iltmyn/throw_a_few_silica_gel_packets_in_your_tool_box/).
+- Guys at Google wrote a handy guide on [how to do code reviews respectfully](https://testing.googleblog.com/2019/11/code-health-respectful-reviews-useful.html). In short: Assume competence, Provide rationale or context, Consider how comments may be interpreted. (more tips in link)
+- "DLCeil" is the max allocated bandwidth [when no one is downloading](https://www.linksysinfo.org/index.php?threads/ip-mac-bandwidth-limiter-for-tomato-mod-release-user-manual.26670/). Therefore, "DLRate" should be thought of as the fair share when everyone else is downloading, too.
+- Lua sucks because [the standard library is tiny](https://softwareengineering.stackexchange.com/questions/66590/why-python-and-not-lua).
+- For four years (2000 ~ 2004), ISO 8601 briefly allowed two-digit years like YY-MM-DD, but backtracked on it after.
 - The [NATO watch strap](https://en.wikipedia.org/wiki/NATO_watch_strap) is the kind of strap that allows your skin to never touch the metal back of the watch.
 - Beer is a KIND of [malt drink](https://en.wikipedia.org/wiki/Malt_drink). Other malt drinks include Horlicks (with milk), Ovaltine (with milk), and malt whiskey (with hangover).
 - Fix an exercise bike belt using [this bloke](https://www.youtube.com/watch?v=kWho62_9pgQ)'s steps.
@@ -26,7 +41,7 @@
 - [One person in the world dies from suicide every 40 seconds](https://ourworldindata.org/suicide). That's actually not a lot, considering it is 30x that of terrorism, and 2x more than homocide.
 - [George Soros](https://en.wikipedia.org/wiki/George_Soros) donates over 80% of [his fuck money](https://www.scmp.com/news/china/economy/article/1906325/how-beijing-and-hong-kong-sent-billionaire-george-soros-packing) to [his own charity network](https://en.wikipedia.org/wiki/Open_Society_Foundations).
 - Unlike going from ethernet to WiFi, wireless charging is *less* convenient than wired charging. [It also suffers from a ~50% power loss](https://onezero.medium.com/wireless-charging-is-a-disaster-waiting-to-happen-48afdde70ed9?gi=sd) more than cabled, which itself suffers from power loss. "If all of a sudden, the 3 billion[-plus] smartphones that are in use, if all of them take 50% more power to charge, that adds up to a big amount. So it's a society-wide issue, not a personal issue." - guy talking about the environmental impact of wireless charging *if* it is widely used
-- Password max length of 128 ensures [attackers don't serve you megabytes of passwords](https://stackoverflow.com/a/56913823/1558430) to waste your computing cycles.
+- Password max length of 128 ensures [attackers don't serve you megabytes of passwords](https://stackoverflow.com/a/56913823/1558430) to waste your computing cycles. A 128-character password can be cracked in... [no time](https://www.extremetech.com/extreme/173108-researchers-crack-the-worlds-toughest-encryption-by-listening-to-the-tiny-sounds-made-by-your-computers-cpu), in the right conditions.
 - Less than two days after MarcelVos publishes a video about (open) [Roller Coaster Tycoon 2 guests being stuck in a left-turning maze](https://www.youtube.com/watch?v=KVgoy_a_gWI), publishers pushed a fix, saying: ["This is just to mess up MarcelVos."](https://github.com/OpenRCT2/OpenRCT2/pull/12546)
 - It's one thing to fork this repo, it's another to [copy all the files and claim them as your own](https://github.com/nesalot/stuff-i-learn/commit/f38b7a31eff3f6da9b845d25434296bd1c52ad1b#diff-9879d6db96fd29134fc802214163b95a). Don't be [this guy](https://www.instagram.com/p/T_r_eLO5j_/) from Atlanta.
 - Google processes [63 000 searches per second](https://seotribunal.com/blog/google-stats-and-facts/). But if we suppose Google underestimated the number by 10 times (because that was in 2019 and it's 2020 now), then it takes only a 1.6-microsecond downtime to fail a search.

@@ -189,6 +189,10 @@ Classes can be extended with multiple superclasses, aka. **Mixins**; but, for so
 
 > This treats the classes as interfaces, and only uses the types behind [the mixin classes] rather than the implementation.
 
+### Decorators
+
+[Decorators can all be on the same line](https://www.typescriptlang.org/docs/handbook/decorators.html#decorator-composition), i.e. `@f @g`
+
 ### Classes as interfaces
 
 Classes with only static variables can be interfaces.

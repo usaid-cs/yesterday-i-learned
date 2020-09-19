@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- If you invest in fixed-income assets, [the amount of tax the CRA charges on it might be more than what you earned, relative to the inflation during that time](https://www.investopedia.com/articles/pf/07/canadian_tax.asp#taxes-and-investments).
 - "The [Dow" Jones](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) Industrial Average is 30 large stocks spread across NYSE and NASDAQ. It is not its own stock exchange.
 - Companies can have their fiscal year end on an arbitrary day. Apple, for example, end their year on September 30th.
 - There is no evidence on TSX that "sell in May and walk away" works, but there sure is some for "sell in October and buy back in May". Between 1990 and 2015, the general sentiment changed from "gotta lose money in December" to "gotta make the most buck in December".

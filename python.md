@@ -36,6 +36,7 @@ def foo(a: 'what is a', b: 5 + 6, c: list) -> max(2, 9):
 - There is also a [while-else loop](http://www.tutorialspoint.com/python/python_while_loop.htm) that runs when the variable changes to `False`.
 - [Django creates the project for you.](https://docs.djangoproject.com/en/dev/intro/tutorial01/#creating-a-project)
 - Variables can be _accessed_ from an inner scope, but the outer value of the same variable will not be changed. Use [`nonlocal`](http://stackoverflow.com/a/1261961/1558430) to change the outer value.
+- The difference between `global` and `nonlocal` is [`nonlocal` is used by an inner function to access a variable outside of it, while `global` is used by a top-level function to access a variable outside of it](sources/0008.py). **`nonlocal` cannot be used in a top-level function.**
 - `*args` is of type tuple, not list.
 - Use the `for-else` loop to avoid setting "flag variables", e.g. `found = False ...`. Faster than flags in Python.
 - `dict(a dict)` clones the dict (for one level).
@@ -597,7 +598,7 @@ bar
 - Abstract base classes are useful when you never want the class instantiated.
 - You should always [`--no-site-packages`](https://stackoverflow.com/questions/21527471/what-is-no-site-packages-in-virutalenv) on a virtualenv that supports it. It isolates whatever else you have installed globally from your virtual env, which is mostly the point of a virtualenv.
 - [Slice assignment](https://riptutorial.com/python/example/3048/slice-assignment): `a_list[1:3] = [4, 5]` replaces `a_list[1]` with 4, and `a_list[2]` with 5.
-- [`self` is a keyword; it "has absolutely no special meaning to Python".](https://docs.python.org/3/tutorial/classes.html) You can easily make a `class self`, inside which you have `self = None`, and get `self.self == None`.
+- [`self` is not a keyword; it "has absolutely no special meaning to Python".](https://docs.python.org/3/tutorial/classes.html) You can easily make a `class self`, inside which you have `self = None`, and get `self.self == None`.
 - In python3, dividing an int by an int returns a float. This is the only change in behaviour. Dividing a float or Decimal by an int still returns that type.
 - `attrgetter` resolves chains. `attrgetter('foo.bar')` returns a function that returns `your_object.foo.bar`. Also, `attrgetter` accepts multiple positional arguments, which will give you a tuple of keys instead (e.g. `attrgetter('foo', 'bar', 'baz')`).
 - Yes, `attrgetter` still raises AttributeError if the attributte does not exist. There is no `default` option.
@@ -611,3 +612,7 @@ bar
 - A deadbeat way to force your library to work only above 3.6 is to have a random line with `1_2` in it. [PEP 515](https://www.python.org/dev/peps/pep-0515/) makes 3.6 understand that as 12, and for anything below 3.6, a syntax error.
 - Returning `True` in a `__exit__` [tells python you have handled the error](https://rszalski.github.io/magicmethods/).
 - `return _decorator(func) if func else _decorator` ensures a `def decorator(func=None)` will always return a decorator, whether it is used as `@decorator` or `@decorator()`.
+- `__file__` is the symlink's name if you symlinked to a script.
+- If adding more than four floating points together, doing `(a + b) + (c + d)` has less rounding error than just `a + b + c + d`... [somehow](https://en.wikipedia.org/wiki/Pairwise_summation). I haven't found a single example that showed a significant difference.
+- `[:-1]` means "everything except the last item".
+- The rest framework has [generic API views](https://www.django-rest-framework.org/api-guide/generic-views/)... which are just the `APIView` plus mixins for HTTP verbs. There are `APIView`s (not generic), `ViewSet`s (not generic), `GenericViewSet`s (generic), `ReadOnlyModelViewSet`s (generic)... just pick the one that has the combination of attributes and methods that you need. The docs say you should prefer the generic classes over the regular ones.

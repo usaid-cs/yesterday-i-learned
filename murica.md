@@ -1,3 +1,6 @@
+- [Speakeasies](https://en.wikipedia.org/wiki/Speakeasy) were prohibition bars. The name came from "speak softly shop", referring to a smuggler's house.
+- Marilyn Monroe was a sex symbol. She killed herself taking barbiturates so there is not a single picture of her over the age of 36.
+- The southern [stroke belt](https://en.wikipedia.org/wiki/Stroke_Belt) contributes nine times as many brain-dead organ donors as upper states like New York.
 - You can't buy non-alcoholic beers in Pennsylvania unless you are at least 21 years old.
 - "Radio Free Asia" is a US government-funded organisation.
 - Trijicon, an American military gunsight company, [inscribed bible verses like "I am the light of the world"](https://en.wikipedia.org/wiki/Trijicon_biblical_verses_controversy) onto their products. Since the beginning of the controversy, they have decided to stop doing that for government contracts.

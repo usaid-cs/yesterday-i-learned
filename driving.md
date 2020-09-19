@@ -2,6 +2,7 @@
 
 > The "Stop" being the button to start it, is, with the best will in the world, a bit misleading. - James May
 
+- You [can](https://www.kitchener.ca/en/getting-around/bikeway-types.aspx#) pass a cyclist on a sharrowed-lane. It is legal for a cyclist to take up the whole lane, but also legal for a driver to pass a cyclist if they choose not to do so, as long as you give them 1 metre of space. Since a cyclist can always take up the whole lane --- or [do anything they want, for that matter](https://driving.ca/auto-news/news/top-20-rules-of-the-road-for-drivers-and-cyclists) --- and drivers must always give them 1 metre of space, [sharrows don't mean anything](https://old.reddit.com/r/waterloo/comments/8r1r6s/sharrows_a_failed_cycling_experiment_in_the_region/e0nxojq/).
 - As of 2011, [you can](https://www.yorkregion.com/news-story/1423985-police-debunk-traffic-myths/): change lanes in an intersection (the illegal aspect is only from changing lanes unsafely), turn into the middle/center lane/slot for merging (which may contradict something else in this repo), [cross a solid WHITE line on a highway to pass](https://derekwilsonlaw.ca/5-surprising-ontario-traffic-laws-that-you-might-not-know-about/) (it's there to tell you if it's safe, not be your mother), and [drive barefoot](https://www.wheels.ca/top-ten/10-common-driving-misconceptions/).
 - Modern (light-free) roundabouts [reduce accidents by 38%](https://www.youtube.com/watch?v=AqcyRxZJCXc), but also, fatal accidents by 90%. Despite everyone having to slow down somewhat, the carbon footprint of roundabouts is still some 20% lower than traditional intersections, where you have a 50/50 chance of stopping completely.
 - [Transport Canada says](https://bc.ctvnews.ca/mobile/an-expired-car-seat-could-be-putting-your-child-at-risk-1.2817169) expiring child car seats every 6 years is not a ploy to make you keep buying them: "frequent use or sunlight could weaken the plastic. Food, cleaners, drinks and other materials spilled on the car seat could also prevent it from working safely." The expiry is put on the certification rather than the materials, i.e. the seat is no longer certified for use, not that the plastic goes bad in six years. Fine. But do you know what they don't tell you to replace every six years? Car seats. Like, adult car seats.
@@ -20,8 +21,8 @@
 - Cars turning left at an intersection have no right of way, even [compared to cars trying to turn right into a different lane.](https://www.insurancehotline.com/understanding-right-of-way-common-scenarios/)
 - In the event of a blowout, you aren't supposed to brake, as it forces you to fishtail.
 - Hold your steering wheel at 10 and 2 [only if you don't have power steering.](https://www.youtube.com/watch?v=q9fu3SBm-PU)
-- It is not legal (in many jurisdictions) to turn left into a left turn lane. The lane is only for turning left from it.
-- The [optimal driving speeds](http://eartheasy.com/move_fuel_efficient_driving.html) are 50km/h and 90km/h.
+- It is not legal (in many jurisdictions) to turn left into a left turn lane (also called a suicide lane). The lane is only for turning left from it.
+- The [optimal driving speeds](http://eartheasy.com/move_fuel_efficient_driving.html) are 45km/h and 90km/h. Avoid anything under 40, as well as 60.
 - Understeer: the front wheels are fully turned, but the car is still going forward.
 - Oversteer: the front wheels are turning fine, but the back is steering too much.
 - The body should not swivel when performing the shoulder check. This puts the car at risk of drifting.

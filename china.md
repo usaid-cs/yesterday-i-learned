@@ -1,5 +1,7 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- 哀家 is reserved for a widow. More specifically, an emperor's widow.
+- Only people of Manchu ancestry can call themselves [奴才](https://en.wikipedia.org/wiki/Nucai) ("slave"). Han Chinese are forbidden from using that term, using 臣 instead. "奴才意識" ("slave mentality") is best described by this Jackie Chan quote: ["I'm gradually beginning to feel that we Chinese need to be controlled. If we're not being controlled, we'll just do what we want."](https://www.youtube.com/watch?v=fM_oejSD0sY)
 - Apparently ["Chinese Taipei"](https://en.wikipedia.org/wiki/Chinese_Taipei) is deliberately ambiguous, because it doesn't say which China it is, making it more politically correct than "Taiwan" (if you support ROC) or "Taiwan, China" (if you support the PRC).
 - A 中央空调男 is a guy who makes all the ladies warm and fuzzy inside (instead of just you).
 - ["liang xi is the superior sleeping surface"](https://i.imgur.com/AtmqngP.png) - [/u/pixelschatten](https://old.reddit.com/r/China/comments/645f7f/chinese_hard_beds_in_america/dfzr09r/)

@@ -1,5 +1,7 @@
 🇨🇦
 
+- Some places, e.g. some parking lots, are not part of any postal code.
+- "Core age" refers to ages 25 to 54.
 - Southern Ontario includes Eastern Ontario. Northern Ontario is more to the west than (South)western Ontario. Can't explain that. Aliens.
 - Not everyone gets charged with manslaughter because [manslaughter requires the intent to cause harm](https://en.wikipedia.org/wiki/Manslaughter#Canadian_law) (just not death).
 - Earning more than 10% outside Canada [removes your ability to pay nothing for income tax under ~$12,000](https://www.taxback.com/blog/declaring-foreign-income-in-canada), so if you... earned $10800 in Canada and $1201 internationally, you just landed yourself more work than it was worth.

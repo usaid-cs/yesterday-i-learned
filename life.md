@@ -1,5 +1,8 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Turn on subtitles for the kids to read.
+- You should back yourself up with evidence when you say something, yes, but you don't need to do so for every stranger who asks. You don't have to participate in "intellectual discourse any time some fucko on the Internet tells you to". - pervocracy
+- Your nipples should be the first part of your body to enter a room.
 - A girl can become a woman [in a week](https://old.reddit.com/r/Parenting/comments/igz6gv/guys_its_happened_again/), when she has her first period ever. Not because she can reproduce now, but because the worries begin.
 - High-level bosses want results. Low-level bosses want solutions. Neither of them want excuses. They don't need to hear about your failed attempts. They need to know the successes that they can report upwards. A bit like top-down communism.
 - "Don't strive to make your presence noticed, just make your absence felt." - Grace Liechtenstein
@@ -13,7 +16,7 @@
 - It says ["know your worth"](https://thriveglobal.com/stories/know-your-worth-then-live-like-you-know-it/), not "know that you are worth a lot". You can be worthless and not know it.
 - "... braveness is not the absence of fear but rather the strength to keep on going forward despite the fear." - Something Paulo Coelho probably wrote
 - ["Be like water" by Bruce Lee](https://screenrant.com/bruce-lee-be-like-water-quote-meaning-explained/) meant that "people shouldn't allow themselves to be trapped in a certain **mindset**. Instead, a person should be able to adapt to certain situations, grow, and change."
-- Leaving someone $1 in your will is an actual practice to prevent a contest in the future, where the person you would like to exclude from that will comes along and says they're "forgotten" and hence deserve a recount.
+- Leaving someone $1 in your will is an actual practice to prevent a contest in the future, where the person you would like to exclude from that will comes along and says they're "forgotten" and hence deserve a recount. [HG.org says it is mean](https://www.hg.org/legal-articles/you-do-not-have-to-leave-a-dollar-to-disinherit-someone-in-an-estate-plan-28133).
 - When you're down because you feel like you can't do something, remember you can't do everything, like growing proper facial hair (if you're Asian).
 - "Financial infidelity" is when your spouse fucks you in the arse by financial means, like [applying for credit under your name without telling you](https://www.thebalance.com/how-do-i-deal-with-identity-theft-by-my-spouse-2386240). Lawyer up, delete facebook, hit the gym.
 - How much work you put into learning matters. How much time you put into it also does. [Increasing the intensity of learning is crutial to saving time on learning a skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/).

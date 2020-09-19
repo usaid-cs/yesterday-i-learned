@@ -1,3 +1,7 @@
+- ["An Hero"](https://knowyourmeme.com/memes/an-hero) came from a suicidal poem. The typo was repeated four times.
+- A physicist is an attempt by the universe to understand itself.
+- [The woman who sang "Sweet Dreams (are made of this)"](https://en.wikipedia.org/wiki/Annie_Lennox) is Scottish. She reached retirement age in 2020.
+- "FMJ" in COD Mobile only increases *bullet penetration* damage, i.e. bullets pass through walls better.
 - That expert guy in [Seven Red Lines](https://www.youtube.com/watch?v=BKorP55Aqvg) managed to be in [Star Wars VII](https://starwars.fandom.com/wiki/Orion_Lee) as a [nobody](https://starwars.fandom.com/wiki/Suday_Bascus).
 - [Chris Cornell](https://en.wikipedia.org/wiki/Chris_Cornell) killed himself by hanging. [Chester Bennington sang at his funeral](https://www.youtube.com/watch?v=0usJ9A61X60). Chester killed himself two months later, on Chris'es birthday. His 12-year old daughter Toni Cornell [sang the same song at Chester's funeral](https://www.youtube.com/watch?v=JgxlMxftwS8).
 - The Zoom equivalent of "dialing in" is "zooming in".

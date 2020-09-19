@@ -1,3 +1,4 @@
+- The inspiration for iOS "slide to unlock" came from the airplane toilet door lock.
 - ADB can also stand for [Apple Desktop Bus](https://eggfreckles.net/2013/12/27/adb-the-epitome-of-early-apple/), some kind of IO bus for 1980s peripherals.
 - The famous "grass" wallpaper that came with Mac OS X was shot by Steve Jobs.
 - The original ORIGINAL iPhone (the one Steve Jobs demoed on stage) had a plastic screen. He later changed his mind before the device was released to general public.

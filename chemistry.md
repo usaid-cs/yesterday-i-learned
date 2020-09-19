@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [Binary chemical weapons](https://en.wikipedia.org/wiki/Binary_chemical_weapon) are chemicals whose active state (before you use it) is less active than after you use it. For example, [methylphosphonyl difluoride](https://en.wikipedia.org/wiki/Methylphosphonyl_difluoride) is relatively safe, but produces sarin if fired. [Novichok](https://en.wikipedia.org/wiki/Novichok_agent) are... "relatively safe" when handling as well.
 - There are "contaminants from industrial chemicals, bacteria and parasites, fertilizers, and other potentially harmful sources in drinking water", but tap water remains safe to drink because they are limited to "safe" levels.
 - Oily rags can spontaneously combust. See also: [linseed oil fires](https://www.esfrs.org/black-museum/all-the-black-museum-cases/spontaneous-combustion-of-linseed-oil/). [Massage oil fires](https://www.youtube.com/watch?v=8OG6dXEHuLw). [Essential oil fires](https://www.youtube.com/watch?v=rtYuWzIr15g).
 - Almost 99% of [the human body is made of](https://en.wikipedia.org/wiki/Composition_of_the_human_body) O (65%), C (18.5%), H (9.5%), N (3.2%), Ca (1.5%), and P (1.0%). (All percentages are by mass).
