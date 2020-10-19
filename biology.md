@@ -1,3 +1,12 @@
+- [Woodboring beetles](https://en.wikipedia.org/wiki/Woodboring_beetle) eat wood, too. Other examples of [wood eating animals](https://en.wikipedia.org/wiki/Xylophagy) include the [shipworm](https://en.wikipedia.org/wiki/Teredo_navalis) and the [termite](https://en.wikipedia.org/wiki/Termite).
+- Cold sores (whether it is HSV-1 or HSV-2) are herpes on the mouth. How did it get there? Well, what do you think?
+- Mitochondria gives [brown fat](https://en.wikipedia.org/wiki/Brown_adipose_tissue), or brown adipose tissue, its (relatively) brown colour.
+- The liver produces a lot of the body heat.
+- Babies from donor sperm [are more frequently allergic to things](https://medicalxpress.com/news/2020-09-donor-conception-exposed-world-first.html).
+- Species don't need to die to continue evolving. Under [microevolution](https://en.wikipedia.org/wiki/Microevolution), traits are slowly selected for/against, and the species slowly changes without encountering a particularly strong [selective pressure](https://en.wikipedia.org/wiki/Evolutionary_pressure).
+- Prosthetic legs don't do anything if you have no knees. For that reason, if your orthopedic surgeon is talented, they save your ankles (and feet) and that acts as your new knee. This is called [rotationplasty](http://www.danafarberbostonchildrens.org/why-choose-us/expertise/surgery/rotationplasty.aspx), and because your ankles are still your body parts, there is less rejection than if you did something drastic like fitting titanium inside your femur.
+- Clementines are less than 1% protein by weight, and only vitamin C appears in significant amounts, making it a bad fruit nutritionally.
+- Drink acidic stuff and your teeth corrode away. Drink basic stuff and you get plaque buildup that rots your gums away. [Drink listerine all day and you get a fungal infection](https://old.reddit.com/r/explainlikeimfive/comments/j3byj6/eli5_why_is_when_a_bone_shatters_it_can_rebuild/g7c352p/) from not having bacteria eat the fungi away (supposedly). You can't win.
 - [Raccoons can live in the wild for 1.8 to 3.1 years](https://en.wikipedia.org/wiki/Raccoon#Life_expectancy), or, if captive, more than 20 years.
 - Anesthetics can lead to [breakdown to cartilage](https://en.wikipedia.org/wiki/Chondrolysis), presumably where the agents are applied.
 - It takes the body 7 days to convert dietary vitamin D3, [cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol), to the active form, [calcitriol](https://en.wikipedia.org/wiki/Calcitriol).
@@ -1219,7 +1228,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - The bauhinia, [Bauhinia × blakeana](https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana), is sterile. Someone has been planting it everywhere.
 - An orthotic's "break in period" is for your foot, not for the orthotic itself.
 - [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
-- [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days.
+- [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days. [Source](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726172/)
 - There is an entire [page](https://en.wikipedia.org/wiki/Comparative_foot_morphology) on how feet are evolved to have different shapes.
 - The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 - It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).

@@ -1,5 +1,7 @@
 🇨🇦
 
+- There was a nuclear bunker in Kitchener. Now [the rowing club uses it to store boats](https://www.cbc.ca/news/canada/kitchener-waterloo/kitchener-nuclear-bunker-future-unclear-1.5746522).
+- Julie Payette, [big-time bully and asshole](https://www.cbc.ca/news/politics/julie-payette-governor-general-harassment-allegations-1.5657397), was an astronaut and governor general.
 - Some places, e.g. some parking lots, are not part of any postal code.
 - "Core age" refers to ages 25 to 54.
 - Southern Ontario includes Eastern Ontario. Northern Ontario is more to the west than (South)western Ontario. Can't explain that. Aliens.

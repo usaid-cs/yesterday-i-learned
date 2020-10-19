@@ -5,6 +5,7 @@
 - Your options (if any) is worth nothing until exercised, making them tax-free.
 - Your options cannot be sold back to the company. That is, unless someone else wants to buy your options, they are also worth nothing.
 - Your options are immediately vested ('yours', or eqv.) at no cost if the company gets acquired.
+- Vesting means you earned some options. It doesn't mean you exercised them. When you exercise them, you have the option to buy stocks, which, [if the price you pay is different from the stock's fair market value (which it always is, because that's why you earn preferantial options in the first place) you pay a tax on that](http://blog.modernadvisor.ca/employee-stock-options-maximize-financial-gain/).
 - [The four stages of company development](http://takeaswig.com/the-end-of-the-facebook-era): Emergence (when it started), Coalescence (when it becomes large enough that people can't ignore it), Bureaucratization (when it becomes a formal giant), and Decline (when it stops being useful)
 - **Speculating**: buying a company's stocks when the company isn't making a profit.
 - Look at a company's political climate in addition to what the company's competition is doing.

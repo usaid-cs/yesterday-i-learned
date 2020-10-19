@@ -2,6 +2,12 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "Teeming with" means "full of" or "swarming with".
+- Old Chinese is non-tonal, and resembles more like Tibetan than any modern Chinese, including Hokkien, the oldest surviving Chinese language.
+- "Baffling" and "Perplexing" have dictionary definitions that reference each other, making them impossible to comprehend (which is the definition of both of these words).
+- "Ovoviviparous" Oh-voh-veye-VIP-pa-rous
+- Mount Everest, (whose Tibetan name is completely unrelated), was named after [George Everest](https://en.wikipedia.org/wiki/George_Everest), whose name was pronounced "Eve Rest".
+- [*Apophasis*](https://en.m.wikipedia.org/wiki/Apophasis) is the term used to describe denying one's own point in an argument: "It would be out of line for me to say that this action would be unwise and unaffordable, sir, as I only care about your best interests."
 - Indians invented the word ["updation"](https://en.wiktionary.org/wiki/updation), which could have just been "update", but just like they invented "very less", they traded a simple word for a more complicated one.
 - Today's youth hath invented a phrase ["cash-money"](https://www.urbandictionary.com/define.php?term=Cash-Money), to be used wherever "cool" or "awesome" serves as an adjective.
 - The French word *Champignon* comes from Latin *campāniolus*, "grows in the fields". Grass is also a mushroom.

@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- The majority of [sovereign wealth funds](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) are invested in the country's oil and gas industry.
 - If you invest in fixed-income assets, [the amount of tax the CRA charges on it might be more than what you earned, relative to the inflation during that time](https://www.investopedia.com/articles/pf/07/canadian_tax.asp#taxes-and-investments).
 - "The [Dow" Jones](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) Industrial Average is 30 large stocks spread across NYSE and NASDAQ. It is not its own stock exchange.
 - Companies can have their fiscal year end on an arbitrary day. Apple, for example, end their year on September 30th.

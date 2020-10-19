@@ -1,3 +1,4 @@
+- Mac OS X kept getting minor updates only because Steve Jobs once said "Mac OSX has set Apple up for the next 20 years"... so they did that by releasing 10.1, 10.2, ... up to 10.15.
 - The inspiration for iOS "slide to unlock" came from the airplane toilet door lock.
 - ADB can also stand for [Apple Desktop Bus](https://eggfreckles.net/2013/12/27/adb-the-epitome-of-early-apple/), some kind of IO bus for 1980s peripherals.
 - The famous "grass" wallpaper that came with Mac OS X was shot by Steve Jobs.

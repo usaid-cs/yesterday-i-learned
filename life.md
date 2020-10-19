@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- When your teacher asked for your parent's signature, they are just asking for someone who can write properly (i.e. not a child) to give a signature. You can ask any adult to sign it, actually.
+- ["I hugely appreciate him helping, but, beyond the basics, would rather see him sleeping ... rather than trying to be on top of everything"](https://www.theguardian.com/lifeandstyle/2013/apr/19/husband-is-becoming-domestic-slave), says mother. ["Fuck you,"](https://www.cheatsheet.com/health-fitness/americans-still-see-men-as-the-providers-in-a-relationship.html/) says society.
 - Turn on subtitles for the kids to read.
 - You should back yourself up with evidence when you say something, yes, but you don't need to do so for every stranger who asks. You don't have to participate in "intellectual discourse any time some fucko on the Internet tells you to". - pervocracy
 - Your nipples should be the first part of your body to enter a room.

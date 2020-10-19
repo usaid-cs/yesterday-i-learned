@@ -456,7 +456,7 @@ bar
 - `license()` (with an S) is a built-in function. It shows python's story and history in addition to the actual licence. Making a function called `license()` is usually harmless, except if you use pylint: `Redefining built-in 'license'`
 - [`ngxtop`](https://github.com/lebinh/ngxtop) is a pip package.
 - Comparing tuples with tuples, like `(1, 0) < (3, 0)` works how you think it would, but comparing tuples with lists that _look about the same_ will not: `(1, 0) < [3, 0]` is false because the two types cannot be compared together.
-- You can `os.path.join` a `PosixPath`, you can `Path('/') / 'home' / 'bob'`, but you can't `Path('/') + 'home/bob'`, because that'd be "unintuitive".
+- On pathlib: you can `os.path.join` a `PosixPath`, you can `Path('/') / 'home' / 'bob'`, but you can't `Path('/') + 'home/bob'`, because that'd be "unintuitive".
 - Re machine learning: [you should probably just go with tensorflow](https://deepsense.ai/keras-or-pytorch/), if it installs.
 - The exception message for doing `max(0, None)` is different for python 3.5 (`TypeError: unorderable types: NoneType() > int()`) and 3.6 (`TypeError: '>' not supported between instances of 'NoneType' and 'int'`).
 - Saying `raise`, without an exception to reraise in the context, will get you a `RuntimeError`.
@@ -505,6 +505,7 @@ bar
 - [PEP 420](https://www.python.org/dev/peps/pep-0420/#specification): It is no longer necessarily the case that a folder needs an `__init__.py` (making it a package) for files to be imported, but the rules are still confusing enough that you will want to continue having these files.
 - According to [this guy](https://stackoverflow.com/questions/2903827/why-are-python-exceptions-named-error), exception classes should not end with `Exception` because we don't write normal classes ending with `Class` or variables ending with `_variable` either. As for _what_ exceptions are not errors, examples include `SystemExit`, `KeyboardInterrupt`, and exceptions that are called `Warning`s instead of `Error`s.
 - You have never used F strings because they are python 3.6 and up, but you're stuck on 3.5.
+- The self-debugging `=` in `f'{strings=}'` is only available from 3.8 onwards.
 - [If a class declares `__slots__`, all of its subclasses need to declare `__slots__` individually](https://stackoverflow.com/a/28059785/1558430), but only attributes introduced by that particular subclass.
 - Only python3 classes with `__slots__` defined will raise `AttributeError` when something not inside `__slots__` is assigned to it. It does not do that in python2. See also: [source](sources/0005.py)
 - `set1.isdisjoint(set2)` is a very verbose way to check if the two sets have no common items, aka `not (set1 & set2)`. The only difference is [short-circuiting](https://stackoverflow.com/questions/45112928/python-isdisjoint-runtime). And yes, [a set is disjoint with an empty set](https://python-reference.readthedocs.io/en/latest/docs/sets/isdisjoint.html).
@@ -616,3 +617,11 @@ bar
 - If adding more than four floating points together, doing `(a + b) + (c + d)` has less rounding error than just `a + b + c + d`... [somehow](https://en.wikipedia.org/wiki/Pairwise_summation). I haven't found a single example that showed a significant difference.
 - `[:-1]` means "everything except the last item".
 - The rest framework has [generic API views](https://www.django-rest-framework.org/api-guide/generic-views/)... which are just the `APIView` plus mixins for HTTP verbs. There are `APIView`s (not generic), `ViewSet`s (not generic), `GenericViewSet`s (generic), `ReadOnlyModelViewSet`s (generic)... just pick the one that has the combination of attributes and methods that you need. The docs say you should prefer the generic classes over the regular ones.
+- Running [`gunicorn -w 4 myapp:app`](https://gunicorn.org/) runs a web server with 4 workers using the file `myapp.py` and the function `def app` inside it.
+- Pipenv devs are [very noob-friendly](https://pipenv-fork.readthedocs.io/en/latest/install.html#make-sure-you-ve-got-python-pip): they call noobs "newcomers", and there is a section in the docs where it helps them figure out why typing `python` into the python REPL gives them a `NameError`.
+- If you deploy on Windows, [uWSGI and Gunicorn don't work there](https://djangodeployment.com/2017/01/02/which-wsgi-server-should-i-use/), so use mod_wsgi instead.
+- Context managers are objects, so you can keep a reference to it before you use it in a with statement: `an_instance = Foo(); with an_instance:`
+- Well don't use [`numpy.matrix`](https://numpy.org/doc/stable/reference/generated/numpy.matrix.html) because it does nothing more than what `numpy.array` does, and [must be two-dimensional](https://stackoverflow.com/questions/4151128/what-are-the-differences-between-numpy-arrays-and-matrices-which-one-should-i-u).
+- Two multiply two numpy matrices, do `array(m x n) * array(m x n) = array(m x n)`. By "multiply", it means each new cell contains the dot product of the old values at the same location.
+- To get the *dot product* of two matrices instead, use `array(m x n).dot( array(n x m) ) = array(m x m)`.
+- [`numpy.reshape`](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html) turns your matrix into a giant one-dimensional list, and then fills in a new matrix to your specifications. For example, if you reshape a `[1, 2, 3, 4, 5, 6]` with `.reshape(2, 3)`, you get `[[1, 2, 3], [4, 5, 6]]`.

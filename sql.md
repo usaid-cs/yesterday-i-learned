@@ -1,5 +1,6 @@
 # Any SQL
 
+- [`OUTER JOIN ON TRUE`](https://stackoverflow.com/questions/21520048/what-means-table-a-left-outer-join-table-b-on-true) is a technique to get yourself a `CROSS JOIN` (null values allowed on either table) without saying `CROSS JOIN`.
 - SQL is more than 40 years old and is still used today, not because it's great, but because [it just works, 90% of the time](http://blog.sqlizer.io/posts/sql-43/), makes [RDBMS](https://en.wikipedia.org/wiki/Relational_database_management_system) and SQL solved problems in computing.
 - `TRUNCATE some table` differs from `DELETE * FROM some table` in that ~~the `TRUNCATE` statement does not leave behind transaction logs, and thus cannot be rolled back.~~ [`TRUNCATE` requires the `TRUNCATE` privilege, fires `ON TRUNCATE` triggers rather than `ON DELETE`](https://www.postgresql.org/docs/9.1/sql-truncate.html), and does so immediately, rather than a `DELETE`, which only marks rows as deleted, to actually be deleted later by a background process. (Here's a trivia you will never use again)
 - You don't need to select any database to `SELECT 1;`. This is a poor man's way of checking if the database connection is working.

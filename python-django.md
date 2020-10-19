@@ -141,6 +141,7 @@ Now, when this migration is run, it drops a table instead of creating a new colu
 - `.using()` in a `Prefetch`'s queryset appears to have no conflicts. For example, `Foo.objects.using('db1').prefetch_related('bars', queryset=Bar.using('db2').objects.all())` *seems* to use db1 for fetching Foo, and then uses db2 to fetch its bars.
 - Annotating a queryset can increase the number of results returned if the annotation involves a ManyToManyField or similar.
 - Querying a model by its ManyToManyField's attributes, i.e. `Model.objects.filter(many_to_many__attribute=some_value)`, will yield as many results as there are matching `many_to_many__attribute`s. For example, if you have 2 `Model`s and 6 `ManyToMany.attribute`s matching `some_value`, your queryset will have 6 things in it, even though it is a query against `Model`, and there are only 2 `Model`s.
+- Running `.exists()` on a queryset always causes it to run a `SELECT (1)` query on the table... *unless* you have prefetched it through a related name: `product.tags.exists()` does not run a query if `product` derived from `Product.objects.prefetch_related('tags')`.
 
 #### Don't know what `select_related` and `prefetch_related` do
 
@@ -358,6 +359,7 @@ False  # foo has no ratings
 - A free security check is available at `manage.py check --deploy`.
 - `manage.py` and `django-admin` are different scripts, but both provide `argv` to `execute_from_command_line`, making them essentially the same thing. (You can run `django-admin` anywhere, not just in `.`.)
 - A [`raw` Signal](https://docs.djangoproject.com/en/3.0/ref/signals/) should not do any other thing to query the database because the database might not be in a consistent state yet.
+- Django-cron works by [asking the actual cron to call it every minute](https://django-cron.readthedocs.io/en/latest/installation.html).
 
 ### Django signals (e.g. `post_save`, `m2m_changed`, ...) not working
 

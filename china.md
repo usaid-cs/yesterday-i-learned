@@ -1,6 +1,11 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
-- 哀家 is reserved for a widow. More specifically, an emperor's widow.
+- The term ["腰斬"](https://en.wikipedia.org/wiki/Waist_chop) can refer to both the cancellation of a television program mid-series, or literally cutting someone in half at the waist, which was a form of punishment until Yongzheng abolished it.
+- ["放生"](https://youtube.com/watch?v=oZWcDu940eI) refers to a technique whereby the Chinese government *allows* its citizens to view the most liberal western / Hong Kong news outlets, which are the most outspoken media with almost ridiculous points of view, to have them believe that "see? see how they are talking about us?".
+- ["Made in Hong Kong"](https://www.bbc.com/zhongwen/trad/chinese-news-54097386) stopped being a thing in 2020.
+- Similar to how you don't know what Jesus looked like, you don't know how the [historical Chinese characters](https://en.wikipedia.org/wiki/Guan_Yu) really looked, either.
+- ["入赘"](https://baike.baidu.com/item/%E5%85%A5%E8%B5%98%E5%A9%9A%E5%A7%BB/1856700?fromtitle=%E5%85%A5%E8%B5%98&fromid=572296) (ru4 zhui4), also called 倒插门, is the practice of a man marrying into the woman's house, instead of the other way around. The woman's parents will be their children's "inner" grandparents, and the man's parents, outer. [Their children will also inherit the woman's surname](https://www.zhihu.com/question/280069174).
+- "哀家" (ai1 jia1) is reserved for a widow. More specifically, an emperor's widow.
 - Only people of Manchu ancestry can call themselves [奴才](https://en.wikipedia.org/wiki/Nucai) ("slave"). Han Chinese are forbidden from using that term, using 臣 instead. "奴才意識" ("slave mentality") is best described by this Jackie Chan quote: ["I'm gradually beginning to feel that we Chinese need to be controlled. If we're not being controlled, we'll just do what we want."](https://www.youtube.com/watch?v=fM_oejSD0sY)
 - Apparently ["Chinese Taipei"](https://en.wikipedia.org/wiki/Chinese_Taipei) is deliberately ambiguous, because it doesn't say which China it is, making it more politically correct than "Taiwan" (if you support ROC) or "Taiwan, China" (if you support the PRC).
 - A 中央空调男 is a guy who makes all the ladies warm and fuzzy inside (instead of just you).

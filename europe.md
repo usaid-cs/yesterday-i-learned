@@ -1,3 +1,4 @@
+- [Staedtler](https://en.wikipedia.org/wiki/Staedtler) the stationery brand originated in the **1600s** when a man named Friedrich Staedtler started making pencils. The actual company was founded in 1835.
 - No one ever notices [that big cathedral behind the leaning tower of Pisa](https://en.wikipedia.org/wiki/Pisa_Cathedral).
 - You can remember where Czech Republic and Slovak Republic are by thinking: these were [the two countries](https://en.wikipedia.org/wiki/Czechoslovakia) whose land was right up Germany's backend, before [the third Reich decided to absorb them](https://en.wikipedia.org/wiki/German_occupation_of_Czechoslovakia).
 - [Nazi-time meth came in chocolate bar form](https://time.com/5752114/nazi-military-drugs/) too.

@@ -1,3 +1,5 @@
+- Supergirl is superman's biological cousin.
+- @taylorswift is banned. [@taylorswift13](https://twitter.com/taylorswift13) is the real deal.
 - ["An Hero"](https://knowyourmeme.com/memes/an-hero) came from a suicidal poem. The typo was repeated four times.
 - A physicist is an attempt by the universe to understand itself.
 - [The woman who sang "Sweet Dreams (are made of this)"](https://en.wikipedia.org/wiki/Annie_Lennox) is Scottish. She reached retirement age in 2020.

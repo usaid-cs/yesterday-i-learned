@@ -1,5 +1,15 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Online-only banks can't just print you a bank draft. [If you need it urgently, you will find brick and mortar banks very useful](https://www.reddit.com/r/PersonalFinanceCanada/comments/jcc0b3/a_word_of_warning_for_home_buyers_with_online/).
+- Room temperature is 20 degrees Celsius, colder than the average room.
+- If a game of Monopoly does not end slowly enough, you can extend its play time by paying money to the free parking spot instead of the bank, and anyone who lands on free parking gets all the money accumulated there.
+- Real lawn scythes (they are not called scythers), if used for lawns instead of heads or Halloween, [have a second perpendicular handle](https://www.youtube.com/watch?v=RGNTYPmeLXk) that helps you cut grass without bending your back.
+- One con of using a framework is: if someone on your team hasn't learned it, they need to learn it in addition to your code. Then again, understanding the rest of your code may take less time.
+- [Normal ammunition is good for at least a decade](https://gunbelts.com/blog/ammo-shelf-life/). Sometimes they last multiple decades without going bad.
+- ["Green" threads](https://en.wikipedia.org/wiki/Green_threads) are threads that are scheduled by the runtime itself, instead of the OS. "Green" was java terminology. There's nothing green about the rest of them.
+- Underground houses sound nice in theory (total privacy and all that), but [pests, mould, flooding, and maintenance costs](https://dengarden.com/misc/The-Pitfalls-of-an-Underground-House) are the main reasons you should never get one.
+- Apartments and houses with plants all over the surface sound nice too, except the part where [you need to take care of the plants or they attract insects](https://www.hk01.com/%E8%A1%8C%E8%B5%B0%E4%B8%AD%E5%9C%8B/523287/%E6%88%90%E9%83%BD%E9%A6%96%E5%80%8B-%E5%9E%82%E7%9B%B4%E6%A3%AE%E6%9E%97-%E4%BD%8F%E5%AE%85-%E8%87%AA%E5%8B%95%E7%81%8C%E6%BA%89%E5%A4%96%E7%89%86%E6%A4%8D%E7%89%A9-%E7%B6%B2%E6%B0%91%E6%86%82%E8%9A%8A%E8%9F%B2%E8%82%86%E8%99%90).
+- [Lee](https://en.wikipedia.org/wiki/Lee_%28English_surname%29) is a common English surname, meaning "meadow". "Leah" and "Leigh" might mean the same thing.
 - Because GPT-2 generates sentences that aren't necessarily random, the bits that it uses to generate sentences [can also be used to hide messages](https://steganography.live/info) (steganography).
 - People going to a funeral has (on average) [3x the environmental damage](https://www.bbc.co.uk/news/resources/idt-sh/dissolving_the_dead) as the cremation itself.
 - A kind of DVD-compatible disc [oxidised to make itself unplayable after a number of hours](https://en.wikipedia.org/wiki/Flexplay). It went nowhere.

@@ -1,10 +1,13 @@
 - **Befehl**: Order. *Das war ein Befehl!*: that was an order!
 - **Bis**: Until. *Bis morgen*: see you tomorrow.
-- **Du**: You (informal)
+- **Du**: You (informal).
+- **Eis**: Ice (in cream form or otherwise).
 - **Ersaufen**: Drown. *Sie werden ersaufen in ihrem eigenen Blut*: they will drown in their own blood.
+- **Fisch**: Fish.
 - [**Gesundheit**](https://en.wikipedia.org/wiki/Gesundheit): Health. But at the same time, it might mean
  "healthiness" (*Gesund* + *Heit*).
 - **Ich**: I/me. *Ich spreche kein deutsch*: I don't speak German.
 - **Nein! Ich habe keine Zeit!**: No! I have no time!
 - **Sie**: She (singular/plural) / it (feminine) / You (formal) / They (formal)
+- **Suppe**: Soup. Sounds like sopper.
 - **Verstehen**: To understand. *Ich verstehe*: I understand.
