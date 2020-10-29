@@ -1,3 +1,6 @@
+- Why would successful viruses get weaker? Did the seasonal flu get weaker?
+- Professional beekeepers [mark their queen bees in one of five colours](https://en.wikipedia.org/wiki/Queen_bee#Identification), with the colours signifying when the bee was hatched. White means the year ends in 1 or 6, yellow means the year ends in 2 or 7, etc.
+- *Sleeping* is potentially deadly to babies, and especially so when in a moving car seat or crib. [Sudden infant death syndrome](https://en.wikipedia.org/wiki/Sudden_infant_death_syndrome) is also more prevalent in males.
 - [Woodboring beetles](https://en.wikipedia.org/wiki/Woodboring_beetle) eat wood, too. Other examples of [wood eating animals](https://en.wikipedia.org/wiki/Xylophagy) include the [shipworm](https://en.wikipedia.org/wiki/Teredo_navalis) and the [termite](https://en.wikipedia.org/wiki/Termite).
 - Cold sores (whether it is HSV-1 or HSV-2) are herpes on the mouth. How did it get there? Well, what do you think?
 - Mitochondria gives [brown fat](https://en.wikipedia.org/wiki/Brown_adipose_tissue), or brown adipose tissue, its (relatively) brown colour.

@@ -1,5 +1,6 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- ["Algebra" studies how you solve something](http://www.differencebetween.net/science/difference-between-algebra-and-calculus/), while "calculus" studies *change*... namely, functions, limits, derivatives, integrals, and series.
 - The **matrix dot product** works by going through [rows and columns, in that order](https://www.mathsisfun.com/algebra/matrix-multiplying.html). To get the value of the new matrix's cell at (1, 1), you get the dot product of the first matrix's row 1 with the second matrix's column 1. To get the value of the new matrix's cell at (2, 1), you get the dot product of the first matrix's row 2 with the second matrix's column 1. As such, the size of the resulting matrix always the same number of rows as matrix 1, and the same number of columns as matrix 2.
 - Since **vectors** are one-dimensional matrices (either one row or one column), the [dot product of two vectors happens](https://en.wikipedia.org/wiki/Dot_product) to be the multiplication of two one-dimensional matrices, i.e. a1b1 + a2b2 + a3b3 + ...
 - You can only get the dot product of two matrices when [matrix 1 has the same number of columns as matrix 2 has rows](https://www.mathwarehouse.com/algebra/matrix/multiply-matrix.php), so that the number of parameters match.

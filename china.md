@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- The song [心太软](https://baike.baidu.com/item/%E5%BF%83%E5%A4%AA%E8%BD%AF/30530) was composed after the composer lost a bunch of money at a casino.
 - The term ["腰斬"](https://en.wikipedia.org/wiki/Waist_chop) can refer to both the cancellation of a television program mid-series, or literally cutting someone in half at the waist, which was a form of punishment until Yongzheng abolished it.
 - ["放生"](https://youtube.com/watch?v=oZWcDu940eI) refers to a technique whereby the Chinese government *allows* its citizens to view the most liberal western / Hong Kong news outlets, which are the most outspoken media with almost ridiculous points of view, to have them believe that "see? see how they are talking about us?".
 - ["Made in Hong Kong"](https://www.bbc.com/zhongwen/trad/chinese-news-54097386) stopped being a thing in 2020.

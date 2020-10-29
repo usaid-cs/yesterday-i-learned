@@ -1,3 +1,4 @@
+- Orange man says ["big league", not "bigly"](https://www.youtube.com/watch?v=meNOKSyDFRk).
 - Lyndon Baines Johnson loved [showing others his monster dong](https://historycollection.com/lbj-used-one-thing-control-others-around-became-known-johnson-treatment/2/). He named it Jumbo, and he plays with it all the time.
 - [Amy "Kombucha" Klobuchar](https://en.wikipedia.org/wiki/Amy_Klobuchar) is pronounced CLO-buh-sha.
 - The MKS system is overrated, use the [FFF system](https://en.wikipedia.org/wiki/FFF_system) (furlong–firkin–fortnight) instead. Why stop there, only express these units in fractional units, like "1/56 fortnights" (for how long a typical dinner is with a close friend) and 7/800ths of a firkin (mass of a can of soda). [Because that's what you sound like.](https://www.amazon.ca/32-Inch-Cobalt-Drill-Bit-Pack/dp/B007ITJYBM)

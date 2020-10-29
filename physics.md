@@ -1,3 +1,5 @@
+- Flash memory relies on quantum tunnelling to have electrons leak into places that they don't normally go. Watch a video on [evanescent coupling or Zener breakdown](https://www.youtube.com/watch?v=XnNC6uHkKMY). This is also why flash storage will start to lose memory after something like 10 years... because electrons can leak out even though there is no logical way for them to do so.
+- [The ISS' orbit is never directly over the arctic or the antarctica.](https://www.quora.com/Is-the-ISS-geostationary-What-is-the-location-of-the-ISS-with-respect-to-Earth-Does-it-constantly-revolve-around-the-Earth)
 - [Guilt-tripping people doesn't work](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip). Looking at you, PETA.
 - Quantum computers return a single answer by making all incorrect answers destructively interfere with each other.
 - [Three perpendicular polarizing filters let in more light than two.](https://www.popularmechanics.com/science/a28191/polarized-sunglasses-bells-theorem/) It might just be the first filter shifting polarity of the light going in, but I don't know.

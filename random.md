@@ -1,5 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Keyboard keys are staggered only because [typewriters had tiny bars going in between the keys](https://ux.stackexchange.com/questions/40390/why-are-keyboard-keys-staggered), and it wouldn't have worked if the keys were ortholinear. We don't have these bars on computer keyboards today, obviously.
+- Since 4K is exactly 4x as many pixels as 1080p, 1080p is also known as 1K, and 4K is also known as 4320p. *Maths*.
+- [40MHz should only be used on 5GHz networks](https://community.ui.com/questions/Benefit-of-40Mhz-vs-20Mhz/8a0206c3-e3e0-4cd5-9672-3d16d4995b8d), not 2.4GHz. Too many overlapping channels introducing interference.
+- [HEIF](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) uses HEVC (patented) for encoding by default.
+- The king of Thailand lives in Germany, not Thailand. His son studies in Germany, too.
 - Online-only banks can't just print you a bank draft. [If you need it urgently, you will find brick and mortar banks very useful](https://www.reddit.com/r/PersonalFinanceCanada/comments/jcc0b3/a_word_of_warning_for_home_buyers_with_online/).
 - Room temperature is 20 degrees Celsius, colder than the average room.
 - If a game of Monopoly does not end slowly enough, you can extend its play time by paying money to the free parking spot instead of the bank, and anyone who lands on free parking gets all the money accumulated there.

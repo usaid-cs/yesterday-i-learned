@@ -2,6 +2,9 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "**Whom** should I give this job to" is [always wrong](https://english.stackexchange.com/questions/226282/is-whom-should-i-give-this-job-to-grammatically-correct), because you would have gone with "**To whom** should I give this job" if you are trying be use who/whom correctly, or "Who should I give this job to" if you plan to speak informally.
+- ["The first element in an array"](https://softwareengineering.stackexchange.com/a/361761/116811) can refer to either `array[0]` (as in the item that is the first in the array)
+- In UK English, "Composite" is *always* pronounced with the stress on the C. In US English, "comPosite" is *always* pronounced with the stress on the P.
 - "Teeming with" means "full of" or "swarming with".
 - Old Chinese is non-tonal, and resembles more like Tibetan than any modern Chinese, including Hokkien, the oldest surviving Chinese language.
 - "Baffling" and "Perplexing" have dictionary definitions that reference each other, making them impossible to comprehend (which is the definition of both of these words).

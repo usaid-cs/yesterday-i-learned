@@ -625,3 +625,5 @@ bar
 - Two multiply two numpy matrices, do `array(m x n) * array(m x n) = array(m x n)`. By "multiply", it means each new cell contains the dot product of the old values at the same location.
 - To get the *dot product* of two matrices instead, use `array(m x n).dot( array(n x m) ) = array(m x m)`.
 - [`numpy.reshape`](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html) turns your matrix into a giant one-dimensional list, and then fills in a new matrix to your specifications. For example, if you reshape a `[1, 2, 3, 4, 5, 6]` with `.reshape(2, 3)`, you get `[[1, 2, 3], [4, 5, 6]]`.
+- Whether or not you [`raise an_exception from another_exception`](https://stackoverflow.com/questions/24752395/python-raise-from-usage), python is still going to show `another_exception`, just not as a "direct cause".
+- There are [no](https://stackoverflow.com/a/3993244/1558430) magic methods for `is`, `and` and `or`. No particular reason. [Raymond also said it would be catastrophic](https://twitter.com/raymondh/status/1320835735398707200) but not as a reason why it's not possible.
