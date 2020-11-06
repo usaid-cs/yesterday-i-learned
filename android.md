@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- The Samsung Galaxy brand started from [some Samsung executives liking a particular brand of wine, called the Galaxy](https://www.youtube.com/watch?v=QMJ2YonPS8g) made in Napa Valley.
 - Google "invented" the [magnetic wireless charger](https://www.youtube.com/watch?v=01qnSptQAeE) in 2012.
 - Google [knows](https://www.theverge.com/2019/8/8/20797785/google-android-q-gestures-three-button-navigation-ergonomics) that gestures butchered recent apps.
 - Samsung aggressively preserves battery longevity by limiting max/min levels of charge, as well as temperature. See [post](https://old.reddit.com/r/Android/comments/i8rhub/lets_talk_battery_longevity/g1ayvlh/) and [possibly relevant Exynos source code](https://github.com/djb77/samsung-kernel/blob/G97XX-TW9/arch/arm64/boot/dts/exynos/battery_data_beyond2lte_common.dtsi#L151).

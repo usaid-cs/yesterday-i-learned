@@ -1,5 +1,14 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Zero-day](https://en.m.wikipedia.org/wiki/Zero-day_%28computing%29) originally referred to exploits found during the 0th day of the software's release. Now the scope is broader than that; it applies to bugs that the vendor knows about for 0 days, but could have been shipped a long time ago, as well as bugs that the vendor knew about for a long time (with the first day being day 0), but never fixed.
+- [Baffled tanks](https://www.youtube.com/watch?v=hFAywqwGjUc) are near impossible to clean, so they aren't used to carry milk.
+- [In an *internal* survey](https://www.buzzfeednews.com/article/ryanmac/inside-facebook-24-hours-before-election-day), half of Facebook's employees [reported](https://fossbytes.com/49-facebook-employees-disagree-that-it-has-positive-impact-on-world/) thinking they had a positive impact on the world. Doing the same survey externally might show a greater difference.
+- Olive oil is bright opaque green when freshly squeezed. The colour goes away days after bottling.
+- [Australian light switches](https://en.wikipedia.org/wiki/Light_switch#Australian_rocker_switches) have "on" in the down position.
+- The 2.4GHz spectrum is 100MHz wide. The 5GHz spectrum is 1GHz wide, allowing for much more non-overlapping channels.
+- Because music [note frequencies go up by the square root of 2 every octave](https://en.wikipedia.org/wiki/12_equal_temperament), and there are 12 notes every octave (including "black keys"), every note goes up by (the 12th root of 2)%, or around 6%.
+- John and Jonathan do not share a word root. The most we can say they share is the "J-", which was [YHWH](https://en.wikipedia.org/wiki/Tetragrammaton) (i.e. God) in Hebrew.
+- QWERTY layout is (somewhat coincidentally) good for smartphone typing because it spaces commonly-used keys far apart from each other.
 - Keyboard keys are staggered only because [typewriters had tiny bars going in between the keys](https://ux.stackexchange.com/questions/40390/why-are-keyboard-keys-staggered), and it wouldn't have worked if the keys were ortholinear. We don't have these bars on computer keyboards today, obviously.
 - Since 4K is exactly 4x as many pixels as 1080p, 1080p is also known as 1K, and 4K is also known as 4320p. *Maths*.
 - [40MHz should only be used on 5GHz networks](https://community.ui.com/questions/Benefit-of-40Mhz-vs-20Mhz/8a0206c3-e3e0-4cd5-9672-3d16d4995b8d), not 2.4GHz. Too many overlapping channels introducing interference.

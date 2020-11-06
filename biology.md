@@ -1,3 +1,5 @@
+- Alcohol is an anti-platelet agent.
+- Lots of crabs are [lobster-like creatures that evolved independently into a crab-like shape](https://www.youtube.com/watch?v=wvfR3XLXPvw). They are neither related to true crabs or each other. This is a prime case of convergent evolution.
 - Why would successful viruses get weaker? Did the seasonal flu get weaker?
 - Professional beekeepers [mark their queen bees in one of five colours](https://en.wikipedia.org/wiki/Queen_bee#Identification), with the colours signifying when the bee was hatched. White means the year ends in 1 or 6, yellow means the year ends in 2 or 7, etc.
 - *Sleeping* is potentially deadly to babies, and especially so when in a moving car seat or crib. [Sudden infant death syndrome](https://en.wikipedia.org/wiki/Sudden_infant_death_syndrome) is also more prevalent in males.

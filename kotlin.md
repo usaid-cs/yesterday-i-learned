@@ -40,3 +40,4 @@
 - `/* Block comments /* can */ be nested. */`
 - Strings can have `"substitutions like $this"` (where `val this = "this"`).
 - It is possible to suffix something to a class, including seemingly built-in ones like `Number`, and instantly create a new attribute. [klock](https://korlibs.soywiz.com/klock/#unix-timestamp) does it like so: `DateTime.now() + 10.seconds` (where `seconds` is an attribute on `Number` now.)
+- [Nested `this`](https://kotlinlang.org/docs/reference/this-expressions.html) can be a problem sometimes. JS tackles this by allowing you to assign `this` to some variable. Kotlin allows you to refer to `this` with `this@OuterClassName`. This works at any level.

@@ -34,6 +34,7 @@ Basically, if you were handed a project and needed to do it from start to finish
 
 ## Leadership & Teamwork
 
+- A leader serves. It is not about power or fame. If you don't serve, you are just a Donald Trump to your team.
 - If you didn't have the time to do anything yourself, could you effectively manage a team of developers to hit milestones and sprint targets? (effectively becoming a low-level PM) How would you do it?
 - How would you best allocate resources to overcome blockers?
 - Can you lead a code review?
@@ -236,3 +237,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - The [make change](https://www.youtube.com/watch?v=DJ4a7cmjZY0) question is a dynamic programming question. Apparently the number of unique ways to make change is (the number of unique ways to change the amount - 1) + (the number of unique ways to change the amount, if you had one fewer type of coin, assuming the subtraction of it yields 0 or more). Or something like that.
 - [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming) is an umbrella term that describes any kind of programming that is not imperative. SQL ("get me this without me telling you how") is declarative programming. Languages without a side effect (like regex) are declarative programming. *Functional programming is declarative programming*.
 - The term [fifth-generation programming language](https://en.wikipedia.org/wiki/Fifth-generation_programming_language) was misused by software vendors so much that the term now means nothing on top of what SQL does.
+- Async [backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7) refers to anything that slows down your async slow from progressing. Reasons can be: CPU, IO, waiting for the user to confirm a thing. You can reduce backpressure mostly by reducing the amount of data that goes into the flow, buffering (sometimes by re-queuing) or batching intermediate steps, or dropping whatever you can't handle as a last resort.

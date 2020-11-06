@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- Some... certain Asus laptops let you specify the charging limit with `echo 50 | sudo tee /sys/class/power_supply/BAT0/charge_control_end_threshold`. Use `100` to deactivate.
 - Despite Linus saying "never break userspace", [official guarantee for a syscall interface to be backwards-compatible is only two years](https://unix.stackexchange.com/questions/235335/why-is-there-a-linux-kernel-policy-to-never-break-user-space). The difference in language has allowed for the kernel to be swapped with another version... most of the time, but not *all* of the time, and usually both working, but rarely equally well.
 - On following Linus Torvalds' opinion: [he rants about everything](https://www.reddit.com/r/linusrants/top/). As much as he's usually right about what he rants... just because he rants about something, it doesn't automatically mean he's right. Stay critical.
 - ["Linux is always pronounced Linux"](https://www.youtube.com/watch?v=5IfHm6R5le0) - Linus Torvalds. Now you know! (or don't)

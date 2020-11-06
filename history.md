@@ -1,3 +1,5 @@
+- William Wrigley Jr. [originally sold soap](https://en.wikipedia.org/wiki/Wrigley_Company). Then when the free baking powder gift got popular, they started selling baking powder. They then started gifting chewing gum with the purchase of baking powder, which itself took off. They owned most of the Chicago Cubs as well.
+- King George III actually said [let's reserve much of America for the indingeous peoples](https://en.wikipedia.org/wiki/Royal_Proclamation_of_1763). The Americans said nah.
 - The fax machine was invented before the telephone.
 - [FDR imprisoned Japanese Americans with no due process](https://en.wikipedia.org/wiki/Internment_of_Japanese_Americans), one of which being [George Takei](https://www.youtube.com/watch?v=LeBKBFAPwNc). The order was [9066](https://en.wikipedia.org/wiki/Executive_Order_9066).
 - Like most dishes, [butter chicken was created by mistake](https://en.wikipedia.org/wiki/Butter_chicken). The dish does not contain any curry.

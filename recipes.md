@@ -305,6 +305,13 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - 落半斤芥蘭炒
 - 落鹽落一湯勺酒
 
+## Baked chicken
+
+- Slice chicken open where you would like spices to penetrate.
+- Marinate chicken with just about anything you want your chicken to taste like. This may include: sugar, salt, soy sauce (both kinds), oyster sauce, ginger, garlic, hua jiao.
+- Let marinate overnight.
+- Bake at 400 degrees (F) for 25 minutes.
+
 ## Stir "fried" fish
 
 - Cut basa fish into small pieces.
@@ -321,6 +328,16 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - Rub rack with appropriate spices and cumin.
 - If the rack is skin-on, fry skin side on high for a bit.
 - Place in baking tray, using ribs to separate meat from the bottom of tray to prevent meat from getting soggy. Bake at 400 degrees (F) for 15 minutes.
+
+## Cha siu
+
+- Prepare 1kg of pork shoulders.
+- Chop pork into medium sized pieces.
+- Place pork into a marinating container.
+- Place into container two slices of ginger cut into strips, and four cloves of garlic cut into strips, enough oyster sauce to cover the meat's surface, enough soy sauce (both old and new types) to cover the meat's surface, and some honey.
+- Marinate for one day.
+- Take out and boil until cooked.
+- Brush cha siu sauce and broil from bottom shelf (preferably) or bake from upper shelf from until crispy.
 
 # Ingredients
 
