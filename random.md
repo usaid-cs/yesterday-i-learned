@@ -1,5 +1,20 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- According to someone from GitHub, "swag" stands for "stuff we all get".
+- For gaming mice, lighter is better.
+- Taking photos of your home, or *around* your home, implies that you live there, which gives away your address.
+- Koreans make hard beer by [mixing beer and soju](https://en.wikipedia.org/wiki/Somaek). So (燒) + Maek (麥). Any ratio. Basically it's just to bump up the inebriety.
+- Bolsters are cylindrical body pillows. [Bamboo wives](https://en.wikipedia.org/wiki/Bolster) are hollow bolsters made with bamboo. The hot air travels everywhere and out of the person hugging it.
+- A "two by four" is a wooden plank that is two inches by four inches in cross section. It has no specification on length.
+- L10n is localisation. I18n is internationalisation. I10n is illumination or immunisation, depending on the context.
+- The Iraqi currency is called the [Iraqi Swiss dinar](https://en.wikipedia.org/wiki/Iraqi_Swiss_dinar). It has nothing to do with Switzerland.
+- An unwed woman beyond the usual age for marrage can occasionally be called a "spinster".
+- [Impact sprinklers](https://en.wikipedia.org/wiki/Impact_sprinkler) do their work by [letting water hit a thing that moves the nozzle left and right](https://www.youtube.com/watch?v=jKi7xGE4BEw&app=desktop). At the end of travel in one direction, a switch in the back of the sprinkler gets flipped, causing the water to move the sprinkler in the other direction.
+- Only 1% of the world's [indium](https://en.wikipedia.org/wiki/Indium#Production_and_availability), used mostly in LCD panels, is recycled.
+- When they say "black tie", they mean [black *bow* ties](https://en.wikipedia.org/wiki/Black_tie). Cufflinks and pocket squares are also a requirement sometimes.
+- A [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact) is a pact you make with yourself. If you manage to do A, you reward youself with B. If you fail to do A, you punish yourself with C.
+- The ideal hot drink temperature is [57.8 degrees](https://pubmed.ncbi.nlm.nih.gov/18226454/)... if you take that research seriously.
+- From the router's perspective, RX means uploading because it is technically receiving data from you, the client, and TX means downloading because it is technically transferring data to you.
 - [Zero-day](https://en.m.wikipedia.org/wiki/Zero-day_%28computing%29) originally referred to exploits found during the 0th day of the software's release. Now the scope is broader than that; it applies to bugs that the vendor knows about for 0 days, but could have been shipped a long time ago, as well as bugs that the vendor knew about for a long time (with the first day being day 0), but never fixed.
 - [Baffled tanks](https://www.youtube.com/watch?v=hFAywqwGjUc) are near impossible to clean, so they aren't used to carry milk.
 - [In an *internal* survey](https://www.buzzfeednews.com/article/ryanmac/inside-facebook-24-hours-before-election-day), half of Facebook's employees [reported](https://fossbytes.com/49-facebook-employees-disagree-that-it-has-positive-impact-on-world/) thinking they had a positive impact on the world. Doing the same survey externally might show a greater difference.
@@ -725,6 +740,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - The green channel on an OLED screen uses [the least amount of energy at full brightness](https://www.slashgear.com/googles-big-android-battery-oops-and-future-dark-modes-08553037/).
 - Some UX research out there says [african-american on caucasian-american is easier to read than caucasian-american on african-american](https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes#53268).
 - "USB 3.0", "USB 3.1 Gen 1", and ["USB 3.2 Gen 1"](https://appleinsider.com/articles/19/02/26/usb-if-seeds-confusion-with-usb-30-usb-31-merger-into-usb-32-branding) are actually [the same thing](https://www.tomshardware.com/news/usb-31-usb-type-c-refresher,29933.html). In the same article: any USB cable that claims to support USB 3 will support any version of USB 3.
+- Did you think USB would learn from this mistake? Yes? [Think again](https://en.wikipedia.org/wiki/USB4)! They did create a USB 4 (instead of "USB 3.3 Gen 4x3x2")... but it comes in four flavours: USB4 Gen 2x1, USB4 Gen 3x1, USB4 Gen 2x2, and USB4 Gen 3x2. Let's hope no one needs to know what they mean.
 - There is an inverse correlation between [how much you spend on your wedding, and how likely you are to end up in divorce](https://www.cnn.com/2014/10/13/living/wedding-expenses-study/index.html).
 - [American IPAs are more bitter than English IPAs](https://craftbeering.com/english-ipa-vs-american-ipa/).
 - When travelling with a friend or partner, there is no obligation to do everything together.

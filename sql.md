@@ -109,6 +109,7 @@
 - [Filter through JSON arrays](https://stackoverflow.com/questions/22736742/query-for-array-elements-inside-json-type) with either `json_array_elements` or `jsonb_array_elements`. You *need* to alias the array field as a table, i.e. `SELECT * FROM table, jsonb_array_elements(json_column->'items_array') column_alias WHERE column_alias...`
 - To get how much space your tables use, run [this frankenstein query](https://wiki.postgresql.org/wiki/Disk_Usage), or `SELECT relname AS table_name, c.reltuples AS row_estimate, pg_total_relation_size(c.oid) AS total_bytes FROM pg_class c WHERE relkind = 'r' ORDER BY total_bytes DESC;`.
 - **Select text only after converting it to `TEXT`**. `SELECT 'Foo'` is actually of unknown type. `SELECT 'Foo'::TEXT` returns a column with type `text` (test with `pg_typeof('Foo'::TEXT)`).
+- If you try to shrink/decrease a `varchar` column's length (for example from `varchar(100)` to `varchar(1)`), all the data needs to fit in the new column. Postgres will NOT truncate the column for you: `ERROR:  value too long for type character varying(1)`. You can do a `USING` to limit the length of data as you alter: `ALTER TABLE foo ALTER COLUMN bar TYPE varchar(1) USING bar::varchar(1);`.
 
 ## Performance
 
@@ -133,11 +134,13 @@
 - SSDs and HDDs have different `random_page_cost` (default 4) and `seq_page_cost` values (default 1). For SSDs, `random_page_cost` may well be set to 1, which often affects how the query planner decides how to make a query.
 - An ordered index (one where you specify `field_name DESC`) [hardly matters](https://dba.stackexchange.com/a/39599) except if you perform range queries over multiple columns.
 - Non-material views are [as fast as the query you put inside it](https://dba.stackexchange.com/a/151220).
-- Check timing with `\timing`
+- Check timing with `\timing` or `\timing on`. Though if you type `\timing on;` (with the semicolon), it thinks `on;` is not a boolean and keeps it off.
 - Echo with `\echo` (lol)
 - Avoid ["cross joins"](https://www.w3resource.com/PostgreSQL/postgresql-cross-join.php) or cartesian product joins, aka `SELECT ... FROM more,than,one,table`, which produces a massive queryset of size `more x than x one x table`. Nevertheless, in some cases, a cross join might reference an index that an inner join does not, ending up being faster.
 - Table locks obtained with `LOCK` are [released only when the transaction ends](https://www.postgresql.org/docs/9.0/sql-lock.html).
 - Limit postgres connection count to 200-400 no matter the database size.
+- The source table (the table having the foreign key to another table) [does not require an index on the foreign key](https://www.cybertec-postgresql.com/en/index-your-foreign-key/). If you query by that field a lot, you should make an index there.
+- A subquery without saying `LIMIT 1` instantly ruins the performance of the outer query.
 
 ## Troubleshooting
 

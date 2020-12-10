@@ -1,3 +1,9 @@
+- "This nigga eating beans" is a [tweet](https://i.imgur.com/nLSLnYf.png) from a person who ate beans in a movie theatre while watching Cars 2. Unfortunately many people copied the exact same tweet so now there's no way to tell who really be eating beans.
+- Bob Boblaw is a character from Arrested Development. His law bomb was: "Why should YOU go to jail for a crime someone else noticed?"
+- "CGP" Grey is [rumoured](https://imgur.com/gallery/8LeHz) to be Colin Gregory Palmer Grey, born some time in 1981. He doesn't show is face because I don't know.
+- JFK married [a lady](https://old.reddit.com/r/unpopularopinion/comments/6zmuuw/jackie_kennedy_was_ugly/) whose eyes are an entire continent apart. Rumour has it that she was quite the classy person.
+- Borat in the movie spoke Hebrew. His daughter spoke Bulgarian. His partner spoke Armenian.
+- Christopher Lee is the [center of the Hollywood universe](http://oracleofbacon.org/center_list.php).
 - Supergirl is superman's biological cousin.
 - @taylorswift is banned. [@taylorswift13](https://twitter.com/taylorswift13) is the real deal.
 - ["An Hero"](https://knowyourmeme.com/memes/an-hero) came from a suicidal poem. The typo was repeated four times.

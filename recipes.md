@@ -333,9 +333,11 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 
 - Prepare 1kg of pork shoulders.
 - Chop pork into medium sized pieces.
+- Poke holes on the pork's surface. Use a fork or something.
 - Place pork into a marinating container.
-- Place into container two slices of ginger cut into strips, and four cloves of garlic cut into strips, enough oyster sauce to cover the meat's surface, enough soy sauce (both old and new types) to cover the meat's surface, and some honey.
-- Marinate for one day.
+- Place into container two slices of ginger cut into strips, and four cloves of garlic cut into strips (smashing the garlic first makes it easier to peel), enough oyster sauce to cover the meat's surface, enough soy sauce (both old and new types) to cover the meat's surface, and some honey.
+- Give your meat a good massage.
+- Marinate for three days.
 - Take out and boil until cooked.
 - Brush cha siu sauce and broil from bottom shelf (preferably) or bake from upper shelf from until crispy.
 

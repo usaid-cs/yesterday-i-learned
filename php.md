@@ -19,7 +19,7 @@
 - `isset($foo[5])` is faster than `strlen($foo) > 5`
 - int list keys are always faster than str list keys
 - Avoiding classes speeds things up
-- `array_push` is slower than `array[] =`
+- `array_push` is [slower](https://stackoverflow.com/questions/559844/which-is-faster-in-php-array-value-or-array-pusharray-value) than `$array[] =` if you plan on [pushing only one element](https://www.php.net/manual/en/function.array-push.php). It is faster because `$array[]` is not a function call.
 - `strpos` is faster than `strstr`
 - `str{5}` is 2x faster than `substr(str,5,1)`
 - Even `@` is faster than `error_reporting(0)`

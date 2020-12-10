@@ -1,3 +1,16 @@
+- An [episiotomy](https://en.wikipedia.org/wiki/Episiotomy), a cut made between the vaginal opening and the anus, makes the opening bigger, allowing the baby to come through. Despite no longer being recommended, 12% of US births are done with such an incision. "One study found that women who underwent episiotomy reported more painful intercourse and insufficient lubrication 12–18 months after birth but did not find any problems with orgasm or arousal."
+- [Alcoholics can't pay attention](https://www.reddit.com/r/science/comments/k7teoh/drinking_alcohol_blocks_the_release_of/).
+- The protrusion on a swan's head is (supposedly) called a [blackberry](https://goodmorninggloucester.com/2017/11/07/is-the-young-swan-at-niles-pond-a-boy-or-a-girl/).
+- Anything that provides nutrients is [food](https://en.wikipedia.org/wiki/Food). Unfortunately, carbohydrates are one type of [nutrient](https://en.wikipedia.org/wiki/Nutrient). So as much as your parents want to say "cheetos are not food", or "mountain dew is not food", it is. It's just [terrible food](https://en.wikipedia.org/wiki/Fast_food).
+- Drinking a lot of alcohol can cause you to [wake up with a great deal of anxiety](https://old.reddit.com/r/explainlikeimfive/comments/jzgznb/eli5_why_does_the_body_always_wake_up_so_early/) according to Reddit's six year old brothers.
+- "Lots of phlegm" is called [catarrh](https://en.wikipedia.org/wiki/Catarrh).
+- There are multiple strains of HIV. Even if two HIV positive patients decide to have sex together, they should still use protection.
+- DNA comes in [triple](https://en.wikipedia.org/wiki/Triple-stranded_DNA) and [quadruple helix forms](https://en.wikipedia.org/wiki/G-quadruplex), as well as the reversed double helix.
+- The obvious difference between seals and sealions. Seals don't ever stand up.
+- Underweight babies have trouble breathing because the lungs are among the last to develop.
+- [Methanol poisoning](https://en.wikipedia.org/wiki/Methanol_toxicity) happens when methanol's metabolite methanoic ("formic") acid [inhibits the mitochondria](https://en.wikipedia.org/wiki/Cytochrome_c_oxidase) from producing energy, which leads to peculiar symptoms like blindness (because the optic nerve uses a lot of energy) and death (because all cells need energy).
+- [Thalidomide](https://en.wikipedia.org/wiki/Thalidomide) is safe to use... for anyone who isn't pregnant.
+- [Siamese cats](https://en.wikipedia.org/wiki/Siamese_cat) get their unique colour pattern from malfunctioning tyrosinase, which made the enzyme extremely temperature-sensitive. It works only below body temperature, which means only the cool places of the cat body (like ears and tail) get melamin, the colour.
 - Alcohol is an anti-platelet agent.
 - Lots of crabs are [lobster-like creatures that evolved independently into a crab-like shape](https://www.youtube.com/watch?v=wvfR3XLXPvw). They are neither related to true crabs or each other. This is a prime case of convergent evolution.
 - Why would successful viruses get weaker? Did the seasonal flu get weaker?

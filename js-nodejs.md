@@ -1,5 +1,6 @@
 ## Node and NPM
 
+- NodeJS looks to be [*faster* than python in most operations, at a massive cost of memory](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html).
 - When JSHint says `nonstandard` checks against non-standard globals ["such as `escape` and `unescape`"](https://jshint.com/docs/options/), they mean [only `escape` and `unescape`](https://2ality.com/2011/09/jshint.html).
 - The nature of the ionic v4 CLI is such that the framework supports Angular, React, Vue, and plain JS at the same time.
 - 'use strict' is unnecessary inside of modules. (ESLint)

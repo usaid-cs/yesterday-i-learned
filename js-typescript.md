@@ -225,3 +225,7 @@ And a generic class is instantiated as such:
 ```
 var newInstance = new Foo<string>();  // you can now call someMethodThatUsesT with only strings.
 ```
+
+## Performance
+
+Microsoft tells you [how to write typescript with performance](https://github.com/microsoft/TypeScript/wiki/Performance).

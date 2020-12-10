@@ -1,5 +1,7 @@
 ![Bad maths](https://i.imgur.com/fZAsEYW.png)
 
+- Leaving a 60W lightbulb on for a month costs you 13 dollars (if your electricity goes for $0.30/kWh).
+- At a million people infected every day (at least according to half a milltion symptomatic cases on a given day in November 2020), it will still take the virus 20 years to infect everyone on the planet. The flu infects 650 million per year, or about 1.8 million per day.
 - ["Algebra" studies how you solve something](http://www.differencebetween.net/science/difference-between-algebra-and-calculus/), while "calculus" studies *change*... namely, functions, limits, derivatives, integrals, and series.
 - The **matrix dot product** works by going through [rows and columns, in that order](https://www.mathsisfun.com/algebra/matrix-multiplying.html). To get the value of the new matrix's cell at (1, 1), you get the dot product of the first matrix's row 1 with the second matrix's column 1. To get the value of the new matrix's cell at (2, 1), you get the dot product of the first matrix's row 2 with the second matrix's column 1. As such, the size of the resulting matrix always the same number of rows as matrix 1, and the same number of columns as matrix 2.
 - Since **vectors** are one-dimensional matrices (either one row or one column), the [dot product of two vectors happens](https://en.wikipedia.org/wiki/Dot_product) to be the multiplication of two one-dimensional matrices, i.e. a1b1 + a2b2 + a3b3 + ...
@@ -17,7 +19,7 @@
 - A [bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph) or "bigraph" is a graph whose nodes ("vertices") can be split into two groups _U_ and _V_, such that every line ("edge") connects from U to V.
 - 2^31 - 1 is one of only four known [double Mersenne primes](https://en.wikipedia.org/wiki/Double_Mersenne_number) (given a prime `P`, `2P - 1` is a prime, and `2^(2P - 1) - 1` is also prime).
 - [Not having any boarding groups at all](https://www.youtube.com/watch?v=oAHbLRjF0vo) makes boarding faster than if the airlines do nothing at all, which they now do.
-- If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by _a + bi + cj + dk_ rather than _a + bi_ (complex). In this system, _j × k_ somehow comes you _-i_.
+- If complex numbers are not complex enough, there are [hypercomplex numbers](https://en.wikipedia.org/wiki/Hypercomplex_number). [Quaternions](https://en.wikipedia.org/wiki/Quaternion), one such system, goes by _a + bi + cj + dk_ rather than _a + bi_ (complex). In this system, _j × k_ somehow gives you _-i_.
 - [Littlewood's law](https://en.wikipedia.org/wiki/Littlewood%27s_law) states that a person can expect to experience events with odds of one in a million (defined by the law as a "miracle") at the rate of about one per month.
 - Regular expressions are called regular expressions because they are the expressions used to describe [regular languages](https://en.wikipedia.org/wiki/Regular_language).
 - In the world if statistics, the probability of something happening, and the probability of that something _not_ happening, always combine to 1 (100%).

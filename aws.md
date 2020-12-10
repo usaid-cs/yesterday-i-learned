@@ -1,5 +1,6 @@
 > "If I don't know it, I'll learn it and then I'll kick your ass." - [Abhishek Thakur](https://twitter.com/abhi1thakur/status/1276439769791303680), on martial arts, probably
 
+- If you work for AWS and you update your service status to be down, [it's your fault! You get fired!](https://news.ycombinator.com/item?id=25213817)
 - The default settings for MySQL instances on RDS is stupid. Create a parameter group with (significantly) longer timeouts.
 - Django-South does not work on RDS.
 - Copying a file across S3 buckets is just copying its key -- S3 is one uniform storage resource. Having a key that points to a file in both buckets means that, effectively, the file exists in both buckets.

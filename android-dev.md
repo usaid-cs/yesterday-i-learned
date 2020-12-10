@@ -31,7 +31,8 @@
 - ["The difference between Handler and AsyncTask is: Use AsyncTask when Caller thread is a UI Thread."](http://stackoverflow.com/a/9800870)
 - It is near impossible to [conjure a popup from a non-activity class](http://stackoverflow.com/a/31221646).
 - `(an AsyncTask).get()` [immediately gets the value from its execute()](http://stackoverflow.com/a/10972142). Then again, that is a synchronous move.
-- Activity [apparently](http://stackoverflow.com/a/9192916/1558430) extends Context.
+- `Activity` [apparently](http://stackoverflow.com/a/9192916/1558430) extends `Context`.
+- `Application` also extends `Context`.
 - Find your dependency versions on [this website](http://search.maven.org/#search%7Cga%7C1%7Cio.reactivex.rxjava). It only searches on mavenCentral, I think.
 - [Two-way binding is **not** natively supported](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.pfcgcnfo5) by the designer thing, but there are lots of [one-way binding libraries](https://developer.android.com/topic/libraries/data-binding/index.html) available.
 - To use that `com.android.databinding` plugin, the layout file must have `<Layout>` as the root, not anything else, like `<LinearLayout>`.

@@ -3,6 +3,7 @@
 A senior anything developer needs to know more than just a specific language.
 I would go so far as to argue there's no such thing as a senior php developer or a senior javascript developer. There's only a _senior_ developer.
 Basically, if you were handed a project and needed to do it from start to finish on your own, could you?
+- Learn to push back. You aren't hired to be a code monkey. You are hired to make high quality contributions.
 
 ## [Grades](https://www.levels.fyi/2019/)
 
@@ -35,10 +36,13 @@ Basically, if you were handed a project and needed to do it from start to finish
 ## Leadership & Teamwork
 
 - A leader serves. It is not about power or fame. If you don't serve, you are just a Donald Trump to your team.
+
+### Q
 - If you didn't have the time to do anything yourself, could you effectively manage a team of developers to hit milestones and sprint targets? (effectively becoming a low-level PM) How would you do it?
 - How would you best allocate resources to overcome blockers?
 - Can you lead a code review?
 - Would you know how to assign tasks to the right people such that they become better developers as a result of working on this project - that is, pushing them ever so slightly out of their comfort zone, but not so far that it jeopardizes the product or timelines?
+
 
 # Algorithms
 
@@ -238,3 +242,5 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming) is an umbrella term that describes any kind of programming that is not imperative. SQL ("get me this without me telling you how") is declarative programming. Languages without a side effect (like regex) are declarative programming. *Functional programming is declarative programming*.
 - The term [fifth-generation programming language](https://en.wikipedia.org/wiki/Fifth-generation_programming_language) was misused by software vendors so much that the term now means nothing on top of what SQL does.
 - Async [backpressure](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7) refers to anything that slows down your async slow from progressing. Reasons can be: CPU, IO, waiting for the user to confirm a thing. You can reduce backpressure mostly by reducing the amount of data that goes into the flow, buffering (sometimes by re-queuing) or batching intermediate steps, or dropping whatever you can't handle as a last resort.
+- [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel) means "embarrassing in riches", i.e. an overbundance of places where your code can run in parallel.
+- Microservices don't help scale the service... they only help scale development. ["If you don't have the organization structured for "independent services", then microservices will likely fail."](https://old.reddit.com/r/programming/comments/jznvbz/the_macro_problem_with_microservices/gddh7lh/)

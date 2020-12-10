@@ -628,3 +628,5 @@ bar
 - Whether or not you [`raise an_exception from another_exception`](https://stackoverflow.com/questions/24752395/python-raise-from-usage), python is still going to show `another_exception`, just not as a "direct cause".
 - There are [no](https://stackoverflow.com/a/3993244/1558430) magic methods for `is`, `and` and `or`. No particular reason. [Raymond also said it would be catastrophic](https://twitter.com/raymondh/status/1320835735398707200) but not as a reason why it's not possible.
 - `1e25` is a float and comes to `10000000000000000905969664`. You literally can't trust it. Use `1 * 10**25` instead. If you are hard pressed to use `e`, the highest exponent it can go without fucking up (for 1.0) is 22.
+- Guido's stance on Black is: ["Black is overrated unless your team argues over style a lot."](https://twitter.com/gvanrossum/status/1227126706089021440) (2020)
+- [Printing out a KeyError does not print newlines](https://stackoverflow.com/a/46899120/1558430). It works for other exceptions.

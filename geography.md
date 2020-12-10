@@ -1,3 +1,4 @@
+- The [South Pole](https://en.wikipedia.org/wiki/South_Pole) is the dryest place on Earth, at ~0% relative humidity. For practicality, the South Pole follows New Zealand's time.
 - There is no particular why [north is up](https://geog.ucsb.edu/why-is-north-up-on-maps/).
 - Mariana Trench is east of the Philippines.
 - City planning includes [flooding only the parts of a city that can afford to be flooded](https://www.reddit.com/r/waterloo/comments/i371mc/waterloo_is_sinking_man_and_i_dont_wanna_swim/), i.e. putting important buildings higher up, and parks lower down.

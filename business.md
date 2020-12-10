@@ -17,6 +17,9 @@
 - In an economy where people run the risk of defaulting (which is not a "credit crunch", that's a different thing entirely), [companies that issue credit cards](https://www.mastercard.ca/en-ca/search-by-bank.html), like Scotiabank and Canadian Tire, do not do well.
 - [The stock market is not a gauge for how well the economy is doing](https://theweek.com/articles/886198/booming-stock-market-shows-america-diseased); it is just an indicator for how well *companies* are doing, and, therefore, how quickly money is being funnelled---from [the government, ironically socialised](https://www.reddit.com/r/TrueReddit/comments/ej4qov/the_booming_stock_market_shows_america_is_diseased/fcvhph0/)---to the rich.
 - Furloughs are forced unpaid leaves, sometimes regular (like during periods of time when no business is expected). The position remains guaranteed for the employee to return to.
+- A Convertible note is a loan (debt), not some grant. At the end of a [convertible note's maturity date](https://www.indinero.com/blog/safe-convertible-notes-comparison), the founder must either pay back the loan plus interest, or convert the note into equity.
+- [SAFE](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity) (simple agreement for future equity)
+- There's a guide to [how much stock you give your employees at what size of the company](https://www.holloway.com/g/equity-compensation/sections/typical-employee-equity-levels).
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

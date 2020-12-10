@@ -1,3 +1,4 @@
+- Fair politics: the voters select the representatives. [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering): by grouping voters in... creative ways, representatives select the voters.
 - [Instant runoff is the same as ranked choice voting: each person ranks all candidates](https://www.youtube.com/watch?v=yhO6jfHPFQU). Since first-past-the-post heavily favours a two-party system, we want voters to express their intentinos honestly instead of strategically.
 - Ranked choice voting might eliminate moderate (centrist) parties first. See [centre-squeeze](https://electowiki.org/wiki/Center_squeeze). This might be why the liberals never approve ranked choice voting.
 - Approval voting (the most approved candidate wins) generates the most representative candidate, but voters can strategically disapprove a nearby candidate in order to get their first choice. See [chicken dilemma](https://en.wikipedia.org/wiki/Chicken_(game)).

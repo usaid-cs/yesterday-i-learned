@@ -2,6 +2,12 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- In contemporary usage, "They" is used to describe something with [unspecified gender](https://en.wikipedia.org/wiki/Epicenity), while ["It"](https://en.wikipedia.org/wiki/It_%28pronoun%29) seems to be reserved for objects that have no gender, other than children and pets, for some reason.
+- Apparently "sceptic" is the UK spelling of the word "skeptic". The C version came from Latin *scepticus*, which came from the Greek K version, *skeptikós*.
+- The Irish name [Seán](https://en.wikipedia.org/wiki/Sean) becomes Shawn or Shaun. Séan becomes Shane or Shayne.
+- [Dietitians prefer to be spelled dietitians](https://en.wikipedia.org/wiki/Dietitian#The_spellings_%22dietitian%22_and_%22dietician%22), but the word was originally dietician so they basically prefer to be wrong (if new is wrong).
+- The [etymological fallacy](https://en.wikipedia.org/wiki/Etymological_fallacy): the incorrect assumption that a word always means roughly the same thing as its word root. "Grandfathering" is not a sexist term, even though it was "grandfather" in it.
+- A bugbear is an annoyance. Somehow you saw that word twice in one week.
 - "**Whom** should I give this job to" is [always wrong](https://english.stackexchange.com/questions/226282/is-whom-should-i-give-this-job-to-grammatically-correct), because you would have gone with "**To whom** should I give this job" if you are trying be use who/whom correctly, or "Who should I give this job to" if you plan to speak informally.
 - ["The first element in an array"](https://softwareengineering.stackexchange.com/a/361761/116811) can refer to either `array[0]` (as in the item that is the first in the array)
 - In UK English, "Composite" is *always* pronounced with the stress on the C. In US English, "comPosite" is *always* pronounced with the stress on the P.
