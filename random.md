@@ -1,5 +1,8 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Some KN95 masks have neck and head straps, but most have just ear loops](https://jayparkmd.medium.com/how-to-spot-a-fake-kn95-mask-from-china-d5219e7f0ab2). The ones with neck and straps form a tight enough seal to be medical grade. That is the major difference between N95 and KN95 other than shape and certification.
+- A Christmas tree can be *any* tree, as long as it is decorated. It doesn't even need to be a real tree.
+- Low-effort directors like Michael Bay often [tilt the camera in odd angles](https://en.wikipedia.org/wiki/Dutch_angle) to make you feel nauseated.
 - According to someone from GitHub, "swag" stands for "stuff we all get".
 - For gaming mice, lighter is better.
 - Taking photos of your home, or *around* your home, implies that you live there, which gives away your address.
@@ -443,7 +446,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - The first x86-based 64-bit architecture was made by [AMD in 2003](https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_timeline).
 - Li Ka Shing, amid Hong Kong 2019 protests, posted a poem, [黄台之瓜 何堪再摘](https://www.scmp.com/news/hong-kong/politics/article/3023037/melon-huangtai-hong-kong-business-leader-li-ka-shing), or "the melon of Huangtai cannot bear the picking again". Other [da vinci-esque interpretations](https://twitter.com/gracehw/status/1162222858757529603) indicate he wanted China to let Hong Kong rule itself. "The [background of the poem] is the [queen] killed her sons one after another. Who [else] on earth once claimed herself [to be] a loving mother?"
 - Unsanitised window navigation calls (like `?next=foo`) can be exploited to make the user run arbitrary JavaScript. If the code says `window.location.href = foo`, and `foo` is `javascript: alert()`, you just dun goof'd. That `foo` can be something much worse.
-- According to "lost all hope", whose author tried to end himself and lived to tell everyone to think twice, [tighter emission controls today means it is no longer practical to kill yourself with a running car in the garage today](http://lostallhope.com/suicide-methods/carbon-monoxide-co-poisoning). By [lethality](http://lostallhope.com/suicide-methods/statistics-most-lethal-methods), shotgun to the head kills 99% of the time, while jumping from a tall place is the only "no tools required" method that still has a 90%+ kill rate (if you count a train as a tool).
+- According to "lost all hope", whose author tried to end himself and lived to tell everyone to think twice, [tighter emission controls today means it is no longer practical to kill yourself with a running car in the garage today](http://lostallhope.com/suicide-methods/carbon-monoxide-co-poisoning). By [lethality](http://lostallhope.com/suicide-methods/statistics-most-lethal-methods), shotgun to the head kills 99% of the time, overdosing on illegal drugs kills only half of the time but is the most painless, while jumping from a tall place is the only "no tools required" method that still has a 90%+ kill rate (if you count a train as a tool).
 - [Lena Söderberg](https://en.wikipedia.org/wiki/Lenna), subject of a standard test image, wants her name pronounced as if it had two Ns.
 - [We are already screwed for climate change](https://www.youtube.com/watch?v=PHdcpxmJ6vg). The ship has sailed.
 - Every notable mobile operating system copied [WebOS's card view](https://www.youtube.com/watch?v=ICoNag4i7WA).

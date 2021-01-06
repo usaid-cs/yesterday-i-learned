@@ -1,5 +1,9 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Hot vinegar *easily* cleans starchy pot stains.
+- UV makes biodegradable plastics degrade. So if it ends up in the landfill, it's not going to make a difference.
+- Tires used to be all white (adding zinc oxide made them look whiter.) Then in 1910 people started making black tires to avoid damage caused by UV light.
+- A chemical called [Aristoflex AVC](https://lotioncrafter.com/products/aristoflex-avc) helps you make your homemade lotion slightly easier to apply by gelling it.
 - [Rayon](https://en.wikipedia.org/wiki/Rayon) is a fibre made from cellulose, which is natural, but with synthetic chemical treatment, which makes it synthetic. Rayon can be made to feel like cotton, silk, wool, anything, so don't buy something because it is made of rayon.
 - Ice is not harder than steel. It is normally [1.5](https://physics.stackexchange.com/questions/241907/is-ice-harder-than-steel) on [Mohs scale of hardness.
 - Graphene is just a single layer of graphite.

@@ -142,6 +142,7 @@ undefined
 - Adding [`)]}\n`](https://groups.google.com/forum/#!topic/repo-discuss/uzr84ZGI62g) in front of every JSON request is a way to protect against XSSI, or cross-site script inclusion. This makes the payload impossible to execute if included as a script tag, but trivial to remove the prefix if the data was retrieved using XHR.
 - Use `nvm ls-remote` to find out what versions it has available to install.
 - If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
+- Leaflet allows you to build any map, not just what's on earth. You can make [a map for Zelda](https://mrcheeze.github.io/botw-object-map/) if you wanted to.
 
 ## About JavaScript
 

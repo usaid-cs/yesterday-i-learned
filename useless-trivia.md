@@ -1,3 +1,4 @@
+- [Cancel culture](https://nypost.com/article/what-is-cancel-culture-breaking-down-the-toxic-online-trend/) is cancelling a TV host or peronsality if they said or did something that offended you. So then the rest of them start to only say things you want to hear. It's a bad culture to have.
 - "This nigga eating beans" is a [tweet](https://i.imgur.com/nLSLnYf.png) from a person who ate beans in a movie theatre while watching Cars 2. Unfortunately many people copied the exact same tweet so now there's no way to tell who really be eating beans.
 - Bob Boblaw is a character from Arrested Development. His law bomb was: "Why should YOU go to jail for a crime someone else noticed?"
 - "CGP" Grey is [rumoured](https://imgur.com/gallery/8LeHz) to be Colin Gregory Palmer Grey, born some time in 1981. He doesn't show is face because I don't know.

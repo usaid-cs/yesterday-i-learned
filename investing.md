@@ -35,6 +35,8 @@ If your savings account has an interest rate above 0%, you start getting money f
 
 At an annual interest rate of 2%, it takes 350 years to turn a dollar into a thousand dollars (or a hundred dollars in two hundred and thirty four years).
 
+Remember, fiat currency is rigged against you. The government sets a positive target inflation rate of 2% to make sure you know keeping money is not a good idea; they want you to put your money out and circulate in the economy instead.
+
 [Negative interest rates](https://www.moneysense.ca/save/investing/what-are-negative-interest-rates-explainer/) come from the central bank. Other banks keep their money with the central bank to get interest from it. By imposing a negative interest rate, the central bank penalises other banks for storing money instead of lending it out, which means other banks would be inclined to lend and boost the economy. (In 2019) [Denmark's Jyske Bank offers borrowers 0.5% bonus to take out a mortgage](https://www.cnbc.com/2019/08/12/danish-bank-is-offering-10-year-mortgages-with-negative-interest-rates.html). This happens when they worry about where the markets are headed... for example, if they think lending people money would jumpstart their economy, or if they think those borrowers won't be able to pay off a loan later.
 
 In a scenario where overnight interest rates are [negative](https://www.moneysense.ca/save/investing/what-are-negative-interest-rates-explainer/), it is possible for saving money in the bank to _cost_ money. As a result, people are inclined to invest money elsewhere, which means the money is being used in the economy.
@@ -69,6 +71,8 @@ If you don't need oil, you can also sell your contract, which was locked in at a
 At the cost of high volatility, equity provides the highest return, provided that you pick the right stocks and get the timing right.
 
 To give you an idea how risky stocks are, an overwhelming number of people suggest buying mutual funds instead of [trying to be clever](https://www.reddit.com/r/wallstreetbets).
+
+["Describing the U.S. stock market as zero-sum before costs, then negative-sum after costs, is a fine approximation of the truth."](https://www.morningstar.com/articles/841310/is-the-stock-market-a-zero-sum-game)
 
 - "Don't pick stocks" - [wealthsimple](https://www.wealthsimple.com/5rules) (low MER index funds are good enough for most people)
 - "DON'T PICK STOCKS" - Motley Fool podcast. 40% of companies on the stock exchange end up going out of business.

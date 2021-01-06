@@ -1,3 +1,4 @@
+- [Glass does not filter all UV](https://www.thoughtco.com/does-glass-block-uv-light-608316). Of the UVs that your glass needs to worry about, UVB is completely absorbed, but UVA passes through (UVA is also harmful).
 - Flash memory relies on quantum tunnelling to have electrons leak into places that they don't normally go. Watch a video on [evanescent coupling or Zener breakdown](https://www.youtube.com/watch?v=XnNC6uHkKMY). This is also why flash storage will start to lose memory after something like 10 years... because electrons can leak out even though there is no logical way for them to do so.
 - [The ISS' orbit is never directly over the arctic or the antarctica.](https://www.quora.com/Is-the-ISS-geostationary-What-is-the-location-of-the-ISS-with-respect-to-Earth-Does-it-constantly-revolve-around-the-Earth)
 - [Guilt-tripping people doesn't work](https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip). Looking at you, PETA.

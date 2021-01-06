@@ -1,3 +1,4 @@
+- Apple practices the Pareto (80-20) Principle. 20% of their customers contribute to 80% of the industry's profits. So they make the good stuff for rich people (but fuck up every so often but that's ok). Apple Maps frequently updates in rich countries. Google gets sued for [anti-competition](https://www.investopedia.com/terms/a/antitrust.asp) for being the 80%. Basically, if you want to be rich, go after the rich people.
 - iPods had official socks. Like cases but they ["keep your iPod warm on cold days"](https://youtu.be/WGinG6rHSrw?t=254).
 - Since Apple users are used to having their decisions made for them, and, therefore, not making decisions, they are possibly easier to be around with than Android users, who tend to want things *their* way.
 - Mac OS X kept getting minor updates only because Steve Jobs once said "Mac OSX has set Apple up for the next 20 years"... so they did that by releasing 10.1, 10.2, ... up to 10.15.

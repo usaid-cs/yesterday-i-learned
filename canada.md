@@ -1,5 +1,9 @@
 🇨🇦
 
+- "Breithaupt" (wide capital/peak/head) might have been the German word for ["big head"](https://silicon-valley.fandom.com/wiki/Big_Head).
+- There's a one-million dollar coin. Well, there [was](https://www.cbc.ca/news/world/berlin-gold-coin-heist-raids-1.5843764) a one-million dollar coin.
+- Restaurants get 10% off from the LCBO.
+- 40% of University of Waterloo graduates end up working [somewhere in the US](https://medium.com/@robedarling/where-in-the-world-are-university-of-waterloo-technology-graduates-1fbee6addc0).
 - You can only [reverse mortgage](https://www.canada.ca/en/financial-consumer-agency/services/mortgages/reverse-mortgages.html) your home if you are above the age of 55.
 - Despite the NDP complaining about [indigenous peoples having no clean water](https://www.facebook.com/jagmeetndp/videos/clean-drinking-water-leau-potable/407654923615933/), the liberals [actually solved 90% of what they promised](https://www.theglobeandmail.com/politics/article-the-murky-reasons-why-canada-is-failing-to-get-clean-water-to-first/?ref=premium), which is quite different from the "Liberals break promise to provide drinking water" headlines. Reality is nowhere as black and white as what's portrayed on TV (or Facebook), and every party is guilty in taking advantage of it.
 - [Only](https://www.cbc.ca/news/technology/rules-for-raw-fish-boost-food-safety-in-ontario-health-official-1.510725) fish intended to be eaten raw are required to be frozen prior to sale. If the logistical chain can bring you a fish alive, try not to trust that any of it has been previously frozen. You can... also [freeze seafood for seven days](https://www.cdc.gov/parasites/anisakiasis/faqs.html) to eliminate the possibility of disease.
