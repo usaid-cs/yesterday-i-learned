@@ -1,5 +1,6 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- "You should read more instead of watching youtube videos" - [youtube video](https://www.youtube.com/watch?v=pRTWFqhEDeo)
 - Sending nudes to others when you are in a relationship [is cheating](https://www.reddit.com/r/relationship_advice/comments/k1cgvt/married_men_if_your_wife_sends_a_topless_pics_to/), according to Reddit's consensus.
 - "I feel that manning up is what men do, [that] we think we should just take it on the chin. But it's actually the opposite - that's not a brave thing, to suffer in silence. [**The really courageous thing to do is to face your problems, face the pain that you're suffering.**](https://www.bbc.com/news/education-48940521) Trying to fix it, that's what's really courageous."
 - When your teacher asked for your parent's signature, they are just asking for someone who can write properly (i.e. not a child) to give a signature. You can ask any adult to sign it, actually.

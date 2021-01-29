@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Seasalt is, like, 1 ~ 10% various other salts.
 - Hot vinegar *easily* cleans starchy pot stains.
 - UV makes biodegradable plastics degrade. So if it ends up in the landfill, it's not going to make a difference.
 - Tires used to be all white (adding zinc oxide made them look whiter.) Then in 1910 people started making black tires to avoid damage caused by UV light.

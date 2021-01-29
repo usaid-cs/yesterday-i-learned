@@ -39,5 +39,6 @@
 - RDS only: upgrade postgres to the highest minor version before you upgrade to the next major version. Once you are on the latest minor version, you can only upgrade to the latest next major version (ie you can't upgrade from 10.10 to 11.0 if 11.1 exists).
 - Enabling multi AZ is a zero downtime operation.
 - Disabling multi AZ is also a zero downtime operation. The point of the exercise is: you need to enable multi AZ to upgrade the postgres version with no downtime.
+- Modifying RDS instance type with multi AZ enabled will also reduce (but not completely eliminate) downtime. The two databases will be upgraded stepwise, but there may be a DNS changeover period where neither instances are usable.
 - Databases with replicas cannot upgrade major versions unless you remove the read only database first.
 - Use `resize2fs /dev/nvme0n1p1` as part of the [officially sanctioned way to grow a partition](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html) after it's resized from the console.

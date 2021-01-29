@@ -1,3 +1,5 @@
+- Avocado trees (bearing butter-flavoured fruit) have so many bacterial, viral, fungal, and nutritional diseases, [Wikipedia has a list of them](https://en.wikipedia.org/wiki/List_of_avocado_diseases).
+- Johan dared say that [the optimal time to get sunlight is 10am ~ 1pm](https://pubmed.ncbi.nlm.nih.gov/25207380/), for the best balance between vitamin D and skin cancer.
 - The [border collie](https://en.wikipedia.org/wiki/Border_Collie) is often said to be the smartest dog breed.
 - Pets can have strange allergies. Like to beef. Or milk. Or fish.
 - [Crabs produce sperm right beside their heart](https://youtube.com/watch?v=4C1XqQVMmAw). Or: their hearts are right beside their balls.

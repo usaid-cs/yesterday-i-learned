@@ -312,6 +312,7 @@ bar
 - `ModelA.query.join(ModelB)` does a JOIN on whichever `db.relationship(ModelB)` ModelA defines. Don't ask what happens if there are multiple relationships right now.
 - The `entry_points` thing in setup.py installs scripts inside your `(venv path)/bin/` directory.
 - SQLAlchemy's equivalent of `.values_list('id', flat=True)` is `.options(load_only('id'))`. I have not tested this.
+- SQLAlchemy's insert statement is really [`insert(table_model).values(**kwargs)`](https://docs.sqlalchemy.org/en/14/dialects/postgresql.html#insert-on-conflict-upsert), mapping one-to-one to a query.
 - [Putting code in the `try-else` block](http://stackoverflow.com/a/855764/1558430) is meant to _avoid_ catching the same exception in the `else` block, while still running a `finally` if the `else` block fails; basically, syntactic sugar for two try blocks.
 - `sys.modules` contains an import, e.g. `datetime`, only after you import it.
 - You can `''.join([u'a', u'\u3000', 'bunch', 'of', u'unicode', 'strings'])`, but not `'{}'.format(u'a unicode \u3000 string')`, because reasons. (python2)
@@ -630,3 +631,4 @@ bar
 - `1e25` is a float and comes to `10000000000000000905969664`. You literally can't trust it. Use `1 * 10**25` instead. If you are hard pressed to use `e`, the highest exponent it can go without fucking up (for 1.0) is 22.
 - Guido's stance on Black is: ["Black is overrated unless your team argues over style a lot."](https://twitter.com/gvanrossum/status/1227126706089021440) (2020)
 - [Printing out a KeyError does not print newlines](https://stackoverflow.com/a/46899120/1558430). It works for other exceptions.
+- Having `def foo(self)` follows the "explicit is better than implicit" idiom. `thing.foo()` without the `self`, does not.

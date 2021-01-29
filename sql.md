@@ -20,6 +20,7 @@
 - There is a name for "just prefetch the table and do the select in memory": [**N + 1 Problem**](https://stackoverflow.com/a/97253/1558430).
 - Try not to have any indexes that you don't plan to use. They increase write times for obvious reasons.
 - ["VERY bad things can happen when you exhaust your disk space ... don't run out of disk space"](https://dba.stackexchange.com/questions/187044/disk-space-unreleased-after-cleaning-up-rows-from-pg-table) - Evan
+- If you shard your database into multiple instances in a cluster, and the shard depends on some kind of non-random primary key, then be careful with it, because [it may very well end up with just a few of your instances working very hard](https://cloud.google.com/spanner/docs/schema-design#primary-key-prevent-hotspots) if the primary key distribution is not uniform. This is called hotspotting.
 
 # MySQL
 
@@ -110,6 +111,7 @@
 - To get how much space your tables use, run [this frankenstein query](https://wiki.postgresql.org/wiki/Disk_Usage), or `SELECT relname AS table_name, c.reltuples AS row_estimate, pg_total_relation_size(c.oid) AS total_bytes FROM pg_class c WHERE relkind = 'r' ORDER BY total_bytes DESC;`.
 - **Select text only after converting it to `TEXT`**. `SELECT 'Foo'` is actually of unknown type. `SELECT 'Foo'::TEXT` returns a column with type `text` (test with `pg_typeof('Foo'::TEXT)`).
 - If you try to shrink/decrease a `varchar` column's length (for example from `varchar(100)` to `varchar(1)`), all the data needs to fit in the new column. Postgres will NOT truncate the column for you: `ERROR:  value too long for type character varying(1)`. You can do a `USING` to limit the length of data as you alter: `ALTER TABLE foo ALTER COLUMN bar TYPE varchar(1) USING bar::varchar(1);`.
+* [`WITH` expressions](https://www.postgresql.org/docs/10/queries-with.html) (common table expressions) allow you do declare basically anything inside the `WITH` block, and use it in the query that follows: `WITH regional_sales AS (SELECT...) SELECT ... FROM regional_sales`. Word has it that [CTEs are quite expensive](https://hakibenita.medium.com/be-careful-with-cte-in-postgresql-fca5e24d2119) if used incorrectly.
 
 ## Performance
 

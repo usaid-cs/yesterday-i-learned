@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- There are [three phrases for "I" in Japanese](https://www.quora.com/What-does-watashi-wa-mean-in-Japanese): Watashi (most formal), boKu (general use by men), Ore (informal). "When you get used to Japanese to some degree, be careful with the accent. If you stress Bo, it sounds childish. Always put an accent on Ku."
+- The Japanese word for "gallery" is just ギャラリー, or *Gyarari*. It's fascinating how they manage.
 - In contemporary usage, "They" is used to describe something with [unspecified gender](https://en.wikipedia.org/wiki/Epicenity), while ["It"](https://en.wikipedia.org/wiki/It_%28pronoun%29) seems to be reserved for objects that have no gender, other than children and pets, for some reason.
 - Apparently "sceptic" is the UK spelling of the word "skeptic". The C version came from Latin *scepticus*, which came from the Greek K version, *skeptikós*.
 - The Irish name [Seán](https://en.wikipedia.org/wiki/Sean) becomes Shawn or Shaun. Séan becomes Shane or Shayne.

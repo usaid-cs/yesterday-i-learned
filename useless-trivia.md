@@ -1,3 +1,5 @@
+- Did you know? Pokemon human characters barely have noses.
+- The [VP of Engineering](https://www.youtube.com/watch?v=gOZFmFNl1uk) at WeWork [doesn't talk about having worked at WeWork](https://randyshoup.silvrback.com/bio).
 - [Cancel culture](https://nypost.com/article/what-is-cancel-culture-breaking-down-the-toxic-online-trend/) is cancelling a TV host or peronsality if they said or did something that offended you. So then the rest of them start to only say things you want to hear. It's a bad culture to have.
 - "This nigga eating beans" is a [tweet](https://i.imgur.com/nLSLnYf.png) from a person who ate beans in a movie theatre while watching Cars 2. Unfortunately many people copied the exact same tweet so now there's no way to tell who really be eating beans.
 - Bob Boblaw is a character from Arrested Development. His law bomb was: "Why should YOU go to jail for a crime someone else noticed?"

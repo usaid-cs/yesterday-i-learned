@@ -1,5 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Use silicone caulking where waterproofing is needed, and acrylic caulking everywhere else. Silicone is hard to work with, so use it only where waterproofing is necessary. Acrylic caulking won't just dissolve away either... it takes quite some time once dried.
+- In a microservice architecture, a service can cache results from another service, *and* other services can read from that (e.g. asking the payment service for the user's information, rather than going directly to the users service)... as long as we understand that the result is [**read-only** and **non-authoritative**](https://www.youtube.com/watch?v=gOZFmFNl1uk). You cannot update the user from the payment system, and you cannot trust what the payment system tells you.
+- The American ["top sirloin"](https://en.wikipedia.org/wiki/Sirloin_steak) is positioned under "sirloin", while what the Brits call "sirloin" is more the back ribs than loin, and preferring to call American sirloin parts the "rump".
+- Every odd number has an 'e' in it. [Except 1, 2, 8, 30, and 50](https://legendary-archive.tumblr.com/post/189857810354/hey-there-princey-nerdy-as-heck-m-pennanti)... these odd numbers don't have an 'e' in it. At least not on tumblr.com, they don't.
+- An [eromenos](https://en.wikipedia.org/wiki/Eromenos) is a the sub in a dom-sub relationship between two gay men.
+- Samsung [owns](https://en.wikipedia.org/wiki/Harman_International) AKG, Bang & Olufsen, Becker, dbx, Harman Kardon, and JBL.
 - [Some KN95 masks have neck and head straps, but most have just ear loops](https://jayparkmd.medium.com/how-to-spot-a-fake-kn95-mask-from-china-d5219e7f0ab2). The ones with neck and straps form a tight enough seal to be medical grade. That is the major difference between N95 and KN95 other than shape and certification.
 - A Christmas tree can be *any* tree, as long as it is decorated. It doesn't even need to be a real tree.
 - Low-effort directors like Michael Bay often [tilt the camera in odd angles](https://en.wikipedia.org/wiki/Dutch_angle) to make you feel nauseated.

@@ -1,5 +1,7 @@
 🇨🇦
 
+- Termination with cause makes you lose EI, most of the time.
+- The [instant pot](https://en.wikipedia.org/wiki/Instant_Pot) was invented by Four Chinese-sounding names who worked at Nortel before it went bankrupt.
 - "Breithaupt" (wide capital/peak/head) might have been the German word for ["big head"](https://silicon-valley.fandom.com/wiki/Big_Head).
 - There's a one-million dollar coin. Well, there [was](https://www.cbc.ca/news/world/berlin-gold-coin-heist-raids-1.5843764) a one-million dollar coin.
 - Restaurants get 10% off from the LCBO.

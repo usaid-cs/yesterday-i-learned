@@ -23,6 +23,7 @@
 - To inspect a container, run `docker inspect (id from above)`.
 - If you sign up for a Docker account, you can push your own images onto the repository using `docker push (container name e.g. foo/bar)`.
 - The advantage Vagrant has over Docker is: [full isolation](https://www.upguard.com/articles/docker-vs-vagrant). Docker cannot guarantee the virtual hardware that the environment gets.
+- Minikube can be started using `minikube start`. Minikube runs a docker cluster inside a VM, so it may take a while.
 
 ## [`Dockerfile`](https://docs.docker.com/get-started/part2/#define-a-container-with-a-dockerfile)
 
@@ -30,9 +31,11 @@
 
 - In the same directory with `Dockerfile`, running `sudo docker build -t (your container name in all lowercase) .` will build a new container. Check if you actually built one with `docker images`. Note that `python:2.7-slim` is a base container that does not imply ubuntu... in fact [they](https://hub.docker.com/_/python/) are mostly Debian and Windows ones.
 - Run `sudo docker run -p 4000:80 (your container name)` to run it. You access the container's port 80 from your own port 4000.
-- Alternatively, with `-d`, `sudo docker run -p 4000:80 (your container name)` runs the container in detached mode.
+- Alternatively, with `-d`, `sudo docker run -p 4000:80 (your container name)` runs the container in detached mode. With detached mode, you can run your container and close the terminal afterwards, and your container will continue to run.
+- Container IDs come in short and long forms. The long form is LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONG, and the short form is only LOOOOOOOOOO.
 - [There is no difference between `docker ps` and `docker container ls`.](https://stackoverflow.com/a/45254760/1558430) Both list your containers.
 - [`VOLUME /foo`](https://docs.docker.com/storage/volumes/) creates some kind of mount at... some place's `/foo`. The container can access `/foo` and see files there. Then `/foo` is never deleted, and the same container can see the volume again when it restarts. Where is `/foo` actually? `/var/lib/docker/volumes/`. You can find them with `docker volume ls`.
+- `RUN` is a step inside the dockerfile that runs commands inside a docker image. [`CMD`](https://nickjanetakis.com/blog/docker-tip-7-the-difference-between-run-and-cmd) defines a default thing to run when the container starts (usually as the command that runs your application server), but doesn't run the `CMD` when the image is being built.
 
 ## Docker compose
 
