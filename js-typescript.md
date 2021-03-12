@@ -8,6 +8,7 @@
 - Strings: `string`
 - Typed arrays: `number[]`
 - The `any` type literally means anything. It may well be omitted; the only use of it is to prevent errors when interacting with JS code.
+- The `unknown` type is similar to the `any` type, except [something of `unknown` type cannot be assigned to a variable of some other type](https://stackoverflow.com/questions/51439843/unknown-vs-any), so the "any" type checking is not propagated.
 - `void` is _only_ used to denote that a function returns nothing (`undefined` or `null`).
 - `abcDef() as SomeType` [asserts the type of the result to a certain type](https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md#type-assertions) when you know better than the static checker. TypeScript typically won't allow you to assert unless the function returns `any`, or has no definite return type, like [if a random function is involved](<http://www.typescriptlang.org/play/#src=function%20foo()%20%7B%0D%0A%20%20%20%20if%20(Math.random()%20%3E%200.5)%20%7B%0D%0A%20%20%20%20%20%20%20%20return%205%3B%0D%0A%20%20%20%20%7D%20else%20%7B%0D%0A%20%20%20%20%20%20%20%20return%20'5'%3B%0D%0A%20%20%20%20%7D%0D%0A%7D%0D%0A%0D%0Afunction%20bar(baz%3A%20string)%20%7B%0D%0A%20%20%20%20console.log(baz)%3B%0D%0A%7D%0D%0A%0D%0Abar(foo()%20as%20string)%3B>).
 

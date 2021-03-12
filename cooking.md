@@ -1,3 +1,4 @@
+- [Coffee turns soy milk into tofu](https://www.thekitchn.com/why-does-soymilk-curdle-in-hot-148329). Avoid that by slowly adding coffee into soy milk, not the other way around.
 - Eye of round steaks are cheap because they are just slices of eye of round (hindleg) roasts, which are even cheaper. As a tough tissue, cook by slow braising, roasting, and any method with plenty of moisture.
 - There is [no way](https://www.huffpost.com/entry/keeping-avocados-from-turning-brown_n_1196633) to prevent an avocado from browning. Soaking it in water will make it soggy.
 - Homemade butter is a waste of time to make. Homemade bread is a good use of your time, especially if you have a bread maker. Other [items worth making](https://www.amazon.com/Make-Bread-Buy-Butter-Shouldnt/dp/1451605889): hummus, yogurt, dill pickles.

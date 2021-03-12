@@ -1,6 +1,9 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- It is equally annoying for a west coast resident to trade in the HKEX (6pm ~ 1am), and it is for them to trade in the NYSE (6am ~ 1pm).
+- [Forward P/E](https://www.investopedia.com/terms/f/forwardpe.asp) uses whatever earnings [a company](https://www.aircanada.com/ca/en/aco/home.html) forecasts out of their ass.
+- [Rates, Regulation, Redistribution](https://www.marketwatch.com/story/get-ready-for-a-10-stock-drop-driven-by-the-3-rs-warns-bank-of-america-11611926024) are the 3 Rs that impact the stock market. Redistribution might be referring to wealth equality/inequality.
 - A veblen good is expensive just because lots of people want it.
 - The majority of [sovereign wealth funds](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) are invested in the country's oil and gas industry.
 - If you invest in fixed-income assets, [the amount of tax the CRA charges on it might be more than what you earned, relative to the inflation during that time](https://www.investopedia.com/articles/pf/07/canadian_tax.asp#taxes-and-investments).

@@ -112,6 +112,9 @@
 - **Select text only after converting it to `TEXT`**. `SELECT 'Foo'` is actually of unknown type. `SELECT 'Foo'::TEXT` returns a column with type `text` (test with `pg_typeof('Foo'::TEXT)`).
 - If you try to shrink/decrease a `varchar` column's length (for example from `varchar(100)` to `varchar(1)`), all the data needs to fit in the new column. Postgres will NOT truncate the column for you: `ERROR:  value too long for type character varying(1)`. You can do a `USING` to limit the length of data as you alter: `ALTER TABLE foo ALTER COLUMN bar TYPE varchar(1) USING bar::varchar(1);`.
 * [`WITH` expressions](https://www.postgresql.org/docs/10/queries-with.html) (common table expressions) allow you do declare basically anything inside the `WITH` block, and use it in the query that follows: `WITH regional_sales AS (SELECT...) SELECT ... FROM regional_sales`. Word has it that [CTEs are quite expensive](https://hakibenita.medium.com/be-careful-with-cte-in-postgresql-fca5e24d2119) if used incorrectly.
+- `ALTER TABLE ALTER COLUMN SET DEFAULT` only affects rows that are inserted/updated, not existing ones.
+- `ALTER TABLE ADD COLUMN ... DEFAULT` **does** affect existing rows, writing that default value into every row, **if** the postgres version is 10 or under.
+- Postgres [in particular](https://stackoverflow.com/a/20154382/1558430) allows multiple NULLs in a nullable, yet UNIQUE column. Other databases might not have the same behaviour.
 
 ## Performance
 
@@ -143,6 +146,7 @@
 - Limit postgres connection count to 200-400 no matter the database size.
 - The source table (the table having the foreign key to another table) [does not require an index on the foreign key](https://www.cybertec-postgresql.com/en/index-your-foreign-key/). If you query by that field a lot, you should make an index there.
 - A subquery without saying `LIMIT 1` instantly ruins the performance of the outer query.
+- [An index is automatically created for all primary keys and unique constraints](https://stackoverflow.com/a/970605/1558430), but [not](https://stackoverflow.com/a/48793428/1558430) for foreign keys... unless [you use Django](https://stackoverflow.com/a/6010542/1558430). which makes an index for foreign keys as well.
 
 ## Troubleshooting
 

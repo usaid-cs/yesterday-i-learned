@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- [PVC fake leather lasts far longer than PU fake leather](https://bintangkaruniabadi.com/?p=2543) (5+ years vs 1~2 years before flaking off).
 - Seasalt is, like, 1 ~ 10% various other salts.
 - Hot vinegar *easily* cleans starchy pot stains.
 - UV makes biodegradable plastics degrade. So if it ends up in the landfill, it's not going to make a difference.

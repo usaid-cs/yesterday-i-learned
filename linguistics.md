@@ -2,6 +2,9 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- What a husband does is [husbandry](https://www.google.com/search?q=husbandry): the care, cultivation, and breeding of crops and animals. The word [husband](https://en.wikipedia.org/wiki/Husband) meant "homeowner" (*hūs-* + *būandi*).
+- [Baobab](https://en.wiktionary.org/wiki/baobab#Pronunciation) is pronounced "bay-oh-bab", but only in English. In other languages, you just say "bao".
+- "Dilettante": a person who has an interest, but not commitment or knowledge in something. Like me, collecting useless facts.
 - There are [three phrases for "I" in Japanese](https://www.quora.com/What-does-watashi-wa-mean-in-Japanese): Watashi (most formal), boKu (general use by men), Ore (informal). "When you get used to Japanese to some degree, be careful with the accent. If you stress Bo, it sounds childish. Always put an accent on Ku."
 - The Japanese word for "gallery" is just ギャラリー, or *Gyarari*. It's fascinating how they manage.
 - In contemporary usage, "They" is used to describe something with [unspecified gender](https://en.wikipedia.org/wiki/Epicenity), while ["It"](https://en.wikipedia.org/wiki/It_%28pronoun%29) seems to be reserved for objects that have no gender, other than children and pets, for some reason.

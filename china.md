@@ -1,5 +1,7 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- 水浸眼眉自然浮.
+- [Blocking one's right eye](https://unintendedconsequenc.es/the-owls-right-eye/) became the symbol of resistance against China. Fascinating article.
 - If "什" is used to mean "assorted" or "ten different things", then the pronunciation turns into shi2. Since that simplified character maps to 甚 as well, you can illicitly call it 甚錦 (what-sorted) or 甚菜 (what vegetables).
 - The Chinese government believes it has no issues with human rights because [its definition of human rights](https://en.wikipedia.org/wiki/Human_rights_in_China#Position_of_the_government) is different from that of [the universal one](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights): that welfare of the collective should be put ahead of the rights of individuals, which makes it a-ok to oppress the minority if it benefits the majority. The oppressed don't necessarily agree, of course, and in a [single-party, authoritarian system](https://www.youtube.com/watch?v=k7dTDjRnBqU), you don't really have a say anyway.
 - The song [心太软](https://baike.baidu.com/item/%E5%BF%83%E5%A4%AA%E8%BD%AF/30530) was composed after the composer lost a bunch of money at a casino.

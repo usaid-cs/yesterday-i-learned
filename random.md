@@ -1,5 +1,18 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Impact drivers [can](https://www.deborahcopakenkogan.com/can-you-drill-with-an-impact-driver/) be used as a drill. So maybe we can thin of impact drivers as better drills.
+- There is no way a server can tell a client has aborted an HTTP request [until the server tries to send the client something](https://serverfault.com/questions/147886/what-happens-when-a-http-request-is-terminated-prematurely).
+- HTTP headers: [`no-cache` means the resource is explicitly cacheable](https://httptoolkit.tech/blog/http-wtf/), and the browser will definitely cache it, but should always ask the server if the resource is up to date. If you want "no caching" no cache, use `no-store` instead.
+- Statistically, [motorcycles are 35x more dangerous than cars](https://en.wikipedia.org/wiki/Aviation_safety#Statistics), while cars are themselves 7x more dangerous than buses.
+- The US calls [the trade deal](https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement) "USMCA". Canada calls it "CUSMA". Mexico calls it "Tratado entre México, Estados Unidos y Canadá". In every country, their own name comes first. They signed the deal in Argentina.
+- [Alimony](https://en.wikipedia.org/wiki/Alimony) is given to the spouse, whether or not the recipient has children. That's child support. Neither has a set length or amount. Lawyers use a special calculator to make stuff up.
+- Unit testing is [a kind of functional testing](https://www.browserstack.com/guide/functional-testing).
+- The XL in [Keystone XL](https://en.wikipedia.org/wiki/Keystone_Pipeline) stands for "export limited", actually.
+- In Italy, [vermicelli](https://en.wikipedia.org/wiki/Vermicelli) is thicker than spaghetti. Vermicellini, or thin vermicelli, is also thinner than the American vermicelli.
+- "To troubleshoot gunicorn timeouts, you look at load balancer logs and RDS logs." - Some guy
+- "If you force users to trade convenience for security, they will find a way to obtain convenience at the expense of security." - Passed around legend at this point
+- [Deism](https://en.wikipedia.org/wiki/Deism) is rejecting religious texts as a basis of the existence of a god, but rather through reason and observation of the natural world, i.e. "I believe there's a god but that book is bullshit". Thomas Jefferson believes in one of these.
+- "踩坑" means trying and failing, and repeating the process until you succeed.
 - Use silicone caulking where waterproofing is needed, and acrylic caulking everywhere else. Silicone is hard to work with, so use it only where waterproofing is necessary. Acrylic caulking won't just dissolve away either... it takes quite some time once dried.
 - In a microservice architecture, a service can cache results from another service, *and* other services can read from that (e.g. asking the payment service for the user's information, rather than going directly to the users service)... as long as we understand that the result is [**read-only** and **non-authoritative**](https://www.youtube.com/watch?v=gOZFmFNl1uk). You cannot update the user from the payment system, and you cannot trust what the payment system tells you.
 - The American ["top sirloin"](https://en.wikipedia.org/wiki/Sirloin_steak) is positioned under "sirloin", while what the Brits call "sirloin" is more the back ribs than loin, and preferring to call American sirloin parts the "rump".
@@ -696,7 +709,6 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - Reusable "cling film" can be made with beeswax.
 - [HEPA filters filter away stuff larger than 0.1 microns.](https://dengarden.com/cleaning/How-to-Get-Rid-of-Smoke-Smell) Carbon filters filter out stuff that is smaller.
 - Disneyland really only requires one day. Disneyworld needs like a week.
-- "Don't bother spending 400\$ on a door lock if you don't have a door that can't be kicked in."
 - Horses won't run into lines of soldiers with bayonets.
 - A "pantry" is a subset of closets specifically designed to store food and/or dishes.
 - Sea waves that cross each other in a [waffle pattern](https://www.reddit.com/r/Damnthatsinteresting/comments/a87jhv/a_cross_swell_is_formed_when_two_wave_systems/) are extremely dangerous.
@@ -1329,7 +1341,6 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - The pizzas displayed on shelves are often half-baked. When you order a slice, that slice goes into the oven and finish baking.
 - [SIL](https://en.m.wikipedia.org/wiki/Safety_integrity_level) level 4 _requires_ that you write yoda statements.
 - Bump keys have every slot cut to the lowest position and the shoulder cut enough to allow it to be pushed in just a bit farther than a normal key.
-- Google Assistant's cut-off for "tomorrow" is 5am.
 - [Uncle Sam](https://en.wikipedia.org/wiki/Uncle_Sam) was rumoured to be a meatpacker from New York.
 - [Shotgun microphones](https://en.wikipedia.org/wiki/Microphone#Shotgun_and_parabolic_microphones) work better than parabolic microphones in capturing lower frequencies from a long distance.
 - The phillips screwdriver is sharp, and is [unintentionally designed to cam out](https://en.wikipedia.org/wiki/Cam_out) (turn too much and pop itself out). The [pozidriv](https://en.wikipedia.org/wiki/List_of_screw_drives#Pozidriv) screwdriver is flat, and is designed to _not_ cam out. Unfortunately using the wrong screwdriver for the two types of screws, even if they are both crosses, will damage them.

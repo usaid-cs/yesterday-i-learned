@@ -143,6 +143,7 @@ undefined
 - Use `nvm ls-remote` to find out what versions it has available to install.
 - If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
 - Leaflet allows you to build any map, not just what's on earth. You can make [a map for Zelda](https://mrcheeze.github.io/botw-object-map/) if you wanted to.
+- There are multiple event loops: the normal one, to handle `setTimeout` and such; and another one for [microtasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/), to handle promise resolution, apparently. Microtasks are processed before normal tasks.
 
 ## About JavaScript
 

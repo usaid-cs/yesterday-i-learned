@@ -20,6 +20,7 @@
 - A Convertible note is a loan (debt), not some grant. At the end of a [convertible note's maturity date](https://www.indinero.com/blog/safe-convertible-notes-comparison), the founder must either pay back the loan plus interest, or convert the note into equity.
 - [SAFE](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity) (simple agreement for future equity)
 - There's a guide to [how much stock you give your employees at what size of the company](https://www.holloway.com/g/equity-compensation/sections/typical-employee-equity-levels).
+- "Common shares" are basically useless when "preferred shares" exist. Preferred shares are always sold first. If [the company ends up with $0 after the sale of those shares](https://marker.medium.com/my-company-sold-for-100-million-and-i-got-zilch-how-can-that-be-f7be0563f1f8), you, a proud owner of a billion common shares, end up with nothing as well.
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

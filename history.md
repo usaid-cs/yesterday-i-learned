@@ -1,3 +1,9 @@
+- Longer movies used to have intermissions for people to go pee in between. That's no longer the case today, limiting the maximum movie length if they want to be shown in theatres (Netflix movies may be longer).
+- Japan was best friends with Myanmar, [though not the other way around](https://en.wikipedia.org/wiki/Japanese_occupation_of_Burma).
+- [Russia was the first to Mars](https://en.wikipedia.org/wiki/Mars_2) in 1971. It crashed and died, but it was technically first.
+- [Lee Kwan Yew loves eugenics](https://en.wikipedia.org/wiki/Eugenics#Modern_eugenics). He wanted smarter Singaporean women to give birth to more children. "A proponent of nature over nurture, he stated that intelligence is 80% nature and 20% nurture".
+- Hitler was't racist in the traditional sense that he didn't like people of a certain skin; he was racist in the sense that [he believed every race other than the Aryan race was inferior](https://knappily.com/onthisday/february-3-1933-hitler-demands-living-space-for-germany-375).
+- There once was a literal aphrodisiac plant, [silphium](https://en.wikipedia.org/wiki/Silphium)... the Romans harvested it to extinction.
 - There once was a time when Germany defined a sword as a two-edged blade, while knives all have two pieces of wood sandwiching the handle. So "knives" like the huge [messer](https://en.wikipedia.org/wiki/Messer_%28weapon%29) existed. Unlike swords, messers could be legally owned by civilians.
 - Hong Kong SAR has never won a [gold medal at the Olympics](https://en.wikipedia.org/wiki/Hong_Kong_at_the_Olympics). The first and only gold medal was won in 1996, before the handover.
 - [Spanish Inquisitors](https://en.wikipedia.org/wiki/Spanish_Inquisition) gave suspected heretics 30 ~ 40 days of notice before the inquisition happened, so everyone would always expect them.

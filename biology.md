@@ -1,3 +1,12 @@
+- Many cows are fed palm oil to make them produce more fat for their butter. [This makes butter harder than it used to be](https://nationalpost.com/news/canada/is-your-butter-harder-than-usual-a-common-feed-ingredient-could-have-something-to-do-with-it/wcm/3dfab4b5-6e09-4afc-a06a-c65fc3594638/).
+- Nobody put UV lights in a fridge because UV produces ozone.
+- Kangaroo pouches absorb any urine and faeces (piss and shit) that the joeys produce. Anything that cannot be absorbed, [the mother licks out with her tongue](https://www.youtube.com/watch?v=UzpWONqz44E).
+- Seemingly no fruit has [no large amounts of vitamin C and potassium, at the same time](https://en.wikipedia.org/wiki/Fruit#/media/File:Fruit_Nutrition.png). Raspberries may be pleasant if you want a little bit of both.
+- Pears are [accessory fruits](https://en.wikipedia.org/wiki/Accessory_fruit). The flesh of the fruit is not derived from the ovary, so it is not a true fruit. Same for strawberries.
+- Long-term covid symptoms last... [we don't know](https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351), we haven't had this virus for a long enough time.
+- No other animal needs to wipe. They don't have enough glute to have butt cracks. They can also rub their butt on the ground if they wanted to.
+- [Decaf coffee makes you poop, too](https://www.allrecipes.com/article/why-does-coffee-make-you-poop/), but caffeine does the majority of the bowel irritating.
+- Old cannabis becomes [excellent sleep medication](https://www.benzinga.com/markets/cannabis/21/01/19173099/what-happens-to-marijuana-after-five-years-of-storage) as THC decays to CBN.
 - Avocado trees (bearing butter-flavoured fruit) have so many bacterial, viral, fungal, and nutritional diseases, [Wikipedia has a list of them](https://en.wikipedia.org/wiki/List_of_avocado_diseases).
 - Johan dared say that [the optimal time to get sunlight is 10am ~ 1pm](https://pubmed.ncbi.nlm.nih.gov/25207380/), for the best balance between vitamin D and skin cancer.
 - The [border collie](https://en.wikipedia.org/wiki/Border_Collie) is often said to be the smartest dog breed.
@@ -50,7 +59,7 @@
 - ["Lissencephaly"](https://www.ninds.nih.gov/Disorders/All-Disorders/Lissencephaly-Information-Page) is the biologist's way of saying your have a [smooth brain](https://www.urbandictionary.com/define.php?term=Smooth%20Brain) (and can therefore be used to mean that you are a moron).
 - [600mg of L-cysteine](https://academic.oup.com/alcalc/advance-article-abstract/doi/10.1093/alcalc/agaa082/5893464?redirectedFrom=fulltext) was found to be a hangover cure, which happens to be found in [high-protein foods](https://en.wikipedia.org/wiki/Cysteine#Dietary_sources) like [egg yolks](https://restorativemedicine.org/library/monographs/cysteine/).
 - Urban beekeeping is ["like saying that you're going to save the birds of Canada by keeping chickens in your backyard"](https://www.cbc.ca/news/technology/what-on-earth-bees-urban-wild-1.5676777), says Charlotte De Keyzer.
-- [Dolly](https://en.wikipedia.org/wiki/Dolly_%28sheep%29#Death) died from cancer, not from cloning-related side effects.
+- [Dolly](https://en.wikipedia.org/wiki/Dolly_%28sheep%29#Death) died from cancer, not from cloning-related side effects. Its lifespan was six years shorter than other sheep, *possibly* because the adult cell that it was cloned from was already six years old.
 - Women can [remove their reproductive parts and take hormones](https://www.reddit.com/r/AskWomen/comments/hfha7j/women_who_had_a_hysterectomy_or_an_oophorectomy/) to achieve what I hear to be stable, painless love lives.
 - 1~2% of the US population is [estimated](https://americanaddictioncenters.org/alcoholism-treatment/wet-brain) to have alcoholic "wet brain", or [Wernicke-Korsakoff syndrome](https://en.wikipedia.org/wiki/Wernicke%E2%80%93Korsakoff_syndrome).
 - [Snails walk in two gaits](https://pubmed.ncbi.nlm.nih.gov/23493509/) to conserve mucus. One gait to slide across a wet surface, and one gait to "loped" across dry, porous surfaces.

@@ -1,5 +1,7 @@
 🇨🇦
 
+- [Frontline worker lives in a car](https://torontolife.com/memoir/tim-macfarlane-lives-in-his-van-homeless-during-covid-toronto/): "I make $32 per hour, about $5,250 a month, $63,000 a year. (...) after deductions, taxes, union dues and child support, I take “home” $2,000 a month. (...) From that, I subtract my basic living expenses. And what’s left over is just not enough to make rent. (...) Sometimes my youngest asks, “Why can’t you get a house?” I don’t know how to explain my bad decisions, or credit scores, security deposits and leases, to a five-year-old who thinks a house is something he can sketch with crayons or build out of Lego."
+- The [mortgage insurance](https://www.tangerine.ca/forwardthinking/borrowing/how-mortgage-default-insurance-works) insures the lender (maybe a bank) if you default on your payments. The lender gets to sell your home. If the value of the sale is less than what you owe them, the insurance covers that difference. You still end up homeless.
 - Termination with cause makes you lose EI, most of the time.
 - The [instant pot](https://en.wikipedia.org/wiki/Instant_Pot) was invented by Four Chinese-sounding names who worked at Nortel before it went bankrupt.
 - "Breithaupt" (wide capital/peak/head) might have been the German word for ["big head"](https://silicon-valley.fandom.com/wiki/Big_Head).

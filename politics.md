@@ -1,3 +1,6 @@
+- Prof. Rutger Claassen said in a class that democracy is a form of *political equality*, and a country that is economically inequal will often see its citizens use their wealth to gain political power. So sustained democracy requires its people to be more or less equal in many ways.
+- Capitalism is slavery with a twist: [you are not directly enslaved... and your minimum living conditions are often guaranteed by the government](https://www.youtube.com/watch?v=4xqouhMCJBI). But wait, that's socialism.
+- Voters delegate their power to a representative. If that representative doesn't do as the voters say, they haven't voted for anyone in a meaningful way; democracy does not work.
 - Fair politics: the voters select the representatives. [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering): by grouping voters in... creative ways, representatives select the voters.
 - [Instant runoff is the same as ranked choice voting: each person ranks all candidates](https://www.youtube.com/watch?v=yhO6jfHPFQU). Since first-past-the-post heavily favours a two-party system, we want voters to express their intentinos honestly instead of strategically.
 - Ranked choice voting might eliminate moderate (centrist) parties first. See [centre-squeeze](https://electowiki.org/wiki/Center_squeeze). This might be why the liberals never approve ranked choice voting.

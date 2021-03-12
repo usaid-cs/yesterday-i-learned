@@ -1,5 +1,8 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- "Don't bother spending 400\$ on a door lock if you don't have a door that can't be kicked in."
+- [Everyone has the right to be mad](https://mamibuy.com.tw/talk/article/155904). Their anger is *your* doing, whether or not you did anything. Let them throw pillows until they feel tired.
+- "Fake it til you make it" quickly devolves into the imposter syndrome.
 - "You should read more instead of watching youtube videos" - [youtube video](https://www.youtube.com/watch?v=pRTWFqhEDeo)
 - Sending nudes to others when you are in a relationship [is cheating](https://www.reddit.com/r/relationship_advice/comments/k1cgvt/married_men_if_your_wife_sends_a_topless_pics_to/), according to Reddit's consensus.
 - "I feel that manning up is what men do, [that] we think we should just take it on the chin. But it's actually the opposite - that's not a brave thing, to suffer in silence. [**The really courageous thing to do is to face your problems, face the pain that you're suffering.**](https://www.bbc.com/news/education-48940521) Trying to fix it, that's what's really courageous."

@@ -86,7 +86,7 @@ To give you an idea how risky stocks are, an overwhelming number of people sugge
 
 [*You don't actually know you are "borrowing" someone's stocks.](https://www.youtube.com/watch?v=ZLLDyoKsR8k) The broker does it behind the scenes, just like how a bank would lend out *your* money to others, because chances are the bank's customers won't be withdrawing money all at once.
 
-Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-moves-first-time-investors.asp?no_header_alt=true) involve borrowing money to buy stocks that (you hope it will) go up.
+Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-moves-first-time-investors.asp?no_header_alt=true) involve borrowing money to buy stocks that (you hope it will) go up. If you invest with, say, 3x the "money you never had", then the combined buying power of 4x will effectively give you the ability to make 4x the gains, using the money that you do have.
 
 > Take this example – you have $100 and borrow $50 to buy $150 of a stock. If the stock rises 10% ($165), you make $15, or a 15% return on your capital. But, if the stock declines 10% ($135), you lose $15, or a 15% loss. More importantly, if the stock goes up by 50% ($225), you make 75% return. But, if the stock declines 50% (\$75), you lose all your money!
 
@@ -174,8 +174,8 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - When it is November/December, and the price [went down during the year](https://www.reddit.com/r/stocks/comments/7b4x2z/end_of_year_selloff/). This can be claimed as investment loss... but [only if you sell it within the deadline](https://www.tsinetwork.ca/daily-advice/how-to-invest/capital-gains-in-canada-what-is-tax-loss-selling-2/). (Similarly, because you konw people will sell for tax credits, it is not wise to buy stocks in November/December, since they are likely to go down as people sell.)
 - ~~In 2019. 2020 is when the last of baby boomers reach the age of 60.~~ (But they don't just sell everything at once, so ignore me.)
 - When 10 years is up. That is enough time to guarantee a typical stock to have gone up.
-- Never, because you're holding and collecting dividends. Note that [buying high-dividend stocks is usually a tradeoff between growth and stability](https://www.reddit.com/r/StockMarket/comments/gcr7bi/-/fpdc2da), so you might want to hold off on these until you are near retirement.
-- [Never put yourself in a position where you _need to sell at a certain time_](https://www.thebalance.com/risks-when-selecting-equity-investments-356429). By doing so, you lose the "good stocks trend up after a long enough wait" advantage.
+- Never, because you're holding and collecting dividends. [Investing for capital gains (i.e. buy low sell high) is really hard... collecting dividends is so much simpler.](https://doorinvestor.com/tips/rich-dads-financial-lessons-from-a-cow/) Note that [buying high-dividend stocks is usually a tradeoff between growth and stability](https://www.reddit.com/r/StockMarket/comments/gcr7bi/-/fpdc2da), so you might want to hold off on these until you are near retirement.
+- [Never put yourself in a position where you _need to sell at a certain time_](https://www.thebalance.com/risks-when-selecting-equity-investments-356429). By doing so, you lose the "good stocks trend up after a long enough wait" advantage. "The stock market is a device for transferring money from the impatient to the patient." - Warren Buffett
 - When the insiders are selling (a lot). Insider stock selling is almost never a good sign. Unless they are retiring or something, why would someone with a good company sell?
 - Sell if stocks aren't appreciating (rising in value). They do nothing even if you hold on to them for a long time.
 - When there is a bubble. Warren Buffett, who famously lost 70% value in airline stocks, uses the [(Wilshire 5000...) Market cap / GDP index](https://fred.stlouisfed.org/graph/?g=qLC). Traditionally, there have always been something wrong whenever people haphazardly started putting money into stocks, but since the government can buy stocks, this index is not as reliable as you may think.
@@ -253,11 +253,10 @@ In other words, you pay for freedom. You can *stop paying when you settle down*.
 
 ## Precious metals
 
-* [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold.
+* [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold. [Gold price is affected by bond yields](https://www.thehindubusinessline.com/markets/gold/four-reasons-why-gold-has-dropped-to-an-8-month-low/article33869363.ece), for example: if bonds (a *very* safe asset) has a good enough yield, people won't need to buy gold to protect against inflation.
+* Or, [gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time. Who knows.
 * [Gold is not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp), but it is an "okay" diversifier. Gold also retains value and purchasing power no matter what civilisation you live in.
-* Gold is not "consumed", so the quantity of gold [used for investments] increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).
-* [Gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time.
-
+* Gold is not "consumed", so the quantity of gold (used for investments) increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).
 
 ## Bitcoin
 

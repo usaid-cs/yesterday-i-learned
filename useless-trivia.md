@@ -1,3 +1,4 @@
+- Sundar Pichai is the younger one with hair. Satya Nadella is the older, bald one. Both come from South-ish India.
 - Did you know? Pokemon human characters barely have noses.
 - The [VP of Engineering](https://www.youtube.com/watch?v=gOZFmFNl1uk) at WeWork [doesn't talk about having worked at WeWork](https://randyshoup.silvrback.com/bio).
 - [Cancel culture](https://nypost.com/article/what-is-cancel-culture-breaking-down-the-toxic-online-trend/) is cancelling a TV host or peronsality if they said or did something that offended you. So then the rest of them start to only say things you want to hear. It's a bad culture to have.
