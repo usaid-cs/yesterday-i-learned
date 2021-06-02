@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- `which foo`, `where foo`, `whereis foo`... all more or less the same thing, with different outputs.
 - Any IPv4 that starts with 127 will redirect to the loopback interface. So `127.1` is your special domain name. Additionally, since `localhost` appears in the hosts file pointing to `127.0.0.1`, the definition of `localhost` can be changed by you.
 - The mascot for [sudo](https://www.sudo.ws/) is an anthropomorphised sandwich, presumably from the xkcd joke, ["sudo make me a sandwich"](https://xkcd.com/149/).
 - "zsh", z-shell, is pronounced z shell. "ssh", secure shell, is pronounced "es es aych".

@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- [The best time to get an oil change is probably the spring](https://bobistheoilguy.com/forums/threads/best-time-to-do-once-a-year-oil-change.4712/). Something about changing out the weather-battered winter oil. The reverse (changing in the fall to prepare for battering winter weather) might also apply if you live somewhere that is particularly cold.
 - As long as it is not [*too* cold](http://jgdarden.com/batteryfaq/carfaq12.htm), [a colder climate is better for lead-acid batteries](https://old.reddit.com/r/MapPorn/comments/cwcwgg/a_map_of_car_battery_life_in_the_us_by/), apparently. Canada is *too* cold.
 - You can [put too much oil](https://www.reddit.com/gallery/jdgqow) into an engine. I don't know how much you should be putting in. Check your manual.
 - Hertz is known to (according to /u/Admirable_Nothing, anyway) sell rental cars that have gone through more wear and tear than Budget and Enterprise. Hertz makes more from car sales than from rentals.

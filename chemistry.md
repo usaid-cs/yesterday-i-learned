@@ -1,5 +1,8 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Aluminium is the only common metal, used as a metal, that is not considered [heavy](https://en.wikipedia.org/wiki/Heavy_metals). Other candidates include: alkali metals, every alkali earth metal except for radium, scandium, and yttrium.
+- Aluminium is spelled Aluminum in USA because British chemist [Humphry Davy](https://en.wikipedia.org/wiki/Humphry_Davy), in all his genius, named sodIUM and potassIUM, and thus named it alumIUM. The Germans complained that *alum* is not latin, so Davy changed it to aluminIUM... only to publish a book with the spelling aluminUM one year after. A [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) proposed *aluminium* instead, which ultimately stuck around. Both Davy and Young died 19 years later.
+- [Potassium Dichromate](https://en.wikipedia.org/wiki/Potassium_dichromate) (K2Cr2O7), your favourite inorganic oxidiser, is the 11th most common allergen included in the patch test (chromium is a common allergen). Hexavalent chromium is also a carcinogen.
 - [PVC fake leather lasts far longer than PU fake leather](https://bintangkaruniabadi.com/?p=2543) (5+ years vs 1~2 years before flaking off).
 - Seasalt is, like, 1 ~ 10% various other salts.
 - Hot vinegar *easily* cleans starchy pot stains.

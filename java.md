@@ -136,3 +136,6 @@ groovy:000> Boolean.valueOf('true')
 - There are [differences between `HashMap` and `HashTable`](https://beginnersbook.com/2014/06/difference-between-hashmap-and-hashtable/). Generally, a HashMap is better solution because it sounds like it is threadsafe.
 - [Enterprise JavaBeans](https://www.infoworld.com/article/2076777/a-beginner-s-guide-to-enterprise-javabeans.html) seem to be an architecture for running encapsulated code on a client-server setup. Client runs a bean wrapper of some sort. The server contains beans that run the code. This makes EJBs quite similar to a one-server microservice model, [with some low-level differences](https://stackoverflow.com/questions/30237292/is-the-microservices-architectural-pattern-similar-to-ejb-1-0).
 - Run Java applications in real time by [disabling GC](https://news.ycombinator.com/item?id=24897540). High frequency traders (who don't know how to write in anything else) do that.
+- It is common knowledge for java developers that "NPE" stands for `NullPointerException`.
+- The java repl is called `jshell`. If you have a JDK installed, you already have it.
+- If you add a number to a string (e.g. `"hello " + 5`), [you get the string](https://codegym.cc/groups/posts/int-to-string-java) `hello 5`. You do that in python, and you get a TypeError. So python is more strongly-typed than java in at least one way.

@@ -115,6 +115,7 @@
 - `ALTER TABLE ALTER COLUMN SET DEFAULT` only affects rows that are inserted/updated, not existing ones.
 - `ALTER TABLE ADD COLUMN ... DEFAULT` **does** affect existing rows, writing that default value into every row, **if** the postgres version is 10 or under.
 - Postgres [in particular](https://stackoverflow.com/a/20154382/1558430) allows multiple NULLs in a nullable, yet UNIQUE column. Other databases might not have the same behaviour.
+- [`ANALYZE foo;`](https://www.postgresql.org/docs/9.3/sql-analyze.html) updates the row estimates (`reltuples`) for that table.
 
 ## Performance
 

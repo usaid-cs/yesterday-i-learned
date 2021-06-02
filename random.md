@@ -1,6 +1,35 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
-- Impact drivers [can](https://www.deborahcopakenkogan.com/can-you-drill-with-an-impact-driver/) be used as a drill. So maybe we can thin of impact drivers as better drills.
+- The `X-Client-Data` header that Google Chrome sends with every request, can be used to uniquely identify you, but also cannot be disabled by the user.
+- Japanese choose not to have children [once every 60 years](https://blogs.worldbank.org/opendata/curse-fire-horse-how-superstition-impacted-fertility-rates-japan): [丙午](https://en.wikipedia.org/wiki/Hinoe_uma), or 1966. The next time this happens is 2026, and the time after that, 2086.
+- Google doesn't *sell* your data. Doing so would give advertisers one less reason to buy ads from Google. So yes, Google knows everything about you, but also yes, it has at least one incentive to keep it secure.
+- Thermo-electric coolers (TECs) are [not good enough at drawing heat from a CPU](https://www.youtube.com/watch?v=sWrqyQWfhrs), so they are not popular, though if your CPU is sufficently low in wattage, [companies do sell coolers for them](https://global.blackshark.com/products/black-shark-funcooler-2pro).
+- The [Hongkong and Shanghai Banking Corporation Holdings plc](https://en.wikipedia.org/wiki/HSBC), headquartered at [8 Canada Square](https://en.wikipedia.org/wiki/8_Canada_Square), is a British corporation.
+- Speaking of funky banks. [Mitsubishi](https://en.wikipedia.org/wiki/Mitsubishi_UFJ_Financial_Group) is the world's #5 bank.
+- [Land in Japan has real value](https://housekey.jp/does-japanese-real-estate-decrease-value-go-down/). [The house built on the land does not](https://www.theguardian.com/cities/2017/nov/16/japan-reusable-housing-revolution). Apparently the build quality after WWII is so bad that it makes no sense to maintain them, and to keep up with modern standards like earthquake resilience.
+- In the American version of the alphabet song, V rhymes with Z. In the British version of the alphabet song, T does not rhyme with Z.
+- "Linked" houses share a foundation. They do not appear linked above ground. Any linkage above ground results in a townhouse setup.
+- Europe and Japan have inter-generational mortgages. They can go for 60 to [100 years](https://www.sciencedirect.com/science/article/abs/pii/1061951895900047). This is how they promote home "ownership", while being basically rent.
+- "Elizabeth" ultimately came from Hebrew *Elisheva*, which meant "My God is an oath". Variants include Eli, Elise, Eliza, Elsa, Isabel/la, Lisa, Liz, Lizzy, Beth, and Betsy.
+- [*L'appel du vide*](https://en.wikipedia.org/wiki/Suicidal_ideation) is the strange thoughts that come to your mind, like wanting to jump when you are at the edge of a cliff, even though you were perfectly happy with being alive a moment ago.
+- A few bad apples *spoil the bunch*.
+- A "skinny bitch" is vodka, soda water, and lime juice.
+- In [`a = c++`](https://stackoverflow.com/a/16869073/1558430), `a` is assigned the value of `c` before it is incremented. You can remember this as "C++ will be C".
+- [Hump day](https://www.merriam-webster.com/dictionary/hump%20day) is Wednesday.
+- To avoid getting ingrown toenails, cut them when they are dry (supposedly wet nails rip instead of cut, which is worse, but I don't know enough to say whether it is true.)
+- There is a piece called [4'33"](https://www.youtube.com/watch?v=Oh-o3udImy8), which is the length of time of silence in the piece. No one plays anything.
+- You can kick the ball in volleyball.
+- Prefixing nonstandard headers with an `X-` was [deprecated](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields) in 2012 because those headers eventually become standard, but the `X-` is never removed.
+- A [negative cache](https://en.wikipedia.org/wiki/Negative_cache) caches even failures. It is used when computation is very expensive, where failures would otherwise lead to indefinite, expensive retries.
+- The Snapdragon 801 chipset was used in [both the OnePlus One and the Ingenuity helicopter in Mars](https://www.androidpolice.com/2021/04/19/the-cpu-inside-the-oneplus-one-takes-flight-on-mars/). Or the OG Pixel I guess. This made the helicopter [many orders of magnitude](https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars) higher in processing power than that on the rover that carried it.
+- "A roll" is really footage from the primary camera, and "B roll" is really footage from the secondary camera. B roll is allowed to be more creative, or in some ways, worse.
+- Terraform modules are defined by the `module` keyword. You then "use" a module with [`source = "..."`](https://learn.hashicorp.com/tutorials/terraform/module-create) to reference some other module.
+- What is the Japanese food [ebimayo](http://www.dailyunadventuresincooking.com/recipe/ebi-mayo-recipe-japanese-fried-shrimp/)? Don't overthink it. It is literally ebi (shrimp) + mayo (mayonnaise).
+- [GraphQL is strongly-typed](https://reactjs.org/blog/2015/05/01/graphql-introduction.html). This means a few things: you need to define those types; you typically need to [*statically*](https://docs.graphene-python.org/en/latest/quickstart/#creating-a-basic-schema) define those types; there is [no `Any` type](https://stackoverflow.com/questions/46402182/graphene-graphql-dictionary-as-a-type); it is a lot of repetitive work if you have already defined [similar interfaces](https://www.django-rest-framework.org/api-guide/serializers/).
+- Gold foil [keeps spacecraft warm](https://www.sciencefocus.com/space/what-is-the-function-of-the-golden-foil-that-covers-space-probes/), or cool, depending on where the sun is.
+- Generating an archive file (zip, tar.gz, tar.xz, 7z, whatever else) by reversing the file names first happens to [sort files by file type](https://news.ycombinator.com/item?id=26459184), which occasionally allows the archive to be compressed more efficiently. ["Note that sorting by type has some drawbacks." (...) NTFS volumes on hard drives will extract/compress the archive slower due to the sorted-by-name nature of the filesystem](https://www.7-zip.org/faq.html). To enable the former behaviour anyway, use `-mqs`.
+- A [livelock](https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/) is like a deadlock, except the two threads are constantly locking and unlocking two or more alternate resources, achieving nothing. An example would be [two people moving out of the way to let the other pass, just to be blocked again](https://www.guru99.com/what-is-livelock-example.html). In contrast, a deadlock is just a car breaking down on a one-lane highway.
+- Impact drivers [can](https://www.deborahcopakenkogan.com/can-you-drill-with-an-impact-driver/) be used as a drill. So maybe we can think of impact drivers as better drills.
 - There is no way a server can tell a client has aborted an HTTP request [until the server tries to send the client something](https://serverfault.com/questions/147886/what-happens-when-a-http-request-is-terminated-prematurely).
 - HTTP headers: [`no-cache` means the resource is explicitly cacheable](https://httptoolkit.tech/blog/http-wtf/), and the browser will definitely cache it, but should always ask the server if the resource is up to date. If you want "no caching" no cache, use `no-store` instead.
 - Statistically, [motorcycles are 35x more dangerous than cars](https://en.wikipedia.org/wiki/Aviation_safety#Statistics), while cars are themselves 7x more dangerous than buses.
@@ -2769,3 +2798,4 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - 诸葛亮 isn't actually known for fighting.
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
 - "Batt" insulation is precut fibreglass or rock wool insulation.
+- Whisky is from Scotland and whiskey is from Ireland. Supposedly. At least the two would like you to think that way.

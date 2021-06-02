@@ -1,3 +1,5 @@
+**Investing** is essentially [shorting a currency](https://www.youtube.com/watch?v=1HmGLV46L60), or telling the world that you have no faith in the currency. Which you should never have. Fiat currencies are worth nothing. Assets often have more tangible value (exceptions for which can be found below).
+
 # [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
 
 ## Terms

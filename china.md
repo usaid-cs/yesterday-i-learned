@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- [The top four banks are Chinese](https://en.wikipedia.org/wiki/List_of_largest_banks).
 - 水浸眼眉自然浮.
 - [Blocking one's right eye](https://unintendedconsequenc.es/the-owls-right-eye/) became the symbol of resistance against China. Fascinating article.
 - If "什" is used to mean "assorted" or "ten different things", then the pronunciation turns into shi2. Since that simplified character maps to 甚 as well, you can illicitly call it 甚錦 (what-sorted) or 甚菜 (what vegetables).

@@ -1,5 +1,9 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- The less you talk, the less likely someone will think you are stupid.
+- If [Princess Zahra Khanom Tadj es-Saltaneh of Persia](https://en.wikipedia.org/wiki/Zahra_Khanom_Tadj_es-Saltaneh) can be [considered beautiful](https://blog.usejournal.com/princess-qajar-and-the-problem-with-junk-history-memes-44e15260af67), then you can, too. Apparently it was cool for a woman to sport a moustache back then.
+- "No man should ever get between his wife and her ice cream" - [LockPickingLawyer](https://www.youtube.com/watch?v=lod_LUp3ggc)
+- Don't go around getting [medical tests](https://www.23andme.com) for something if the results from the test won't change what you do and how you treat it.
 - "Don't bother spending 400\$ on a door lock if you don't have a door that can't be kicked in."
 - [Everyone has the right to be mad](https://mamibuy.com.tw/talk/article/155904). Their anger is *your* doing, whether or not you did anything. Let them throw pillows until they feel tired.
 - "Fake it til you make it" quickly devolves into the imposter syndrome.

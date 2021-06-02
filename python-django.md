@@ -27,6 +27,7 @@
 - Django does not support [ENUM](https://www.postgresql.org/docs/9.1/datatype-enum.html) types.
 - [Deconstruction](https://docs.djangoproject.com/en/2.2/howto/custom-model-fields/#field-deconstruction), as far as Django fields are concerned, is the _opposite of construction_, or: how to turn a field instance into arguments that, when used to call `SomeField.__init__`, to recreate the field instance with the same values. (The other word choice is "Destruction".)
 - [ORM code (read: IO) is apparently async-unsafe](https://docs.djangoproject.com/en/3.0/releases/3.0/#asgi-support) so now I don't know what the whole point is.
+- [Check constraints](https://docs.djangoproject.com/en/2.2/ref/models/constraints/) are available after Django 2.2.
 
 ### `PositiveSmallIntegerField`
 
@@ -293,6 +294,7 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 ## REST Framework
 
 - A `Serializer` can validate `request.query_params` (especially query strings that have repeated keys), but once you convert the query params to a `dict`, it cannot do the same thing anymore.
+- A viewset literally [creates one view for every list or detail method](https://github.com/encode/django-rest-framework/blob/1e383f103a1a84461e949e59b001ee61a2e0f7c4/rest_framework/viewsets.py#L103), and then [overwrites your view's (http verb) handler to be that method](https://github.com/encode/django-rest-framework/blob/1e383f103a1a84461e949e59b001ee61a2e0f7c4/rest_framework/viewsets.py#L118).
 
 ## Testing
 

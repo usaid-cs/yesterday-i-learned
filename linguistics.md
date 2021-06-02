@@ -2,6 +2,11 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "Thy" and "Thine" used to be [analogues](https://english.stackexchange.com/a/406491) of "your" and "yours". But sometimes it gets confusing because "thine" is used if the word after "thy" begins with a vowel sound, like "thine eyes".
+- *Wasabi* is phonetically derived from the Chinese words 委佐俾. But they write it as 山葵, which does not sound at all like wasabi. This is because Japanese have a system called 平假名 (hiragana), which... means you read one thing but say another? I am not sure.
+- Just like other words that begin with a P, the P in *psychologie* is pronounced [as if there is no special rule for it](https://www.lawlessfrench.com/pronunciation/p/).
+- "MacDonald" means [Donald's son](https://en.wikipedia.org/wiki/Irish_name). If the child is a daughter, then the last name becomes *Nic Donald* or similar. *O'Donald* is the male version of "descendant of Donald"; if you are female in some way, you end up using *Ní Donald* probably.
+- "Milquetoast" means timid. People have come to understand it as "milk toast".
 - What a husband does is [husbandry](https://www.google.com/search?q=husbandry): the care, cultivation, and breeding of crops and animals. The word [husband](https://en.wikipedia.org/wiki/Husband) meant "homeowner" (*hūs-* + *būandi*).
 - [Baobab](https://en.wiktionary.org/wiki/baobab#Pronunciation) is pronounced "bay-oh-bab", but only in English. In other languages, you just say "bao".
 - "Dilettante": a person who has an interest, but not commitment or knowledge in something. Like me, collecting useless facts.

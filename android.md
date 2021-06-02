@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- [Phone cases do not negatively impact thermal performance](https://www.youtube.com/watch?v=G7-Fa9KzhxQ), as long as the screen is exposed.
 - Under-screen fingerprint scanners require a transparent window over the screen, the screen protectors of which might try to do something like [having a patch of glue wherethe scanner is](https://old.reddit.com/r/galaxynote10/comments/le1k81/i_got_tempered_glass_professionally_installed_and/). The cheap ones might only have that glue at the scanner. More expensive ones will have a uniform-looking screen.
 - "Cheap phones are getting good" because [people call $700 phones "budget" now](https://www.androidpolice.com/2020/12/23/i-am-very-happy-that-budget-smartphones-finally-really-dont-suck/).
 - The Samsung Galaxy brand started from [some Samsung executives liking a particular brand of wine, called the Galaxy](https://www.youtube.com/watch?v=QMJ2YonPS8g) made in Napa Valley.

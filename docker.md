@@ -36,6 +36,7 @@
 - [There is no difference between `docker ps` and `docker container ls`.](https://stackoverflow.com/a/45254760/1558430) Both list your containers.
 - [`VOLUME /foo`](https://docs.docker.com/storage/volumes/) creates some kind of mount at... some place's `/foo`. The container can access `/foo` and see files there. Then `/foo` is never deleted, and the same container can see the volume again when it restarts. Where is `/foo` actually? `/var/lib/docker/volumes/`. You can find them with `docker volume ls`.
 - `RUN` is a step inside the dockerfile that runs commands inside a docker image. [`CMD`](https://nickjanetakis.com/blog/docker-tip-7-the-difference-between-run-and-cmd) defines a default thing to run when the container starts (usually as the command that runs your application server), but doesn't run the `CMD` when the image is being built.
+- Each `RUN` adds a layer of IO diffs that may increase the final image size. So geniuses at stack overflow recommend [running everything with a single `RUN` statement](https://stackoverflow.com/questions/39223249/multiple-run-vs-single-chained-run-in-dockerfile-which-is-better) where it makes sense.
 
 ## Docker compose
 

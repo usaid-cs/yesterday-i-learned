@@ -87,6 +87,10 @@ for data in datas:
     return means
 ```
 
+## One-pass random selection
+
+If you need to, say, "get one random line from a file", and you don't want to keep every line in memory, then [replace the current line with the next line at a decreasing probability](https://www.wikiwand.com/en/Reservoir_sampling#/An_optimal_algorithm) of 1/(number of lines read). It is equivalent to picking the nth line at random.
+
 ## "Space-time tradeoff"
 
 [Space-time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff) is usually "trade space for speed", rather than "trade speed for space". You frequently see things like caches (space for speed) and hashes (space for speed). There are occasions where space is limited (like in firmware), but they are comparatively rare.
@@ -245,3 +249,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - [Embarrassingly parallel](https://en.wikipedia.org/wiki/Embarrassingly_parallel) means "embarrassing in riches", i.e. an overbundance of places where your code can run in parallel.
 - Microservices don't help scale the service... they only help scale development. ["If you don't have the organization structured for "independent services", then microservices will likely fail."](https://old.reddit.com/r/programming/comments/jznvbz/the_macro_problem_with_microservices/gddh7lh/)
 - When they say ["write code ... mostly functions"](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions), they mean *pure* functions, with no side effects.
+- Array access is O(1) because the address for any item is (address + index)---which takes O(1) to compute---and then we specifically ignore the cost of memory access, which may be [close to O(log n)](https://stackoverflow.com/a/20961951/1558430) in hardware, but we don't talk about that.

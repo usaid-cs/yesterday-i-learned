@@ -296,3 +296,4 @@ WeakMap allows [garbage collection](https://stackoverflow.com/questions/29413222
 ## Strings
 
 - [Functions can be called without parentheses if the argument is a template string](https://michelenasti.com/2018/09/19/Javascript-chiamare-funzioni-senza-usare-parentesi-%28what!%29.html). This is called a [tagged template](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals). ` hello ``Michele``` calls `hello`with`Michele`sure, but`hello `Michele`, ``foo``` calls `hello` with `foo`, so it is not readable.
+- There is an [string.endsWith](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith) now. Otherwise, the way to do it is checking if the substring of the larger string is exactly your search string, i.e. `haystack.substring(haystack.length - needle.length, haystack.length) === needle`.

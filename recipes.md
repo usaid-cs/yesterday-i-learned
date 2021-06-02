@@ -71,6 +71,18 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Apply beef balls and brisket.
 - Serve with bean sprouts, basil, and **lime**.
 
+## Shrimp salad
+
+- Cut one red onion into strips.
+- Chop one bunch of coriander into 2cm^3 pieces.
+- Mince three cloves of garlic.
+- Boil whatever amount of shrimp and squid you want. Chill in ice bath.
+- Add one lime's worth of lime juice.
+- Chop 0.25 limes into thin slices.
+- Chop two Thai chilis.
+- Combine all of the above in a bowl. Stir.
+- Add sugar, chicken powder, fish sauce and soy sauce to taste.
+
 # Dinner
 
 ## Stir fry
