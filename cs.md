@@ -250,3 +250,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - Microservices don't help scale the service... they only help scale development. ["If you don't have the organization structured for "independent services", then microservices will likely fail."](https://old.reddit.com/r/programming/comments/jznvbz/the_macro_problem_with_microservices/gddh7lh/)
 - When they say ["write code ... mostly functions"](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions), they mean *pure* functions, with no side effects.
 - Array access is O(1) because the address for any item is (address + index)---which takes O(1) to compute---and then we specifically ignore the cost of memory access, which may be [close to O(log n)](https://stackoverflow.com/a/20961951/1558430) in hardware, but we don't talk about that.
+- "Marshalling" is the almost same

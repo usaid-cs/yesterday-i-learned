@@ -1,3 +1,9 @@
+- Pickle juice is [an excellent source of whatever reduces cramps](https://pubmed.ncbi.nlm.nih.gov/19997012/).
+- [Domesticated animals have much smaller adrenal glands than wild animals](https://www.varsity.co.uk/science/19923). This is what makes them, "tame".
+- Symptoms of brain fog include [searching for words all the time, having difficulty making up your mind for small decisions, and losing focus quickly](https://www.cbc.ca/news/canada/kitchener-waterloo/brain-fog-jennifer-moss-1.5920856). Solution? Exercise.
+- [Babies naturally get jaundice](https://en.wikipedia.org/wiki/Neonatal_jaundice). The less mature it is born, the more likely it will be yellow for the first few weeks.
+- Robins poop in [bags](https://en.wikipedia.org/wiki/Fecal_sac) that the parent robins can pick up and get out of the nest (to keep it clean).
+- [Cox-1](https://en.wikipedia.org/wiki/PTGS1) inhabitors inhibit the production of certain [prostaglandins](https://en.wikipedia.org/wiki/Prostaglandin_E2), something that (somehow) produces mucus to protect the stomach lining. So taking advil leaves the stomach lining vulnerable to [being eaten by itself](https://en.wikipedia.org/wiki/Peptic_ulcer_disease).
 - [Dead skin helps retain moisture](https://hellogiggles.com/beauty/dead-skin-cells-build-up/). There is no need to slough it off.
 - Water with bath salts doesn't wrinkle your skin. This is the main case for using bath salts.
 - Llamas poop looks like maltesers.

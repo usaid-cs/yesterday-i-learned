@@ -1,5 +1,6 @@
 🇨🇦
 
+- ["Residential Schools"](https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system), not really schools but a way to pull children away from their native parents to assimilate them, were [breeding grounds for tuberculosis](https://thetyee.ca/Analysis/2021/06/02/National-Crime-Residential-Schools/), killing 1 in 50 "students". Other stuff that reportedly happened in there includes: sexual assault, physical assault, malnourishment, overcrowding, poor sanitation, poor ventilation, inadequate heating, and a lack of medical care. So, basically [concentration camps for Indian kids](https://i.imgur.com/SG5TquV.png).
 - Innerkip has a water hardness of [1g/L](https://www.aquatell.ca/pages/water-hardness-level-by-city-ontario) ("1 gram in your litre bottle of water isn't actually water"), which is quite terrible.
 - Half of [the Broadwalk](https://goo.gl/maps/kJjR5YWWx2h5fXiN8) is in Kitchener, and the other half is in Waterloo.
 - Condominiums have rules regarding roommates and pets. Houses have rules regarding parking spaces, driveways, lawns, and general property management.

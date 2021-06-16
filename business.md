@@ -27,6 +27,7 @@
 - Don't attempt to manage unmotivated people.
 - Give feedback frequently and directly.
 - Fire quickly.
+- With that said, if you manage a company that has bad "culture", [firing people has even more negative consequences on the culture](https://hbr.org/2018/11/case-study-can-you-fix-a-toxic-culture-without-firing-people).
 - Listen when people explain the reasoning behind their decisions.
 - Define success clearly, so people can meet it.
 - "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."

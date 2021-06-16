@@ -1,5 +1,9 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Circuit breakers only protect the wiring *inside* your walls from melting](https://www.youtube.com/watch?v=K_q-xnYRugQ). Outside the walls, if you draw 10A with a cable that can only handle 5A from the wall (which can handle say 15A), you still get a house fire.
+- SPF 15 means 1/15 of the sun will reach the skin. There is no sunscreen that claims to block 100% of light.
+- ["The ($649) Dyson is a cool-looking fan, but the traditional ($15) walmart fan is a better cooling fan"](https://www.youtube.com/watch?v=dS0oFmzU06g) - Mark Spurrell
+- Pixar was a hardware company. Steve Jobs bought it as a hardware company. It was [almost by fluke](https://www.youtube.com/watch?v=8F2808APBBg) that the company used their own graphics computers---which didn't sell well---to pivot into an animation company.
 - The `X-Client-Data` header that Google Chrome sends with every request, can be used to uniquely identify you, but also cannot be disabled by the user.
 - Japanese choose not to have children [once every 60 years](https://blogs.worldbank.org/opendata/curse-fire-horse-how-superstition-impacted-fertility-rates-japan): [丙午](https://en.wikipedia.org/wiki/Hinoe_uma), or 1966. The next time this happens is 2026, and the time after that, 2086.
 - Google doesn't *sell* your data. Doing so would give advertisers one less reason to buy ads from Google. So yes, Google knows everything about you, but also yes, it has at least one incentive to keep it secure.

@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- [High-pressure fuel engines are more likely to have unintended engine knocks](https://www.youtube.com/watch?v=Bb5VfiFy0kY). Naturally-aspirated engines don't have that problem.
 - [The best time to get an oil change is probably the spring](https://bobistheoilguy.com/forums/threads/best-time-to-do-once-a-year-oil-change.4712/). Something about changing out the weather-battered winter oil. The reverse (changing in the fall to prepare for battering winter weather) might also apply if you live somewhere that is particularly cold.
 - As long as it is not [*too* cold](http://jgdarden.com/batteryfaq/carfaq12.htm), [a colder climate is better for lead-acid batteries](https://old.reddit.com/r/MapPorn/comments/cwcwgg/a_map_of_car_battery_life_in_the_us_by/), apparently. Canada is *too* cold.
 - You can [put too much oil](https://www.reddit.com/gallery/jdgqow) into an engine. I don't know how much you should be putting in. Check your manual.
@@ -228,7 +229,7 @@
 - And if you don't pay for a repair, the shop can just seize and sell your car. So the trick is to buy a car that is worthless when sold.
 - Depending on the trim, the [2017 Tacoma](https://www.toyota.ca/toyota/en/vehicles/tacoma/overview) has either the badge on the front (normal ones) or `T O Y O T A` (TRD pro). In other news, "oh yeah, the 2015 Yaris is so ugly, they can't possibly make it wors-[well what do you know.](https://preview2.netcarshow.com/Toyota-Yaris-2017-1600-0e.jpg)"
 - [Clutches are in their resting position when down](https://au.answers.yahoo.com/question/index?qid=20080214204415AAAYoox).
-- On fuel octane rating: Most countries use MON, US uses RON/MON average, which results in a lower number. MON 91 is the US 87.
+- On fuel octane rating: Most countries use MON, US uses RON/MON average, which [results in a lower number](https://www.youtube.com/watch?v=Bb5VfiFy0kY). MON 91 is the US 87.
 - Turbochargers force air into the engine using waste exhaust air pressure, which is why it has a lag. Superchargers force air into the engine using pulleys (or fans) that are always pumping air into the engine, which is why it has no lag, but has a base performance penalty.
 - The automative "blind spots" exist no matter how you adjust your mirrors because [even though you follow this guide, you can still kill motor cyclists close to you](http://pages.cs.wisc.edu/~gdguo/driving/BlindSpot.htm).
 - Typical chip repair kits work by first creating a vacuum in the presence of a resin, then applying air pressure once the resin fills the space where the air once was.
