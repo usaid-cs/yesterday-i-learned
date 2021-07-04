@@ -1,3 +1,6 @@
+- The 1995 edition of TVB's 神鵰俠侶 had a Cantonese [opening theme song](https://www.youtube.com/watch?v=nmiRnVgnSZ8) that was sung by [someone](https://zh.wikipedia.org/zh-hk/%E9%BD%8A%E8%B1%AB) who didn't know Cantonese.
+- "I see London, I see France" means someone's underwear is showing.
+- Seinfeld's apartment [is an end unit along the hallway](https://imgur.com/rOKdlxZ), but with [a kitchen that goes into it](https://i.redd.it/s1r79wvqs0r61.png). [This](https://my.matterport.com/show/?m=zEWsxhZpGba&play=1&qs=1&sr=-2.8,-.04&ss=3) is the film set.
 - Sundar Pichai is the younger one with hair. Satya Nadella is the older, bald one. Both come from South-ish India.
 - Did you know? Pokemon human characters barely have noses.
 - The [VP of Engineering](https://www.youtube.com/watch?v=gOZFmFNl1uk) at WeWork [doesn't talk about having worked at WeWork](https://randyshoup.silvrback.com/bio).

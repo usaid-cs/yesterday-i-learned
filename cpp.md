@@ -63,9 +63,9 @@ struct B : A { };  // Has all A's fields
 - Macros are not substituted in macros. (Otherwise `#ifdef`s will get complicated)
 - Headers can contain other headers, but should not.
 - Rule: When addressing compile errors in your programs, always resolve the first error produced first.
+- Vectors are just dynamic arrays. A vector comes with convenient functions like [`push_back()`](http://www.cplusplus.com/reference/vector/vector/push_back/) and `pop_back()` to use a vector as a queue or a stack.
 - Compared to arrays, **vectors** consume more memory in exchange for the ability to manage storage and [grow dynamically](http://stackoverflow.com/a/6632991/1558430) in an efficient way. Use vector unless you have a very, very small array, and know what you are doing.
 - If both a `<foo>` and `<foo.h>` exists, then the `.h` version is deprecated. Use the non-h version.
-- What is normally called `append()`, C++ calls [`push_back()`](http://www.cplusplus.com/reference/vector/vector/push_back/).
 - When used to get strings, [`cin >> a_string` will only get the input up to a space](http://www.cplusplus.com/doc/tutorial/basic_io/). To get the whole line, use `getline(cin, a_string)` instead.
 - [Anything created with `new` and not `delete`d is automatically leaked.](http://stackoverflow.com/questions/7242493/how-to-create-a-memory-leak-in-c) [Anything manually allocated with `malloc` and not `free`d is also automatically leaked.](http://www.geeksforgeeks.org/what-is-memory-leak-how-can-we-avoid/)
 - [Use `delete` by itself to free a single object. Use `delete []` with square brackets to free a heap array.](http://stackoverflow.com/a/8417851/1558430)

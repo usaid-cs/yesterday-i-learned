@@ -251,3 +251,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - When they say ["write code ... mostly functions"](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions), they mean *pure* functions, with no side effects.
 - Array access is O(1) because the address for any item is (address + index)---which takes O(1) to compute---and then we specifically ignore the cost of memory access, which may be [close to O(log n)](https://stackoverflow.com/a/20961951/1558430) in hardware, but we don't talk about that.
 - "Marshalling" is the almost same
+- [On data ensapsulation in OO](https://stackoverflow.com/questions/2747721/getters-and-setters-are-bad-oo-design): "don't ask for the information you need to do the work; ask the object that has the information to do the work for you."

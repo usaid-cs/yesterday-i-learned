@@ -1,5 +1,13 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- An older population causes labour shortage, which can cause inflation because everyone who earns money can demand more.
+- The same hardware model can be made with [different, inferior parts](https://www.reddit.com/r/videos/comments/o9nr8e/-/h3c7wu9) after the first month, when reviewers typically review them. When in doubt, buy from vertically-integrated manufacturers, like Samsung.
+- To compute how well your vision compared to others, get your two numbers (e.g. 20-20) and divide them. 20/20 = 1 (the same as everyone else); 20/10 = 2 (twice as good as everyone else).
+- Particle board is made with wood chips. IKEA makes "environmentally-friendly" single-use furniture with it.
+- "Cutting against the grain" is just telling you to cut the muscle fibres with your knife.
+- While the conventional [Schrader valve](https://en.wikipedia.org/wiki/Schrader_valve) (used on car and bike tires) dominates the market, some bicycle tires come with the [Presta valve](https://www.bicycling.com/repair/a20048610/the-difference-between-a-schrader-valve-and-a-presta/), which are narrower to allow for a stronger bike wheel, with [some very serious caveats](https://www.bikeradar.com/features/this-is-why-its-time-to-stop-using-presta-valves/).
+- Cedar is a soft wood that [readily absorbs protectants](https://weatherwise.ca/2017/02/03/cedar-vs-spf-whats-the-difference/). It also contains tannins, which help preserve the wood. Cedar might look a bit darker? But more importantly, cedar smells good.
+- A deck can be infinitely close to the ground and still be called a deck if the underlying ground is uneven. Patio material is poured over ground, making the distance zero.
 - [Circuit breakers only protect the wiring *inside* your walls from melting](https://www.youtube.com/watch?v=K_q-xnYRugQ). Outside the walls, if you draw 10A with a cable that can only handle 5A from the wall (which can handle say 15A), you still get a house fire.
 - SPF 15 means 1/15 of the sun will reach the skin. There is no sunscreen that claims to block 100% of light.
 - ["The ($649) Dyson is a cool-looking fan, but the traditional ($15) walmart fan is a better cooling fan"](https://www.youtube.com/watch?v=dS0oFmzU06g) - Mark Spurrell

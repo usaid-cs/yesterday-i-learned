@@ -1,3 +1,4 @@
+- 90210 is in Beverly Hills, not Hollywood. Hollywood is right next to Beverly Hills, though.
 - Despite all the bad press about anti-vaxxers and anti-maskers, the SARS-CoV2 virus only infected around one out of ten Americans.
 - Almost every non-highway road is a ["stroad"](https://www.strongtowns.org/journal/2018/3/1/whats-a-stroad-and-why-does-it-matter), long stretches of roads (where vehicles can go at high speed), that also behave as streets (allowing some of them to stop abruptly or turn left/right). Apparently that's [awful city planning](https://www.youtube.com/watch?v=ORzNZUeUHAM).
 - Every state, other than Montana, lets your employer [fire you for no reason](https://en.wikipedia.org/wiki/At-will_employment#By_state).

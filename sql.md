@@ -148,6 +148,7 @@
 - The source table (the table having the foreign key to another table) [does not require an index on the foreign key](https://www.cybertec-postgresql.com/en/index-your-foreign-key/). If you query by that field a lot, you should make an index there.
 - A subquery without saying `LIMIT 1` instantly ruins the performance of the outer query.
 - [An index is automatically created for all primary keys and unique constraints](https://stackoverflow.com/a/970605/1558430), but [not](https://stackoverflow.com/a/48793428/1558430) for foreign keys... unless [you use Django](https://stackoverflow.com/a/6010542/1558430). which makes an index for foreign keys as well.
+- While [foreign data wrapper (`postgres_fdw`)](https://www.postgresql.org/docs/9.5/postgres-fdw.html) helps you retrieve data across different databases, doing a join on them is costly (because "semi-joins" need to be sent to another system, said someone on the internet). [Do a subquery where possible](https://thoughtbot.com/blog/postgres-foreign-data-wrapper).
 
 ## Troubleshooting
 

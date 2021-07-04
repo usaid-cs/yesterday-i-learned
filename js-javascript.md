@@ -144,6 +144,7 @@ undefined
 - If the builder pattern allows the `.` in `.foo()` to be the first character for the line, then `,` can also be the first character in an object for the sake of having smaller diffs.
 - Leaflet allows you to build any map, not just what's on earth. You can make [a map for Zelda](https://mrcheeze.github.io/botw-object-map/) if you wanted to.
 - There are multiple event loops: the normal one, to handle `setTimeout` and such; and another one for [microtasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/), to handle promise resolution, apparently. Microtasks are processed before normal tasks.
+- The [comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator) evaluates everything from left to right, and then returns the last item. But beware: in `a = (1, 2)`, `2` is assigned to `a` because `2` is the last item. However, if you do `a = 1, 2`, `a = 1` is evaluated first, so `a` is `1`.
 
 ## About JavaScript
 
@@ -237,6 +238,15 @@ undefined
 ## WebRTC
 
 - Feeling evil? Great! WebRTC allows you to [get the user's internal IP](http://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript-only/32841164#32841164), track people without [having the network request show up on the network panel](http://www.imanevilblogger.net/tag/disable-webrtc/), take [pictures of heads](http://auduno.com/post/25125149521/head-tracking-with-webrtc) (?), and more!
+
+## RxJS
+
+- It's a [reactivex](http://reactivex.io/) library for JS, which implements the [observer pattern](https://en.wikipedia.org/wiki/Observer_pattern). In the observer pattern, an object notifies subscribers of any changes.
+- [RxJS's `tap()`](https://rxjs.dev/api/operators/tap) lets you put side effects in callbacks, instead of putting them in `map`.
+- `Observable`s are so lazy, [they are not executed until `.subscribe()` is called on them](https://www.syncfusion.com/blogs/post/angular-promises-versus-observables.aspx).
+- Use [`from(promise)`](https://angular.io/guide/rx-library#observable-creation-functions) to create an observable from a promise.
+- An observable emits an update via [`observer.next(value)`](https://rxjs.dev/guide/observable#anatomy-of-an-observable).
+- Once `observer.complete()` is called, any subsequent calls of `.next()` will not trigger an [observer's `next()`](https://rxjs.dev/guide/observer).
 
 ## [Writing memory-efficient JavaScript](http://www.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
 

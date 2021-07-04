@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- When you go on a vacation, [turn off your water and water heater, but not the heat](https://old.reddit.com/r/HomeImprovement/comments/o9qbc1/going_away_for_vacation_for_a_week_and_a_half/). Turn it back on **slowly** when you return. Turn off your gas and ice maker too, while you are at it.
+- "Caskets and coffins are a surprisingly good deal at Costco." - [businessinsider](https://www.businessinsider.com/costco-what-to-buy-best-deals-2019-4#buy-caskets-46)
 - "Take care of yo' body" - [paraphrasing Robin Hobb](http://www.robinhobb.com/blog/posts/38429), who put it together rather nicely
 - The less you talk, the less likely someone will think you are stupid.
 - If [Princess Zahra Khanom Tadj es-Saltaneh of Persia](https://en.wikipedia.org/wiki/Zahra_Khanom_Tadj_es-Saltaneh) can be [considered beautiful](https://blog.usejournal.com/princess-qajar-and-the-problem-with-junk-history-memes-44e15260af67), then you can, too. Apparently it was cool for a woman to sport a moustache back then.

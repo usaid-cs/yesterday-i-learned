@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- A dealer is someone who sells cars, or deals cards. A dealership is where the dealers are.
 - [High-pressure fuel engines are more likely to have unintended engine knocks](https://www.youtube.com/watch?v=Bb5VfiFy0kY). Naturally-aspirated engines don't have that problem.
 - [The best time to get an oil change is probably the spring](https://bobistheoilguy.com/forums/threads/best-time-to-do-once-a-year-oil-change.4712/). Something about changing out the weather-battered winter oil. The reverse (changing in the fall to prepare for battering winter weather) might also apply if you live somewhere that is particularly cold.
 - As long as it is not [*too* cold](http://jgdarden.com/batteryfaq/carfaq12.htm), [a colder climate is better for lead-acid batteries](https://old.reddit.com/r/MapPorn/comments/cwcwgg/a_map_of_car_battery_life_in_the_us_by/), apparently. Canada is *too* cold.

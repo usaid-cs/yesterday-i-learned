@@ -4,7 +4,7 @@
 
 ## Types
 
-- Numbers: `number` (according to [the handbook](http://www.typescriptlang.org/Handbook), it is to be in lower case)
+- Numbers: `number` (according to [the handbook](http://www.typescriptlang.org/Handbook), it is to be in lower case because `number` is the primitive type, while `Number` is the object type)
 - Strings: `string`
 - Typed arrays: `number[]`
 - The `any` type literally means anything. It may well be omitted; the only use of it is to prevent errors when interacting with JS code.

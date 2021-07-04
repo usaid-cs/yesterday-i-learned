@@ -1,3 +1,5 @@
+- ES6 was the last big ECMAScript release. After that, they decided to make a new release every year, starting from the year 2016.
+
 ## `for`
 
 - [`for a in b`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in) loops over indexes in an array, or keys in an object. Anyway Mozilla says [there's no point in using `for...in` apart from debugging purposes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#Why_Use_for...in); use `[].forEach` or `for...of` instead.
@@ -211,6 +213,8 @@ engineer = Proxy(engineer, interceptor);
 
 was previously available with an awkward syntax in ES5.
 
+* If a getter `length` returns `0`, then `foo.length === 0` will always be true because the getter is evaluated first.
+
 - Generators require that ugly asterisk after `function`:
 
 ```
@@ -267,6 +271,7 @@ Importing the two named exports under the same names
 - `import` is [not](http://adrianmejia.com/blog/2016/08/12/Getting-started-with-Node-js-modules-require-exports-imports-npm-and-beyond/#Imports) available in node 6.
 - Use [the `module` script type](https://developers.google.com/web/fundamentals/primers/modules), i.e. `<script type="module" src="foo.ejs">`, and you can import things in your script.
 - [Modules are evaluated only once](https://developers.google.com/web/fundamentals/primers/modules), while classic scripts are evaluated however many times you add them to the DOM.
+- Due to the unique way JavaScript is funded, `import` is a hard keyword, but `from` and `of` are not, despite clearly being used in constructs `import ... from ...` and `for ... of ...`.
 
 ## Async/Await (ES7)
 

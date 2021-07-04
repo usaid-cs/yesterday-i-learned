@@ -66,7 +66,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 - [js-angular.md](js-angular.md)
 - [js-angularjs.md](js-angularjs.md)
 - [js-coffeescript.md](js-coffeescript.md)
-- [js-ecmascript-6.md](js-ecmascript-6.md)
+- [js-ecmascript.md](js-ecmascript.md)
 - [js-javascript.md](js-javascript.md)
 - [js-nodejs.md](js-nodejs.md)
 - [js-reactjs.md](js-reactjs.md)

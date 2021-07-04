@@ -134,6 +134,8 @@ Further reading: [0001.md](sources/0001.md)
 
 - [Buy the rumour sell the news](http://www.investopedia.com/stock-analysis/2010/buy-on-the-rumor-sell-on-the-news-vod-vz-t-aapl-goog0706.aspx): traders typically dump shares immediately after a new product is introduced. You should therefore buy the shares somewhere around two weeks after the release, and sell a week before the hype cycle comes to a close.
 - Don't try to "time the market" (predicting its movements and buying and selling accordingly). You may get lucky, but will not succeed over the long term. [Investing consistently results in you buying both the top and the dip](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/), evening out the worst of crashes.
+- When [bonds are doing well](https://www.cbc.ca/news/business/there-s-good-economic-news-on-the-horizon-and-that-s-rattling-markets-wait-what-1.5929855), stocks tend to do not so well. Then again, it will probably not drop by much... just corrections.
+- If a company dilutes the stock pool with more stocks, the price should go down, and so should other metrics (P/E, P/B, whatever) that go with it.
 
 #### To buy
 
@@ -256,6 +258,7 @@ In other words, you pay for freedom. You can *stop paying when you settle down*.
 ## Precious metals
 
 * [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold. [Gold price is affected by bond yields](https://www.thehindubusinessline.com/markets/gold/four-reasons-why-gold-has-dropped-to-an-8-month-low/article33869363.ece), for example: if bonds (a *very* safe asset) has a good enough yield, people won't need to buy gold to protect against inflation.
+* On the contrary, if the fed increases interest rates, then the price of gold drops because there is no need for good as an inflation hedge.
 * Or, [gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time. Who knows.
 * [Gold is not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp), but it is an "okay" diversifier. Gold also retains value and purchasing power no matter what civilisation you live in.
 * Gold is not "consumed", so the quantity of gold (used for investments) increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).

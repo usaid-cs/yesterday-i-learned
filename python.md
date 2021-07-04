@@ -634,3 +634,4 @@ bar
 - Having `def foo(self)` follows the "explicit is better than implicit" idiom. `thing.foo()` without the `self`, does not.
 - The [borg pattern](https://www.oreilly.com/library/view/python-cookbook/0596001673/ch05s23.html) uses `self.__dict__` in `__init__` to simulate a singleton with multiple copies of the "same" object. It is unclear why anyone would do that over [metaclass-produced singletons](https://stackoverflow.com/a/1318426/1558430).
 - Python has a GIL because [it chose to be compatible with C libraries, but C libraries are not threadsafe](https://old.reddit.com/r/programming/comments/mrs0ut/why_is_python_popular_despite_being_accused_of/gup4o63/). It was also fine at the time because computers were single-core back then.
+- If you implement `__getattr__` that never raises an AttributeError, `hasattr()` is going to tell you that every attribute exists.
