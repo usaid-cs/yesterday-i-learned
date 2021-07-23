@@ -51,6 +51,7 @@ Bonds values do not correlate to stock market performance, so when the stock mar
 Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
 
 * In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
+* Think of bonds as an inflation hedge (like precious metals) that have a minimum "return", but also have a maximum. In the case of hyperinflation, precious metals don't have a maximum "return".
 * You can tell how screwed bonds/bond funds are by looking at the [bond yield](https://ca.investing.com/rates-bonds/canada-5-year-bond-yield), which is a number posted by some... one. When that gets close to 0%, you should sell. And when it actually hits 0% (once inflation is taken into account), it is a signal that you *must* sell.
 
 ### Mortgage-backed securities, CDOs, Credit-default swaps, synthetic CDOs
