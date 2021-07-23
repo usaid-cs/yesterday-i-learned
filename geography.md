@@ -1,3 +1,4 @@
+- [Pacific and Atlantic ocean waters don't mix](https://www.geologypage.com/2017/11/atlantic-pacific-ocean-not-mix.html). Their [difference in salinity](https://en.wikipedia.org/wiki/Halocline), temperature, and direction of flow make them hard to mix together.
 - A [bog](https://sierraclub.bc.ca/a-marsh-a-bog-a-swamp-a-fen/) is nutrient-poor. A fen has slow-flowing water that might have nutrients.
 - The [South Pole](https://en.wikipedia.org/wiki/South_Pole) is the dryest place on Earth, at ~0% relative humidity. For practicality, the South Pole follows New Zealand's time.
 - There is no particular why [north is up](https://geog.ucsb.edu/why-is-north-up-on-maps/).

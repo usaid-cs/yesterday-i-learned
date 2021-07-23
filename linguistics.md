@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- *Entrepreneur* ("undertaker") means someone who takes on work, i.e. someone who does stuff without someone else telling them what to do.
 - "Soupy" can mean "lots of clouds".
 - "Thy" and "Thine" used to be [analogues](https://english.stackexchange.com/a/406491) of "your" and "yours". But sometimes it gets confusing because "thine" is used if the word after "thy" begins with a vowel sound, like "thine eyes".
 - *Wasabi* is phonetically derived from the Chinese words 委佐俾. But they write it as 山葵, which does not sound at all like wasabi. This is because Japanese have a system called 平假名 (hiragana), which... means you read one thing but say another? I am not sure.

@@ -1,5 +1,6 @@
 ![Pls deliver](https://i.redd.it/iznqp1y5vs4z.jpg)
 
+- Big companies give employees actual goals. You need to meet those goals to be promoted.
 - [Responsibilities of a CEO (among other things)](http://blog.staply.co/startup-legal-do-it-by-yourself)
 - Acquisition is one of the things most CEOs delay until it is too late.
 - Your options (if any) is worth nothing until exercised, making them tax-free.
@@ -21,6 +22,7 @@
 - [SAFE](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity) (simple agreement for future equity)
 - There's a guide to [how much stock you give your employees at what size of the company](https://www.holloway.com/g/equity-compensation/sections/typical-employee-equity-levels).
 - "Common shares" are basically useless when "preferred shares" exist. Preferred shares are always sold first. If [the company ends up with $0 after the sale of those shares](https://marker.medium.com/my-company-sold-for-100-million-and-i-got-zilch-how-can-that-be-f7be0563f1f8), you, a proud owner of a billion common shares, end up with nothing as well.
+- Watch out for ["cliffs" in equity vesting](https://news.ycombinator.com/item?id=27765421). A one-year cliff is where you get nothing for one year, but [you do get one year's worth of stocks after that one year](https://carta.com/blog/what-is-stock-vesting/), so it creates an incentive to stay at the company.
 
 ## [Management](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)
 

@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Kunming was the Republic of China's [national redoubt](https://en.wikipedia.org/wiki/National_redoubt) until the gerrison there switch sides to the CCP, which caused Taiwan to become the last (and current) redoubt.
 - You can use the word 殁 (mo4) in place of 死 wherever the word is used as a verb, like [病殁](https://baike.baidu.com/item/%E7%97%85%E6%AE%81).
 - [The top four banks are Chinese](https://en.wikipedia.org/wiki/List_of_largest_banks).
 - 水浸眼眉自然浮. This is a fake quote to mirror [船到橋頭自然直](https://zh.m.wiktionary.org/zh-hans/%E8%BB%8A%E5%88%B0%E5%B1%B1%E5%89%8D%E5%BF%85%E6%9C%89%E8%B7%AF%EF%BC%8C%E8%88%B9%E5%88%B0%E6%A9%8B%E9%A0%AD%E8%87%AA%E7%84%B6%E7%9B%B4).

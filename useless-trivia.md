@@ -1,3 +1,6 @@
+= The craziest thing Melinda French did was [pretend-DJing with Bill Gates](https://www.youtube.com/watch?v=3aiW-bjpuws). Also, he's been balding since at least 2016.
+- [Single billionaires](https://www.foxbusiness.com/lifestyle/jeff-bezos-lauren-sanchez-sun-valley-idaho-billionaires-summer-camp) are dangerous because the society doesn't have [measures](https://www.bbc.com/news/world-us-canada-56975466) to [take](https://www.standard.co.uk/insider/who-is-mackenzie-scott-s-new-husband-dan-jewett-b922852.html) their wealth away.
+- There is no "I" in "team", but there is no "we" or ["us" in "team"](https://news.ycombinator.com/item?id=27547422), either.
 - The 1995 edition of TVB's 神鵰俠侶 had a Cantonese [opening theme song](https://www.youtube.com/watch?v=nmiRnVgnSZ8) that was sung by [someone](https://zh.wikipedia.org/zh-hk/%E9%BD%8A%E8%B1%AB) who didn't know Cantonese.
 - "I see London, I see France" means someone's underwear is showing.
 - Seinfeld's apartment [is an end unit along the hallway](https://imgur.com/rOKdlxZ), but with [a kitchen that goes into it](https://i.redd.it/s1r79wvqs0r61.png). [This](https://my.matterport.com/show/?m=zEWsxhZpGba&play=1&qs=1&sr=-2.8,-.04&ss=3) is the film set.

@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- Topping off the gas tank is bad for the car. ["Overfilling the gas tank can cause liquid gas to enter the charcoal canister, or carbon filter, which is designed only for vapor."](https://www.angi.com/articles/car-myth-or-fact-should-you-top-your-gas-tank.htm).
 - A dealer is someone who sells cars, or deals cards. A dealership is where the dealers are.
 - [High-pressure fuel engines are more likely to have unintended engine knocks](https://www.youtube.com/watch?v=Bb5VfiFy0kY). Naturally-aspirated engines don't have that problem.
 - [The best time to get an oil change is probably the spring](https://bobistheoilguy.com/forums/threads/best-time-to-do-once-a-year-oil-change.4712/). Something about changing out the weather-battered winter oil. The reverse (changing in the fall to prepare for battering winter weather) might also apply if you live somewhere that is particularly cold.

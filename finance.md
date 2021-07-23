@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- A "repo" is the central bank buying stuff from businesses for one day (the rate of which is called the "overnight rate"), giving businesses (usually just other banks) a liquid supply of money. A "reverse repo" is the central bank selling stuff back to businesses.
+- Since "GDP" can be calculated as [`money supply x velocity`](https://slideplayer.com/slide/2800948/), an increase in velocity of money increases GDP linearly.
 - ["Populations that are older on average have fewer young people and more old people. The young will have to work more to provide for the old, or the old will have to work more, in order to maintain the current standard of living."](https://old.reddit.com/r/badeconomics/comments/o9re1l/declining_populations_are_bad_actually/) - /u/Skeeh
 - It is equally annoying for a west coast resident to trade in the HKEX (6pm ~ 1am), and it is for them to trade in the NYSE (6am ~ 1pm).
 - [Forward P/E](https://www.investopedia.com/terms/f/forwardpe.asp) uses whatever earnings [a company](https://www.aircanada.com/ca/en/aco/home.html) forecasts out of their ass.

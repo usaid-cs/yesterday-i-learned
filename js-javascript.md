@@ -106,7 +106,7 @@ undefined
 - You can `throw` anything. You can even `throw 'Hi';`. The argument given to the `catch` block is exactly what was thrown.
 - Douglas Crockford [commits with awful messages](https://github.com/douglascrockford/JSLint/commits/master) (like you).
 - `String(null)` works; `null.toString()` doesn't.
-- [`includes()` rather than `contains()`](http://www.2ality.com/2015/11/tc39-process.html?m=1), because MooTools, apparently. Incidentally, `[NaN, NaN].indexOf(NaN)` never finds any, and `includes()` does.
+- [`includes()` rather than `contains()`](http://www.2ality.com/2015/11/tc39-process.html?m=1), because MooTools, apparently. [Incidentally, `[NaN, NaN].indexOf(NaN)` never finds any, and `includes()` does](https://stackoverflow.com/a/35370411/1558430), so use `includes()` whenever it is available, which is ES2016 and later.
 - > [sessionStorage is just like localStorage, but it's local to the tab](https://github.com/mozilla/localforage/issues/2#issuecomment-27452423), so if you have two tabs on the same site they won't see each other's sessionStorage. [Opening a page in a new tab or window will cause a new session to be initiated.](https://developer.mozilla.org/en/docs/Web/API/Window/sessionStorage)
 - TypeScript had the audacity to create a `void` type, which is `null ∪ undefined`.
 - The modulo operator (`%`) does not do type checking. So, in an interesting way, one can write `"Hello %s" % "world"` in JS as if it does something, but in fact simply creating a `NaN`.
@@ -244,9 +244,21 @@ undefined
 - It's a [reactivex](http://reactivex.io/) library for JS, which implements the [observer pattern](https://en.wikipedia.org/wiki/Observer_pattern). In the observer pattern, an object notifies subscribers of any changes.
 - [RxJS's `tap()`](https://rxjs.dev/api/operators/tap) lets you put side effects in callbacks, instead of putting them in `map`.
 - `Observable`s are so lazy, [they are not executed until `.subscribe()` is called on them](https://www.syncfusion.com/blogs/post/angular-promises-versus-observables.aspx).
+- Observables come in two flavours: hot and cold. A cold observable produces data as soon as a `.subscribe()` is called (i.e. an observer is added). [A hot observable produces data even if no one is observing yet](https://stackoverflow.com/a/58692340/1558430), like a movie that you will miss parts of if you show up late. [Hot observables have producers outside; cold observables have their producers inside.](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 - Use [`from(promise)`](https://angular.io/guide/rx-library#observable-creation-functions) to create an observable from a promise.
 - An observable emits an update via [`observer.next(value)`](https://rxjs.dev/guide/observable#anatomy-of-an-observable).
 - Once `observer.complete()` is called, any subsequent calls of `.next()` will not trigger an [observer's `next()`](https://rxjs.dev/guide/observer).
+- An observer (a `observable.subscribe()` call returns an observer) can cancel a subscription by calling `observer.unsubscribe()`.
+- "Adding an observer to another observer" (e.g. `observer.add(observer2)`) allows you to unsubscribe two subcriptions at the same time.
+- A [`Subject`](https://rxjs.dev/guide/subject) is an observable that broadcasts values to many observers. This also means `Observable`s cannot be subscribed by multiple observers.
+
+### Operators
+
+- You use `.pipe()` to let each operator modify whatever's being observed. Subscribing to the empty pipe (`.pipe()`) will get you the same values as if you had not called the empty pipe.
+- Piping to the `map((x) => ...)` function allows you to transform each value for the next operator in the pipe.
+- Piping to the `scan((acc, val) => ...)` function allows you to accumulate values. For example, if you had an array of `[1,2,3,4]` and you had piped it through `scan((acc, val) => acc + val)`, the expected output is `[1, 3, 6, 10]`.
+- Piping to the `filter(x => ...)` operator allows only items that meet your conditions to be emitted.
+- Piping to the `tap()` function allows you to subscribe to a value in between pipe operators. For example, if you `.pipe(tap(...), map(...), tap(...))`, two different values are emitted to the observer: one before the map, and one after.
 
 ## [Writing memory-efficient JavaScript](http://www.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
 

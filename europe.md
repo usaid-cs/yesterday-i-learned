@@ -1,3 +1,4 @@
+- The [Spanish national anthem](https://en.wikipedia.org/wiki/Marcha_Real) does not have lyrics.
 - ["G7"](https://en.wikipedia.org/wiki/Group_of_Seven) appears to be Canada, France, Germany, Italy, Japan, UK, and the US, plus two guest spots for the EU.
 - Since 2006, Russia started [taxing alcohol more, classifing beer as alcohol, requiring registration for stores to sell alcohol, controlling the time of day alcohol can be bought, banning alcohol advertising, and fining public drinking](https://www.addictioncenter.com/news/2019/10/alcohol-consumption-russia-decline/). Drinking dropped by almost half. 25% of men are no longer heavy drinkers.
 - Despite everyone's GDP going up, [European countries have consistently been beaten by the US in terms of GDP per capita](https://johnhcochrane.blogspot.com/2021/03/the-puzzle-of-europe.html).

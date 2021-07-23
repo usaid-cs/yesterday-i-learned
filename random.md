@@ -1,5 +1,16 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- There are different kinds of [ceiling textures](https://www.surepropainting.com/2018/12/07/the-different-types-of-ceiling-textures-you-need-to-know-about/), including skip trowel, knockdown, orange peel, and swirl. [Popcorn ceilings](https://en.wikipedia.org/wiki/Popcorn_ceiling) are made with little balls of polystyrene stuck inside paint, which improves acoustic properties of a room (at the cost of looking hella ugly).
+- "1 mm of rain" is identical to "1 litre per square metre".
+- Granite, the rock, can---somehow---stain. It also [scratches and cracks easily](https://old.reddit.com/r/HomeImprovement/comments/oo2vll/who_has_real_marble_countertops_and_doesnt_regret/h5w2uto/).
+- Mongolia, for some reason, [produces a lot of waste per capita](https://en.wikipedia.org/wiki/Waste#/media/File:Waste_generation_per_day_per_capita,_September_2018.jpg), in line with the richest countries like US, Canada, and Germany.
+- [Don Norman](https://en.wikipedia.org/wiki/Don_Norman) wrote the book, [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), only because [he went to England and was so frustrated with the water taps and doors there](https://www.youtube.com/watch?v=yY96hTb8WgI). An ideal door would have (e.g.) a flat nothing for you to pull on on one side, or a push bar with no handle for pulling. Unfortunately since every surface can be pushed on, there is no pull-only design.
+- Lots of carpet stains can be removed by directly [applying dish soap](https://spotremoval.coit.com/how-to-remove-oil-stains-from-carpet) to it (and then dabbing it away).
+- A house in the northern hemisphere that faces ("facing" is where most of your windows are) south is ideal, for the reasoning that [the sun never really shines into the house during the summer because of the angle of the sun, and the sun *does* shine into the house during the winter due to the angle, warming it up](https://zhidao.baidu.com/question/283818.html). If you have sun-lit windows all around the house, or walls that absorb heat, this advantage is less obvious.
+- At [$130 of savings per year](https://nest.com/thermostats/real-savings/) on average, Nest thermostats typically pay themselves off in two years.
+- Steamers can remove wrinkles from pretty much anything without risk of scorching. With that said, [it does not allow for creasing, and you can definitely oversteam](https://www.youtube.com/watch?v=GHdw37oq7Qs) (loosening the seams).
+- [CFL bulbs cannot be used in enclosed light fixtures](https://www.youtube.com/watch?v=_AdBcTMHG0Q). LEDs aren't particularly good at doing that, either.
+- CFL bulbs that come up slowly are doing so *by design*: warming up to it hurts the electrodes less.
 - An older population causes labour shortage, which can cause inflation because everyone who earns money can demand more.
 - The same hardware model can be made with [different, inferior parts](https://www.reddit.com/r/videos/comments/o9nr8e/-/h3c7wu9) after the first month, when reviewers typically review them. When in doubt, buy from vertically-integrated manufacturers, like Samsung.
 - To compute how well your vision compared to others, get your two numbers (e.g. 20-20) and divide them. 20/20 = 1 (the same as everyone else); 20/10 = 2 (twice as good as everyone else).

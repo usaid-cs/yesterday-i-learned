@@ -36,9 +36,3 @@
 - [Removing a stop sign](https://www.nytimes.com/1997/06/21/us/3-are-sentenced-to-15-years-in-fatal-stop-sign-prank.html) can get you into jail for 15 years.
 - The [zipper merge](http://www.dot.state.mn.us/zippermerge/) reduces queuing traffic by knowing merging should be done at the last minute. But apparently the zipper merge doesn't work because, and I quote, "only takes one dick to stop a zipper."
 - Emergency vehicles can pass a schoolbus only if the bus'es stop signs are folded in.
-
-### Parallel parking
-
-- Back in full right back slowly three yellow lines line up with mirror
-- One round left until 45 degrees, Mirror slow turn leftright
-- All except uphill with curb, steer to the right

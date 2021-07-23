@@ -59,6 +59,7 @@
 - `font-weight: strong` is not a thing. The correct alias is `font-weight: bold`.
 - Style a `<path>` with `stroke-dasharray: 5` to make it a dashed line (5px step). `5,10` would have dashes that are 10px spaced out.
 - [w3schools](http://www.w3fools.com/) says that [`pt` (in/72), `px` (in/96), and `pc` (in/6) should not be used on screen](https://www.w3schools.com/cssref/css_units.asp) because their absolute sizing means different-sized screens show them differently, and "the em and rem units are practical in creating perfectly scalable layout!"
+- You can select an element in the shadow DOM with [`::part(foo)`](https://developer.mozilla.org/en-US/docs/Web/CSS/::part) only if the element has `part="foo"` in it. It cannot be chained. `::part(foo) #bar` will match exactly nothing. Ionic framework gets around this by exposing [custom properties on each component](https://ionicframework.com/docs/api/item#css-custom-properties), where specifying a variable (prefixed with `--`) will let it be used within the shadow DOM.
 
 ## XPath
 
