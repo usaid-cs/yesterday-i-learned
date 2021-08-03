@@ -1,5 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- All five great lakes are connected. Ships go through them for trade. That's why the US-Canada border is like that.
+- [Stamford University](https://en.wikipedia.org/wiki/Stamford_University) does exist. It is in Bangladesh though. The other [Stanford University](https://en.wikipedia.org/wiki/Stanford_University), whose full name is Leland Stanford Junior University, was named after [Leland Stanford Junior](https://en.wikipedia.org/wiki/Leland_Stanford_Jr.), the son of [Leland Stanford](https://en.wikipedia.org/wiki/Leland_Stanford). Junior died from Typhoid fever before he reached 16.
+- You can lose a chess game in [two moves](https://en.wikipedia.org/wiki/Fool%27s_mate) by moving your pawns out of the way for the opponent's queen.
+- Lots of things make noises that distract viewers from the plot. [Silent props are invented](https://www.youtube.com/watch?app=desktop&v=x6btmJSRueE) to solve the issue.
+- LPDDR doesn't come in DIMM form, so (for battery reasons) laptop manufacturers have been soldering them onto the motherboard. If you want a super repairable laptop, [Framework](https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews) makes one.
 - There are different kinds of [ceiling textures](https://www.surepropainting.com/2018/12/07/the-different-types-of-ceiling-textures-you-need-to-know-about/), including skip trowel, knockdown, orange peel, and swirl. [Popcorn ceilings](https://en.wikipedia.org/wiki/Popcorn_ceiling) are made with little balls of polystyrene stuck inside paint, which improves acoustic properties of a room (at the cost of looking hella ugly).
 - "1 mm of rain" is identical to "1 litre per square metre".
 - Granite, the rock, can---somehow---stain. It also [scratches and cracks easily](https://old.reddit.com/r/HomeImprovement/comments/oo2vll/who_has_real_marble_countertops_and_doesnt_regret/h5w2uto/).

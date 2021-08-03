@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- The founder of Lee Kum Kee died at age 32, long before the brand became a world sensation.
 - Kunming was the Republic of China's [national redoubt](https://en.wikipedia.org/wiki/National_redoubt) until the gerrison there switch sides to the CCP, which caused Taiwan to become the last (and current) redoubt.
 - You can use the word 殁 (mo4) in place of 死 wherever the word is used as a verb, like [病殁](https://baike.baidu.com/item/%E7%97%85%E6%AE%81).
 - [The top four banks are Chinese](https://en.wikipedia.org/wiki/List_of_largest_banks).

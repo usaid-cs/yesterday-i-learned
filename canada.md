@@ -1,5 +1,6 @@
 🇨🇦
 
+- So many EVs are priced at $44,999 because [the federal government has an incentive for EVs under $45,000](https://tc.canada.ca/en/road-transportation/innovative-technologies/zero-emission-vehicles/incentives-purchasing-zero-emission-vehicles).
 - Even if you pay off your entire mortgage, you can be priced out of your own home if your property taxes go up high enough that you cannot afford it. On the plus side, that usually means you can sell your house for much more than you originally paid for.
 - The first ETF in the world is XIU.TO, replicating the TSX/60.
 - Almost all of the [thrift stores in Kitchener-Waterloo](https://www.google.com/maps/search/thrift+stores/@43.4589531,-80.5601045,13z/data=!4m2!2m1!6e6) are in Kitchener.

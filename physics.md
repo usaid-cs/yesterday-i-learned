@@ -1,3 +1,4 @@
+- There are air conditioners that freeze ice during off-peak hours to help you use AC with minimal electricity during on-peak hours.
 - People don't have [home gravity battery systems](https://www.wired.com/story/battery-built-from-concrete/) because the energy density is almost bullshit.
 - Zoom lenses are often varifocal, i.e. if you change the zoom, the focus point also changes. [More expensive movie lenses](https://www.diyphotography.net/know-parfocal-varifocal-lenses/) are parfocal, whose focal points and zoom can change independently.
 - Ultrasonic humidifiers send minerals in the (hard) water along with the mist, creating a white film on everything. It also triggers smoke alarms because of the increased particle count. [Simple wicking evaporative humidifiers [of sufficient size] might work the best!](https://www.youtube.com/watch?v=oHeehYYgl28)

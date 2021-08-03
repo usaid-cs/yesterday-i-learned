@@ -2,6 +2,8 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- If a car manufacturer makes 95 gasoline cars for every 5 electric ones sold... spending R&D money on improving gasoline engine efficiency by 10% brings [more environmental improvement than spending that money on new electric cars](https://youtube.com/watch?v=Hatav_Rdnno).
+- [Hydrogen fuel cell vehicles don't give you just water as emissions](https://youtube.com/watch?v=3IPR50-soNA). Since air contains more than just oxygen, other stuff also burns while in the combustion chamber, resulting in nitrogen-oxygen compounds, as well as CO2 as the engine oil burns.
 - Topping off the gas tank is bad for the car. ["Overfilling the gas tank can cause liquid gas to enter the charcoal canister, or carbon filter, which is designed only for vapor."](https://www.angi.com/articles/car-myth-or-fact-should-you-top-your-gas-tank.htm).
 - A dealer is someone who sells cars, or deals cards. A dealership is where the dealers are.
 - [High-pressure fuel engines are more likely to have unintended engine knocks](https://www.youtube.com/watch?v=Bb5VfiFy0kY). Naturally-aspirated engines don't have that problem.

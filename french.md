@@ -136,6 +136,7 @@
 - **Nettoyer**: to clean.
 - **Nouveau**: new. _Je veux voir à nouveau_: I want to see again.
 - **On**: informal way to say **nous**. Not useful. _On va s'en sortir_: we will get out of this.
+- **Os**: bone, whether singular or plural.
 - **l'Ouest**: the west. _Je vais vers l'ouest_: I go towards the west.
 - **Paix**: peace. _Je vis en paix_: I live in peace.
 - **Parler**: to speak. _Parle-nous_: speak to us.
