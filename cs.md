@@ -180,6 +180,8 @@ A "complete" binary tree is one that is full, except maybe for the last level.
 
 ### binary search trees
 
+* In-order traversal is important because if you traverse a BST in order, then it just so happens that [you'll get all elements in ascending order](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/).
+
 ### [B-trees](https://en.wikipedia.org/wiki/B-tree)
 
 No one knows what the B stands for.
@@ -217,8 +219,9 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 # Misc
 
 - **Tail call optimisation** refers to the behaviour in recursive functions for when a true function (one that has no side effects) calls itself again as the only operation in the last statement, allowing the computer to run that function while preserving the function's address space.
-- **Class P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as _quickly solvable_.
-- **Class NP Problems** (or just NP) are problems that can be solved quickly, provided that the answer is given. NP is also known as _quickly checkable/verifiable_.
+- **P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as _quickly solvable_.
+- **NP Problems** (or just NP) are problems that can be solved quickly (checked in polynomial time), provided that the answer is given. NP is also known as _quickly checkable/verifiable_.
+- **NP-Hard** problems are ["at least as hard" as NP problems, but don't need to be an NP problem, or even a decision problem](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard).
 - **NP-Complete** problems are problems that are both NP and NP hard.
 - The [null object pattern](https://en.wikipedia.org/wiki/Null_Object_pattern) involves overloading a function with one that specifically handles the base case of "null".
 - A [bloom filter](https://en.wikipedia.org/wiki/Bloom_filter) has nothing to do with blooming; it was just named after a guy called Burton Bloom. It is a space-efficient set that can give you false positives (something is in the list), but never false negatives (something is not in the list).
@@ -227,7 +230,7 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - In [Dijkstra's shortest path algorithm](https://www.youtube.com/watch?v=gdmfOwyQlcI) (requires weighted edges), all but the root node has an initial weight of infinity. Every single run of the algorithm involves travelling from the lowest unvisited vertex to its neighbours.
 - [Decorators](https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Decorators) appears to have come from python, which was in turn inspired by [Java annotations](https://en.wikipedia.org/wiki/Java_annotation); the generic term for a function-modifying function is called an [advice](https://en.wikipedia.org/wiki/Advice_%28programming%29). Depending on compiler setup, Java annotations don't necessarily have to do anything.
 - "25519" in ed25519 is 2^(255) - 19. A 256-bit elliptic curve key (which is what Curve 25519 is) is [weaker](https://wiki.openssl.org/index.php/Elliptic_Curve_Cryptography) than a 4096-bit asymmetric key, like RSA.
-- Unlike "Big O", which is the upper bound, there is also a "Big Theta" which includes both the lower and upper bounds, called the "tight bound". You can't have a "best case of `O(n)`" because the best case is Omega, or `Ω(n)`.
+- Unlike "Big O", which is the upper bound, there is also a "Big Theta" which includes both the lower and upper bounds, called the "tight bound". You can't have a "best case of `O(n)`" because the best case is Omega, or `Ω(n)`. A tight bound is found when an algorithm's best case *and* worst case differ by no more than a constant factor.
 - The Y combinator is [said](https://deniskyashif.com/on-recursive-functions/) to allow recursion without recursing, or in languages that do not support recursion. The JS implementation is `const Y = f => { const g = x => f(x(x)); return g(g); };`.
 - A superclass is called a superclass, despite it always having fewer methods than its subclasses, because [a superclass always has more instances, the thing we are counting.](https://www.youtube.com/watch?v=mVVNJKv9esE)
 - A [higher-order function](https://github.com/hemanth/functional-programming-jargon#higher-order-functions-hof) (more jargons inside link) is a function that accepts a function and returns a function. A decorator is a higher-order function.
@@ -252,3 +255,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - Array access is O(1) because the address for any item is (address + index)---which takes O(1) to compute---and then we specifically ignore the cost of memory access, which may be [close to O(log n)](https://stackoverflow.com/a/20961951/1558430) in hardware, but we don't talk about that.
 - "Marshalling" is the almost same
 - [On data ensapsulation in OO](https://stackoverflow.com/questions/2747721/getters-and-setters-are-bad-oo-design): "don't ask for the information you need to do the work; ask the object that has the information to do the work for you."
+- The word "trie" has the same pronunciation as "try".

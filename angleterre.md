@@ -1,5 +1,6 @@
 # Das Vereinigte Königreich
 
+- Scotland is a country, just not a sovereign one.
 - 事頭婆 means "the woman in charge". It originally referred to the Queen.
 - [Pound cakes](https://en.wikipedia.org/wiki/Pound_cake), cakes made with one pound of each of (flour, butter, eggs, sugar), date back to the 1700s. [Sara Lee sells pound cakes](https://saraleedesserts.com/products/butter-pound-cake/) in... one-pound (454g) containers. I may also wager that, at one point, these pound cakes must have been sold for exactly one pound (£).
 - [Gillingham, Dorset](https://en.wikipedia.org/wiki/Gillingham,_Dorset) is pronounced with a hard G. [Gillingham, Kent](https://en.wikipedia.org/wiki/Gillingham,_Kent) is pronounced with a soft G. The two towns are roughly 200km apart.

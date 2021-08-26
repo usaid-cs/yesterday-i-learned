@@ -34,6 +34,7 @@
 - Define success clearly, so people can meet it.
 - "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."
 - Your coworkers may want to discuss salary. [There are pros and cons](https://www.monster.ca/career-advice/article/Pros-And-Cons-Of-Discussing-Salaries-At-Work) to discussing salary. Most importantly, discussing salaries is to _your personal advantage_, but may be a disadvantage to team productivity.
+- Product managers can be hired straight out of college. They do not require managerial experience (though it is good to have some, obviously).
 
 ## [How not to fail](http://themacro.com/articles/2016/06/how-not-to-fail/)
 

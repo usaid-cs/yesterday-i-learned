@@ -1,5 +1,7 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- You know you are 60 years old when you [can listen to criticism without reacting poorly to it](https://baike.baidu.com/item/%E8%80%B3%E9%A1%BA/395538). Or maybe you can only gain that power when you reach 60. We will never know.
+- [Macau](https://en.wikipedia.org/wiki/Macau#Twin_towns_and_sister_cities), an SAR, has sister cities. Hong Kong, also an SAR, [does not](https://www.skyscrapercity.com/threads/why-isnt-hk-in-the-sister-cities-program.523464/). Hong Kong is more in line with Singapore, a city-state (albeit sovereign) that also does not have a sister city.
 - The founder of Lee Kum Kee died at age 32, long before the brand became a world sensation.
 - Kunming was the Republic of China's [national redoubt](https://en.wikipedia.org/wiki/National_redoubt) until the gerrison there switch sides to the CCP, which caused Taiwan to become the last (and current) redoubt.
 - You can use the word 殁 (mo4) in place of 死 wherever the word is used as a verb, like [病殁](https://baike.baidu.com/item/%E7%97%85%E6%AE%81).

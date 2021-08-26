@@ -1,5 +1,6 @@
 # C
 
+- There is a [`union` type](https://cs.smu.ca/~porter/csc/common_341_342/notes/union.html), that, uh, lets you define a memory range that can be read as any of the sub-defined types. So a `union { int i; double d; char c; }` can store *some kind of memory* that can either be an int, a double, or a char... but *after you write it into memory, you don't know how it should be read back*! Terrific memory-saving feature.
 - C is statically and yet weakly typed. In the compromise between productivity and verbosity, this is the worst possible combination.
 - The variable convention seems to be `underscored_things`.
 - _Pointers_ (e.g. `int* something`) are something you declare. It _points_ to something of the declared type. It should only be assigned addresses (`&something`).

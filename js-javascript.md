@@ -171,6 +171,7 @@ undefined
 - `undefined == null` === `true`. Die in a fire, JS!
 - [`null == 0` is false, `null > 0` is false, but `null >= 0` is true.](https://github.com/denysdovhan/wtfjs#comparing-null-to-0) The short explanation is: `==` will not convert `null` to a number, but `>` will (to 0). So `null` is not 0, which is true; `+null` is 0, which is not greater than 0; and `>=`, which is internally just `<`, converts the expression to `!(+null < 0)`, which is `!false`, aka `true`.
 - `null >= null` and `null <= null` are both true (the effective comparison, after type coersion, is `0 >= 0`). Maybe they compare loosely. Ah but get this. `undefined >= undefined` and `undefined <= undefined` are both false, because the effective comparison is `NaN >= NaN`.
+- Similar to the point above, while `undefined <= undefined` is false, `undefined < undefined || undefined == undefined` is obviously true, so you can't just replace all the `< || ==`s with `<=` as if they are equivalent.
 - [Detecting `{}.__proto__`](http://foundation.zurb.com/docs/upgrading.html) is one of the fastest ways to tell if a browser is running on a [browser that also runs on mobiles](http://stackoverflow.com/a/3082878/1558430).
 - `0.1 + 0.2 = 0.30000000000000004` (over). `0.7 + 0.2 = 0.8999999999999999` (under).
 - `+almostAnything` converts it to an integer. (except objects, arrays, strings... so, almost nothing.)

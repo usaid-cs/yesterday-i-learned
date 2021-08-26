@@ -1,3 +1,4 @@
+- No known physical model can describe behaviour above [10^32 K](https://en.wikipedia.org/wiki/Planck_units#Planck_temperature). Something about gravitational forces becoming as strong as electromagnetic and nuclear forces.
 - There are air conditioners that freeze ice during off-peak hours to help you use AC with minimal electricity during on-peak hours.
 - People don't have [home gravity battery systems](https://www.wired.com/story/battery-built-from-concrete/) because the energy density is almost bullshit.
 - Zoom lenses are often varifocal, i.e. if you change the zoom, the focus point also changes. [More expensive movie lenses](https://www.diyphotography.net/know-parfocal-varifocal-lenses/) are parfocal, whose focal points and zoom can change independently.

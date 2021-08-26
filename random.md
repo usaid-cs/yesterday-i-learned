@@ -1,5 +1,14 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Gateron low profile key switches are [far inferior](https://old.reddit.com/r/MechanicalKeyboards/comments/hxwpii/review_keychron_k1_version_4_clicky/) to even Kailh key switches.
+- IKEA sustainability initiatives are mostly there as a sales tactic. [Rug made from recycled plastic bottles](https://www.ikea.com/ca/en/p/toftlund-rug-white-20420241/) introduces microplastics into the environment by shredding that bottle into a billion tiny fibres. If they truly care about the environment, they could used [tencel modal](https://ecocult.com/greenwashing-alert-that-natural-fabric-made-from-plants-might-be-toxic/) instead.
+- Lots of people [seem](https://www.reddit.com/r/homeautomation/comments/p8vq45/total_home_assistant_beginner_stumped_by_the/) to enjoy zwave products for home automation.
+- The semiconductor industry uses a lot of ultra pure water for manufacturing. This means [droughts can (along with other factors) bring about chip shortages](https://en.wikipedia.org/wiki/2020%E2%80%932021_global_chip_shortage).
+- Chewing gum doesn't go bad (before chewing) due to its low moisture content.
+- The X in "IPX8" means the thing was never certified for dust ingress.
+- An IPA's [chill haze](https://www.stonebrewing.com/blog/miscellany/2011/chill-hazethe-more-you-know#ageGatePassed) is actually protein.
+- Lawn mower blades need to be sharpened. Apparently you can get [something that attaches to a power tool](https://www.amazon.ca/s?k=lawn+mower+blade+sharpener), or you can just use a bench grinder.
+- `XMLHttpRequest` is called `XMLHttpRequest` because IE did it first. W3C recommends camel-casingt acronyms now, i.e. `XmlHttpRequest`, and [so does Microsoft](https://stackoverflow.com/a/15526526/1558430) (but only for acronyms more than two characters long, so `IO` is still `IO` for whatever reason).
 - All five great lakes are connected. Ships go through them for trade. That's why the US-Canada border is like that.
 - [Stamford University](https://en.wikipedia.org/wiki/Stamford_University) does exist. It is in Bangladesh though. The other [Stanford University](https://en.wikipedia.org/wiki/Stanford_University), whose full name is Leland Stanford Junior University, was named after [Leland Stanford Junior](https://en.wikipedia.org/wiki/Leland_Stanford_Jr.), the son of [Leland Stanford](https://en.wikipedia.org/wiki/Leland_Stanford). Junior died from Typhoid fever before he reached 16.
 - You can lose a chess game in [two moves](https://en.wikipedia.org/wiki/Fool%27s_mate) by moving your pawns out of the way for the opponent's queen.
@@ -1921,7 +1930,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - _Le nom de la quiche_ might have come from German _Kuchen_, cake/tart.
 - Walter White is written to be slowly blinded by money and/or ambition, [even himself](http://i.imgur.com/BdzuGWg.jpg).
 - "America's real safety net is drugs, alcohol, cheap food, and free porn." Attributed to a Henry Rollins
-- Compass is the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
+- Compass is either a thing that tells you the direction, or the "two sticks" thing you use to draw circles. Protractor is the plastic disc you use to measure angles.
 - Fresh tuna is tough and has no flavour. Age it for a few days first.
 - Selfie sticks are banned from Disney theme parks.
 - /r/dickpics is full of pictures of Richards.

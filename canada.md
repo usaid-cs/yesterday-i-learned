@@ -1,5 +1,10 @@
 🇨🇦
 
+- The ex-CTO of Willet went on to become [a Youtuber](https://www.youtube.com/c/BarbaraEMac/about) who streams herself playing games.
+- If you have a child, paying into the RRSP is preferred over TFSA because the lower your net income is, the more Canada Child Benefit you will get.
+- The NDP has [never](https://en.wikipedia.org/wiki/New_Democratic_Party) won a federal election (up to 2021, anyway). The last time [Tom Mulcair](https://en.wikipedia.org/wiki/Tom_Mulcair) ran for election, he said ["Child care, health care, pharmacare, Mulcair."](https://globalnews.ca/news/2261931/canada-not-prepared-for-demographic-bomb-mulcair-says-as-he-touts-health-plan/), which was a terrible slogan.
+- According to [StatCan](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=61748&CVD=61748&CLV=0&MLV=1&D=1) and the CRA, [once you get married, you can never return to the "single" state again](https://turbotax.community.intuit.ca/community/family-health/help/what-is-my-marital-status-according-to-the-cra/00/873766), even if your spouse dies or divorces you. If you were in a common-law relationship but separate, they call it "separated" *or* single. However, if you get married, divorced, meet another girl and get into a common-law relationship with her and then separate *again*... you go back to being divorced from your previous marriage.
+- Ontario is the only province to have coastlines along any great lake.
 - So many EVs are priced at $44,999 because [the federal government has an incentive for EVs under $45,000](https://tc.canada.ca/en/road-transportation/innovative-technologies/zero-emission-vehicles/incentives-purchasing-zero-emission-vehicles).
 - Even if you pay off your entire mortgage, you can be priced out of your own home if your property taxes go up high enough that you cannot afford it. On the plus side, that usually means you can sell your house for much more than you originally paid for.
 - The first ETF in the world is XIU.TO, replicating the TSX/60.

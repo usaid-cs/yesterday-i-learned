@@ -1,3 +1,4 @@
+- The AirPods case (without AirPods in it) costs [$100](https://www.apple.com/ca/shop/product/MR8U2AM/A/wireless-charging-case-for-airpods).
 - [Microsoft Office](https://en.wikipedia.org/wiki/History_of_Microsoft_Office) started off exclusives for the Mac. Steve Jobs and Bill Gates worked closely on it. Windows was conceived because, get this, when Bill Gates recommended to Steve Jobs that licensing the Mac's OS would be a good idea, Steve Jobs said no. [So he made his own](https://www.businessinsider.com/the-bill-gates-steve-jobs-feud-frenemies-2016-3).
 - Steve Jobs considered the iPad ["the most important thing he's ever done"](https://appleinsider.com/articles/10/01/26/steve_jobs_apple_tablet_the_most_importing_thing_ive_ever_done), not the iPhone. iPad was designed before the iPhone, but the iPhone project took priority.
 - File names in MacOS are apparently case-insensitive.

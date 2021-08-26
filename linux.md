@@ -1,5 +1,9 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+
+- Some keyboards (in my case, a Keychron K1) default to having no support for fn keys. To fix it, go [make a file called `/etc/modprobe.d/hid_apple.conf`](https://old.reddit.com/r/MechanicalKeyboards/comments/d5y5if/keychron_2_bt_connection_stuck_in_numpad_mode/f2bwwe8/), put `options hid_apple fnmode=0` in it, and run `sudo update-initramfs -u`.
+- The keyword `done` itself can [be backgrounded](https://unix.stackexchange.com/a/223780/473817), i.e. `done &`. Then the whole thing runs in the background.
+- Not sure why it's on my machine, but `fpcalc` helps fingerprint music files, which helps you deduplicate your library.
 - [`cdvirtualenv`](https://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html#cdvirtualenv) goes to the virtualenv's root. There are lots of other `*virtualenv` commands that map to what it would have done to a virtualenv.
 - `which foo`, `where foo`, `whereis foo`... all more or less the same thing, with different outputs.
 - Any IPv4 that starts with 127 will redirect to the loopback interface. So `127.1` is your special domain name. Additionally, since `localhost` appears in the hosts file pointing to `127.0.0.1`, the definition of `localhost` can be changed by you.

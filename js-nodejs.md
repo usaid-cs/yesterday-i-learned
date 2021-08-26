@@ -108,3 +108,4 @@
 - `Promise.resolve(value) => <Promise>`, `Promise.reject(value) => <Promise>` that are pre-resolved/pre-rejected
 - `<Promise>.then(function succeed, function fail) => <Promise>` If any of these functions return anything, [the new promise will resolve/reject with their return values.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 - `<Promise>.catch(function error)` If any of `(succeed, fail)` throws an Error, [the `function error` will receive the same Error.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)
+- The `uv` in `libuv` stands for ["unicorn velociraptor"](https://www.youtube.com/watch?v=_c51fcXRLGw), though it may have been retroactively named as such.
