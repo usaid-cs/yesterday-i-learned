@@ -1,3 +1,4 @@
+- The hype about flattening the curve lasted [only three months](https://trends.google.com/trends/explore?date=today%205-y&q=flatten%20the%20curve). Now doctors and nurses quit.
 - Mr Bean [totally](https://youtu.be/NVhmq-pB_cs?t=2475) speaks.
 - Sonic the hedgehog does not have a single (external) [spine](https://en.wikipedia.org/wiki/Spine_%28zoology%29). Knuckles the [Echidna](https://en.wikipedia.org/wiki/Echidna) also does not have a single (external) spine.
 - It is under my impression that TechLead used to be married to a woman named [Reina](https://unicourt.com/case/ca-sm-patrick-shyu-vs-reina-shyu-741991) [Kuramochi](https://www.facebook.com/reina.kuramochi). [She was right.](https://i.imgur.com/aL987nN.png).

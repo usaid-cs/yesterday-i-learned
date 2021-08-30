@@ -2,7 +2,12 @@
 
 - **Docker Engine**: consists of two parts: a daemon, a _server_ process that manages all the _containers_, and a _client_, which acts as a remote control for the daemon.
 - **Container**: Process in a box. The box contains everything the process needs to run, including the filesystem, shell, and libraries. They are not enabled by default.
+- ** Virtual machine**: The hardware virtualises a VM at the hardware level. This is unlike containers, which are virtualised by the operating system.
 - **Commit**: Save changes made to the container.
+
+### Fun facts
+
+- [**Containers are simply isolated processes**](https://www.youtube.com/watch?v=cjXI-yxqGTI) (rather than isolated "machines") that only see what they need to see. Containers are powered by two features in the linux kernel: **namespaces**, which allow container processes to appear as if they are running on their own operating system, and **cgroups**, which limit the amount of resource a container can access.
 
 ## When to use Docker
 

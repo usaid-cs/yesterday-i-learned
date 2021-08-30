@@ -256,3 +256,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - "Marshalling" is the almost same
 - [On data ensapsulation in OO](https://stackoverflow.com/questions/2747721/getters-and-setters-are-bad-oo-design): "don't ask for the information you need to do the work; ask the object that has the information to do the work for you."
 - The word "trie" has the same pronunciation as "try".
+- Software can't tell you the big-O complexity of an algorithm [because of the halting problem](https://stackoverflow.com/questions/38420564/is-there-a-programmatic-way-or-eclipse-plugin-to-calculate-big-o-notation-for-ja). There may be plugins that tell you an approximate runtime, though.

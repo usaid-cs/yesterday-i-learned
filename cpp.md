@@ -1,5 +1,6 @@
 # C++
 
+- [Neither C nor C++ are type-safe](https://en.wikipedia.org/wiki/Type_safety#Strong_and_weak_typing). One `memcpy` call and you can put anything in memory meant for some other type.
 - [_References_ (e.g. `int& something`)](https://stackoverflow.com/questions/4305673/does-c-have-references) are C++ only. They are effectively constant final pointers. `int& c = a;` means "C points to whatever A is already pointing to", which is safer, and simpler to understand.
 - Creating a reference to something uninitialised may accidentally give it value. `int a; int& b = a;` will suddenly make `a` nonzero. Use `-Wuninitialized` (part of `-Wall`) to detect this error.
 - It is impossible to write `int& something;`. You must assign it something on initialisation.

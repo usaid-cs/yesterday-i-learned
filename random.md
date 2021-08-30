@@ -1,5 +1,6 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Houses need gutters so [the concentrated water can fuck up just one place, instead of fucking up the foundation all around the house](https://sunvek.com/blog/does-your-roof-actually-need-gutters/).
 - Gateron low profile key switches are [far inferior](https://old.reddit.com/r/MechanicalKeyboards/comments/hxwpii/review_keychron_k1_version_4_clicky/) to even Kailh key switches.
 - IKEA sustainability initiatives are mostly there as a sales tactic. [Rug made from recycled plastic bottles](https://www.ikea.com/ca/en/p/toftlund-rug-white-20420241/) introduces microplastics into the environment by shredding that bottle into a billion tiny fibres. If they truly care about the environment, they could used [tencel modal](https://ecocult.com/greenwashing-alert-that-natural-fabric-made-from-plants-might-be-toxic/) instead.
 - Lots of people [seem](https://www.reddit.com/r/homeautomation/comments/p8vq45/total_home_assistant_beginner_stumped_by_the/) to enjoy zwave products for home automation.

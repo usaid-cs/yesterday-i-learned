@@ -1,5 +1,6 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Duralumin is 80% aluminium, 20% copper, and traces of other stuff.
 - 1 m³ of gas is roughly 10.5 kWh of energy.
 - Aluminium is the only common metal, used as a metal, that is not considered [heavy](https://en.wikipedia.org/wiki/Heavy_metals). Other candidates include: alkali metals, every alkali earth metal except for radium, scandium, and yttrium.
 - Aluminium is spelled Aluminum in USA because British chemist [Humphry Davy](https://en.wikipedia.org/wiki/Humphry_Davy), in all his genius, named sodIUM and potassIUM, and thus named it alumIUM. The Germans complained that *alum* is not latin, so Davy changed it to aluminIUM... only to publish a book with the spelling aluminUM one year after. A [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_%28scientist%29) proposed *aluminium* instead, which ultimately stuck around. Both Davy and Young died 19 years later.
