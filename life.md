@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously gone through a lot
 
+- Tell your children [they can use you as an excuse to not go somewhere they don't want to go](https://old.reddit.com/r/Parenting/comments/pjqcmu/parenting_tip_you_have_no_clue_what_is_happening/hbyczck/) (i.e. "my mom won't let me"). This builds trust and lets them know you can be relied on.
+- Someone chaining your bike with theirs? [That's a way to steal your bike when there were fewer people around](https://www.reddit.com/r/Wellthatsucks/comments/pctl4w/-/halctiq).
 - If one day you become even half as rich as Jeff Bezos, [be like Mackenzie Scott](https://www.bloomberg.com/graphics/2021-mackenzie-scott-donations/), not like Jeff.
 - ["Intelligence increases through your mistakes, through ups and downs, or what you've learned."](https://www.youtube.com/watch?v=j1p2PbfNk0c) - Rob, that guy who says to stop saying "I can't", but "How can I?"
 - [Don't use a surface cleaner on wood](https://propowerwash.com/board/upload/threads/anyone-ever-tried-a-surface-cleaner-on-a-wood-deck.25768/). Not sure why.

@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- You are accountable *for* something, but accountable *to* someone.
+- *Samoa* is more SA-muah than it is sa-MO-ah.
 - *Entrepreneur* ("undertaker") means someone who takes on work, i.e. someone who does stuff without someone else telling them what to do.
 - "Soupy" can mean "lots of clouds".
 - "Thy" and "Thine" used to be [analogues](https://english.stackexchange.com/a/406491) of "your" and "yours". But sometimes it gets confusing because "thine" is used if the word after "thy" begins with a vowel sound, like "thine eyes".

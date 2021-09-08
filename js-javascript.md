@@ -145,6 +145,7 @@ undefined
 - Leaflet allows you to build any map, not just what's on earth. You can make [a map for Zelda](https://mrcheeze.github.io/botw-object-map/) if you wanted to.
 - There are multiple event loops: the normal one, to handle `setTimeout` and such; and another one for [microtasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/), to handle promise resolution, apparently. Microtasks are processed before normal tasks.
 - The [comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator) evaluates everything from left to right, and then returns the last item. But beware: in `a = (1, 2)`, `2` is assigned to `a` because `2` is the last item. However, if you do `a = 1, 2`, `a = 1` is evaluated first, so `a` is `1`.
+- You can use `window.history.pushState()` to change the URL of the current browser window, but it is allowed only if the old and new URLs belong to the same domain, so you can't build a website that changes the URL to that of a banking website, for example.
 
 ## About JavaScript
 

@@ -1,3 +1,4 @@
+- Dua Lipa is her real name. It doesn't mean "two lips" or anything special.
 - The hype about flattening the curve lasted [only three months](https://trends.google.com/trends/explore?date=today%205-y&q=flatten%20the%20curve). Now doctors and nurses quit.
 - Mr Bean [totally](https://youtu.be/NVhmq-pB_cs?t=2475) speaks.
 - Sonic the hedgehog does not have a single (external) [spine](https://en.wikipedia.org/wiki/Spine_%28zoology%29). Knuckles the [Echidna](https://en.wikipedia.org/wiki/Echidna) also does not have a single (external) spine.

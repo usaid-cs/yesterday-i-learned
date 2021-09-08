@@ -1,5 +1,6 @@
 🇨🇦
 
+- [Thunder Bay is more populous than Waterloo](https://en.wikipedia.org/wiki/List_of_municipalities_in_Ontario#Lower-tier_municipalities). Hell, even Mississauga is seven times the size of Waterloo, and Toronto, 27 times.
 - The ex-CTO of Willet went on to become [a Youtuber](https://www.youtube.com/c/BarbaraEMac/about) who streams herself playing games.
 - If you have a child, paying into the RRSP is preferred over TFSA because the lower your net income is, the more Canada Child Benefit you will get.
 - The NDP has [never](https://en.wikipedia.org/wiki/New_Democratic_Party) won a federal election (up to 2021, anyway). The last time [Tom Mulcair](https://en.wikipedia.org/wiki/Tom_Mulcair) ran for election, he said ["Child care, health care, pharmacare, Mulcair."](https://globalnews.ca/news/2261931/canada-not-prepared-for-demographic-bomb-mulcair-says-as-he-touts-health-plan/), which was a terrible slogan.

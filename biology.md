@@ -1,3 +1,6 @@
+- Ants can walk themselves to death if their pheromone trail somehow forms an endless circle. This is called the [ant mill](https://en.wikipedia.org/wiki/Ant_mill), death spiral, and others.
+- [*Camellia*](https://en.wikipedia.org/wiki/Camellia) is the tea tree genus.
+- Percentage-wise, [15% less celibate Catholic priests suffer from prostate cancer than the general public](https://pubmed.ncbi.nlm.nih.gov/7242091/). Or maybe god is on their side. There is no causation.
 - There are many kinds of high fructose corn syrups. For example, "HFCS42" is 42% fructose and "HFCS55" is 55% fructose. Considering sucrose is 50% fructose, this makes HFCS42 actually less harmful to you than table sugar is.
 - Catepillars do not have stomachs. The entire body is the food processor.
 - [Hormesis](https://en.wikipedia.org/wiki/Hormesis) (like "homeostasis"): exposure to low amounts of toxins and stressors (within "the hormetic zone") is generally favourable. Examples: coffee, alcohol, controlled levels of oxygen restriction (such as living in high-altitude places and doing your training there), and intermittent fasting. Somehow [taking a cold shower](https://getpocket.com/explore/item/here-s-what-taking-a-cold-shower-does-to-your-body-according-to-experts) is a stressor too. Don't live life too comfortably, is what that's saying.

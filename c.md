@@ -1,5 +1,6 @@
 # C
 
+- [`typedef struct Foo {...} Foo;`](https://stackoverflow.com/questions/1675351/typedef-struct-vs-struct-definitions) is a combination of `struct Foo {...}`, which defines a struct with a tag called `Foo`, and `typedef struct ... Foo`, which, despite its name, only gives an existing type a new name. The end result of that combo statement is you don't need to use that struct with `struct Foo`; now you can refer to it with just `Foo`.
 - There is a [`union` type](https://cs.smu.ca/~porter/csc/common_341_342/notes/union.html), that, uh, lets you define a memory range that can be read as any of the sub-defined types. So a `union { int i; double d; char c; }` can store *some kind of memory* that can either be an int, a double, or a char... but *after you write it into memory, you don't know how it should be read back*! Terrific memory-saving feature.
 - C is statically and yet weakly typed. In the compromise between productivity and verbosity, this is the worst possible combination.
 - The variable convention seems to be `underscored_things`.
