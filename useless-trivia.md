@@ -1,3 +1,5 @@
+- [F.R.I.E.N.D.S](https://en.wikipedia.org/wiki/Friends) was a show about *six* friends, not seven.
+- [The very first Wilhelm Scream](https://youtube.com/watch?v=dc5F2C0CYlA) came from some poorly-acted scene in an adventure film.
 - Dua Lipa is her real name. It doesn't mean "two lips" or anything special.
 - The hype about flattening the curve lasted [only three months](https://trends.google.com/trends/explore?date=today%205-y&q=flatten%20the%20curve). Now doctors and nurses quit.
 - Mr Bean [totally](https://youtu.be/NVhmq-pB_cs?t=2475) speaks.

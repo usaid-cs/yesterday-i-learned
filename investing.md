@@ -53,6 +53,7 @@ Since bonds are sold in large quantities, you typically don't buy stocks directl
 * In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
 * Think of bonds as an inflation hedge (like precious metals) that have a minimum "return", but also have a maximum. In the case of hyperinflation, precious metals don't have a maximum "return".
 * You can tell how screwed bonds/bond funds are by looking at the [bond yield](https://ca.investing.com/rates-bonds/canada-5-year-bond-yield), which is a number posted by some... one. When that gets close to 0%, you should sell. And when it actually hits 0% (once inflation is taken into account), it is a signal that you *must* sell.
+* When "inverted yield curve" (term for short-term bonds having a higher yield than long-term bonds) happens, [be careful of a recession](https://www.investopedia.com/terms/i/invertedyieldcurve.asp).
 
 ### Mortgage-backed securities, CDOs, Credit-default swaps, synthetic CDOs
 
@@ -242,7 +243,7 @@ In other words, you pay for freedom. You can *stop paying when you settle down*.
 
 ### When
 
-* Property value is linked to to bonds value, and is inversely correlated to the central bank interest rate. [*If the government lowers the central bank interest rate to boost the economy because it has to, it will also lower the bar for people to buy homes, making their prices go higher.*](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
+* Property value is linked to to bonds value, and is inver1sely correlated to the central bank interest rate. [*If the government lowers the central bank interest rate to boost the economy because it has to, it will also lower the bar for people to buy homes, making their prices go higher.*](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
 * In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
 
 ### Where

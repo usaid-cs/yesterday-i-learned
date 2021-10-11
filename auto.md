@@ -2,6 +2,7 @@
 
 > "NASCAR sucks"? "Country and western is rubbish"? Guess what, you're in a hick town, man.
 
+- [Tesla wants the government to boost fuel economy penalties](https://news.ycombinator.com/item?id=28632185) because they are the clean ones, giving them an advantage.
 - Used car companies are actually [loan companies](https://old.reddit.com/r/personalfinance/comments/p76dw1/car_dealership_wouldnt_let_me_use_outside/h9i8q7k/) that use cars to get you in the door. Sometimes they don't let you buy a car out with cash.
 - The [Mini](https://en.wikipedia.org/wiki/Mini#Design_and_development) was born due to the [1956 Suez crisis](https://en.wikipedia.org/wiki/Suez_Crisis) (a war).
 - Hybrids use [2/3 as much fuel](https://driving.ca/features/feature-story/these-are-the-most-fuel-efficient-vehicles-in-canada-for-2020) as conventional cars. Electric cars use roughly [30% of fuel equivalent](https://www.guideautoweb.com/en/makes/tesla/model-3/2018/specifications/long-range/) as conventional cars.

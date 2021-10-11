@@ -16,6 +16,7 @@
 - You application runs only on Windows or macOS.
 - Your application is tightly coupled to the OS (like needing direct access to CPU or memory).
 - Your application is a GUI.
+- Docker Swarm is simpler than Kubernetes, but it is not recommended anymore. It is easy to use, but [it won't scale](https://news.ycombinator.com/item?id=28460258), at least not as well as Kubernetes clusters.
 
 ## Get started
 
@@ -46,3 +47,4 @@
 ## Docker compose
 
 - [While `Dockerfile`](https://stackoverflow.com/questions/29480099/docker-compose-vs-dockerfile-which-is-better) helps you _build_ an image, docker [compose](https://docs.docker.com/glossary/?term=Compose) helps you run applications that use multiple containers.
+- If you don't know how to use docker compose, you can actually find [official cheat sheets](https://docs.docker.com/samples/django/) that gets you started.

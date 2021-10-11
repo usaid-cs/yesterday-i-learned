@@ -1,5 +1,10 @@
 🇨🇦
 
+- The Canadian armed forces cannot oppress anyone. They don't even have the resources to *protect* Canada.
+- The [Phoenix Pay System](https://en.wikipedia.org/wiki/Phoenix_pay_system) cost 2.2 billion dollars *to decommission*. It was a disaster because they didn't know the system would be broken until the day of release, and they had already fired everyone from the old payroll system.
+- In the 2019 federal election, [the Rhino party ran for the Beauce district with a candidate named Maxime Bernier](https://www.thestar.com/politics/2019/09/10/take-a-chance-vote-for-both-satirical-party-runs-own-candidate-named-maxime-bernier-in-ppc-leaders-riding.html), which is different from the [Maxime Bernier leading the PPC](https://en.wikipedia.org/wiki/Maxime_Bernier), who also ran for Beauce.
+- You [*caaaan*](https://workstudyvisa.com/working-two-full-time-jobs-in-canada-right-or-wrong/) work two full-time jobs... it's not illegal or anything, as long as you can actually carry out 16 hours of work per day, and both employers get your taxes right.
+- Toyota made a [pure-electric RAV4](https://en.wikipedia.org/wiki/Toyota_RAV4_EV#Second_generation) back in 2012 ~ 2014. Partnered with Tesla and manufactured in Woodstock, of all places.
 - [Thunder Bay is more populous than Waterloo](https://en.wikipedia.org/wiki/List_of_municipalities_in_Ontario#Lower-tier_municipalities). Hell, even Mississauga is seven times the size of Waterloo, and Toronto, 27 times.
 - The ex-CTO of Willet went on to become [a Youtuber](https://www.youtube.com/c/BarbaraEMac/about) who streams herself playing games.
 - If you have a child, paying into the RRSP is preferred over TFSA because the lower your net income is, the more Canada Child Benefit you will get.

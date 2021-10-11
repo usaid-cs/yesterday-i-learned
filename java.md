@@ -139,3 +139,4 @@ groovy:000> Boolean.valueOf('true')
 - It is common knowledge for java developers that "NPE" stands for `NullPointerException`.
 - The java repl is called `jshell`. If you have a JDK installed, you already have it.
 - If you add a number to a string (e.g. `"hello " + 5`), [you get the string](https://codegym.cc/groups/posts/int-to-string-java) `hello 5`. You do that in python, and you get a TypeError. So python is more strongly-typed than java in at least one way.
+- So many things are stuck on Java 8 because Java 9 is not backward-compatible.

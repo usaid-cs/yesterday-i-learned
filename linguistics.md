@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Americans put the ending punctuation of a quote, "inside a quote," which [makes no sense](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/). Brits put the same thing, "outside the quote".
+- "Replace" and "remove" could have meant the same thing at some point in time.
 - You are accountable *for* something, but accountable *to* someone.
 - *Samoa* is more SA-muah than it is sa-MO-ah.
 - *Entrepreneur* ("undertaker") means someone who takes on work, i.e. someone who does stuff without someone else telling them what to do.

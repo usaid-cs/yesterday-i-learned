@@ -1,3 +1,4 @@
+- Cities that are built on lakes, e.g. [Mexico City](https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake#Preface), sit on clay and silt that amplify seismic shaking, and suffers from worse earthquakes due to soil liquefaction.
 - "The ocean is so salty" because [rivers have been leeching salt from rocks for billions of years](https://getpocket.com/explore/item/so-why-is-the-ocean-so-salty), and it's not like the salt has any substantial way to go back on land, other than slow-acting tectonic activity, or things like lagoons drying up.
 - [Pacific and Atlantic ocean waters don't mix](https://www.geologypage.com/2017/11/atlantic-pacific-ocean-not-mix.html). Their [difference in salinity](https://en.wikipedia.org/wiki/Halocline), temperature, and direction of flow make them hard to mix together.
 - A [bog](https://sierraclub.bc.ca/a-marsh-a-bog-a-swamp-a-fen/) is nutrient-poor. A fen has slow-flowing water that might have nutrients.

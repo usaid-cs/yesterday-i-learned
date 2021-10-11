@@ -11,3 +11,4 @@
 - **Sie**: She (singular/plural) / it (feminine) / You (formal) / They (formal)
 - **Suppe**: Soup. Sounds like sopper.
 - **Verstehen**: To understand. *Ich verstehe*: I understand.
+- **Zwei Dumme ein Gedanke**: Two dummies, one thought. *Zwei Dumme ein Gedanke*: great minds think alike.

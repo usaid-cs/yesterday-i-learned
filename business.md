@@ -1,5 +1,6 @@
 ![Pls deliver](https://i.redd.it/iznqp1y5vs4z.jpg)
 
+- The [Friedman doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine) says that a company's sole responsibility is to its shareholders, and no one else; maximise returns to shareholders.
 - Big companies give employees actual goals. You need to meet those goals to be promoted.
 - [Responsibilities of a CEO (among other things)](http://blog.staply.co/startup-legal-do-it-by-yourself)
 - Acquisition is one of the things most CEOs delay until it is too late.
@@ -35,6 +36,7 @@
 - "Sometimes people talk shit. Sometimes people have bad days. Don't take either personally."
 - Your coworkers may want to discuss salary. [There are pros and cons](https://www.monster.ca/career-advice/article/Pros-And-Cons-Of-Discussing-Salaries-At-Work) to discussing salary. Most importantly, discussing salaries is to _your personal advantage_, but may be a disadvantage to team productivity.
 - Product managers can be hired straight out of college. They do not require managerial experience (though it is good to have some, obviously).
+- Amazon has [14 principles that help leaders be leaders](https://customerthink.com/the-14-leadership-principles-that-drive-amazon/).
 
 ## [How not to fail](http://themacro.com/articles/2016/06/how-not-to-fail/)
 
@@ -44,3 +46,7 @@
 - Know if you’re default alive. (default alive is operational breakeven)
 - Keep expenses low. (don't hire too many people)
 - Fundraising gets harder. (VCs don't fund failures)
+
+## Agile / Lean / Scrum
+
+- [Value-stream mapping](https://en.wikipedia.org/wiki/Value-stream_mapping) forces you to list out the processes, mention what value each step brings, and eliminate processes that don't bring any value.

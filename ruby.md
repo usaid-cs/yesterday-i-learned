@@ -105,7 +105,7 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 - `super` (the word) is `super()`.
 - [Single-quoted strings are like Python's `r"raw strings"`.](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 - "Python prevents modification of built-ins — Ruby does not."
-- Only `false` and `nil` are falsy. Everything else, including `0` and `0.0`, is truthy.
+- Only `false` and `nil` are falsy. Everything else, including `0` and `0.0`, is truthy. `[]` is truthy and is a special case you need to handle. `{}` is truthy and is a special case you need to handle. `''` is truthy and is a special case you need to handle.
 - There is no `del`, but you can set something to `nil`. Referencing something that has been set to `nil` never raises `NameError`, however.
 - [`=~` is "matches"](http://programmers.stackexchange.com/questions/46584/what-should-a-python-developer-know-while-learning-ruby): `if mystring =~ /^\s+hello word!/`
 - [A constant is a thing starting with upper case](http://www.local-guru.net/blog/2009/2/10/ruby-symbols-vs-string-vs-constant) and they can be modified. That's right.
@@ -125,3 +125,6 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 - Arrays are pretty much operable as sets if you do it. `[1,2,3,4,5] | [2,4,6]` indeed gives you `[1,2,3,4,5,6]`, and `[1,2,3,4,5] - [2,4,6]` indeed gives you `[1,3,5]`.
 - Ruby 2.6 introduces [endless ranges](https://anamaria.martinezgomez.name/2018/12/21/ruby2_6.html) like `(1..)` that goes to Infinity, sort of useful for things you would otherwise do with a while loop but don't like that.
 - [`0` is truthy](https://nkanaev.github.io/posts/polyglot/) because it's just a number. `""` is truthy because it's just a string. [Literally everything is truthy](https://riptutorial.com/ruby/example/2092/truthy-and-falsy-values) other than `nil` and `false`. Might as bloody well make `false` truthy because it's just a boolean.
+- Both `exit` and `quit` exits the `irb`. `find` and `detect` are synonyms. `map` and `collect` are the same. [When you type something, ruby does what you think you mean... and that is the behaviour some people like](https://www.youtube.com/watch?v=GC-XIchAcqM), over explicit understanding, and "one way to do things".
+- `require 'foo'` imports literally everything from the `foo` package. This is equivalent to `from foo import *`, where you have no way to prevent something you don't just from being imported.
+- `unless` is like, `if not`, except there is a keyword for it, and it confuses everyone `unless` you were the one who wrote it.

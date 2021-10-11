@@ -177,6 +177,20 @@ Procedures:
 - Mix 1tbsp cornstarch with 2tsp chicken mix and add to boil.
 - Serve with rice.
 
+## "Yunnan Mixian"
+
+This recipe relies on the Chinese cooking mantra of never measuring anything, called "少許" and "適量".
+
+- Bring rice vermicelli (however much you want to eat) to a boil, and soak for 30 minutes.
+- Brown ground pork.
+- Add two cloves of minced garlic and continue browning until garlic is cooked.
+- Add two tsp of "香辣醬", "黃豆醬", and "老干妈", respectively, plus some olive oil, and continue browning until the sauces are mixed.
+- Prepare a bowl, and put in it a) one clove of crushed garlic, b) 5mL soy sauce, c) a dash of MSG, d) a dash of salt, e) a dash of white pepper powder, f) about 2g of sugar, and g) little bits of some green onions.
+- Boil 50g of roughly-chopped napa for each bowl of noodles.
+- Boil 1/4 of a tomato, chopped into orange-like slices, for each bowl of noodles.
+- Finely chop 15g of 老坛酸菜 for each bowl of noodles.
+- Cut into slices 50g of luncheon meat for each bowl of noodles.
+
 ## Stew
 
 Potato + tomato + carrot + beef = baby, you've got a stew goin

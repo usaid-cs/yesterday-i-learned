@@ -97,6 +97,7 @@
 - [The difference between `exports` and `module.exports`](https://stackoverflow.com/a/7142924/1558430) is, basically, you can't assign anything atomic to `exports`, i.e. `exports = foo...`. The _original_ reference to `exports` is exported, which means your new assignment is not.
 - `mkdirSync(... recursive: true)` is only available on Node 10.12 and above.
 - `package-lock.json` generation can be turned off by setting [`package-lock=false` in `~/.npmrc`](https://stackoverflow.com/a/50313235/1558430). Then, if you want to have it generate a package-lock while that setting is in effect, run `npm i --package-lock`.
+- There is a package called [`i`](https://github.com/pksunkara/inflect) so you can `npm i i`
 
 ## [Promise API](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 

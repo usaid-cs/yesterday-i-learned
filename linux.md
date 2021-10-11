@@ -1,6 +1,7 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
-
+- gcc's [`-O3` is not guaranteed to be faster than `-O2`](https://wiki.gentoo.org/wiki/GCC_optimization#-O). Sometimes it might increase memory usage and make things slower.
+- [Kernel Samepage Merging](https://en.wikipedia.org/wiki/Kernel_same-page_merging) was originally added to help host systems run multiple copies of a guest OS (virtual machine) more efficiently.
 - Some keyboards (in my case, a Keychron K1) default to having no support for fn keys. To fix it, go [make a file called `/etc/modprobe.d/hid_apple.conf`](https://old.reddit.com/r/MechanicalKeyboards/comments/d5y5if/keychron_2_bt_connection_stuck_in_numpad_mode/f2bwwe8/), put `options hid_apple fnmode=0` in it, and run `sudo update-initramfs -u`.
 - The keyword `done` itself can [be backgrounded](https://unix.stackexchange.com/a/223780/473817), i.e. `done &`. Then the whole thing runs in the background.
 - Not sure why it's on my machine, but `fpcalc` helps fingerprint music files, which helps you deduplicate your library.
