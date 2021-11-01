@@ -116,6 +116,7 @@
 - `ALTER TABLE ADD COLUMN ... DEFAULT` **does** affect existing rows, writing that default value into every row, **if** the postgres version is 10 or under.
 - Postgres [in particular](https://stackoverflow.com/a/20154382/1558430) allows multiple NULLs in a nullable, yet UNIQUE column. Other databases might not have the same behaviour.
 - [`ANALYZE foo;`](https://www.postgresql.org/docs/9.3/sql-analyze.html) updates the row estimates (`reltuples`) for that table.
+- The [`RETURNING id`](https://stackoverflow.com/a/2944481/1558430) in `INSERT INTO persons (lastname,firstname) VALUES ('Smith', 'John') RETURNING id;` helps you know what you just inserted. Otherwise you will have to assume the last thing you inserted was the one, which is not true if there are multiple writers.
 
 ## Performance
 

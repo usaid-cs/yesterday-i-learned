@@ -1,3 +1,7 @@
+- Bill Clinton, George W Bush, and Donald Trump were all born in 1946.
+- [NEMA connectors](https://en.wikipedia.org/wiki/NEMA_connector#NEMA_5) actually have the ground hole up in the specs. Like UK plugs. But residential buildings have those beneath the live and neutral holes because people have gotten used to seeing them that way.
+- Those "no selling beer from midmight to 6am" laws certainly don't help the people who work night shift.
+- NASA does research on [anything within and outside the Earth's atmosphere](https://obamaadministration.archives.performance.gov/agency/national-aeronautics-and-space-administration.html). That's basically everything above the ground.
 - Due to a product name conflict, [Smarties](https://en.wikipedia.org/wiki/Smarties) is simply not sold in the US.
 - After his presidency, Obama got rich from speaking fees paid by wealthy companies, the contents of which influenced policies which help wealthy companies remain rich. So when [Obama says "tax the rich, including me"](https://www.theguardian.com/us-news/2021/sep/28/barack-obama-tax-rich-personal-wealth-biden-spending-plan), the rich might already have a plan against it.
 - The Centers for Disease Control and Prevention issued a [ban on evictions](https://www.cdc.gov/coronavirus/2019-ncov/covid-eviction-declaration.html). The supreme court later said that the CDC doesn't issue eviction moratoria.

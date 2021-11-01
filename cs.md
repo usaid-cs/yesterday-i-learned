@@ -196,25 +196,14 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 
 ## Hashes
 
+There are hash maps (dicts) and hash sets (sets). In some languages, there are ways to override an object's `getHashCode` or equivalent, such that you can prevent yourself from adding something into a hashmap/set more than once (for whatever reason).
+
 ## Monads
 
 - [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming\)) are "functional expressions" like `== null`.
 - Monads aren't useful alone; they require composition to do real work. _Binding_ two monads means `(monad1 ∘ monad2)(x) -> monad1(monad2(x))`.
 - When monads are composed, they can short-circuit evaluations, making programs run faster.
 - Game theory: sometimes the intuitive option isn't the one you should pick -- nor is the unintuitive option, because that's also what the other guy is thinking. [Here are a few examples](http://wjspaniel.wordpress.com/2014/05/25/game-theory-is-really-counterintuitive/).
-
-# Challenges
-
-- [ ] Erlang (concurrent programming)
-- [ ] [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [ ] TCP/IP
-- [ ] Machine learning (stocks)
-- [ ] Image (logo) recognition
-- [ ] Haskell (functional static programming)
-- [ ] Fabric (deployment)
-- [ ] Hadoop (mapreduce / parallelism)
-- [ ] Julia (science)
-- [ ] ETag tracking
 
 # Misc
 
@@ -257,3 +246,4 @@ Heaps are ordered binary trees. Max heaps are heaps where the parent is always g
 - [On data ensapsulation in OO](https://stackoverflow.com/questions/2747721/getters-and-setters-are-bad-oo-design): "don't ask for the information you need to do the work; ask the object that has the information to do the work for you."
 - The word "trie" has the same pronunciation as "try".
 - Software can't tell you the big-O complexity of an algorithm [because of the halting problem](https://stackoverflow.com/questions/38420564/is-there-a-programmatic-way-or-eclipse-plugin-to-calculate-big-o-notation-for-ja). There may be plugins that tell you an approximate runtime, though.
+- [Continuous integration](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) just means your feature code is quickly merged into master. Automated tools help with the whole testing thing in the process.

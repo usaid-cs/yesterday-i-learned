@@ -1,5 +1,6 @@
 # Das Vereinigte Königreich
 
+- Z is pronounced *Zed* to reflect its origin, the Greek alphabet [*zeta*](https://en.wikipedia.org/wiki/Zeta)... which the Brits pronounce *ZEEta*.
 - Scotland is a country, just not a sovereign one.
 - 事頭婆 means "the woman in charge". It originally referred to the Queen.
 - [Pound cakes](https://en.wikipedia.org/wiki/Pound_cake), cakes made with one pound of each of (flour, butter, eggs, sugar), date back to the 1700s. [Sara Lee sells pound cakes](https://saraleedesserts.com/products/butter-pound-cake/) in... one-pound (454g) containers. I may also wager that, at one point, these pound cakes must have been sold for exactly one pound (£).
@@ -12,7 +13,7 @@
 - When the royalty fill in forms for applications and whatnot, they [really don't put in a last name](https://twitter.com/CBCAlerts/status/991288343907454976/photo/1).
 - The longest country name in the world is "the United Kingdom of Great Britain and Northern Ireland".
 - The use of [Defender of the Faith](https://en.wikipedia.org/wiki/Defender_of_the_Faith) in a king/queen's title predates Henry VIII, who famously didn't defend the faith.
-- Henry VIII not only created a whole new religion to allow him to divorce a woman and marry a new one---[he executed his new wife, too!](https://www.youtube.com/watch?v=B3VHd2D-SLM)
+- Henry VIII not only created a whole new religion to allow him to divorce a woman and marry a new one---[he executed his new wife, too](https://www.youtube.com/watch?v=B3VHd2D-SLM)!
 - England lost its only European mainland territory, [Pale of Calais](https://en.wikipedia.org/wiki/Pale_of_Calais), when [Mary I was busy burning her own people for protestant heresy](https://en.wikipedia.org/wiki/Siege_of_Calais_%281558%29) (1558).
 - [The fall of the British Empire can be traced back directly to World War II](https://www.theweek.co.uk/history/93820/british-empire-how-big-was-it-and-why-did-it-collapse), says BBC. The war bankrupted the UK and comprised its economic independence. When Hong Kong was transferred (back) to China in 1997, Prince Charles called it the [end of the Empire](https://www.washingtonpost.com/news/worldviews/wp/2015/09/08/map-the-rise-and-fall-of-the-british-empire/).
 - [A doctor was fired for refusing to call a hypothetical six-foot man "madam"](https://nationalpost.com/news/world/u-k-doctor-fired-after-refusing-to-refer-to-theoretical-six-foot-tall-bearded-man-as-madam-sues-government): _"I appreciate that in the present political climate, some people, including some of those who believe they are transgender, may find my beliefs to be offensive. However, in a free society, this is not a good enough reason to censor my beliefs and coerce me to act contrary to my conscience."_

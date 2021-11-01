@@ -42,3 +42,4 @@
 - Modifying RDS instance type with multi AZ enabled will also reduce (but not completely eliminate) downtime. The two databases will be upgraded stepwise, but there may be a DNS changeover period where neither instances are usable.
 - Databases with replicas cannot upgrade major versions unless you remove the read only database first.
 - Use `resize2fs /dev/nvme0n1p1` as part of the [officially sanctioned way to grow a partition](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html) after it's resized from the console.
+- Every query on kibana (and grafana?) that does not use `.keyword` on a string will be a wildcard search on the field for values containing that string. For example, `message = "foo"` will return any message containing `foo`, while `message.keyword = "foo"` will return messages that are exactly `foo`.

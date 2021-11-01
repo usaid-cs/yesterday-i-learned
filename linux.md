@@ -336,3 +336,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - [GPG's "web of trust"](https://www.gnupg.org/gph/en/manual.html#AEN385) makes a key valid or invalid depending on how far a new key is from the closest key that you have trusted.
 - `sleep 5` sleeps for 5 seconds. `sleep 5h` sleeps for 5 hours. Other suffixes also work.
 - To see which PPAs you use, run `apt policy`.
+- The recommended swappiness for ubuntu desktops is... [10?](https://askubuntu.com/a/149427)

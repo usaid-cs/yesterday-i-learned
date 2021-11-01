@@ -1,5 +1,8 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Softwood makes up 80% of all lumber production.
+- GitLab is [Y Combinator's first ever open-source company to go public](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/).
+- [Dark mode saves only 8.5% of power when the screen's brightness is at 50%](https://www.forbes.com/sites/jvchamary/2021/07/31/phone-battery-life-dark-mode/). The savings is higher when the screen is at 100% brightness.
 - Phillips electric toothbrush heads come with RFID chips that [scream at you](https://www.nytimes.com/wirecutter/blog/electric-toothbrush-brush-heads/) if you use knockoff ones. ["We are heading to a fully immersive subscription environment. If you want a particular lifestyle, there's a subscription for that."](https://old.reddit.com/r/collapse/comments/q5k1ud/im_really_worried_about_the_near_term_collapse_of/hg6uyfv/)
 - [Onix is roughly the density of styrofoam](https://socratic-form-microscopy.com/2018/08/16/pokemon-are-made-of-styrofoam/), and Steelix is possible only if it is made with foil and vacuum inside.
 - The "same" product can be cheaper at Walmart because [they specifically ask some manufacturers to make them in cheaper ways](https://old.reddit.com/r/HomeImprovement/comments/q46kbt/i_want_to_gut_my_full_bathroom_one_problem_its_my/hfxzdw2/), even though they might look the same. [Some plumbers recommend Moen](https://old.reddit.com/r/HomeImprovement/comments/q46kbt/i_want_to_gut_my_full_bathroom_one_problem_its_my/hfx9sop/) ("or equivalent", but didn't mention what is equivalent).

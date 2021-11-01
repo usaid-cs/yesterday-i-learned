@@ -1,3 +1,4 @@
+- [七輪](https://en.wikipedia.org/wiki/Shichirin) (seven wheels) means "small charcoal grill" in Japanese. Apparently because the grill uses only (basically "seven dollars")-worth of charcoal when it gained popularity.
 - [F.R.I.E.N.D.S](https://en.wikipedia.org/wiki/Friends) was a show about *six* friends, not seven.
 - [The very first Wilhelm Scream](https://youtube.com/watch?v=dc5F2C0CYlA) came from some poorly-acted scene in an adventure film.
 - Dua Lipa is her real name. It doesn't mean "two lips" or anything special.

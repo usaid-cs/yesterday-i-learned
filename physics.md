@@ -1,3 +1,4 @@
+- High-impedance headphones, which are headphones [greater than 50 ohms in resistance](https://www.headphonesty.com/2019/04/headphone-impedance-demystified/), [are more protected from high-power audio equipment than low-impedance headphones](https://usa.1more.com/blogs/reviews/do-ohms-impedance-matter-in-earphones-and-headphones). However, with high-impedance headphones, the sound might sound quiet if the source is low-power.
 - No known physical model can describe behaviour above [10^32 K](https://en.wikipedia.org/wiki/Planck_units#Planck_temperature). Something about gravitational forces becoming as strong as electromagnetic and nuclear forces.
 - There are air conditioners that freeze ice during off-peak hours to help you use AC with minimal electricity during on-peak hours.
 - People don't have [home gravity battery systems](https://www.wired.com/story/battery-built-from-concrete/) because the energy density is almost bullshit.
