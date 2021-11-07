@@ -1,3 +1,4 @@
+- A research says [women select mates more often through "immune system genetic diversity"](https://www.thenorthernecho.co.uk/news/1290802.ugly-truth-beautiful-peoples-dna/), than they do by looks. This might explain why ugly people exist, despite the population selecting against it.
 - Eating pine nuts sometimes develops [pine mouth](https://en.wikipedia.org/wiki/Pine_nut#Taste_disturbances), where everything you eat for the next few weeks will taste bitter and metallic. No medical attention is needed.
 - There is no "detoxing". Just eat healthy (i.e. don't take on toxins in the first place) and your liver will clean up the rest.
 - If you are in enough shock, [you won't feel pain, even though you are well aware of what's happening](https://www.thenational.scot/news/17510066.birth-legend-remembering-scotlands-famed-explorer/).
@@ -1340,7 +1341,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - The bauhinia, [Bauhinia × blakeana](https://en.wikipedia.org/wiki/Bauhinia_%C3%97_blakeana), is sterile. Someone has been planting it everywhere.
 - An orthotic's "break in period" is for your foot, not for the orthotic itself.
 - [Claims had been made](http://lifehacker.com/what-happens-to-the-brain-when-you-meditate-and-how-it-1202533314) that meditation improves memory recall.
-- [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days. [Source](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726172/)
+- [Acclimatization](https://www.reddit.com/r/explainlikeimfive/comments/418tjp/eli5people_who_are_exposed_to_the_cold_more_build/cz0fqcc), adjusting to the cold, takes 10 or more days. [Source](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726172/) used a temperature of 15-16 °C for 6 hours per day.
 - There is an entire [page](https://en.wikipedia.org/wiki/Comparative_foot_morphology) on how feet are evolved to have different shapes.
 - The Hercules beetle and the Goliath beetle have the largest larval stages on Earth.
 - It is not uncommon for people to [hear explosions just as they fall asleep](https://en.wikipedia.org/wiki/Exploding_head_syndrome).

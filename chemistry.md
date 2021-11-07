@@ -1,5 +1,8 @@
 “It is only the dose which makes a thing poison.” - Paracelsus
 
+- Chelated mineral supplements (e.g. calcium citrate) don't need to be taken with food because ["a mineral has been bound to an acid, so it doesn’t rely on your stomach acid to break it down"](https://www.washingtonpost.com/lifestyle/wellness/morning-or-night-with-food-or-without-answers-to-your-questions-about-taking-supplements/2019/02/04/5fcec02a-2577-11e9-81fd-b7b05d5bed90_story.html). I am not sure why calcium citrate is considered chelated... maybe it really is an alkali earth *metal*, I guess.
+- Galvanised (zinc-coated) pipes and fittings can leak zinc into drinking water if the water is, at any point, acidic.
+- PEX piping is [resistant to mineral deposits](https://www.rotorooter.com/frequently-asked-questions/pipes/how-to-remove-calcium-buildup-in-drains-and-pipes/)? PVC is not. PEX piping is [colour-coded](https://www.bobvila.com/articles/pex-pipe/): red for hot, blue for cold, and anarchy for any other colour.
 - Duralumin is 80% aluminium, 20% copper, and traces of other stuff.
 - 1 m³ of gas is roughly 10.5 kWh of energy.
 - Aluminium is the only common metal, used as a metal, that is not considered [heavy](https://en.wikipedia.org/wiki/Heavy_metals). Other candidates include: alkali metals, every alkali earth metal except for radium, scandium, and yttrium.

@@ -640,3 +640,4 @@ bar
 - Formula for sorting items using custom behaviour: `sorted(..., key=lambda x: ...)`
 - `1 < 3 in [2, 3]` evaluates to true. Notice that `1 < True` is false and `True in [2, 3]` is false as well. Due to elemental fuckups (non-transitive operators), [`1 < 3 in [2, 3]` expands to `1 < 3 and 3 in [2, 3]`, which is true](https://old.reddit.com/r/ProgrammerHumor/comments/pukt2h/was_your_first_day_with_python_just_like_that/he4xof1/?context=3). The behaviour stems from `a < b < c` expanding to `a < b and b < c`.
 - `json.dumps(float('inf'))` gets you the string `'Infinity'`. [You need `json.dumps(float('inf'), allow_nan=False)` to be compliant with the JSON standard](https://news.ycombinator.com/item?id=28826600).
+- `vars()` is the same as `locals()` if no argument is given, and the same as `foo.__dict__` if called as `vars(foo)`.

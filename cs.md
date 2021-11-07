@@ -1,66 +1,121 @@
-# Being a developer
+# Computer Science
 
-A senior anything developer needs to know more than just a specific language.
-I would go so far as to argue there's no such thing as a senior php developer or a senior javascript developer. There's only a _senior_ developer.
-Basically, if you were handed a project and needed to do it from start to finish on your own, could you?
+## [Grades](https://www.levels.fyi/2019/) of Developers
+
+### Entry-level (0~2 years)
+
+New-grads or little to no industry experience.
+Develop and maintain low to moderately complex components working on a team.
+Typically receives guidance and support from more experienced team members.
+
+### Intermediate engineers (2~5 years)
+
+Develop and own moderate to complex components.
+Possibly lead a small team or project.
+Ability to mentor engineers, provide technical guidance, code reviews, design and deliver on small projects end-to-end.
+Impact is typically at the immediate team scope.
+At many companies, this is considered a 'career-level', as in you can spend the rest of your career operating at this level without being pushed out for not being promoted.
+
+### Senior engineers (5+ years)
+
+* Typically less than 30% of employees in a company are at this level.
+* **Expected to lead and own complex technical initiatives.**
+* Expected to solve a problem / finish a project in the best way possible, not just in ways they already know about.
+* Begin setting the vision and future direction of team.
+* Impact across multiple related teams within an org.
+* Role shifts more towards design rather than implementation depending on size and expectations at company.
 - Learn to push back. You aren't hired to be a code monkey. You are hired to make high quality contributions.
 
-## [Grades](https://www.levels.fyi/2019/)
+### Staff engineers (10+ years)
 
-* Entry-level (0~2 years): New-grads or little to no industry experience. Develop and maintain low to moderately complex components working on a team. Typically receives guidance and support from more experienced team members.
-* Normal engineers (2~5 years): Develop and own moderate to complex components. Possibly lead a small team or project. Ability to mentor engineers, provide technical guidance, code reviews, design and deliver on small projects end-to-end. Impact is typically at the immediate team scope. At many companies, this is considered a 'career-level', as in you can spend the rest of your career operating at this level without being pushed out for not being promoted.
-* Senior engineers (5+ years): Typically less than 30% of employees in a company are at this level. Expected to lead and own complex technical initiatives. Begin setting the vision and future direction of team. Impact across multiple related teams within an org. Role shifts more towards design rather than implementation depending on size and expectations at company.
-* Staff engineers (10+ years): This level is much more coveted than the previous ones. Typically less than 10% of employees in a company are at this level. Impact spans across organizations. Entrusted with business-critical projects and for setting technical vision for an org or multiple orgs. Responsible for reviewing and providing feedback on technical designs across an org. Little to no day-to-day coding. Role depends highly on organizational and company needs and becomes loosely defined. Expected to operate fully autonomously.
-* Principal engineers (15+ years): Usually less than 3% of employees in a company are at this level. Smaller companies may not have any individuals at this level. Impact spans across the company and sometimes industry. Expected to operate fully autonomously.
+* This level is much more coveted than the previous ones.
+* Typically less than 10% of employees in a company are at this level.
+* Impact spans across organizations.
+* Entrusted with business-critical projects and for setting technical vision for an org or multiple orgs.
+* Responsible for reviewing and providing feedback on technical designs across an org.
+* **Little to no day-to-day coding.**
+* Role depends highly on organizational and company needs and becomes loosely defined.
+* **Expected to operate fully autonomously.**
 
-## Tools & Scoping
+### Principal engineers (15+ years):
 
-- If I gave you a client spec, could you find enough of the holes in it to inform management that their $40,000 bid should really be $120,000?
-- Given a client spec, would you be able to select the appropriate tool for the job? That is, should be it Wordpress? Should it be Drupal? Should it be Joomla? (trick question, it should never be Joomla). Should it be Symfony, or Laravel? Should it be 100% custom?
+* Usually less than 3% of employees in a company are at this level.
+* Smaller companies may not have any individuals at this level.
+* Impact spans across the company and sometimes industry.
+* Expected to operate fully autonomously.
 
-## System Administration & Dev Ops
+## Data Structures
 
-- Could you spool up an appropriate Amazon server? Could you set up a working environment in Vagrant that is easy for another developer to spin up if you needed their help?
-- Could you obtain an SSL cert and get it hooked up?
-- ~~Could you untangle some nasty push into a git repo?~~
+### Linked lists
 
-## Full Stack
+There are singly-linked lists, and then there are doubly-linked lists.
 
-- Could you create a responsive, semantically clear HTML front-end? What about javascript? Clean javascript, not some jQuery jungle.
-- Can you manage a MySQL or Postgres DB without help? Going back to tools & scoping, is a relational database even the right solution for project? Should you use a mix of both?
-- Can you cleanly integrate & optimize both (SQL/NoSQL)?
-- Do you know how to scale relational and non-relational databases?
-- Do you know how to utilize transactions in PHP and set up foreign key constraints and cascades to ensure data integrity?
-- What about apache/ngnix and other server-related things?
+Learn about the two-pointer method for linked list manipulation.
 
-## Leadership & Teamwork
+### Stacks
 
-- A leader serves. It is not about power or fame. If you don't serve, you are just a Donald Trump to your team.
+Stacks can be used to implement [depth-first search](https://www.youtube.com/watch?v=iaBEKo5sM7w). If you use recursion, you use a (call) stack already.
 
-### Q
-- If you didn't have the time to do anything yourself, could you effectively manage a team of developers to hit milestones and sprint targets? (effectively becoming a low-level PM) How would you do it?
-- How would you best allocate resources to overcome blockers?
-- Can you lead a code review?
-- Would you know how to assign tasks to the right people such that they become better developers as a result of working on this project - that is, pushing them ever so slightly out of their comfort zone, but not so far that it jeopardizes the product or timelines?
+1. Given a tree/graph and its root, push it onto the stack.
+2. Grab any of its children at random. Push it onto the stack. _Mark the node as visited._
+3. If there are unvisited nodes, continue 2.
+4. If there are no unvisited nodes, pop the node out of the stack.
 
+The stack being empty signals the end of the algorithm run.
 
-# Algorithms
+### Queues
+
+Queues can be used for BFS.
+
+### Priority Queues
+
+[Priority queues are typically implemented as heaps](https://stackoverflow.com/a/11093725/1558430). **Heaps**, in particular binary heaps, are binary trees whose topmost element is the smallest (in this case, highest priority). **Binary trees**, in turn, are typically implemented with arrays. We have come full circle.
+
+### trees
+
+"Leaves" refer exclusively to the nodes at the bottom level, not just any node with no children.
+A "full" tree is one that has the maximum number of leaf nodes.
+A "complete" binary tree is one that is full, except maybe for the last level.
+
+#### binary search trees
+
+* In-order traversal is important because if you traverse a BST in order, then it just so happens that [you'll get all elements in ascending order](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/).
+
+#### [B-trees](https://en.wikipedia.org/wiki/B-tree)
+
+No one knows what the B stands for.
+
+#### Post-order traversal
+
+Post-order traversal is a fancy name for "first visit the left, then visit the right, finally visit the current node".
+
+### Heaps
+
+Heaps are ordered binary trees. Max heaps are heaps where the parent is always greater than the child.
+
+### Hashes
+
+There are hash maps (dicts) and hash sets (sets). Both provide accessing an element in O(1) time (in a set's case, looking up an item itself).
+
+In some languages, there are ways to override an object's `getHashCode` or equivalent, such that you can prevent yourself from adding something into a hashmap/set more than once (for whatever reason).
+
+## Algorithms
 
 > _[Fancy algorithms are slow when n is small, and n is usually small. Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy.](http://users.ece.utexas.edu/~adnan/pike.html)_
 
-## [Bubble sort](http://www.ideserve.co.in/learn/bubble-sort)
+### [Bubble sort](http://www.ideserve.co.in/learn/bubble-sort)
 
 Iterating through the list, swap item n with item n+1 if item n+1 is smaller than item n. Repeat until no items are swapped in an entire run.
 
 Bubble sort gets its name because larger items bubble up to the end of the list (or smaller items bubble up to the front of the list).
 
-## [Selection sort](http://www.ideserve.co.in/learn/selection-sort)
+### [Selection sort](http://www.ideserve.co.in/learn/selection-sort)
 
 Find the smallest item in the array and take it out (or swap with the first item if you want).
 Find the next smallest item in the array and take it out (or swap with the second item if you want).
 Repeat until there are no items.
 
-## [Insertion sort](http://www.ideserve.co.in/learn/insertion-sort)
+### [Insertion sort](http://www.ideserve.co.in/learn/insertion-sort)
 
 Get yourself a new blank list.
 Take the first item from the array and place it in the list, sorted.
@@ -69,7 +124,7 @@ Repeat until there are no items in the array.
 
 This is different from selection sort only from where the next item is taken. Selection sort looks for the smallest item. Insertion sort gets the first item and figures where to put it.
 
-## [Bloom filter](http://en.wikipedia.org/wiki/Bloom_filter)
+### [Bloom filter](http://en.wikipedia.org/wiki/Bloom_filter)
 
 Heuristically determine if something is in a set, being correct most of the time.
 
@@ -91,121 +146,91 @@ for data in datas:
 
 If you need to, say, "get one random line from a file", and you don't want to keep every line in memory, then [replace the current line with the next line at a decreasing probability](https://www.wikiwand.com/en/Reservoir_sampling#/An_optimal_algorithm) of 1/(number of lines read). It is equivalent to picking the nth line at random.
 
-## "Space-time tradeoff"
+### "Space-time tradeoff"
 
 [Space-time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff) is usually "trade space for speed", rather than "trade speed for space". You frequently see things like caches (space for speed) and hashes (space for speed). There are occasions where space is limited (like in firmware), but they are comparatively rare.
 
-# Patterns
+## Patterns
 
 The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29): "one class does one simple thing, and the subclasses of this class also does the same thing."
 
-## Creational patterns
+### Creational patterns
 
-### Builder
+#### [Builder](https://refactoring.guru/design-patterns/builder)
 
-### Abstract Factory
+Lets you construct a complex object step by step. Useful for constructing different objects with the same setup code.
 
-### Factory Method
+```
+new Car()
+    .setWheels(4)
+    .setTransmission(manual)
+    .getProduct()
 
-### Prototype
+new Car()
+    .setWheels(2)
+    .setTransmission(CVT)
+    .getProduct()
+```
 
-### Singleton
+#### [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
 
-## Structural patterns
+The abstract factory interface has methods that claim to return an abstract object.
 
-### Adapter
+The concrete factories that subclass from the abstract factory can decide for themselves what kind of concrete objects they will produce.
 
-### Bridge
+#### [Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
-### Composite
+A concrete factory decides, for you, what kind of object you would like.
 
-### Decorator
+For example, the `Dialog.create` method will decide whether to return `WinDialog` or `MacDialog` depending on the OS context.
 
-### Facade
+#### Prototype
 
-### Flyweight
+Subclasses all support a method called `clone()`, and you delegate the cloning method to the object itself (since some parts of the object can be private).
 
-### Proxy
+#### Singleton
 
-## Behavioural patterns
+The class contains a `getInstance()` method, which keeps track of the first object that it creates, and returns a reference to that object every time.
 
-### Chain of Responsibility
+### Structural patterns
 
-### Command
+#### Adapter
 
-### Interpreter
+#### Bridge
 
-### Mediator
+#### Composite
 
-### Memento
+#### Decorator
 
-### Observer
+#### Facade
 
-### State
+#### Flyweight
 
-### Strategy
+#### Proxy
 
-### Template Method
+### Behavioural patterns
 
-### Visitor
+#### Chain of Responsibility
 
-# Data structures
+#### Command
 
-## Linked lists
+#### Interpreter
 
-## stacks
+#### Mediator
 
-Stacks can be used to implement [depth-first search](https://www.youtube.com/watch?v=iaBEKo5sM7w).
+#### Memento
 
-1. Given a tree/graph and its root, push it onto the stack.
-2. Grab any of its children at random. Push it onto the stack. _Mark the node as visited._
-3. If there are unvisited nodes, continue 2.
-4. If there are no unvisited nodes, pop the node out of the stack.
+#### Observer
 
-The stack being empty signals the end of the algorithm run.
+#### State
 
-## queues
+#### Strategy
 
-## Priority Queues
+#### Template Method
 
-[Priority queues are typically implemented as heaps](https://stackoverflow.com/a/11093725/1558430). **Heaps**, in particular binary heaps, are binary trees whose topmost element is the smallest (in this case, highest priority). **Binary trees**, in turn, are typically implemented with arrays. We have come full circle.
+#### Visitor
 
-## dicts
-
-## trees
-
-"Leaves" refer exclusively to the nodes at the bottom level, not just any node with no children.
-A "full" tree is one that has the maximum number of leaf nodes.
-A "complete" binary tree is one that is full, except maybe for the last level.
-
-### binary search trees
-
-* In-order traversal is important because if you traverse a BST in order, then it just so happens that [you'll get all elements in ascending order](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/).
-
-### [B-trees](https://en.wikipedia.org/wiki/B-tree)
-
-No one knows what the B stands for.
-
-### Post-order traversal
-
-Post-order traversal is a fancy name for "first visit the left, then visit the right, finally visit the current node".
-
-## Heaps
-
-Heaps are ordered binary trees. Max heaps are heaps where the parent is always greater than the child.
-
-## Hashes
-
-There are hash maps (dicts) and hash sets (sets). In some languages, there are ways to override an object's `getHashCode` or equivalent, such that you can prevent yourself from adding something into a hashmap/set more than once (for whatever reason).
-
-## Monads
-
-- [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming\)) are "functional expressions" like `== null`.
-- Monads aren't useful alone; they require composition to do real work. _Binding_ two monads means `(monad1 ∘ monad2)(x) -> monad1(monad2(x))`.
-- When monads are composed, they can short-circuit evaluations, making programs run faster.
-- Game theory: sometimes the intuitive option isn't the one you should pick -- nor is the unintuitive option, because that's also what the other guy is thinking. [Here are a few examples](http://wjspaniel.wordpress.com/2014/05/25/game-theory-is-really-counterintuitive/).
-
-# Misc
+## Misc
 
 - **Tail call optimisation** refers to the behaviour in recursive functions for when a true function (one that has no side effects) calls itself again as the only operation in the last statement, allowing the computer to run that function while preserving the function's address space.
 - **P Problems** (or just P) are problems that an algorithm can solve in polynomial time. P is also known as _quickly solvable_.
@@ -247,3 +272,4 @@ There are hash maps (dicts) and hash sets (sets). In some languages, there are w
 - The word "trie" has the same pronunciation as "try".
 - Software can't tell you the big-O complexity of an algorithm [because of the halting problem](https://stackoverflow.com/questions/38420564/is-there-a-programmatic-way-or-eclipse-plugin-to-calculate-big-o-notation-for-ja). There may be plugins that tell you an approximate runtime, though.
 - [Continuous integration](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) just means your feature code is quickly merged into master. Automated tools help with the whole testing thing in the process.
+- A "[data race](https://en.wikipedia.org/wiki/Race_condition#Data_race) condition" occurs when two or more threads access the same memory concurrently.

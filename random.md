@@ -1,5 +1,8 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- [Proof-of-stake](https://www.investopedia.com/terms/p/proof-stake-pos.asp) ("if you have 3% of coins, you can mine 3% of new coins") makes hacking a blockchain disadvantageous for the people already with the largest stakes.
+- Mods can see deleted messages on Discord.
+- On [salt-based vs salt-free water softeners](https://www.rwatersystems.com/5-water-softener-scams-to-be-aware-of): "While salt free systems are good at scale prevention that is pretty much all they are good for.  Salt Free Systems pretty much do nothing for you when it comes to softer skin and hair or getting rid of soap scum or hard water toilet rings.  They also don’t do a whole lot towards getting rid of those unsightly water spots on your glass show wall doors or your dishes. (...)"
 - Softwood makes up 80% of all lumber production.
 - GitLab is [Y Combinator's first ever open-source company to go public](https://blog.ycombinator.com/gitlab-from-yc-to-ipo/).
 - [Dark mode saves only 8.5% of power when the screen's brightness is at 50%](https://www.forbes.com/sites/jvchamary/2021/07/31/phone-battery-life-dark-mode/). The savings is higher when the screen is at 100% brightness.
@@ -15,7 +18,7 @@
 - The average youtuber needs [3873 videos and 1 million subscribers](https://www.youtube.com/watch?v=VTTp5A-rSdc) to make "youtubing" a sustainable business model; to "succeed" in youtube.
 - It is impossible to build a silent mechanical keyboard. [People have spent hundreds of dollars and failed](https://www.youtube.com/watch?v=Q9k0YkiwgUk), and despite all that work, resulted in a poor typing experience.
 - Electric skateboards have remote controls that tell them to stop. It's not magic.
-- To "give [someone/something] a wide berth" means to give that someone or something a lot of distance in between. A berth is a ship's parking spot.
+- To "give someone/something a wide berth" means to give that someone or something a lot of distance in between. A berth is a ship's parking spot.
 - There are gas and electric clothes dryers. Gas dryers are cheaper to operate and gentler on clothes, but, you know, it uses gas. Gas isn't good for the environment.
 - RabbitMQ memory usage can [double](https://www.rabbitmq.com/memory.html) when the Erlang garbage collector kicks in, so any erlang application, including RabbitMQ, should never use more than 50% of available memory.
 - Houses need gutters so [the concentrated water can fuck up just one place, instead of fucking up the foundation all around the house](https://sunvek.com/blog/does-your-roof-actually-need-gutters/).

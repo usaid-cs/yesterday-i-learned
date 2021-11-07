@@ -303,7 +303,88 @@ Cassandra has a leaderless replication mode.
 
 ##### Sloppy Quorums and Hinted Handoff
 
+Quorum-based leaderless setups can tolerate failure of nodes, or slowness of individual nodes (because it doesn't need all nodes to return quickly). This makes the setup good for high-availability and low-latency work, if the application can tolerate the occasional stale read.
 
+However, a network outage can potentially cause the cluster to drop enough nodes to never reach a quorum.
+
+By allowing writes to temporarily write to nodes that aren't usually the ones to handle writes for a certain value, we achieve *sloppy quorums*... and when network is restored, these writes are synced to their home nodes (aka *hinted handoff*).
+
+##### Multi-datacenter operation, detecting concurrent writes, version vectors, etc
+
+All this stuff is in the book, but since I won't need it any time soon, you are free to read these sections yourself.
+
+## Chapter 6: Partitioning
+
+Partitioning is the same as *sharding*.
+
+* Normally, data goes to designated partitions, making each partition a mini database on its own.
+* Partitioning distributes database load across more DB instances. You may also achieve parallel reads for certain queries.
+* A node may store more than one partition. We did that once in one of the leader-follower examples, where a leader node contains a follower partition for another leader node.
+
+### Partitioning of Key-Value Data
+
+* The goal of partitioning is to distribute load, so if you don't partition right, and put all your load on some nodes and not others, we call that *skewed* (the busy nodes are called "hot spots").
+
+|            | Partitioning randomly                    | Partitioning by key range                                    | Partitioning by hash                       |
+|------------|------------------------------------------|--------------------------------------------------------------|--------------------------------------------|
+| What it is | Values are written to random nodes       | Partition by a range, e.g. time, letter of the alphabet, etc | Hash the key and select node based on that |
+| Pros       | Load is evenly distributed               | Easy range scans                                             | Load is evenly distributed                 |
+| Cons       | You don't know where you wrote the value | Potentially leads to hot spots                               | Ineffective range scans                    |
+
+* Range queries are not *impossible* on hash partitioning; the query will simply be sent to all partitions, which makes it ineffective.
+* Workloads continue to be skewed when one particular value is very popular, e.g. a celebrity's page. The book says you'll have to deal with that on your own.
+
+### Partitioning and Secondary Indexes
+
+* Secondary indexes help look up rows by value, but their results don't map nearly to partitions.
+* Secondary indexes partitioned by document: since secondary indexes are (more likely than not) individually created on each partition only for the records in it, searching by secondary index becomes *scatter / gather*, and is slow.
+* Secondary indexes partitioned by term: a partition can store an index for data that is not in it, but rather pointing to data in another partition. So your query for "red cars" goes to only one partition, who knows where all the records are for red cars.
+
+|            | Partitioning by term ("global index")                                   | Partitioning by document                           |
+|------------|-------------------------------------------------------------------------|----------------------------------------------------|
+| What it is | Partition keeps secondary index for data on any partition               | Partition keeps secondary index for data on itself |
+| Pros       | A query by secondary index does not need to go to all partitions        |                                                    |
+| Cons       | Difficult to maintain the index; writes are slower and more complicated | Increased load on reads                            |
+
+* Updates to secondary global indexes are often asynchronous due to the network cost.
+
+### Rebalancing Partitions
+
+Rebalancing moves data from one node to another, e.g. when a new node is added, replaced, or failed (data goes to remaining nodes).
+
+#### Strategies
+
+* The `(hash) mod n` strategy forces many keys to shift between nodes when n changes. This is not a viable strategy.
+* Fixed number of partitions: split data in your nodes into thousands of partitions. (Hear the book out.) When a new node is added, it can steal several partitions from existing nodes, and start serving that. Most of the data didn't need to move between nodes. When a node is removed, this happens in reverse.
+* Dynamic partitioning: partitions are dynamically split into two as their sizes grow. MongoDB supports this out of the box.
+* Partitioning proportionally to nodes: have a fixed number of partitions per node. Adding more nodes makes partitions smaller again. This keeps the size of partitions relatively stable.
+
+## Transactions
+
+Transactions group several reads and writes into a logical unit. With that, the application does not need to worry about partial failures.
+
+### ACID
+
+* Atomicity: all statements in a transaction are executed as a whole. A failure means everything in the transaction is rolled back.
+* Consistency: the database is in a good state... like constraints and stuff.
+* Isolation: the effects of a partially-executed transaction are not visible to other transactions. (There is a looser definition that says the state of the database should be left the same way as if the queries in parallel transactions were executed serially.)
+* Durability: once committed, the effects of a transaction stays in the database, even in case of failure.
+
+Some database systems don't guarantee durability. In particular, leaderless databases will often leave the database in a bad state if it finds itself unable to fix a problem. It then becomes the application's responsibility to be resilient against these errors.
+
+### Weak isolation
+
+Serialisable transactions ("isolation") have a cost, and some database systems don't want to pay that cost. These systems have limited isolation, and the quirks from which have caused bugs that cost companies real money.
+
+| Level                  |                                           |
+|------------------------|-------------------------------------------|
+| Read committed (1)     | No dirty-reads, no dirty writes           |
+| Snapshot isolation (2) | Each transaction reads from a DB snapshot |
+
+* "dirty-read" means transaction A can see what transaction B wrote, but before B is committed.
+* "dirty-write" means transaction A can overwrite what transaction B wrote, but before B is committed. (There's a cool ["car dealer" case study][3] in the book.)
+* "nonrepeatable read" (write skew) happens when you run two identical queries in a transaction (with no updates in between), but get different values for each, because another transaction updated the values from outside.
 
 [1]: https://www.ibm.com/docs/en/powerha-aix/7.2?topic=aix-high-availability-versus-fault-tolerance
 [2]: https://www.goodreads.com/quotes/9471841-if-you-want-to-guarantee-that-there-will-be-no
+[3]: https://ebrary.net/64771/computer_science/dirty_writes
