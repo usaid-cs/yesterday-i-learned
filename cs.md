@@ -28,11 +28,12 @@ At many companies, this is considered a 'career-level', as in you can spend the 
 
 ### Staff engineers (10+ years)
 
-* This level is much more coveted than the previous ones.
-* Typically less than 10% of employees in a company are at this level.
+This level is much more coveted than the previous ones. Typically less than 10% of employees in a company are at this level.
+
 * Impact spans across organizations.
-* Entrusted with business-critical projects and for setting technical vision for an org or multiple orgs.
+* Entrusted with business-critical projects in highly-ambiguous problem spaces, from start to finish, while balancing various technical trade offs including speed to delivery, maintainability, and system performance, and for setting technical vision for an org or multiple orgs.
 * Responsible for reviewing and providing feedback on technical designs across an org.
+* Responsible for mentoring new hires and other engineers to help them become more proficient by example, tech talks, paired programming, and other avenues to increase technical efficiency across the organization.
 * **Little to no day-to-day coding.**
 * Role depends highly on organizational and company needs and becomes loosely defined.
 * **Expected to operate fully autonomously.**
@@ -69,15 +70,15 @@ Queues can be used for BFS.
 
 ### Priority Queues
 
-[Priority queues are typically implemented as heaps](https://stackoverflow.com/a/11093725/1558430). **Heaps**, in particular binary heaps, are binary trees whose topmost element is the smallest (in this case, highest priority). **Binary trees**, in turn, are typically implemented with arrays. We have come full circle.
+[Priority queues are typically implemented as heaps](https://stackoverflow.com/a/11093725/1558430) (i.e. a priority queue is an abstract data type, and a heap is a data structure). **Heaps**, in particular binary heaps, are binary trees whose topmost element is the smallest (in this case, highest priority). **Binary trees**, in turn, are typically implemented with arrays. We have come full circle.
 
-### trees
+### Trees
 
 "Leaves" refer exclusively to the nodes at the bottom level, not just any node with no children.
 A "full" tree is one that has the maximum number of leaf nodes.
 A "complete" binary tree is one that is full, except maybe for the last level.
 
-#### binary search trees
+#### Binary search trees
 
 * In-order traversal is important because if you traverse a BST in order, then it just so happens that [you'll get all elements in ascending order](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/).
 
@@ -91,7 +92,33 @@ Post-order traversal is a fancy name for "first visit the left, then visit the r
 
 ### Heaps
 
-Heaps are ordered binary trees. Max heaps are heaps where the parent is always greater than the child.
+Heaps are ordered binary trees (not binary *search* trees). Max heaps are heaps where the parent is always greater than the child.
+
+Properties of a min heap:
+
+* It is a complete binary tree. (A complete binary tree is a binary tree that has all nodes filled in, except for maybe the bottom right portion at the bottommost layer.)
+  * And since it is not a BST, the left hand side is not necessarily less than the right hand side.
+* The value of a node is smaller *or equal* to its children. (i.e. as opposed to a BST, a value can be in the heap more than once.)
+
+#### [How to implement a heap](https://leetcode.com/explore/learn/card/heap/643/heap/4017/)
+
+You can implement a heap using an array...?
+
+* The first index of the array stores the number of elements in the tree.
+* Given a node's array index, `i`: the left child is at `i * 2`, and the right child is at `i * 2 + 1`, and its parent is `i // 2`.
+* To determine if a node in a heap is a leaf node (with no children): If the node index is greater than `n / 2`, then it is a leaf.
+
+#### [How to insert into a min heap](https://leetcode.com/explore/learn/card/heap/643/heap/4019/)
+
+1. Remember that a complete binary tree is one that is completely full, except for maybe the right hand side of the bottom layer. Therefore, we place a new node at either the first slot available on the bottom right layer, or make a new level with the new node at the bottom left.
+2. The new node is probably not where it should be. Bubble up the value until the min heap property is satisfied.
+
+#### [How to delete from a min heap](https://leetcode.com/explore/learn/card/heap/643/heap/4020/)
+
+1. Swap the value of the last node in the complete binary tree, with the top node. The property of the min/max heap is not satisfied at this point.
+2. Delete the last node in the complete binary tree.
+3. If the top node has a value that violates the heap property, then swap with its smallest child node (in case of min heap), or largest child node (in case of max heap).
+4. Keep doing that until the heap property is satisfied.
 
 ### Hashes
 
@@ -129,6 +156,14 @@ This is different from selection sort only from where the next item is taken. Se
 Heuristically determine if something is in a set, being correct most of the time.
 
 - Uses less space than full search
+
+### Greedy approach
+
+> A greedy algorithm follows [the] problem solving approach of making the locally optimal choice at each stage, with the hope of finding a global optimum.
+
+In each iteration, the algorithm makes a choice that maximises the result.
+
+It doesn't always solve your problem, but that's what greedy is.
 
 ## Clustering
 
@@ -267,9 +302,11 @@ The class contains a `getInstance()` method, which keeps track of the first obje
 - Microservices don't help scale the service... they only help scale development. ["If you don't have the organization structured for "independent services", then microservices will likely fail."](https://old.reddit.com/r/programming/comments/jznvbz/the_macro_problem_with_microservices/gddh7lh/)
 - When they say ["write code ... mostly functions"](https://www.brandonsmith.ninja/blog/write-code-not-too-much-mostly-functions), they mean *pure* functions, with no side effects.
 - Array access is O(1) because the address for any item is (address + index)---which takes O(1) to compute---and then we specifically ignore the cost of memory access, which may be [close to O(log n)](https://stackoverflow.com/a/20961951/1558430) in hardware, but we don't talk about that.
-- "Marshalling" is the almost same
+- "Marshalling" is the almost same thing as serialising.
 - [On data ensapsulation in OO](https://stackoverflow.com/questions/2747721/getters-and-setters-are-bad-oo-design): "don't ask for the information you need to do the work; ask the object that has the information to do the work for you."
 - The word "trie" has the same pronunciation as "try".
 - Software can't tell you the big-O complexity of an algorithm [because of the halting problem](https://stackoverflow.com/questions/38420564/is-there-a-programmatic-way-or-eclipse-plugin-to-calculate-big-o-notation-for-ja). There may be plugins that tell you an approximate runtime, though.
 - [Continuous integration](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) just means your feature code is quickly merged into master. Automated tools help with the whole testing thing in the process.
 - A "[data race](https://en.wikipedia.org/wiki/Race_condition#Data_race) condition" occurs when two or more threads access the same memory concurrently.
+- [How to tell if a FLOSS project is doomed to FAIL](http://www.theopensourceway.org/book/The_Open_Source_Way-How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL.html)
+- The whole point of devops was to make devs own their infrastructure. [There shouldn't be a "devops team"](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd), because that's just, an ops team.

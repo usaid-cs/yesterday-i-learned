@@ -11,6 +11,8 @@
 
 ## When to use Docker
 
+- The fact that it is good enough for everyone, and that people tend to know what they are looking at when they read a Dockerfile, means that you can probably use it whenever you want, even when [other tools are better](https://nixos.org/).
+
 ## [When not to use Docker](https://www.reddit.com/r/docker/comments/982cag/docker_for_development_why_and_how/)
 
 - You application runs only on Windows or macOS.

@@ -1,3 +1,4 @@
+- `system-ui` is affected by both the OS version and language. Sometimes `system-ui` provides a native look and feel. Sometimes (in the case of simplified Chinese) [it just looks bad](https://infinnie.github.io/blog/2017/systemui.html).
 - There is a `ch` length unit that can be used in modern browsers (i.e. except IE).
 - A stylus [`@media` query](http://stylus-lang.com/docs/media.html) can be included inside an element whose styles you want to change contextually.
 - [BEM](http://getbem.com/) (block-element-modifier) is a naming convention, not a tool. [For example](https://css-tricks.com/bem-101/), a block (e.g. `.btn`) might come with elements (e.g. `.btn__price`, `.btn__text`) and modifiers that change the block (e.g. `.btn--big`, `.btn--orange`). You may notice that SASS solves these problems, but sometimes you don't have SASS.

@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- Use `ip neigh` or `ip n` (for short) to find your friends / other devices on LAN.
 - gcc's [`-O3` is not guaranteed to be faster than `-O2`](https://wiki.gentoo.org/wiki/GCC_optimization#-O). Sometimes it might increase memory usage and make things slower.
 - [Kernel Samepage Merging](https://en.wikipedia.org/wiki/Kernel_same-page_merging) was originally added to help host systems run multiple copies of a guest OS (virtual machine) more efficiently.
 - Some keyboards (in my case, a Keychron K1) default to having no support for fn keys. To fix it, go [make a file called `/etc/modprobe.d/hid_apple.conf`](https://old.reddit.com/r/MechanicalKeyboards/comments/d5y5if/keychron_2_bt_connection_stuck_in_numpad_mode/f2bwwe8/), put `options hid_apple fnmode=0` in it, and run `sudo update-initramfs -u`.
@@ -337,3 +338,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - `sleep 5` sleeps for 5 seconds. `sleep 5h` sleeps for 5 hours. Other suffixes also work.
 - To see which PPAs you use, run `apt policy`.
 - The recommended swappiness for ubuntu desktops is... [10?](https://askubuntu.com/a/149427)
+- [CentOS releases a new version every **FIVE** years](https://en.wikipedia.org/wiki/CentOS), a point of ridicule that makes it ideal for enterprise software, adopted by companies that love using software from a decade ago.

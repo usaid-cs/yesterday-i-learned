@@ -128,3 +128,6 @@ sentence().split.length  # not fine, strings (or maybe some things just) aren't 
 - Both `exit` and `quit` exits the `irb`. `find` and `detect` are synonyms. `map` and `collect` are the same. [When you type something, ruby does what you think you mean... and that is the behaviour some people like](https://www.youtube.com/watch?v=GC-XIchAcqM), over explicit understanding, and "one way to do things".
 - `require 'foo'` imports literally everything from the `foo` package. This is equivalent to `from foo import *`, where you have no way to prevent something you don't just from being imported.
 - `unless` is like, `if not`, except there is a keyword for it, and it confuses everyone `unless` you were the one who wrote it.
+- Ruby doesn't have separate keyword arguments until [2.7](https://en.wikipedia.org/wiki/Ruby_%28programming_language%29).
+- rbenv has fewer gotchas than rvm. [So they say](https://old.reddit.com/r/rails/comments/f009mb/there_are_two_ruby_version_manager_rvm_vs_rbenv/).
+- If everything is a block, then how do you `break` in a `.each do ... end`? Apparently [`break` works in blocks, too](https://stackoverflow.com/questions/1402757/how-to-break-out-from-a-ruby-block). Not sure how it works if the block is not part of a "loop".

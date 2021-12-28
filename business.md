@@ -1,5 +1,6 @@
 ![Pls deliver](https://i.redd.it/iznqp1y5vs4z.jpg)
 
+- [Hotelling's Law](https://en.wikipedia.org/wiki/Hotelling%27s_law) says that it is reasonable for competitors to offer the same products and services with minimal differences (the opposite of product differentiation). For example, if a Home Depot is right next to a Lowes, then [no one will go to one or the other based on distance alone](https://old.reddit.com/r/explainlikeimfive/comments/rbseh9/eli5_why_are_gas_stations_also_close_by_one/hnpy2o0/), but rather the quality of the goods themselves.
 - The [Friedman doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine) says that a company's sole responsibility is to its shareholders, and no one else; maximise returns to shareholders.
 - Big companies give employees actual goals. You need to meet those goals to be promoted.
 - [Responsibilities of a CEO (among other things)](http://blog.staply.co/startup-legal-do-it-by-yourself)

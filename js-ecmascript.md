@@ -9,7 +9,7 @@
 ## [`let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let) and `const`
 
 - `let` declarations are not hoisted.
-- If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` limits its scope to inside the block (which, if you like brackets, makes some sense)
+- If there's a `var` in an `if` block, it will be declared outside the block [to the nearest function scope](http://ariya.ofilabs.com/2013/05/es6-and-block-scope.html). `let` and `const` limit their scope to inside the block (which, if you like brackets, makes some sense)
 - `let`s cannot be declared in the same scope twice. So, you cannot use `let`s in multiple `switch` statements.
   - You can use `for(let i = 0;...)` to limit `i` to the `for` block, and jshint won't complain like it does for `var`.
   - ~~You can also use `let` to directly make a block: `let(foo='bar', baz='buz') { /* use foo inside */}`~~ I don't think it works anymore

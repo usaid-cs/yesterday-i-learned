@@ -1,5 +1,7 @@
 🇨🇦
 
+- An [indictable offence](https://robichaudlaw.ca/whats-the-difference-between-a-indictable-and-summary-conviction-offence-in-canadian-law/), as opposed to [petty offence](https://en.wikipedia.org/wiki/Summary_offence#Canada), is the most serious kinds of criminal offences, like terrorism, drug trafficking, and treason. Some of these offences can put you in prison for life by the indictment alone. The 'Murican equivalent for an indictable offence is a [felony](https://en.wikipedia.org/wiki/Felony).
+- After the 08 crash, Americans no longer see housnig as a safe asset. Canadians, however, never saw that crash. Housing prices only go up.
 - The Algonquin provincial park was initially made a provincial park [to keep settlers out from where businesses were logging](https://en.wikipedia.org/wiki/Algonquin_Provincial_Park#History). It then turned into a tourist attraction because of the park status---which clashed with the logging industry yet again---and they did another evaluation in the 1960s to control logging activity.
 - The Canadian armed forces cannot oppress anyone. They don't even have the resources to *protect* Canada.
 - The [Phoenix Pay System](https://en.wikipedia.org/wiki/Phoenix_pay_system) cost 2.2 billion dollars *to decommission*. It was a disaster because they didn't know the system would be broken until the day of release, and they had already fired everyone from the old payroll system.

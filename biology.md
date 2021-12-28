@@ -1,10 +1,14 @@
+- Arthritis is sensitive to air pressure. Low atomospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
+- The feeling of having kidney stones resembles having lower back pain. They can develop over the course of a single night of dehydration.
+- Rabbits have long tails... they just keep the tail tucked all the time.
+- Moths love cashmere. They eat protein and drink sweat. That's why you use mothballs.
 - A research says [women select mates more often through "immune system genetic diversity"](https://www.thenorthernecho.co.uk/news/1290802.ugly-truth-beautiful-peoples-dna/), than they do by looks. This might explain why ugly people exist, despite the population selecting against it.
 - Eating pine nuts sometimes develops [pine mouth](https://en.wikipedia.org/wiki/Pine_nut#Taste_disturbances), where everything you eat for the next few weeks will taste bitter and metallic. No medical attention is needed.
 - There is no "detoxing". Just eat healthy (i.e. don't take on toxins in the first place) and your liver will clean up the rest.
 - If you are in enough shock, [you won't feel pain, even though you are well aware of what's happening](https://www.thenational.scot/news/17510066.birth-legend-remembering-scotlands-famed-explorer/).
 - Sometimes an axolotl can transform into a "real" salamander (turning gills into lungs and everything).
 - Breathe with your diaphragm. Taking a deep breath should not make your shoulders go up.
-- Plants secret [latex](https://en.wikipedia.org/wiki/Latex) to defend itself from herbivores: tastes bad, poisonous sometimes, and traps insects.
+- Plants secret [latex](https://en.wikipedia.org/wiki/Latex) to defend itself from herbivores: tastes bad, poisonous sometimes, and traps insects. Over 20000 species of plants do this.
 - Turtles don't have "exoskeleton"; they have shells.
 - The average man doing office job needs [1.4~2.0 g/kg of protein for maintenance, or 1.6~2.4 g/kg for muscle gain](https://examine.com/guides/protein-intake/#how-much-protein-do-you-need-per-day).
 - It is normal to [feel disoriented after getting off a cruise](https://en.wikipedia.org/wiki/Mal_de_debarquement), even though the cruise ship was what's unstable.

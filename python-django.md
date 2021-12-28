@@ -248,6 +248,7 @@ Well don't make so many apps in the project. You did it to yourself, mate.
 
 ## Views / Templating
 
+- If you don't want to use Django with a database connection... you don't have to! The view layer never uses any models by default.
 - [Django does not force you to put code at some specific place](http://stackoverflow.com/a/8590943/1558430). With that said, since MVC requires a service abstraction layer between M and C, which hardly anyone ever has, Django tends to recommend logic in either V or [M](http://stackoverflow.com/a/8591009/1558430), depending on whether the logic concerns requests.
 - the `django_js` tag cannot be compressed!
 - To override a template that is defined in a package, configure your `TEMPLATE_DIRS` variable to let your own `templates` directory have a higher lookup priority.
@@ -296,6 +297,7 @@ Sometimes (but not according to the docs), unless you wrap all that in `<table>`
 - A `Serializer` can validate `request.query_params` (especially query strings that have repeated keys), but once you convert the query params to a `dict`, it cannot do the same thing anymore.
 - A viewset literally [creates one view for every list or detail method](https://github.com/encode/django-rest-framework/blob/1e383f103a1a84461e949e59b001ee61a2e0f7c4/rest_framework/viewsets.py#L103), and then [overwrites your view's (http verb) handler to be that method](https://github.com/encode/django-rest-framework/blob/1e383f103a1a84461e949e59b001ee61a2e0f7c4/rest_framework/viewsets.py#L118).
 - A serializer can have a [`depth`](https://www.django-rest-framework.org/api-guide/serializers/#specifying-nested-serialization) option in the Meta to indicate when the framework should stop nesting.
+- Permission classes can be OR'ed with the `|` operator, like so: `permission_classes = (IsAdminUser | IsAuthenticatedOrReadOnly,)`. In this case, an admin can edit, but other users can only view.
 
 ## Testing
 

@@ -1,3 +1,6 @@
+- People with long nails wipe with tissue paper held in between their knuckles.
+- Wayfair laid off [550 staff](https://www.boston.com/news/business/2020/02/13/wayfair-layoffs/) on 2020-02-13, [before the coronavirus hit the states](https://en.wikipedia.org/wiki/2020_stock_market_crash).
+- Spanish slang for Tupperware is *Tapaué* (sounds about the same).
 - [七輪](https://en.wikipedia.org/wiki/Shichirin) (seven wheels) means "small charcoal grill" in Japanese. Apparently because the grill uses only (basically "seven dollars")-worth of charcoal when it gained popularity.
 - [F.R.I.E.N.D.S](https://en.wikipedia.org/wiki/Friends) was a show about *six* friends, not seven.
 - [The very first Wilhelm Scream](https://youtube.com/watch?v=dc5F2C0CYlA) came from some poorly-acted scene in an adventure film.

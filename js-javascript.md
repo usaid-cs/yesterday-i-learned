@@ -2,6 +2,7 @@
 
 The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/), for when you need to [dominate your enemies](https://rickandmorty.fandom.com/wiki/Raising_Gazorpazorp/Transcript).
 
+- The [`in` operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in), e.g. `"navigator" in window`, has been in JS since *IE 5.5*. It is related to `hasOwnProperty()`, except where `in` will literally tell you if the object has that property, whereas `hasOwnProperty` will only tell you if the object has that property, not inherited from a prototype.
 - "JavaScript legend Douglas Crockford once said that [monads are cursed -- that once you understand monads for yourself you lose the ability to explain them to others](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/)"
 - `array.slice()` (with no arguments) gives you a quick shallow copy of an array.
 - ["Nobody loves what prettier does to their syntax. Everyone loves what prettier does to their coworkers' syntax."](https://www.reddit.com/r/javascript/comments/8as6ns/i_dont_like_prettier/dx14ag5/)
@@ -18,7 +19,6 @@ The [ECMAScript 2018 specification](https://www.ecma-international.org/ecma-262/
 - `window.location.reload()` accepts either `true` or `false` for hard reload.
 - `window.location.reload()` does not accept arguments across all browsers.
 - The window's `storage` event is fired on [every window using the storage except the window that modified storage](http://stackoverflow.com/a/4689033).
-- `in` compares by reference, apparently. `'e' in 'hello'.split('')` returns false.
 - Delegated selectors save memory (most of the time): `$(parentObject).on(events, selector[, data], function (event) {})`
 - `new Object`, or any object in general (e.g. `Date`), does not require `()` to initialise. Strict mode will throw a warning, though.
 - It is possible to run a WebSocket inside a worker.

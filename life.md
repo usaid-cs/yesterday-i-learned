@@ -1,5 +1,10 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously been through a lot
 
+- "If you stress too much about something before it happens, you basically put yourself through it twice." - Online quotes
+- Radon-induced lung cancer is one of the reasons you can die, even if you have done everything right. When death wants to get you, it gets you. Live your life, kids.
+- [Testing in prod is ok](https://increment.com/testing/i-test-in-production/), as long as you know what you're doing, and are prepared to take responsibility when things go south.
+- If you become a manager and find that you actually suck quite much at it (and don't want to fake it til you make it), [you can switch back to doing whatever you were doing](https://medium.com/s/please-advise/should-i-become-a-manager-bfebe857a457). No one said no backsies.
+- "You're not paid based on the value of your labor: You're paid based on the cost to replace you." - Some guy, who seemed to know his stuff
 - You know you dun goof'd when QA asks "What level of testing was done prior to submitting this patch" in your change, or like, "On the next patch, can you please add more unit tests (...)", because clearly you haven't tested anything.
 - [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more). Don't just scroll Reddit all day long. Go and write something, paint something, draw, and code. Don't convince yourself that reading is self-improvement; if you read and don't do, it's like you have never read at all.
 - If you are ever asked to provide a reference from your manager, [just don't](https://news.ycombinator.com/item?id=28692753), whether your relationship with them is good or bad. Nothing good comes out of it. If you ask your manager for reference, they will know you are looking for a job. If you tell your new company you are unable to provide the reference because you have a bad relationship with your current manager, then obviously you won't get the job. Decline such requests and forget you ever interviewed with them.

@@ -39,6 +39,7 @@
 - Phone batteries doubled in capacity between 2013 and 2019 because [device volume also doubled](https://tweakers.net/reviews/7476/all/telefoonaccus-krijgen-steeds-meer-capaciteit.html).
 - ["You can think dalvik.vm.heaptargetutilization as a setting how accurately the RAM should be used. If you set this to 0.25, you tell the system that up to 75% of RAM can be wasted as a tradeoff to reduce CPU usage. If you have a device where you have more CPU power than actual RAM, it might make sense to increase this setting."](https://androidforums.com/threads/dalvik-vm-fully-100-explained-how-to-improve-memory-usage.1309359/)
 - ART-optimise your apps with `cmd package bg-dexopt-job`. [JIT may generate profiles](https://source.android.com/devices/tech/dalvik/configure), so you may want to compile AOT only after JIT ran over your apps for a while.
+- There is another level of ODEX optimisation using: `pm compile -a -f --check-prof false -m everything; pm compile -a -f --check-prof false --compile-layouts; pm bg-dexopt-job`. This is also exactly what the Galaxy App Booster does.
 - You can see which version of the kernel you're running [where it is compiled](https://github.com/LineageOS/android_kernel_oneplus_msm8996/blob/lineage-17.0/Makefile#L1-L3).
 - The "optimize performance for apps" thing that LineageOS has [has never been fully implemented](https://www.reddit.com/r/LineageOS/comments/81s77d/trick_to_increase_performance_disable_automatic/) and does nothing.
 - Run `settings put secure location_providers_allowed -network` to remove the consent you gave Google to collect your location with Wi-Fi in exchange for "battery-saving" location. This does not disable Wi-Fi scanning though, so disable it in the settings yourself.
@@ -142,3 +143,5 @@
 - For some reason, qcrilmsgtunnel is responsible for _showing_ your signal icon.
 - OnePlus and Vivo were owned by Oppo. Oppo is owned by [BBK](https://en.wikipedia.org/wiki/BBK_Electronics)... not just any BBK, but 广东**步步高**电子工业有限公司. Then BBK buys OnePlus from Oppo. It's conglomerates all the way up.
 - [AdGuard GitHub version](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md) blocks ads. "Please do not mention this feature in Google Play store comments," says M66B.
+- Use `settings put global ram_expand_size 4096` to get 4GB of swap on your Samsung device. Empirically, it doesn't do anything.
+- Use `dumpsys deviceidle whitelist` to see what apps are in the doze whitelist, and `dumpsys deviceidle whitelist -com.package.name` to remove it. Empirically, it doesn't do anything for system apps.

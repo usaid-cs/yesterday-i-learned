@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Agency is the power to do something.
 - "Suffering" came from [Latin, *sufferō*](https://en.wiktionary.org/wiki/suffer) (*sub-* + *fero*, "under-carry"). "Suffrage" came from [Latin, *suffragium*](https://en.wikipedia.org/wiki/Suffrage#Etymology), which literally means a ballot, but the word root ultimately traces to [some nonsense about the knuckle bone](https://en.wiktionary.org/wiki/suffrago#Latin).
 - Americans put the ending punctuation of a quote, "inside a quote," which [makes no sense](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/). Brits put the same thing, "outside the quote".
 - "Replace" and "remove" could have meant the same thing at some point in time.

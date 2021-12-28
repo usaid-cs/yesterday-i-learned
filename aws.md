@@ -1,5 +1,6 @@
 > "If I don't know it, I'll learn it and then I'll kick your ass." - [Abhishek Thakur](https://twitter.com/abhi1thakur/status/1276439769791303680), on martial arts, probably
 
+- RDS instances are encrypted by default... whatever that means.
 - If you work for AWS and you update your service status to be down, [it's your fault! You get fired!](https://news.ycombinator.com/item?id=25213817)
 - The default settings for MySQL instances on RDS is stupid. Create a parameter group with (significantly) longer timeouts.
 - Django-South does not work on RDS.
@@ -43,3 +44,4 @@
 - Databases with replicas cannot upgrade major versions unless you remove the read only database first.
 - Use `resize2fs /dev/nvme0n1p1` as part of the [officially sanctioned way to grow a partition](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html) after it's resized from the console.
 - Every query on kibana (and grafana?) that does not use `.keyword` on a string will be a wildcard search on the field for values containing that string. For example, `message = "foo"` will return any message containing `foo`, while `message.keyword = "foo"` will return messages that are exactly `foo`.
+- AWS Lambda is [a bit like programming in the mainframe](https://news.ycombinator.com/item?id=26855037): you send it a function, and it does the stuff. You can't debug it locally; you know if fails once it fails.
