@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- AccuBattery is [neither precise nor accurate](https://www.antarcticglaciers.org/glacial-geology/dating-glacial-sediments-2/precision-and-accuracy-glacial-geology/). Its many (inaccurate) data points eventually converge to achieve an average, but potentially still at the wrong place (imprecise).
 - [Phone cases do not negatively impact thermal performance](https://www.youtube.com/watch?v=G7-Fa9KzhxQ), as long as the screen is exposed.
 - Under-screen fingerprint scanners require a transparent window over the screen, the screen protectors of which might try to do something like [having a patch of glue wherethe scanner is](https://old.reddit.com/r/galaxynote10/comments/le1k81/i_got_tempered_glass_professionally_installed_and/). The cheap ones might only have that glue at the scanner. More expensive ones will have a uniform-looking screen.
 - The Samsung Galaxy brand started from [some Samsung executives liking a particular brand of wine, called the Galaxy](https://www.youtube.com/watch?v=QMJ2YonPS8g) made in Napa Valley.

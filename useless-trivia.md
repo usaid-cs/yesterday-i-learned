@@ -1,3 +1,5 @@
+- Shopify uses Rails a lot because [Toby was (and probably still is) a Rails developer](https://businessofsoftware.org/2012/05/tobias-lutke-ceo-shopify-at-business-of-software-2011-how-we-can-build-businesses-that-people-in-100-years-wont-be-embarrassed-by/). He gave talks and everything.
+- [You can only drive white cars in Turkmenistan](https://www.news18.com/news/auto/turkmenistan-president-bans-all-colored-cars-from-capital-only-white-cars-allowed-1632963.html). The president banned other colours because of superstition.
 - People with long nails wipe with tissue paper held in between their knuckles.
 - Wayfair laid off [550 staff](https://www.boston.com/news/business/2020/02/13/wayfair-layoffs/) on 2020-02-13, [before the coronavirus hit the states](https://en.wikipedia.org/wiki/2020_stock_market_crash).
 - Spanish slang for Tupperware is *Tapaué* (sounds about the same).

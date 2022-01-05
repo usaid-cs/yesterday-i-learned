@@ -189,6 +189,9 @@ undefined
 - JS is a (bitch-ass) weakly-typed language, so if you do `array[[1, 2]] = 3`, you can get 3 back using `array['1,2']`.
 - Depending on which browser version you have, you can do these: `a = () => 'bar'` (ES6), `a = function() 'bar'` (some intermediate form that modern browsers no longer support).
 - You know how you can't just pass `console.log` as a function? Use [`console.log.bind(console)`](http://stackoverflow.com/questions/6789689/javascript-abstract-console-logging) instead.
+- [IndexedDB is hilariously slow](https://news.ycombinator.com/item?id=28997346), to the point where people (like the ones over at WatermelonDB) had to [use IndexedDB in memory](https://github.com/Nozbe/WatermelonDB/blob/master/docs-master/Implementation/Adapters.md#web) most of the time.
+- In desperation, lodash introduces a concept of `nil` (with an [`_.isNil()`](https://lodash.com/docs/4.17.15#isNil) to check for it), which is (`null | undefined`).
+- Borrowing so much from Java, JS uses `null` to denote "not an object". Because [a JS variable can hold both a primitive and an object](https://2ality.com/2013/05/history-undefined.html)---which Java's cannot---JS needed a value for "neither a primitive nor an object". `undefined` was born, [though a bit unnecessarily](https://twitter.com/BrendanEich/status/330775086208524288). And since this whole thing came from type coercion from `null` to `0` through weak typing, you can tell how much damage this initial decision did to the language.
 
 ### *Internet Explorer* Quirks and Features
 

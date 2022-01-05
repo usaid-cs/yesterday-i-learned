@@ -6,3 +6,4 @@
 - [There are no nested blueprints](http://stackoverflow.com/questions/33003178/nested-blueprints-in-flask) (yet)
 - Flask SQLAlchemy creates only one `db.session` that you can commit at any time.
 - Understand flask ["blueprints"](http://flask.pocoo.org/docs/0.12/blueprints/) as traits that are common across some of your views, like templates or url prefixes.
+- "Async Flask" is called [Sanic](https://sanic.readthedocs.io/en/stable/). They don't say it's Flask, but the APIs sure look like Flask.

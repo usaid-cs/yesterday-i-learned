@@ -300,7 +300,7 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - [`Esc + A`](https://unix.stackexchange.com/questions/106251/how-to-indent-multiple-lines-in-nano) lets you select multiple lines in nano, and `Alt + }` lets you indent that selected block. Trouble is, it indents with tabs.
 - Contrary to their names, `/etc/passwd` stores user information, and [`/etc/shadow`](https://askubuntu.com/questions/445361/what-is-difference-between-etc-shadow-and-etc-passwd#445365) stores the (encrypted) passwords.
 - To decrypt a file, use `vim -X foo` right. But to _save_ the file decrypted, use `:X` inside vim, and when it asks you for the password twice, just press enter twice for a blank password. Save normally with `:w`.
-- Zombie processes cannot be **SIGKILL**ed.
+- A "zombie process" (executed but not dead yet) has already been **SIGKILL**ed, and for that reason, cannot be SIGKILLed again.
 - `grep -o` prints only the matched part of the string. This is useful for piping the output somewhere else, like `adb pull "/sdcard/Signal/Backups/$(adb ls '/sdcard/Signal/Backups/' | tail -n 1 | grep -oE 'signal-.+\.backup')"` (copying the last automatically-generated Signal backup).
 - [Drop all disk cache (Linux)](http://stackoverflow.com/questions/9551838/how-to-purge-disk-i-o-caches-on-linux): `echo 3 | sudo tee /proc/sys/vm/drop_caches`. Heavily impacts performance.
 - GNU `tar` provides compression arguments. [Solaris `tar` does not.](https://unix.stackexchange.com/questions/127169/does-tar-actually-compress-files-or-just-group-them-together) Also, tar stands for Tape ARchive.

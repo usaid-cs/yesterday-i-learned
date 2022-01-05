@@ -1,3 +1,4 @@
+- Viral particles survive better in the cold because [lipids form a gel](https://www.nih.gov/news-events/nih-research-matters/flu-virus-fortified-colder-weather) when it's at or below freezing, which presumably helps keep the outside intact for longer.
 - Arthritis is sensitive to air pressure. Low atomospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
 - The feeling of having kidney stones resembles having lower back pain. They can develop over the course of a single night of dehydration.
 - Rabbits have long tails... they just keep the tail tucked all the time.

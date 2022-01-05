@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- Cow prices have actually been [going down](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop) while beef prices have been going up.
 - A "repo" is the central bank buying stuff from businesses for one day (the rate of which is called the "overnight rate"), giving businesses (usually just other banks) a liquid supply of money. A "reverse repo" is the central bank selling stuff back to businesses.
 - Since "GDP" can be calculated as [`money supply x velocity`](https://slideplayer.com/slide/2800948/), an increase in velocity of money increases GDP linearly.
 - ["Populations that are older on average have fewer young people and more old people. The young will have to work more to provide for the old, or the old will have to work more, in order to maintain the current standard of living."](https://old.reddit.com/r/badeconomics/comments/o9re1l/declining_populations_are_bad_actually/) - /u/Skeeh

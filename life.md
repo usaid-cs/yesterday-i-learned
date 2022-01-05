@@ -1,5 +1,10 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously been through a lot
 
+- You can't argue with someone who's shorter-tempered than you, and continue to make that claim. In fact, you can't really argue with someone who's short-tempered and win. The only way to win is not to argue.
+- "If you work 12-hour days and spend no time at all eating, you can work an internship on top of your full time job" - paraphrasing [this woman over here](https://www.themuse.com/advice/5-lessons-ive-learned-from-taking-an-internship-on-top-of-my-fulltime-job)
+- Sooner or later you realise they only ever had scraps to give. You can either accept that or look elsewhere for food.
+- "Snitches get stitches" - My partner
+- "Unlimited PTO at manager's discretion" is just having no PTO.
 - "If you stress too much about something before it happens, you basically put yourself through it twice." - Online quotes
 - Radon-induced lung cancer is one of the reasons you can die, even if you have done everything right. When death wants to get you, it gets you. Live your life, kids.
 - [Testing in prod is ok](https://increment.com/testing/i-test-in-production/), as long as you know what you're doing, and are prepared to take responsibility when things go south.
