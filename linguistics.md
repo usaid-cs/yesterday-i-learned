@@ -2,6 +2,8 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- *Flouting* [Grice’s maxims in the cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle) would be intentionally violating one of the maxims of (quantity, quality, relation, manner) (i.e. depth, truth, relevance, and clarity) in order to convey a different meaning than what was said. For example, by saying [vegan tomatoes](https://www.youtube.com/watch?v=IJEaMtNN_dM), you violate the maxim of quantity, and used it to imply that other tomatoes aren't vegan. Or, if you say "my student regularly attends tutorials", you violate the maxim of relation, trying to hint at the student's poor lecture attendance record.
+- A rude sound made by sticking out the tongue and blowing is also called a [raspberry](https://www.oxfordlearnersdictionaries.com/definition/english/raspberry). See [also](http://www.flatlandcomics.ca/dailies/BlindOptimism.htm)
 - The french "LL" is pronounced "Y" only if it is preceded by an I.
 - Agency is the power to do something.
 - "Suffering" came from [Latin, *sufferō*](https://en.wiktionary.org/wiki/suffer) (*sub-* + *fero*, "under-carry"). "Suffrage" came from [Latin, *suffragium*](https://en.wikipedia.org/wiki/Suffrage#Etymology), which literally means a ballot, but the word root ultimately traces to [some nonsense about the knuckle bone](https://en.wiktionary.org/wiki/suffrago#Latin).
@@ -95,7 +97,7 @@
 - _Ton frère_ is always _ton frère_, even if the "you" is a female person.
 - The kind of press releases that look like something awesome happened, but actually something bad did, is called Spins. ["It's been an incredible journey"](https://ourincrediblejourney.tumblr.com/), i.e. "we are closing down now", falls into this category. ["New changes to our service"](https://news.ycombinator.com/item?id=17990891), i.e. "we are killing off our service", also falls into this category.
 - [_Sie_](https://en.wiktionary.org/wiki/Sie#German) is more distant German than [_du_](https://en.wiktionary.org/wiki/du#German) (friends, family, young people) for "you". Note that it is not the case that _Sie_ is more formal; it just means the two people are not close enough to use _du_.
-- Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session.
+- Poet [Lu2 Tong2](https://greenteadoodles.wordpress.com/2009/04/09/seven-cups-of-tea/) (AD 618-907) suggests limiting your tea intake to six cups per session (七碗茶詩).
 - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English) ("I dare" in Latin), a subset of standard English that is [grammatically formal](https://en.wikipedia.org/wiki/Formal_language), was invented by the University of Zurich in 1995, and is still being updated today.
 - The British and American do it differently when it comes to [quotation marks containing periods, question marks, and exclamation (marks/points)](https://www.quickanddirtytips.com/education/grammar/how-to-use-quotation-marks). The Americans put periods inside, while British can be either. If anyone is pedantic enough to object to one or the other, claim to be a programmer and put it outside.
 - In German, [_kein/keine_](https://en.wiktionary.org/wiki/kein) seems to be a single word for "not a". _Ich bin kein Berliner_: I am not a Berliner.

@@ -5,13 +5,11 @@
 - Big companies give employees actual goals. You need to meet those goals to be promoted.
 - [Responsibilities of a CEO (among other things)](http://blog.staply.co/startup-legal-do-it-by-yourself)
 - Acquisition is one of the things most CEOs delay until it is too late.
-- Your options (if any) is worth nothing until exercised, making them tax-free.
+- Your options (if any) are worth nothing until exercised, making them tax-free. Once they are exercised and turned into stocks, those stocks are also tax free until you sell them.
 - Your options cannot be sold back to the company. That is, unless someone else wants to buy your options, they are also worth nothing.
 - Your options are immediately vested ('yours', or eqv.) at no cost if the company gets acquired.
 - Vesting means you earned some options. It doesn't mean you exercised them. When you exercise them, you have the option to buy stocks, which, [if the price you pay is different from the stock's fair market value (which it always is, because that's why you earn preferantial options in the first place) you pay a tax on that](http://blog.modernadvisor.ca/employee-stock-options-maximize-financial-gain/).
 - [The four stages of company development](http://takeaswig.com/the-end-of-the-facebook-era): Emergence (when it started), Coalescence (when it becomes large enough that people can't ignore it), Bureaucratization (when it becomes a formal giant), and Decline (when it stops being useful)
-- **Speculating**: buying a company's stocks when the company isn't making a profit.
-- Look at a company's political climate in addition to what the company's competition is doing.
 - Related: [Professional style made easy](http://imgur.com/gallery/uuLhR)
 - Do remember that [technical debt](https://news.ycombinator.com/item?id=10925141) _is_ debt; the time you borrow to make a feature must be paid back _soon_, and not _eventually_.
 - The less money a startup has left, [the less likely it will receive more](http://paulgraham.com/pinch.html).

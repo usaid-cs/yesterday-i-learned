@@ -1,80 +1,69 @@
-**Investing** is essentially [shorting a currency](https://www.youtube.com/watch?v=1HmGLV46L60), or telling the world that you have no faith in the currency. Which you should never have. Fiat currencies are worth nothing. Assets often have more tangible value (exceptions for which can be found below).
+# What is investing?
 
-# [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
+First, understand that [inflation is an idiot tax](https://reformedperspective.ca/the-hidden-tax-of-inflation/), and the rich hold very little cash.
+
+Then, realise investing is [shorting of a currency](https://www.youtube.com/watch?v=1HmGLV46L60), or telling the world that you have no faith in the currency, relative to other kinds of assets, especially if they generate passive income.
 
 ## Terms
 
 - AUR: average user retention
-- Board Lot: a unit for "number of shares" in your stock exchange. Typically, A lot is 100 shares. Because trading 100 shares is easier than trading 17 shares, trading is often done in lots.
-- Book value: the "net asset value" of the company. A company's stock can (intrinsically) cost $5, but be traded at $300 because people love to speculate.
-- Buy on Stop: buy, when the price hits the value you specified.
 - [Capitulation](https://www.investopedia.com/terms/c/capitulation.asp): Sell at a loss. Paradoxically, if everyone capitulates, then prices can only go up, making it a buying opportunity.
 - Credit Crunch: when no one wants to buy debt. The yield goes up (they are high-risk debts that have lower prices than low-risk debts).
 - Debt monetisation: when the central bank prints money to buy debt.
-- Div yield (%): total dividend per year per share
-- EPS: earnings per share
-- MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.
 - ROI (Return on investment): (Income - taxes) last year, divided by the debts. Higher is better.
-- S&P500 (Standard & Poor's 500): stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE or NASDAQ"
 - [Underwriters](http://www.investopedia.com/terms/u/underwriter.asp): they determine the offering price of a stock (whether initial aka IPO or when the company is bought out), and then get some underwriting fee for doing it. That price determined affect how the rest of the market prices the remaining stock. Say if you trade at $8 but the [bought deal](http://www.investopedia.com/terms/b/boughtdeal.asp) offers each share at $7, then the market might adjust to \$7.
 - p.s. "bought deal" means someone buys all available shares.
 - [Slippage](http://www.investopedia.com/terms/s/slippage.asp) refers to the difference between the expected price of a trade and the price at which the trade is actually executed. However, [beta slippage](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) is something else; it refers to the difference between "going down 10% and then back up by 10%", which, unfortunately, does not add up to 1.
-- ["Consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
-- A [Full Gap Up](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort) occurs when the opening price is greater than yesterday's high price.
-- A Full Gap Down occurs when the opening price is less than yesterday's low.
-- A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
-- A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.
+
+# [Looking for a suitable investment class](http://www.iol.co.za/business/personal-finance/financial-planning/investments/investing-101-how-to-beat-inflation-1.1674984)
+
+| Interest rate is... | Inflation is... | Buy...                                                                  | Sell...                                                                             |
+|---------------------|:----------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Rising              | Being fought    | Defensive (commodity) stocks, REITs, bonds                              | Growth stocks, other currencies, precious metals, savings, bonds, GICs, real estate |
+| -                   | Stable          | Precious metals                                                         |                                                                                     |
+| Decreasing          | Trending up     | Growth stocks, other currencies, savings, [bonds][1], GICs, real estate | Defensive (commodity) stocks, bonds                                                 |
 
 ## Cash
 
-Holding cash under your mattress has low volatility, no [risk](https://www.reddit.com/r/stocks/comments/32kd0x/whether_youre_new_to_trading_or_notlean_on_these/) (other than getting it stolen), and has incomparable purchasing power. Never beats inflation.
-
-With cash, you are not investing.
+| Pros              | Cons                   |
+|-------------------|------------------------|
+| Low volatility    | Never beats inflation  |
+| High availability | No passive returns     |
+|                   | Not actually investing |
 
 ## Savings account
 
-If your savings account has an interest rate above 0%, you start getting money for the amount you save. But if this rate is below inflation, you still lose purchasing power over time.
+| Pros              | Cons                   |
+|-------------------|------------------------|
+| Low volatility    | Rarely beats inflation |
+| High availability | Can *cost* money       |
 
-At an annual interest rate of 2%, it takes 350 years to turn a dollar into a thousand dollars (or a hundred dollars in two hundred and thirty four years).
+Your purchasing power drops if the interest rate is below inflation (2%), which is often the case.
 
-Remember, fiat currency is rigged against you. The government sets a positive target inflation rate of 2% to make sure you know keeping money is not a good idea; they want you to put your money out and circulate in the economy instead.
-
-[Negative interest rates](https://www.moneysense.ca/save/investing/what-are-negative-interest-rates-explainer/) come from the central bank. Other banks keep their money with the central bank to get interest from it. By imposing a negative interest rate, the central bank penalises other banks for storing money instead of lending it out, which means other banks would be inclined to lend and boost the economy. (In 2019) [Denmark's Jyske Bank offers borrowers 0.5% bonus to take out a mortgage](https://www.cnbc.com/2019/08/12/danish-bank-is-offering-10-year-mortgages-with-negative-interest-rates.html). This happens when they worry about where the markets are headed... for example, if they think lending people money would jumpstart their economy, or if they think those borrowers won't be able to pay off a loan later.
-
-In a scenario where overnight interest rates are [negative](https://www.moneysense.ca/save/investing/what-are-negative-interest-rates-explainer/), it is possible for saving money in the bank to _cost_ money. As a result, people are inclined to invest money elsewhere, which means the money is being used in the economy.
+Fiat currency is rigged against you. The government sets a positive target inflation rate of 2% to make sure you know keeping money is not a good idea; they want you to put your money out and circulate in the economy instead.
 
 ## Bonds
 
-Issued by the government, bonds have low volatility, low risk, and low return. [Sometimes the return won't even be positive](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c).
-Bonds values do not correlate to stock market performance, so when the stock market is doing poorly, bonds might lose less than stocks do.
+| Pros               | Cons                                                                                      |
+|--------------------|-------------------------------------------------------------------------------------------|
+| Low volatility     | [Rarely beats inflation](https://www.ft.com/content/2ae4237a-2d3e-33dd-b9e0-120c4a93a29c) |
+| Has minimum return | Has maximum return (precious metals do not)                                               |
+|                    | Hard to buy                                                                               |
 
-Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
+* Bonds do not correlate to stock market performance.
+* Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
 
 * In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
 * Think of bonds as an inflation hedge (like precious metals) that have a minimum "return", but also have a maximum. In the case of hyperinflation, precious metals don't have a maximum "return".
 * You can tell how screwed bonds/bond funds are by looking at the [bond yield](https://ca.investing.com/rates-bonds/canada-5-year-bond-yield), which is a number posted by some... one. When that gets close to 0%, you should sell. And when it actually hits 0% (once inflation is taken into account), it is a signal that you *must* sell.
 * When "inverted yield curve" (term for short-term bonds having a higher yield than long-term bonds) happens, [be careful of a recession](https://www.investopedia.com/terms/i/invertedyieldcurve.asp).
 
-### Mortgage-backed securities, CDOs, Credit-default swaps, synthetic CDOs
-
-* [Mortgage-backed security](https://en.wikipedia.org/wiki/Mortgage-backed_security): similar to a bond, [whenever the home owner pays a mortgage payment, the owner of the MBS gets a cut](https://www.investopedia.com/terms/m/mbs.asp).
-* [Collateralized debt obligations](https://www.investopedia.com/terms/c/cdo.asp): perhaps a group of MBSes, like a mutual fund of mortgages, but with different grades of MBSes inside (AAA, AA, A, BBB, ...). (Interestingly, a CDO with only 25% AAA MBSes can itself be AAA.)
-* [Credit default swaps](https://www.investopedia.com/terms/c/creditdefaultswap.asp): a lender can buy a CDS if they're afraid the home owner defaults on the loan, like an insurance. Alternatively, if buyers are assumed to never default, then these are just wall street bets that don't depend on the actual asset.
-* [Synthetic CDOs](https://www.investopedia.com/terms/s/syntheticcdo.asp): perhaps a group of CDSes, like a betting pool. The issue with these are: CBS sellers (aka insurance) can't pay out everyone at once.
-
-You will be fine if your portfolio contains none of these.
-
-## Futures
-
-[Future contracts](https://en.wikipedia.org/wiki/Futures_contract) are obligations to buy or sell something on predetermined dates. So, if you think ("speculate") the price of oil will go up in a year (say from $10 to $100), you can always [buy oil now](https://www.nerdwallet.com/blog/investing/started-futures-trading/) (say at \$20) to lock in that price.
-
-If you don't need oil, you can also sell your contract, which was locked in at a lower price (say $20), to someone else, who wants to buy it for a higher price (say $50) because the price of oil is even higher now (say $100). Now you earn $30 by selling a contract but not the oil.
-
 ## Equity ("stocks")
 
-At the cost of high volatility, equity provides the highest return, provided that you pick the right stocks and get the timing right.
-
-To give you an idea how risky stocks are, an overwhelming number of people suggest buying mutual funds instead of [trying to be clever](https://www.reddit.com/r/wallstreetbets).
+| Pros                        | Cons                                                         |
+|-----------------------------|--------------------------------------------------------------|
+| Can have the highest return | [High volatility](https://www.reddit.com/r/wallstreetbets)   |
+| Often pays dividends        | Requires market and company research                         |
 
 ["Describing the U.S. stock market as zero-sum before costs, then negative-sum after costs, is a fine approximation of the truth."](https://www.morningstar.com/articles/841310/is-the-stock-market-a-zero-sum-game)
 
@@ -84,9 +73,25 @@ To give you an idea how risky stocks are, an overwhelming number of people sugge
 - If you don't expect a stock to outperform an index fund---which has far less risk---don't buy the stock. Actually, if you don't expect a stock to be able to beat the market at all, don't buy any stocks. You aren't cut out for stocks.
 - Never spend all your money on stocks.
 
+### Terms
+
+- Board Lot: a unit for "number of shares" in your stock exchange. Typically, A lot is 100 shares. Because trading 100 shares is easier than trading 17 shares, trading is often done in lots.
+- MACD (Moving Average Convergence/Divergence): The MACD is calculated by simply subtracting a 26-period exponential moving average (EMA) of the closing prices from a 12-period EMA. The signal line is a nine-period exponential moving average of the MACD.
+- Book value: the "net asset value" of the company. A company's stock can (intrinsically) cost $5, but be traded at $300 because people love to speculate.
+- Buy on Stop: buy, when the price hits the value you specified.
+- Div yield (%): total dividend per year per share
+- EPS: earnings per share
+- p.s. "bought deal" means someone buys all available shares.
+- [Slippage](http://www.investopedia.com/terms/s/slippage.asp) refers to the difference between the expected price of a trade and the price at which the trade is actually executed. However, [beta slippage](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) is something else; it refers to the difference between "going down 10% and then back up by 10%", which, unfortunately, does not add up to 1.
+- ["Consider various strategies alternatives available to the company." means "sell, sell, sell."](http://www.fool.ca/2016/06/03/why-did-concordia-healthcare-corp-drop-over-20-yesterday/)
+- A [Full Gap Up](http://stockcharts.com/school/doku.php?id=chart_school:trading_strategies:gap_trading_strategies#full_gap_upshort) occurs when the opening price is greater than yesterday's high price.
+- A Full Gap Down occurs when the opening price is less than yesterday's low.
+- A Partial Gap Up occurs when today's opening price is higher than yesterday's close, but not higher than yesterday's high.
+- A Partial Gap Down occurs when the opening price is below yesterday's close, but not below yesterday's low.
+
 ### Shorting
 
-["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference. [There is no limit to how much money you can lose while short selling](https://www.youtube.com/watch?v=gMqZR3pqMjg), at least in the sense that you can lose more than what you put into the market. You can lose $900 on $100 worth of stocks if the price goes up 9x.
+["Shorting" stocks](http://www.swing-trade-stocks.com/shorting-stocks.html) involves you borrowing your broker's stocks, buying your copy of these stocks at a lower price, and giving back these stocks to your broker. You end up with these stocks, and the price difference. [You can lose more than what you put into the market](https://www.youtube.com/watch?v=gMqZR3pqMjg). You can lose $900 on $100 worth of stocks if the price goes up 9x.
 
 [*You don't actually know you are "borrowing" someone's stocks.](https://www.youtube.com/watch?v=ZLLDyoKsR8k) The broker does it behind the scenes, just like how a bank would lend out *your* money to others, because chances are the bank's customers won't be withdrawing money all at once.
 
@@ -117,7 +122,6 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
 
 ### Looking for a generic trade
 
-- Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell. As well, gold will be sold if people need to take out their savings to cover their massive losses during a downturn.
 - Buy bonds when stocks are falling. (More research required)
 - Consider things that people *need* when stocks are falling. Examples: waste management, education, essential medicine manufacturing, cigarettes, and discount retailers.
 
@@ -143,9 +147,7 @@ Further reading: [0001.md](sources/0001.md)
 
 You can get as technical (with charts and graphs and trend indicators) as you want, but you will never beat the fundamentals. **Do not time the market.**
 
-- Here's an immediate contradiction: if you *do* want to time the market, consider buying stocks in a _bull market_: a market where people are starting to gain confidence in investing. A [bullmarket.co](http://bullmarkets.co/model/) offers a number from 0 to 100 on whether the market is bullish or bearish.
-- Never buy stocks in a _bear market_: a market whose general prices are falling, and people are being pessimistic. (after the fall is done, it is not called the bear market anymore.)
-- [It doesn't hurt to buy stocks _after_ it is done dropping](https://news.ycombinator.com/item?id=22527631). Buying before it's done dropping is called "catching a falling knife". If prices drop afterwards, it is called a "dead cat bounce".
+- [If your time horizon is 10+ years out](https://news.ycombinator.com/item?id=22527631), timing doesn't matter.
 - Johnson says that if you miss the top 10 days of equity market growth in a year you miss 90 percent of returns.
 - [When VIX is low its time to go; When VIX is high its time to buy](https://www.reddit.com/r/StockMarket/comments/3dqggo/when_vix_is_low_its_time_to_go_when_vix_is_high)
 - [Relative Strength Index, RSI](http://www.investopedia.com/terms/r/rsi.asp) should be under 50. 100 means the stock is extremely overbought. 0 means the stock is extremely [oversold](http://www.investopedia.com/terms/o/oversold.asp). See [stockcharts.com](http://stockcharts.com/freecharts/) for visuals. Be careful with the index, as modifying its calculation period can switch the results completely. "Oversold" may also just mean the stock is doing very poorly, instead of a bargain indicator.
@@ -164,6 +166,8 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 - There is a overvalued/undervalued indicator for stocks in general: [Market Cap to GDP ratio](https://www.investopedia.com/terms/m/marketcapgdp.asp). [If total market cap was $20 trillion and GDP was the same, stocks would be considered fairly valued (eg; $20 trillion / $20 trillion = 1 {ie; 100%}).](https://www.forbes.com/sites/mikepatton/2020/08/18/us-stock-market-hits-record-77-overvalued/amp/) This indicator is affected by the fact that the stock market is not the economy, so there can be some disconnect between the two.
 - When a company announces a n-for-1 stock split (i.e. you get n new stocks for each 1 stock you had), *buy* for three reasons: it usually means the stock price is going up, there will always be [idiots](https://www.reddit.com/r/wallstreetbets/comments/ifju39/robinhood_really_keeping_it_simple_for_us_retards/) who think they will get n new stocks *at the same price* and buy in, AND because [a different group of idiots](https://old.reddit.com/r/investing/comments/ijzxrp/tesla_opens_up_at_440_post_split_and_soars_12_to/g3h6l31/) think the stock, which was at say $2000, is now "on sale" for $400. Historically, forward stock splits like that typically results in a brief rise in price, and then a subsequent drop.
 - On [borrowing money to buy stocks](https://old.reddit.com/r/investing/comments/633fhe/buying_high_dividend_yield_stocks_on_margin_smart/dfr95iw/): "The problem is that you're going to increase your exposure to risk while increasing your returns less than proportionally. ... In the long run, this effect is fairly dramatic, and the leverage will cost more than you think." In other words, if you borrow at 5% interest, you better know for sure your *minimum gain* is 5%. Which you can't say for anything.
+- **Speculating**: buying a company's stocks when the company isn't making a profit.
+- Look at a company's political climate in addition to what the company's competition is doing.
 
 #### [To sell](http://www.investopedia.com/financial-edge/0412/5-tips-on-when-to-sell-your-stock.aspx)
 
@@ -190,17 +194,13 @@ You can get as technical (with charts and graphs and trend indicators) as you wa
 
 ## Mutual Funds
 
-If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it. Unlike ETFs, where one trade is typically \$10 through your standard broker, contributions to mutual funds typically have no additional fees.
+| Pros                                                                                                                                                                   | Cons         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Diversified (funds of stocks, funds of funds, funds of bonds... funds for anything)                                                                                    | High MER     |
+| No-fee [dollar cost averaging**](https://en.wikipedia.org/wiki/Dollar_cost_averaging) / [value averaging](https://www.investopedia.com/articles/stocks/07/dcavsva.asp) | Slow trading |
 
-Mutual fund orders can take three whole fucking days to close. The price of the fund you pay for is its price on the day they decide to settle your order.
+If you want to [leave stock-picking to someone else](https://www.theglobeandmail.com/investing/article-when-mutual-funds-make-more-sense-than-etfs/), then pick an actively-managed mutual fund, contribute to it monthly, and forget about it.
 
-[Mutual fund orders are executed at 4pm eastern time](https://www.investopedia.com/ask/answers/110615/when-are-mutual-fund-orders-executed.asp) (or 4:30pm? That's when the TSX closes). The price is calculated, [roughly](https://www.investopedia.com/terms/n/nav.asp), the fund's assets - liabilities, divided by the number of shares there is.
-
-[**Dollar cost averaging**](https://en.wikipedia.org/wiki/Dollar_cost_averaging) is a fancy term for "putting $100 into your mutual funds every month when you have $10000". If you don't have the lump sum to begin with, it is called **automatic investing** instead. On one hand, it does reduce risk for when, say, the market crashes shortly after you deposit a lump sum amount. On the other hand, since you didn't put in that lump sum amount, you don't benefit from the gains if the market goes up. So: throw in a lump sum if you have the money _and_ the market is expected to go up. Throw in a invest small amounts regularly otherwise.
-
-[**Value averaging**](https://www.investopedia.com/articles/stocks/07/dcavsva.asp) is when you invest more when the price is low, and invest less when the price is high. While it makes intuitive sense, you need to know what "low" and "high" are, and "high" is not just whatever you feel like it is. Under value averaging, if there is a spike in price, you will need to sell.
-
-- Mutual [Funds of funds](https://en.wikipedia.org/wiki/Fund_of_funds) do exist. They are figuratively inflation funds. They also have higher MERs.
 - There are also bond mutual funds, where the underlying assets are bonds. They are good for [when you anticipate interest rates to drop, but not when you anticipate rates to rise](https://www.investopedia.com/terms/f/fixedincome.asp). If interest rates rise quicker than your bond's return, you simply lose money... and if inflation happens in the meantime, you also lose money. Note that lower interest rates cause inflation. Which means if you invest in bonds, it is possible that you will be fucked either way.
 - [Rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp) your portfolio means, if your funds 1 (33%), 2 (33%), and 3 (33%) grew by (-50%, 0%, 50%), then your portfolio is no longer 1/3 each, and you need to "rebalance" your portfolio such that they are 33% each. If you decide to do so by [selling fund 3 rather than putting more money into fund 1](https://www.fool.com/investing/how-and-when-you-should-rebalance-your-portfolio.aspx), _rebalancing implies selling high and buying low._
 - /u/learner1314: [Never pump in money into a mutual fund that has invested more than 95% of its money. Instead look at those who have sat on the sidelines and are cash rich with 20-30% of money sitting idle.](https://www.reddit.com/r/investing/comments/5w41k3/warrens_letter/) I believe the reasoning is that funds with some cash leeway can easily overcome a short term market downturn without having to sell existing positions.
@@ -208,71 +208,58 @@ Mutual fund orders can take three whole fucking days to close. The price of the 
 
 ## ETFs (Exchange-traded funds)
 
+| Pros                                                                                | Cons                        |
+|-------------------------------------------------------------------------------------|-----------------------------|
+| Diversified (funds of stocks, funds of funds, funds of bonds... funds for anything) | Every trade costs something |
+| Low MER                                                                             |                             |
+
 For [non-actively managed funds](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-mutual-fund-difference.asp) (e.g. index funds), mutual funds' high MER don't justify themselves. Either get a low-fee mutual fund or an ETF.
 
-They can be bought and sold whenevr the exchange is open, instead of a once-per-night type thing. When you decide to buy/sell, though, do have a bid-ask spread.
+They can be bought and sold whenever the exchange is open, instead of a once-per-night type thing. When you decide to buy/sell, though, do have a bid-ask spread.
 
 ETFs can be traded even when the assets' exchanges are closed. Try not to trade on a holiday where the underlying assets' markets are traded. Don't trade an American ETF on the fourth of July, for example. Sometimes you cannot avoid it (there are plenty of markets that are completely closed when the Dow is open).
 
-[Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. Thats a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. [You lost money because of resetting leverage.](https://study.com/academy/lesson/what-is-a-leveraged-etf-decay-risk-volatility.html)"
+[Leveraged ETFs](https://www.investopedia.com/terms/l/leveraged-etf.asp), which uses derivatives and debt to achieve a multiple gain, [are known for their natural decay. On the long term, holding a position in an N-times leveraged ETF is generally worse than holding an N-times leveraged position in the underlying asset.](https://seekingalpha.com/article/1864191-what-you-need-to-know-about-the-decay-of-leveraged-etfs) As /u/MasterCookSwag tried to put it simply: "You have $100 invested in dogshit and another $100 in 3x dogshit. Dogshit goes from $100 to $90 back to $100. That's a loss of 10% then a subsequent gain of 11.11% for a net 0% move. 3x dogshit does, you guessed it, 3x that which means it loses 30% and subsequently gains 33.33%. That's a drop from $100 to $70 then back up to $93. You just lost 7% because of leverage. Voila. [You lost money because of resetting leverage.](https://study.com/academy/lesson/what-is-a-leveraged-etf-decay-risk-volatility.html)"
 
-[/u/throwaway474673637 said that](https://www.reddit.com/r/PersonalFinanceCanada/comments/gi9j34/wealthsimple_compares_their_portfolio_against/fqe5bvv/) Wealthsimple said Fama and French said that [low-beta and low-volatility stocks give you higher long-term returns](https://academic.oup.com/rfs/article-abstract/29/1/69/1843682?redirectedFrom=fulltext)
+* [/u/throwaway474673637 said that](https://www.reddit.com/r/PersonalFinanceCanada/comments/gi9j34/wealthsimple_compares_their_portfolio_against/fqe5bvv/) Wealthsimple said Fama and French said that [low-beta and low-volatility stocks give you higher long-term returns](https://academic.oup.com/rfs/article-abstract/29/1/69/1843682?redirectedFrom=fulltext).
+* "CAD-hedged" ETFs protects you from foreign exchange fluctuation. It is *not* good for when you want exposure to another currency (i.e. hedging).
 
 ## Property
 
 Properties (e.g. houses that you don't live in) usually beat inflation in the long term.
-However, properties are vulnerable to pricing bubbles.
 
-* Pro: A mortgage is forced savings. The money isn't going to anyone else.
-* Con: Property taxes and maintenance costs.
-* Pro: Rents always go up. Mortgages typically don't.
-* Con: You can't exit a challenging situation like home repairs.
-* Pro: No one can kick you out but yourself (or the bank).
-* Con: But you cannot move easily.
-
-In other words, you pay for freedom. You can *stop paying when you settle down*.
-
-### Who
-
-* [Shop around for realtor](https://www.realtor.com/advice/buy/what-every-first-time-home-buyer-needs-to-know/), and [NOT a real estate agent/broker](https://www.teamrealty.ca/sellers/difference-between-a-realtor-and-real-estate-agent/). The former must adhere to a moral code and undergo training. The latter are [salespeople](https://comparerealestateagents.ca/real-estate-agent-vs-broker/), brokers included. You aren't just assessing the house. You are also assessing the person you trust to choose the house for you, with their rich set of sales data (note: **the more data a realtor has, the better they are**), expertise, and negotiating power.
-* Don't get a mortgage from someone who knows your financials (i.e. your bank). They can and _will_ convince you to buy something else to maximise their commission.
-
-### What
-
-* "The golden rule No.1 is never buy [a] new flat _for investment_ ... Investment on used flats do not have problem of sharp depreciation because they have been depreciated when investors bought them ... However, [buying new flats] is consumption but not investment."
-* There is _always_ a market for small houses. There will _always_ be young people trying to start their first family. This makes small houses easier to sell, and also in greater demand. Wait, great demand? That means smaller houses will be more expensive than larger houses in terms of worth.
-* [RBC suggests](https://www.rbcroyalbank.com/mortgage/campaign/first-time-home-buyer/_assets-custom/includes/23625_Eng.pdf) buying a home where your `(rent + taxes + heating) / monthly income` does not exceed 32%, and where your `(home loan + car loan + credit card loan) / monthly income` does not exceed 40%.
-
-### When
-
-* Property value is linked to to bonds value, and is inver1sely correlated to the central bank interest rate. [*If the government lowers the central bank interest rate to boost the economy because it has to, it will also lower the bar for people to buy homes, making their prices go higher.*](https://www.investopedia.com/articles/mortgages-real-estate/08/interest-rates-affect-property-values.asp)
-* In a bullish market, where you expect the price to go up, buy what you can, sooner rather than later. (Sounds obvious, right? If it's that easy to tell if the price will go up, then the price is always going to go up.)
-
-### Where
-
-* Buy the worst house on a nice street that can be fixed up to appeal to buyers. Location is key. Get it inspected by a professional. (Editor note: hahahahaha, inspections, what a fucking joke this market is)
-* A place with lots of trees nearby, but not necessarily right beside you, can lower air pollution, noise, and chances of flood.
-* You won't want a place at an intersection. These places have higher insurance premiums because that's where cars commonly crash.
-
-### How
-
-* It is a misconception that you don't pay fees when you buy your first house. Not so. [You actually pay all the fees](https://youngandthrifty.ca/real-estate-agent-commissions-decoded/) because you aren't selling anything. "These fees are worked in the home’s total purchase price. The buyer is the one who will be paying off those extra thousands of dollars (plus interest) over the next 25 years."
-* You can borrow money using your first house as leverage, to pay for your second house. Quite often this risk is still lower than investing in stocks, but you can end up homeless if you are not careful.
+| Pros                                  | Cons                             |
+|---------------------------------------|----------------------------------|
+| Mortgage is forced savings            | Property taxes                   |
+| Mortgage doesn't go up like rent does | Maintenance costs **and** effort |
+| You are the landlord                  | Vulnerable to housing bubbles    |
+| Usually beats inflation               |                                  |
 
 ## Precious metals
 
-* [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold. [Gold price is affected by bond yields](https://www.thehindubusinessline.com/markets/gold/four-reasons-why-gold-has-dropped-to-an-8-month-low/article33869363.ece), for example: if bonds (a *very* safe asset) has a good enough yield, people won't need to buy gold to protect against inflation.
-* On the contrary, if the fed increases interest rates, then the price of gold drops because there is no need for good as an inflation hedge.
-* Or, [gold prices tend to be random](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp) relative to the monetary policies at the time. Who knows.
-* [Gold is not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp), but it is an "okay" diversifier. Gold also retains value and purchasing power no matter what civilisation you live in.
-* Gold is not "consumed", so the quantity of gold (used for investments) increases over time. This causes devaluation. However, since gold is locked up and not consumed, the supply does not increase, either (unless something makes everybody sell gold).
+| Pros                      | Cons                                                                                                                                                                                 |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Great for diversification | ...assuming people value gold as a store of value                                                                                                                                    |
+|                           | [Negatively affected by high bond yield or interest rate](https://www.thehindubusinessline.com/markets/gold/four-reasons-why-gold-has-dropped-to-an-8-month-low/article33869363.ece) |
+|                           | Does not generate income                                                                                                                                                             |
+|                           | [Not a good hedge against inflation](https://www.investopedia.com/articles/active-trading/031915/what-moves-gold-prices.asp)                                                         |
+|                           | Gold is rarely "consumed"; supply increases over time                                                                                                                                |
+
+* [Gold prices are heavily influenced by monetary and fiscal policies](https://www.fool.com/investing/2016/10/13/7-common-factors-that-influence-gold-prices.aspx): if the fed lowers interest rates and/or triggers QE, then both low bond yields and high inflation will drive up the price of gold.
+* Buy gold when the market is stable. Since gold has inherent value, gold is often bought by others when the market is unstable, which is the time you should sell. As well, gold will be sold if people need to take out their savings to cover their massive losses during a downturn.
+* Gold is not the only precious metal; silver is also commonly traded. However, its broader use in manufacturing leads to less predictable pricing, and effectiveness as a store of value.
 
 ## Bitcoin
 
+| Pros                      | Cons                                                    |
+|---------------------------|---------------------------------------------------------|
+| Great for diversification | ...assuming people value Bitcoin as a store of value    |
+| Supply is fixed           | Negatively affected by high bond yield or interest rate |
+|                           | Does not generate income                                |
+
 Never treat Bitcoin as an investment. You can gamble all you want, but it is not an investment.
 
-- A security is a tradable financial asset of any kind, but [Bitcoin is not a security](https://coincenter.org/link/sec-chairman-clayton-bitcoin-is-not-a-security), perhaps because it falls short on the definition of ["asset"](https://en.wikipedia.org/wiki/Asset), which can be tangible or intangible.
-- "The fact that 90% of people use [Bitcoin] for speculation rather than as currency is all the proof you need that it's a bubble."
+- "The fact that 90% of people use (Bitcoin) for speculation rather than as currency is all the proof you need that it's a bubble."
 
 ## Allocating
 
@@ -282,3 +269,5 @@ Never treat Bitcoin as an investment. You can gamble all you want, but it is not
 - If [30 year olds should have 100% in equities and 60 year olds should have 50/50 mix of equities and fixed-income investments](https://www.theglobeandmail.com/globe-investor/at-30-or-60-how-best-to-invest-your-tfsa/article36450229/), then you can tell each year you go beyond 30, you rebalance ~1.4% of your portfolio.
 - [US dividend ETFs prefer to be put in an RRSP](https://www.fool.ca/2016/12/13/not-all-canadian-dividend-etfs-are-created-equal/) because they don't have dividend tax credit either way, I think.
 - Since [DRIP changes the adjusted cost base of your holdings](https://www.moneysense.ca/columns/ask-moneysense/key-things-to-know-about-reinvested-dividends-on-your-etfs/) and you need to take care of the calculations, it is best to ignore the DRIP option and reinvest the dividends yourself if you have a non-registered account.
+
+[1]: https://www.investopedia.com/terms/f/fixedincome.asp

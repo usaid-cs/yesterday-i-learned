@@ -310,3 +310,4 @@ The class contains a `getInstance()` method, which keeps track of the first obje
 - A "[data race](https://en.wikipedia.org/wiki/Race_condition#Data_race) condition" occurs when two or more threads access the same memory concurrently.
 - [How to tell if a FLOSS project is doomed to FAIL](http://www.theopensourceway.org/book/The_Open_Source_Way-How_to_tell_if_a_FLOSS_project_is_doomed_to_FAIL.html)
 - The whole point of devops was to make devs own their infrastructure. [There shouldn't be a "devops team"](https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd), because that's just, an ops team.
+- A [`flatMap` operation](https://www.youtube.com/watch?v=hJp5DeVrrfg) is really just a `map` operation, except each mapping function produces more than one thing. The end result is still a single list. For example, if you run `str.split(' ')` on `['foo bar baz', 'a b', 'd']`, the flatMap would yield `['foo', 'bar', 'baz', 'a', 'b', 'd']`. 

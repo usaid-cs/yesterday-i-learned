@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- *50% of your capital gains are taxable.* Your capital gains aren't taxed at 50%. This is *way* better than working, where income is 100% taxable.
+- The Fed, with all its national and foreign debt, does not actually [*want*](https://old.reddit.com/r/investing/comments/rwx4u6/federal_reserve_minutes_released/) to raise interest rates on itself unless it needs to.
 - Cow prices have actually been [going down](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop) while beef prices have been going up.
 - A "repo" is the central bank buying stuff from businesses for one day (the rate of which is called the "overnight rate"), giving businesses (usually just other banks) a liquid supply of money. A "reverse repo" is the central bank selling stuff back to businesses.
 - Since "GDP" can be calculated as [`money supply x velocity`](https://slideplayer.com/slide/2800948/), an increase in velocity of money increases GDP linearly.
@@ -15,7 +17,7 @@
 - Companies can have their fiscal year end on an arbitrary day. Apple, for example, end their year on September 30th.
 - There is no evidence on TSX that "sell in May and walk away" works, but there sure is some for "sell in October and buy back in May". Between 1990 and 2015, the general sentiment changed from "gotta lose money in December" to "gotta make the most buck in December".
 - A weaker US dollar usually indicates an appetite for risk-taking and growth... but not always.
-- Governments (and Trump) keep interest rates low because [the governments themselves are in huge debt](https://awealthofcommonsense.com/2020/07/5-thoughts-about-a-world-with-no-yield/) and low/negative rates help them pay it off. The consequence of that is "[a] world with no safe assets that offer investors a living yield on their investments, where investors are pushed further out on the risk curve, [where] there will likely be more volatility."
+- Governments (and Trump) keep interest rates low because [the governments themselves are in huge debt](https://awealthofcommonsense.com/2020/07/5-thoughts-about-a-world-with-no-yield/) and low/negative rates help them pay it off. The consequence of that is "(a) world with no safe assets that offer investors a living yield on their investments, where investors are pushed further out on the risk curve, (where) there will likely be more volatility."
 - If the US stock market closes on a day when the TSX is open (such as the fourth of July), the market swings are about 10% that of normal.
 - The economy declines whenever there isn't a (larger, or similarly-sized) younger population there to prop up the stock market. Apart from company valuation and earnings partially protecting you against inflation, you tell young people to invest *so you can withdraw at a higher value than when you bought in*.
 - A [financier](https://en.wikipedia.org/wiki/Financier_%28cake%29) is a type of almond cake. [Jeff Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein) was one.

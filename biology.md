@@ -1,3 +1,4 @@
+- Cat ears fold back when it is about to attack.
 - Viral particles survive better in the cold because [lipids form a gel](https://www.nih.gov/news-events/nih-research-matters/flu-virus-fortified-colder-weather) when it's at or below freezing, which presumably helps keep the outside intact for longer.
 - Arthritis is sensitive to air pressure. Low atomospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
 - The feeling of having kidney stones resembles having lower back pain. They can develop over the course of a single night of dehydration.
@@ -9,7 +10,7 @@
 - If you are in enough shock, [you won't feel pain, even though you are well aware of what's happening](https://www.thenational.scot/news/17510066.birth-legend-remembering-scotlands-famed-explorer/).
 - Sometimes an axolotl can transform into a "real" salamander (turning gills into lungs and everything).
 - Breathe with your diaphragm. Taking a deep breath should not make your shoulders go up.
-- Plants secret [latex](https://en.wikipedia.org/wiki/Latex) to defend itself from herbivores: tastes bad, poisonous sometimes, and traps insects. Over 20000 species of plants do this.
+- Plants secrete [latex](https://en.wikipedia.org/wiki/Latex) to defend itself from herbivores: tastes bad, poisonous sometimes, and traps insects. Over 20000 species of plants do this.
 - Turtles don't have "exoskeleton"; they have shells.
 - The average man doing office job needs [1.4~2.0 g/kg of protein for maintenance, or 1.6~2.4 g/kg for muscle gain](https://examine.com/guides/protein-intake/#how-much-protein-do-you-need-per-day).
 - It is normal to [feel disoriented after getting off a cruise](https://en.wikipedia.org/wiki/Mal_de_debarquement), even though the cruise ship was what's unstable.
@@ -109,7 +110,7 @@
 - The obvious difference between seals and sealions. Seals don't ever stand up.
 - Underweight babies have trouble breathing because the lungs are among the last to develop.
 - [Methanol poisoning](https://en.wikipedia.org/wiki/Methanol_toxicity) happens when methanol's metabolite methanoic ("formic") acid [inhibits the mitochondria](https://en.wikipedia.org/wiki/Cytochrome_c_oxidase) from producing energy, which leads to peculiar symptoms like blindness (because the optic nerve uses a lot of energy) and death (because all cells need energy).
-- [Thalidomide](https://en.wikipedia.org/wiki/Thalidomide) is safe to use... for anyone who isn't pregnant.
+- [Thalidomide](https://en.wikipedia.org/wiki/Thalidomide) is safe to use... for anyone who isn't pregnant. It's a (bone marrow) cancer drug today.
 - [Siamese cats](https://en.wikipedia.org/wiki/Siamese_cat) get their unique colour pattern from malfunctioning tyrosinase, which made the enzyme extremely temperature-sensitive. It works only below body temperature, which means only the cool places of the cat body (like ears and tail) get melamin, the colour.
 - Alcohol is an anti-platelet agent.
 - Lots of crabs are [lobster-like creatures that evolved independently into a crab-like shape](https://www.youtube.com/watch?v=wvfR3XLXPvw). They are neither related to true crabs or each other. This is a prime case of convergent evolution.

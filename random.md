@@ -1,5 +1,7 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- 3D printers produce fumes (unless you stick to PLA, apparently), but an enclosure will keep the fumes inside.
+- [Machine-generated faces don't tend to have round pupils.](https://www.marktechpost.com/2021/09/14/ai-researchers-propose-a-method-using-irregular-pupil-shapes-to-identify-gan-generated-synthetic-faces/)
 - A [large number of phones](https://nokiamob.net/2021/01/17/large-number-of-modern-phones-including-nokia-are-designed-by-odm-companies/) are designed by the Clevos of the mobile world, like Wingtech. 89% of Lenovo's phones are designed by someone else. Half of OPPO's phones are outsourced.
 - The JPEG files today are mostly JFIF (JPEG File Interchange Format) files, a format that builds on JPEG.
 - [BuildKit](https://docs.docker.com/develop/develop-images/build_enhancements/) is a Dockerfile builder toolkit. [Buildkite](https://buildkite.com/) is a CI tool.

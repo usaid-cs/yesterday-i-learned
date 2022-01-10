@@ -14,6 +14,7 @@
 - [`??`, unlike `||`, falls back only for `null` or `undefined`, not for all falsy values.](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/) (edit: this is in JS proper now.)
 - `a?.b` accesses `a.b` only if `a` is not null. `a[d]` is your standard JS. Since `?` is already a thing (it's a ternary operator, e.g. `a ? b : c`), and whitespace is nothing in JS, `a?[d]` doesn't work. You need to write `a ?. [d]` to access `a[d]` if `a` is not null.
 - ...Or, `a?` can denote that `a` is nullable. So `a ? : string` is totally fine, but `a ? boolean : string` is totally not fine. Imagine that.
+- The [`never` type](https://www.tutorialsteacher.com/typescript/typescript-never) is used to make sure nothing is ever assigned to it, including `null`, or to make sure a function never returns anything, including `null`. It is a bit like `: undefined`, but if you actually use `function foo(): undefined`, you are required to `return undefined`, which is a bit odd.
 
 ## Interfaces
 

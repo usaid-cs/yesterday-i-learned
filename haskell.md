@@ -13,7 +13,7 @@ let x = 8 * 10 in x + x      # with (x = 80)
 => 160                       #    yield x + x
 ```
 
-- The _cons_ (unshift) function: `(:)`. `'a' : []` means `[]` _cons_ `'a'`, which yields `["a"]`. Whitespace between `:` does not matter.
+- The [`cons`](https://en.wikipedia.org/wiki/Cons) (unshift) function: `(:)`. `'a' : []` means `[]` _cons_ `'a'`, which yields `["a"]`. Whitespace between `:` does not matter.
 - That is, `a : b` means `(cons a b)`.
 - Likewise, `'a' : 'b' : []` is just "given [], cons b, then cons a". Imagine parentheses.
 - Now that `:` means cons, `0:[1, 2]` equals `[0, 1, 2]`.

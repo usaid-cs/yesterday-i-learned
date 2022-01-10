@@ -16,3 +16,10 @@
 - JS is so bad at working with CSS that, in 2021, [developers are encouraged to put CSS in JS](https://rencybeth.medium.com/top-8-reactjs-best-practices-to-follow-in-the-year-2021-4abd41618ea4) and have the compiler manage styled components.
 - "With hooks, we separate code not based on the lifecycle method name, but based on what the code is doing." - Dan, on [hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM&t=2657s)
 - If any of your components [shares state with other non-child components, saves or loads state, or uses the network](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672), redux is still used in place of hooks. In other words, `useState` and friends are only responsible for component state, not the application state.
+- [Mixins are bad](https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html). Use [hooks](https://beta.reactjs.org/) instead.
+- Hooks look like `useState`, `useContext`, and `useEffect`. [The `use` prefix is required](https://beta.reactjs.org/learn/state-a-components-memory#meet-your-first-hook), because the compiler looks for those.
+- Hooks must be at the top of a function.
+- If you choose to write class-based components, you need to unsubscribe event handlers in `componentDidUnmount`.
+- `componentDidMount` vs `componentDidUpdate`: mounting happens when the component's element is inserted into the DOM. Updates happen, and that's when the second event fires.
+- Every method in a class component needs to be manually bound in the constructor, i.e. `this.someEvent = this.someEvent.bind(this);`... for all of them.
+- `useEffect` can be used more than once. It can specify a cleanup phase, and if it does, return a cleanup function in the effect function.

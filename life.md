@@ -1,5 +1,7 @@
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved." - Helen Keller, who's obviously been through a lot
 
+- Positivity blog [says](https://www.independentlyhappy.com/pollyanna-defined/): people find being overly positive annoying, but being overly positive is a good thing. Be overly positive!
+- "When a person cheats they are directly attacking the foundation of their family unit." - ameminator
 - You can't argue with someone who's shorter-tempered than you, and continue to make that claim. In fact, you can't really argue with someone who's short-tempered and win. The only way to win is not to argue.
 - "If you work 12-hour days and spend no time at all eating, you can work an internship on top of your full time job" - paraphrasing [this woman over here](https://www.themuse.com/advice/5-lessons-ive-learned-from-taking-an-internship-on-top-of-my-fulltime-job)
 - Sooner or later you realise they only ever had scraps to give. You can either accept that or look elsewhere for food.
@@ -16,7 +18,7 @@
 - There are many reasons people [burn out and quit](https://mayakaczorowski.com/blogs/burnout): work not being recognised, no promotions, everyone else left, having the same conversations over and over and not making any progress... the list goes on.
 - ["Writing is nature's way of telling you how sloppy your thinking is."](https://blog.kewah.com/2021/write-more-but-shorter/)
 - In bad company, [stick to your job](https://old.reddit.com/r/softwaretesting/comments/pnvtc4/do_you_find_yourself_doing_more_than_just_testing/hcsjtps/), because /u/zer0_snot has interesting insights: "Do anything extra (even once). And that extra thing will become a norm and always be expected of you in the future", "Competent work completion is always rewarded with more responsibilities irrespective of your bandwidth", "Work completed quickly is almost always seen as a bad thing", and "Good work will rarely be appreciated".
-- You know you understand something if you know when not to use it.
+- You know you understand something if you know when *not* to use it.
 - If you give yourself the freedom to do anything, [you will probably do nothing or the easiest one](https://www.youtube.com/watch?v=SappngY0ZQ8). If you give yourself the option between studying and playing games, then you will probably play games. So not only do you need to do what you need to do, *you also need to stop doing what you shouldn't do*.
 - Before you buy a major appliance, check if any of your local repair shops deal with them. If they don't, chances are the manufacturer is a dick, doesn't want you to repair it down the road, and repair shops are unable to get parts.
 - "If you want to go fast, go alone. If you want to go far, go together." - on hating other people but needing to work with them anyway
@@ -270,7 +272,7 @@
 - The story of a 17yo man and [his encounter with a girl called Monica](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
 - _Parroting_ is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
 - Don't take your fucking phones out on a wedding. The place is already professionally recorded, and your stupid phones get in the way.
-- Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better archieve your goals.
+- Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better achieve your goals.
 - [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you _don't_ have to pay them.
 - ["The nice thing about IKEA is that you pretty much get what you pay for."](https://www.quora.com/How-easily-does-IKEA-furniture-fall-apart)
 - "An adult couch is one you buy (new, instead of inheriting from someone else)"

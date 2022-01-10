@@ -146,3 +146,4 @@
 - [AdGuard GitHub version](https://github.com/M66B/NetGuard/blob/master/ADBLOCKING.md) blocks ads. "Please do not mention this feature in Google Play store comments," says M66B.
 - Use `settings put global ram_expand_size 4096` to get 4GB of swap on your Samsung device. Empirically, it doesn't do anything.
 - Use `dumpsys deviceidle whitelist` to see what apps are in the doze whitelist, and `dumpsys deviceidle whitelist -com.package.name` to remove it. Empirically, it doesn't do anything for system apps.
+- Connect to multiple devices over adb Wi-Fi by running `adb -d tcpip (a different port number every time)`. The `-d` selects a currently-connected USB device; you can also try `adb -s (device id) tcpip (a different port number every time)`.
