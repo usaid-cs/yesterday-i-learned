@@ -70,3 +70,4 @@
 - [psych](https://psysh.org/) is a [modern](https://www.freecodecamp.org/news/this-is-what-modern-php-looks-like-769192a1320/) PHP REPL.
 - Nullable types are denoted with `?type` (like `?string`) instead of the usual `type?`.
 - ["Sometimes it is convenient to be able to have variable variable names."](https://www.php.net/manual/en/language.variables.variable.php) Therefore, it exists as a core feature.
+- PHP 8.1 adds [allowing `new Something` in `__construct`](https://wiki.php.net/rfc/new_in_initializers), even when the two classes are completely unrelated. Not sure why it is an edge case.

@@ -1,3 +1,4 @@
+- The radius of the [observable universe](https://en.wikipedia.org/wiki/Observable_universe) is about 46.5 billion light-years... but the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) happened 13.8 billion light-years ago. Assuming the numbers are more or less accurate, clearly the universe is expanding faster than the speed of light.
 - [Spectralon](https://en.wikipedia.org/wiki/Spectralon) is the world's whitest thing. After that, it's Erin Conrad, who claimed to be so pale.
 - Running AC motors on modified sine wave can cause waste heat to accumulate. [Other devices tend to work just as well](https://www.lifewire.com/modified-sine-wave-inverter-damage-question-534760) on modified sine wave as they do on pure sine wave.
 - Given what the big bang is (there was space), spacetime must have been *all* time, then, right? Alternatively, since there was no time, there was no space either... and there was no "before the big bang".

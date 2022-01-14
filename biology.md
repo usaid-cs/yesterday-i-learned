@@ -1,3 +1,5 @@
+- [Leukemia](https://en.wikipedia.org/wiki/Leukemia) is a high number of abnormal blood cells. Symptoms vary wildly depending on the type of leukemia diagnosed.
+- Artificial heart batteries don't last the whole day. A patient can have dozens of backups in case of travel or power failure, for example.
 - Cat ears fold back when it is about to attack.
 - Viral particles survive better in the cold because [lipids form a gel](https://www.nih.gov/news-events/nih-research-matters/flu-virus-fortified-colder-weather) when it's at or below freezing, which presumably helps keep the outside intact for longer.
 - Arthritis is sensitive to air pressure. Low atomospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
@@ -19,7 +21,6 @@
 - Hot dildos are used to treat [prostate enlargement](https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/prostate-enlargement-benign-prostatic-hyperplasia). [This one guy](https://old.reddit.com/r/WTF/comments/pimyam/sniffsniff_do_you_smell_something_burning/hbsy2dg/?context=3) swears by it.
 - [Camels](https://en.wikipedia.org/wiki/Camel#Biology) have an organ in the mouth called the [dulla](https://en.wikipedia.org/wiki/Dulla), which they whip out during courtship. Rumour has it that females are attracted to this organ.
 - ["Intersex"](https://en.wikipedia.org/wiki/Intersex) is a medical term that says a baby wasn't born within binary notions of male or female bodies, in terms of chromosomes and reproductive organs. You can have a gender of "intersex" only if you *are* intersex (unless, of course, you subscribe to the idea that you can identify as anything).
-- [Sex induces labour](https://www.healthline.com/health/pregnancy/sex-to-induce-labor#what-the-research-says). The penis will not poke the child's head. Semen is not required. Use a condom.
 - [Thinking really hard does not significantly increase energy expenditure](https://www.scientificamerican.com/article/thinking-hard-calories/)
 - [Annual plants](https://en.wikipedia.org/wiki/Annual_plant) die off every year. They don't grow from the same plant again. They rely on seeds from last year to propagate. [Perennual plants](https://en.wikipedia.org/wiki/Perennial_plant) survive the winter, but not necessarily every winter.
 - 雪蛤 hasma is [frog fallopian tubes](https://en.wikipedia.org/wiki/Hasma), actually, not birds.

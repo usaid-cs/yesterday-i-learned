@@ -1,3 +1,4 @@
+- [DON'T. BUY. AN APPLE PRODUCT. IF YOU NEED IT FIXED.](https://old.reddit.com/r/apple/comments/s1s5ij/the_macbook_air_has_blown_me_away/hsaowa2/)
 - Apple's first-party apps are only updated via system upgrades. Therefore, despite Android's typical support period of 2 to 3 years, their first-party apps often updated for longer than those in iOS.
 - The AirPods case (without AirPods in it) costs [$100](https://www.apple.com/ca/shop/product/MR8U2AM/A/wireless-charging-case-for-airpods).
 - [Microsoft Office](https://en.wikipedia.org/wiki/History_of_Microsoft_Office) started off exclusives for the Mac. Steve Jobs and Bill Gates worked closely on it. Windows was conceived because, get this, when Bill Gates recommended to Steve Jobs that licensing the Mac's OS would be a good idea, Steve Jobs said no. [So he made his own](https://www.businessinsider.com/the-bill-gates-steve-jobs-feud-frenemies-2016-3).

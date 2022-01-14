@@ -17,7 +17,8 @@
 - "French food on tiny plates" is called [_Haute cuisine_](https://en.wikipedia.org/wiki/Haute_cuisine), or "high cuisine". _Haute cuisine_ focuses on the cost of making elaborate preparations (as costly as possible) rather than the amount or value.
 - Garlic makes most main courses taste better.
 - Good grilled cheese involve sppreading butter on the pan sides of the bread.
-- When you bake a pizza, the toppings should already have been cooked.- The difference between vanilla and French vanilla, as it turns out, is [eggs](https://www.seattletimes.com/life/food-drink/whats-the-difference-between-vanilla-and-french-vanilla/).
+- When you bake a pizza, the toppings should already have been cooked.
+- The difference between vanilla and French vanilla, as it turns out, is [eggs](https://www.seattletimes.com/life/food-drink/whats-the-difference-between-vanilla-and-french-vanilla/).
 - Mass-produced dry pasta is yellow because [it was dried quickly and that's no good](https://www.lifegate.com/people/lifestyle/pasta), if you trust that sort of thing. Dark spots in dry pasta are impurities, not some fancy whole wheat component.
 - [Slow cookers are good at nothing.](http://www.seriouseats.com/2016/10/why-pressure-cookers-are-better-than-slow-cookers.html) [Pressure cookers aren't that great, either.](https://news.ycombinator.com/item?id=13809891)
 - Cooked rice has only 2g of protein per 100g. Quinoa 4g. Your everyday pasta, 6g. Carbs are similar (30g), except for quinoa, at 20g.

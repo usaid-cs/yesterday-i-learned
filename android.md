@@ -8,7 +8,7 @@
 
 - AccuBattery is [neither precise nor accurate](https://www.antarcticglaciers.org/glacial-geology/dating-glacial-sediments-2/precision-and-accuracy-glacial-geology/). Its many (inaccurate) data points eventually converge to achieve an average, but potentially still at the wrong place (imprecise).
 - [Phone cases do not negatively impact thermal performance](https://www.youtube.com/watch?v=G7-Fa9KzhxQ), as long as the screen is exposed.
-- Under-screen fingerprint scanners require a transparent window over the screen, the screen protectors of which might try to do something like [having a patch of glue wherethe scanner is](https://old.reddit.com/r/galaxynote10/comments/le1k81/i_got_tempered_glass_professionally_installed_and/). The cheap ones might only have that glue at the scanner. More expensive ones will have a uniform-looking screen.
+- Under-screen fingerprint scanners require a transparent window over the screen, the screen protectors of which might try to do something like [having a patch of glue where the scanner is](https://old.reddit.com/r/galaxynote10/comments/le1k81/i_got_tempered_glass_professionally_installed_and/). The cheap ones might only have that glue at the scanner. More expensive ones will have a uniform-looking screen.
 - The Samsung Galaxy brand started from [some Samsung executives liking a particular brand of wine, called the Galaxy](https://www.youtube.com/watch?v=QMJ2YonPS8g) made in Napa Valley.
 - Google "invented" the [magnetic wireless charger](https://www.youtube.com/watch?v=01qnSptQAeE) in 2012.
 - Google [knows](https://www.theverge.com/2019/8/8/20797785/google-android-q-gestures-three-button-navigation-ergonomics) that gestures butchered recent apps.
@@ -147,3 +147,4 @@
 - Use `settings put global ram_expand_size 4096` to get 4GB of swap on your Samsung device. Empirically, it doesn't do anything.
 - Use `dumpsys deviceidle whitelist` to see what apps are in the doze whitelist, and `dumpsys deviceidle whitelist -com.package.name` to remove it. Empirically, it doesn't do anything for system apps.
 - Connect to multiple devices over adb Wi-Fi by running `adb -d tcpip (a different port number every time)`. The `-d` selects a currently-connected USB device; you can also try `adb -s (device id) tcpip (a different port number every time)`.
+- Try to use ["Suspend execution for cached apps" (`adb shell device_config put activity_manager_native_boot use_freezer true && adb reboot`)](https://source.android.com/devices/tech/perf/cached-apps-freezer). Or maybe it doesn't work, as usual.

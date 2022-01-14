@@ -35,6 +35,7 @@
 - ["To get a new feature into Java, it must get consensus from a consortium of large vendors such as Oracle, IBM, HP, Fujitsu & Red Hat."](https://softwareengineering.stackexchange.com/a/359420/116811) So next time a feature doesn't exist, blame the [Java Community Process Executive Committee](https://en.wikipedia.org/wiki/JCP_Executive_Committee).
 - Glassdoor [says](https://www.marketwatch.com/story/the-best-job-in-america-pays-up-to-125-000-a-year-and-has-10-000-job-openings-11641384094) "Java developer" is the "best job in America". It turns out that way because companies that force you to write Java typically have good work-life balance.
 - `println` prints the line, but `printf` lets you format the line with stuff inside (use `%n` to add a new line).
+- [`Objects.hash(Object... values)`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#hash-java.lang.Object...-) takes any number of arguments, and generates a `hashCode` based on them. You can implement your own `hashCode()` method this way.
 
 ## Conventions
 
@@ -99,6 +100,8 @@
 - [A reifiable type is a type whose type information is fully available at runtime](https://docs.oracle.com/javase/tutorial/java/generics/nonReifiableVarargsType.html): primitives, non-generic types, raw types, and "invocations of unbound wildcards". Non-reifiable types are types where information has been removed at compile-time by type erasure.
 - [`Array` is an implementation. `List` and `MutableList extends List` are interfaces](https://stackoverflow.com/a/36263748/1558430), with notable implementations being `ArrayList` and `LinkedList`. It is good practice to [prefer `List` et al. over `Array`](http://www.javapractices.com/topic/TopicAction.do?Id=39) unless performance is critical... like, _critical_. [Both `Array` and `ArrayList` have an amortised get and insertion time of O(1)](https://www.youtube.com/watch?v=ZVJ7kpEMc7U).
 - There are [differences between `HashMap` and `HashTable`](https://beginnersbook.com/2014/06/difference-between-hashmap-and-hashtable/). Generally, a HashMap is better solution because it sounds like it is threadsafe.
+- So `Arrays.sort()` sorts arrays, and `Collections.sort()` sorts collections (which `List`s are).
+- `Character.toString(c)` is the same as `String.valueOf(c)` because the latter calls the former, but you might want to call the latter more often because that one cares less about your original type.
 
 ## Generics
 
@@ -221,11 +224,12 @@
 
 ## Streams, threads, and parallel programming
 
+- How to do `map(func, list)`? [`List<...> ... = list.stream().map(func).collect(Collectors.toList());`](https://stackoverflow.com/a/20999230/1558430) (🥲)
 - [Immutable objects are inherently thread-safe](https://stackoverflow.com/questions/9303532/immutable-objects-are-thread-safe-but-why) because there is nothing about read-only objects that needs synchronising.
 - Just because you can use [streams](https://www.geeksforgeeks.org/stream-in-java/) ("half-assed pipes") to do everything, doesn't mean you should; do the more readable thing.
 - Stream processors should really just use pure functions. There is no benefit to using streams if you put iterative code inside it.
 - Try to avoid returning a stream unless you know it will be used as a stream. If not then return a collection.
-- [Reading a file with input streams](https://www.overops.com/blog/improve-your-application-performance-with-garbage-collection-optimization/) (and never holding the entire file in memory) is better than storing a file in a byte array, for both memory reasons, and the garbage collection that follows.
+- [Reading a file with input streams](https://www.overops.com/blog/improve-your-application-performance-with-garbage-collection-optimization/) (and never holding the entire file in memory) is better than storing a file in a byte array, for both memory reasons, and the garbage collection that follows: [`FileInputStream fis = new FileInputStream(fileName); MyProtoBufMessage msg = MyProtoBufMessage.parseFrom(fis);`](https://gist.github.com/TaliSoroker/37df26e570a6d45093c2cc3633e4dd94#file-gctip2)
 - Streams are easy to parallelise using `.parallel()`, but it may do the wrong thing (if your stream processors aren't pure functions, for example). The rough rule of thumb given by Josh suggests using `.parallel()` on something if you know (number of elements * lines of code per element) exceeds 100k.
 
 ## How Java gets around having no features™

@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- 诸葛亮 isn't actually known for fighting. He was a smart guy in charge of strategy. He got sick and died at age 53/54.
 - You know you are 60 years old when you [can listen to criticism without reacting poorly to it](https://baike.baidu.com/item/%E8%80%B3%E9%A1%BA/395538). Or maybe you can only gain that power when you reach 60. We will never know.
 - [Macau](https://en.wikipedia.org/wiki/Macau#Twin_towns_and_sister_cities), an SAR, has sister cities. Hong Kong, also an SAR, [does not](https://www.skyscrapercity.com/threads/why-isnt-hk-in-the-sister-cities-program.523464/). Hong Kong is more in line with Singapore, a city-state (albeit sovereign) that also does not have a sister city.
 - The founder of Lee Kum Kee died at age 32, long before the brand became a world sensation.

@@ -23,3 +23,5 @@
 - `componentDidMount` vs `componentDidUpdate`: mounting happens when the component's element is inserted into the DOM. Updates happen, and that's when the second event fires.
 - Every method in a class component needs to be manually bound in the constructor, i.e. `this.someEvent = this.someEvent.bind(this);`... for all of them.
 - `useEffect` can be used more than once. It can specify a cleanup phase, and if it does, return a cleanup function in the effect function.
+- The `setState` function in `useState` can also [accept a function that takes in the previous state](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1) (i.e. `setState((prevState) => ...)`), which simplifies the process if you require the previous state *at the time setState is called*, which can change `state` differently if too many async events happen.
+- `<!-- HTML comments in JSX -->` [will not work](https://www.geeksforgeeks.org/how-to-write-comments-in-reactjs/). Use `{ /* JS comments and blocks */ }` instead.

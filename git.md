@@ -317,6 +317,8 @@ Implement a git pre-commit hook in your repo so that no one can push code that (
 ln -s /full/path/to/your/virtualenv/src/scripts/git_precommit_hook.sh /full/path/to/your/virtualenv/.git/hooks/pre-commit
 ```
 
+You can put this in your project's setup script, so each developer must have run this at least once in their career. There are also tools like [husky](https://www.npmjs.com/package/husky), which [sets up these scripts when it is installed](https://github.com/typicode/husky/blob/main/package.json#L26) (a bit scary, isn't it).
+
 ### My colleagues are idiots, and I am in fact far superior to them
 
 To [disable pre-commit hooks](http://stackoverflow.com/a/7230886) when you commit:

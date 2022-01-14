@@ -1,3 +1,4 @@
+- Ash is perpetually 10 years old. James is [15, 18, 22, or 25](https://bulbapedia.bulbagarden.net/wiki/Talk:Jessie#Age_is_25.3F).
 - Hockey tape: "sticks to sticks"
 - The nosebleed section is called that because the altitude makes your nose bleed. Or maybe it's the cold at the altitude. Maybe a bit of both.
 - Shopify uses Rails a lot because [Toby was (and probably still is) a Rails developer](https://businessofsoftware.org/2012/05/tobias-lutke-ceo-shopify-at-business-of-software-2011-how-we-can-build-businesses-that-people-in-100-years-wont-be-embarrassed-by/). He gave talks and everything.

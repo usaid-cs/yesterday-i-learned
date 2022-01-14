@@ -1,5 +1,8 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- When your teacher asked for your parent's signature, they are just asking for someone who can write properly (i.e. not a child) to give a signature. You can ask any adult to sign it, actually.
+- Working from home [increases productivity for 20% of the workforce, and lowers it for 40%](https://www.reddit.com/r/PersonalFinanceCanada/comments/gm6cm4/i_manage_a_software_development_division_at_a/).
+- Before you buy a major appliance, check if any of your local repair shops deal with them. If they don't, chances are the manufacturer is a dick, doesn't want you to repair it down the road, and repair shops are unable to get parts.
 - 3D printers produce fumes (unless you stick to PLA, apparently), but an enclosure will keep the fumes inside.
 - [Machine-generated faces don't tend to have round pupils.](https://www.marktechpost.com/2021/09/14/ai-researchers-propose-a-method-using-irregular-pupil-shapes-to-identify-gan-generated-synthetic-faces/)
 - A [large number of phones](https://nokiamob.net/2021/01/17/large-number-of-modern-phones-including-nokia-are-designed-by-odm-companies/) are designed by the Clevos of the mobile world, like Wingtech. 89% of Lenovo's phones are designed by someone else. Half of OPPO's phones are outsourced.
@@ -2875,7 +2878,6 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - "A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard."
 - New Zealand tried to limit fuel use by limiting which cars can be on the road on which days. It didn't work. People just bought more cars.
 - The less memory there is, each address *should* be faster to access.
-- 诸葛亮 isn't actually known for fighting.
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
 - "Batt" insulation is precut fibreglass or rock wool insulation.
 - Whisky is from Scotland and whiskey is from Ireland. Supposedly. At least the two would like you to think that way.
