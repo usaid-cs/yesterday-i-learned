@@ -1,3 +1,5 @@
+- [Sodium raises blood pressure](https://www.youtube.com/watch?v=Ab9OZsDECZw) by increasing water retention, and thus volume. If the volume stays the same than pressure increases.
+- [Owls cannot move their eyes](https://www.nationalgeographic.org/media/birds-eye-view-wbt/) but they can move their head to compensate.
 - [Leukemia](https://en.wikipedia.org/wiki/Leukemia) is a high number of abnormal blood cells. Symptoms vary wildly depending on the type of leukemia diagnosed.
 - Artificial heart batteries don't last the whole day. A patient can have dozens of backups in case of travel or power failure, for example.
 - Cat ears fold back when it is about to attack.
@@ -561,7 +563,7 @@
 - [Xylitol](https://en.wikipedia.org/wiki/Xylitol) works by starving the bacteria, not by healing the teeth in any way. It also has no effect if other sugars are ingested before or after.
 - The [formula for good sleep](https://www.supermemo.com/en/articles/sleep#Formula_for_good_sleep) is "the abstinence from all forms of sleep control such as alarm clocks, sleeping pills, alcohol, caffeine, etc."
 - [Some research](https://medicalxpress.com/news/2018-10-high-variability-metabolic-mortality.html) may suggest eating roughly the same amount of food every day may help you live longer.
-- Heart ‘drop’ typically correlates with a drop in blood pressure, from all the blood vessels that have (vaso)dilated as a part of a fight-or-flight response.
+- Heart 'drop' typically correlates with a drop in blood pressure, from all the blood vessels that have (vaso)dilated as a part of a fight-or-flight response.
 - ["Almost all of the tree comes out of the air"](https://www.youtube.com/watch?v=ifk6iuLQk28) - Richard
 - [Up to 14% of pre-schoolers may have "hypomineralised second primary molars" (HSPM)](https://medicalxpress.com/news/2018-10-kids-prone-dental.html), where the enamel of the second baby molars doesn't develop properly, making them weak and prone to (acid) damage.
 - [C-sections can lead higher risks for future births, including scarring of the womb, uterine rupture, abnormal placentation, ectopic pregnancy, stillbirth, and preterm birth. There is also emerging evidence the procedure can have an impact on baby hormonal, physical and immune development.](https://www.dw.com/en/doctors-warn-of-alarming-c-section-epidemic/a-45856378)
@@ -801,7 +803,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Planters discard [seedless avocados](https://en.wikipedia.org/wiki/Avocado#Stoneless_avocado), called cukes, because they are small and supposedly they don't sell well.
 - [Albinism](http://en.wikipedia.org/wiki/Albino): affects vertebrates. That, and lobsters, which are not vertebrates.
 - Corn generates almost [4 times](https://www.washingtonpost.com/lifestyle/food/in-defense-of-corn-the-worlds-most-important-food-crop/2015/07/12/78d86530-25a8-11e5-b77f-eb13a215f593_story.html?utm_term=.c9aad0e5a353) the amount of calories per acre (15M) than wheat (4M).
-- ["The [face] mites have this helpful habit where they… er… have no anus and never poo. Instead, they release a lifetime’s worth of waste when they die. That contains their DNA, which gives away the presence of the mites even when the creatures themselves are inaccessibly hidden."](http://phenomena.nationalgeographic.com/2014/08/27/you-almost-certainly-have-mites-on-your-face/)
+- ["The [face] mites have this helpful habit where they… er… have no anus and never poo. Instead, they release a lifetime's worth of waste when they die. That contains their DNA, which gives away the presence of the mites even when the creatures themselves are inaccessibly hidden."](http://phenomena.nationalgeographic.com/2014/08/27/you-almost-certainly-have-mites-on-your-face/)
 - [Ant heads were used as stitches](http://www.odditycentral.com/pics/in-some-parts-of-the-world-ant-heads-were-once-used-as-stitches.html) as early as 1000BC. Ants bite across the wound, sealing the wound, and then people have their bodies twisted off.
 - It is 2018. Scientists have the ability to [scar a fetus on purpose](https://www.acsh.org/news/2018/03/20/nanofibers-dramatically-improve-wound-healing-and-tissue-regeneration-12723).
 - The [nutria](https://en.wikipedia.org/wiki/Coypu), Texas beaver rat, [tastes great](https://www.reddit.com/r/WTF/comments/84lq3m/modern_version_of_pied_piper_of_hamelin/dvr2tl8/).
@@ -1165,7 +1167,7 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - Down is the stuff underneath the feathers.
 - Kangaroos cannot walk backwards. They can somewhat [hop backwards](https://www.youtube.com/watch?v=CEDq0SAYW44), however.
 - [Hysterectomy](http://www.differencebetween.net/science/health/difference-between-hysterectomy-and-hysterotomy/) is the removal of the uterus. Hysterotomy is the removal of the baby in the uterus. Even in the case of a live birth, premature labour is considered a complication in cases of hysterotomy.
-- Imperial China [had plagues](https://zh.m.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E7%98%9F%E7%96%AB%E5%8F%B2) once every 10 years or so.
+- Imperial China [had plagues](https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%9C%8B%E7%98%9F%E7%96%AB%E5%8F%B2) once every 10 years or so.
 - The most important types of cells that do not undergo mitosis (i.e. parts of you that don't heal) are: [nerve cells, brain cells, and heart muscle cells](http://www.madsci.org/posts/archives/2006-01/1137011862.Cb.r.html). This makes strokes and spinal injuries hard to fix. This does not give people an excuse when it comes to workouts, however, because [satellite cells](https://www.unm.edu/~lkravitz/Article%20folder/musclesgrowLK.html) adjacent to muscle cells *can* undergo mitosis, and fuse with (i.e. repair) muscle tissues.
 - The [fundus](https://en.wikipedia.org/wiki/Stomach#Structure) (from Latin, "bottom") of the stomach is literally the top of the organ.
 - ["Hemocyanin performs better (than hemoglobin) in cold, low pressure oxygen environments."](http://sciencecoop.weebly.com/the-difference-between-hemocyanin-and-hemoglobin.html) Some insects have hemocyanin; others have hemoglobin.

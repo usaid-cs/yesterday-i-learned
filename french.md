@@ -119,7 +119,7 @@
 - **Magazine**: magazine. See also: _journal_, newspaper.
 - **Maître**: master. Or "teacher" if referring to Jesus.
 - **Manger**: to eat. _Je vais te manger_: I am going to eat you.
-- **Manquer**: to miss, or to be a lack of. _Tu me manques_: I miss you, not you miss me. Literally "You lack me". _Le manque d’eau_: the lack of water.
+- **Manquer**: to miss, or to be a lack of. _Tu me manques_: I miss you, not you miss me. Literally "You lack me". _Le manque d'eau_: the lack of water.
 - **Marché**: market.
 - **Marcher**: to walk.
 - **Mari**: husband.
@@ -162,7 +162,7 @@
 - **Punis**: punish. _Ne te punis pas_: do not punish me.
 - **Quartier**: neighbourhood or district. _Le marché du quartier_: the neighbourhood market.
 - \*_Que est ce que, ce est_: [what is this that](https://en.wiktionary.org/wiki/qu%27est-ce_que#French) this is?
-- [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From _quel que un_, "some one". _Il y a quelqu’un ici qui parle français_: Is there anyone here who speaks French.
+- [**Quelqu'un**](https://en.wiktionary.org/wiki/quelqu%27un): somebody, someone, anyone. From _quel que un_, "some one". _Il y a quelqu'un ici qui parle français_: Is there anyone here who speaks French.
 - **Recevoir**: to receive. _Elle reçoit des cadeaux_: she receives gifts. _Vous recevez_: you receive.
 - [**Réduire**](http://dictionary.reverso.net/french-english/r%C3%A9duire): to reduce.
 - **Remercier**: to thank. _Ils la remercient_: they thank her.

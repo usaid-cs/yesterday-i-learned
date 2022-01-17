@@ -38,6 +38,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 - [biology.md](biology.md)
 - [chemistry.md](chemistry.md)
 - [chemistry-batteries.md](chemistry-batteries.md)
+- [environment.md](environment.md)
 - [mathematics.md](mathematics.md)
 - [physics.md](physics.md)
 
@@ -62,6 +63,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 - [heroku.md](heroku.md)
 - [html.md](html.md)
 - [java.md](java.md)
+- [java-spring.md](java-spring.md)
 - [js-angular.md](js-angular.md)
 - [js-angularjs.md](js-angularjs.md)
 - [js-ecmascript.md](js-ecmascript.md)

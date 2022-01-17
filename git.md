@@ -153,7 +153,7 @@ At project root, `git submodule init && git submodule update --recursive`
 Edit the `.gitmodules` file in the project root. Remove references to the submodule.
 Run `git rm --cached (path/to/submodule) && git commit -a`
 
-#### fatal: reference isn’t a tree: (submodule repo had a force-push)
+#### fatal: reference isn't a tree: (submodule repo had a force-push)
 `cd (submodule path) && git reset --hard origin/(branch) && git pull`
 
 #### What if I want to change where the submodule comes from?

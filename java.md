@@ -4,7 +4,7 @@
 
 - Java is *younger* than Python, by 4 years.
 - For a language that [puts so much emphasis on OOP (like Ruby)](https://en.wikipedia.org/wiki/Java_%28programming_language%29#Principles), Java sure is looking for criticism for keeping the [eight primitives](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) in the language that aren't objects.
-- [SDK man](https://sdkman.io/sdks) supports only Java-related SDKs.
+- [SDK man](https://sdkman.io/sdks) supports only Java-related SDKs. It's the nvm of Java.
 - There isn't a `===` comparison operator. Which is good.
 - [All primitive type names are reserved keywords](https://www.w3schools.com/java/java_ref_keywords.asp). Object type names, including `Object`, are not. In fact, there is not a single reserved keyword that starts with an upper case letter.
 - `_` is a reserved keyword.
@@ -36,6 +36,9 @@
 - Glassdoor [says](https://www.marketwatch.com/story/the-best-job-in-america-pays-up-to-125-000-a-year-and-has-10-000-job-openings-11641384094) "Java developer" is the "best job in America". It turns out that way because companies that force you to write Java typically have good work-life balance.
 - `println` prints the line, but `printf` lets you format the line with stuff inside (use `%n` to add a new line).
 - [`Objects.hash(Object... values)`](https://docs.oracle.com/javase/8/docs/api/java/util/Objects.html#hash-java.lang.Object...-) takes any number of arguments, and generates a `hashCode` based on them. You can implement your own `hashCode()` method this way.
+- I have been told that [JSP and Servlets are old stuff](https://www.quora.com/Do-Java-Web-Application-developers-still-need-to-know-JSP-and-Servlets-in-2019). And yet... [go learn both in 2022](https://www.upgrad.com/blog/top-java-web-application-technologies/)?
+- `Scanner in = new Scanner` needs to be closed, apparently. Use try-with-resources to do it, which... is just [putting that line in a `try` with no `catch`](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html).
+- Did you know that Java*Script* is often faster than Java because they both use a VM?
 
 ## Conventions
 
@@ -44,6 +47,8 @@
 - Consider [google-java-format](https://github.com/google/google-java-format) for your formatting needs. Or [spotless](https://github.com/diffplug/spotless).
 - [You can name your variables after a class, like `Integer Integer = new Integer(1)`](https://stackoverflow.com/questions/27877897/in-java-the-variable-name-can-be-same-with-the-classname). Well, just because you can, it doesn't mean you should.
 - `//@formatter:off` and `//@formatter:on` control ranges between which Eclipse does not highlight your code. This had no effect on IDEA.
+- The first line in the docstring is extracted as the summary of the method. Now that's normally no problem, but they chose `. ` as the delimiter, so you can't have stuff like `Mr. Bean` in the summary unless you [hack it out](https://stackoverflow.com/a/18282355/1558430).
+- For docstrings, they want to start them with a third-person verb. Both Python and git want first-person verbs in imperative mood.
 
 ## Types
 
@@ -65,6 +70,7 @@
 - ...However, you [cannot cast a `bool` to/from anything](https://stackoverflow.com/questions/3793650/convert-boolean-to-int-in-java), including an int.
 - You can put underscores in between number literals, e.g. `123_456_789`.
 - Java has an [`Optional` container type](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html) that lets you do your null checks with a different set of methods instead of `!= null`. Although [an `Optional` type can never return null](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8), you will still need to check if the thing you returned "is empty", i.e. whether the underlying value is null. [Could be mistaken though](https://dzone.com/articles/using-optional-correctly-is-not-optional).
+- Don't return an `Optional` if you can return an "empty" container instead. For example, if you are normally returning a list of something, an empty list is a perfectly valid return value.
 - `String foo = null` is [perfectly fine](https://www.youtube.com/watch?v=-r5cebGAIZc) in this language. You can even compile something like this and get no warnings, and then get `NullPointerException` when you run it. Perfection.
 - Null checks are typically replaced with [`Optional<Type> optionalVal = Optional.ofNullable(somethingThatCanBeNull); if(optionalVal.isPresent()) { optionalVal.get(); }`](https://www.toptal.com/java/top-10-most-common-java-development-mistakes). When used as such, it is only marginally better than the `== null` check for [not allowing `null` semantically](https://stackoverflow.com/a/28746693/1558430); ["the real power comes from being able to defer the error handling (no value) to a later time and chaining map/flatMap/filter etc. methods without if/else blocks."](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8#comment70270554_28746693)
 - You can't return `{0, 1, 2, 3}` and expect to return an array. No no no too simple. You need to [`return new int[] {0, 1, 2, 3}`](https://stackoverflow.com/a/9331864/1558430). Because `new` applies to primitives too. Or something.
@@ -102,6 +108,10 @@
 - There are [differences between `HashMap` and `HashTable`](https://beginnersbook.com/2014/06/difference-between-hashmap-and-hashtable/). Generally, a HashMap is better solution because it sounds like it is threadsafe.
 - So `Arrays.sort()` sorts arrays, and `Collections.sort()` sorts collections (which `List`s are).
 - `Character.toString(c)` is the same as `String.valueOf(c)` because the latter calls the former, but you might want to call the latter more often because that one cares less about your original type.
+- Try to implement Iterable for anything that can be looped over, so you can use the foreach (`for ... : `) loop style.
+- When two strings are concatenated, both are copied.
+- `<` unboxes a boxed primitive; `==` does not. This can ~~fuck~~trip you right up when you write a comparator (example from the book): `Comparator<Integer> naturalOrder = (i, j) -> (i < j) ? -1 : (i == j ? 0 : 1);`. `i == j` will never be true even if they have identical values.
+- If a null boxed primitive is unboxed, it will raise NPE even before any method is called on it.
 
 ## Generics
 
@@ -119,6 +129,7 @@
 - Parameterise your type declarations whenever possible. `List ofNumbers` allows you to `add` anything into the list, while `List<Integer> ofNumbers` will break compilation when you add any non-integer to it.
 - In between `public` and `void`, you can specify [bounded parameters](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html) that specifies ... superclasses of that type that can be passed in, I guess. Today I have not learned.
 - `@SuppressWarnings("unchecked")` in the code means that you confirm [the generic method/function is doing legal things](http://stackoverflow.com/a/1129812/1558430).
+- You can't make an `Optional<T>` of a primitive, because a primitive is not a `T`. There are however classes like [`OptionalInt`](https://www.dariawan.com/tutorials/java/optionaldouble-optionalint-and-optionallong/), which allow you to use streams with primitives, for example.
 
 ## Classes, Interfaces, and things to that effect
 
@@ -169,6 +180,7 @@
 - There's an ["effectively final"](https://stackoverflow.com/questions/20938095/difference-between-final-and-effectively-final) state: A variable or parameter whose value is never changed after it is initialized is effectively final. References to objects are also effectively final, even if the objects themselves change. Effectively final variables do not give compiler errors if they were really declared with `final`.
 - [Defender methods](https://www.tutorialspoint.com/what-are-defender-methods-or-virtual-methods-in-java) and default methods (in an interface) are the same thing.
 - ["Good news: private methods in interfaces look like they will make Java 9."](https://stackoverflow.com/questions/27368432/why-does-java-8-not-allow-non-public-default-methods#comment45484226_27369217) - Brian Goetz, one of the guys who's in charge of it in the first place. Anyway, with this small addition, it finally makes sense to build classes with mixins, rather than inheritance (see point about multiple inheritance).
+- Refer to objects (`I<> foo = new C<>()`) by their interfaces ("what they do"), not the class ("what they are"). It's ok if you can't find a good interface to do it with; base class is fine too. In general, limit the method scope if possible.
 
 ## Functions and methods
 
@@ -204,6 +216,9 @@
 - Every time you put [`@SuppressWarnings("unchecked")`](https://stackoverflow.com/questions/1129795/what-is-suppresswarnings-unchecked-in-java), make sure you do it at the smallest scope, and make sure you explain why.
 - [Checked exceptions](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/) are called that because they are checked at compile time. You need to declare those in methods that throw them. Or you can handle them.
 - Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack.
+- Don't ever throw *or* catch `AssertionError`. You can use `assert`, obviously.
+- Runtime exceptions (i.e. unchecked ones) shouldn't be caught.
+- Methods with checked exceptions can't be used directly in streams, so avoid unnecessary use of checked exceptions. Maybe Optional and unchecked exceptions can help in either case.
 
 ## Enums
 
@@ -221,6 +236,7 @@
 - Annotations can be put in function arguments, like `public void foo(@NonNull int[] bar)`. In this case, `NonNull` is from `android.support.annotation`, but [there are *a lot* of `NonNull` and `NotNull` classes out there](https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use).
 - "Reflection" from Java's point of view is just [the ability to inspect and dynamically call classes, methods, attributes, etc. at runtime.](https://stackoverflow.com/a/37638/1558430) Simple things like calling a method by name counts as reflection.
 - `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
+- Reflections are cool, but you lose type checking. They are also [slow](https://stackoverflow.com/questions/42425906/is-java-reflection-bad-practice).
 
 ## Streams, threads, and parallel programming
 
@@ -254,6 +270,7 @@
 - Instead of `foo?.bar`, you get `foo == null ? null : foo.bar` (it's better that way™)
 - "(A) common problem that junior to intermediate developers tend to face at some point: they either don't know or don't trust the contracts they are participating in and defensively overcheck for nulls. Additionally, when writing their own code, they tend to rely on returning nulls to indicate something thus requiring the caller to check for nulls." - An answer on [how to deal with nulls everywhere](https://stackoverflow.com/a/271874/1558430), with solutions including the [null object pattern](https://en.wikipedia.org/wiki/Null_object_pattern#Java), which throws away places where you would use `null` for "no object applicable", instead providing a stubbed subclass of what's required.
 - So, one day, Java 12 overhears other programming languages talking about ["arrow functions"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) and ["yield keyword"](https://realpython.com/introduction-to-python-generators/), and being the [enterprising](https://en.wikipedia.org/wiki/Jakarta_EE) language that it is, it goes and creates its own arrows and yields. [Switch expressions: we have those features at home](https://howtodoinjava.com/java14/switch-expressions/).
+- You can't return multiple values, so you just make a brand new class that has the fields you want, and then return that.
 
 ## Testing, mocking, and stuff
 
@@ -274,9 +291,10 @@
 - With [Lombok](https://projectlombok.org/features/all), you can make a Builder by simply [marking something with `@Builder`](https://stackoverflow.com/a/51637774/1558430).
 - You can use a class in Java without importing it **if**: a) `java/c` know where to find the class, and b) you know the full name of the class. In the case of class name conflict, you [don't import it](https://stackoverflow.com/a/7547268/1558430), opting to use it through its fully qualified package path instead.
 - `.java` files compile to `.class` files, which are then packaged into `.jar` (Java ARchive) files.
-- [`.jar` files can also contain media](<http://en.wikipedia.org/wiki/JAR_(file_format)>)
+- [`.jar` files can also contain media](http://en.wikipedia.org/wiki/JAR_%28file_format%28)
+- A `.war` file is [a bundle of `JSP` files, as well as the assets required to run a web application](https://pediaa.com/what-is-the-difference-between-jar-and-war-files/), like HTML, CSS, and JS files. [`.jar` files can also be used to start a web server](https://stackoverflow.com/questions/5871053/difference-between-jar-and-war-in-java#comment52876035_5871096), supposedly.
 - You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
-- Maven and Gradle [are](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/) Java's equivalent of npm. It just so happens that those tools also help you build the project, because Java projects need to be built. 
+- Maven and Gradle [are](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/) Java's equivalent of npm. It just so happens that those tools also help you build the project, because Java projects need to be built.
 
 ## Garbage
 
@@ -292,3 +310,5 @@
 - [Enterprise JavaBeans](https://www.infoworld.com/article/2076777/a-beginner-s-guide-to-enterprise-javabeans.html) seem to be an architecture for running encapsulated code on a client-server setup. Client runs a bean wrapper of some sort. The server contains beans that run the code. This makes EJBs quite similar to a one-server microservice model, [with some low-level differences](https://stackoverflow.com/questions/30237292/is-the-microservices-architectural-pattern-similar-to-ejb-1-0).
 - [`getBoolean(thing, prop)`](http://with-example.blogspot.ca/2013/07/booleangetboolean-vs-booleanparseboolean.html) checks if thing.prop is `"true"`; `parseBoolean(thing)` check if `thing` is `"true"` regardless of case.
 - `Integer.getInteger(string nm)` gets you the integer value of the system property `nm`... not parsing `nm`. Use [`Integer.parseInt`](https://stackoverflow.com/a/4397363/1558430) instead.
+- HTML is allowed in javadoc because someone decided it would be a good idea to allow raw tags in there, so maybe it will look better when the doc is generated.
+- Liquibase is used to run migrations, [so you can avoid writing raw SQL](https://reflectoring.io/database-migration-spring-boot-liquibase/). You declare these potentially in YAML format, so I don't know how data migrations work, and the internet is not sure if Liquibase is the tool for data migrations at all.

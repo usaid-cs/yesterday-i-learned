@@ -2,7 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
-- *Flouting* [Grice’s maxims in the cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle) would be intentionally violating one of the maxims of (quantity, quality, relation, manner) (i.e. depth, truth, relevance, and clarity) in order to convey a different meaning than what was said. For example, by saying [vegan tomatoes](https://www.youtube.com/watch?v=IJEaMtNN_dM), you violate the maxim of quantity, and used it to imply that other tomatoes aren't vegan. Or, if you say "my student regularly attends tutorials", you violate the maxim of relation, trying to hint at the student's poor lecture attendance record.
+- *Flouting* [Grice's maxims in the cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle) would be intentionally violating one of the maxims of (quantity, quality, relation, manner) (i.e. depth, truth, relevance, and clarity) in order to convey a different meaning than what was said. For example, by saying [vegan tomatoes](https://www.youtube.com/watch?v=IJEaMtNN_dM), you violate the maxim of quantity, and used it to imply that other tomatoes aren't vegan. Or, if you say "my student regularly attends tutorials", you violate the maxim of relation, trying to hint at the student's poor lecture attendance record.
 - A rude sound made by sticking out the tongue and blowing is also called a [raspberry](https://www.oxfordlearnersdictionaries.com/definition/english/raspberry). See [also](http://www.flatlandcomics.ca/dailies/BlindOptimism.htm)
 - The french "LL" is pronounced "Y" only if it is preceded by an I.
 - Agency is the power to do something.
@@ -445,7 +445,7 @@
 - _Rare_ (for steak) came from _hrere_, [old English for lightly cooked](http://etymonline.com/index.php?term=rare&allowed_in_frame=0).
 - They call "bokeh" "beau-kay".
 - _Cortical_ means "relating to the outside of".
-- The use of ‘-ize’ spellings is part of the house style at Oxford University Press; the -ize ending corresponds to the Greek verb endings -izo and –izein. Then, for whatever reason, -ise is now used more in the UK.
+- The use of '-ize' spellings is part of the house style at Oxford University Press; the -ize ending corresponds to the Greek verb endings -izo and –izein. Then, for whatever reason, -ise is now used more in the UK.
 - The stress on eczema is always on the first E.
 - "Cajones" means drawers. "Cojones" means balls.
 - _Punjab_, in Persian, means "five waters". [Land of the five waters](https://en.wikipedia.org/wiki/Punjabis). That which is now Pakistan and India (northwest) was conquered by the Persians. Punjabi is the [third native language in Canada](https://en.wikipedia.org/wiki/Punjabi_language), and unusual among [its language group](https://en.wikipedia.org/wiki/Indo-European_languages) for being a [tonal language](https://en.wikipedia.org/wiki/Tone_%28linguistics%29).
@@ -494,3 +494,5 @@
 - A "costume" is a dress code that reflects class, gender, profession, ethnicity, that sort of thing.
 - Pirates don't speak like that. [Robert Newton was speaking in Dorset accent](https://www.youtube.com/watch?v=hWWrOtaEVtw), which had the rolled R.
 - [Check off](https://idioms.thefreedictionary.com/check+off) means Check!
+- The [Oxford Dictionary word of the year in 2015](https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2015) was 😂.
+- "Singapore" sounds more correct in Cantonese ("sing1 ga3 boh1"), which is not their official language, than Mandarin ("xin1 jia1 bo1"), which _is_ their official language.

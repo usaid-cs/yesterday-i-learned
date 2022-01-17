@@ -70,7 +70,7 @@
 - Guido van Rossum has a brother, Just van Rossum. (His first name is just Just.)
 - On Bill Murray's 20th birthday, he was arrested. For smuggling 10lbs of marijuana in a luggage. Which he intended to sell. Because he was joking about the luggage being a bomb. While on a plane. **He got off with a probation.**
 - Jackie Chan named his own child [Jaycee](https://newrepublic.com/article/152848/painful-price-becoming-jackie-chan), after his own initials, JC.
-- ["Statistically speaking, Oprah was probably the least likely person in America to ever become successful. An abused, molested, poor, black girl, runaway. Typically she wouldn't even find so much as a strenuous blue collar life. I don't agree with everything Oprah does, but she made herself, beating every odd there was."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eayr3zl/) ["She also got pregnant at 14, and her baby died. Terrible story. I’m sure no one expected her to be successful."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eaysiyo/)
+- ["Statistically speaking, Oprah was probably the least likely person in America to ever become successful. An abused, molested, poor, black girl, runaway. Typically she wouldn't even find so much as a strenuous blue collar life. I don't agree with everything Oprah does, but she made herself, beating every odd there was."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eayr3zl/) ["She also got pregnant at 14, and her baby died. Terrible story. I'm sure no one expected her to be successful."](https://www.reddit.com/r/todayilearned/comments/a2g316/til_oprah_had_a_brother_who_said_that_she_never/eaysiyo/)
 - Nick Offerman is a carpenter.
 - [Stephen Colbert](https://en.wikipedia.org/wiki/Stephen_Colbert#Early_life) was definitely pronounced KOL-bert at some point.
 - [Bob The Builder has more UK Number One hits than Nirvana, Radiohead, The Who, Guns 'N Roses, and Metallica combined.](https://www.reddit.com/r/AskReddit/comments/9bj5c4/what_is_your_favorite_useless_fact/e53ko0b/) (None of the bands there have number one hits)
@@ -258,3 +258,9 @@
 - [People die from instagram parkour all the time](https://www.liveleak.com/view?i=715_1513068362).
 - ["Despite being called the god of thunder, it is electricity that Thor controls"](https://www.youtube.com/watch?v=ovNJpzbAXK8)
 - [Persian the cat pokemon](https://bulbapedia.bulbagarden.net/wiki/Persian_%28Pok%C3%A9mon%29) is clearly a siamese cat instead of a persian cat.
+- Not even a season after [African-American Panther broke every record in box office](http://time.com/money/5215397/black-panther-box-office-record/), he dies in Infinity War (spoiler warning).
+- Mark Zuckerberg has business cards that just say, "I'm CEO, Bitch."
+- [Vitas](https://en.wikipedia.org/wiki/Vitas) (Vitaliy Grachov) has a five-octave vocal range.
+- In the autotuned degeneracy that is "I'm The One", DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, _and_ Lil Wayne all claim to be the one.
+- Humans are the only species on Earth to have the concept of birthdays.
+- Apart from dinner and supper, all of hobbit's seven daily meals are two hours apart.

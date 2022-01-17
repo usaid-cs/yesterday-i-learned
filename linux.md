@@ -158,7 +158,7 @@
 - Besides `!!`, there is also [`!foo`](https://ss64.com/bash/bang.html), which runs the last command that starts with foo.
 - It is usually impossible to run `sudo` commands in an ssh one-liner, unless you do so like this: `ssh -t user@host 'sudo make-sandwich'`
 - Want to write your own file deduper? Unfortunately, it is already made and preinstalled as `fdupes`.
-- Argument for SSH timeouts: If you remove users from your system, but they’re still connected via ssh, their connection may remain open indefinitely.
+- Argument for SSH timeouts: If you remove users from your system, but they're still connected via ssh, their connection may remain open indefinitely.
 - While `Ctrl+R` is backwards search, `Ctrl+S` is forward search (almost exclusively for when you press `Ctrl+R` too many times).
 - [The `last` command](http://askubuntu.com/a/297637) will show `- crash` if a computer crashed, possibly due to power outage. This is the simplest way to determine if someone used the machine and shut it down afterwards, and when `syslog` is emptied for whatever reason.
 - `readlink (path to link)` outputs where the link is pointing.
@@ -339,3 +339,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - To see which PPAs you use, run `apt policy`.
 - The recommended swappiness for ubuntu desktops is... [10?](https://askubuntu.com/a/149427)
 - [CentOS releases a new version every **FIVE** years](https://en.wikipedia.org/wiki/CentOS), a point of ridicule that makes it ideal for enterprise software, adopted by companies that love using software from a decade ago.
+- [Best general-purpose TCP congestion control algorithm](http://androidmodguide.blogspot.ca/p/tcp-algorithms.html): Cubic (stability) or Westwood (all other occasions)

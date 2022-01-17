@@ -7,7 +7,7 @@
 - [Everyone has the right to be mad](https://mamibuy.com.tw/talk/article/155904). Their anger is *your* doing, whether or not you did anything. Let them throw pillows until they feel tired.
 - You should back yourself up with evidence when you say something, yes, but you don't need to do so for every stranger who asks. You don't have to participate in "intellectual discourse any time some fucko on the Internet tells you to". - pervocracy
 - Bullying is hurting someone's feelings. Beating you up is assault. Learn the difference. Don't be upset because you were bullied... be upset because assault is a crime.
-- "Confidence is not “They will like me”. Confidence is “I'll be fine if they don't”." - /u/bloomer62
+- "Confidence is not "They will like me". Confidence is "I'll be fine if they don't"." - /u/bloomer62
 - If you rent at somewhere sketchy, so sketchy that you aren't sure if your landlord owns the house, then request to see the property tax invoice from them.
 - Be a friend: "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere." - Hilary Ziglar (a white man)
 - [For a party](https://www.gifts.com/blog/hostess-gift-etiquette), bringing enough for literally everyone to eat/drink is rare for a guest to do, but the host would normally not be jealous over/about that.
@@ -92,17 +92,20 @@
 - Believing you are a winner [makes you a worse person](https://medicalxpress.com/news/2018-08-believing-youre-winner-men-testosterone.html) ("gives men a testosterone boost and promiscuous disposition"). Touching physical cash also gives you a similar testosterone boost.
 - "Your emotions are a good guide for the fears of others. Your analysis, whether technical, fundamental, etc. is a good guide on where to place your greed. When the two don't match, that's where you profit." - /u/EHC11375
 - The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
+- Remember your goals are set *so you will achieve something*. [Don't "meet your daily quota", don't work on those goals because they are your goals; don't let your goals become you](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/). Change your goals if you need to. Be sure they always align with what you want out of your life.
+- Your achieving your goal involves a lot of practice, [practice makes *permanent*](https://www.reddit.com/r/LifeProTips/comments/s4w46a/lpt_practice_doesnt_make_perfect_it_makes/)---it is hard to unlearn a bad habit. You need to practice the right way.
 
 ## Family / relationship values
 
 > "Only women, children, and dogs are loved unconditionally. A man is only loved under the condition that he provides something." - [Chris Rock](https://www.youtube.com/watch?v=aLRl14axhAM)
 
+- "First dates should always be at a coffee shop, ice cream place, that sorta thing. Something quick where there's talking and not a lot of money involved. If you hate them just finish your coffee, say you had a good time, and leave, like my dad did." - /u/Mhopkins892
 - "When a person cheats they are directly attacking the foundation of their family unit." - ameminator
 - Sooner or later you realise they only ever had scraps to give. You can either accept that or look elsewhere for food.
 - Tell your children [they can use you as an excuse to not go somewhere they don't want to go](https://old.reddit.com/r/Parenting/comments/pjqcmu/parenting_tip_you_have_no_clue_what_is_happening/hbyczck/) (i.e. "my mom won't let me"). This builds trust and lets them know you can be relied on.
 - "No man should ever get between his wife and her ice cream" - [LockPickingLawyer](https://www.youtube.com/watch?v=lod_LUp3ggc)
 - Sending nudes to others when you are in a relationship [is cheating](https://www.reddit.com/r/relationship_advice/comments/k1cgvt/married_men_if_your_wife_sends_a_topless_pics_to/), according to Reddit's consensus.
-- "If you ever do anything good for your kids, take a picture of that shit. If you hug them, take a picture. If you feed them, take a picture. ‘Cause you never know when you might need receipts of love." - [Chris Rock](https://scrapsfromtheloft.com/2018/02/15/chris-rock-tamborine-transcript/), some sort of veteran
+- "If you ever do anything good for your kids, take a picture of that shit. If you hug them, take a picture. If you feed them, take a picture. 'Cause you never know when you might need receipts of love." - [Chris Rock](https://scrapsfromtheloft.com/2018/02/15/chris-rock-tamborine-transcript/), some sort of veteran
 - There is no point being angry at the man who fucked your wife. [Don't do anything stupid like fighting or killing him](https://www.reddit.com/r/relationship_advice/comments/h9wv4x/update_you_were_right_i_ignored_every_single_one/), because [cheating on you is perfectly legal](https://familyllb.com/learn/adultery-and-affairs-understanding-the-basis-for-divorce-in-ontario/) (not even a crime! doesn't affect custody and spousal support!) but killing a man is not.
 - Women don't actually want to argue; arguing is not their thing. Winning *is* their thing. They win by arguing, or by refusing to argue. As long as they win, they don't care.
 - A partner who says ["I am the good-looking one"](https://www.reddit.com/r/relationship_advice/comments/gzr9c5/i_31m_told_my_girlfriend_30f_that_she_is_not_a/fthtt4k/) is saying you are the bad-looking one.
@@ -175,7 +178,7 @@
 - "Poaching" implies your employee is going to work for your competitor against their free will. [Offering them a higher salary than you do certainly doesn't fit the definition of "poaching"](https://news.ycombinator.com/item?id=24122265), yet here we are.
 - It says ["know your worth"](https://thriveglobal.com/stories/know-your-worth-then-live-like-you-know-it/), not "know that you are worth a lot". You can be worthless and not know it.
 - When you're down because you feel like you can't do something, remember you can't do everything, like growing proper facial hair (if you're Asian).
-- ["Never ask a question to show that you already know something"](https://news.ycombinator.com/item?id=23661383) - Milton Glaser, guy who designed "I ♥ NY"
+- ["Never ask a question to show that you already know something, but always ask in earnest and be vulnerable to the fact that you don't know something."](https://news.ycombinator.com/item?id=23661383) - Milton Glaser, guy who designed "I ♥ NY"
 - ["Who gives a fuck if you can code, if you start crying because you boss didn't say hi?"](https://me.me/i/who-gives-a-fuck-if-you-can-code-if-you-210bce3b4903440cb3649ae2909c3054) - Chris Rock, on needing bullies
 - You're still getting emailed by recruiters because [although plenty of developers greduate from university, the need for them also increased](https://www.reddit.com/r/PersonalFinanceCanada/comments/go21fz/and_so_it_begins_shopify_permanently_moves_to/frdtiv2/). Globalisation messes with all that because plenty of developers don't want to relocate.
 - A principal developer [mentors those below them](https://sizovs.net/2019/02/15/the-principal-developer/), while not being the best of the best. They're a role model others want to follow. They should also be able to influence how other departments function, so [they need to know the business side as well](https://www.quora.com/Whats-the-difference-between-a-senior-developer-and-a-lead-developer). This is another way of saying "coders don't know coding isn't everything".
@@ -244,6 +247,9 @@
 - ["Never make the same mistake twice"](https://www.quora.com/What-does-Gus-mean-when-he-advises-Walt-Dont-make-the-same-mistake-twice) is not the same as "Always learn from your mistakes." The latter still implies you can fail again.
 - You are much more likely to have a good career if you are universally, consistently nice to your colleagues.
 - People with kids naturally have less time furthering their professional development. A natural cause for why young people fresh out of college are often, despite the lack of experience, better hires.
+- When sending resumes through Gmail, [Google will analyse it and potentially spam filter it](https://medium.com/swlh/why-you-should-never-send-your-cv-via-gmail-b4fddd35fb3e). Better send with a simple password, or, better, not use Gmail.
+- [Software developers are just tech mercenaries](https://news.ycombinator.com/item?id=29933218). They have been trained to work with no loyalty.
+- [Books can't tell you what to do](https://rchaves.app/pragmatic-pragmatic-programmer/); they can only give you suggestions. ["Using your best judgment"](https://news.ycombinator.com/item?id=29800878) is what you should actually learn, and increasing accuracy when making good decisions separates you from junior developers.
 
 ## Welcome criticism
 
@@ -259,6 +265,7 @@
 - Don't argue with someone who entered the argument with the mindset that their opinion is obviously right, or that your opinion is stupid. Anyone like that will not be listening to you. They are not worth your time.
 - [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You practice the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you _don't_ laugh at their broken English, because doing so will give them the idea to improve it.
 - [Arguing doesn't work. People just believe in whatever they believed in.](https://lifelessons.co/personal-development/howtogetsmarterpart5/) See also: lots of tips and tricks for arguing and learning in general.
+- Learn to take responsibility. For yourself, for your mistakes, and for others. "The difference between complaining about bad things, and committing to a concrete plan to overcome them is the difference between Beta and Alpha." - Copilot wanted me to credit The Art of War for some reason, but it's from a subreddit.
 
 ## Be thankful
 
@@ -282,7 +289,8 @@
 - "Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by. If there are gods, but unjust, then you should not want to worship them. If there are no gods, then you will be gone, but will have lived a noble life that will live on in the memories of your loved ones." - not necessarily Marcus Aurelius, but attributed to him anyway
 - [Not all carpenters are created equal.](https://youtube.com/watch?v=BcN7q9V7hSI) Do realise that if someone did a sloppy job, you _don't_ have to pay them.
 - Start a meaningful conversation with strongly opinionated topics and open-ended questions, like music and movies.
-- **Rich** mindset ... help others and cultivate relationships with no expectation of anything in return. **Poor** mindset thinks “I scratch your back, you scratch mine”. **Rich** mindset understands that there is no “I made it”. No “done”. Life is defined by challenges and learning. **Poor** mindset believes that one day they’ll be able to “retire” – to kick back and do nothing. That all work is simply “paying dues” on the way to a life of leisure. Ironically this is the kind of mindset that stifles the ambition and drive required to ever get to the point of having that kind of life as an option. - [Other analogies](https://thomasjfrank.com/the-rich-mindset-vs-the-poor-mindset/)
+- **Rich** mindset ... help others and cultivate relationships with no expectation of anything in return. **Poor** mindset thinks "I scratch your back, you scratch mine". **Rich** mindset understands that there is no "I made it". No "done". Life is defined by challenges and learning. **Poor** mindset believes that one day they'll be able to "retire" – to kick back and do nothing. That all work is simply "paying dues" on the way to a life of leisure. Ironically this is the kind of mindset that stifles the ambition and drive required to ever get to the point of having that kind of life as an option. - [Other analogies](https://thomasjfrank.com/the-rich-mindset-vs-the-poor-mindset/)
+- "Remember that you asked for growth. Don't be surprised when life decides to challenge the fuck out of you." (many variations of this quote exist)
 
 ## Take care of yourself
 
@@ -342,4 +350,4 @@
 - Half the fun of skydiving comes from knowing your parachutes might fail and you might die. Yet you do not.
 - Do not donate your (dead) body for research, even if it means [no cost for burial](https://www.crossroadshospice.com/hospice-palliative-care-blog/2017/october/18/body-donation-after-death-what-you-need-to-know/). [Your body can be sold to someone else](https://www.dailymail.co.uk/news/article-7303455/Man-donated-moms-body-dementia-research-learns-strapped-chair-blown-up.html), and your estate won't even be paid. [Your body could be sewn together with someone else's](https://www.nbcnews.com/news/us-news/dismembered-body-parts-sewn-together-frankenstein-donation-center-fbi-found-n1035131). As long as you exist, no one can guarantee you the respect you deserve.
 - Doctors merely delay the inevitable.
-- "None of us are getting out of here alive, so please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're carring in your heart like hidden treasure. Be silly. Be Kind. Be weird. There is no time for anything else." - [/u/hotsauceinmyeye's mother](https://www.reddit.com/r/GetMotivated/comments/6aq640/image_we_buried_mum_today_we_found_this_in_one_of/)
+- "None of us are getting out of here alive, so please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're (carrying) in your heart like hidden treasure. Be silly. Be Kind. Be weird. There is no time for anything else." - [/u/hotsauceinmyeye's mother](https://www.reddit.com/r/GetMotivated/comments/6aq640/image_we_buried_mum_today_we_found_this_in_one_of/)

@@ -58,7 +58,7 @@
 - You can create a vector asset inside `File -> New -> Vector Asset`.
 - Whether your activity has a certain theme doesn't get set in your layout xml (`res/layout/*.xml`), but in [`AndroidManifest.xml`](https://stackoverflow.com/a/25863690/1558430), because FUCK you.
 - [You can display a downloaded image without first saving it somewhere](https://stackoverflow.com/a/6407554/1558430).
-- "`@aar` is Gradle’s “Artifact only” notation that excludes dependencies by default."
+- "`@aar` is Gradle's "Artifact only" notation that excludes dependencies by default."
 - `setContentView(R.layout.main)` controls which activity shows which layout. In this case, it shows `res/layout/main.xml`. [You call it inside `onCreate` usually](https://www.quora.com/In-Android-we-are-using-setContentView-function-in-almost-all-java-classes-What-does-it-do-to-our-application). Interestingly, [that "view" can also be a button](https://stackoverflow.com/a/24706566/1558430).
 - A notification has no actions by default. To have it, say, bring the app back up, [you need to give it an intent that's equivalent to one where the user tapped on the icon from the launcher](https://stackoverflow.com/a/18426787/1558430), and then `setContentIntent` to the builder.
 - When the docs say a method "is deprecated", it doesn't necessarily mean all methods with that name are deprecated. It just means a method with that name _and signature_ is deprecated.

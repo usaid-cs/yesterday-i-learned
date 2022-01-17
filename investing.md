@@ -142,6 +142,7 @@ Further reading: [0001.md](sources/0001.md)
 - Don't try to "time the market" (predicting its movements and buying and selling accordingly). You may get lucky, but will not succeed over the long term. [Investing consistently results in you buying both the top and the dip](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/), evening out the worst of crashes.
 - When [bonds are doing well](https://www.cbc.ca/news/business/there-s-good-economic-news-on-the-horizon-and-that-s-rattling-markets-wait-what-1.5929855), stocks tend to do not so well. Then again, it will probably not drop by much... just corrections.
 - If a company dilutes the stock pool with more stocks, the price should go down, and so should other metrics (P/E, P/B, whatever) that go with it.
+- Don't day trade. [Almost all gains in the S&P 500 since 1993 had occurred outside regular hours](https://www.ccn.com/the-stock-markets-biggest-gains-always-happen-at-the-same-time-each-day/). This also applies to NASDAQ, TSX, French CAC, DAX, and Nikkei 225.
 
 #### To buy
 

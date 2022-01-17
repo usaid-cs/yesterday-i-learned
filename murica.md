@@ -1,3 +1,4 @@
+- [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
 - Bill Clinton, George W Bush, and Donald Trump were all born in 1946.
 - [NEMA connectors](https://en.wikipedia.org/wiki/NEMA_connector#NEMA_5) actually have the ground hole up in the specs. Like UK plugs. But residential buildings have those beneath the live and neutral holes because people have gotten used to seeing them that way.
 - Those "no selling beer from midmight to 6am" laws certainly don't help the people who work night shift.
@@ -121,3 +122,5 @@
 - Puerto Rico is the largest unincorporated territory of the United States. Puerto Ricans are US citizens, but are not normal voters.
 - The word "[Connecticut](https://en.wikipedia.org/wiki/Connecticut_River)" is a French corruption of the Mohegan word quinetucket, which means "beside the long, tidal river". The river flows both ways.
 - "Hick town" means "redneck town". Rednecks themselves all their towns hick towns. Example: _"Are y'all gay looking to see how long it takes to get beat up in a hick town? NASCAR sucks?' 'Country and Western is rubbish?' Guess what, you're in a hick town man."_
+- [Jack Daniels is distilled in Moore County, in the city of Lynchburg, Tennessee, which is a dry county.](http://www.flask.com/5-facts-about-jack-daniels-whiskey/)
+- In America, you may copyright the design of a dress, but you may not copyright the shape of the dress. This leads to [knockoffs](https://www.youtube.com/watch?v=U9wY8Wz6lCs) (lookalikes), but not counterfeits (fake things with the original makers' logo).

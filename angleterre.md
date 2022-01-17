@@ -39,7 +39,7 @@
 - There is a prison room in the Big Ben.
 - The inside of [Regency Cafe](https://en.wikipedia.org/wiki/Regency_Caf%C3%A9) is full of pictures of itself in films and things.
 - Kings Cross station has only platforms 9a and 9b. Platform 9.75 is a shop outside the fare paid zone.
-- The [Isle of Man](https://en.m.wikipedia.org/wiki/List_of_Snaefell_Mountain_Course_fatalities) racecourse is the most fatal racecourse _in the wurld_, with multiple deaths every year except 2012.
+- The [Isle of Man](https://en.wikipedia.org/wiki/List_of_Snaefell_Mountain_Course_fatalities) racecourse is the most fatal racecourse _in the wurld_, with multiple deaths every year except 2012.
 - [MI5](https://en.wikipedia.org/wiki/MI5) defends the state from spying. [MI6](https://en.wikipedia.org/wiki/Secret_Intelligence_Service) spies on other countries. [James](https://en.wikipedia.org/wiki/James_Bond) is in MI6.
 - A [scotch egg](https://en.wikipedia.org/wiki/Scotch_egg) is a (no shell duh) egg wrapped in sausage meat and deep-fried breading.
 - Once Markle [(suddenly)](https://www.youtube.com/watch?v=fC8SRkGlHzk) becomes a royal member, she can no longer vote. And act. And show her bare legs.

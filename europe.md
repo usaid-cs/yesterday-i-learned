@@ -1,3 +1,4 @@
+- The RB in [RB Leipzig](https://en.wikipedia.org/wiki/RB_Leipzig) the Fußballverein is _Rasenballsport_, lit. "lawn ball sport", is a clever attempt to bypass the [DFB](https://en.wikipedia.org/wiki/German_Football_Association)'s licensing limitation that the company name "Red Bull" cannot be part of the team name.
 - The [Turkish Lira inflation crisis](https://en.wikipedia.org/wiki/Turkish_lira#2018-present_currency_crisis) is... [deliberate](https://www.theguardian.com/world/2021/nov/24/erdogan-gambles-on-economy-amid-protests-and-rocketing-inflation)?
 - France was part of the [Vienna Convention on Road Signs and Signals](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Signs_and_Signals), where stop signs said STOP. Quebec, on the other hand, did not get the memo, so their stop signs say ["ARRÊT"](https://en.wikipedia.org/wiki/Road_signs_in_Canada).
 - The [Spanish national anthem](https://en.wikipedia.org/wiki/Marcha_Real) does not have lyrics.
@@ -16,7 +17,7 @@
 - Spain, Belgium, and Denmark also have monarchs.
 - You can [buy an EU citizenship](https://en.wikipedia.org/wiki/Malta) for 650k euros from Malta.
 - Icelandic witchcraft believed that [wearing a man's skin as pants](https://en.wikipedia.org/wiki/N%C3%A1br%C3%B3k) (*Nábrók*, corpse trousers) will bring endless money. But only if you get permission from that man before he dies, and if you steal a coin from his widow and put it inside his scrotum.
-- ["If you think you are compliant with the GDPR but can’t show how, then you’re not GDPR compliant."](https://gdpr.eu/what-is-gdpr/)
+- ["If you think you are compliant with the GDPR but can't show how, then you're not GDPR compliant."](https://gdpr.eu/what-is-gdpr/)
 - Germany has more prostitutes per capita than any other country in Europe. [1.2 men visit German prostitutes everyday](http://s.telegraph.co.uk/graphics/projects/welcome-to-paradise/).
 - Americans are less "diverse" than Europeans, because while a European can have "German, French, and Italian ancestry", an American does not typically claim to have "Idaoan, Floridan, and Pennsylvanian ancestry".
 - Istanbul is Europe's largest city. Then Moscow, Paris, London, Madrid.

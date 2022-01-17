@@ -42,7 +42,7 @@
 - Make something people want. (be open to changing direction)
 - Stay focused. (including networking)
 - Measure your growth. (pick 'revenue' as a metric and focus on that)
-- Know if you’re default alive. (default alive is operational breakeven)
+- Know if you're default alive. (default alive is operational breakeven)
 - Keep expenses low. (don't hire too many people)
 - Fundraising gets harder. (VCs don't fund failures)
 

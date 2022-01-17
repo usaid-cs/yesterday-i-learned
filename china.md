@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- Wuhan was merged from three smaller cities: **Wu**chang, Hanyang, and **Han**kou.
 - 诸葛亮 isn't actually known for fighting. He was a smart guy in charge of strategy. He got sick and died at age 53/54.
 - You know you are 60 years old when you [can listen to criticism without reacting poorly to it](https://baike.baidu.com/item/%E8%80%B3%E9%A1%BA/395538). Or maybe you can only gain that power when you reach 60. We will never know.
 - [Macau](https://en.wikipedia.org/wiki/Macau#Twin_towns_and_sister_cities), an SAR, has sister cities. Hong Kong, also an SAR, [does not](https://www.skyscrapercity.com/threads/why-isnt-hk-in-the-sister-cities-program.523464/). Hong Kong is more in line with Singapore, a city-state (albeit sovereign) that also does not have a sister city.
@@ -81,3 +82,6 @@
 - Fun fact: [Kuomintang is still a puppet party in mainland China](https://en.wikipedia.org/wiki/Revolutionary_Committee_of_the_Chinese_Kuomintang).
 - The [紅白藍膠袋](https://en.wikipedia.org/wiki/Red-white-blue_bag) is not known outside China. The concept of nylon bags was invented in Japan.
 - According to mythology, [Mr Li the dad of Nezha 哪吒](https://en.wikipedia.org/wiki/Li_Jing_%28deity%29) had two other sons, Jinzha 金吒 and Muzha 木吒.
+- People from Fujian are very united. They have associations all over the globe, and they always help each other out. [It's their thing.](http://fujiancanada.org/)
+- The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap](https://en.wikipedia.org/wiki/Victoria_Gap)".
+- The sovereign state of Hong Kong coins the term [爛 gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
