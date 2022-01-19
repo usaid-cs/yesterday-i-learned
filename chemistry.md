@@ -234,3 +234,4 @@
 - Chloroform won't knock someone out in seconds. It takes minutes.
 - The [Bohr Effect](https://en.wikipedia.org/wiki/Bohr_effect) explains why increasing CO₂ concentration makes hemoglobin release their oxygen (affinity curve).
 - Caesium: Due to the bright blue lines in its emission spectrum, they chose a name derived from the Latin word caesius, meaning sky-blue. (It is thus pronounced "KAY see um")
+- Rubbing alcohol might make some post-it notes sticky again.

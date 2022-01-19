@@ -76,3 +76,4 @@ struct B : A { };  // Has all A's fields
 - Header files exist so [you don't need to recompile a class if the definition didn't change](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf) (PDF).
 - In a move that could possibly backfire, the C++20 lambda syntax [uses square brackets](https://www.bfilipek.com/2020/08/lambda-syntax.html), like `[](auto x, auto y) { /*...*/ };`.
 - A `struct`'s members are public by default. A `class`'s members are private by default.
+- [`and`](https://stackoverflow.com/questions/44381428/and-keyword-in-c) is the exact same as `&&`.

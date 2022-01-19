@@ -1,5 +1,6 @@
 🇨🇦
 
+- If two people are on the deed, [both of them need to agree to sell](https://old.reddit.com/r/PersonalFinanceCanada/comments/s5qfyc/what_is_fair_about_being_bought_out_of_a_property/hsz696w/).
 - [Sale of your principal / primary residence is tax free](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/principal-residence-other-real-estate/sale-your-principal-residence.html). If your house appreciates by 200k, you keep 200k. Since income is always taxed, think how many years of effective income that is. (You still have to report the sale.)
 - "Stag and Doe": Southern Ontarian term for a fiance and fiancee's pre-wedding party
 - Before you buy a condo, you can (and absolutely should) inspect the condo documents to see how much in repairs is needed, vs. how much money the condo has in reserve. If it doesn't have much in reserve, guess what? You will be the one paying for it.
@@ -386,3 +387,5 @@
 - [Public opinion](https://www.reddit.com/r/uwaterloo/comments/6lalj8/shawerma_plus_portions/) recommends shawarma wraps in this order: Lazeez, Mozys, Shawarma Plus.
 - The [Chinese immigration act of 1885](https://en.wikipedia.org/wiki/Chinese_Immigration_Act_of_1885) placed a head tax of \$50 on all Chinese immigrants coming to Canada, with the exception of "diplomats, government representatives, tourists, merchants, men of science, and students". The amount for everyone else was \$10.
 - RBC lined its [Toronto headquarters](https://en.wikipedia.org/wiki/Royal_Bank_Plaza) with glass infused with gold.
+- The XL in [Keystone XL](https://en.wikipedia.org/wiki/Keystone_Pipeline) stands for "export limited", actually.
+- It is unclear whether or not Jack Layton used the [Jack Layton Ferry Terminal](https://en.wikipedia.org/wiki/Jack_Layton_Ferry_Terminal) before it was called the Jack Layton Ferry Terminal.

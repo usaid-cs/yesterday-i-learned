@@ -68,7 +68,8 @@ def main():
             if not new_file.endswith('.md'):
                 new_file = new_file + '.md'
             if not os.path.isfile(new_file):
-                print('Warning: {} does not exist; creating'.format(new_file))
+                print('{} does not exist! Forget it.'.format(new_file))
+                continue
             with open(new_file, 'a') as myfile:
                 myfile.write(line + '\n')
             remove_item(line)

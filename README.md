@@ -28,6 +28,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 
 ## 400 Language
 
+- [english.md](english.md)
 - [french.md](french.md)
 - [german.md](german.md)
 - [korean.md](korean.md)

@@ -192,6 +192,7 @@ undefined
 - [IndexedDB is hilariously slow](https://news.ycombinator.com/item?id=28997346), to the point where people (like the ones over at WatermelonDB) had to [use IndexedDB in memory](https://github.com/Nozbe/WatermelonDB/blob/master/docs-master/Implementation/Adapters.md#web) most of the time.
 - In desperation, lodash introduces a concept of `nil` (with an [`_.isNil()`](https://lodash.com/docs/4.17.15#isNil) to check for it), which is (`null | undefined`).
 - Borrowing so much from Java, JS uses `null` to denote "not an object". Because [a JS variable can hold both a primitive and an object](https://2ality.com/2013/05/history-undefined.html)---which Java's cannot---JS needed a value for "neither a primitive nor an object". `undefined` was born, [though a bit unnecessarily](https://twitter.com/BrendanEich/status/330775086208524288). And since this whole thing came from type coercion from `null` to `0` through weak typing, you can tell how much damage this initial decision did to the language.
+- Crockford's JSON/JSLint licence had a clause in there, saying ["The Software should be used for Good, not Evil."](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions) So then IBM's lawyers had to ask for permission to use them for evil...
 
 ### *Internet Explorer* Quirks and Features
 

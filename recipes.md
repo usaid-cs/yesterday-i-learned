@@ -1,6 +1,6 @@
-# Breakfast
+## Breakfast
 
-## Scrambled Eggs
+### Scrambled Eggs
 
 - In a pot, break three **eggs**, 15g **butter**, and whisk.
 - _Then_ turn stove on medium.
@@ -8,11 +8,11 @@
 - Whisk until mixture is close to solid.
 - _Then_ add **salt** and **pepper** to taste. This must be done at the end.
 
-## Boiled eggs
+### Boiled eggs
 
 > The best technique for boiling eggs is add eggs to cold water bring to boil, remove from heat once boiling starts, cover, let sit for [6 to](https://www.youtube.com/watch?v=X5oD_thIk3c) 15 minutes and add to cold water to stop the cooking process. That being said I don't know if it'll work with this weird Frankenegg. - /u/jerrbles
 
-## [Omelette](https://www.youtube.com/watch?v=6vST9jh7vUM)
+### [Omelette](https://www.youtube.com/watch?v=6vST9jh7vUM)
 
 - Whisk three eggs in an "8" motion until foamy (not just runny).
 - Add salt and pepper into the mixture.
@@ -32,7 +32,7 @@ From your broke ass-college student notes. May or may not work.
 - Add salt, pepper, garlic, whatever
 - Boil in pot until solid
 
-## Grilled cheese, [the proper way](http://www.seriouseats.com/2015/02/best-grilled-cheese-sandwich-recipe-variations.html)
+### Grilled cheese, [the proper way](http://www.seriouseats.com/2015/02/best-grilled-cheese-sandwich-recipe-variations.html)
 
 - Salt pan and add butter. Or just salted butter.
 - Set stove on low.
@@ -40,9 +40,9 @@ From your broke ass-college student notes. May or may not work.
 - Load sandwich into pan.
 - Grill until cheese melts.
 
-# Lunch
+## Lunch
 
-## [Spinach Pasta](http://m.allrecipes.com/recipe/16142/spinach-pasta-salad)
+### [Spinach Pasta](http://m.allrecipes.com/recipe/16142/spinach-pasta-salad)
 
 Mix the following, in any ratio you want:
 
@@ -55,7 +55,7 @@ Mix the following, in any ratio you want:
 
 Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 
-## Pho
+### Pho
 
 - Defrost or thaw beef, or otherwise close to room temperature just before cooking.
 - Keep **bean sprouts** as close to room temperature as possible.
@@ -71,7 +71,7 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Apply beef balls and brisket.
 - Serve with bean sprouts, basil, and **lime**.
 
-## Shrimp salad
+### Shrimp salad
 
 - Cut one red onion into strips.
 - Chop one bunch of coriander into 2cm^3 pieces.
@@ -83,19 +83,154 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Combine all of the above in a bowl. Stir.
 - Add sugar, chicken powder, fish sauce and soy sauce to taste.
 
-# Dinner
+## Dinner
 
-## Stir fry
+### Stir fry
 
 - Whatever it is you throw in, cook the meat first.
 
-### ["Black pepper chicken"](http://mycookinggallery.blogspot.com/2011/09/stir-fry-chicken-with-black-pepper.html)
+#### ["Black pepper chicken"](http://mycookinggallery.blogspot.com/2011/09/stir-fry-chicken-with-black-pepper.html)
 
 - Secure a pack of black pepper sauce, or have oyster and soy sauces on hand. See other ingredients on the website above.
 - Cut 250g chicken breast into strips.
 - Cut 50g celery into strips.
 - Cut 50g carrot into strips.
 - Stir-fry chicken with oil until almost done. Add vegetables and stir fry for one more minute.
+
+#### 炒麵
+
+- Add ½ water to stove and heat stove to max
+- When water boils, put in noodles
+- Add salt
+- Add meat and vegetables if present
+- Continue boiling until water is almost all gone
+- Add sauce if present
+- Continue frying until water dries
+- Add flavouring
+
+#### 腐乳生菜
+
+- 落油
+- 落蒜頭
+- 落三塼腐乳
+- 落菜
+- 炒到干上下堪蓋
+
+#### Cauliflower ("富贵花")
+
+- Fry up about 15g of lard. Or just use oil.
+- When oil is hot, add chopped up garlic and some kind of green hot pepper (looks long). Fry until garlic is warm.
+- Add cauliflower and continue frying. Add some water and cover until almost tender.
+- Add soy sauce to taste.
+
+#### 番茄炒蛋
+
+- 炒蛋
+- 落油
+- 落少鹽
+- 落多糖
+- 落茄汁
+- 煮腍
+- 落蔥
+- 熄火
+- 落蛋
+
+#### 芥蘭臘肉
+
+- 開油
+- 落姜落蒜頭落兩條臘腸炒香
+- 落半斤芥蘭炒
+- 落鹽落一湯勺酒
+
+#### Stir "fried" fish
+
+- Cut basa fish into small pieces.
+- Spray oil into pan.
+- Sauté garlic with oil.
+- Put fish in.
+- Put in some soy sauce and sugar.
+- Put tofu in.
+- Put in starch water.
+
+#### [葡國雞](https://hk.lkk.com/zh-hk/recipes/portuguese-chicken)
+
+- Prepare 250g of chicken.
+- Add 15mL of oil and fry up the chicken until golden brown.
+- Chop 50g of onions into slices.
+- Chop 50g of carrots into slices.
+- Chop 50g of potatoes into slices.
+- Transfer chicken to a wok. Add 50mL of water and all slices into the wok, along with the "portuguese" sauce.
+- Cook in medium heat until cooked. Should take 6 minutes.
+
+### Steam / bake
+
+#### "Ghetto sofrito"
+
+Ingredients:
+
+- Lots of black beans
+- 5lb rice
+- 1 bag onions
+- a few bulbs garlic
+- 1 box Goya Sazon
+
+Procedures:
+
+- Cook one cup of rice.
+- Slice a small onion, smash up a clove of garlic
+- Throw some olive oil or butter, onions and garlic into a HOT pan and fry them till the onion gets glassy. Throw some salt in there.
+- Grind some pepper in.
+- Toss in half a packet of Sazon and stir till you get a paste.
+- Dump in your can of beans and stir.
+- Add a pinch of Cayenne pepper
+- Simmer
+- Mix beans with rice.
+
+#### Fish and tofu rice
+
+- Remove fillet, cut into sashimi-sized slices roughly (cut *with* the grain for some reason).
+- Apply 1tsp white pepper and some cooking wine and mix it up.
+- Dice up the tofu to as big as you want them.
+- Add cooking oil to pan.
+- Add fish into pan while the pan is still cold, flipping constantly in low heat until half done.
+- Drain liquids (to remove fish foam) and add tofu.
+- Add water until tofu is half covered.
+- Add 1 tsp sugar and some soy sauce.
+- Continue cooking.
+- Mix 1tbsp cornstarch with 2tsp chicken mix and add to boil.
+- Serve with rice.
+
+#### 蒸排骨/瘦肉
+
+- 肉切件
+- 用糖，鹽，豉油，酒，豆粉，油醃十五分鐘去蒸
+- 落梅菜榨菜或蒜頭豆豉
+
+#### Baked chicken
+
+- Slice chicken open where you would like spices to penetrate.
+- Marinate chicken with just about anything you want your chicken to taste like. This may include: sugar, salt, soy sauce (both kinds), oyster sauce, ginger, garlic, hua jiao.
+- Let marinate overnight.
+- Bake at 400 degrees (F) for 25 minutes.
+
+#### Lamb rack
+
+- Place entire rack in pressure cooker on high with several slices of ginger for 20 minutes.
+- Rub rack with appropriate spices and cumin.
+- If the rack is skin-on, fry skin side on high for a bit.
+- Place in baking tray, using ribs to separate meat from the bottom of tray to prevent meat from getting soggy. Bake at 400 degrees (F) for 15 minutes.
+
+#### Cha siu
+
+- Prepare 1kg of pork shoulders.
+- Chop pork into medium sized pieces.
+- Poke holes on the pork's surface. Use a fork or something.
+- Place pork into a marinating container.
+- Place into container two slices of ginger cut into strips, and four cloves of garlic cut into strips (smashing the garlic first makes it easier to peel), enough oyster sauce to cover the meat's surface, enough soy sauce (both old and new types) to cover the meat's surface, and some honey.
+- Give your meat a good massage.
+- Marinate for three days.
+- Take out and boil until cooked.
+- Brush cha siu sauce and broil from bottom shelf (preferably) or bake from upper shelf from until crispy.
 
 ## Baked Salmon
 
@@ -105,6 +240,21 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Seal tightly with two layers of **aluminium foil**.
 - Bake at 190 degrees C for 25-30 minutes.
 
+## [Air fryer lobster tails](https://www.allrecipes.com/recipe/276006/air-fryer-lobster-tails-with-lemon-garlic-butter/)
+
+(Do we call this baking?)
+
+- "Butterfly" two lobster tails. Butterflying means cutting it lengthwise from the top of the shell, but not all the way down (which would yield two halves).
+- Place lobsters in air fryer, meat side up.
+- Melt 60mL butter in a small pan.
+- Add 15mL lemon juice (zest, if possible) and 1 clove of grated garlic. Heat for 30 seconds, or until garlic is tender.
+- Transfer 30mL of the mixture into a new bowl, and brush onto the raw lobster. Clean / discard the brush.
+- Season lobster with salt and pepper.
+- Air fry at 380 degrees F for 5 to 7 minutes.
+- Apply remaining butter to the lobster.
+- Apply 5mL ("some") of chopped parsley.
+- Serve with lemon wedges if you have any.
+
 ## Chili
 
 - Place beans in pot.
@@ -112,9 +262,13 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Cook for an hour.
 - Apply spices and serve.
 
-## Steamed eggs
+## [Steamed eggs](https://www.youtube.com/watch?v=_S9XLtKDx3g)
 
 - For steaming eggs, [a good ratio of water to eggs would be 1.5:1](http://en.wikipedia.org/wiki/Chinese_steamed_eggs).
+- Add 1 egg to 195mL of water. For 2 eggs, use 250mL of water.
+- Add 1 gram of salt per egg and whisk.
+- Cover bowl with a plate. Steam in low heat for 6 minutes.
+- Turn off heat, and keep steaming for 5 minutes.
 
 ## Steamed pork
 
@@ -140,56 +294,6 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Dip in white vinegar.
 - Blanch in 75-degree water for 15 minutes.
 - Somehow fry the fries twice. Exact temperatures and durations can be found in the post.
-
-## "Ghetto sofrito"
-
-Ingredients:
-
-- Lots of black beans
-- 5lb rice
-- 1 bag onions
-- a few bulbs garlic
-- 1 box Goya Sazon
-
-Procedures:
-
-- Cook one cup of rice.
-- Slice a small onion, smash up a clove of garlic
-- Throw some olive oil or butter, onions and garlic into a HOT pan and fry them till the onion gets glassy. Throw some salt in there.
-- Grind some pepper in.
-- Toss in half a packet of Sazon and stir till you get a paste.
-- Dump in your can of beans and stir.
-- Add a pinch of Cayenne pepper
-- Simmer
-- Mix beans with rice.
-
-## Fish and tofu rice
-
-- Remove fillet, cut into sashimi-sized slices roughly (cut *with* the grain for some reason).
-- Apply 1tsp white pepper and some cooking wine and mix it up.
-- Dice up the tofu to as big as you want them.
-- Add cooking oil to pan.
-- Add fish into pan while the pan is still cold, flipping constantly in low heat until half done.
-- Drain liquids (to remove fish foam) and add tofu.
-- Add water until tofu is half covered.
-- Add 1 tsp sugar and some soy sauce.
-- Continue cooking.
-- Mix 1tbsp cornstarch with 2tsp chicken mix and add to boil.
-- Serve with rice.
-
-## "Yunnan Mixian"
-
-This recipe relies on the Chinese cooking mantra of never measuring anything, called "少許" and "適量".
-
-- Bring rice vermicelli (however much you want to eat) to a boil, and soak for 30 minutes.
-- Brown ground pork.
-- Add two cloves of minced garlic and continue browning until garlic is cooked.
-- Add two tsp of "香辣醬", "黃豆醬", and "老干妈", respectively, plus some olive oil, and continue browning until the sauces are mixed.
-- Prepare a bowl, and put in it a) one clove of crushed garlic, b) 5mL soy sauce, c) a dash of MSG, d) a dash of salt, e) a dash of white pepper powder, f) about 2g of sugar, and g) little bits of some green onions.
-- Boil 50g of roughly-chopped napa for each bowl of noodles.
-- Boil 1/4 of a tomato, chopped into orange-like slices, for each bowl of noodles.
-- Finely chop 15g of 老坛酸菜 for each bowl of noodles.
-- Cut into slices 50g of luncheon meat for each bowl of noodles.
 
 ## Stew
 
@@ -281,95 +385,40 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - Wrap wonton. First fold in half (meat does not move), fold the meat up (meat is flipped), and fold the two sides _up_ and stick.
 - Boil with seaweed and serve.
 
-## 炒麵
-
-- Add ½ water to stove and heat stove to max
-- When water boils, put in noodles
-- Add salt
-- Add meat and vegetables if present
-- Continue boiling until water is almost all gone
-- Add sauce if present
-- Continue frying until water dries
-- Add flavouring
-
-## 腐乳生菜
-
-- 落油
-- 落蒜頭
-- 落三塼腐乳
-- 落菜
-- 炒到干上下堪蓋
-
-## 番茄炒蛋
-
-- 炒蛋
-- 落油
-- 落少鹽
-- 落多糖
-- 落茄汁
-- 煮腍
-- 落蔥
-- 熄火
-- 落蛋
-
-## 蒸排骨/瘦肉
-
-- 肉切件
-- 用糖，鹽，豉油，酒，豆粉，油醃十五分鐘去蒸
-- 落梅菜榨菜或蒜頭豆豉
-
-## 雞湯
+### 雞湯
 
 - 落兩只雞脾
 - 落北萁黨參每樣五片
 - 煲三個鐘
 
-## 芥蘭臘肉
+### "Yunnan Mixian"
 
-- 開油
-- 落姜落蒜頭落兩條臘腸炒香
-- 落半斤芥蘭炒
-- 落鹽落一湯勺酒
+This recipe relies on the Chinese cooking mantra of never measuring anything, called "少許" and "適量".
 
-## Baked chicken
+- Bring rice vermicelli (however much you want to eat) to a boil, and soak for 30 minutes.
+- Brown ground pork.
+- Add two cloves of minced garlic and continue browning until garlic is cooked.
+- Add two tsp of "香辣醬", "黃豆醬", and "老干妈", respectively, plus some olive oil, and continue browning until the sauces are mixed.
+- Prepare a bowl, and put in it a) one clove of crushed garlic, b) 5mL soy sauce, c) a dash of MSG, d) a dash of salt, e) a dash of white pepper powder, f) about 2g of sugar, and g) little bits of some green onions.
+- Boil 50g of roughly-chopped napa for each bowl of noodles.
+- Boil 1/4 of a tomato, chopped into orange-like slices, for each bowl of noodles.
+- Finely chop 15g of 老坛酸菜 for each bowl of noodles.
+- Cut into slices 50g of luncheon meat for each bowl of noodles.
 
-- Slice chicken open where you would like spices to penetrate.
-- Marinate chicken with just about anything you want your chicken to taste like. This may include: sugar, salt, soy sauce (both kinds), oyster sauce, ginger, garlic, hua jiao.
-- Let marinate overnight.
-- Bake at 400 degrees (F) for 25 minutes.
+### [Pea soup](https://www.theendlessmeal.com/pea-soup/)
 
-## Stir "fried" fish
+ - Melt 15mL of butter.
+ - In the butter, add 1 chopped onion, add 3 cloves of smashed garlic, and cook for 3 minutes (when the onion turns clear).
+ - Add 1L of "stock" (presumably chicken or beef) into a pot.
+ - Add 1.5L of peas... and if you have spinach and thyme, add some.
+ - Bring to a simmer.
+ - Turn off heat. Blend the mixture.
+ - Return mixture back to pot and heat until it reaches the desired serving temperature.
+ - Add sour cream as needed.
 
-- Cut basa fish into small pieces.
-- Spray oil into pan.
-- Sauté garlic with oil.
-- Put fish in.
-- Put in some soy sauce and sugar.
-- Put tofu in.
-- Put in starch water.
+## Ingredients
 
-## Lamb rack
-
-- Place entire rack in pressure cooker on high with several slices of ginger for 20 minutes.
-- Rub rack with appropriate spices and cumin.
-- If the rack is skin-on, fry skin side on high for a bit.
-- Place in baking tray, using ribs to separate meat from the bottom of tray to prevent meat from getting soggy. Bake at 400 degrees (F) for 15 minutes.
-
-## Cha siu
-
-- Prepare 1kg of pork shoulders.
-- Chop pork into medium sized pieces.
-- Poke holes on the pork's surface. Use a fork or something.
-- Place pork into a marinating container.
-- Place into container two slices of ginger cut into strips, and four cloves of garlic cut into strips (smashing the garlic first makes it easier to peel), enough oyster sauce to cover the meat's surface, enough soy sauce (both old and new types) to cover the meat's surface, and some honey.
-- Give your meat a good massage.
-- Marinate for three days.
-- Take out and boil until cooked.
-- Brush cha siu sauce and broil from bottom shelf (preferably) or bake from upper shelf from until crispy.
-
-# Ingredients
-
-## Hollandaise
+### Hollandaise
 
 - Unload three **egg yolks** into a [_bain marie_](https://en.wikipedia.org/wiki/Bain-marie) (or any indirect heating utensil)
 - Add 3g crushed **corriender seeds**.
@@ -379,7 +428,7 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - Add more **olive oil** until mixture doubles in volume.
 - Add some more **grapefruit juice** and whisk for 30 more seconds.
 
-## Onion
+### Onion
 
 [Chopping an onion](https://www.youtube.com/watch?v=dCGS067s0zo):
 
@@ -390,7 +439,7 @@ Potato + onion + carrot + pork = baby, you've got a soup goin
 - Discard the root.
 - Season with paprika.
 
-## [Evaporated milk](https://www.biggerbolderbaking.com/evaporated-milk-recipe/)
+### [Evaporated milk](https://www.biggerbolderbaking.com/evaporated-milk-recipe/)
 
 - Pour milk into a pot.
 - Heat pot until milk begins to simmer. Keep at that temperature until desired consistency is reached.

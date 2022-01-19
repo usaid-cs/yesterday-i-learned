@@ -177,3 +177,4 @@
 - [A generator at no load uses at least the energy required to continue spinning.](https://www.researchgate.net/post/Is_there_diesel_consumption_on_a_diesel_generator_when_it_is_producing_zero_power)
 - Capacitive fingerprint scanners don't work when you're dead. Optical/Ultrasound fingerprint scanners do.
 - A meteor caused the [Chesapeake Bay impact crater](https://en.wikipedia.org/wiki/Chesapeake_Bay_impact_crater) 35 million years ago.
+- A [hydraulic ram](https://en.wikipedia.org/wiki/Hydraulic_ram) delivers water to higher ground by screwing around with [an air reservoir](https://www.youtube.com/watch?v=Zk9zs0EQIQ8) that acts on valves that close on them. For hydraulic rams to work, they must have a way to depressurise outside the air valve.

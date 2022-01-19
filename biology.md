@@ -1,3 +1,5 @@
+- Tampons are better than pads when you sleep, since [with a pad, blood will, uh, flow onto the ass crack](https://old.reddit.com/r/AskWomen/comments/s6xj7p/if_you_were_in_charge_of_designing_vagina_20_what/ht6bd3e/) and presumably congeal / solidify there.
+- [Swordfish can be huge](http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg), but that is not a swordfish. That's a [marlin](http://en.wikipedia.org/wiki/Marlin).
 - [Sodium raises blood pressure](https://www.youtube.com/watch?v=Ab9OZsDECZw) by increasing water retention, and thus volume. If the volume stays the same than pressure increases.
 - [Owls cannot move their eyes](https://www.nationalgeographic.org/media/birds-eye-view-wbt/) but they can move their head to compensate.
 - [Leukemia](https://en.wikipedia.org/wiki/Leukemia) is a high number of abnormal blood cells. Symptoms vary wildly depending on the type of leukemia diagnosed.
@@ -1391,3 +1393,6 @@ The Rufous hummingbird is the most northerly ranging of all hummingbirds.
 - From a nurse: "If it's wet and it didn't come from you, don't touch it."
 - [**Breakfast is not the most important meal of the day.**](https://www.reddit.com/r/explainlikeimfive/comments/5zby7f/eli5_why_is_breakfast_the_most_important_meal_of/) Kellogg marketing invented this dangerous myth. Eating breakfast increases hunger throughout the day, increasing overall calorie intake, and builds up insulin resistance, leading to diabetes. This doesn't mean "don't eat breakfast"; it just means don't eat a big breakfast.
 - Australian mates made vegan leather from [SCOBY](https://en.wikipedia.org/wiki/SCOBY) (symbiotic culture of bacteria and yeast), sometimes found in kombucha.
+- [Fake tears](https://en.wikipedia.org/wiki/Artificial_tears) typically contain some type of cellulose.
+- Fun fact. [Going gluten-free makes you age slower.](https://blog.paleohacks.com/10-ways-to-slow-aging-naturally/) Therefore, gluten is aging. Science.
+- Hemp has little to no THC. Hemp seed has nothing. Other parts of hemp can be used to make CBD oils.

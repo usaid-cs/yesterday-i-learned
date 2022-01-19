@@ -264,3 +264,4 @@
 - In the autotuned degeneracy that is "I'm The One", DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, _and_ Lil Wayne all claim to be the one.
 - Humans are the only species on Earth to have the concept of birthdays.
 - Apart from dinner and supper, all of hobbit's seven daily meals are two hours apart.
+- Sherlock never said "Elementary, my dear Watson" in the books.

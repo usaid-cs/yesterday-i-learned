@@ -5,7 +5,7 @@
 - Java is *younger* than Python, by 4 years.
 - For a language that [puts so much emphasis on OOP (like Ruby)](https://en.wikipedia.org/wiki/Java_%28programming_language%29#Principles), Java sure is looking for criticism for keeping the [eight primitives](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) in the language that aren't objects.
 - [SDK man](https://sdkman.io/sdks) supports only Java-related SDKs. It's the nvm of Java.
-- There isn't a `===` comparison operator. Which is good.
+- There isn't a `===` comparison operator. Which is good. But [`==` does the wrong thing with boxed primitives](https://stackoverflow.com/a/30454789/1558430), which is not good.
 - [All primitive type names are reserved keywords](https://www.w3schools.com/java/java_ref_keywords.asp). Object type names, including `Object`, are not. In fact, there is not a single reserved keyword that starts with an upper case letter.
 - `_` is a reserved keyword.
 - There are no [generators](https://stackoverflow.com/questions/11570132/generator-functions-equivalent-in-java). Or proper coroutines. Kotlin made coroutines in the JVM by transforming code.
@@ -57,7 +57,7 @@
 - `float`s (e.g. `3.2f`) and `double`s (e.g. 3.2) [should never be compared directly](http://stackoverflow.com/a/16627869/1558430).
 - ["Type inference"](https://softwareengineering.stackexchange.com/a/184183) in Java means `public <T> T foo(T t) { return t; }` returns whatever type you throw at it. It doesn't do more than that because Java devs really really like typing things out: ["...the redundant type serves as valuable documentation..."](https://bugs.java.com/bugdatabase/view_bug.do?bug_id=4459053)
 - Less draconian than Haskell: `new Integer`s can be added to `int`s and `float`s.
-- The default "nothing" constant is `null`.
+- The default "nothing" constant is `null`. Now you can return `null` from any method that claims to return an object---which is *terrible*---but at least you can't return `null` in a method that claims to return a primitive, i.e. `int foo() { return null }` won't ever compile.
 - Need to check for `null` everywhere, because Java is a very safe language, obviously.
 - Apparently, empty character literals (`''`) are not allowed. It makes no sense anyhow. Empty string is `""`.
 - [Autoboxing](http://docs.oracle.com/javase/tutorial/java/data/autoboxing.html): something new since 1.5, automatically treating `1` and `new Integer(1)` as the same thing, instead of a primitive and a class, respectively. "Boxing" turns a primitive into an object. "Unboxing" turns an object back into a primitive.
@@ -112,6 +112,7 @@
 - When two strings are concatenated, both are copied.
 - `<` unboxes a boxed primitive; `==` does not. This can ~~fuck~~trip you right up when you write a comparator (example from the book): `Comparator<Integer> naturalOrder = (i, j) -> (i < j) ? -1 : (i == j ? 0 : 1);`. `i == j` will never be true even if they have identical values.
 - If a null boxed primitive is unboxed, it will raise NPE even before any method is called on it.
+- If your `Stack` `.isEmpty()` and you do so much as to `.peek()` at it, you will get a `java.util.EmptyStackException`, even though `.pop()` exists, and it is completely reasonable for `.pop()` to throw something. So you see guards like `s.isEmpty() || s.pop()` everywhere.
 
 ## Generics
 
@@ -271,6 +272,7 @@
 - "(A) common problem that junior to intermediate developers tend to face at some point: they either don't know or don't trust the contracts they are participating in and defensively overcheck for nulls. Additionally, when writing their own code, they tend to rely on returning nulls to indicate something thus requiring the caller to check for nulls." - An answer on [how to deal with nulls everywhere](https://stackoverflow.com/a/271874/1558430), with solutions including the [null object pattern](https://en.wikipedia.org/wiki/Null_object_pattern#Java), which throws away places where you would use `null` for "no object applicable", instead providing a stubbed subclass of what's required.
 - So, one day, Java 12 overhears other programming languages talking about ["arrow functions"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) and ["yield keyword"](https://realpython.com/introduction-to-python-generators/), and being the [enterprising](https://en.wikipedia.org/wiki/Jakarta_EE) language that it is, it goes and creates its own arrows and yields. [Switch expressions: we have those features at home](https://howtodoinjava.com/java14/switch-expressions/).
 - You can't return multiple values, so you just make a brand new class that has the fields you want, and then return that.
+- `array.contains(item)`? No! Too easy. You need to choose between [`Arrays.asList(array).contains(item)`, `Arrays.stream(array).anyMatch(item::equals)`, `IntStream.of(array).anyMatch(x -> x == item)`, and `Set.of(array).contains(item)`](https://stackoverflow.com/a/1128728/1558430), depending on what type of array it is, and [whether your thing is hashable](https://stackoverflow.com/a/1128899/1558430).
 
 ## Testing, mocking, and stuff
 

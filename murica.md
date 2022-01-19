@@ -124,3 +124,4 @@
 - "Hick town" means "redneck town". Rednecks themselves all their towns hick towns. Example: _"Are y'all gay looking to see how long it takes to get beat up in a hick town? NASCAR sucks?' 'Country and Western is rubbish?' Guess what, you're in a hick town man."_
 - [Jack Daniels is distilled in Moore County, in the city of Lynchburg, Tennessee, which is a dry county.](http://www.flask.com/5-facts-about-jack-daniels-whiskey/)
 - In America, you may copyright the design of a dress, but you may not copyright the shape of the dress. This leads to [knockoffs](https://www.youtube.com/watch?v=U9wY8Wz6lCs) (lookalikes), but not counterfeits (fake things with the original makers' logo).
+- "America's real safety net is drugs, alcohol, cheap food, and free porn." Attributed to a Henry Rollins

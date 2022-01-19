@@ -19,7 +19,7 @@
 - "If you are more fortunate than others, build a longer table, not a taller fence." - Canadian Memorial Centre for Peace
 - When going to a house party, bring _specialty_ food that the hosts could not have gotten themselves. This makes it clear to other guests that the food was not supplied by the hosts.
 - If you give up your own information then people know more about you, and that means they think they're close to you.
-- [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the Ben Franklin effect, the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
+- [Let people play their music in your car](https://www.reddit.com/r/InfluenceAdvice/comments/adtfr4/why_you_should_let_others_play_music_in_the_car/): not only does it improve the probability that at least one person (the one who's playing the music) likes the music currently playing; "Similar to the [Ben Franklin effect](https://en.wikipedia.org/wiki/Ben_Franklin_effect) (someone who did a favour for you is more likely to do it for you again), the acceptance of their gesture to play the songs they like will make these people like you. They will feel as if their interests are affirmed and that they've helped improve the social setting around them."
 - Some wise redditor once posted, "Your success in life will be directly proportional to your willingness to have uncomfortable discussions."
 - [People don't like others who complain all the time.](https://www.reddit.com/r/socialskills/comments/59vdlf/15_glaring_signs_of_social_incompetence_you_want/)
 - When in an argument, act like you are being recorded. In fact, forget about the argument altogether. Always act as if you are being recorded.
@@ -28,7 +28,7 @@
 - Not saying your donation is useless, but it might be more worthwhile to donate to charities that help others get their own food, than to charities that give out food.
 - ["When you have a conversation with an idiot, nobody watching can tell which one of you is the idiot."](https://news.ycombinator.com/item?id=10929547)
 - You won't believe it. [Flirting](https://www.wikihow.com/Flirt) just means appearing interested in someone.
-- The story of a 17yo man and [his encounter with a girl called Monica](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
+- The story of a 17yo~~15yo~~ man and [his encounter with a girl called ~~Monica~~Amanda](http://www.reddit.com/r/AskReddit/comments/258w8s/what_is_a_story_you_have_been_dying_to_tell/chex9eq); accept challenges from strangers
 - _Parroting_ is a lazy technique that repeats a term from the last sentence the other person said. followed by a question mark. It is a bailout method that keeps the conversation going without contributing anything to it. "I watched Westworld last night. It was amazing." "Westworld?"
 - You are [supposed](https://www.reddit.com/r/LifeProTips/comments/9lx87k/lpt_be_respectful_of_haunted_house_actors_theyre/) to act scared in a haunted house out of courtesy.
 - ["Be a person that you like and people will flock to you"](https://www.reddit.com/r/socialskills/comments/2t7f38/how_do_you_move_past_the_good_acquaintance_stage/) first requires you to know yourself.
@@ -56,7 +56,7 @@
 > To accomplish great things, we must not only act, but also dream, not only plan, but also believe. - a poet
 
 - If you give yourself the freedom to do anything, [you will probably do nothing or the easiest one](https://www.youtube.com/watch?v=SappngY0ZQ8). If you give yourself the option between studying and playing games, then you will probably play games. So not only do you need to do what you need to do, *you also need to stop doing what you shouldn't do*.
-- How much work you put into learning matters. How much time you put into it also does. [Increasing the intensity of learning is crutial to saving time on learning a skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/).
+- How much work you put into learning matters. How much time you put into it also does. [Increasing the intensity of learning is crucial to saving time on learning a skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/).
 - "There's a difference between interest and commitment. When you're interested in doing something, you do it only when it's convenient. **When you're committed to something, you accept no excuses; only results.**" - Kenneth Blanchard
 - "We must all suffer one of two things: the pain of discipline or the pain of regret or disappointment." - Jim Rohn
 - [七孔流血還七孔流血，死還死，係兩回事！](https://hk.finance.yahoo.com/news/%E6%96%B0%E8%81%9E%E9%BB%9E%E8%A9%95-%E6%B8%AF%E5%BC%8F%E6%8A%97%E7%96%AB-%E6%98%AF%E5%85%A8%E7%90%83%E5%87%BA%E8%B7%AF-194700077.html) 能捱下去就是勝利。
@@ -76,7 +76,7 @@
 - Dale Carnegie said, "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."
 - [Find yourself a big goal](https://raddevon.com/articles/8-things-i-learned-to-get-from-walmart-cashier-to-6-figure-web-developer/), one that you will need years to achieve. This is a good way to develop skills, and turn skills into money.
 - Better [find a mentor in life](https://www.reddit.com/r/TrueAskReddit/comments/56v587/what_are_the_most_common_issues_that_impede_our/) to better achieve your goals.
-- "Recipes are useless if you don't cook. To-do lists are useless if you don't do." - Me
+- "[Recipes](recipes.md) are useless if you don't cook. To-do lists are useless if you don't do." - Me
 - An implicit acceptance criterion for everything you do ought to be: "do/make something people want."
 - Percentage-wise, rich people don't spend nearly as much as the poor, so they get to *save* way more and be financially responsible while not looking like it.
 - "Fake it til you make it" is the exact opposite of the imposter syndrome.
@@ -94,6 +94,7 @@
 - The correct response to "You ask too much of me" is ["You are not asking enough from yourself."](https://www.reddit.com/r/GetMotivated/comments/59qvsq/image_just_joking_around_when_my_friend_dropped/)
 - Remember your goals are set *so you will achieve something*. [Don't "meet your daily quota", don't work on those goals because they are your goals; don't let your goals become you](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/). Change your goals if you need to. Be sure they always align with what you want out of your life.
 - Your achieving your goal involves a lot of practice, [practice makes *permanent*](https://www.reddit.com/r/LifeProTips/comments/s4w46a/lpt_practice_doesnt_make_perfect_it_makes/)---it is hard to unlearn a bad habit. You need to practice the right way.
+- A [Ulysses pact](https://en.wikipedia.org/wiki/Ulysses_pact) is a pact you make with yourself. If you manage to do A, you reward yourself with B. If you fail to do A, you punish yourself with C.
 
 ## Family / relationship values
 
@@ -124,7 +125,7 @@
 - Being a parent is stressful. No sleep. No downtime. No days off. [Sometimes parents get excited about shitting so they can scroll through their newsfeed. Sometimes they pretend to shit so they can scroll through their newsfeed.](https://www.huffpost.com/entry/this-is-why-parents-are-more-exhausted-than-you-think-they-should-be_b_9422780) "Why? Why? Why? Why?" ["Mama. Mama. Mama. Mama."](https://www.youtube.com/watch?v=aOLxQGLJouI) Work. Chores. All the other things going on in their own lives.
 - [It is normal to love your kids more than you love your wife](https://www.reddit.com/r/AmItheAsshole/comments/ehw713/aita_for_saying_i_love_you_more_than_anything_to/fcm514x/).
 - Do not want people who don't want you.
-- [Kids love to help](https://news.ycombinator.com/item?id=21790616) and be part of your life. Shoo them away and they'll cause havoc to get your attention. You will spend more time teaching them than if you do it yourself (see: loading the dishwasher). Be patitent. This is fine.
+- [Kids love to help](https://news.ycombinator.com/item?id=21790616) and be part of your life. Shoo them away and they'll cause havoc to get your attention. You will spend more time teaching them than if you do it yourself (see: loading the dishwasher). Be patient. This is fine.
 - Store your kids' Christmas presents at work.
 - ["Happy wife, happy life!" Piss off, we both need to be happy.](https://www.reddit.com/r/AskReddit/comments/f26y6h/what_is_a_quote_or_saying_that_just_pisses_you/fhaq9ba/) - /u/cablguy104
 - [What is a big deal](https://www.jianshu.com/p/bf70a384a364)? It is not true that nothing is a big deal simply by you saying it. Your family and friends are a big deal, but, paradoxically, your life and your health are both big deals.
@@ -266,6 +267,7 @@
 - [Welcome criticism.](https://mp.weixin.qq.com/s/3ocfXMjBajIvUKiSQDMbog) If you don't take criticism well, you can't improve at a rate above average. If a Chinese website laughs at Hong Kong people for speaking broken Mandarin, you welcome the criticism. You practice the **fuck** out of your Mandarin. 香港人，記住唔好衰俾人睇。You improve beyond their imagination, exceeding their proficiency in their own native (and sometimes, only) tongue. And then you _don't_ laugh at their broken English, because doing so will give them the idea to improve it.
 - [Arguing doesn't work. People just believe in whatever they believed in.](https://lifelessons.co/personal-development/howtogetsmarterpart5/) See also: lots of tips and tricks for arguing and learning in general.
 - Learn to take responsibility. For yourself, for your mistakes, and for others. "The difference between complaining about bad things, and committing to a concrete plan to overcome them is the difference between Beta and Alpha." - Copilot wanted me to credit The Art of War for some reason, but it's from a subreddit.
+- "I constantly get out of my comfort zone. (Staying in the comfort zone) is the easiest way to mediocrity." - Terry Crews (actual part of the quote was "Looking cool")
 
 ## Be thankful
 

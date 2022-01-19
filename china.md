@@ -85,3 +85,5 @@
 - People from Fujian are very united. They have associations all over the globe, and they always help each other out. [It's their thing.](http://fujiancanada.org/)
 - The Peak Tower is situated in the trough between two peaks. Dat gap is called "[Victoria Gap](https://en.wikipedia.org/wiki/Victoria_Gap)".
 - The sovereign state of Hong Kong coins the term [爛 gag](http://evchk.wikia.com/wiki/Gag) to describe what are effectively dad jokes.
+- Ricky Chan, [陳振華](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%8C%AF%E8%8F%AF_%28%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%A6%99%E6%B8%AF%E6%BC%94%E5%93%A1%29) is also a hairstylist.
+- People in Sichuan eat spiced rabbit heads ("麻辣兔頭") as beer food.

@@ -19,9 +19,11 @@ Then, realise investing is [shorting of a currency](https://www.youtube.com/watc
 
 | Interest rate is... | Inflation is... | Buy...                                                                  | Sell...                                                                             |
 |---------------------|:----------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Rising              | Being fought    | Defensive (commodity) stocks, REITs, bonds                              | Growth stocks, other currencies, precious metals, savings, bonds, GICs, real estate |
+| Rising              | Being fought    | Defensive (commodity) stocks, REITs, bonds                              | Growth stocks, other currencies, precious metals, savings, bonds, GICs, real estate (see 1) |
 | -                   | Stable          | Precious metals                                                         |                                                                                     |
 | Decreasing          | Trending up     | Growth stocks, other currencies, savings, [bonds][1], GICs, real estate | Defensive (commodity) stocks, bonds                                                 |
+
+1. If the rate is *about* to rise, [consider locking in to a lower rate](https://awealthofcommonsense.com/2022/01/will-higher-mortgage-rates-derail-the-housing-market/) before the interest rate actually rises, i.e. buy now because it is too late.
 
 ## Cash
 
