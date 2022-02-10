@@ -1,3 +1,4 @@
+- The [Kingdom of Dalmatia](https://en.wikipedia.org/wiki/Kingdom_of_Dalmatia) got the really short end of the stick when [Croatia](https://en.wikipedia.org/wiki/Croatia) decided to make [a new flag](https://en.wikipedia.org/wiki/Flag_of_Croatia). Apparently the tiny bits of yellow on that flag (try spotting it) was enough to symbolise the Kingdom of Dalmatia.
 - [Princple of flag design](https://www.youtube.com/watch?v=pnv5iKB2hl4): keep it simple. A flag should be so simple that even a child can draw it from memory. Use a standard set of colours, red white blue... blablabla and black. **Never use words or lettering of any kind.** Draw your design on a one-inch canvas. If it doesn't fit, it's no good.
 - The [flag of Nepal](https://en.wikipedia.org/wiki/Flag_of_Nepal) is "the world's only non-quadrilateral national flag".
 - A canton is any quarter of a flag. British colonial flags have the union jack at the upper left canton, for example. Not related to Canton the place.
@@ -22,3 +23,5 @@
 - There are two official color palettes for the French flag : "Dark blue" for public & military buildings and "Light Blue" for TV & government appearences/meetings.
 - The "confederate flag" is actually the confederate's flag [none of the time](https://www.youtube.com/watch?v=ULBCuHIpNgU&list=PLqs5ohhass_TWuJqc36II6McLxqLcRJfO&index=2). It was a central design in the actual battle flag, but the battle flag was never *just* the stars and cross.
 - The [flag of Lethbridge](https://en.wikipedia.org/wiki/Flag_of_Lethbridge) has different thicknesses of red lines.
+- [1/3 of the world's flags has red in it](https://gramener.com/flags/). The second most popular colour is white. There are more flags with green than there are flags with blue, to my surprise.
+- If Indonesia decides to invade Monaco, no one will know which is which.

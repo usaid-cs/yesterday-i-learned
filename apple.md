@@ -1,3 +1,5 @@
+- ["Unlike most UNIX-based operating systems, OS X does not use a preallocated disk partition for the backing store. Instead, it uses all of the available space on the machine’s boot partition."](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html) [You run out of swap space when your disk is full](https://discussions.apple.com/thread/7417584?answerId=7417584021#7417584021).
+- [Windows is designed by people who use macOS](https://news.ycombinator.com/item?id=30055568).
 - [DON'T. BUY. AN APPLE PRODUCT. IF YOU NEED IT FIXED.](https://old.reddit.com/r/apple/comments/s1s5ij/the_macbook_air_has_blown_me_away/hsaowa2/)
 - Apple's first-party apps are only updated via system upgrades. Therefore, despite Android's typical support period of 2 to 3 years, their first-party apps often updated for longer than those in iOS.
 - The AirPods case (without AirPods in it) costs [$100](https://www.apple.com/ca/shop/product/MR8U2AM/A/wireless-charging-case-for-airpods).

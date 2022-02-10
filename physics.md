@@ -1,3 +1,5 @@
+- [Fires don't go through small holes](https://avestia.com/HTFF2014_Proceedings/papers/36.pdf) ("quenching diameter"). That's one of the reasons why propane torches don't blow themselves up.
+- (Stainless) steel velcro lasts upwards of 500,000 pulls.
 - The radius of the [observable universe](https://en.wikipedia.org/wiki/Observable_universe) is about 46.5 billion light-years... but the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) happened 13.8 billion light-years ago. Assuming the numbers are more or less accurate, clearly the universe is expanding faster than the speed of light.
 - [Spectralon](https://en.wikipedia.org/wiki/Spectralon) is the world's whitest thing. After that, it's Erin Conrad, who claimed to be so pale.
 - Running AC motors on modified sine wave can cause waste heat to accumulate. [Other devices tend to work just as well](https://www.lifewire.com/modified-sine-wave-inverter-damage-question-534760) on modified sine wave as they do on pure sine wave.

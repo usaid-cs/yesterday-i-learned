@@ -645,3 +645,4 @@ bar
 - There is an [`arrays` standard library](https://docs.python.org/3.8/library/array.html). It is meant to save memory when storing numbers and bytes.
 - People dislike python for many things, like (other than indentation, which they all talk about): [`"implicit" "string" "concatentation"` causing bugs when you miss a comma, `bar = 1` creating a new variable even when the name is a typo, and `too, many, commas,` creating a list of incorrect length, or worse... from something, to a tuple](https://news.ycombinator.com/item?id=29841560#29842428).
 - [Timsort](https://en.wikipedia.org/wiki/Timsort), somewhere between insertion sort and merge sort, was made by Tim Peters, the same man who wrote PEP 20.
+- You can `return *iterable, *another_iterable` because of the implicit tuple return. If you have a single iterable, normally it would have needed to be `return (*iterable,)`.

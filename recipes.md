@@ -255,6 +255,23 @@ Procedures:
 - Apply 5mL ("some") of chopped parsley.
 - Serve with lemon wedges if you have any.
 
+## [Air fryer beef cubes](https://organicallyblissful.com/recipe/air-fryer-spicy-cumin-lamb/)
+
+For every pound:
+- 1 tablespoon cumin.
+- 0.5 tablespoons ground red chili.
+- 0.5 tablespoons sesame seed.
+- 0.5 teaspoons salt.
+- 0.5 teaspoons ground garlic.
+- 0.125 teaspoons Sichuan peppercorns.
+
+Instructions:
+
+- Mix ground spices together in some water. Or not water. Up to you.
+- Coat meat in the spice mix.
+- Air fry at 350F for 5-7 minutes. Do not overcrowd the airfryer.
+- Flip the meat over and air fry at 350F for another 5-7 minutes, or until golden crispy.
+
 ## Chili
 
 - Place beans in pot.

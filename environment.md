@@ -16,3 +16,4 @@
 - [Plastic tea bags may shed billions of microplastics per cup.](https://www.cbc.ca/news/technology/tea-bags-plastic-study-mcgill-1.5295662)
 - Waxed paper straws existed before plastic straws did.
 - Fossil fuels meet [85% of the world's energy needs](https://www.youtube.com/watch?v=v3n8txX3144) (i.e. nuclear and renewable energy need to increase output by 10x to replace it), of which [coal makes up 38%](https://en.wikipedia.org/wiki/Electricity_generation), and, surprisingly, nuclear is *absolutely* declining by wattage.
+- Brazil: [we will have zero illegal deforestation :)](https://news.mongabay.com/2021/05/zero-illegal-deforestation-one-more-bolsonaro-distortion-commentary/). What they meant was they are making deforestation legal.

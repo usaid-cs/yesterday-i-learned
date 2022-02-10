@@ -1,11 +1,13 @@
 # C
 
+- If you don't `typedef` a `struct`, then only one "instance" (loose term; C is not OOP) ever exists.
+- [`i++` and `++i` compile to the same assembly code](https://godbolt.org/z/zWrrj8xeh), but [`++i` might have been more efficient at some point in the past](https://old.reddit.com/r/programming/comments/sg9ks5/how_algorithm_improvements_make_quicksort_4x/huwhs6o/).
 - [`typedef struct Foo {...} Foo;`](https://stackoverflow.com/questions/1675351/typedef-struct-vs-struct-definitions) is a combination of `struct Foo {...}`, which defines a struct with a tag called `Foo`, and `typedef struct ... Foo`, which, despite its name, only gives an existing type a new name. The end result of that combo statement is you don't need to use that struct with `struct Foo`; now you can refer to it with just `Foo`.
 - There is a [`union` type](https://cs.smu.ca/~porter/csc/common_341_342/notes/union.html), that, uh, lets you define a memory range that can be read as any of the sub-defined types. So a `union { int i; double d; char c; }` can store *some kind of memory* that can either be an int, a double, or a char... but *after you write it into memory, you don't know how it should be read back*! Terrific memory-saving feature.
 - C is statically and yet weakly typed. In the compromise between productivity and verbosity, this is the worst possible combination.
 - The variable convention seems to be `underscored_things`.
 - _Pointers_ (e.g. `int* something`) are something you declare. It _points_ to something of the declared type. It should only be assigned addresses (`&something`).
-- "Accessing" what a pointer is pointing to uses something like Python's unpacking syntax: if `int* foo` points to something that's `14`, `*foo` gives you `14`.
+- "Accessing" what a pointer is pointing to uses something like Python's unpacking syntax: if `int* foo` points to something that's `14`, `*foo` gives you `1   4`.
 - A pointer can also be used as if it were a variable. For example, if `*foo` were pointing at something that's 14, you can just `*foo = 50` to change it to 50.
 - Trying to assign something to your pointer's address, when you haven't initialised it (i.e. `int& foo; &foo = 1;`) will give you a segfault.
 - Declare an array of things: `type var_name[size];`, not `type [size]var_name;`.
@@ -49,7 +51,7 @@
 - [`auto`](http://stackoverflow.com/questions/2192547/where-is-the-c-auto-keyword-used) makes a variable have a function-local lifetime, which is the default. `static` cannot be used.
 - The `*` in `int *foo` is attached to the variable. [`int* foo` is invalid syntax.](http://stackoverflow.com/a/4203080/1558430)
 - It is [not possible](http://stackoverflow.com/a/4203948/1558430) to declare multiple variables on the same line, because Code Complete says so.
-- [Include guards](https://en.wikipedia.org/wiki/Include_guard) prevent the same header from being included more than once. [`#pragma once`](https://en.wikipedia.org/wiki/Pragma_once) works better [in every way](http://stackoverflow.com/a/6793411/1558430). Unfortuntely, since Oracle doesn't support pragma once, we are [stuck](http://stackoverflow.com/a/1144110/1558430) with include guards.
+- [Include guards](https://en.wikipedia.org/wiki/Include_guard) prevent the same header from being included more than once. [`#pragma once`](https://en.wikipedia.org/wiki/Pragma_once) works better [in every way](http://stackoverflow.com/a/6793411/1558430). Unfortunately, since Oracle doesn't support pragma once, we are [stuck](http://stackoverflow.com/a/1144110/1558430) with include guards.
 - There are [only three error codes](https://en.wikipedia.org/wiki/Errno.h) you can use.
 - > ["The `.PHONY` rule keeps make from doing something with a file named `clean`."](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) By not looking for files called `clean`, it improves performance.
 - [`main` must be a function.](http://stackoverflow.com/questions/33305574/why-does-const-int-main-195-result-in-a-working-program-but-without-the-const) Don't let [anyone](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html) (very smart) tell you different.
@@ -62,3 +64,6 @@
 - The ["C runs the world"](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming) argument can be made if operating systems are made with C. And operating systems are written in C because either (a) C was the best language available when popular operating systems were written, or (b) there is no better [language to write operating systems in](https://en.wikipedia.org/wiki/System_programming_language), even now. With the introduction of Rust (2010) and Swift (2014), this may not be true anymore.
 - Return types default to `int`. To not do that, use `-Werror=implicit-int` because it changes `-Wimplicit-int` into an error.
 - Strings are just character arrays (sometimes not even of fixed length) that terminate when you hit a `null` (`\0`).
+- `int *arr[10]` is an array of 10 pointers to integers because `(int*) arr [10]` can be read as `arr = (int*)[10]`. `int (*arr)[10]` is a pointer to an array of 10 integers because it can be read as `(*arr) = int [10]`. Fucker `*` is left-associative by default.
+- `const` can appear before or after the type. Both `int const a` and `const int a` mean the same thing.
+- [`volatile` marks a variable as potentially changing by other means](https://stackoverflow.com/a/246139/1558430). By telling the compiler that a variable is volatile, if you have multiple variable reads (e.g. `*ptr + *ptr`), it will not optimise the code into a single read, i.e. `a = *ptr; a + a`, which is the default behaviour.

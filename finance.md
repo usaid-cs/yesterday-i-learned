@@ -1,6 +1,7 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- A [cash-in refinance](https://www.rocketmortgage.com/learn/types-of-refinance) means you borrow more money than you did before. A cash-out refinance means you pay back a part of the loan, and now borrow less money than you did before. A reverse mortgage is like a line of credit from your house; it pays you while your home equity decreases.
 - *50% of your capital gains are taxable.* Your capital gains aren't taxed at 50%. This is *way* better than working, where income is 100% taxable.
 - The Fed, with all its national and foreign debt, does not actually [*want*](https://old.reddit.com/r/investing/comments/rwx4u6/federal_reserve_minutes_released/) to raise interest rates on itself unless it needs to.
 - Cow prices have actually been [going down](https://mattstoller.substack.com/p/economists-to-cattle-ranchers-stop) while beef prices have been going up.

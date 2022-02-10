@@ -1,5 +1,6 @@
 ![Dilbert](http://i.imgur.com/CGJ67gv.gif)
 
+- [`rpm` is the package extension](https://linuxtut.com/en/1e0568120c545bf723c6/). The package manager is called `yum`. `yum install/remove/search` are all equivalent to `apt` versions.
 - Use `ip neigh` or `ip n` (for short) to find your friends / other devices on LAN.
 - gcc's [`-O3` is not guaranteed to be faster than `-O2`](https://wiki.gentoo.org/wiki/GCC_optimization#-O). Sometimes it might increase memory usage and make things slower.
 - [Kernel Samepage Merging](https://en.wikipedia.org/wiki/Kernel_same-page_merging) was originally added to help host systems run multiple copies of a guest OS (virtual machine) more efficiently.

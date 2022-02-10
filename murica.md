@@ -1,3 +1,5 @@
+- San Diego was named after [*Diego de Alcalá*](https://en.wikipedia.org/wiki/Didacus_of_Alcal%C3%A1), a Spanish missionary. In English, it may be called [Saint Jacob or Saint James](https://en.wikipedia.org/wiki/Diego), since [James came from Jacob](https://en.wikipedia.org/wiki/James_%28given_name%29).
+- During a [midterm election](https://en.wikipedia.org/wiki/United_States_midterm_election), the president is not changed, but the house and senate get shuffled, which means the president may end up having support from neither.
 - [New York is sinking](http://nymag.com/daily/intelligencer/2016/09/new-york-future-flooding-climate-change.html), so it is a bad idea to own property there [by 2050, around when you will have money for property].
 - Bill Clinton, George W Bush, and Donald Trump were all born in 1946.
 - [NEMA connectors](https://en.wikipedia.org/wiki/NEMA_connector#NEMA_5) actually have the ground hole up in the specs. Like UK plugs. But residential buildings have those beneath the live and neutral holes because people have gotten used to seeing them that way.

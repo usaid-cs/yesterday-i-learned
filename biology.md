@@ -1,3 +1,10 @@
+- Exercising benefits sleep, as long as it is not right before bed. 8pm or later is fine in [this study](https://www.sleepfoundation.org/physical-activity/exercise-and-sleep).
+- The average erect penis is filled with [130mL of blood](https://www.healthline.com/health/mens-health/how-much-blood-does-it-take-to-get-hard). A [2-kg rabbit](https://en.wikipedia.org/wiki/European_rabbit) has has 120mL of blood, at [60mL/kg](https://www.medschool.umaryland.edu/media/SOM/Offices-of-the-Dean/OAWA/docs/Blood-Collection/Blood-Collection-Guidelines_Rabbits_07.2019.pdf). Therefore, [an erect penis contains more blood than an entire rabbit](https://i.redd.it/qx9lhgh0dgg81.png).
+- "You would never sit at a dinner table waiting to get hungry. So why would you lie in bed waiting to get sleepy? And the answer is you shouldn't." - Matthew Walker
+- [Basal metabolic rate does not decrease significantly until age 60](https://www.science.org/doi/10.1126/science.abe5017). So if you're fat, it's because you ate too much.
+- Puncture wounds are more likely to transmit tetanus, due to the anaerobic environment that punctures create.
+- [Hens can become male](https://backyardpoultry.iamcountryside.com/feed-health/spontaneous-sex-reversal-is-that-my-hen-crowing/) if their oestrogen levels don't stay high. They can start producing sperm and fertilising other hen.
+- ["On Earth, life preferentially uses 12C over the heavier 13C, bioaccumulating it, so we observe significantly more 12C than 13C in ancient rocks where life grew."](https://news.ycombinator.com/item?id=30026324) This means that [an above-average proportion of 12C found in rocks (relative to samples nearby) is an indicator of life possibly having existed there](https://news.ycombinator.com/item?id=30023909).
 - Tampons are better than pads when you sleep, since [with a pad, blood will, uh, flow onto the ass crack](https://old.reddit.com/r/AskWomen/comments/s6xj7p/if_you_were_in_charge_of_designing_vagina_20_what/ht6bd3e/) and presumably congeal / solidify there.
 - [Swordfish can be huge](http://cdni.wired.co.uk/620x620/s_v/Swordfish.jpg), but that is not a swordfish. That's a [marlin](http://en.wikipedia.org/wiki/Marlin).
 - [Sodium raises blood pressure](https://www.youtube.com/watch?v=Ab9OZsDECZw) by increasing water retention, and thus volume. If the volume stays the same than pressure increases.
@@ -6,7 +13,7 @@
 - Artificial heart batteries don't last the whole day. A patient can have dozens of backups in case of travel or power failure, for example.
 - Cat ears fold back when it is about to attack.
 - Viral particles survive better in the cold because [lipids form a gel](https://www.nih.gov/news-events/nih-research-matters/flu-virus-fortified-colder-weather) when it's at or below freezing, which presumably helps keep the outside intact for longer.
-- Arthritis is sensitive to air pressure. Low atomospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
+- Arthritis is sensitive to air pressure. Low atmospheric air pressure means higher relative pressure within the joint space, making it stretch and ache.
 - The feeling of having kidney stones resembles having lower back pain. They can develop over the course of a single night of dehydration.
 - Rabbits have long tails... they just keep the tail tucked all the time.
 - Moths love cashmere. They eat protein and drink sweat. That's why you use mothballs.

@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- Classical Latin goes from [100 BC to 200 AD](https://www.youtube.com/watch?v=K7uBUCZgpw8), and it's the *good shit* if you want to imitate someone who lived during that time. In classical Latin, vowel lengths are critical to understanding what a word means.
 - *Flouting* [Grice's maxims in the cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle) would be intentionally violating one of the maxims of (quantity, quality, relation, manner) (i.e. depth, truth, relevance, and clarity) in order to convey a different meaning than what was said. For example, by saying [vegan tomatoes](https://www.youtube.com/watch?v=IJEaMtNN_dM), you violate the maxim of quantity, and used it to imply that other tomatoes aren't vegan. Or, if you say "my student regularly attends tutorials", you violate the maxim of relation, trying to hint at the student's poor lecture attendance record.
 - A rude sound made by sticking out the tongue and blowing is also called a [raspberry](https://www.oxfordlearnersdictionaries.com/definition/english/raspberry). See [also](http://www.flatlandcomics.ca/dailies/BlindOptimism.htm)
 - The french "LL" is pronounced "Y" only if it is preceded by an I.

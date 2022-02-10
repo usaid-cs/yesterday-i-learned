@@ -19,6 +19,7 @@
 - Prior to Java 7, it was impossible to [`switch/case` with a string condition](https://www.geeksforgeeks.org/string-in-switch-case-in-java/). Something about ["because it's slow"](https://stackoverflow.com/a/338230/1558430).
 - JavaFX is a UI library.
 - Despite Java's verbosity, [recommended line length is still under 80 characters](https://www.oracle.com/technetwork/java/javase/documentation/codeconventions-136091.html#313)... unless you read the Google style guide, which recommends 100.
+- Google's style guide also recommends [2-space indents](https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation). The main point is to make working with other teams easier, but if you work alone... be careful what you wish for.
 - The Java mascot is [Duke](https://www.oracle.com/java/duke.html). What kind of animal is Duke? No one knows. Why's it called Duke? [No one knows](https://jaxenter.com/duke-the-java-mascot-explained-118397.html).
 - Features new in Java 7: [anonymous interface implementation](http://tutorials.jenkov.com/java/lambda-expressions.html)
 - Features new in Java 8: [Lambdas](http://tutorials.jenkov.com/java/lambda-expressions.html) (replacing stateless anonymous interface implementation), `Method::references` (where `references` is a static method...), interfaces that can have code in them, and `Optional` (see above).
@@ -39,6 +40,7 @@
 - I have been told that [JSP and Servlets are old stuff](https://www.quora.com/Do-Java-Web-Application-developers-still-need-to-know-JSP-and-Servlets-in-2019). And yet... [go learn both in 2022](https://www.upgrad.com/blog/top-java-web-application-technologies/)?
 - `Scanner in = new Scanner` needs to be closed, apparently. Use try-with-resources to do it, which... is just [putting that line in a `try` with no `catch`](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html).
 - Did you know that Java*Script* is often faster than Java because they both use a VM?
+- "POJO" stands for [Plain Old Java Object](https://en.wikipedia.org/wiki/Plain_Old_Java_Object). What's *not* a POJO is a class that either extends a class, implements an interface, or is annotated. Beans are POJOs.
 
 ## Conventions
 
@@ -49,6 +51,7 @@
 - `//@formatter:off` and `//@formatter:on` control ranges between which Eclipse does not highlight your code. This had no effect on IDEA.
 - The first line in the docstring is extracted as the summary of the method. Now that's normally no problem, but they chose `. ` as the delimiter, so you can't have stuff like `Mr. Bean` in the summary unless you [hack it out](https://stackoverflow.com/a/18282355/1558430).
 - For docstrings, they want to start them with a third-person verb. Both Python and git want first-person verbs in imperative mood.
+- As a strong adherent to the SOLID principles, [even if you want an object to print itself out, there should be another object for that](https://www.baeldung.com/solid-principles). Example in page: `Book`, and `BookPrinter`.
 
 ## Types
 
@@ -57,30 +60,20 @@
 - `float`s (e.g. `3.2f`) and `double`s (e.g. 3.2) [should never be compared directly](http://stackoverflow.com/a/16627869/1558430).
 - ["Type inference"](https://softwareengineering.stackexchange.com/a/184183) in Java means `public <T> T foo(T t) { return t; }` returns whatever type you throw at it. It doesn't do more than that because Java devs really really like typing things out: ["...the redundant type serves as valuable documentation..."](https://bugs.java.com/bugdatabase/view_bug.do?bug_id=4459053)
 - Less draconian than Haskell: `new Integer`s can be added to `int`s and `float`s.
-- The default "nothing" constant is `null`. Now you can return `null` from any method that claims to return an object---which is *terrible*---but at least you can't return `null` in a method that claims to return a primitive, i.e. `int foo() { return null }` won't ever compile.
-- Need to check for `null` everywhere, because Java is a very safe language, obviously.
 - Apparently, empty character literals (`''`) are not allowed. It makes no sense anyhow. Empty string is `""`.
 - [Autoboxing](http://docs.oracle.com/javase/tutorial/java/data/autoboxing.html): something new since 1.5, automatically treating `1` and `new Integer(1)` as the same thing, instead of a primitive and a class, respectively. "Boxing" turns a primitive into an object. "Unboxing" turns an object back into a primitive.
 - It is impossible to write `(5).toString()`, because fuck you, and fuck literals. To get a `"5"`, you need `new Integer(5).toString()`, or `Integer.toString(5)`. Update: [there are actually a thousand ways to convert an int to a string](http://javadevnotes.com/java-integer-to-string-examples), but `.toString()` isn't one.
-- It is always possible to `return null` in any function, even if the return type is specified not to be null.
 - You can't `string.reverse()` to reverse a string, because it's Java. Instead, you need to use [`(new StringBuffer(string)).reverse().toString()`](https://www.geeksforgeeks.org/reverse-a-string-in-java/), because it's Java.
 - Accessing a string's characters? `s[i]`? No no no. [`s.charAt(i)`](https://www.techiedelight.com/iterate-over-characters-string-java/).
 - Accessing a string's characters, one by one? `for c in s`? No no no. There's `for (char c: s.toCharArray())`, where `toCharArray` copies your fucking string into a new array, or [looping through indexes like a pleb](https://stackoverflow.com/a/196975/1558430), i.e. `for ( ... s.length() ) { ... s.charAt(i) ... }`. Apparently doing this both nicely and quickly requires [*a third party library from Google*](https://guava.dev/releases/21.0/api/docs/com/google/common/collect/Lists.html#charactersOf-java.lang.CharSequence-): `for (Character c: Lists.charactersOf(s))`.
 - You can assign any number (e.g. `int a = 1`) to any type that has a larger range than it (e.g. `long b = a`) without casting.
 - ...However, you [cannot cast a `bool` to/from anything](https://stackoverflow.com/questions/3793650/convert-boolean-to-int-in-java), including an int.
 - You can put underscores in between number literals, e.g. `123_456_789`.
-- Java has an [`Optional` container type](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html) that lets you do your null checks with a different set of methods instead of `!= null`. Although [an `Optional` type can never return null](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8), you will still need to check if the thing you returned "is empty", i.e. whether the underlying value is null. [Could be mistaken though](https://dzone.com/articles/using-optional-correctly-is-not-optional).
-- Don't return an `Optional` if you can return an "empty" container instead. For example, if you are normally returning a list of something, an empty list is a perfectly valid return value.
-- `String foo = null` is [perfectly fine](https://www.youtube.com/watch?v=-r5cebGAIZc) in this language. You can even compile something like this and get no warnings, and then get `NullPointerException` when you run it. Perfection.
-- Null checks are typically replaced with [`Optional<Type> optionalVal = Optional.ofNullable(somethingThatCanBeNull); if(optionalVal.isPresent()) { optionalVal.get(); }`](https://www.toptal.com/java/top-10-most-common-java-development-mistakes). When used as such, it is only marginally better than the `== null` check for [not allowing `null` semantically](https://stackoverflow.com/a/28746693/1558430); ["the real power comes from being able to defer the error handling (no value) to a later time and chaining map/flatMap/filter etc. methods without if/else blocks."](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8#comment70270554_28746693)
 - You can't return `{0, 1, 2, 3}` and expect to return an array. No no no too simple. You need to [`return new int[] {0, 1, 2, 3}`](https://stackoverflow.com/a/9331864/1558430). Because `new` applies to primitives too. Or something.
 - You can't have "an array of Lists", i.e. `new List<E>[]`. Because it's not typesafe. That's just what the book says in item 28. I don't exactly get it.
-- [Use `Optional.of()` when you know the thing can't be `null`](https://stackoverflow.com/a/31696584/1558430), and `Optional.ofNullable()` when it can be `null`. Because of the nature of `Optional` (it helps you handle `null`), using a `Optional.of()` that raises `NullPointerException` is really just in terms of contract (i.e. you need to return an `Optional`, but quite often you know for sure that you should be returning something).
-- [`Objects.nonNull`](https://www.developer.com/java/java-7-feature-asserting-non-null-objects/) is an assertion-like call that throws `NullPointerException` wherever you want to make sure something is definitely not null at some point, i.e. `variable!!`, except less elegant.
 - There used to be a time where [calling `method(long foo)` with `method(0)` will throw an error](https://tech.jonathangardner.net/wiki/Why_Java_Sucks#Won.27t_cast_an_int_to_a_long) because it wants `0L`. Thankfully, this is no longer the case.
 - There is no difference between Long's notation, [`l` and `L`](http://stackoverflow.com/a/770017/1558430).
-- Strong references are your normal `ObjectClass object = new ObjectClass()`. [Weak references](https://weblogs.java.net/blog/2006/05/04/understanding-weak-references) are references that can be garbage-collected at their own pace, so can sometimes become null. Use WeakReferences by wrapping them:
-  `WeakReference<ObjectClass> = new WeakReference<ObjectClass>(object)`
+- Strong references are your normal `ObjectClass object = new ObjectClass()`. [Weak references](https://weblogs.java.net/blog/2006/05/04/understanding-weak-references) are references that can be garbage-collected at their own pace, so can sometimes become null. Use WeakReferences by wrapping them: `WeakReference<ObjectClass> = new WeakReference<ObjectClass>(object)`
 - `PhantomReference`s are a special type of `WeakReference`, which is always null.
 - [Making `List`s](http://stackoverflow.com/a/858590/1558430)
 - [`Void` is not `void`](http://stackoverflow.com/a/10839064), because, again, fuck you. `void` is the type, and `Void` is a thing that holds the type.
@@ -113,6 +106,39 @@
 - `<` unboxes a boxed primitive; `==` does not. This can ~~fuck~~trip you right up when you write a comparator (example from the book): `Comparator<Integer> naturalOrder = (i, j) -> (i < j) ? -1 : (i == j ? 0 : 1);`. `i == j` will never be true even if they have identical values.
 - If a null boxed primitive is unboxed, it will raise NPE even before any method is called on it.
 - If your `Stack` `.isEmpty()` and you do so much as to `.peek()` at it, you will get a `java.util.EmptyStackException`, even though `.pop()` exists, and it is completely reasonable for `.pop()` to throw something. So you see guards like `s.isEmpty() || s.pop()` everywhere.
+- There is [no way](https://stackoverflow.com/questions/2914695/how-can-you-write-a-function-that-accepts-multiple-types) to write a function that accepts multiple types, like `void foo(<A, B, C> bar)`. You also don't need to. You can overload the function that accepts one type each.
+- [`int[][] a` is a 2-dimensional array. `int[] a[]` is a 2-dimensional array. `int a[][]` is a 2-dimensional array.](https://blog.jooq.org/10-things-you-didnt-know-about-java/). You can even stick annotations anywhere in between.
+- You cannot compare booleans with integers (or null). You can't even `if (1)`. There is no java truth table because [nothing is convertible from/to boolean](https://stackoverflow.com/questions/24363080/can-i-convert-boolean-into-another-data-type-in-java) (and that's at least one thing Java got right relative to JS).
+- You can't remove anything from an array.
+- To make a shallow clone of a list, do `new ArrayList<>(aList)`. This is equivalent to `list(a_list)` in python. You can also try [`aList.clone()`](https://www.geeksforgeeks.org/arraylist-clone-method-in-java-with-examples/) if you have an ArrayList. There are [warnings about threads and thread safety](https://stackoverflow.com/questions/14319732/how-to-copy-a-java-util-list-into-another-java-util-list), so try not to fuck with concurrency.
+- `anotherList = aList.subList(0, aList.size())` produces a [view](https://stackoverflow.com/questions/3962766/how-to-get-a-reversed-list-view-on-a-list-in-java#comment76811001_3963075) of the original list, not a copy of the list. Consequently, if you do anything to `anotherList`, it will affect the contents of `alist`. If you `Collections.reverse()` a subset of the list, for example, then the original list will have that subset reversed, as well.
+- `aList.equals(anotherList)` really checks if the two lists are the same! Wow!
+
+### `null`
+
+- Need to check for `null` everywhere, because Java is a very safe language, obviously.
+- The default "nothing" constant is `null`. Now you can return `null` from any method that claims to return an object---which is *terrible*---but at least you can't return `null` in a method that claims to return a primitive, i.e. `int foo() { return null }` won't ever compile.
+- It is always possible to `return null` in any function, even if the return type is specified not to be null.
+- `String foo = null` is [perfectly fine](https://www.youtube.com/watch?v=-r5cebGAIZc) in this language. You can even compile something like this and get no warnings, and then get `NullPointerException` when you run it. Perfection.
+
+#### [`Optional`](https://dzone.com/articles/using-optional-correctly-is-not-optional)
+
+> [`Optional` is intended to provide a *limited* mechanism for library method return types, where there needed to be a clear way to represent "no result", and using null for such was overwhelmingly likely to cause errors.](https://dzone.com/articles/using-optional-correctly-is-not-optional) - [Stuart Marks](https://blog.jooq.org/the-java-ecosystems-obsession-with-nonnull-annotations/), quoting someone else
+
+- Null checks can be replaced with [`Optional<Type> optionalVal = Optional.ofNullable(somethingThatCanBeNull); if(optionalVal.isPresent()) { optionalVal.get(); }`](https://www.toptal.com/java/top-10-most-common-java-development-mistakes). When used as such, it is not any better than the `== null` check for [not allowing `null` semantically](https://stackoverflow.com/a/28746693/1558430); ["the real power comes from being able to defer the error handling (no value) to a later time and chaining map/flatMap/filter etc. methods without if/else blocks."](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8#comment70270554_28746693)
+- Java has an [`Optional` container type](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html) that lets you do your null checks with a different set of methods instead of `!= null`. Although [an `Optional` type can never return null](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8), you will still need to check if the thing you returned "is empty", i.e. whether the underlying value is null. [Could be mistaken though](https://dzone.com/articles/using-optional-correctly-is-not-optional).
+- Don't return an `Optional` if you can return an "empty" container instead. For example, if you are normally returning a list of something, an empty list is a perfectly valid return value.
+- Prefer null checks to `Optional` if all you do is create an Optional for the sole purpose of chaining methods on it: [item 12](https://dzone.com/articles/using-optional-correctly-is-not-optional). If your optional is created and destroyed in the same scope, think twice.
+- Prefer alternatives to `Optional.isPresent()` and `Optional.get()` if there are any. `anOptional.orElse(defaultValue)` is a good one (equivalent to `thingy || defaultValue` in JS).
+- `orElse(null)` is some stupid thing that lets you adapt your code to old code that allows nullable references.
+- `Optional.ifPresent(someLambda)` simply does nothing if the Optional is empty.
+- `Optional.steam()` retains anything that is present. `.flatMap(Optional::stream)` is equivalent to `.filter(Optional::isPresent).map(Optional::get)`.
+- You can [`Optional.map(aFunction).oeElse(defaultValue)`](https://dzone.com/articles/using-optional-correctly-is-not-optional) to apply a function to an `Optional` if it's present, or return a default value if it's not. The map happens after the Optional checks itself for presence.
+- The `.get()` in `Optional.get()` is one of the few places in Java where a `.get()` throws an exception. Brian Goetz expresses deep remorse for having designed it that way.
+- Don't use Optionals in function parameters. Callers should never need to pass you an Optional (e.g. `myMethod(Optional.of("some value"))`).
+- [Use `Optional.of()` when you know the thing can't be `null`](https://stackoverflow.com/a/31696584/1558430), and `Optional.ofNullable()` when it can be `null`. Because of the nature of `Optional` (it helps you handle `null`), using a `Optional.of()` that raises `NullPointerException` is really just in terms of contract (i.e. you need to return an `Optional`, but quite often you know for sure that you should be returning something).
+- [`Objects.nonNull`](https://www.developer.com/java/java-7-feature-asserting-non-null-objects/) is an assertion-like call that throws `NullPointerException` wherever you want to make sure something is definitely not null at some point, i.e. `variable!!`, except less elegant.
+- This whole "null " thing happens to allow you to write linked list iteration without worrying if `node.next` is a node (because it may be null).
 
 ## Generics
 
@@ -127,10 +153,11 @@
 - You cannot write two methods with generic parameters (e.g. `List<Integer>`, and `List<Long>`) that [boil down to the same thing](https://tech.jonathangardner.net/wiki/Why_Java_Sucks#name_clash:_X_and_Y_have_the_same_erasure), because they are essentially the same method after type erasure, and your code won't know which to call.
 - When instantiating a typed Map (`Map<String String> foo = new HashMap<String, String>();`), the second `String, String` can be omitted because it is obvious (diamond operator). Then again, most things are obvious in Java, but they cannot be omitted.
 - The [diamond operator](https://stackoverflow.com/questions/4166966/what-is-the-point-of-the-diamond-operator-in-java) (`<>`) allows you to omit the type of a concrete instance when you have already declared the type of the variable. The compiler then infers one type from the other. Somewhat related: if you don't have the `<>`, then you get an "unchecked conversion warning" (right hand side is a raw type).
-- Parameterise your type declarations whenever possible. `List ofNumbers` allows you to `add` anything into the list, while `List<Integer> ofNumbers` will break compilation when you add any non-integer to it.
+- Parameterise your type declarations whenever possible. `List ofNumbers` (bad) allows you to `add` anything into the list, while `List<Integer> ofNumbers` (good) will break compilation when you add any non-integer to it.
 - In between `public` and `void`, you can specify [bounded parameters](https://docs.oracle.com/javase/tutorial/java/generics/bounded.html) that specifies ... superclasses of that type that can be passed in, I guess. Today I have not learned.
 - `@SuppressWarnings("unchecked")` in the code means that you confirm [the generic method/function is doing legal things](http://stackoverflow.com/a/1129812/1558430).
 - You can't make an `Optional<T>` of a primitive, because a primitive is not a `T`. There are however classes like [`OptionalInt`](https://www.dariawan.com/tutorials/java/optionaldouble-optionalint-and-optionallong/), which allow you to use streams with primitives, for example.
+- Ever noticed how `Optional<T>` is `Optional < T >`? Pretty sure multiple comparisons aren't coming to Java.
 
 ## Classes, Interfaces, and things to that effect
 
@@ -151,14 +178,15 @@
 - Subclasses are possible, of course, but [`this` and `super` must be called as the constructor's first statement](http://stackoverflow.com/questions/1168345/why-does-this-and-super-have-to-be-the-first-statement-in-a-constructor)
 - Subclassing syntax: `public SubClass extends SuperClass`
 - [Static inner classes are exactly like external classes except that they have access to all members of the outer class, regardless of access qualifier](http://stackoverflow.com/a/4848071/1558430).
-- `static {}` in a class [acts as the class constructor](http://stackoverflow.com/questions/2943556/static-block-in-java). It is "a good place to put initialization of static variables."
+- `static {}` in a class [acts as the class constructor](http://stackoverflow.com/questions/2943556/static-block-in-java). This is called once when the class is loaded in memory, i.e. making two instances will not run static blocks twice. [A static block can only reference static variables](https://beginnersbook.com/2013/04/java-static-class-block-methods-variables/); it is a good place to initialise them.
 - ... in contrast, a `{}` block without the `static` keyword is an instance initializer.
+- ... in further contrast, variable declarations in the class, but outside any method, are called [declaration statements](https://stackoverflow.com/a/12062963/1558430).
 - [Interfaces](http://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html): `implements YourInterface1, YourInterface2, ...`
 - [Access modifiers](http://docs.oracle.com/javase/tutorial/java/javaOO/variables.html): `public`, `private`, [and more](http://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 - "You don't have to provide any constructors for your class, but you must be careful when doing this. **The compiler automatically provides a no-argument, default constructor for any class without constructors.**"
 - The `this` keyword always means the current object, even if the current method is not visibly bound to anything. This is like Python's `self`, except `self` is not specified.
 - [`this`](http://docs.oracle.com/javase/tutorial/java/javaOO/thiskey.html) is used to remove ambiguity when the scope has a variable that has the same name as its outer class attribute.
-- [Outer classes can only be declared public or package private.](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html) That is to say, it is either seen, or not seen, by other packages.
+- [Outer classes can only be declared public or package private.](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html) That is to say, it is either seen, or not seen, by other packages. Package-private is the default access modifier; there is no need to do anything.
 - [Static vs non-static inner classes](http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html): non-static inner classes have access to other outer class members.
 - Instantiating an inner class: `OuterClass.InnerClass innerObject = outerObject.new InnerClass();`, noting that the `new` keyword goes _after_ the outer class name.
 - The [`@Override`](http://stackoverflow.com/a/94447/1558430) denotes "I override a parent method"; whether or not it does anything is up to the compiler.
@@ -178,7 +206,7 @@
 - Without `this.`, `foo` can either refer to the instance variable `foo`, or the static variable `foo`.
 - Rather than assigning `self = this` or something like that, the outer class can be referenced with [`OuterClass.this`](http://stackoverflow.com/questions/2808501/calling-outer-class-function-from-inner-class) instead.
 - It is apparently okay to have a type starting with an `@`, such as [`@Interface`](http://stackoverflow.com/questions/918393). `public @interface Foo { ... }` allows you to use the annotation `@Foo` in other files.
-- There's an ["effectively final"](https://stackoverflow.com/questions/20938095/difference-between-final-and-effectively-final) state: A variable or parameter whose value is never changed after it is initialized is effectively final. References to objects are also effectively final, even if the objects themselves change. Effectively final variables do not give compiler errors if they were really declared with `final`.
+- There's an ["effectively final"](https://stackoverflow.com/questions/20938095/difference-between-final-and-effectively-final) state: A variable or parameter whose value is never changed after it is initialized is effectively final, i.e. [a variable that is assigned to only once](https://www.baeldung.com/java-8-lambda-expressions-tips#variables). References to objects are also effectively final, even if the objects themselves change. Effectively final variables do not give compiler errors if they were really declared with `final`.
 - [Defender methods](https://www.tutorialspoint.com/what-are-defender-methods-or-virtual-methods-in-java) and default methods (in an interface) are the same thing.
 - ["Good news: private methods in interfaces look like they will make Java 9."](https://stackoverflow.com/questions/27368432/why-does-java-8-not-allow-non-public-default-methods#comment45484226_27369217) - Brian Goetz, one of the guys who's in charge of it in the first place. Anyway, with this small addition, it finally makes sense to build classes with mixins, rather than inheritance (see point about multiple inheritance).
 - Refer to objects (`I<> foo = new C<>()`) by their interfaces ("what they do"), not the class ("what they are"). It's ok if you can't find a good interface to do it with; base class is fine too. In general, limit the method scope if possible.
@@ -189,7 +217,7 @@
 - Example `varargs`: `public int foo(int ... params) { }`
 - In a particular case where `varargs` is declared with type `Object`: `public int foo(Object ... params) { }`, `foo` accepts anything.
 - A lambda cannot be serialized, and (for a different reason) really shouldn't exceed three lines.
-- Don't write your own lambda if there's already a built-in method for it, e.g. `Integer::parseInt` (static), `Instant.now()::isAfter` (bound), `String::toLowerCase` (unbound), `TreeMap<K, V>::new` (class constructor), `int[]::new` (array constructor). Note that all of these methods use the same syntax `::` for referencing.
+- [Don't write your own lambda if there's already a built-in method for it](https://twitter.com/stuartmarks/status/1151589003721756672), e.g. `Integer::parseInt` (static), `Instant.now()::isAfter` (bound), `String::toLowerCase` (unbound), `TreeMap<K, V>::new` (class constructor), `int[]::new` (array constructor). Note that all of these methods use the same syntax `::` for referencing.
 - If the element type of the `varargs` array is not reifiable, you get [a warning](https://stackoverflow.com/questions/28914088/java-warning-varargs-method-could-cause-heap-pollution-from-non-reifiable-varar). If you know for sure that you are doing it right (the `varargs` array is not modified in any way, and if the the reference to the array is not leaked), then use `@SafeVarargs` to shut it up.
 - Convenience is often not worth it. When in doubt, leave (convenience methods) out.
 - Methods should accept no more than four parameters each.
@@ -197,6 +225,7 @@
 - [Type inference is bad](https://news.ycombinator.com/item?id=20296123), but fucking [lambdas with inferred types](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) are not? Fuck off.
 - [Anonymous classes implement interfaces](https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html#declaring-anonymous-classes).
 - Writing a method that accepts an object (e.g. `int foo(Integer bar)`) *implies that you accept null* in its place. Null can come and go, so [mark things with `@NonNull`](https://www.baeldung.com/java-avoid-null-check) whenever you don't check (so the IDE tells you where it could be null), and `@Nullable` when you aren't sure if it could be null / are sure that you handle null.
+- Counterpoint: [`@NonNull` is just noise and should be avoided in your own codebase](https://blog.jooq.org/the-java-ecosystems-obsession-with-nonnull-annotations/): "let go of your null fear. null is not a problem in well-designed software."
 - There are no optional parameters. There are no keyword parameters. There is barely varargs, and even that got fucked up by implementation detail.
 - Functions are not first-class: "The Java programming language doesn't let you pass methods into methods. But you can pass an object into a method and then invoke the object's methods."
 - A function that accepts `foo(int[] bar)` really accepts an array of ints, which is created using `new int[n]`.
@@ -205,6 +234,7 @@
 - A class method that returns an instance of itself is used for chaining. Not memory-efficient; just chaining.
 - A method `public void foo(String...bar)` means that [it accepts an arbitrary number of arguments of type `String`](http://stackoverflow.com/a/3158767/1558430). If used in conjunction with other parameters, this must be placed last.
 - A method name is too long if it's 65536 characters or longer.
+- A lambda does not compile if it tries to access a non-final variable... but it will still work if it is "effectively final" (i.e. not modified, see above). Something about thread safety.
 
 ## Exceptions
 
@@ -234,10 +264,11 @@
 
 ## Annotations and reflection
 
-- Annotations can be put in function arguments, like `public void foo(@NonNull int[] bar)`. In this case, `NonNull` is from `android.support.annotation`, but [there are *a lot* of `NonNull` and `NotNull` classes out there](https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use).
+- Annotations can be put in function arguments, like `public void foo(@NonNull int[] bar)`. In this case, `NonNull` is from `android.support.annotation`, but [there are *a lot* of `NonNull` and `NotNull` classes out there](https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use), and [the checker framework checks them all](https://checkerframework.org/manual/#nullness-related-work).
 - "Reflection" from Java's point of view is just [the ability to inspect and dynamically call classes, methods, attributes, etc. at runtime.](https://stackoverflow.com/a/37638/1558430) Simple things like calling a method by name counts as reflection.
 - `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
 - Reflections are cool, but you lose type checking. They are also [slow](https://stackoverflow.com/questions/42425906/is-java-reflection-bad-practice).
+- The [`@FunctionalInterface` annotation](https://www.baeldung.com/java-8-lambda-expressions-tips) tells the compiler to fail if you try to add more than one method to a [functional interface](https://www.baeldung.com/java-8-functional-interfaces#Functional). A functional interface is an interface that contains a single abstract method.
 
 ## Streams, threads, and parallel programming
 
@@ -273,6 +304,7 @@
 - So, one day, Java 12 overhears other programming languages talking about ["arrow functions"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) and ["yield keyword"](https://realpython.com/introduction-to-python-generators/), and being the [enterprising](https://en.wikipedia.org/wiki/Jakarta_EE) language that it is, it goes and creates its own arrows and yields. [Switch expressions: we have those features at home](https://howtodoinjava.com/java14/switch-expressions/).
 - You can't return multiple values, so you just make a brand new class that has the fields you want, and then return that.
 - `array.contains(item)`? No! Too easy. You need to choose between [`Arrays.asList(array).contains(item)`, `Arrays.stream(array).anyMatch(item::equals)`, `IntStream.of(array).anyMatch(x -> x == item)`, and `Set.of(array).contains(item)`](https://stackoverflow.com/a/1128728/1558430), depending on what type of array it is, and [whether your thing is hashable](https://stackoverflow.com/a/1128899/1558430).
+- There is no [tail call optimisation](https://stackoverflow.com/questions/20826786/does-java-support-and-optimize-away-tail-recursive-calls). A solution proposed by JOOQ is [avoid recursion](https://blog.jooq.org/top-10-easy-performance-optimisations-in-java/).
 
 ## Testing, mocking, and stuff
 
@@ -286,6 +318,7 @@
 ## Packages, imports, and ecosystem
 
 - `from a import b as c` [is impossible](http://stackoverflow.com/q/2447880/1558430). Classes must be imported with their own names.
+- There is no such thing as a [nested package](https://stackoverflow.com/questions/26509219/nested-packages-in-java), but there is such a thing as a subpackage (`foo.bar`). The package name can also be [anything you like, regardless of where you place the file itself](https://stackoverflow.com/a/8395934/1558430), so you can throw files wherever you like :) (and get fired)
 - If maven is used, `pom.xml` decides what is compiled along as dependencies.
 - `sourceCompatibility` is which version of Java you wrote your code in. `targetCompatibility` is the VM version that your app should run in. For some reason, you can set your source code's Java version to be different from the version of bytecode that it generates, to be different from the JDK compiling it. For example [here](https://stackoverflow.com/a/22326989/1558430), you can write Java 1.5 code, compile with JDK 1.6, but it won't run in a Java 1.5 VM. Make sure your source version and JDK versions match at least.
 - Spring is a dependency injection framework.
@@ -314,3 +347,4 @@
 - `Integer.getInteger(string nm)` gets you the integer value of the system property `nm`... not parsing `nm`. Use [`Integer.parseInt`](https://stackoverflow.com/a/4397363/1558430) instead.
 - HTML is allowed in javadoc because someone decided it would be a good idea to allow raw tags in there, so maybe it will look better when the doc is generated.
 - Liquibase is used to run migrations, [so you can avoid writing raw SQL](https://reflectoring.io/database-migration-spring-boot-liquibase/). You declare these potentially in YAML format, so I don't know how data migrations work, and the internet is not sure if Liquibase is the tool for data migrations at all.
+- [`a += b` is not the same as `a = a + b`](https://stackoverflow.com/questions/8710619/why-dont-javas-compound-assignment-operators-require-casting/8710747#8710747), because fucking Java loves leaking implementation detail. `a += b` is the same as `a = (typeof a) (a + b)`, where `(a + b)` will be recast. `a = a + b`, on the other hand, clearly does not do typecasting (and thus gives you "Incompatible type exceptions").

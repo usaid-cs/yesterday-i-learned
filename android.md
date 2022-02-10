@@ -148,3 +148,4 @@
 - Use `dumpsys deviceidle whitelist` to see what apps are in the doze whitelist, and `dumpsys deviceidle whitelist -com.package.name` to remove it. Empirically, it doesn't do anything for system apps.
 - Connect to multiple devices over adb Wi-Fi by running `adb -d tcpip (a different port number every time)`. The `-d` selects a currently-connected USB device; you can also try `adb -s (device id) tcpip (a different port number every time)`.
 - Try to use ["Suspend execution for cached apps" (`adb shell device_config put activity_manager_native_boot use_freezer true && adb reboot`)](https://source.android.com/devices/tech/perf/cached-apps-freezer). Or maybe it doesn't work, as usual.
+- You can't disable `com.samsung.android.app.appsedge`. It handles split screen.

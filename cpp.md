@@ -77,3 +77,4 @@ struct B : A { };  // Has all A's fields
 - In a move that could possibly backfire, the C++20 lambda syntax [uses square brackets](https://www.bfilipek.com/2020/08/lambda-syntax.html), like `[](auto x, auto y) { /*...*/ };`.
 - A `struct`'s members are public by default. A `class`'s members are private by default.
 - [`and`](https://stackoverflow.com/questions/44381428/and-keyword-in-c) is the exact same as `&&`.
+- [`const`](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/) is used when you want to pass in an expensive variable by reference (instead of by value, which makes copies; this happens a lot with strings), but you want to ensure the variable is not modified once passed in. Function parameters that do such a thing should be marked with `const`.

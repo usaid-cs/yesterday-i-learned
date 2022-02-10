@@ -1,3 +1,4 @@
+- Italy shares a border with Slovenia.
 - The RB in [RB Leipzig](https://en.wikipedia.org/wiki/RB_Leipzig) the Fußballverein is _Rasenballsport_, lit. "lawn ball sport", is a clever attempt to bypass the [DFB](https://en.wikipedia.org/wiki/German_Football_Association)'s licensing limitation that the company name "Red Bull" cannot be part of the team name.
 - The [Turkish Lira inflation crisis](https://en.wikipedia.org/wiki/Turkish_lira#2018-present_currency_crisis) is... [deliberate](https://www.theguardian.com/world/2021/nov/24/erdogan-gambles-on-economy-amid-protests-and-rocketing-inflation)?
 - France was part of the [Vienna Convention on Road Signs and Signals](https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Signs_and_Signals), where stop signs said STOP. Quebec, on the other hand, did not get the memo, so their stop signs say ["ARRÊT"](https://en.wikipedia.org/wiki/Road_signs_in_Canada).

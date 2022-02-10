@@ -1,11 +1,14 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- 内卷 is the exact same concept as "rat race".
+- [Eunuchs have *the whole package* cut off](https://cavemancircus.com/2020/04/15/how-does-a-eunuch-urinate/). Many of them die after surgery due to infection. In Africa, "10% of these boys (who undergo similar operations) survived the procedure"; from another source, ["The mortality was said to be high, only about one in three surviving."](https://academic.oup.com/jcem/article/84/12/4324/2864451)
+- In the Chinese version of Fight Club, [the buildings never exploded](https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html). They brought Brad Pitt's character to an asylum and he was later discharged. Brad Pitt's character was imaginary.
 - Wuhan was merged from three smaller cities: **Wu**chang, Hanyang, and **Han**kou.
 - 诸葛亮 isn't actually known for fighting. He was a smart guy in charge of strategy. He got sick and died at age 53/54.
 - You know you are 60 years old when you [can listen to criticism without reacting poorly to it](https://baike.baidu.com/item/%E8%80%B3%E9%A1%BA/395538). Or maybe you can only gain that power when you reach 60. We will never know.
 - [Macau](https://en.wikipedia.org/wiki/Macau#Twin_towns_and_sister_cities), an SAR, has sister cities. Hong Kong, also an SAR, [does not](https://www.skyscrapercity.com/threads/why-isnt-hk-in-the-sister-cities-program.523464/). Hong Kong is more in line with Singapore, a city-state (albeit sovereign) that also does not have a sister city.
 - The founder of Lee Kum Kee died at age 32, long before the brand became a world sensation.
-- Kunming was the Republic of China's [national redoubt](https://en.wikipedia.org/wiki/National_redoubt) until the gerrison there switch sides to the CCP, which caused Taiwan to become the last (and current) redoubt.
+- Kunming was the Republic of China's [national redoubt](https://en.wikipedia.org/wiki/National_redoubt) until the garrison there switch sides to the CCP, which caused Taiwan to become the last (and current) redoubt.
 - You can use the word 殁 (mo4) in place of 死 wherever the word is used as a verb, like [病殁](https://baike.baidu.com/item/%E7%97%85%E6%AE%81).
 - [The top four banks are Chinese](https://en.wikipedia.org/wiki/List_of_largest_banks).
 - 水浸眼眉自然浮. This is a fake quote to mirror [船到橋頭自然直](https://zh.m.wiktionary.org/zh-hans/%E8%BB%8A%E5%88%B0%E5%B1%B1%E5%89%8D%E5%BF%85%E6%9C%89%E8%B7%AF%EF%BC%8C%E8%88%B9%E5%88%B0%E6%A9%8B%E9%A0%AD%E8%87%AA%E7%84%B6%E7%9B%B4).

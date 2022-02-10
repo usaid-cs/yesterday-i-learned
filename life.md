@@ -39,6 +39,7 @@
 - Whenever you feel you should keep quiet to avoid confrontation, remember this was what the Republic of China said to its troops when Japan started its invasion: "須萬分容忍，不與抵抗，以免事態擴大" (need to tolerate everything they do, do not resist, lest we make the situation worse).
 - Always begin a conversation with ["Can we talk?"](https://www.reddit.com/comments/4jymdh).
 - Basically [everything is sexual harassment](https://www.economist.com/blogs/graphicdetail/2017/11/daily-chart-14) if you aren't attractive.
+- Being nice doesn't mean people like you back... especially if you are being nice, just so others will like you.
 
 ## ...But you alone are responsible for your life
 
@@ -100,6 +101,7 @@
 
 > "Only women, children, and dogs are loved unconditionally. A man is only loved under the condition that he provides something." - [Chris Rock](https://www.youtube.com/watch?v=aLRl14axhAM)
 
+- [**Be the partner you want to have.**](https://old.reddit.com/r/LifeProTips/comments/s6vc6b/lpt_those_single_and_open_to_a_relationship_stop/)
 - "First dates should always be at a coffee shop, ice cream place, that sorta thing. Something quick where there's talking and not a lot of money involved. If you hate them just finish your coffee, say you had a good time, and leave, like my dad did." - /u/Mhopkins892
 - "When a person cheats they are directly attacking the foundation of their family unit." - ameminator
 - Sooner or later you realise they only ever had scraps to give. You can either accept that or look elsewhere for food.
@@ -156,6 +158,9 @@
 - Turn on subtitles so the kids can learn to read.
 - Despite general legal sentiment that fathers are terrible parents, [wives do not have legal right to taking children away](https://www.lawyers.com/ask-a-lawyer/family-law/what-can-i-do-if-my-wife-takes-my-kids-away-from-me-during-our-separation-1616554.html), and [dads need to react to it ASAP](https://www.familylawrights.net/blog/can-my-wife-take-my-kids-away-from-me/).
 - A girl can become a woman [in a week](https://old.reddit.com/r/Parenting/comments/igz6gv/guys_its_happened_again/), when she has her first period ever. Not because she can reproduce now, but because the worries begin.
+- 'If you suffered in life and want other people to suffer as you did because "you turned out fine," you did not in fact turn out fine.' - [Daniel Shipwreck](https://twitter.com/daniel_swensen/status/1197903566448386048)
+- It is your mother's job to [stay home and sleep all day](https://old.reddit.com/r/insaneparents/comments/s5bzj2/my_illustrious_egg_donor_a_few_months_ago_after/hswle66/). That's why she doesn't need to get another job.
+- You may need to remind your parents that your responsibilities for each other are [not](https://old.reddit.com/r/insaneparents/comments/mu1fhx/this_was_right_after_i_moved_out_the_reason_i/gv3soey/) symmetrical / reciprocal. You can [set boundaries](https://positivepsychology.com/great-self-care-setting-healthy-boundaries/) and tell them to live their own lives.
 
 ## Know what you want / to do at work
 
@@ -353,3 +358,4 @@
 - Do not donate your (dead) body for research, even if it means [no cost for burial](https://www.crossroadshospice.com/hospice-palliative-care-blog/2017/october/18/body-donation-after-death-what-you-need-to-know/). [Your body can be sold to someone else](https://www.dailymail.co.uk/news/article-7303455/Man-donated-moms-body-dementia-research-learns-strapped-chair-blown-up.html), and your estate won't even be paid. [Your body could be sewn together with someone else's](https://www.nbcnews.com/news/us-news/dismembered-body-parts-sewn-together-frankenstein-donation-center-fbi-found-n1035131). As long as you exist, no one can guarantee you the respect you deserve.
 - Doctors merely delay the inevitable.
 - "None of us are getting out of here alive, so please stop treating yourself like an after thought. Eat the delicious food. Walk in the sunshine. Jump in the ocean. Say the truth that you're (carrying) in your heart like hidden treasure. Be silly. Be Kind. Be weird. There is no time for anything else." - [/u/hotsauceinmyeye's mother](https://www.reddit.com/r/GetMotivated/comments/6aq640/image_we_buried_mum_today_we_found_this_in_one_of/)
+- Wherever you go, no matter how impoverished, there are locals living there, not because they love the place (which is possible), but because they cannot leave / sustain an income elsewhere. Who doesn't want to live in Havana, in Lisbon, New York, Santiago? Loving a place is overrated---especially if there is no one there to love you back. If you have upward mobility, *do* move to a better place.
