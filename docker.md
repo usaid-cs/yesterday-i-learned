@@ -51,3 +51,4 @@
 
 - [While `Dockerfile`](https://stackoverflow.com/questions/29480099/docker-compose-vs-dockerfile-which-is-better) helps you _build_ an image, docker [compose](https://docs.docker.com/glossary/?term=Compose) helps you run applications that use multiple containers.
 - If you don't know how to use docker compose, you can actually find [official cheat sheets](https://docs.docker.com/samples/django/) that gets you started.
+- `docker-compose run --rm ...` [removes the container after it is done running](https://docs.docker.com/compose/reference/run/). This is probably what you want if you are developing something.

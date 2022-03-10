@@ -1,3 +1,4 @@
+- []
 - Did you realise the difference between `||` and `or`, which both exist?
   - `$a = false || true === $a = (false || true) === $a = true`
   - `$a = false or true === ($a = false) or true === $a = false` (easier to understand if you think about `or die()`)
@@ -27,7 +28,7 @@
 - `file_get_contents` is faster than `file`
 - For code unlikely to throw exceptions, it's faster to use exception trapping.
 - For code likely to throw exceptions, it's faster to check your values rather than raising exceptions.
-- `=== null` is 2x faster than `is_null`
+- `=== null` is 2x faster than `is_null` up to php 7. Then it becomes faster to call `is_null` again. Anyway, [the two are identical](https://stackoverflow.com/a/8229005/1558430).
 - `+` is 2x faster than `array_merge`
 - `if` is faster than shorthand
 - nested if is logically faster than `&&`
@@ -71,3 +72,4 @@
 - Nullable types are denoted with `?type` (like `?string`) instead of the usual `type?`.
 - ["Sometimes it is convenient to be able to have variable variable names."](https://www.php.net/manual/en/language.variables.variable.php) Therefore, it exists as a core feature.
 - PHP 8.1 adds [allowing `new Something` in `__construct`](https://wiki.php.net/rfc/new_in_initializers), even when the two classes are completely unrelated. Not sure why it is an edge case.
+- A nullable type is specified as e.g. `?int`, but the PHPDoc version of that is `int|null`. Go figure.

@@ -24,7 +24,9 @@
     const response = await fetch(fullUrl);
     const resp = await response.text();
     let tils = resp.split("\n");
-    tils = tils.map(line => `**${fileName}** ${line}`);
+    tils = tils
+      .filter(line => line.match(/^[\*-]/))
+      .map(line => `**${fileName}** ${line}`);
     return tils;
   }
 

@@ -1,5 +1,6 @@
 ![China](https://i.imgur.com/eBrhm2h.jpg)
 
+- 三观不合 means you will never be compatible with somone who doesn't have the same world view, values, or attitude towards life. 古人称之为「道不同，不相为谋」，用现在的话来说，叫做「三观不合，不相为友」。 三观就是世界观、价值观、人生观，这「三观」不合的人是不太可能做朋友的，勉强不来的。
 - 内卷 is the exact same concept as "rat race".
 - [Eunuchs have *the whole package* cut off](https://cavemancircus.com/2020/04/15/how-does-a-eunuch-urinate/). Many of them die after surgery due to infection. In Africa, "10% of these boys (who undergo similar operations) survived the procedure"; from another source, ["The mortality was said to be high, only about one in three surviving."](https://academic.oup.com/jcem/article/84/12/4324/2864451)
 - In the Chinese version of Fight Club, [the buildings never exploded](https://www.nytimes.com/2022/01/27/world/asia/china-fight-club-ending.html). They brought Brad Pitt's character to an asylum and he was later discharged. Brad Pitt's character was imaginary.

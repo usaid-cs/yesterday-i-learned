@@ -1,3 +1,4 @@
+- "You were blinded by what's right in front of you" isn't a real quote: *of course* you are blinded by what's right in front of you. Unless it is transparent. Which makes the quote even less relevant.
 - Ash is perpetually 10 years old. James is [15, 18, 22, or 25](https://bulbapedia.bulbagarden.net/wiki/Talk:Jessie#Age_is_25.3F).
 - Hockey tape: "sticks to sticks"
 - The nosebleed section is called that because the altitude makes your nose bleed. Or maybe it's the cold at the altitude. Maybe a bit of both.

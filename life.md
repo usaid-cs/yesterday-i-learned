@@ -256,6 +256,8 @@
 - When sending resumes through Gmail, [Google will analyse it and potentially spam filter it](https://medium.com/swlh/why-you-should-never-send-your-cv-via-gmail-b4fddd35fb3e). Better send with a simple password, or, better, not use Gmail.
 - [Software developers are just tech mercenaries](https://news.ycombinator.com/item?id=29933218). They have been trained to work with no loyalty.
 - [Books can't tell you what to do](https://rchaves.app/pragmatic-pragmatic-programmer/); they can only give you suggestions. ["Using your best judgment"](https://news.ycombinator.com/item?id=29800878) is what you should actually learn, and increasing accuracy when making good decisions separates you from junior developers.
+- "Everything you do in your free time can help your career, so never stop learning and playing around with new technology." - Some guy on Reddit
+- In bottom-up organisations, *you* need to think what you should do to help advance the company. Hardly anyone will tell you what to do, particularly if you are considered senior in any way. To find out what you should do, [ask your manager what their deliverables are](https://www.reddit.com/r/cscareerquestions/comments/t6mrrj/-/hzcejcf); these are the things you need to help achieve. Set your own timelines. Mark your own progress.
 
 ## Welcome criticism
 

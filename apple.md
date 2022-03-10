@@ -1,3 +1,9 @@
+- To see which executable is listening to a specific port: [`sudo lsof -i -P | grep LISTEN | grep :$PORT`](https://stackoverflow.com/a/4421674/1558430)
+- PgUp / PgDn doesn't move your caret, for some reason. You need Option + PgUp/PgDn for that.
+- Macbook keyboards don't have: home, end, page up, page down, and sometimes not even physical F-keys. If you think Cmd+up/down/left/right are good enough, I am so sorry.
+- `/usr/local/bin` is often a writable directory on a mac because [homebrew modifies that during setup](https://apple.stackexchange.com/questions/192227/how-to-make-files-in-usr-local-writable-for-homebrew).
+- To delete words in Mac's version of bash, you need to [enable "Use option key as meta key" in one of the terminal profiles](https://stackoverflow.com/a/327676/1558430) before it lets you.
+- Want to turn off your macbook's display and use just your external monitors? [Can't](https://apple.stackexchange.com/questions/269853/turn-off-the-macbook-main-display-while-working-with-monitor). You need to close the lid and lose access to the power button.
 - ["Unlike most UNIX-based operating systems, OS X does not use a preallocated disk partition for the backing store. Instead, it uses all of the available space on the machine’s boot partition."](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html) [You run out of swap space when your disk is full](https://discussions.apple.com/thread/7417584?answerId=7417584021#7417584021).
 - [Windows is designed by people who use macOS](https://news.ycombinator.com/item?id=30055568).
 - [DON'T. BUY. AN APPLE PRODUCT. IF YOU NEED IT FIXED.](https://old.reddit.com/r/apple/comments/s1s5ij/the_macbook_air_has_blown_me_away/hsaowa2/)

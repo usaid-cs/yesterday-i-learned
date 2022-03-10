@@ -67,3 +67,7 @@ You can use your nodes to run any pod, including unrelated ones. Use [services](
 
 * Get services: `kubectl get services`
 * "Start a service": [`kubectl expose deployment/kubernetes-bootcamp --type="NodePort" --port 8080`](https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-interactive/) or `kubectl expose deployment kubernetes-bootcamp --type="NodePort" --port 8080`... for some reason that slash does nothing special.
+
+### `k8s.yaml`
+
+* `&` starts an anchor, and `*` starts an alias. For example, [`&flag Apple` creates an anchor named `flag`](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd), and `*flag` is an alias that reuses the value `Apple`. At the end of the day, both of those fields are `Apple`; you get to reuse the same value in different places.

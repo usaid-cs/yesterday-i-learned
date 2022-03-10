@@ -11,9 +11,11 @@
 
 ## Dependency Injection and the Spring Context
 
+* In Spring's context, inversion of control means you get the thing you want, directly, without worrying about its dependencies, because they will be injected for you. "This is the beauty of IoC and DI. Components are only responsible for their own dependencies. They don't need to know any instantiation details. This avoids refactoring when dependencies change. It also avoids creating leaky abstractions while creating a very pleasant separation of concerns." - Internal quote
 * [`@Autowired private FooFormatter fooFormatter;`](https://www.baeldung.com/spring-autowire) means a copy of `FooFormatter` (a registered component) is created for you, for your class to use. Arguments? Not sure. The `"fooFormatter"` in `@Component("fooFormatter")` is actually a qualifier; if you have multiple classes that implement the autowired interface (`FooFormatter`), you can use the qualifier (i.e. `@Qualifier("fooFormatter")`) to specify which one to inject.
 * ["Constructor injection (...) is actually recommended over field injection"](https://stackoverflow.com/a/40620318/1558430): [An `@Inject` annotation over a constructor ensures you cannot create a class in a way that bypasses injection](https://odrotbohm.de/2013/11/why-field-injection-is-evil/). As an added advantage, your dependencies can be marked final, which is thread-safe. [Spring lets you do this by marking a `@Component`'s constructor with `@Autowired`](https://www.baeldung.com/constructor-injection-in-spring), and "As of Spring 4.3, classes with a single constructor can omit the `@Autowired` annotation".
 * [Eager initialisation, which is default, helps spot problems with beans early on](https://howtodoinjava.com/spring5/core/spring-bean-eager-vs-lazy-init/). With [`@Lazy` initialisation](https://howtodoinjava.com/spring5/core/spring-bean-eager-vs-lazy-init/), beans are created when you `.getBean()` them, which may be faster if you have a large application.
+* In Spring, the BeanFactory is the container that manages all the dependencies (Beans) in the application.
 
 ## Project Configuration
 

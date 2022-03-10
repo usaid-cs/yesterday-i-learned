@@ -33,3 +33,4 @@
 - Make sure you call `super(props)` in your constructor :)
 - Not sure what `PropTypes` is, but [it's been removed now!](https://jscomplete.com/learn/react-beyond-basics/react-cfp) No need to worry about it.
 - `<Greeting counter="7" />` passes the *string* `"7"` to the component. To pass the number `7`, do `<Greeting counter={7} />`.
+- The orthodox way to conditionally show a component is [`{condition && <Component />}`](https://reactjs.org/docs/conditional-rendering.html).

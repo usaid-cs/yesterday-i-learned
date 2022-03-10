@@ -250,6 +250,7 @@
 - Don't ever throw *or* catch `AssertionError`. You can use `assert`, obviously.
 - Runtime exceptions (i.e. unchecked ones) shouldn't be caught.
 - Methods with checked exceptions can't be used directly in streams, so avoid unnecessary use of checked exceptions. Maybe Optional and unchecked exceptions can help in either case.
+- [Java does not make use of EAFP](https://old.reddit.com/r/badcode/comments/sxo7lo/no_needs_to_check_java_will_do_it_for_me/). Try-catch blocks are relatively expensive. It is better to ask for permission in Java than for forgiveness.
 
 ## Enums
 

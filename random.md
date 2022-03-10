@@ -1,5 +1,11 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Rye is made with, well, 51%+ rye. Bourbon is made from corn.
+- The main argument for dependency pinning, as opposed to allowing auto-revision upgrades, is [reproducible builds](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/).
+- ["The scream test is a test where, to determine the cause, use, or ownership of a server, daemon, or even file, you remove access to it and see who or what screams."](https://old.reddit.com/r/talesfromtechsupport/comments/3peg7i/sometimes_the_scream_test_fails/)
+- Seven people told separate keys to the ICANN root key: [Dan Kaminsky from the United States, Paul Kane from the U.K., Bevil Wooding from Trinidad and Tobego, Jiankang Yao of China, Moussa Guebre from Burkina Faso, Norm Ritchie of Canada, and Ondrej Sury of the Czech Republic](https://abcnews.go.com/Technology/brotherhood-internet-keys-chosen/story?id=11271450).
+- [Stored procedures](https://en.wikipedia.org/wiki/Stored_procedure) can be said to be "sprocs".
+- CTOs can work with a bunch of other staff immediately with them, too. They don't always need to belong to a subdivision.
 - Click "Replay" in Jenkins to re-run a build with a Jenkinsfile that you can modify any way you like.
 - [HTTP PATCH](https://en.wikipedia.org/wiki/Patch_verb) (non-idempotent) doesn't require you to specify the patch operation, e.g. `{ "op": "add", "path": "/count", "value": 1 }`. It can be `{ "count": 1 }` too, as long as the server can make sense of it.
 - When Shopify asks you to tell them your "life story", they meant [specific to your career](https://news.ycombinator.com/item?id=30246304), i.e. what's already on your resume. They don't want your life story; they want your work history.
@@ -1011,7 +1017,8 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - "Patronising" is patronising only if there is some form of insincere kindness involved.
 - Things like Yubikeys are rarely time-based. The thing contains a key pair, with only the public key readable via USB. The server will get a copy of the public key when you add your thing. When you try to log in, you need the private key to sign a random number that the server gives you, and the signed message that you return must have the same signature as your public key, which the server knows.
 - A widow is a woman whose husband died. A widower is a man whose wife died.
-- _Vladimir_ means "great power". Actually, "power great". Using the same logic, Boromir ought to mean "Great bro".
+- [_Vladimir_](https://en.wikipedia.org/wiki/Vladimir_%28name%29) means "great power". Actually, "power great". Using the same logic, Boromir ought to mean "Great bro".
+- _Vladimir_ can also mean ["ruler of peace", OR "ruler of world"](https://www.reddit.com/r/GetMotivated/comments/t3idi7/-/hythr6f).
 - [Throwing in _the_ towel](https://idioms.thefreedictionary.com/throw+in+the+towel), from boxing, means to quit, give up, or stop trying.
 - Secret gists are still publicly readable if the links are leaked.
 - (Some) supercomputers are sold to [governments](https://en.wikipedia.org/wiki/Communications_Security_Establishment#Code_breaking_equipment) for code breaking.

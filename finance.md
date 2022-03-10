@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- We call it "trading" because it adds no value.
+- Due to tax policies allowing REITs to ["avoid paying corporate taxes as long as they distribute 90% of taxable income as unqualified dividends", "in order to grow, REITs need to raise external debt and equity capital from investors. As a result, higher interest rates increase a REIT’s cost of debt and make it incrementally harder to achieve profitable growth."](https://www.simplysafedividends.com/intelligent-income/posts/20-how-higher-interest-rates-impact-reits)
 - A [cash-in refinance](https://www.rocketmortgage.com/learn/types-of-refinance) means you borrow more money than you did before. A cash-out refinance means you pay back a part of the loan, and now borrow less money than you did before. A reverse mortgage is like a line of credit from your house; it pays you while your home equity decreases.
 - *50% of your capital gains are taxable.* Your capital gains aren't taxed at 50%. This is *way* better than working, where income is 100% taxable.
 - The Fed, with all its national and foreign debt, does not actually [*want*](https://old.reddit.com/r/investing/comments/rwx4u6/federal_reserve_minutes_released/) to raise interest rates on itself unless it needs to.

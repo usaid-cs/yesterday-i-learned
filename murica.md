@@ -15,7 +15,7 @@
 - The two American parties are actually [very happy with the status quo](https://www.businessinsider.com/poll-coronavirus-what-do-americans-think-stimulus-plan-pelosi-2020-3).
 - [The shortest-serving US president in history](https://en.wikipedia.org/wiki/William_Henry_Harrison) died because he had pneumonia, and the doctors tried to treat him with 1) suction cups, 2) multiple bloodlettings, and 3) crude petroleum. The 1840s were a wild times.
 - 90210 is in Beverly Hills, not Hollywood. Hollywood is right next to Beverly Hills, though.
-- Despite all the bad press about anti-vaxxers and anti-maskers, the SARS-CoV2 virus only infected around one out of ten Americans.
+- Despite all the bad press about anti-vaxxers and anti-maskers, the SARS-CoV2 virus ~~only infected around one out of ten Americans~~ oops it is one in four now.
 - Almost every non-highway road is a ["stroad"](https://www.strongtowns.org/journal/2018/3/1/whats-a-stroad-and-why-does-it-matter), long stretches of roads (where vehicles can go at high speed), that also behave as streets (allowing some of them to stop abruptly or turn left/right). Apparently that's [awful city planning](https://www.youtube.com/watch?v=ORzNZUeUHAM).
 - Every state, other than Montana, lets your employer [fire you for no reason](https://en.wikipedia.org/wiki/At-will_employment#By_state).
 - 1 in 5 Americans [don't have a smartphone](https://www.pewresearch.org/internet/fact-sheet/mobile/). Mostly old people. Only half of them own a smartphone and use it.
