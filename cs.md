@@ -317,3 +317,5 @@ The class contains a `getInstance()` method, which keeps track of the first obje
 - Follow [IEEE 829's standard](https://en.wikipedia.org/wiki/Software_test_documentation) for generating a test plan. QAs will love it.
 - Binary search trees, aka "trees", have a lookup runtime of O(log n), but only if the tree is balanced.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) came up with the term "object-oriented programming". With that said, [today's OOP is not what he had in mind](https://softwareengineering.stackexchange.com/questions/46592/so-what-did-alan-kay-really-mean-by-the-term-object-oriented/58732#58732): OOP to him meant "only messaging, local retention and protection and hiding of state-process, and extreme late-binding of all things". He argued that [message passing is more important than objects in OOP, and that objects themselves are often over-emphasized (quote from wikipedia)](https://en.wikipedia.org/wiki/Message_passing#Mathematical_models).
+- Microservice allows you to *decommission aging parts of the system* independently, in addition to being able to build new software in atomic teams.
+-

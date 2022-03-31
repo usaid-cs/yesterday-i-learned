@@ -1,5 +1,6 @@
 # C
 
+- Firmware developers (read: Andy) often use `int32_t` instead of `int` to make sure a datatype uses a fixed number of bits across different compilers and architectures.
 - If you don't `typedef` a `struct`, then only one "instance" (loose term; C is not OOP) ever exists.
 - [`i++` and `++i` compile to the same assembly code](https://godbolt.org/z/zWrrj8xeh), but [`++i` might have been more efficient at some point in the past](https://old.reddit.com/r/programming/comments/sg9ks5/how_algorithm_improvements_make_quicksort_4x/huwhs6o/).
 - [`typedef struct Foo {...} Foo;`](https://stackoverflow.com/questions/1675351/typedef-struct-vs-struct-definitions) is a combination of `struct Foo {...}`, which defines a struct with a tag called `Foo`, and `typedef struct ... Foo`, which, despite its name, only gives an existing type a new name. The end result of that combo statement is you don't need to use that struct with `struct Foo`; now you can refer to it with just `Foo`.

@@ -27,6 +27,7 @@ The minimum node count for production is 3.
 * Get pods: `kubectl get pods` (id, name, age, whether or not it's running)
 * Describe pods: `kubectl describe pods` (more info than `get`)
 * Get logs from a pod: `kubectl logs (podname)`
+    * Note: [`--previous=false`](https://github.com/tektoncd/pipeline/issues/782#issuecomment-854616720) needs to come after namespace (`-n`) and pod (`-p`) arguments.
 * Run command in a pod (with one container): `kubectl exec (podname) -- (command, like ls)` (the `--` is necessary whenever you want to give your `ls` some arguments.)
 * Run shell in a pod (with one container): `kubectl exec -ti (podname) bash`
 

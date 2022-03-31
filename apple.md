@@ -1,3 +1,4 @@
+- `brew` installs CLI applications. [`brew cask` installs graphical applications](https://apple.stackexchange.com/a/125471).
 - To see which executable is listening to a specific port: [`sudo lsof -i -P | grep LISTEN | grep :$PORT`](https://stackoverflow.com/a/4421674/1558430)
 - PgUp / PgDn doesn't move your caret, for some reason. You need Option + PgUp/PgDn for that.
 - Macbook keyboards don't have: home, end, page up, page down, and sometimes not even physical F-keys. If you think Cmd+up/down/left/right are good enough, I am so sorry.

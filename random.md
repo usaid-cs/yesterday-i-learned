@@ -1,5 +1,10 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+- Laminate flooring cannot be mopped (with a wet mop).
+- An "oblast" is roughly equal to an area, province, or region.
+- A "break glass solution" might be one where a non-ideal, hack-like solution is made available for emergencies.
+- ["Solve distractions, not discoverability"](https://principles.design/examples/windows-user-experience-design-principles): don't keep telling the user what other features there are. [Let people be immersed in what they love, and they will explore the rest.](https://www.slideshare.net/mackanj/designing-windows-8-application-microsoft-techdays-2013/8-Focus_Solve_for_distractions_not)
+- To "escape" a string means to [ensure something is a part of the string, rather than a character that ends the definition of the string](https://stackoverflow.com/questions/10646142/what-does-it-mean-to-escape-a-string).
 - Rye is made with, well, 51%+ rye. Bourbon is made from corn.
 - The main argument for dependency pinning, as opposed to allowing auto-revision upgrades, is [reproducible builds](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/).
 - ["The scream test is a test where, to determine the cause, use, or ownership of a server, daemon, or even file, you remove access to it and see who or what screams."](https://old.reddit.com/r/talesfromtechsupport/comments/3peg7i/sometimes_the_scream_test_fails/)

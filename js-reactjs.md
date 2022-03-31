@@ -23,7 +23,7 @@
 - If you choose to write class-based components, you need to unsubscribe event handlers in `componentDidUnmount`.
 - `componentDidMount` vs `componentDidUpdate`: mounting happens when the component's element is inserted into the DOM. Updates happen, and that's when the second event fires.
 - Every method in a class component needs to be manually bound in the constructor, i.e. `this.someEvent = this.someEvent.bind(this);`... for all of them.
-- `useEffect` can be used more than once. It can specify a cleanup phase, and if it does, return a cleanup function in the effect function.
+- [`useEffect`](https://reactjs.org/docs/hooks-reference.html#useeffect) allows a component to do something whenever it renders. It can be used more than once. It can specify a cleanup phase, and if it does, return a cleanup function in the effect function.
 - The `setState` function in `useState` can also [accept a function that takes in the previous state](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1) (i.e. `setState((prevState) => ...)`), which simplifies the process if you require the previous state *at the time setState is called*, which can change `state` differently if too many async events happen.
 - [`setState` is asynchronous](https://stackoverflow.com/questions/36085726/why-is-setstate-in-reactjs-async-instead-of-sync) 🤨 operations are batched for performance reasons. Don't expect changes right after you call `setState`. If you need to do something only after the state is set, use a callback function, i.e. `this.setState(..., () => console.log(this.state))`.
 - `<!-- HTML comments in JSX -->` [will not work](https://www.geeksforgeeks.org/how-to-write-comments-in-reactjs/). Use `{ /* JS comments and blocks */ }` instead.
@@ -34,3 +34,5 @@
 - Not sure what `PropTypes` is, but [it's been removed now!](https://jscomplete.com/learn/react-beyond-basics/react-cfp) No need to worry about it.
 - `<Greeting counter="7" />` passes the *string* `"7"` to the component. To pass the number `7`, do `<Greeting counter={7} />`.
 - The orthodox way to conditionally show a component is [`{condition && <Component />}`](https://reactjs.org/docs/conditional-rendering.html).
+- `useLayoutEffect` is the same as `useEffect`, except it fires synchronously (once?) after DOM mutations. ["(for migration code from class-based components to function-based) ... we recommend starting with `useEffect` first and only trying `useLayoutEffect` if that causes a problem."](https://reactjs.org/docs/hooks-reference.html#uselayouteffect)
+- [Every component tag can be self-closing](https://react-cn.github.io/react/tips/self-closing-tag.html).

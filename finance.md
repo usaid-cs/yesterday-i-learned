@@ -1,6 +1,8 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- When the Fed interest rate rises, banks are motivated to raise *your* savings accounts' interest rate [only if they want your cash](https://old.reddit.com/r/investing/comments/tfoau5/federal_reserve_approves_first_interest_rate_hike/i0za3pv/?context=10000), and if they don't want your cash, they have no obligation to raise anything.
+- Gas prices are ["sticky"](https://www.investopedia.com/terms/p/price_stickiness.asp): it goes up immediately if crude oil prices go up, but only go down once competition drives prices down.
 - We call it "trading" because it adds no value.
 - Due to tax policies allowing REITs to ["avoid paying corporate taxes as long as they distribute 90% of taxable income as unqualified dividends", "in order to grow, REITs need to raise external debt and equity capital from investors. As a result, higher interest rates increase a REIT’s cost of debt and make it incrementally harder to achieve profitable growth."](https://www.simplysafedividends.com/intelligent-income/posts/20-how-higher-interest-rates-impact-reits)
 - A [cash-in refinance](https://www.rocketmortgage.com/learn/types-of-refinance) means you borrow more money than you did before. A cash-out refinance means you pay back a part of the loan, and now borrow less money than you did before. A reverse mortgage is like a line of credit from your house; it pays you while your home equity decreases.

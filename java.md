@@ -52,6 +52,7 @@
 - The first line in the docstring is extracted as the summary of the method. Now that's normally no problem, but they chose `. ` as the delimiter, so you can't have stuff like `Mr. Bean` in the summary unless you [hack it out](https://stackoverflow.com/a/18282355/1558430).
 - For docstrings, they want to start them with a third-person verb. Both Python and git want first-person verbs in imperative mood.
 - As a strong adherent to the SOLID principles, [even if you want an object to print itself out, there should be another object for that](https://www.baeldung.com/solid-principles). Example in page: `Book`, and `BookPrinter`.
+- Interfaces are *not* prefixed with `I` or suffixed with `Interface`, e.g. `FooInterface`, the same way [`List` is an interface, and `ArrayList` is the concrete implementation](https://stackoverflow.com/a/2814926/1558430).
 
 ## Types
 
@@ -210,6 +211,7 @@
 - [Defender methods](https://www.tutorialspoint.com/what-are-defender-methods-or-virtual-methods-in-java) and default methods (in an interface) are the same thing.
 - ["Good news: private methods in interfaces look like they will make Java 9."](https://stackoverflow.com/questions/27368432/why-does-java-8-not-allow-non-public-default-methods#comment45484226_27369217) - Brian Goetz, one of the guys who's in charge of it in the first place. Anyway, with this small addition, it finally makes sense to build classes with mixins, rather than inheritance (see point about multiple inheritance).
 - Refer to objects (`I<> foo = new C<>()`) by their interfaces ("what they do"), not the class ("what they are"). It's ok if you can't find a good interface to do it with; base class is fine too. In general, limit the method scope if possible.
+- You can use `this` in a class and outside a method, e.g. `private final Logger logger = LoggerFactory.getLogger(this.getClass());` (which is very verbose for what it does, but my point stands).
 
 ## Functions and methods
 
@@ -315,6 +317,7 @@
 - You cannot [down-compile new Java features into an older VM](https://discuss.gradle.org/t/why-cant-i-use-different-sourcecompatibility-targetcompatibility-with-hello-world/11958) by setting `targetCompatibility` lower than `sourceCompatibility`. That would be too easy.
 - `Objects.requireNonNull` apparently supersedes `== null` checks. In nonpublic methods, you can also use `assert` (because you control the code).
 - ["Mocking a final class is just as easy as mocking any other class"](https://www.baeldung.com/mockito-final). If you can't, you can still [write a `@Delegate` class that wraps every method of the final class](https://stackoverflow.com/a/14292975/1558430), and then test the final class there. It's just subclassing [with extra steps](https://awwmemes.com/t/extension-ladder).
+- [Jupiter is the testing side of JUnit 5](https://nipafx.dev/junit-5-architecture-jupiter/). The rest of JUnit 5 are Vintage (test runner), and Platform (API for tools). JUnit 5 tests inherit from `org.junit.jupiter.api.Test`, whereas JUnit 4 tests inherit from `org.junit.Test`.
 
 ## Packages, imports, and ecosystem
 
@@ -331,6 +334,7 @@
 - A `.war` file is [a bundle of `JSP` files, as well as the assets required to run a web application](https://pediaa.com/what-is-the-difference-between-jar-and-war-files/), like HTML, CSS, and JS files. [`.jar` files can also be used to start a web server](https://stackoverflow.com/questions/5871053/difference-between-jar-and-war-in-java#comment52876035_5871096), supposedly.
 - You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
 - Maven and Gradle [are](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/) Java's equivalent of npm. It just so happens that those tools also help you build the project, because Java projects need to be built.
+- With "static import", e.g. `import java.lang.System.*;`, you import static members of a class directly into the scope.
 
 ## Garbage
 

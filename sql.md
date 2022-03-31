@@ -224,3 +224,8 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 # PL/SQL
 
 - I don't think [PL/SQL](https://www.guru99.com/sql-vs-pl-sql.html) is like SQL at all... [it's like a third-generation programming language that you can write an entire program with](https://docs.oracle.com/cd/A97630_01/appdev.920/a96624/01_oview.htm#7106). **You don't even interact with the DB with PL/SQL**. You can have SQL inside PL/SQL though.
+
+# MSSQL
+
+- `SELECT ... LIMIT n` is [`SELECT TOP(n) ...`](https://stackoverflow.com/questions/603724/how-to-implement-limit-with-sql-server) in MSSQL, because no reason.
+- You need `WITH (NOLOCK)` everywhere in SQL Server because [the default transaction isolation level is READ COMMITTED](https://www.sqlshack.com/understanding-impact-clr-strict-security-configuration-setting-sql-server-2017/), which means your reads will fail if someone else is modifying it.

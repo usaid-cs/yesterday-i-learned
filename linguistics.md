@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- "JWT" is pronounced "jot" due to shear difficulty in pronouncing it correctly.
 - [Upsetti Spaghetti](https://www.urbandictionary.com/define.php?term=Upsetti%20Spaghetti): a way to say "upset", but with more syllables.
 - Shea butter is shay butter?
 - Classical Latin goes from [100 BC to 200 AD](https://www.youtube.com/watch?v=K7uBUCZgpw8), and it's the *good shit* if you want to imitate someone who lived during that time. In classical Latin, vowel lengths are critical to understanding what a word means.

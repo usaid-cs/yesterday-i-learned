@@ -147,6 +147,7 @@ undefined
 - The [comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator) evaluates everything from left to right, and then returns the last item. But beware: in `a = (1, 2)`, `2` is assigned to `a` because `2` is the last item. However, if you do `a = 1, 2`, `a = 1` is evaluated first, so `a` is `1`.
 - You can use `window.history.pushState()` to change the URL of the current browser window, but it is allowed only if the old and new URLs belong to the same domain, so you can't build a website that changes the URL to that of a banking website, for example.
 - "[Wanting temporary storage (like `sessionStorage`) is a very common misconception: an application doesn't need that](https://github.com/cyrilletuzi/angular-async-local-storage/blob/main/docs/EXPIRATION.md#misconceptions) (unless) you need to share data between multiple tabs (...)  if your app is distributed as a website" - cyrilletuzi, front-end consultant, on why we don't need something (unless we need it, in which case we do).
+- [Lerna](https://github.com/lerna/lerna) (not to be confused with "Learn") encourages you to build monorepos.
 
 ## About JavaScript
 

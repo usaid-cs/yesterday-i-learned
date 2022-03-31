@@ -31,6 +31,9 @@
 
 * DTOs (Data Transfer Objects) *are* Entities.
 * DTOs can have [field-level validation annotations](https://www.javaguides.net/2021/04/spring-boot-dto-validation-example.html), like `@NotEmpty`, `@Max`, or `@Email`. If you need more validation, write custom validation code.
+* A `@Query()` (raw query) is SELECT-only by default. To run `INSERT`, `UPDATE` or `DELETE` statements, add [`@Modifying`](https://www.baeldung.com/spring-data-jpa-modifying-annotation#annotation) on top of it.
+* The query inside `@Query` (e.g. `@Query("DELETE FROM TableName WHERE ...")`) uses the table's class name `TableName` instead of the name you define in `@Table(name = "table_name")`, because all of that is actually [JPQL](https://www.baeldung.com/spring-data-jpa-query#1-jpql) (Java Persistence Query language), instead of raw SQL. If you want to actually SQL, add `nativeQuery = true`.
+* `deleteAll(entities)` literally runs [a `DELETE` query for each item](https://www.netsurfingzone.com/jpa/spring-data-jpa-deleteall-vs-deleteallinbatch/) you pass in.
 
 ## Spring MVC
 

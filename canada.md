@@ -1,5 +1,6 @@
 🇨🇦
 
+- [473 mL of ice cream has tax. 500 mL of ice cream does not.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/4-3/basic-groceries.html#_Toc155586116)
 - When you leave your company, your group RRSP is transferred as cash to your personal RRSP.
 - If two people are on the deed, [both of them need to agree to sell](https://old.reddit.com/r/PersonalFinanceCanada/comments/s5qfyc/what_is_fair_about_being_bought_out_of_a_property/hsz696w/).
 - [Sale of your principal / primary residence is tax free](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains/principal-residence-other-real-estate/sale-your-principal-residence.html). If your house appreciates by 200k, you keep 200k. Since income is always taxed, think how many years of effective income that is. (You still have to report the sale.)
