@@ -22,6 +22,7 @@
 - Try not to have any indexes that you don't plan to use. They increase write times for obvious reasons.
 - ["VERY bad things can happen when you exhaust your disk space ... don't run out of disk space"](https://dba.stackexchange.com/questions/187044/disk-space-unreleased-after-cleaning-up-rows-from-pg-table) - Evan
 - If you shard your database into multiple instances in a cluster, and the shard depends on some kind of non-random primary key, then be careful with it, because [it may very well end up with just a few of your instances working very hard](https://cloud.google.com/spanner/docs/schema-design#primary-key-prevent-hotspots) if the primary key distribution is not uniform. This is called hotspotting.
+- Oracle and Postgres take `/* C-style comments */`, too.
 
 # MySQL
 
@@ -229,3 +230,4 @@ MongoDB is actually NoSQL, so it shouldn't be in this file.
 
 - `SELECT ... LIMIT n` is [`SELECT TOP(n) ...`](https://stackoverflow.com/questions/603724/how-to-implement-limit-with-sql-server) in MSSQL, because no reason.
 - You need `WITH (NOLOCK)` everywhere in SQL Server because [the default transaction isolation level is READ COMMITTED](https://www.sqlshack.com/understanding-impact-clr-strict-security-configuration-setting-sql-server-2017/), which means your reads will fail if someone else is modifying it.
+- On the other hand, you should really use `WITH (NOLOCK)` only if there are performance issues, because [you will be reading uncommitted data, which can be rolled back by another transaction](https://www.sqlservercentral.com/articles/the-effect-of-nolock-on-performance). You can get objects that cease to exist the next second.

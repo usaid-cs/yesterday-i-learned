@@ -60,6 +60,7 @@ Fun fact: a collection of concise but detailed information about a subject is ca
 - [erlang.md](erlang.md)
 - [git.md](git.md)
 - [go.md](go.md)
+- [graphql.md](graphql.md)
 - [haskell.md](haskell.md)
 - [heroku.md](heroku.md)
 - [html.md](html.md)

@@ -1,3 +1,5 @@
+- To edit widgets in the notification center, [kill Notification Center from Activity Monitor](https://old.reddit.com/r/MacOS/comments/kucne3/til_you_can_change_which_4_cities_are_displayed/)--I shit you not--and then you'll be able to do it.
+- [Minimize minimizes a single window. Hide hides the entire application.](https://superuser.com/questions/51773/mac-os-minimize-vs-hide-whats-the-difference#comment53494_51775) Unless you are on whatever drug AltTab is on, in which case the two are identical.
 - `brew` installs CLI applications. [`brew cask` installs graphical applications](https://apple.stackexchange.com/a/125471).
 - To see which executable is listening to a specific port: [`sudo lsof -i -P | grep LISTEN | grep :$PORT`](https://stackoverflow.com/a/4421674/1558430)
 - PgUp / PgDn doesn't move your caret, for some reason. You need Option + PgUp/PgDn for that.

@@ -8,6 +8,15 @@
 - Whisk until mixture is close to solid.
 - _Then_ add **salt** and **pepper** to taste. This must be done at the end.
 
+#### [Whampoa variant](https://www.youtube.com/watch?v=ONYflj0I2QI)
+
+- Separate into whites and yolks (optional).
+- Whisk whites until large bubbles appear, then mix yolks back in and scramble.
+- Add 1/2 tsp salt, 1/2 tsp sugar, 1/8 tsp white pepper, 1/8 tsp MSG, 1/2 tsp shaoxing wine, (1 tsp cornstarch + 1 tsp water), and 1tsp sesame oil. Mix.
+- Make wok / pan very hot; add 1.5 tbsp of lard. Butter also works.
+- Apply egg mix to the wok / pan. The bottom will solidify quickly; scoop the cooked part to the side, and let the other side of the pan heat the rest of the yolk.
+- Serve when egg stops flowing out of the cooked side.
+
 ### Boiled eggs
 
 > The best technique for boiling eggs is add eggs to cold water bring to boil, remove from heat once boiling starts, cover, let sit for [6 to](https://www.youtube.com/watch?v=X5oD_thIk3c) 15 minutes and add to cold water to stop the cooking process. That being said I don't know if it'll work with this weird Frankenegg. - /u/jerrbles
@@ -163,6 +172,13 @@ Suggested spices: **Basil**, **Black Olives**, **Lemon**, **Garlic**, **Pepper**
 - Cook in medium heat until cooked. Should take 6 minutes.
 
 ### Steam / bake
+
+#### "White cut chicken" 白切雞
+
+- Get 1 yellow chicken (黄油雞). The white ones can do, but won't taste as good.
+- Rub chicken with 2 spoons of salt. Wait 2 hours.
+- Steam the chicken on a plate, without plastic wrap, for 25 minutes.
+- Let rest until cool. Cut into appropriately-sized pieces with scissors (or a meat cleaver, but not a normal knife) and serve.
 
 #### "Ghetto sofrito"
 

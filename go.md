@@ -1,3 +1,7 @@
+## About
+
+- Being one of the rare languages that compiles to machine code but also with garbage collection, [Go has to include a garbage collector in every program it generates](https://softwareengineering.stackexchange.com/questions/350840/how-does-garbage-collection-work-in-languages-which-are-natively-compiled).
+
 ## Imports
 
 ```
@@ -120,3 +124,7 @@ fmt.Println("hello")
 
 * `NaCl` is apparently [native client](http://talks.golang.org/2014/go1.3.slide#11).
 * Go makes use of [Duff's devices](http://en.wikipedia.org/wiki/Duff%27s_device) to unroll loops. Performance benchmarks can be found in the [actual commit](https://github.com/golang/go/commit/6c7cbf086c34ebb88311ba12d3a75adcbdce8ac8). "Loop unrolling revolves around lowering the number of branches made, by batching them together.", and comes at the [cost of file size](http://en.wikipedia.org/wiki/Loop_unrolling).
+
+## Exceptions
+
+- There are no exceptions, [`try`, and `catch`](https://earthly.dev/blog/golang-errors/). Error handling is done by manually [writing `if error / else` everywhere](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang).

@@ -1,6 +1,10 @@
 
 >> "Everybody needs money. That's why they call it money." - Danny
 
+- A company that loses money has a P/E (earnings) ratio of N/A.
+- ["Financial repression"](https://en.wikipedia.org/wiki/Financial_repression) is government policies that result in savers not saving more than the rate of inflation, i.e. losing money.
+- React to what the fed is doing, not what you think it should do.
+- Variable mortgages stay the same monthly payment until the trigger interest rate is reached. Adjustable mortgages increases in monthly payments with interest rate rises.
 - When the Fed interest rate rises, banks are motivated to raise *your* savings accounts' interest rate [only if they want your cash](https://old.reddit.com/r/investing/comments/tfoau5/federal_reserve_approves_first_interest_rate_hike/i0za3pv/?context=10000), and if they don't want your cash, they have no obligation to raise anything.
 - Gas prices are ["sticky"](https://www.investopedia.com/terms/p/price_stickiness.asp): it goes up immediately if crude oil prices go up, but only go down once competition drives prices down.
 - We call it "trading" because it adds no value.

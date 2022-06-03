@@ -16,6 +16,11 @@
 - ...Or, `a?` can denote that `a` is nullable. So `a ? : string` is totally fine, but `a ? boolean : string` is totally not fine. Imagine that.
 - The [`never` type](https://www.tutorialsteacher.com/typescript/typescript-never) is used to make sure nothing is ever assigned to it, including `null`, or to make sure a function never returns anything, including `null`. It is a bit like `: undefined`, but if you actually use `function foo(): undefined`, you are required to `return undefined`, which is a bit odd.
 
+### `enum`
+
+- [Enums compile down to plain old objects](https://www.typescriptlang.org/play?#code/KYOwrgtgBAMg8gQQCIEkByBxA+gIQKoAqBcaWAygQgQKJlQDeAUFLIqplALxQDkANgHsAhgBMAliADmPADTMoSEtS68RAkMFnyk1AGII8MAip4jgAMyFg+AFy0BfRowDG6gM4C+wAHSDJACnhkdGx8IhJyShoybx19QwIASgBuJxd3G1ZgzFxCYlIKKloAJhUmFiD2DAAuXkFRCWk5FkU0alrTdU1mhT0DIw6zS2s7OXtU9JAPL18BAMqQ3PCCqJLYvoSUoA).
+- Although [`enum Foo { A = 1, A = 2, A = 3 }`](https://www.typescriptlang.org/play?#code/KYOwrgtgBAYg9nKBvKBBKBeKBGANGzKAJn3SwGYoBfIA) won't compile, if it were to compile, it would compile to an object that's a bit confused: `{ 1: "A", 2: "A", 3: "A", A: 3 }`.
+
 ## Interfaces
 
 ### Class interfaces

@@ -1,3 +1,4 @@
+- [Korea had the world's longest unbroken chain of slavery](https://en.wikipedia.org/wiki/Slavery_in_Korea) because their society has been so stable. Many other places have just as much slavery, just not continuously.
 - The US wouldn't allow Coca Cola exports to Nazi Germany, so they made [Fanta](https://en.wikipedia.org/wiki/Fanta) from beet sugar, whey, and apple pomace---the "leftovers of leftovers".
 - The first credit cards were "swiped" by [copying its raised names/digits onto carbon paper](https://en.wikipedia.org/wiki/Credit_card#History).
 - [Those who plan to write the history books](https://en.wikipedia.org/wiki/Republican_Party_%28United_States%29) don't mind how bad they look in the existing ones.

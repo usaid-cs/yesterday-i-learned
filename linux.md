@@ -341,3 +341,4 @@ sudo swapon /swapfile  # Permanently: "/swapfile   none    swap    sw    0   0"
 - The recommended swappiness for ubuntu desktops is... [10?](https://askubuntu.com/a/149427)
 - [CentOS releases a new version every **FIVE** years](https://en.wikipedia.org/wiki/CentOS), a point of ridicule that makes it ideal for enterprise software, adopted by companies that love using software from a decade ago.
 - [Best general-purpose TCP congestion control algorithm](http://androidmodguide.blogspot.ca/p/tcp-algorithms.html): Cubic (stability) or Westwood (all other occasions)
+- `sed 's/^/  /' < some_file` indents that file, and prints it on stdout. Some furniture company uses it to add steps to their pipeline file.

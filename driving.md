@@ -2,6 +2,7 @@
 
 > The "Stop" being the button to start it, is, with the best will in the world, a bit misleading. - James May
 
+- Adding a 100-lb passenger from your vehicle [costs something like 1%](https://www.aaa.com/autorepair/articles/how-to-maximize-fuel-economy) extra gas, says AAA.
 - Despite the *lower* center of gravity relative to the passengers, lack of seatbelts (or due to the lack of seatbelts), [school buses are 70x safer than other vehicles](https://www.nhtsa.gov/road-safety/school-bus-safety) on the road.
 - During the [moose test](https://www.youtube.com/watch?v=qIN8CyhYREM), the test driver does *not* press on the brakes.
 - A typical small car uses fuel at [0.172 mL/s](https://www.youtube.com/watch?v=dFImHhNwbJo) while idling. The same engine may use 1.2 mL to start up, which makes turning off the engine beneficial (if wear and tear is negligible and you don't need your engine to do anything while idling, like for heat and AC) at... 7 seconds. Start-stop systems save about 4 ~ 8% of fuel if all you drive is city roads, which means they generally aren't worth it given the ludicrous cost of a trim that includes a start-stop engine.

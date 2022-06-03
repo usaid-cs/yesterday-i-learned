@@ -1,3 +1,5 @@
+- Communion juices are filled with [juice fillers](https://www.youtube.com/watch?v=wxoDDrnCb64).
+- The day before Good Friday is called [Maundy Thursday](https://en.wikipedia.org/wiki/Maundy_Thursday). Maundy is [foot-washing](https://en.m.wikipedia.org/wiki/Maundy_%28foot_washing%29), which Jesus did the day before he was killed.
 - The [Shroud of Turin](https://en.m.wikipedia.org/wiki/Shroud_of_Turin) was reportedly the cloth used to wrap Jesus when he was buried. Since it was made in the middle ages, that can't possibly be true.
 - The rapture is [not real](https://www.cnn.com/2014/07/06/opinion/parini-rapture-real/index.html) because they only started talking about it in the 1800s. To a certain extent, it is hard to say if anything is real, but the rapture is less real than almost everything related to Christianity.
 - Anal sex does not count as sex (since it does not lead to procreation). With that said, anal sex is a sin if conducted between two men, because reasons.

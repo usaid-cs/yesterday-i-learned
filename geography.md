@@ -1,3 +1,5 @@
+- The [Canary bird](https://en.wikipedia.org/wiki/Domestic_canary) is named after the Canary Islands, which came from Latin *Insula Canaria*, meaning "island of **dogs**". So canary means dog.
+- The highest unclimbed mountain in the world is [Gangkhar Puensum](https://en.wikipedia.org/wiki/Gangkhar_Puensum) in Bhutan, because it is illegal to climb anything over 6000m over there.
 - Hanoi was called 東京 (Tonkin) during the [Lê dynasty](https://en.wikipedia.org/wiki/L%C3%AA_dynasty). Because every Asian country has a place called that.
 - Cities that are built on lakes, e.g. [Mexico City](https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake#Preface), sit on clay and silt that amplify seismic shaking, and suffers from worse earthquakes due to soil liquefaction.
 - "The ocean is so salty" because [rivers have been leeching salt from rocks for billions of years](https://getpocket.com/explore/item/so-why-is-the-ocean-so-salty), and it's not like the salt has any substantial way to go back on land, other than slow-acting tectonic activity, or things like lagoons drying up.

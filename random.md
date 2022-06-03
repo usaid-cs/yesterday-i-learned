@@ -1,5 +1,22 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
+-
+- Rooms with high ceilings are hard to heat because [all the heat is at the top](https://www.hunker.com/13415719/how-to-heat-a-house-with-high-ceilings), too high for you to feel.
+- The Guinness Book of Records stopped accepting records for "longest time gone without sleep" in 1989 because it was so dangerous. They also dropped alcoholic-related records (ironic) because they aren't healthy.
+- On-street parking is banned in Japan. That's why their streets look so good compared to the stroads elsewhere. You can still park temporarily on the side of the street for loading/unloading, obviously.
+- Ctrl + Shift + F in firefox developer tools lets you find the string across all script files.
+- Since `,`, `-`, and `.` are consecutive characters on the ASCII table, `[,-.]` is the only expression where it doesn't matter what `-` is doing. (But yes in this case it is looking for characters within a range, which includes exactly those three characters.)
+- Both Bill Gates and Warren Buffett's trusts are set to expire (spend all the money and close down) with [10 ~ 20 years of their deaths](https://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation) to make sure the trusts don't end up paying themselves with salaries, forever, instead of helping people.
+- ITSF (International Table Soccer Federation) rules say the ball cannot fly over an opponent's rod, i.e. [Shirley's projectile shot was illegal](https://www.youtube.com/watch?v=LLXTdEdv7Pk) on their books. It is a legal move everywhere else.
+- Orthodox Jews can't use electronics on Sabbath day because [ignoring a fire counts as work, and creating an electrical circuit counts as igniting a fire](https://en.wikipedia.org/wiki/Electricity_on_Shabbat).
+- Landlords can ["soft-evict" people on their land by imposing stupid rules](https://old.reddit.com/r/ThatsInsane/comments/uhtxnt/how_is_this_legal_seriously_does_anyone_know_if/) that make people so sick of living there, they leave voluntarily. Then the landlords won't need to pay them to leave.
+- Pressing `y` on github gives you a permalink to a line.
+- Due to [the way their licenses are certified](https://www.thestreet.com/personal-finance/license-to-shampoo-12-most-ridiculous-required-professional-certifications-12902141), lawyers typically have no mobility outside of their province/state for the rest of their lives.
+- Sometimes companies call it a ["brown bag" meeting](https://www.investopedia.com/terms/b/brown-bag-meeting.asp) when it's a lunch-and-learn: the kinds of meetings where you are expected to eat, rather than to take any notes or remember anything.
+- Cave-diving is especially dangerous because there is no sense of orientation down there. You might be convinced you are swimming up, but actually going further down.
+- [Poorly-designed USB 3.0 appliances emit radio frequencies that interfere with 2.4 GHz devices](https://www.pcmag.com/opinions/wireless-witch-the-truth-about-usb-30-and-wi-fi-interference), like Wi-Fi, bluetooth, and wireless peripherals. A recommendation has been to switch to 5 GHz Wi-Fi, but that can't fix your keyboard dongle.
+- It's called ["inner source"](https://en.wikipedia.org/wiki/Inner_source) if you are only allowed to do "open source" but within your own company. Big companies like it because teams don't wait for another team to work on something they need.
+- [Sun microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems#History) came from SUN, or [Stanford University Network](https://en.wikipedia.org/wiki/Stanford_University_Network).
 - Laminate flooring cannot be mopped (with a wet mop).
 - An "oblast" is roughly equal to an area, province, or region.
 - A "break glass solution" might be one where a non-ideal, hack-like solution is made available for emergencies.

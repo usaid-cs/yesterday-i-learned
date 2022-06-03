@@ -56,6 +56,7 @@ Fiat currency is rigged against you. The government sets a positive target infla
 * Since bonds are sold in large quantities, you typically don't buy stocks directly. Buy mutual funds or ETFs that invest in bonds instead.
 
 * In a positive interest rate economy, bonds probably yield you however much the interest rate is. In a negative interest rate economy, [bonds earn you nothing](https://global.pimco.com/en-gbl/resources/education/investing-in-a-negative-interest-rate-world) (or worse, cost you money to invest in).
+* When interest rates rise, bond yields go up, and [the older low-yield bonds drop in value relative to the new, higher-yield bonds.](https://old.reddit.com/r/CanadianInvestor/comments/tbqd7p/attn_bond_investors/). So your bond ETFs will go down in price.
 * Think of bonds as an inflation hedge (like precious metals) that have a minimum "return", but also have a maximum. In the case of hyperinflation, precious metals don't have a maximum "return".
 * You can tell how screwed bonds/bond funds are by looking at the [bond yield](https://ca.investing.com/rates-bonds/canada-5-year-bond-yield), which is a number posted by some... one. When that gets close to 0%, you should sell. And when it actually hits 0% (once inflation is taken into account), it is a signal that you *must* sell.
 * When "inverted yield curve" (term for short-term bonds having a higher yield than long-term bonds) happens, [be careful of a recession](https://www.investopedia.com/terms/i/invertedyieldcurve.asp).
@@ -111,6 +112,7 @@ Similarly, [Margins](http://www.investopedia.com/articles/basics/11/dangerous-mo
   - [Different industries have different acceptable P/E ratios.](https://www.investopedia.com/video/play/stock-lower-pe-always-better-choice/) when comparing P/E ratios, only do so for companies in the same industry.
 - The stock's _price-to-sales ratio_ should be close to 1.
 - Avoid stocks you find on the news (for they become unstable), "the next big thing" companies, and companies that diversify through acquisition instead of innovation.
+- Avoid companies that go on the stock exchange through "direct listing". In direct listing, the company generates 0 new shares, i.e. not offering anything. Existing investors hold all the shares. Therefore, the purpose of the listing is just to give the existing investors a way to sell their shares. If they truly want to build a better company, why would they do that?
 
 [You should also like what the company does](https://www.reddit.com/r/stocks/comments/5rsnr5/what_is_the_most_important_research_before_buying/dd9v416/):
 

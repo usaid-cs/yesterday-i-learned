@@ -31,6 +31,33 @@ The minimum node count for production is 3.
 * Run command in a pod (with one container): `kubectl exec (podname) -- (command, like ls)` (the `--` is necessary whenever you want to give your `ls` some arguments.)
 * Run shell in a pod (with one container): `kubectl exec -ti (podname) bash`
 
+#### Requesting resources
+
+Given an k8s file like this:
+
+```
+apiVersion: v1
+kind: Pod
+metadata:
+  name: frontend
+spec:
+  containers:
+  - name: app
+    image: images.my-company.example/app:v4
+    resources:
+      requests:
+        memory: "64Mi"
+        cpu: "250m"
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
+```
+
+`requests` are resources that your app is guaranteed to get (or be left in pending state since it won't start). `limits` are hard caps on the resource.
+
+* If you use more memory than you request, that's fine. If you use more memory than your limit, the pod gets **killed**.
+* If you use more CPU than you request, that's fine. If you use more CPU than your limit, the pod gets `max(your limit, the actual amount of CPU time the node can give you)`, but at least it doesn't get killed because of that.
+
 ## Training
 
 Use [`minikube start`](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/) to start a cluster. It can take some time.

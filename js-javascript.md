@@ -196,6 +196,7 @@ undefined
 - Crockford's JSON/JSLint licence had a clause in there, saying ["The Software should be used for Good, not Evil."](http://dev.hasenj.org/post/3272592502/ibm-and-its-minions) So then IBM's lawyers had to ask for permission to use them for evil...
 - [`[]` is truthy. `[] == false` is also truthy.](https://www.freecodecamp.org/news/falsy-values-in-javascript/) Here's JavaScript saying: fuck you.
 - [`parseInt(string, int)`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt) is laughing stock, for the reason that it takes an incorrect number of arguments, and invalid arguments, at the same time. Give a a float? [No problem. `parseInt(0.0000005) == 5`](https://old.reddit.com/r/ProgrammerHumor/comments/shmec9/we_all_love_javascript/hv3geze/). Omit the radix? [No problem](https://medium.com/dailyjs/parseint-mystery-7c4368ef7b21). No one needs to know how it works.
+- `"aaaaa" === "aaaaa"` because they are the same strings, even though they are copies. `new String("aaaaa") === new String("aaaaa")` is `false` because despite being the same strings, they are copies. [`String` objects aren't of type `string`](https://stackoverflow.com/questions/17256182/what-is-the-difference-between-string-primitives-and-string-objects-in-javascrip). If God didn't exist, why would this happen? Checkmate, atheists.
 
 ### *Internet Explorer* Quirks and Features
 
@@ -223,7 +224,7 @@ undefined
 - `$('#password').val()` works on Firefox's autocompleted password fields!
 - [jQuery's `.append()`](http://api.jquery.com/append/) can accept plain HTML strings.
 - `$.fn.not` is [**not** the opposite of `$.fn.is`](http://ajpiano.com/the-opposite-of-jquerys-is-method-is-not-not-it-is-is/) -- `$.fn.not` always gives you a truthy return.
-- Apparently [\$.Deferred is a monad](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/).
+- Apparently [`$.Deferred` is a monad](http://sean.voisen.org/blog/2013/10/intro-monads-maybe/).
 
 ### Deferred API
 
@@ -298,6 +299,7 @@ undefined
 
 ## Node
 
+- Isomorphic rendering, universal rendering, server-side rendering (SSR), are the exact same thing.
 - [Shebangs are permitted in server-side `.js` files](http://stackoverflow.com/questions/10696222/how-to-make-javascript-support-shebang) run by nodejs or js.
 - [The article about NodeJS 8 release](https://nodejs.org/en/blog/release/v8.0.0/), saying _'Note that, when referring to Node.js release versions, we have dropped the "v" in Node.js 8. Previous versions were commonly referred to as v0.10, v0.12, v4, v6, etc. In order to avoid confusion with V8, the underlying JavaScript engine, we've dropped the "v" and call it Node.js 8'_, was titled _'Node v8.0.0 (Current)'_.
 - [Assigning anything to `process.env`](http://stackoverflow.com/questions/42170365/how-do-i-remove-a-value-in-process-env), even if it is `null` or `undefined`, converts it to their strings `"null"` and `"undefined"`. To delete a key from `process.env`, `delete` it.
@@ -341,5 +343,6 @@ undefined
 - Jasmine has both [`createSpy` and `createSpyObj`](http://stackoverflow.com/questions/24321307/what-is-the-difference-between-createspy-and-createspyobj). The former gives a function; the latter is an object with methods.
 - [Karma is for testing client code only](http://stackoverflow.com/questions/16660670/how-to-test-nodejs-backend-code-with-karma-testacular),
 - Replacing `it(...)` with `fit(...)` in a karma test suite will skip all tests except those marked with `fit`.
+- Update: `fit(...)` has since been replaced by `it.only(...)`.
 - `karma start --reporters dots,coverage` runs `karma` without the annoying long list of successes.
 - Running just `karma start` without `--single-run` predictably runs karma whenever a file is changed.

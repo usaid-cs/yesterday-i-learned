@@ -114,6 +114,7 @@
 - To make a shallow clone of a list, do `new ArrayList<>(aList)`. This is equivalent to `list(a_list)` in python. You can also try [`aList.clone()`](https://www.geeksforgeeks.org/arraylist-clone-method-in-java-with-examples/) if you have an ArrayList. There are [warnings about threads and thread safety](https://stackoverflow.com/questions/14319732/how-to-copy-a-java-util-list-into-another-java-util-list), so try not to fuck with concurrency.
 - `anotherList = aList.subList(0, aList.size())` produces a [view](https://stackoverflow.com/questions/3962766/how-to-get-a-reversed-list-view-on-a-list-in-java#comment76811001_3963075) of the original list, not a copy of the list. Consequently, if you do anything to `anotherList`, it will affect the contents of `alist`. If you `Collections.reverse()` a subset of the list, for example, then the original list will have that subset reversed, as well.
 - `aList.equals(anotherList)` really checks if the two lists are the same! Wow!
+- [`string.capitalize()`](https://www.programiz.com/python-programming/methods/string/capitalize) is way too easy. Can't have that. Use Apache's [`StringUtils.capitalize()`](https://commons.apache.org/proper/commons-lang/javadocs/api-2.5/org/apache/commons/lang/StringUtils.html#capitalize%28java.lang.String%29) or [`WordUtils.capitalize`](https://commons.apache.org/proper/commons-lang/javadocs/api-2.5/org/apache/commons/lang/WordUtils.html#capitalize%28java.lang.String%29) (actually sentence case, but doesn't matter for one word) instead.
 
 ### `null`
 
@@ -130,7 +131,7 @@
 - Java has an [`Optional` container type](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html) that lets you do your null checks with a different set of methods instead of `!= null`. Although [an `Optional` type can never return null](https://stackoverflow.com/questions/28746482/optional-vs-null-what-is-the-purpose-of-optional-in-java-8), you will still need to check if the thing you returned "is empty", i.e. whether the underlying value is null. [Could be mistaken though](https://dzone.com/articles/using-optional-correctly-is-not-optional).
 - Don't return an `Optional` if you can return an "empty" container instead. For example, if you are normally returning a list of something, an empty list is a perfectly valid return value.
 - Prefer null checks to `Optional` if all you do is create an Optional for the sole purpose of chaining methods on it: [item 12](https://dzone.com/articles/using-optional-correctly-is-not-optional). If your optional is created and destroyed in the same scope, think twice.
-- Prefer alternatives to `Optional.isPresent()` and `Optional.get()` if there are any. `anOptional.orElse(defaultValue)` is a good one (equivalent to `thingy || defaultValue` in JS).
+- Prefer alternatives to `Optional.isPresent()` and `Optional.get()` if there are any. [`anOptional.orElse(defaultValue)`](https://www.baeldung.com/java-optional-or-else-vs-or-else-get) is a good one (equivalent to `thingy || defaultValue` in JS). There is also an [`Optional.orElseGet(() -> func())`](https://www.baeldung.com/java-optional-or-else-vs-or-else-get#orElseGet), which lets you decide what the fallback value is at the time the optional is forced to provide a value.
 - `orElse(null)` is some stupid thing that lets you adapt your code to old code that allows nullable references.
 - `Optional.ifPresent(someLambda)` simply does nothing if the Optional is empty.
 - `Optional.steam()` retains anything that is present. `.flatMap(Optional::stream)` is equivalent to `.filter(Optional::isPresent).map(Optional::get)`.
@@ -140,6 +141,7 @@
 - [Use `Optional.of()` when you know the thing can't be `null`](https://stackoverflow.com/a/31696584/1558430), and `Optional.ofNullable()` when it can be `null`. Because of the nature of `Optional` (it helps you handle `null`), using a `Optional.of()` that raises `NullPointerException` is really just in terms of contract (i.e. you need to return an `Optional`, but quite often you know for sure that you should be returning something).
 - [`Objects.nonNull`](https://www.developer.com/java/java-7-feature-asserting-non-null-objects/) is an assertion-like call that throws `NullPointerException` wherever you want to make sure something is definitely not null at some point, i.e. `variable!!`, except less elegant.
 - This whole "null " thing happens to allow you to write linked list iteration without worrying if `node.next` is a node (because it may be null).
+- A method can only ever return a single type. There is no `Foo|Bar`. To get around this (and get fired), return their common type, which is often `Object`.
 
 ## Generics
 
@@ -162,7 +164,8 @@
 
 ## Classes, Interfaces, and things to that effect
 
-- If your class is not designed to be subclassed, mark it as `final`.
+- If your class is not designed to be subclassed, mark it as `final`. `final` is Java's term for being initialisable only once, be it classes, methods, the variables within, or even [the arguments](https://stackoverflow.com/questions/4162531/making-java-method-arguments-as-final).
+- [`static final`](https://stackoverflow.com/a/15655071/1558430) class variables must be initialised either inline, or in a `static { }` block.
 - The "readable yet obscure" way to initialise an object is through [double brace initialisation](https://www.baeldung.com/java-double-brace-initialization), where you can add an anonymous class to the end of an instantiation (i.e. `new Foo() { ... }`), but you can also [add a constructor](https://wiki.c2.com/?DoubleBraceInitialization) to that anonymous class using another pair of braces (i.e. `new Foo() {{ ... }}`), hence the name.
 - A class constructor is named after the class, and a subclass instantiation calls constructor methods from the ancestor to the terminal class, *on the terminal class*. Therefore, if `class Sub extends Super`, and both of these classes have a constructor, then `Super()` is first called, and `Sub()` is then called. To beware in this case: if both `Super()` and `Sub()` call `overrideMe()` and `Sub` overrides `overrideMe`, then `Sub.overrideMe` will be called twice and `Super.overrideMe` will be called zero times.
 - People [prefer interfaces over abstract classes](https://stackoverflow.com/questions/639592/why-are-interfaces-preferred-to-abstract-classes) because abstract classes must be the bottom of the inheritance chain. Once you inherit it, you can't inherit something else.
@@ -237,20 +240,22 @@
 - A method `public void foo(String...bar)` means that [it accepts an arbitrary number of arguments of type `String`](http://stackoverflow.com/a/3158767/1558430). If used in conjunction with other parameters, this must be placed last.
 - A method name is too long if it's 65536 characters or longer.
 - A lambda does not compile if it tries to access a non-final variable... but it will still work if it is "effectively final" (i.e. not modified, see above). Something about thread safety.
+- [`getDeclaredMethods`](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html#getDeclaredMethods--) gets both public and private methods by the class itself, while [`getMethods`](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html#getMethods--) gets all public methods by the class *and* its base classes.
 
 ## Exceptions
 
 - It is common knowledge for java developers that "NPE" stands for `NullPointerException`.
+- "Throwables" are the base class for everything you can `throw`. This includes errors and exceptions.
+- Errors, like `IOError`, `VirtualMachineError`, and `StackOverflowError`, are best left unhandled by an app. - Paraphrasing Cecili Reid. In fact, you probably won't be able to handle them. Note: there is an `IOException` too, which can be caught.
 - `try { } catch (Exception e) {}` does not catch undefined variable and attribute accesses, aka [`cannot find symbol`](http://www.roseindia.net/java/java-get-example/cannot-find-symbol.shtml).
 - The syntax for catching multiple exceptions is `SomeExceptionClass|AnotherExceptionClass`.
-- A method can choose not to catch an exception only if it says it `throws` the same exceptions in its own signature.
+- [Checked exceptions](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/) are called that because they are checked at compile time; they are [exceptions that can reasonably occur during normal use of the code](https://www.theserverside.com/answer/What-are-checked-vs-unchecked-exceptions-in-Java). Unchecked exceptions, on the other hand, are programming errors you don't expect.
+- Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack. You need to declare checked exceptions in methods (a method can choose not to catch an exception only if it says it `throws` the same exceptions in its own signature). Or you can handle them.
+- Runtime exceptions (i.e. unchecked ones) shouldn't be caught. `NullPointerException` is an unchecked exception, but your IDE might warn you about it, so you handle it before it becomes a possibility.
 - Finalizers have been deprecated since Java 9 because it tends to break code. It is replaced by Cleaners, which are also unnecessary in most cases. They don't have execution guarantees, so avoid both of them when doing anything time-critical. (Look into implementing `AutoClosable` instead)
 - "Try with resources" has the syntax `try (BufferedReader br = new BufferedReader(new FileReader(path))) { ... }`. Compared to "try-finally", it shows the correct exception message when closing a file fails in the finally block.
 - Every time you put [`@SuppressWarnings("unchecked")`](https://stackoverflow.com/questions/1129795/what-is-suppresswarnings-unchecked-in-java), make sure you do it at the smallest scope, and make sure you explain why.
-- [Checked exceptions](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/) are called that because they are checked at compile time. You need to declare those in methods that throw them. Or you can handle them.
-- Checked exceptions (anything with the syntax `type methodName throws SomeExceptionClass`) must be caught immediately above its execution stack.
 - Don't ever throw *or* catch `AssertionError`. You can use `assert`, obviously.
-- Runtime exceptions (i.e. unchecked ones) shouldn't be caught.
 - Methods with checked exceptions can't be used directly in streams, so avoid unnecessary use of checked exceptions. Maybe Optional and unchecked exceptions can help in either case.
 - [Java does not make use of EAFP](https://old.reddit.com/r/badcode/comments/sxo7lo/no_needs_to_check_java_will_do_it_for_me/). Try-catch blocks are relatively expensive. It is better to ask for permission in Java than for forgiveness.
 
@@ -272,6 +277,8 @@
 - `Class.forName`, like PHP's `get_class`, returns the class object called that string. The string needs to be the class' full qualifier.
 - Reflections are cool, but you lose type checking. They are also [slow](https://stackoverflow.com/questions/42425906/is-java-reflection-bad-practice).
 - The [`@FunctionalInterface` annotation](https://www.baeldung.com/java-8-lambda-expressions-tips) tells the compiler to fail if you try to add more than one method to a [functional interface](https://www.baeldung.com/java-8-functional-interfaces#Functional). A functional interface is an interface that contains a single abstract method.
+- The [`@PostConstruct` annotation](https://www.baeldung.com/spring-postconstruct-predestroy) is called after all property-setting is complete. In Spring, you can start using autowired dependencies in a method annotated with it.
+- The `@PreDestroy` annotation is executed before the ApplicationContext closes.
 
 ## Streams, threads, and parallel programming
 
@@ -282,6 +289,7 @@
 - Try to avoid returning a stream unless you know it will be used as a stream. If not then return a collection.
 - [Reading a file with input streams](https://www.overops.com/blog/improve-your-application-performance-with-garbage-collection-optimization/) (and never holding the entire file in memory) is better than storing a file in a byte array, for both memory reasons, and the garbage collection that follows: [`FileInputStream fis = new FileInputStream(fileName); MyProtoBufMessage msg = MyProtoBufMessage.parseFrom(fis);`](https://gist.github.com/TaliSoroker/37df26e570a6d45093c2cc3633e4dd94#file-gctip2)
 - Streams are easy to parallelise using `.parallel()`, but it may do the wrong thing (if your stream processors aren't pure functions, for example). The rough rule of thumb given by Josh suggests using `.parallel()` on something if you know (number of elements * lines of code per element) exceeds 100k.
+- A [Mono](https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html) is a specialised Publisher [that emits at most one item](https://stackoverflow.com/a/60706755/1558430).
 
 ## How Java gets around having no features™
 
@@ -318,6 +326,10 @@
 - `Objects.requireNonNull` apparently supersedes `== null` checks. In nonpublic methods, you can also use `assert` (because you control the code).
 - ["Mocking a final class is just as easy as mocking any other class"](https://www.baeldung.com/mockito-final). If you can't, you can still [write a `@Delegate` class that wraps every method of the final class](https://stackoverflow.com/a/14292975/1558430), and then test the final class there. It's just subclassing [with extra steps](https://awwmemes.com/t/extension-ladder).
 - [Jupiter is the testing side of JUnit 5](https://nipafx.dev/junit-5-architecture-jupiter/). The rest of JUnit 5 are Vintage (test runner), and Platform (API for tools). JUnit 5 tests inherit from `org.junit.jupiter.api.Test`, whereas JUnit 4 tests inherit from `org.junit.Test`.
+- Mocking a void method is different from mocking any other method, because you can't `.thenReturn()` a void method. You can try: `doNothing().when(aClassInstanceSpy).methodName(any(T));`, which does nothing when `aClassInstance.methodName(...)` is called.
+* `.when()` accepts a mock, and only a mock. If you don't have a mock, call either `mock(Class)`, or `spy(classInstance)`.
+- There are three mocking styles for Mockito: `given(...).willReturn(...)`, `when(...).thenReturn(...)`, and `doReturn(...).when(...)`. [The `doReturn` one is the only one that works when you want to mock a method that returns `void`](https://stackoverflow.com/a/20354074/1558430) because it doesn't do compile-time type checking (the other two do, and you probably should use them whenever possible).
+- `@Mock`s don't do anything, and always returns `null`/`false`/default values. `@Spy` still does what the old thing does.
 
 ## Packages, imports, and ecosystem
 
@@ -335,6 +347,10 @@
 - You can import `blah.blah.blah` without having the actual source code -- as long as you have their `class`es.
 - Maven and Gradle [are](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/) Java's equivalent of npm. It just so happens that those tools also help you build the project, because Java projects need to be built.
 - With "static import", e.g. `import java.lang.System.*;`, you import static members of a class directly into the scope.
+- To [install a package with Maven](https://www.jetbrains.com/help/idea/work-with-maven-dependencies.html#generate_maven_dependency), add the crap into `pom.xml`, and then run [`mvn dependency:resolve` or `mvn install`](https://stackoverflow.com/a/8564244/1558430).
+- ["Yahoo Zookeeper"](https://dattell.com/data-architecture-blog/what-is-zookeeper-how-does-it-support-kafka/) is some sort of synchronisation service that keeps track of Kafka cluster nodes, topics, and partitions, (I think?) [for maintaining the leader out of a cluster of Kafka brokers](https://www.cloudkarafka.com/blog/cloudkarafka-what-is-zookeeper.html).
+- "Error serializing Avro message" means [your Kafka schema registry is not running](https://github.com/confluentinc/kafka-connect-hdfs/issues/124).
+- When `json` says [`.getJSONObject()`](https://www.tabnine.com/code/java/methods/org.json.JSONObject/getJSONObject), they actually mean a plain old JSON object (`{...}`) wrapped in a Java type. So `JSONObject jsonObject = new JSONObject("...")` parses that JSON string, and `jsonObject.getJSONObject("foo");` gets the object key `foo` from that object.
 
 ## Garbage
 

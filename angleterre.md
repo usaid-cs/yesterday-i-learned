@@ -1,5 +1,7 @@
 # Das Vereinigte Königreich
 
+- Boris Johnson's full name is Alexander Boris de Pfeffel Johnson. Instead of going by Alex, he chose to be Boris (a Russian name).
+- The Queen has a woman called [Angela Kelly](https://en.m.wikipedia.org/wiki/Angela_Kelly) manage [her wardrobe](https://www.townandcountrymag.com/style/fashion-trends/a18370727/angela-kelly-queen-elizabeth-senior-dresser/). They happen to have the same shoe size, so she breaks in the Queen's shoes for her.
 - Z is pronounced *Zed* to reflect its origin, the Greek alphabet [*zeta*](https://en.wikipedia.org/wiki/Zeta)... which the Brits pronounce *ZEEta*.
 - Scotland is a country, just not a sovereign one.
 - 事頭婆 means "the woman in charge". It originally referred to the Queen.

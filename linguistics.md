@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- *Le monde* is one of the examples in French where [a word ending with *e* is masculine](https://grammar.collinsdictionary.com/french-easy-learning/gender). Other examples: *homme*, *livre* (if used to mean "book"), *mètre*.
 - "JWT" is pronounced "jot" due to shear difficulty in pronouncing it correctly.
 - [Upsetti Spaghetti](https://www.urbandictionary.com/define.php?term=Upsetti%20Spaghetti): a way to say "upset", but with more syllables.
 - Shea butter is shay butter?
@@ -82,6 +83,7 @@
 - The Chinese character set was [simplified](https://en.wikipedia.org/wiki/Simplified_Chinese_characters#History) twice, once in 1956 and 1964. Note that the [cultural revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) officially started in 1966, and using simplified characters signified that you were a [leftist](https://en.wikipedia.org/wiki/Left-wing_politics), i.e. a socialist.
 - [Tenderness](https://www.vocabulary.com/dictionary/tenderness) is "the quality of a person who cries when they see someone get hurt".
 - [Welsh is the only *de jure* (by law) official language](https://en.wikipedia.org/wiki/Languages_of_the_United_Kingdom) in any part of the UK.
+- [Maori and NZ Sign Language are the only *de jure* (by law) official languages](https://en.wikipedia.org/wiki/New_Zealand) in New Zealand.
 - When writing about yourself, "you" and "I" refer to the same person, but if someone else reads what you wrote, only "I" refers to you, so use the first person.
 - Snow peas are called [_mangetout_](https://en.wiktionary.org/wiki/mangetout) because the pod is edible.
 - [Learned](https://www.grammarly.com/blog/learned-learnt/) can be an adjective (e.g. in "She is a learned woman") describing something as knowledgeable. In this case, it is pronounced LER-ned, and it cannot be spelled "learnt".

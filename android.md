@@ -6,6 +6,7 @@
 
 ## [Android Guides](https://github.com/codepath/android_guides/wiki)
 
+- Termux has a [`termux-url-opener` hook](https://wiki.termux.com/wiki/Intents_and_Hooks) that allows sharing of URLs from an app into Termux. This, combined with a handler that calls `youtube-dl`, technically lets you download a video when you share it from youtube.
 - AccuBattery is [neither precise nor accurate](https://www.antarcticglaciers.org/glacial-geology/dating-glacial-sediments-2/precision-and-accuracy-glacial-geology/). Its many (inaccurate) data points eventually converge to achieve an average, but potentially still at the wrong place (imprecise).
 - [Phone cases do not negatively impact thermal performance](https://www.youtube.com/watch?v=G7-Fa9KzhxQ), as long as the screen is exposed.
 - Under-screen fingerprint scanners require a transparent window over the screen, the screen protectors of which might try to do something like [having a patch of glue where the scanner is](https://old.reddit.com/r/galaxynote10/comments/le1k81/i_got_tempered_glass_professionally_installed_and/). The cheap ones might only have that glue at the scanner. More expensive ones will have a uniform-looking screen.

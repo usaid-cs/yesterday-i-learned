@@ -4,17 +4,17 @@
 
 ### Entry-level (0~2 years)
 
-New-grads or little to no industry experience.
-Develop and maintain low to moderately complex components working on a team.
-Typically receives guidance and support from more experienced team members.
+* New-grads or little to no industry experience.
+* Develop and maintain low to moderately complex components working on a team.
+* Typically receives guidance and support from more experienced team members.
 
 ### Intermediate engineers (2~5 years)
 
-Develop and own moderate to complex components.
-Possibly lead a small team or project.
-Ability to mentor engineers, provide technical guidance, code reviews, design and deliver on small projects end-to-end.
-Impact is typically at the immediate team scope.
-At many companies, this is considered a 'career-level', as in you can spend the rest of your career operating at this level without being pushed out for not being promoted.
+* Develop and own moderate to complex components.
+* Possibly lead a small team or project.
+* Ability to mentor engineers, provide technical guidance, code reviews, design and deliver on small projects end-to-end.
+* Impact is typically at the immediate team scope.
+* At many companies, this is considered a 'career-level', as in you can spend the rest of your career operating at this level without being pushed out for not being promoted.
 
 ### Senior engineers (5+ years)
 
@@ -185,85 +185,10 @@ If you need to, say, "get one random line from a file", and you don't want to ke
 
 [Space-time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff) is usually "trade space for speed", rather than "trade speed for space". You frequently see things like caches (space for speed) and hashes (space for speed). There are occasions where space is limited (like in firmware), but they are comparatively rare.
 
-## Patterns
+## Patterns and Principles
 
-The [SOLID pattern](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29): "one class does one simple thing, and the subclasses of this class also does the same thing."
-
-### Creational patterns
-
-#### [Builder](https://refactoring.guru/design-patterns/builder)
-
-Lets you construct a complex object step by step. Useful for constructing different objects with the same setup code.
-
-```
-new Car()
-    .setWheels(4)
-    .setTransmission(manual)
-    .getProduct()
-
-new Car()
-    .setWheels(2)
-    .setTransmission(CVT)
-    .getProduct()
-```
-
-#### [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
-
-The abstract factory interface has methods that claim to return an abstract object.
-
-The concrete factories that subclass from the abstract factory can decide for themselves what kind of concrete objects they will produce.
-
-#### [Factory Method](https://refactoring.guru/design-patterns/factory-method)
-
-A concrete factory decides, for you, what kind of object you would like.
-
-For example, the `Dialog.create` method will decide whether to return `WinDialog` or `MacDialog` depending on the OS context.
-
-#### Prototype
-
-Subclasses all support a method called `clone()`, and you delegate the cloning method to the object itself (since some parts of the object can be private).
-
-#### Singleton
-
-The class contains a `getInstance()` method, which keeps track of the first object that it creates, and returns a reference to that object every time.
-
-### Structural patterns
-
-#### Adapter
-
-#### Bridge
-
-#### Composite
-
-#### Decorator
-
-#### Facade
-
-#### Flyweight
-
-#### Proxy
-
-### Behavioural patterns
-
-#### Chain of Responsibility
-
-#### Command
-
-#### Interpreter
-
-#### Mediator
-
-#### Memento
-
-#### Observer
-
-#### State
-
-#### Strategy
-
-#### Template Method
-
-#### Visitor
+- Design principles are general guidelines. Design patterns are specific solutions: how to do something to follow the design principles.
+- "Encapsulate what varies": separate what varies in the data. See the "strategy", "iterator", and "strategy" patterns to see how to do it.
 
 ## Misc
 
@@ -318,4 +243,4 @@ The class contains a `getInstance()` method, which keeps track of the first obje
 - Binary search trees, aka "trees", have a lookup runtime of O(log n), but only if the tree is balanced.
 - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) came up with the term "object-oriented programming". With that said, [today's OOP is not what he had in mind](https://softwareengineering.stackexchange.com/questions/46592/so-what-did-alan-kay-really-mean-by-the-term-object-oriented/58732#58732): OOP to him meant "only messaging, local retention and protection and hiding of state-process, and extreme late-binding of all things". He argued that [message passing is more important than objects in OOP, and that objects themselves are often over-emphasized (quote from wikipedia)](https://en.wikipedia.org/wiki/Message_passing#Mathematical_models).
 - Microservice allows you to *decommission aging parts of the system* independently, in addition to being able to build new software in atomic teams.
--
+- [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg), Dutch guy, is (at least partially) responsible for the design of J++, C#, and TypeScript.

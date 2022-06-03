@@ -31,6 +31,7 @@
 
 - `[,].length` is 1. `[1,].length` is also 1. `[1,,].length`, which is new, is 2. For any array with [dangling commas](https://davidwalsh.name/es7-es8-features) (and only dangling commas), the length is equal to the number of commas. If not (for example, `[1,,,1].length` is 4), the length is increased by 1.
 - Also fun fact: the items stored in between dangling commas is `<x empty slots>` rather than `undefined`.
+- The collection of new syntax also leads to new functions like this one: `const createArray = (length) => [...Array(length)];`.
 
 ### New methods
 
@@ -180,6 +181,7 @@ const obj = {
 - [Class property methods are attached by the instance constructor](https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1), so [a subclass with an overridden property method with the same name cannot use `super` to access it](scripts/class-property-inheritance.js). It is also 20x slower to run methods like that, vs normal class methods (see article).
 - You call a superclass's constructor method using `super()`, but you can only call a superclass's constructor like that in `constructor`s. You also cannot call a constructor by name, i.e. `SomeClass.constructor()`, or `new SomeClass.constructor()`. [See source](sources/0004.js). In other words, you can only use `super()` for `constructor`, and you can only use `super.foo()` for other methods.
 - Classes can have [`#privateStaticMembers`](https://www.sitepoint.com/javascript-private-class-fields/). You haven't used it because it is supposed to come out in ES2019. Accessing a `#privateMember` gives you `SyntaxError` instead of the more common `TypeError` (for when something is supposedly undefined).
+- Because of all being syntactic sugar, [a class can have two methods in it with the exact same name](https://eslint.org/docs/rules/no-dupe-class-members) (e.g. `class A { b() {} b() {}}`). The last `b() {}` becomes the active definition.
 
 ## [Proxies](http://ariya.ofilabs.com/2013/07/es6-and-proxy.html)
 
