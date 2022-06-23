@@ -1,5 +1,6 @@
 🇨🇦
 
+- Termination pay is not the same as severance pay. You get severance pay only after you stay at the company for more than 5 years. Termination pay is the pay you get when the company fires you with no notice.
 - Non-CAD assets in a TFSA is subject to a 15% withholding tax.
 - "Steering" is when [real estate agents direct their buyers to high-commission homes, and away from low-commission homes](https://www.youtube.com/watch?v=ShBvRe0Jv68), like self-listed ones. Typically, the seller pays 5% commission (2.5% for the selling agent, 2.5% for the buying agent), but if the buyer is a self-listed buyer, the seller pays 1% total.
 - [The St Jacobs farmers market is run by a business](https://stjacobsmarket.com/market-history/#:%7E:text=2017,Schlegel%20Urban%20Developments%20in%202017) who [doesn't want to pay for labour](https://old.reddit.com/r/waterloo/comments/ukykum/at_least_costco_and_walmart_pay_their_employees/), opting for volunteers for things like property maintenance. The Kitchener market is run by the government, for the community.

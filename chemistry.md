@@ -1,5 +1,6 @@
 "It is only the dose which makes a thing poison." - Paracelsus
 
+- Water cannot be used to put out gasoline fires because water is heavier; it sinks.
 - ["I've been out of that job for almost 20 years, but I think parabens and pthalates acted more as thickeners and stabilizers to help soap have a certain thick 'feel' and stay in solution when sitting a long time"](https://old.reddit.com/r/askscience/comments/uo5y00/is_bar_soap_a_breeding_ground_for_bacteria/i8e2j8g/) -/u/WiseFerret
 - Chelated mineral supplements (e.g. calcium citrate) don't need to be taken with food because ["a mineral has been bound to an acid, so it doesn't rely on your stomach acid to break it down"](https://www.washingtonpost.com/lifestyle/wellness/morning-or-night-with-food-or-without-answers-to-your-questions-about-taking-supplements/2019/02/04/5fcec02a-2577-11e9-81fd-b7b05d5bed90_story.html). I am not sure why calcium citrate is considered chelated... maybe it really is an alkali earth *metal*, I guess.
 - Galvanised (zinc-coated) pipes and fittings can leak zinc into drinking water if the water is, at any point, acidic.

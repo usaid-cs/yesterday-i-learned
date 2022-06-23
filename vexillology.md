@@ -1,3 +1,4 @@
+- All [50 top universities](https://en.wikipedia.org/wiki/QS_World_University_Rankings) come from countries whose flags have the colour red.
 - There is an "up" side to the confederate flag: [the star at the middle points up when the flag is pointing up](https://www.reddit.com/r/beholdthemasterrace/comments/oysj59/-/h7v2kew). Other than that, there is virtually no difference between up and down.
 - The flag of Bhutan has [a dragon on it](https://en.wikipedia.org/wiki/Bhutan). Bhutan is a buffer state between China and India.
 - The [Kingdom of Dalmatia](https://en.wikipedia.org/wiki/Kingdom_of_Dalmatia) got the really short end of the stick when [Croatia](https://en.wikipedia.org/wiki/Croatia) decided to make [a new flag](https://en.wikipedia.org/wiki/Flag_of_Croatia). Apparently the tiny bits of yellow on that flag (try spotting it) was enough to symbolise the Kingdom of Dalmatia.

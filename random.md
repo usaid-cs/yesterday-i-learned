@@ -1,6 +1,13 @@
 ![Drake](https://i.imgur.com/20fiqQR.jpg)
 
--
+- Kafka "dead letters" are [messages that cannot be delivered due to some error](https://medium.com/@sannidhi.s.t/dead-letter-queues-dlqs-in-kafka-afb4b6835309).
+- The difference between a layoff and a [RIF](https://blog.careerminds.com/rif-vs.-layoff) (reduction in force) is that the people terminated from an RIF is no longer needed.
+- A [gardening leave](https://en.wikipedia.org/wiki/Garden_leave) happens when you are told to leave work with full pay during your notice period, so you can spend time gardening or something. It prevents: crappy work, sabotage, and the employee taking sensitive information with them when they leave. Nothing in particular that they couldn't have done prior to the notice period, but the practice prevails.
+- The same person who said [people are often promoted to the point of incompetence](https://en.wikipedia.org/wiki/Laurence_J._Peter), also said "(the) noblest of all dogs is the hot-dog; it feeds the hand that bites it.". He died from stroke.
+- [Michael "Mangetout" Lotito](https://www.ripleys.com/weird-news/mangetout/) once ate a Cessna 150 over the course of two years.
+- "Accessibility is more than just having access. If you have a building with 100 floors and it only has stairs, technically all the floors have a method of access, but clearly the stairs aren't exactly accessible." - Paraphrasing [Carrie Morales](https://www.linkedin.com/in/carrie-s-morales/), on effort of accessibility
+- Datadog can probe your internal services if you [run a worker inside your private network](https://docs.datadoghq.com/getting_started/synthetics/private_location/).
+- Tiffany Blue is inspired by the colour of robin eggs.
 - Rooms with high ceilings are hard to heat because [all the heat is at the top](https://www.hunker.com/13415719/how-to-heat-a-house-with-high-ceilings), too high for you to feel.
 - The Guinness Book of Records stopped accepting records for "longest time gone without sleep" in 1989 because it was so dangerous. They also dropped alcoholic-related records (ironic) because they aren't healthy.
 - On-street parking is banned in Japan. That's why their streets look so good compared to the stroads elsewhere. You can still park temporarily on the side of the street for loading/unloading, obviously.
@@ -15,7 +22,7 @@
 - Sometimes companies call it a ["brown bag" meeting](https://www.investopedia.com/terms/b/brown-bag-meeting.asp) when it's a lunch-and-learn: the kinds of meetings where you are expected to eat, rather than to take any notes or remember anything.
 - Cave-diving is especially dangerous because there is no sense of orientation down there. You might be convinced you are swimming up, but actually going further down.
 - [Poorly-designed USB 3.0 appliances emit radio frequencies that interfere with 2.4 GHz devices](https://www.pcmag.com/opinions/wireless-witch-the-truth-about-usb-30-and-wi-fi-interference), like Wi-Fi, bluetooth, and wireless peripherals. A recommendation has been to switch to 5 GHz Wi-Fi, but that can't fix your keyboard dongle.
-- It's called ["inner source"](https://en.wikipedia.org/wiki/Inner_source) if you are only allowed to do "open source" but within your own company. Big companies like it because teams don't wait for another team to work on something they need.
+- It's called ["inner source"](https://en.wikipedia.org/wiki/Inner_source) if you are allowed to do "open source" but only within your own company. Big companies like it because teams don't wait for another team to work on something they need.
 - [Sun microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems#History) came from SUN, or [Stanford University Network](https://en.wikipedia.org/wiki/Stanford_University_Network).
 - Laminate flooring cannot be mopped (with a wet mop).
 - An "oblast" is roughly equal to an area, province, or region.

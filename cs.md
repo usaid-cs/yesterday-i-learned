@@ -38,6 +38,8 @@ This level is much more coveted than the previous ones. Typically less than 10% 
 * Role depends highly on organizational and company needs and becomes loosely defined.
 * **Expected to operate fully autonomously.**
 
+> Many companies hire competent coders who have to be directed by higher paid eng managers and PMs. At many top companies, they do the opposite. You’re accountable for figuring out what to do yourself and executing on it to meet the business goals. If you can’t do that, you’re at risk of the dreaded PIP or otherwise being pushed out. [Part of why top companies pay so well is because they have high expectations for those they hire.](https://www.reddit.com/r/cscareerquestions/comments/t2150g/-/hyjhb87)
+
 ### Principal engineers (15+ years):
 
 * Usually less than 3% of employees in a company are at this level.

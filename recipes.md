@@ -352,6 +352,14 @@ Potato + tomato + carrot + beef = baby, you've got a stew goin
     * Pressure cook 20 mins on more.
     * Mix anything below lotus roots as dipping sauce.
 
+### 可乐鸡翅 (cooking chicken wings with coke)
+
+* Lightly fry chicken wings with oil and garlic (and I think rice wine) until golden.
+* Stir fry with a bunch (it's bunched up) of green onions for a bit
+* Add 红油豆瓣 and soy sauce and about a cup of coke and continue stir frying until the coke is half evaporated.
+* Remove green onions. We don't eat that.
+* Add two chopped potatoes, a bit more (100ml) coke, and continue frying until the coke is almost all evaporated.
+
 ## Soup
 
 Potato + onion + carrot + pork = baby, you've got a soup goin

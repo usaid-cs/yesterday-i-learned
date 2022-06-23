@@ -2,6 +2,7 @@
 
 > the scientific study of language and its structure, including the study of morphology, syntax, phonetics, and semantics
 
+- In the Spanish name [*Jorge*](https://en.wikipedia.org/wiki/Jorge), the J and G sound exactly the same (`x`, like an H). The original Gs in *Georgios* (Γεώργιος) in Greek sound like a Y.
 - *Le monde* is one of the examples in French where [a word ending with *e* is masculine](https://grammar.collinsdictionary.com/french-easy-learning/gender). Other examples: *homme*, *livre* (if used to mean "book"), *mètre*.
 - "JWT" is pronounced "jot" due to shear difficulty in pronouncing it correctly.
 - [Upsetti Spaghetti](https://www.urbandictionary.com/define.php?term=Upsetti%20Spaghetti): a way to say "upset", but with more syllables.

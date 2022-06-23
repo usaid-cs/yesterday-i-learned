@@ -115,6 +115,7 @@
 - `anotherList = aList.subList(0, aList.size())` produces a [view](https://stackoverflow.com/questions/3962766/how-to-get-a-reversed-list-view-on-a-list-in-java#comment76811001_3963075) of the original list, not a copy of the list. Consequently, if you do anything to `anotherList`, it will affect the contents of `alist`. If you `Collections.reverse()` a subset of the list, for example, then the original list will have that subset reversed, as well.
 - `aList.equals(anotherList)` really checks if the two lists are the same! Wow!
 - [`string.capitalize()`](https://www.programiz.com/python-programming/methods/string/capitalize) is way too easy. Can't have that. Use Apache's [`StringUtils.capitalize()`](https://commons.apache.org/proper/commons-lang/javadocs/api-2.5/org/apache/commons/lang/StringUtils.html#capitalize%28java.lang.String%29) or [`WordUtils.capitalize`](https://commons.apache.org/proper/commons-lang/javadocs/api-2.5/org/apache/commons/lang/WordUtils.html#capitalize%28java.lang.String%29) (actually sentence case, but doesn't matter for one word) instead.
+- `Map.of(k1, v1, k2, v2, ...)` takes [at most 10 pairs of key-values](https://typeofnan.dev/how-to-create-a-map-of-more-than-10-in-java/). Because lol. You can use `Map.ofEntries(...)` to "get around" that though, but it's going to look like `Map.ofEntries(Map.entry(k1, v1), Map.entry(k2, v2), ...)`, which isn't even cleaner than plain `.put(k1, v1)` calls.
 
 ### `null`
 
@@ -215,6 +216,7 @@
 - ["Good news: private methods in interfaces look like they will make Java 9."](https://stackoverflow.com/questions/27368432/why-does-java-8-not-allow-non-public-default-methods#comment45484226_27369217) - Brian Goetz, one of the guys who's in charge of it in the first place. Anyway, with this small addition, it finally makes sense to build classes with mixins, rather than inheritance (see point about multiple inheritance).
 - Refer to objects (`I<> foo = new C<>()`) by their interfaces ("what they do"), not the class ("what they are"). It's ok if you can't find a good interface to do it with; base class is fine too. In general, limit the method scope if possible.
 - You can use `this` in a class and outside a method, e.g. `private final Logger logger = LoggerFactory.getLogger(this.getClass());` (which is very verbose for what it does, but my point stands).
+- You should [almost always program to an interface](https://stackoverflow.com/a/3194500/1558430). Yes, [often it is overkill](https://softwareengineering.stackexchange.com/a/159815). But at the same time, it is better to be wrong early on and have a way out, than to be wrong later on because it will be a much larger mess of concrete things flying around.
 
 ## Functions and methods
 
@@ -293,7 +295,7 @@
 
 ## How Java gets around having no features™
 
-- What's multiple inheritance, anyway? Java doesn't know. "Composition" is relaying a child object's methods in a "has-a" relationship. For example, if a `Person` "has-a" `Job`, then [you implement `Person.getSalary` as a forwarding method that just calls and returns `this.job.getSalary`](https://www.journaldev.com/1325/composition-in-java-example). Java developers prefer composition over inheritance, even though the language construct heavily prefers inheritance over composition. There [isn't an easy way](https://stackoverflow.com/a/17987980/1558430) to write a mixin (an interface but not really), for example.
+- What's multiple inheritance, anyway? Java doesn't know. "Composition" is relaying a child object's methods in a "has-a" relationship. For example, if a `Person` "has-a" `Job`, then [you implement `Person.getSalary` as a forwarding method that just calls and returns `this.job.getSalary`](https://www.journaldev.com/1325/composition-in-java-example). Java developers prefer composition over inheritance, even though the language construct heavily prefers inheritance over composition. There [isn't an easy way](https://stackoverflow.com/a/17987980/1558430) to write a mixin (an interface but not really), for example. *Edit: only interfaces are free to use multiple inheritance. So they know what it is, but don't want concrete classes to use it.*
 - [Telescoping constructors](https://www.vojtechruzicka.com/avoid-telescoping-constructor-pattern/) don't scale. Use the builder pattern instead.
 - Setters that `return this;` are of the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern). According to a colleague of yours, doing so instead of `return void;` has no real performance differences. [Android's `AlertDialog.Builder`](https://developer.android.com/guide/topics/ui/dialogs) is one of those.
 - Speaking of the builder pattern: it is Java's way of offering keyword arguments, without having keyword arguments. You can also go with [double brace initialisation](https://stackoverflow.com/a/1988268/1558430) (explained below) at a performance cost.
