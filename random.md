@@ -2866,3 +2866,4 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
 - "Batt" insulation is precut fibreglass or rock wool insulation.
 - Whisky is from Scotland and whiskey is from Ireland. Supposedly. At least the two would like you to think that way.
+- To create a nameless folder on Windows, visit [blanktext.net](https://blanktext.net/), copy the first Blank character from there and paste it as the folder name.
